@@ -1,0 +1,242 @@
+{
+ "source": "O*NET 30.2 Knowledge, U.S. Department of Labor, Employment and Training Administration (USDOL/ETA)",
+ "license": "CC BY 4.0, https://creativecommons.org/licenses/by/4.0/",
+ "notice": "This is a selection and reformatting of O*NET data. USDOL/ETA has not approved, endorsed or tested these changes. O*NET(R) is a trademark of USDOL/ETA.",
+ "o_net_url": "https://www.onetcenter.org/",
+ "database_release": "https://www.onetcenter.org/db_releases.html",
+ "fields": "element_id is the O*NET content-model id; name and definition are O*NET's text from Content Model Reference.txt; category and subcategory are the O*NET groups above the element (null where there is none).",
+ "count": 33,
+ "knowledge": [
+  {
+   "element_id": "2.C.1.a",
+   "name": "Administration and Management",
+   "definition": "Knowledge of business and management principles involved in strategic planning, resource allocation, human resources modeling, leadership technique, production methods, and coordination of people and resources.",
+   "category": "Business and Management",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.1.b",
+   "name": "Administrative",
+   "definition": "Knowledge of administrative and office procedures and systems such as word processing, managing files and records, stenography and transcription, designing forms, and workplace terminology.",
+   "category": "Business and Management",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.1.c",
+   "name": "Economics and Accounting",
+   "definition": "Knowledge of economic and accounting principles and practices, the financial markets, banking, and the analysis and reporting of financial data.",
+   "category": "Business and Management",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.1.d",
+   "name": "Sales and Marketing",
+   "definition": "Knowledge of principles and methods for showing, promoting, and selling products or services. This includes marketing strategy and tactics, product demonstration, sales techniques, and sales control systems.",
+   "category": "Business and Management",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.1.e",
+   "name": "Customer and Personal Service",
+   "definition": "Knowledge of principles and processes for providing customer and personal services. This includes customer needs assessment, meeting quality standards for services, and evaluation of customer satisfaction.",
+   "category": "Business and Management",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.1.f",
+   "name": "Personnel and Human Resources",
+   "definition": "Knowledge of principles and procedures for personnel recruitment, selection, training, compensation and benefits, labor relations and negotiation, and personnel information systems.",
+   "category": "Business and Management",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.2.a",
+   "name": "Production and Processing",
+   "definition": "Knowledge of raw materials, production processes, quality control, costs, and other techniques for maximizing the effective manufacture and distribution of goods.",
+   "category": "Manufacturing and Production",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.2.b",
+   "name": "Food Production",
+   "definition": "Knowledge of techniques and equipment for planting, growing, and harvesting food products (both plant and animal) for consumption, including storage/handling techniques.",
+   "category": "Manufacturing and Production",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.3.a",
+   "name": "Computers and Electronics",
+   "definition": "Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.",
+   "category": "Engineering and Technology",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.3.b",
+   "name": "Engineering and Technology",
+   "definition": "Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services.",
+   "category": "Engineering and Technology",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.3.c",
+   "name": "Design",
+   "definition": "Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models.",
+   "category": "Engineering and Technology",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.3.d",
+   "name": "Building and Construction",
+   "definition": "Knowledge of materials, methods, and the tools involved in the construction or repair of houses, buildings, or other structures such as highways and roads.",
+   "category": "Engineering and Technology",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.3.e",
+   "name": "Mechanical",
+   "definition": "Knowledge of machines and tools, including their designs, uses, repair, and maintenance.",
+   "category": "Engineering and Technology",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.4.a",
+   "name": "Mathematics",
+   "definition": "Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications.",
+   "category": "Mathematics and Science",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.4.b",
+   "name": "Physics",
+   "definition": "Knowledge and prediction of physical principles, laws, their interrelationships, and applications to understanding fluid, material, and atmospheric dynamics, and mechanical, electrical, atomic and sub-atomic structures and processes.",
+   "category": "Mathematics and Science",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.4.c",
+   "name": "Chemistry",
+   "definition": "Knowledge of the chemical composition, structure, and properties of substances and of the chemical processes and transformations that they undergo. This includes uses of chemicals and their interactions, danger signs, production techniques, and disposal methods.",
+   "category": "Mathematics and Science",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.4.d",
+   "name": "Biology",
+   "definition": "Knowledge of plant and animal organisms, their tissues, cells, functions, interdependencies, and interactions with each other and the environment.",
+   "category": "Mathematics and Science",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.4.e",
+   "name": "Psychology",
+   "definition": "Knowledge of human behavior and performance; individual differences in ability, personality, and interests; learning and motivation; psychological research methods; and the assessment and treatment of behavioral and affective disorders.",
+   "category": "Mathematics and Science",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.4.f",
+   "name": "Sociology and Anthropology",
+   "definition": "Knowledge of group behavior and dynamics, societal trends and influences, human migrations, ethnicity, cultures, and their history and origins.",
+   "category": "Mathematics and Science",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.4.g",
+   "name": "Geography",
+   "definition": "Knowledge of principles and methods for describing the features of land, sea, and air masses, including their physical characteristics, locations, interrelationships, and distribution of plant, animal, and human life.",
+   "category": "Mathematics and Science",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.5.a",
+   "name": "Medicine and Dentistry",
+   "definition": "Knowledge of the information and techniques needed to diagnose and treat human injuries, diseases, and deformities. This includes symptoms, treatment alternatives, drug properties and interactions, and preventive health-care measures.",
+   "category": "Health Services",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.5.b",
+   "name": "Therapy and Counseling",
+   "definition": "Knowledge of principles, methods, and procedures for diagnosis, treatment, and rehabilitation of physical and mental dysfunctions, and for career counseling and guidance.",
+   "category": "Health Services",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.6",
+   "name": "Education and Training",
+   "definition": "Knowledge of principles and methods for curriculum and training design, teaching and instruction for individuals and groups, and the measurement of training effects.",
+   "category": null,
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.7.a",
+   "name": "English Language",
+   "definition": "Knowledge of the structure and content of the English language including the meaning and spelling of words, and rules of composition and grammar.",
+   "category": "Arts and Humanities",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.7.b",
+   "name": "Foreign Language",
+   "definition": "Knowledge of the structure and content of a foreign (non-English) language including the meaning and spelling of words, rules of composition and grammar, and pronunciation.",
+   "category": "Arts and Humanities",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.7.c",
+   "name": "Fine Arts",
+   "definition": "Knowledge of the theory and techniques required to compose, produce, and perform works of music, dance, visual arts, drama, and sculpture.",
+   "category": "Arts and Humanities",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.7.d",
+   "name": "History and Archeology",
+   "definition": "Knowledge of historical events and their causes, indicators, and effects on civilizations and cultures.",
+   "category": "Arts and Humanities",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.7.e",
+   "name": "Philosophy and Theology",
+   "definition": "Knowledge of different philosophical systems and religions. This includes their basic principles, values, ethics, ways of thinking, customs, practices, and their impact on human culture.",
+   "category": "Arts and Humanities",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.8.a",
+   "name": "Public Safety and Security",
+   "definition": "Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions.",
+   "category": "Law and Public Safety",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.8.b",
+   "name": "Law and Government",
+   "definition": "Knowledge of laws, legal codes, court procedures, precedents, government regulations, executive orders, agency rules, and the democratic political process.",
+   "category": "Law and Public Safety",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.9.a",
+   "name": "Telecommunications",
+   "definition": "Knowledge of transmission, broadcasting, switching, control, and operation of telecommunications systems.",
+   "category": "Communications",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.9.b",
+   "name": "Communications and Media",
+   "definition": "Knowledge of media production, communication, and dissemination techniques and methods. This includes alternative ways to inform and entertain via written, oral, and visual media.",
+   "category": "Communications",
+   "subcategory": null
+  },
+  {
+   "element_id": "2.C.10",
+   "name": "Transportation",
+   "definition": "Knowledge of principles and methods for moving people or goods by air, rail, sea, or road, including the relative costs and benefits.",
+   "category": null,
+   "subcategory": null
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": "l75vqcnw5f",
+ "key": "judgment-and-decision-making",
+ "preferred_name": "Judgment and Decision Making",
+ "kind": "skill",
+ "definition": "Considering the relative costs and benefits of potential actions to choose the most appropriate one.",
+ "identifiers": [
+  {
+   "scheme": "onet-element",
+   "code": "2.B.4.e"
+  }
+ ],
+ "variants": [],
+ "relations": [],
+ "verbs": [],
+ "status": "proposed",
+ "provenance": {
+  "source": "imported from O*NET 30.2 Skills (USDOL/ETA, CC BY 4.0) onet-skills/, run 2026-11-13-onet-skills-knowledge-import",
+  "date": "2026-11-13",
+  "review": "Awaiting taxonomy owner review",
+  "reviewed_by": null
+ },
+ "evidence": [
+  {
+   "field": "kind",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.B.4.e",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "O*NET 30.2 lists it under Skills, Cross-Functional Skills, Systems Skills",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.B.4.e",
+    "method": "import",
+    "categories": [
+     "Skills",
+     "Cross-Functional Skills",
+     "Systems Skills"
+    ]
+   }
+  },
+  {
+   "field": "definition",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.B.4.e",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "the definition is O*NET 30.2's text",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.B.4.e",
+    "method": "import",
+    "categories": [
+     "Skills",
+     "Cross-Functional Skills",
+     "Systems Skills"
+    ]
+   }
+  }
+ ]
+}

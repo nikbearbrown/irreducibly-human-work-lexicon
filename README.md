@@ -21,6 +21,8 @@ The project is led by **Nik Bear Brown**. Repository copyright: **Humanitarians 
 
 The older figure of 2,472 skills included the 518 knowledge concepts. Knowledge is now a separate class: **1,954 + 518 = 2,472**.
 
+**Since this recount (2026-11-17):** O*NET 30.2's **35 skills and 33 knowledge areas** were added the way the 52 abilities were, from the same database archive ([`onet-skills/`](onet-skills/README.md), [`onet-knowledge/`](onet-knowledge/README.md)). That made 66 new `proposed` entries and matched 2 existing ones (Service orientation, Mathematics), so main now has **3,754** concepts: 1,988 skills, 550 knowledge, 67 abilities, 290 languages and 859 credentials. 199 entries are `proposed`; of 17,229 claims, 1,455 are source-backed (238 by O*NET). The tables below are still the November 14 counts; `python3 -I scripts/summary_stats.py` gives the current ones, and reports the 66 new entries as not yet Wikipedia-matched.
+
 Read the [detailed state and terminology report](docs/SKILLS-LEXICON-REPORT.md) for definitions, limitations, job-title mapping, branch results, and priorities. The [machine-readable snapshot](docs/summary-stats-2026-11-14.json) and [recount script](scripts/summary_stats.py) make these numbers reproducible.
 
 ## What kinds of skills do we have?
@@ -55,7 +57,7 @@ There are **518 entries with `kind: knowledge`**. They range from broad discipli
 | Education, arts, and humanities | Art history, Music theory, Ancient philosophy, Historical linguistics, Special education |
 | Environment and infrastructure | Climate variability and change, Renewable energy, Circular economy, Urban sustainability, Sustainable infrastructure |
 
-These are the lexicon's current classifications, not a verified import of O*NET's 33 Knowledge areas. Some assignments need correction: reviewers have flagged entries such as NFPA 70E and ABEC scale as standards rather than knowledge. See [review flags](docs/REVIEW-FLAGS.md).
+These are the lexicon's current classifications, not a verified import of O*NET's 33 Knowledge areas. O*NET's 33 areas themselves were imported separately on 2026-11-17 as 32 new entries plus the existing Mathematics; the 518 entries above are not mapped to them. Some assignments need correction: reviewers have flagged entries such as NFPA 70E and ABEC scale as standards rather than knowledge. See [review flags](docs/REVIEW-FLAGS.md).
 
 ## Abilities and occupational ratings
 
@@ -82,6 +84,8 @@ The [`abilities/`](abilities/README.md) dataset also contains:
 - A smaller six-occupation view with **312 ratings**, already included in the full set.
 
 These ratings describe occupational requirements. They are not ratings of individual workers, counts of job postings, or estimates of AI replacement.
+
+[`onet-skills/`](onet-skills/README.md) and [`onet-knowledge/`](onet-knowledge/README.md) hold the same kind of data for O*NET's 35 skills and 33 knowledge areas: the elements with their definitions and groups, and level ratings for the same 894 occupations (**31,290** skill rows and **29,502** knowledge rows). Skills are rated by analysts, like abilities; knowledge is rated mostly by job holders. O*NET has Mathematics as both a skill and a knowledge area, so the two Mathematics entries are marked `name_ambiguous`.
 
 ## Languages and credentials
 

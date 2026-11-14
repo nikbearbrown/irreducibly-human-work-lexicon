@@ -1,0 +1,79 @@
+{
+ "id": "djue9u9wey",
+ "key": "medicine-and-dentistry",
+ "preferred_name": "Medicine and Dentistry",
+ "kind": "knowledge",
+ "definition": "Knowledge of the information and techniques needed to diagnose and treat human injuries, diseases, and deformities. This includes symptoms, treatment alternatives, drug properties and interactions, and preventive health-care measures.",
+ "identifiers": [
+  {
+   "scheme": "onet-element",
+   "code": "2.C.5.a"
+  }
+ ],
+ "variants": [],
+ "relations": [],
+ "verbs": [],
+ "status": "proposed",
+ "provenance": {
+  "source": "imported from O*NET 30.2 Knowledge (USDOL/ETA, CC BY 4.0) onet-knowledge/, run 2026-11-13-onet-skills-knowledge-import",
+  "date": "2026-11-13",
+  "review": "Awaiting taxonomy owner review",
+  "reviewed_by": null
+ },
+ "evidence": [
+  {
+   "field": "kind",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.C.5.a",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "O*NET 30.2 lists it under Knowledge, Health Services",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.C.5.a",
+    "method": "import",
+    "categories": [
+     "Knowledge",
+     "Health Services"
+    ]
+   }
+  },
+  {
+   "field": "definition",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.C.5.a",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "the definition is O*NET 30.2's text",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.C.5.a",
+    "method": "import",
+    "categories": [
+     "Knowledge",
+     "Health Services"
+    ]
+   }
+  }
+ ]
+}

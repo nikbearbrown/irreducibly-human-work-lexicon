@@ -1,0 +1,79 @@
+{
+ "id": "eyk1vnlnhs",
+ "key": "public-safety-and-security",
+ "preferred_name": "Public Safety and Security",
+ "kind": "knowledge",
+ "definition": "Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions.",
+ "identifiers": [
+  {
+   "scheme": "onet-element",
+   "code": "2.C.8.a"
+  }
+ ],
+ "variants": [],
+ "relations": [],
+ "verbs": [],
+ "status": "proposed",
+ "provenance": {
+  "source": "imported from O*NET 30.2 Knowledge (USDOL/ETA, CC BY 4.0) onet-knowledge/, run 2026-11-13-onet-skills-knowledge-import",
+  "date": "2026-11-13",
+  "review": "Awaiting taxonomy owner review",
+  "reviewed_by": null
+ },
+ "evidence": [
+  {
+   "field": "kind",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.C.8.a",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "O*NET 30.2 lists it under Knowledge, Law and Public Safety",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.C.8.a",
+    "method": "import",
+    "categories": [
+     "Knowledge",
+     "Law and Public Safety"
+    ]
+   }
+  },
+  {
+   "field": "definition",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.C.8.a",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "the definition is O*NET 30.2's text",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.C.8.a",
+    "method": "import",
+    "categories": [
+     "Knowledge",
+     "Law and Public Safety"
+    ]
+   }
+  }
+ ]
+}

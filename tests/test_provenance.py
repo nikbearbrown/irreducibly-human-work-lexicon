@@ -147,13 +147,25 @@ class Classes(unittest.TestCase):
     def test_every_allowed_kind_has_a_class(self):
         self.assertTrue({L.top_class({"kind": k}) for k in L.KINDS} <= {"ability", "knowledge", "certification", "language", "skill"})
 
-    def test_the_o_net_abilities_are_abilities_and_backed_by_o_net(self):
+    def test_the_o_net_elements_have_their_class_and_are_backed_by_o_net(self):
+        # O*NET content-model ids: 1.A abilities (52), 2.A and 2.B skills (35), 2.C knowledge (33)
         entries, _ = L.load()
-        ab = [e for e in entries if any(i["scheme"] == "onet-element" for i in e.get("identifiers", []))]
-        self.assertEqual(len(ab), 52)
-        for e in ab:
-            self.assertEqual(L.top_class(e), "ability")
-            self.assertTrue(any(L.backs(v) and v["field"] == "kind" and v["organization"]["url"].startswith("https://www.onetcenter.org") for v in e["evidence"]))
+        coded = [(e, i["code"]) for e in entries for i in e.get("identifiers", []) if i["scheme"] == "onet-element"]
+        expect = {"ability": ("1.A.", 52), "skill": (("2.A.", "2.B."), 35), "knowledge": ("2.C.", 33)}
+        for cls, (prefix, n) in expect.items():
+            these = [e for e, code in coded if code.startswith(prefix)]
+            self.assertEqual(len(these), n, cls)
+            for e in these:
+                self.assertEqual(L.top_class(e), cls, e["preferred_name"])
+                self.assertTrue(any(L.backs(v) and v["field"] == "kind" and v["organization"]["url"].startswith("https://www.onetcenter.org")
+                                    for v in e["evidence"]), e["preferred_name"])
+        self.assertEqual(len(coded), 52 + 35 + 33)
+
+    def test_mathematics_is_both_an_o_net_skill_and_knowledge_area_and_the_name_is_marked_ambiguous(self):
+        entries, _ = L.load()
+        maths = [e for e in entries if e["preferred_name"].lower() == "mathematics"]
+        self.assertEqual(sorted(L.top_class(e) for e in maths), ["knowledge", "skill"])
+        self.assertTrue(all(e.get("name_ambiguous") for e in maths))
 
 
 class WebCheck(unittest.TestCase):

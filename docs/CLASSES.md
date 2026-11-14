@@ -7,14 +7,23 @@ Job listings ask for all of these in the same breath ("strong written communicat
 | Class | Defining idea | How it improves | Basis |
 |---|---|---|---|
 | **Ability** | An enduring attribute of the individual: strength, vision, coordination, spatial orientation. | Slowly, within limits set by the person; it can be trained but it has a ceiling. | O\*NET's 52 Abilities |
-| **Skill** | A developed capacity: something learned and improved with practice and instruction. | With practice and teaching; no fixed ceiling. People with certain abilities pick some skills up faster, but the skill itself is learned. | O\*NET's Skills and Knowledge, then other sources |
+| **Skill** | A developed capacity: something learned and improved with practice and instruction. | With practice and teaching; no fixed ceiling. People with certain abilities pick some skills up faster, but the skill itself is learned. | O\*NET's 35 Skills, then other sources |
 | **Knowledge** | An organised body of facts and principles a person has learned and can apply: "knowing that". Contract law, organic chemistry, network protocols. | By study; checked by explaining or answering, not by performing. | The `knowledge` kind; O\*NET's 33 Knowledge areas |
 | **Language** | A learned system of communication, human or programming. The entry names the system (Spanish, Python); what a listing asks for is *proficiency* in it, a developed capacity, so it belongs with the learned things, not with abilities. It has its own scale of levels (human languages: CEFR). | With study and use, up a level ladder. | `language_type`: `human` or `programming` |
 | **Certification** | A credential an official body attests: certification, licence, degree, clearance. | By meeting the body's requirements; it is awarded, not practised. | The body's name and a link to it |
 
 **The test, for an entry that could be either an ability or a skill:** what improves it, by how much, and is there a ceiling? An enduring attribute with a ceiling is an ability. A capacity that is built by practice is a skill.
 
-The definitions are O\*NET's: abilities are enduring attributes of the individual that influence performance; skills are developed capacities. The wording here is paraphrased from memory of the O\*NET Content Model; before it is quoted in a paper, copy the exact sentences from the O\*NET Content Model page and cite the release.
+The definitions are O\*NET's. Its own wording, from `Content Model Reference.txt` in the O\*NET 30.2 text database (copied 2026-11-13; the same file the entries cite):
+
+| Element | O\*NET 30.2 | O\*NET 31.0 |
+|---|---|---|
+| 1.A Abilities | Enduring attributes of the individual that influence performance | Natural talents and capabilities that affect how well someone can perform work. |
+| 2.A Basic Skills (31.0: Essential Skills) | Developed capacities that facilitate learning or the more rapid acquisition of knowledge | Skills you need for most jobs such as reading, writing, math, and learning. |
+| 2.B Cross-Functional Skills (31.0: Transferable Skills) | Developed capacities that facilitate performance of activities that occur across jobs | Skills you can use across different jobs such as communication, problem solving, and team work. |
+| 2.C Knowledge | Organized sets of principles and facts applying in general domains | Information and understanding used across different areas of work. |
+
+31.0 rewrote these group descriptions in plain language and dropped "enduring" and "developed capacities", the words this page's distinction rests on; the 120 element definitions underneath did not change. Quote 30.2 for the distinction and say so, or quote 31.0 and note that its wording no longer states it. For a paper, also cite the O\*NET Content Model page itself, which this file does not replace.
 
 ## Knowledge, skill, ability and other characteristics (KSAO)
 
@@ -35,7 +44,7 @@ The two layers line up imperfectly: O\*NET has the ability "Oral Expression" and
 ## Open items
 
 1. **A class for personal characteristics.** Industrial-organisational psychology's KSAO frame (knowledge, skills, abilities, **other characteristics**) has a place for self-starter, detail-oriented, patient and team player. Those are dispositions, neither abilities nor skills. About 15 entries in the ability class are not O\*NET abilities, and several of these (Adaptability, Self-starter, Patience) are really dispositions. They should move to their own class once it exists.
-2. **Knowledge versus skill.** Knowing about something is not the same as being able to do it. The `knowledge` kind already marks this; the class column does not yet.
+2. **Knowledge versus skill.** Knowing about something is not the same as being able to do it. The `knowledge` kind already marks this; the class column does not yet. O\*NET shows the pair directly: Mathematics is both a skill (2.A.1.e, "Using mathematics to solve problems.") and a knowledge area (2.C.4.a, "Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications."). The lexicon keeps both as entries named Mathematics, each marked `name_ambiguous`, so a listing that says "mathematics" is reported as unresolved rather than counted as one of them.
 3. **The skill-to-ability relation (`draws_on`)**, as above.
 
 4. **Evidence of capability, and years of experience as an amount of it.** Knowledge, skills and abilities are what a person has; portfolios, publications, projects, references, assessments and certifications are evidence of them, and a listing often asks for the evidence by name ("portfolio required", "5+ years"). The idea recorded here: years of experience can be read as *a lot or a little evidence* for a capability. If it is built, keep it as a stated quantity (bands such as under 1, 1 to 3, 3 to 5, over 5 years, with the mapping written down), attach it to the capability and not to the person as a whole, treat it as the weakest kind of evidence (self-reported, silent on quality), and count independent kinds of evidence (a portfolio, a reference and a certification together) in preference to adding up years. Do not collapse it into one score until a scheme has been tested against real outcomes. Not built; may belong in a separate paper.

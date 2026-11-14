@@ -1,0 +1,81 @@
+{
+ "id": "rdtwc1bnps",
+ "key": "speaking",
+ "preferred_name": "Speaking",
+ "kind": "skill",
+ "definition": "Talking to others to convey information effectively.",
+ "identifiers": [
+  {
+   "scheme": "onet-element",
+   "code": "2.A.1.d"
+  }
+ ],
+ "variants": [],
+ "relations": [],
+ "verbs": [],
+ "status": "proposed",
+ "provenance": {
+  "source": "imported from O*NET 30.2 Skills (USDOL/ETA, CC BY 4.0) onet-skills/, run 2026-11-13-onet-skills-knowledge-import",
+  "date": "2026-11-13",
+  "review": "Awaiting taxonomy owner review",
+  "reviewed_by": null
+ },
+ "evidence": [
+  {
+   "field": "kind",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.A.1.d",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "O*NET 30.2 lists it under Skills, Basic Skills, Content",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.A.1.d",
+    "method": "import",
+    "categories": [
+     "Skills",
+     "Basic Skills",
+     "Content"
+    ]
+   }
+  },
+  {
+   "field": "definition",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.A.1.d",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "the definition is O*NET 30.2's text",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.A.1.d",
+    "method": "import",
+    "categories": [
+     "Skills",
+     "Basic Skills",
+     "Content"
+    ]
+   }
+  }
+ ]
+}

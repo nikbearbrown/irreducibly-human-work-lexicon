@@ -50,6 +50,19 @@ def main():
     with (ROOT / 'abilities/onet-ability-ratings-all-occupations.csv').open(encoding='utf-8', newline='') as f:
         ratings = list(csv.DictReader(f))
     votes = jsonl(ROOT / 'data/assessments.jsonl')
+    resolved = jsonl(ROOT / 'data/wikipedia-match/20261001/resolved.jsonl')   # entries added after the 20261001 run have no row
+    onet_more = {}
+    for name, folder, elements, ratings_csv in (('skills', 'onet-skills', 'onet-skills.json', 'onet-skill-ratings-all-occupations.csv'),
+                                                ('knowledge', 'onet-knowledge', 'onet-knowledge.json', 'onet-knowledge-ratings-all-occupations.csv')):
+        els = json.loads((ROOT / folder / elements).read_text('utf-8'))[name]
+        with (ROOT / folder / ratings_csv).open(encoding='utf-8', newline='') as f:
+            rows = list(csv.DictReader(f))
+        onet_more[name] = {'definitions': len(els), 'categories': tally(a['category'] or '(none)' for a in els),
+                           'rated_occupations': len({r['soc_code'] for r in rows}), 'rating_rows': len(rows),
+                           'suppressed_rows': sum(r['recommend_suppress'] == 'true' for r in rows),
+                           'not_relevant_rows': sum(r['not_relevant'] == 'true' for r in rows),
+                           'entries': sum(any(i['scheme'] == 'onet-element' and i['code'] in {a['element_id'] for a in els}
+                                              for i in e.get('identifiers', [])) for e in entries)}
     result = {
         'entries': len(entries),
         'classes': tally(L.top_class(e) for e in entries),
@@ -72,19 +85,22 @@ def main():
                         'decision_only': len((tags & decided) - forms), 'unresolved': len(tags - forms - decided),
                         'decision_records': tally(d['decision'] for d in decisions),
                         'distinct_per_file': {f: len(T.read_tags(ROOT, [f])) for f in [T.TAGS] + list(T.LISTS.values())}},
-        'wikipedia_resolved': tally(r['relation'] for r in jsonl(ROOT / 'data/wikipedia-match/20261001/resolved.jsonl')),
+        'wikipedia_resolved': tally(r['relation'] for r in resolved),
+        'wikipedia_not_yet_matched': len({e['id'] for e in entries} - {r['entry_id'] for r in resolved}),
         'onet_abilities': {'definitions': len(abilities), 'categories': tally(a['category'] for a in abilities),
                            'occupation_titles': len(occupations), 'rated_occupations': len({r['soc_code'] for r in ratings}),
                            'rating_rows': len(ratings), 'unique_occupation_ability_pairs': len({(r['soc_code'], r['element_id']) for r in ratings}),
                            'suppressed_rows': sum(r['recommend_suppress'] == 'true' for r in ratings),
                            'not_relevant_rows': sum(r['not_relevant'] == 'true' for r in ratings)},
+        'onet_skills': onet_more['skills'],
+        'onet_knowledge': onet_more['knowledge'],
         'credential_scope': tally(e.get('certification_scope', 'unset') for e in entries if e['kind'] == 'credential'),
         'language_type_flags': tally(e.get('language_type', 'unset') for e in entries if L.top_class(e) == 'language'),
         'validation_errors': 0,
     }
     assert sum(result['classes'].values()) == len(entries)
     assert sum(result['kinds'].values()) == len(entries)
-    assert sum(result['wikipedia_resolved'].values()) == len(entries)
+    assert sum(result['wikipedia_resolved'].values()) + result['wikipedia_not_yet_matched'] == len(entries)
     print(json.dumps(result, indent=2, ensure_ascii=False))
 
 

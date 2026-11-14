@@ -243,6 +243,40 @@
    "outcome": "supports",
    "date": "2026-10-31",
    "run": "2026-10-31-desc-check-c"
+  },
+  {
+   "field": "kind",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.C.4.a",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "O*NET 30.2 lists 'Mathematics' under Knowledge, Mathematics and Science. Drafted definition kept; O*NET's: Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications.",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.C.4.a",
+    "method": "import",
+    "categories": [
+     "Knowledge",
+     "Mathematics and Science"
+    ]
+   }
+  }
+ ],
+ "name_ambiguous": true,
+ "identifiers": [
+  {
+   "scheme": "onet-element",
+   "code": "2.C.4.a"
   }
  ]
 }

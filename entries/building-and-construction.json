@@ -1,0 +1,79 @@
+{
+ "id": "rj4nlg4ir5",
+ "key": "building-and-construction",
+ "preferred_name": "Building and Construction",
+ "kind": "knowledge",
+ "definition": "Knowledge of materials, methods, and the tools involved in the construction or repair of houses, buildings, or other structures such as highways and roads.",
+ "identifiers": [
+  {
+   "scheme": "onet-element",
+   "code": "2.C.3.d"
+  }
+ ],
+ "variants": [],
+ "relations": [],
+ "verbs": [],
+ "status": "proposed",
+ "provenance": {
+  "source": "imported from O*NET 30.2 Knowledge (USDOL/ETA, CC BY 4.0) onet-knowledge/, run 2026-11-13-onet-skills-knowledge-import",
+  "date": "2026-11-13",
+  "review": "Awaiting taxonomy owner review",
+  "reviewed_by": null
+ },
+ "evidence": [
+  {
+   "field": "kind",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.C.3.d",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "O*NET 30.2 lists it under Knowledge, Engineering and Technology",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.C.3.d",
+    "method": "import",
+    "categories": [
+     "Knowledge",
+     "Engineering and Technology"
+    ]
+   }
+  },
+  {
+   "field": "definition",
+   "by": "source:onet-30.2",
+   "action": "matched_source",
+   "kind": "onet",
+   "verification": "dump-match",
+   "outcome": "supports",
+   "ref": "onet:2.C.3.d",
+   "date": "2026-11-13",
+   "run": "2026-11-13-onet-skills-knowledge-import",
+   "note": "the definition is O*NET 30.2's text",
+   "organization": {
+    "name": "O*NET, U.S. Department of Labor, Employment and Training Administration",
+    "url": "https://www.onetcenter.org/",
+    "type": "government",
+    "country": "US"
+   },
+   "match": {
+    "dataset": "onet-30.2",
+    "dataset_id": "2.C.3.d",
+    "method": "import",
+    "categories": [
+     "Knowledge",
+     "Engineering and Technology"
+    ]
+   }
+  }
+ ]
+}

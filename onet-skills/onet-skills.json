@@ -1,0 +1,256 @@
+{
+ "source": "O*NET 30.2 Skills, U.S. Department of Labor, Employment and Training Administration (USDOL/ETA)",
+ "license": "CC BY 4.0, https://creativecommons.org/licenses/by/4.0/",
+ "notice": "This is a selection and reformatting of O*NET data. USDOL/ETA has not approved, endorsed or tested these changes. O*NET(R) is a trademark of USDOL/ETA.",
+ "o_net_url": "https://www.onetcenter.org/",
+ "database_release": "https://www.onetcenter.org/db_releases.html",
+ "fields": "element_id is the O*NET content-model id; name and definition are O*NET's text from Content Model Reference.txt; category and subcategory are the O*NET groups above the element (null where there is none).",
+ "count": 35,
+ "skills": [
+  {
+   "element_id": "2.A.1.a",
+   "name": "Reading Comprehension",
+   "definition": "Understanding written sentences and paragraphs in work-related documents.",
+   "category": "Basic Skills",
+   "subcategory": "Content"
+  },
+  {
+   "element_id": "2.A.1.b",
+   "name": "Active Listening",
+   "definition": "Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.",
+   "category": "Basic Skills",
+   "subcategory": "Content"
+  },
+  {
+   "element_id": "2.A.1.c",
+   "name": "Writing",
+   "definition": "Communicating effectively in writing as appropriate for the needs of the audience.",
+   "category": "Basic Skills",
+   "subcategory": "Content"
+  },
+  {
+   "element_id": "2.A.1.d",
+   "name": "Speaking",
+   "definition": "Talking to others to convey information effectively.",
+   "category": "Basic Skills",
+   "subcategory": "Content"
+  },
+  {
+   "element_id": "2.A.1.e",
+   "name": "Mathematics",
+   "definition": "Using mathematics to solve problems.",
+   "category": "Basic Skills",
+   "subcategory": "Content"
+  },
+  {
+   "element_id": "2.A.1.f",
+   "name": "Science",
+   "definition": "Using scientific rules and methods to solve problems.",
+   "category": "Basic Skills",
+   "subcategory": "Content"
+  },
+  {
+   "element_id": "2.A.2.a",
+   "name": "Critical Thinking",
+   "definition": "Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems.",
+   "category": "Basic Skills",
+   "subcategory": "Process"
+  },
+  {
+   "element_id": "2.A.2.b",
+   "name": "Active Learning",
+   "definition": "Understanding the implications of new information for both current and future problem-solving and decision-making.",
+   "category": "Basic Skills",
+   "subcategory": "Process"
+  },
+  {
+   "element_id": "2.A.2.c",
+   "name": "Learning Strategies",
+   "definition": "Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.",
+   "category": "Basic Skills",
+   "subcategory": "Process"
+  },
+  {
+   "element_id": "2.A.2.d",
+   "name": "Monitoring",
+   "definition": "Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.",
+   "category": "Basic Skills",
+   "subcategory": "Process"
+  },
+  {
+   "element_id": "2.B.1.a",
+   "name": "Social Perceptiveness",
+   "definition": "Being aware of others' reactions and understanding why they react as they do.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Social Skills"
+  },
+  {
+   "element_id": "2.B.1.b",
+   "name": "Coordination",
+   "definition": "Adjusting actions in relation to others' actions.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Social Skills"
+  },
+  {
+   "element_id": "2.B.1.c",
+   "name": "Persuasion",
+   "definition": "Persuading others to change their minds or behavior.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Social Skills"
+  },
+  {
+   "element_id": "2.B.1.d",
+   "name": "Negotiation",
+   "definition": "Bringing others together and trying to reconcile differences.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Social Skills"
+  },
+  {
+   "element_id": "2.B.1.e",
+   "name": "Instructing",
+   "definition": "Teaching others how to do something.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Social Skills"
+  },
+  {
+   "element_id": "2.B.1.f",
+   "name": "Service Orientation",
+   "definition": "Actively looking for ways to help people.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Social Skills"
+  },
+  {
+   "element_id": "2.B.2.i",
+   "name": "Complex Problem Solving",
+   "definition": "Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Complex Problem Solving Skills"
+  },
+  {
+   "element_id": "2.B.3.a",
+   "name": "Operations Analysis",
+   "definition": "Analyzing needs and product requirements to create a design.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.b",
+   "name": "Technology Design",
+   "definition": "Generating or adapting equipment and technology to serve user needs.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.c",
+   "name": "Equipment Selection",
+   "definition": "Determining the kind of tools and equipment needed to do a job.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.d",
+   "name": "Installation",
+   "definition": "Installing equipment, machines, wiring, or programs to meet specifications.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.e",
+   "name": "Programming",
+   "definition": "Writing computer programs for various purposes.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.g",
+   "name": "Operations Monitoring",
+   "definition": "Watching gauges, dials, or other indicators to make sure a machine is working properly.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.h",
+   "name": "Operation and Control",
+   "definition": "Controlling operations of equipment or systems.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.j",
+   "name": "Equipment Maintenance",
+   "definition": "Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.k",
+   "name": "Troubleshooting",
+   "definition": "Determining causes of operating errors and deciding what to do about it.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.l",
+   "name": "Repairing",
+   "definition": "Repairing machines or systems using the needed tools.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.3.m",
+   "name": "Quality Control Analysis",
+   "definition": "Conducting tests and inspections of products, services, or processes to evaluate quality or performance.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Technical Skills"
+  },
+  {
+   "element_id": "2.B.4.e",
+   "name": "Judgment and Decision Making",
+   "definition": "Considering the relative costs and benefits of potential actions to choose the most appropriate one.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Systems Skills"
+  },
+  {
+   "element_id": "2.B.4.g",
+   "name": "Systems Analysis",
+   "definition": "Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Systems Skills"
+  },
+  {
+   "element_id": "2.B.4.h",
+   "name": "Systems Evaluation",
+   "definition": "Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Systems Skills"
+  },
+  {
+   "element_id": "2.B.5.a",
+   "name": "Time Management",
+   "definition": "Managing one's own time and the time of others.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Resource Management Skills"
+  },
+  {
+   "element_id": "2.B.5.b",
+   "name": "Management of Financial Resources",
+   "definition": "Determining how money will be spent to get the work done, and accounting for these expenditures.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Resource Management Skills"
+  },
+  {
+   "element_id": "2.B.5.c",
+   "name": "Management of Material Resources",
+   "definition": "Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Resource Management Skills"
+  },
+  {
+   "element_id": "2.B.5.d",
+   "name": "Management of Personnel Resources",
+   "definition": "Motivating, developing, and directing people as they work, identifying the best people for the job.",
+   "category": "Cross-Functional Skills",
+   "subcategory": "Resource Management Skills"
+  }
+ ]
+}

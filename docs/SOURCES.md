@@ -17,8 +17,8 @@ Sources in use or planned. "On the cluster" means a raw copy at `/projects/aisku
 
 | Source | Release | Licence | Used for | Status |
 |---|---|---|---|---|
-| O\*NET | 30.2 | CC BY 4.0 | the 52 abilities and their ratings, already in the repository | in the repository; also on the cluster |
-| O\*NET | 31.0 (current) | CC BY 4.0 | skills, knowledge, technology skills with Hot Technology and In Demand flags | on the cluster, not yet used. 31.0 renamed tables: Skills is now Essential Skills and Transferable Skills, and Technology Skills is Software Skills. Claims must say which release they come from |
+| O\*NET | 30.2 | CC BY 4.0 | the 52 abilities, 35 skills and 33 knowledge areas, and their level ratings | in the repository (`abilities/`, `onet-skills/`, `onet-knowledge/`); also on the cluster |
+| O\*NET | 31.0 (current) | CC BY 4.0 | technology skills with Hot Technology and In Demand flags | on the cluster, not yet used. 31.0 renamed tables: Skills is now Essential Skills and Transferable Skills, and Technology Skills is Software Skills. Its 35 skills and 33 knowledge areas have the same element ids and definitions as 30.2 (checked 2026-11-13), so the entries cite 30.2, like the abilities. Claims must say which release they come from |
 | English Wikipedia dump | 20261001 | CC BY-SA 4.0 | article matches, descriptions, categories | in the repository (matches and 1,217 descriptions); dump on the cluster |
 | Princeton WordNet | 3.1 | WordNet License (notice kept with the data; the licence text is the header of each data file) | synonyms, hypernyms, glosses | on the cluster, not yet used |
 | Open English WordNet | 2025 | CC BY 4.0 (derived from the WordNet License) | the same, maintained and newer | on the cluster, not yet used |
