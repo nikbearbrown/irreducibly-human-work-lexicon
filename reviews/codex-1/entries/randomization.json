@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Randomization uses chance to assign treatments, choose observations, or vary order according to a stated procedure.",
+  "entry_text": "Randomization uses chance to assign treatments, choose observations, or vary order according to a stated procedure.",
+  "entry_text_kind": "definition",
+  "example": "A study randomly assigns participants to two conditions.",
+  "id": "t2pw81w7vy",
+  "key": "randomization",
+  "label": "Randomization",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

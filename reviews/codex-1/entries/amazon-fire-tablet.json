@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An Amazon Fire tablet is a touchscreen device that runs Fire OS and supports apps and media consumption.",
+  "entry_text": "An Amazon Fire tablet is a touchscreen device that runs Fire OS and supports apps and media consumption.",
+  "entry_text_kind": "definition",
+  "example": "A tester checks that an interactive reading app displays correctly on a Fire tablet.",
+  "id": "w5g4r0jtmy",
+  "key": "amazon-fire-tablet",
+  "label": "Amazon Fire tablet",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

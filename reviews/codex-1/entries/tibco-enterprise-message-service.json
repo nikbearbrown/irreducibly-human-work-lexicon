@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "TIBCO Enterprise Message Service is enterprise messaging middleware that implements Java Message Service APIs and supports queues and topics.",
+  "entry_text": "TIBCO Enterprise Message Service is enterprise messaging middleware that implements Java Message Service APIs and supports queues and topics.",
+  "entry_text_kind": "definition",
+  "example": "An order service publishes a message to a queue for later processing by another application.",
+  "id": "ghalca0lm7",
+  "key": "tibco-enterprise-message-service",
+  "label": "TIBCO Enterprise Message Service",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

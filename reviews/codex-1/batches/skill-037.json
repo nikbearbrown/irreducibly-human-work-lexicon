@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "nozav31cgp",
+    "key": "provenance",
+    "label": "Data provenance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "angs2qsya4",
+    "key": "public-key-cryptography-standards",
+    "label": "Public-Key Cryptography Standards",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wpe22ejvkt",
+    "key": "pug",
+    "label": "Pug",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yzx7utgq81",
+    "key": "punctuation",
+    "label": "Punctuation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zu2ca90t34",
+    "key": "puphpet",
+    "label": "PuPHPet",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l843486lg0",
+    "key": "puppet",
+    "label": "Puppet",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "aoyn4kei0h",
+    "key": "puppeteer",
+    "label": "Puppeteer",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y12yaa93sz",
+    "key": "putty",
+    "label": "PuTTY",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wrobx5q3f7",
+    "key": "pymongo",
+    "label": "PyMongo",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pqs7no75hv",
+    "key": "pytables",
+    "label": "PyTables",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kdr2xylcht",
+    "key": "python-for-data-analysis",
+    "label": "Python for data analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hpj10pgto9",
+    "key": "python-server-pages",
+    "label": "Python Server Pages",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ne5dlxqhw0",
+    "key": "python-tools-for-visual-studio",
+    "label": "Python Tools for Visual Studio",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ipe556x4k6",
+    "key": "pytorch",
+    "label": "PyTorch",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ujzh92ndhy",
+    "key": "qarun",
+    "label": "QARun",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m4cw90r7i6",
+    "key": "qlik-sense",
+    "label": "Qlik Sense",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jv24uy22gz",
+    "key": "qlikview",
+    "label": "QlikView",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n5gs71bpv0",
+    "key": "qs-1",
+    "label": "QS/1",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q12fvgzu4o",
+    "key": "qualitative-data-analysis",
+    "label": "Qualitative data analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tv1zjnzlo0",
+    "key": "queue-management-system",
+    "label": "Queue management system",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n2pwh7zakj",
+    "key": "quicktime-vr",
+    "label": "QuickTime VR",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ixq8ik77aq",
+    "key": "qumu",
+    "label": "Qumu",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "goxs4gp6w3",
+    "key": "quotewerks",
+    "label": "QuoteWerks",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e7mr0f9vmv",
+    "key": "rack-elevation-drawings",
+    "label": "Rack elevation drawings",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zxk5s65tvb",
+    "key": "radare2",
+    "label": "Radare2",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a18n6zcx8m",
+    "key": "rally-software",
+    "label": "Rally Software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eswkykkgp8",
+    "key": "rancher",
+    "label": "Rancher",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ws8dcvyb8p",
+    "key": "random-forest",
+    "label": "Random forest",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a65p6wgs2q",
+    "key": "random-testing",
+    "label": "Random testing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t2pw81w7vy",
+    "key": "randomization",
+    "label": "Randomization",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mmk671rf9a",
+    "key": "ravendb",
+    "label": "RavenDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ly9pv45gt7",
+    "key": "ray-tracing",
+    "label": "Ray tracing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hjzieo2ohv",
+    "key": "react",
+    "label": "React",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "isdz1w83kv",
+    "key": "reactivex",
+    "label": "ReactiveX",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rmkqenma3p",
+    "key": "reading-gauges",
+    "label": "Reading gauges",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kbdcdytq6a",
+    "key": "reading-technical-drawings",
+    "label": "Reading technical drawings",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vu3qxyu8ov",
+    "key": "reading-to-children",
+    "label": "Reading to children",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j4u2uvtmvj",
+    "key": "readyapi",
+    "label": "ReadyAPI",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p08u5bg76s",
+    "key": "real-estate-market-analysis",
+    "label": "Real estate market analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "humax3ssc0",
+    "key": "recruitment-consulting",
+    "label": "Recruitment consulting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

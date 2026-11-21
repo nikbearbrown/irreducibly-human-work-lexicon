@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The No Child Left Behind Act was a U.S. education law that emphasized standards-based testing, accountability and reporting in federally supported elementary and secondary education.",
+  "entry_text": "The No Child Left Behind Act was a U.S. education law that emphasized standards-based testing, accountability and reporting in federally supported elementary and secondary education.",
+  "entry_text_kind": "definition",
+  "example": "A district reported test results and subgroup performance under the law's accountability system.",
+  "id": "p4z7mcyc0n",
+  "key": "no-child-left-behind-act",
+  "label": "No Child Left Behind Act",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical law; do not infer that its provisions still control.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

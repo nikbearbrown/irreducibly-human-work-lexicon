@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An Apple-specified Bluetooth Low Energy beacon format that lets compatible devices identify nearby transmitters.",
+  "entry_text": "An Apple-specified Bluetooth Low Energy beacon format that lets compatible devices identify nearby transmitters.",
+  "entry_text_kind": "definition",
+  "example": "A museum app detects a nearby beacon and offers information about an exhibit.",
+  "id": "qz19nh82dh",
+  "key": "ibeacon",
+  "label": "iBeacon",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label is better understood as a protocol and ecosystem than a standalone platform.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

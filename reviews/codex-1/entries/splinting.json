@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Splinting supports, protects, or limits movement of a body part using an external device.",
+  "entry_text": "Splinting supports, protects, or limits movement of a body part using an external device.",
+  "entry_text_kind": "definition",
+  "example": "A clinician fits a hand splint to protect an injured joint during healing.",
+  "id": "rd9kj3ke0r",
+  "key": "splinting",
+  "label": "Splinting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Chlorofluorocarbons are compounds containing carbon, chlorine, and fluorine that can deplete stratospheric ozone after breaking down and releasing chlorine.",
+  "entry_text": "Chlorofluorocarbons are compounds containing carbon, chlorine, and fluorine that can deplete stratospheric ozone after breaking down and releasing chlorine.",
+  "entry_text_kind": "definition",
+  "example": "A technician identifies a legacy refrigerant as a CFC when documenting equipment for proper disposal.",
+  "id": "n2hw22jw1r",
+  "key": "chlorofluorocarbons",
+  "label": "Chlorofluorocarbons",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

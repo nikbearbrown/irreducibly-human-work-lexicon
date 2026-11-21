@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A California law prohibiting specified types of discrimination in employment and housing.",
+  "entry_text": "A California law prohibiting specified types of discrimination in employment and housing.",
+  "entry_text_kind": "definition",
+  "example": "An employer reviews its policies for issues governed by the California Fair Employment and Housing Act.",
+  "id": "g0mmhmhuoe",
+  "key": "fair-employment-and-housing-act",
+  "label": "Fair Employment and Housing Act",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

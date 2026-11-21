@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-005.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Food safety comprises practices and controls that prevent food from harming consumers.",
+  "entry_text": "Food safety comprises practices and controls that prevent food from harming consumers.",
+  "entry_text_kind": "definition",
+  "example": "A cafeteria keeps raw ingredients separate from prepared salads.",
+  "id": "dd2h4imy46",
+  "key": "food-safety",
+  "label": "Food safety",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

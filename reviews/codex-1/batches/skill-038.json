@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "y6729eqjad",
+    "key": "red-teaming",
+    "label": "Red teaming",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ov31uuzu8o",
+    "key": "redcap",
+    "label": "REDCap",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nsadh0t31u",
+    "key": "reduction-complexity",
+    "label": "Reduction (complexity)",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zkolcng2pi",
+    "key": "refrigerated-transport",
+    "label": "Refrigerated transport",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ax65pgi63u",
+    "key": "regulatory-cmc",
+    "label": "Regulatory CMC",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r5kwam4bm9",
+    "key": "reinforcement-learning",
+    "label": "Reinforcement learning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n3q48ginr2",
+    "key": "reltio",
+    "label": "Reltio",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rtsyeenys6",
+    "key": "renewable-energy-sales",
+    "label": "Renewable energy sales",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hllkkrms0o",
+    "key": "reporting",
+    "label": "Reporting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uhwnqf48he",
+    "key": "representational-state-transfer",
+    "label": "Representational State Transfer",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j8m25rqleq",
+    "key": "requirejs",
+    "label": "RequireJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tbtzl802aq",
+    "key": "resharper",
+    "label": "ReSharper",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z65i1huof4",
+    "key": "resilience-planning",
+    "label": "Resilience planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sp5rc8npa7",
+    "key": "resolving-guest-concerns",
+    "label": "Resolving guest concerns",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pwau7gon42",
+    "key": "resorcerer",
+    "label": "Resorcerer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d9otmo55ix",
+    "key": "resource-mobilization",
+    "label": "Resource mobilization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ulrodzi19v",
+    "key": "responsibility-assignment-matrix",
+    "label": "Responsibility assignment matrix",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v046w359dh",
+    "key": "responsive-teaching",
+    "label": "Responsive teaching",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xodwbue4v1",
+    "key": "rest-api-security",
+    "label": "REST API security",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w1jmbwuvdp",
+    "key": "restaurant-management",
+    "label": "Restaurant management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nccdsjj4uv",
+    "key": "restorative-justice",
+    "label": "Restorative justice",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ywsbnez7wv",
+    "key": "rethinkdb",
+    "label": "RethinkDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tq6vfkwyq9",
+    "key": "retirement-administration",
+    "label": "Retirement administration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zoh6kna5kw",
+    "key": "retrieval-augmented-generation",
+    "label": "Retrieval-augmented generation",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iar9iwxac2",
+    "key": "return-to-work-management",
+    "label": "Return-to-work management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gomxwo1cp5",
+    "key": "revising-legal-documents",
+    "label": "Revising legal documents",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zaf4cp0v71",
+    "key": "rhinoceros-3d",
+    "label": "Rhinoceros 3D",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h3rgr8cl42",
+    "key": "ribosomal-intergenic-spacer-analysis",
+    "label": "Ribosomal intergenic spacer analysis",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mli7805zvm",
+    "key": "rigging-computer-animation",
+    "label": "Rigging (computer animation)",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "brtkhngp2g",
+    "key": "right-to-financial-privacy-act",
+    "label": "Right to Financial Privacy Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u39qcl6iyj",
+    "key": "rightnow-crm",
+    "label": "RightNow CRM",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ty5fbrdgox",
+    "key": "riot-js",
+    "label": "Riot.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fq4f1o6rvq",
+    "key": "risa-3d",
+    "label": "RISA-3D",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c8wpsdiotb",
+    "key": "risk-adjustment-coding",
+    "label": "Risk adjustment coding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wg63b9wswc",
+    "key": "risk-aggregation",
+    "label": "Risk aggregation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kdkvzqst2k",
+    "key": "risk-awareness",
+    "label": "Risk awareness",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eqjxogag29",
+    "key": "risk-exposure-assessment",
+    "label": "Risk exposure assessment",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e4v06p95c7",
+    "key": "risk-management-planning",
+    "label": "Risk management planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xf09syrc3y",
+    "key": "risk-management",
+    "label": "Risk management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ph4yuxrwsd",
+    "key": "robomongo",
+    "label": "Robomongo",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

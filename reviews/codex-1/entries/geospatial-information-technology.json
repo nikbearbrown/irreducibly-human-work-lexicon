@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-006.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Geospatial information technology comprises tools and methods for collecting, managing, analyzing and displaying geographically referenced information.",
+  "entry_text": "Geospatial information technology comprises tools and methods for collecting, managing, analyzing and displaying geographically referenced information.",
+  "entry_text_kind": "definition",
+  "example": "An emergency management team combines satellite imagery, mapping software and field observations to track flooding.",
+  "id": "fwmyaf5wxw",
+  "key": "geospatial-information-technology",
+  "label": "Geospatial information technology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

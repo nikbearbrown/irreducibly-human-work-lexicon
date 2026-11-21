@@ -1,0 +1,8 @@
+[
+  {
+    "id": "j0bdoceeet",
+    "result": "supports",
+    "ref": "https://webstore.iec.ch/en/publication/68533",
+    "note": "IEC 61131-3:2025 identifies Ladder Diagram (LD) as a graphical programming language for programmable controllers. Rockwell's current-topic programming manual confirms rungs, conditions, and output instructions: https://literature.rockwellautomation.com/idc/groups/literature/documents/pm/1756-pm008_-en-p.pdf (chapter 1). The older controller manual, chapter 3 figure 3.1, distinguishes PLC rungs, which encode evaluated instructions, from their visually similar hard-wired relay schematics: https://literature.rockwellautomation.com/idc/groups/literature/documents/um/1745-um001_-en-p.pdf. Supports the definition and programming-language kind, not an unrestricted alias or the specific illustrative conveyor example."
+  }
+]

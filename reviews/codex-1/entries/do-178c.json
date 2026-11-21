@@ -1,0 +1,28 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An aviation software assurance standard that defines objectives for developing and verifying airborne software.",
+  "entry_text": "An aviation software assurance standard that defines objectives for developing and verifying airborne software.",
+  "entry_text_kind": "definition",
+  "example": "An avionics supplier traces safety-related requirements to their software verification evidence.",
+  "id": "xblbioz2d4",
+  "key": "do-178c",
+  "label": "DO-178C",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "xblbioz2d4",
+      "note": "Sections 4 and 6 explain DO-178C lifecycle objectives, activities and evidence for airborne software. FAA treats it as an acceptable means, not itself a regulation.",
+      "packet": "worker-technical-skills.json",
+      "ref": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_20-115D.pdf",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

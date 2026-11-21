@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Applications that support finance functions such as accounting, budgeting, reporting, or financial analysis.",
+  "entry_text": "Applications that support finance functions such as accounting, budgeting, reporting, or financial analysis.",
+  "entry_text_kind": "definition",
+  "example": "A controller uses finance software to reconcile ledger balances and prepare reports.",
+  "id": "hj9hq9169z",
+  "key": "finance-software",
+  "label": "Finance software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

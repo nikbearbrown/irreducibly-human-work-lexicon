@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "TCID50 is a measure of infectivity defined by the dose estimated to produce detectable infection in half of the tissue culture test units.",
+  "entry_text": "TCID50 is a measure of infectivity defined by the dose estimated to produce detectable infection in half of the tissue culture test units.",
+  "entry_text_kind": "definition",
+  "example": "A reader distinguishes a published TCID50 result from a count of physical particles.",
+  "id": "mo4nl9t5c8",
+  "key": "50-tissue-culture-infectious-dose-tcid50",
+  "label": "50% tissue culture infectious dose (TCID50)",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

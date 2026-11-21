@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Antivirus software identifies and helps contain malicious programs or files through scanning and monitoring.",
+  "entry_text": "Antivirus software identifies and helps contain malicious programs or files through scanning and monitoring.",
+  "entry_text_kind": "definition",
+  "example": "An endpoint agent quarantines a flagged attachment so a security team can review it.",
+  "id": "cs0zix8jdm",
+  "key": "antivirus-software",
+  "label": "Antivirus software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

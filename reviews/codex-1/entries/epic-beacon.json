@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An Epic electronic health record application for oncology workflows and treatment planning.",
+  "entry_text": "An Epic electronic health record application for oncology workflows and treatment planning.",
+  "entry_text_kind": "definition",
+  "example": "An oncology team reviews a patient's treatment plan in Epic Beacon.",
+  "id": "lfl8vfghrk",
+  "key": "epic-beacon",
+  "label": "Epic Beacon",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

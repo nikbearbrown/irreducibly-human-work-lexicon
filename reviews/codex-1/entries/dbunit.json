@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A Java library for testing database-dependent code with repeatable datasets and database-state assertions.",
+  "entry_text": "A Java library for testing database-dependent code with repeatable datasets and database-state assertions.",
+  "entry_text_kind": "definition",
+  "example": "A test suite loads known records before checking a repository method.",
+  "id": "ey99gk851b",
+  "key": "dbunit",
+  "label": "DbUnit",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

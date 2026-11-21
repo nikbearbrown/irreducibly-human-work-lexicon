@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "TensorFlow is an open-source machine learning platform for representing tensor computations and building, training, or deploying models.",
+  "entry_text": "TensorFlow is an open-source machine learning platform for representing tensor computations and building, training, or deploying models.",
+  "entry_text_kind": "definition",
+  "example": "A researcher trains an image classifier and evaluates it on held-out examples using TensorFlow.",
+  "id": "gjwmms3bhr",
+  "key": "tensorflow",
+  "label": "TensorFlow",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

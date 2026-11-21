@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Archaeology reconstructs and interprets past human activity by studying artifacts, structures, sites, and other material traces in context.",
+  "entry_text": "Archaeology reconstructs and interprets past human activity by studying artifacts, structures, sites, and other material traces in context.",
+  "entry_text_kind": "definition",
+  "example": "An archaeologist compares the remains in successive soil layers to infer how a settlement's food practices changed.",
+  "id": "hmn1b2xrbu",
+  "key": "archaeology",
+  "label": "Archaeology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

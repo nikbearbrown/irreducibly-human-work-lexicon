@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Technical writing explains specialized information or procedures accurately and clearly for the intended audience and task.",
+  "entry_text": "Technical writing explains specialized information or procedures accurately and clearly for the intended audience and task.",
+  "entry_text_kind": "definition",
+  "example": "A writer turns engineering notes into troubleshooting instructions with expected outcomes and escalation points.",
+  "id": "k8wsre0m9r",
+  "key": "technical-writing",
+  "label": "Technical writing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

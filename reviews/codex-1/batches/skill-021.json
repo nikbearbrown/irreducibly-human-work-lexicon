@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "smwy22dx57",
+    "key": "hashistack",
+    "label": "HashiStack",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mtbd4a36vn",
+    "key": "hazard-analysis-and-critical-control-points",
+    "label": "Hazard Analysis and Critical Control Points",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zuku9j3qd4",
+    "key": "hazardous-material-containment-and-control",
+    "label": "Hazardous material containment and control",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bju3alutyw",
+    "key": "hazardous-material-handling",
+    "label": "Hazardous material handling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yb8cjb9wd7",
+    "key": "hcfa-regulations",
+    "label": "HCFA regulations",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "grx06hnuln",
+    "key": "head-mounted-display",
+    "label": "Head-mounted display",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q457alm8re",
+    "key": "health-and-wellness-coaching",
+    "label": "Health and wellness coaching",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bunjyl41ub",
+    "key": "healthcare-effectiveness-data-and-information-set",
+    "label": "Healthcare Effectiveness Data and Information Set",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qrqmsx9knd",
+    "key": "healthcare-facilities-planning",
+    "label": "Healthcare facilities planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rvfmi2kur5",
+    "key": "healthcare-strategy",
+    "label": "Healthcare strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k6w66bhwgk",
+    "key": "hearing-aid-software",
+    "label": "Hearing aid software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c4tsd6o757",
+    "key": "heat-bending-of-wood",
+    "label": "Heat bending of wood",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "koz9wi45dg",
+    "key": "heatmap",
+    "label": "Heatmap",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k9f0ahmyf1",
+    "key": "heavy-equipment-operation",
+    "label": "Heavy equipment operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "od5cjk5y0z",
+    "key": "heavy-vehicle-operation",
+    "label": "Heavy vehicle operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t9z644dgwl",
+    "key": "heritrix",
+    "label": "Heritrix",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xuxkxuxr31",
+    "key": "hincii",
+    "label": "HincII",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vnscngwlz2",
+    "key": "hindiii",
+    "label": "HindIII",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s4bpj19zk2",
+    "key": "honeypot",
+    "label": "Honeypot",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ttp0mxfqt6",
+    "key": "hootsuite",
+    "label": "Hootsuite",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cthvqlw1wn",
+    "key": "host-based-security-system",
+    "label": "Host Based Security System",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t1845bgn6q",
+    "key": "hotel-and-restaurant-management",
+    "label": "Hotel and restaurant management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ws2h68hqic",
+    "key": "hotel-management",
+    "label": "Hotel management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lak4led9d2",
+    "key": "hotjava",
+    "label": "HotJava",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o1g3zmzf6u",
+    "key": "hp-2100",
+    "label": "HP 2100",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r0cny7viij",
+    "key": "hp-9845c",
+    "label": "HP 9845C",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g4a4masi9q",
+    "key": "hp-application-lifecycle-management",
+    "label": "HP Application Lifecycle Management",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hcml31qh2e",
+    "key": "hp-brio",
+    "label": "HP Brio",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zyqf784ulv",
+    "key": "hp-jornada",
+    "label": "HP Jornada",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "crh50e9tbb",
+    "key": "hp-newwave",
+    "label": "HP NewWave",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qmao9he0d4",
+    "key": "hp-quality-center",
+    "label": "HP Quality Center",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yd5xjcus2y",
+    "key": "hp-systems-insight-manager",
+    "label": "HP Systems Insight Manager",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hbexkw6o3t",
+    "key": "hp-winrunner",
+    "label": "HP WinRunner",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ipnoi8cnbl",
+    "key": "hr-analytics",
+    "label": "HR analytics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xiupcoba2m",
+    "key": "html-emails",
+    "label": "HTML emails",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jy5t5pwupo",
+    "key": "html-formatting",
+    "label": "HTML formatting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ik4b9tuy5x",
+    "key": "html5shiv",
+    "label": "html5shiv",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eoyz2rkeok",
+    "key": "hubspot-crm",
+    "label": "HubSpot CRM",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "seav9a4lez",
+    "key": "human-capital-management-integration",
+    "label": "Human capital management integration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xue2oxixc6",
+    "key": "human-factors-engineering",
+    "label": "Human factors engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A family of Hewlett-Packard minicomputers used for computing and industrial or instrumentation applications.",
+  "entry_text": "A family of Hewlett-Packard minicomputers used for computing and industrial or instrumentation applications.",
+  "entry_text_kind": "definition",
+  "example": "A computing museum demonstrates an archived program on an HP 2100 system.",
+  "id": "o1g3zmzf6u",
+  "key": "hp-2100",
+  "label": "HP 2100",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

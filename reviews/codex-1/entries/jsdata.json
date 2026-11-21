@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "JSData is a JavaScript data-management library that provides records, relationships and adapters for application data.",
+  "entry_text": "JSData is a JavaScript data-management library that provides records, relationships and adapters for application data.",
+  "entry_text_kind": "definition",
+  "example": "A developer defines a record type and uses a REST adapter to load it from a server.",
+  "id": "xmdqx611pm",
+  "key": "jsdata",
+  "label": "JSData",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

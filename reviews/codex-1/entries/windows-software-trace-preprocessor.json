@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Windows software trace preprocessor helps instrument source code for collecting diagnostic trace messages on Windows.",
+  "entry_text": "The Windows software trace preprocessor helps instrument source code for collecting diagnostic trace messages on Windows.",
+  "entry_text_kind": "definition",
+  "example": "A driver developer adds trace statements to distinguish startup events during troubleshooting.",
+  "id": "indwviyy46",
+  "key": "windows-software-trace-preprocessor",
+  "label": "Windows software trace preprocessor",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Commonly abbreviated WPP.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

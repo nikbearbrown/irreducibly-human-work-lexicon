@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Microsoft Lists is a Microsoft 365 tool for tracking structured records in configurable lists and views.",
+  "entry_text": "Microsoft Lists is a Microsoft 365 tool for tracking structured records in configurable lists and views.",
+  "entry_text_kind": "definition",
+  "example": "A team creates an equipment issue list with filters for department and status.",
+  "id": "tr4qm7u5gh",
+  "key": "microsoft-lists",
+  "label": "Microsoft Lists",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

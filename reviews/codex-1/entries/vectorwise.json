@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "VectorWise is a former name associated with the Actian Vector analytical database, a column-oriented system using vectorized query execution.",
+  "entry_text": "VectorWise is a former name associated with the Actian Vector analytical database, a column-oriented system using vectorized query execution.",
+  "entry_text_kind": "definition",
+  "example": "An analyst runs aggregations over selected columns in a large fact table.",
+  "id": "px3qo1l9t8",
+  "key": "vectorwise",
+  "label": "VectorWise",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical product naming; distinguish vectorized SQL execution from embedding similarity search.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

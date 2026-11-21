@@ -1,0 +1,242 @@
+[
+  {
+    "id": "irtfh3ohap",
+    "definition": "OCLC Connexion is a cataloging tool for creating, editing and sharing bibliographic records through WorldCat.",
+    "example": "A cataloger updates the description of a book and records that the library holds it.",
+    "sense_note": null
+  },
+  {
+    "id": "kar823op4q",
+    "definition": "OCUnit was a unit-testing framework for Objective-C applications, distributed as part of older Apple development tooling.",
+    "example": "A developer used an OCUnit test to check that a parser handled an empty input.",
+    "sense_note": "Distinguish it from its later successor XCTest."
+  },
+  {
+    "id": "laj0x3ly5s",
+    "definition": "Office 365 is Microsoft's subscription service combining Office productivity tools with online services for work and collaboration.",
+    "example": "A team edits a presentation stored in shared online storage.",
+    "sense_note": "The label also appears in current and historical subscription names; verify plan-specific inclusions separately."
+  },
+  {
+    "id": "irfesqk54c",
+    "definition": "Office and productivity software supports common work tasks such as editing documents, organizing data, preparing presentations and communicating.",
+    "example": "An office coordinator builds a spreadsheet to track upcoming deadlines.",
+    "sense_note": null
+  },
+  {
+    "id": "u2eflwksth",
+    "definition": "omniORB is an implementation of CORBA that lets software components invoke operations across process or network boundaries.",
+    "example": "A client uses a generated interface to call a service running in another process.",
+    "sense_note": null
+  },
+  {
+    "id": "wpr4u9kwwe",
+    "definition": "ON1 refers to photography software for organizing, developing and editing digital photographs.",
+    "example": "A photographer adjusts exposure in a raw file and saves an edited copy.",
+    "sense_note": "The label names a product family, not an exact edition or feature set."
+  },
+  {
+    "id": "q57gehopyn",
+    "definition": "Onboarding helps a new employee, customer or other participant learn procedures and gain the access and information needed to begin.",
+    "example": "A manager introduces a new employee to team responsibilities and schedules required training.",
+    "sense_note": "The target population depends on context."
+  },
+  {
+    "id": "nef5zcgpal",
+    "definition": "Oncology sales involves presenting oncology-related products and services to relevant customers within applicable clinical, commercial and compliance boundaries.",
+    "example": "A representative discusses an approved cancer-care product and its ordering process with a clinic.",
+    "sense_note": null
+  },
+  {
+    "id": "linm739g4u",
+    "definition": "OneTrust provides software for managing work such as privacy compliance, consent and governance, risk and compliance.",
+    "example": "A privacy team tracks requests to access personal information and their resolution status.",
+    "sense_note": null
+  },
+  {
+    "id": "x4z2f6ku0u",
+    "definition": "Online demonstration presents and explains a product, process or technique to remote viewers using digital tools.",
+    "example": "A trainer shares a screen and shows a participant how to complete a form.",
+    "sense_note": null
+  },
+  {
+    "id": "d0tkhctyzs",
+    "definition": "Onshape is a cloud-based computer-aided design and product data management system for collaborative mechanical design.",
+    "example": "Two designers review changes to the same assembly and compare design versions.",
+    "sense_note": null
+  },
+  {
+    "id": "smc60649db",
+    "definition": "Open Shortest Path First is a link-state routing protocol for finding routes within an Internet Protocol routing domain.",
+    "example": "Routers exchange topology information and compute routes using their configured link costs.",
+    "sense_note": null
+  },
+  {
+    "id": "u301ax2wc3",
+    "definition": "The OpenAPI Specification defines a machine-readable format for describing HTTP APIs, including operations, inputs and responses.",
+    "example": "A team publishes an OpenAPI document to generate client reference documentation.",
+    "sense_note": null
+  },
+  {
+    "id": "h78dt70dh7",
+    "definition": "OpenCart is an e-commerce platform for operating an online store with catalogs, carts, orders and extensions.",
+    "example": "A merchant creates product pages and tracks incoming orders through its administration interface.",
+    "sense_note": null
+  },
+  {
+    "id": "ubsss849kl",
+    "definition": "OpenDaylight is an open-source platform for building software-defined network controllers and programmable networking applications.",
+    "example": "A network operator uses its controller to maintain a topology view of managed devices.",
+    "sense_note": null
+  },
+  {
+    "id": "u5bccdfqq7",
+    "definition": "OpenNI is a framework that provides interfaces for sensors and software used in depth sensing and natural interaction.",
+    "example": "An application reads depth measurements from a supported sensor using its common interface.",
+    "sense_note": "Hardware and software support vary by version and distribution."
+  },
+  {
+    "id": "qk6veojyxg",
+    "definition": "OpenStreetMap is a collaborative geographic database that contributors can edit and users can reuse under its license.",
+    "example": "A community mapper adds a missing footpath so it appears in downstream maps.",
+    "sense_note": null
+  },
+  {
+    "id": "ej5umhxvn3",
+    "definition": "OpenTok is technology for building real-time video and audio communications into applications.",
+    "example": "A developer adds a video consultation room to an appointment service.",
+    "sense_note": "The label may occur as a legacy brand; verify applicable product documentation."
+  },
+  {
+    "id": "u2u4n7azpr",
+    "definition": "OpenTSDB is an open-source database system for storing and querying large volumes of time-series measurements.",
+    "example": "An operations team queries a week of server utilization measurements by host.",
+    "sense_note": null
+  },
+  {
+    "id": "jq9pnw9x8r",
+    "definition": "Operational risk mitigation identifies and reduces potential losses arising from failures in people, processes, systems or external events.",
+    "example": "A finance team adds independent approval to a payment workflow to reduce processing errors.",
+    "sense_note": null
+  },
+  {
+    "id": "taiw4yzkww",
+    "definition": "Operationalizing AI moves an AI system into sustained use with deployment, monitoring, governance and maintenance processes.",
+    "example": "A team sets up model monitoring and a fallback workflow before releasing an automated classifier.",
+    "sense_note": null
+  },
+  {
+    "id": "y2ac1u5au7",
+    "definition": "Operations analytics analyzes operational data to understand performance and make decisions about processes, resources or service delivery.",
+    "example": "A warehouse analyst identifies which picking steps contribute most to delays.",
+    "sense_note": null
+  },
+  {
+    "id": "s5x2ee25w1",
+    "definition": "Ophthalmic surgical assisting supports eye surgery by preparing equipment, maintaining sterile conditions and assisting the surgical team within assigned duties.",
+    "example": "An assistant checks that the surgeon's specified instruments and supplies are ready before a procedure.",
+    "sense_note": null
+  },
+  {
+    "id": "zgpnyz7ovy",
+    "definition": "An optical power meter measures optical signal power, commonly in fiber-optic systems.",
+    "example": "A technician measures received signal power at the end of a fiber link to check its loss budget.",
+    "sense_note": null
+  },
+  {
+    "id": "dc8i8zjfh6",
+    "definition": "Optimization software uses mathematical algorithms to search for solutions that improve a stated objective subject to constraints.",
+    "example": "A planner uses a solver to minimize staffing costs while covering every required shift.",
+    "sense_note": null
+  },
+  {
+    "id": "dsdxprkja5",
+    "definition": "Optitex is digital design software for developing apparel patterns and simulating how garments fit and drape.",
+    "example": "A pattern maker previews a jacket in three dimensions before cutting a sample.",
+    "sense_note": null
+  },
+  {
+    "id": "n0orcd73zf",
+    "definition": "Oracle Advanced Queuing provides database-integrated message queues for asynchronous communication between applications.",
+    "example": "An order service enqueues an event that a separate fulfillment process consumes.",
+    "sense_note": null
+  },
+  {
+    "id": "b16607shyo",
+    "definition": "Oracle Application Framework is a Java-based framework for building web interfaces and business applications in Oracle E-Business Suite.",
+    "example": "A developer extends a self-service page while retaining the application's navigation and data model.",
+    "sense_note": "Often identified as OA Framework; distinguish from Oracle Application Development Framework."
+  },
+  {
+    "id": "dy5sokpl37",
+    "definition": "Oracle Application Integration Architecture provides frameworks and integration assets for connecting enterprise applications through service-oriented patterns.",
+    "example": "A team uses a common message structure to exchange order data between separate applications.",
+    "sense_note": null
+  },
+  {
+    "id": "udwrwe8lcv",
+    "definition": "Oracle Autonomous Database is a managed Oracle cloud database service that automates many provisioning, maintenance and tuning tasks.",
+    "example": "A team deploys a reporting database without scheduling routine patching itself.",
+    "sense_note": null
+  },
+  {
+    "id": "umdr4omocc",
+    "definition": "Oracle BI Answers is an Oracle Business Intelligence interface for creating ad hoc analyses against a business data model.",
+    "example": "An analyst builds a sales-by-region table by selecting dimensions and measures.",
+    "sense_note": null
+  },
+  {
+    "id": "gmljzz3xfe",
+    "definition": "Oracle Business Activity Monitoring tracks business events and process metrics to support dashboards and alerts.",
+    "example": "An operations manager monitors the number of orders approaching their processing deadline.",
+    "sense_note": null
+  },
+  {
+    "id": "ttuunjpl3o",
+    "definition": "Oracle Clinical is software supporting capture, management and validation of clinical study data.",
+    "example": "A study data manager reviews validation findings before finalizing a dataset.",
+    "sense_note": null
+  },
+  {
+    "id": "csn6j85j5r",
+    "definition": "Oracle Cloud is Oracle's portfolio of cloud infrastructure, platform services and applications provided remotely.",
+    "example": "A team runs a database and its application on managed cloud resources.",
+    "sense_note": "The label may mean the broad portfolio or Oracle Cloud Infrastructure specifically."
+  },
+  {
+    "id": "p4ka2pamq6",
+    "definition": "Oracle EU Sovereign Cloud is an Oracle cloud offering designed for workloads subject to European data residency and operational sovereignty requirements.",
+    "example": "An organization evaluates whether its hosting arrangement satisfies internal European residency requirements.",
+    "sense_note": "No particular regulatory compliance is guaranteed solely by using the offering."
+  },
+  {
+    "id": "k183yku86c",
+    "definition": "Oracle Fixed Assets is an enterprise accounting module for recording, depreciating, transferring and retiring fixed assets.",
+    "example": "A controller records the acquisition of equipment and runs its periodic depreciation calculation.",
+    "sense_note": null
+  },
+  {
+    "id": "w7c7jyyh5v",
+    "definition": "Oracle GoldenGate is software for capturing and replicating data changes between supported systems.",
+    "example": "A reporting system receives updates from an operational database without relying on periodic full copies.",
+    "sense_note": null
+  },
+  {
+    "id": "zlbi0on717",
+    "definition": "Oracle HRMS is an enterprise software suite for managing human resources records and related workforce processes.",
+    "example": "A personnel team records a new employee's assignment and maintains their employment history.",
+    "sense_note": null
+  },
+  {
+    "id": "gpy3o9v8ox",
+    "definition": "Oracle OLAP is Oracle technology for multidimensional analysis of data, including aggregation across business dimensions.",
+    "example": "An analyst explores revenue totals by region, product and quarter.",
+    "sense_note": null
+  },
+  {
+    "id": "v5s33r7jux",
+    "definition": "Oracle Primavera is a family of project management tools used for scheduling, resource planning and project controls.",
+    "example": "A project planner uses a schedule to identify construction tasks on the critical path.",
+    "sense_note": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An enterprise software platform for modeling, automating, and monitoring business processes.",
+  "entry_text": "An enterprise software platform for modeling, automating, and monitoring business processes.",
+  "entry_text_kind": "definition",
+  "example": "A team builds an approval workflow that routes requests to the appropriate reviewers.",
+  "id": "kqgsngz45v",
+  "key": "ibm-business-process-manager",
+  "label": "IBM Business Process Manager",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

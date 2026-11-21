@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Statements on Standards for Attestation Engagements are U.S. professional standards governing engagements in which practitioners examine, review, or perform agreed procedures on specified subject matter or assertions.",
+  "entry_text": "Statements on Standards for Attestation Engagements are U.S. professional standards governing engagements in which practitioners examine, review, or perform agreed procedures on specified subject matter or assertions.",
+  "entry_text_kind": "definition",
+  "example": "An accounting firm identifies the applicable guidance before accepting an agreed-upon procedures engagement.",
+  "id": "eisnlpf3so",
+  "key": "statements-on-standards-for-attestation-engagements",
+  "label": "Statements on Standards for Attestation Engagements",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

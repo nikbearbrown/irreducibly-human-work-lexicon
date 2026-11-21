@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Peachtree Accounting was desktop accounting software for small-business bookkeeping, invoicing and financial reporting.",
+  "entry_text": "Peachtree Accounting was desktop accounting software for small-business bookkeeping, invoicing and financial reporting.",
+  "entry_text_kind": "definition",
+  "example": "A bookkeeper recorded customer invoices and produced a balance sheet.",
+  "id": "pt4t1q8cxq",
+  "key": "peachtree-accounting",
+  "label": "Peachtree Accounting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Legacy brand; do not infer capabilities of current Sage products.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Powered industrial truck operation controls forklifts and similar workplace equipment for moving materials within safe operating limits.",
+  "entry_text": "Powered industrial truck operation controls forklifts and similar workplace equipment for moving materials within safe operating limits.",
+  "entry_text_kind": "definition",
+  "example": "A trained operator moves a palletized load to an approved storage location.",
+  "id": "bbof3wb8ob",
+  "key": "powered-industrial-truck-operation",
+  "label": "Powered industrial truck operation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

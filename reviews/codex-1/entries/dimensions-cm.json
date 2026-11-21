@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A software configuration management tool for controlling source versions, baselines, and changes.",
+  "entry_text": "A software configuration management tool for controlling source versions, baselines, and changes.",
+  "entry_text_kind": "definition",
+  "example": "A release engineer records which component versions belong to an approved baseline.",
+  "id": "poo02d8zdk",
+  "key": "dimensions-cm",
+  "label": "Dimensions CM",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "rywn4mucmx",
+    "key": "channel-sales",
+    "label": "Channel sales",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "chya8hfm4m",
+    "key": "character-art",
+    "label": "Character art",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v00xfjkjpc",
+    "key": "chart-js",
+    "label": "Chart.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j95dttpz2w",
+    "key": "chip-design",
+    "label": "Chip design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rr8nuoopwd",
+    "key": "chipmunk2d",
+    "label": "Chipmunk2D",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b6aks1wdou",
+    "key": "chordiant",
+    "label": "Chordiant",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qrnkinzz01",
+    "key": "choreography",
+    "label": "Choreography",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uar2udvki6",
+    "key": "chromatography-software",
+    "label": "Chromatography software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e528lasxbu",
+    "key": "chronometer",
+    "label": "Chronometer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ek5du86681",
+    "key": "cisco-intersight",
+    "label": "Cisco Intersight",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g19y1gv4wx",
+    "key": "cisco-ucs-director",
+    "label": "Cisco UCS Director",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tmqozvht84",
+    "key": "civil-engineering-design",
+    "label": "Civil engineering design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xyi17s2fy2",
+    "key": "ckeditor",
+    "label": "CKEditor",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w49tfjhjw9",
+    "key": "claim-processing",
+    "label": "Claim processing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fyins3tz6o",
+    "key": "claims-modeling",
+    "label": "Claims modeling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hw93ogmznm",
+    "key": "clarizen",
+    "label": "Clarizen",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eg9tmz288m",
+    "key": "clash-detection",
+    "label": "Clash detection",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "twrr15dgpe",
+    "key": "classification-and-regression-tree",
+    "label": "Classification and Regression Tree",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g35t5hixm4",
+    "key": "clean-air-act",
+    "label": "Clean Air Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zxuhn9wqrx",
+    "key": "clean-water-act",
+    "label": "Clean Water Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rzz95q00uw",
+    "key": "cleardb",
+    "label": "ClearDB",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "aciqe7t4nw",
+    "key": "client-confidentiality",
+    "label": "Client confidentiality",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h8isdaje7z",
+    "key": "clinical-data-repository",
+    "label": "Clinical data repository",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rb9mtm72hn",
+    "key": "clinical-documentation-improvement",
+    "label": "Clinical documentation improvement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z4t6jz6jpg",
+    "key": "clinical-laboratory-phlebotomy",
+    "label": "Clinical laboratory phlebotomy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qh6fizk0v5",
+    "key": "closed-circuit-television-camera",
+    "label": "Closed-circuit television camera",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pkrafh1a5u",
+    "key": "cloud-access-security-broker",
+    "label": "Cloud access security broker",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ycn2mm67g2",
+    "key": "cloud-native-development",
+    "label": "Cloud-native development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b2h7n09yjc",
+    "key": "cnc-programming",
+    "label": "CNC programming",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vy91p7byqt",
+    "key": "cocoa-touch",
+    "label": "Cocoa Touch",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c5l9xyik3i",
+    "key": "cocoapods",
+    "label": "CocoaPods",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "guisdss7ww",
+    "key": "cocoonjs",
+    "label": "CocoonJS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e3m33mt7of",
+    "key": "collaboration-software",
+    "label": "Collaboration software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kut5s14k79",
+    "key": "collaboration",
+    "label": "Collaboration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qwg7xy898e",
+    "key": "collaborative-planning-forecasting-and-replenishment",
+    "label": "Collaborative Planning, Forecasting and Replenishment",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "psbb6fbfk4",
+    "key": "color-matching",
+    "label": "Color matching",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z9o1drq4m4",
+    "key": "color-material-and-finish-design",
+    "label": "Color, material and finish design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p56jjjonfi",
+    "key": "combine-harvester",
+    "label": "Combine harvester",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ekceelb9fw",
+    "key": "commercial-loan-documentation",
+    "label": "Commercial loan documentation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vrm9lzl1br",
+    "key": "commissioning-qualification-and-validation",
+    "label": "Commissioning, qualification and validation",
+    "onet_codes": [],
+    "original_kind": "method"
+  }
+]

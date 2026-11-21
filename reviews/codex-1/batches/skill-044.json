@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "c2c1jv92du",
+    "key": "swedish-massage",
+    "label": "Swedish massage",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wroqa3tbb6",
+    "key": "swift-network",
+    "label": "SWIFT network",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c2hvl2fprf",
+    "key": "sybase-unwired-platform",
+    "label": "Sybase Unwired Platform",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cuus4vfi89",
+    "key": "synthesizing-information",
+    "label": "Synthesizing information",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ou1594vcv2",
+    "key": "syskey",
+    "label": "Syskey",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "clq0n7n3rj",
+    "key": "sysomos",
+    "label": "Sysomos",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lkcv1ec2gi",
+    "key": "system-data",
+    "label": "System.Data",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tou8ocnk8g",
+    "key": "system-implementation",
+    "label": "System implementation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v2qchw97mc",
+    "key": "system-recovery",
+    "label": "System recovery",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hkky8htw9n",
+    "key": "systemjs",
+    "label": "SystemJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dwli80bqlh",
+    "key": "systems-management",
+    "label": "Systems management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hc5hip223s",
+    "key": "table-data-gateway",
+    "label": "Table data gateway",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g0juzcckj3",
+    "key": "table-etiquette",
+    "label": "Table etiquette",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "enjwt6y9ws",
+    "key": "tableau",
+    "label": "Tableau",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b1dxizkqhf",
+    "key": "tabular-data-stream",
+    "label": "Tabular Data Stream",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lbwvejax9o",
+    "key": "taking-messages",
+    "label": "Taking messages",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "akpvn12n13",
+    "key": "talent-management",
+    "label": "Talent management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gh7hw40ihw",
+    "key": "tanium",
+    "label": "Tanium",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ihyv0gip0q",
+    "key": "tank-truck",
+    "label": "Tank truck",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "waape7li6p",
+    "key": "tape-measure",
+    "label": "Tape measure",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xeek87269i",
+    "key": "tape-recorder",
+    "label": "Tape recorder",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a2ymv23g4x",
+    "key": "team-leadership",
+    "label": "Team leadership",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tz7ipk5s96",
+    "key": "teamwork",
+    "label": "Teamwork",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ysg81p4vz1",
+    "key": "technical-leadership",
+    "label": "Technical leadership",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p1mepec0j1",
+    "key": "technical-record-keeping",
+    "label": "Technical record-keeping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k8wsre0m9r",
+    "key": "technical-writing",
+    "label": "Technical writing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mrgdddo3z6",
+    "key": "technology-roadmap",
+    "label": "Technology roadmap",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pta76g7wnz",
+    "key": "tekla",
+    "label": "Tekla",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fgb46izjlv",
+    "key": "telecommunications-equipment-installation",
+    "label": "Telecommunications equipment installation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dlzr4a50wm",
+    "key": "telegraphy",
+    "label": "Telegraphy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "btb285ynqv",
+    "key": "telephone-etiquette",
+    "label": "Telephone etiquette",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tkskro5w3t",
+    "key": "telescoping-gauge",
+    "label": "Telescoping gauge",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ttvro9fv4i",
+    "key": "television-programming",
+    "label": "Television programming",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xc837yeme5",
+    "key": "temporal-io",
+    "label": "Temporal.io",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gjwmms3bhr",
+    "key": "tensorflow",
+    "label": "TensorFlow",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ss273uzint",
+    "key": "testing",
+    "label": "Software testing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ziz4wwoccd",
+    "key": "testng",
+    "label": "TestNG",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dua32jm4h0",
+    "key": "theano",
+    "label": "Theano",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wyuz035oqf",
+    "key": "theory-of-change",
+    "label": "Theory of change",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i77a6xif9h",
+    "key": "therapeutic-interventions",
+    "label": "Therapeutic interventions",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

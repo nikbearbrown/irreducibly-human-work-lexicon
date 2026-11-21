@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ngAnimate is an AngularJS module for integrating animations with application directives and changes in the interface.",
+  "entry_text": "ngAnimate is an AngularJS module for integrating animations with application directives and changes in the interface.",
+  "entry_text_kind": "definition",
+  "example": "An AngularJS list fades new rows in as they are inserted.",
+  "id": "f0c784bzd2",
+  "key": "nganimate",
+  "label": "ngAnimate",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

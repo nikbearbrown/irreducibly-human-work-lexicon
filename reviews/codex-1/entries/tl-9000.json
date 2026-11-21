@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-013.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "TL 9000 is a quality management framework for the information and communications technology industry that adds sector-specific requirements and performance measurements to ISO 9001.",
+  "entry_text": "TL 9000 is a quality management framework for the information and communications technology industry that adds sector-specific requirements and performance measurements to ISO 9001.",
+  "entry_text_kind": "definition",
+  "example": "A telecommunications equipment supplier tracks defect and reliability indicators as part of its TL 9000 quality program.",
+  "id": "jqn7upjsc9",
+  "key": "tl-9000",
+  "label": "TL 9000",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

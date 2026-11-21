@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Native American studies examines the histories, cultures, politics and contemporary lives of Indigenous peoples of North America, especially within the United States.",
+  "entry_text": "Native American studies examines the histories, cultures, politics and contemporary lives of Indigenous peoples of North America, especially within the United States.",
+  "entry_text_kind": "definition",
+  "example": "A course examines how tribal sovereignty shapes relationships with federal and state governments.",
+  "id": "uims2c9qir",
+  "key": "native-american-studies",
+  "label": "Native American studies",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

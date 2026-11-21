@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Track and trace records the identity, movement, and history of items or consignments so their current state and prior locations can be established.",
+  "entry_text": "Track and trace records the identity, movement, and history of items or consignments so their current state and prior locations can be established.",
+  "entry_text_kind": "definition",
+  "example": "A food distributor follows a batch identifier from supplier receipt through shipments to several stores.",
+  "id": "h4el20olb5",
+  "key": "track-and-trace",
+  "label": "Track and trace",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Broad supply-chain sense; other domains may use dedicated variants.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

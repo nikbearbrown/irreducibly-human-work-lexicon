@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "phpList is software for managing mailing lists and sending email campaigns to their subscribers.",
+  "entry_text": "phpList is software for managing mailing lists and sending email campaigns to their subscribers.",
+  "entry_text_kind": "definition",
+  "example": "A nonprofit sends a newsletter to an opted-in mailing list.",
+  "id": "qcaa98rbm1",
+  "key": "phplist",
+  "label": "phpList",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

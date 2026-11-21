@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-010.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Philosophy of religion examines concepts and arguments concerning religion, such as faith, divinity and religious experience.",
+  "entry_text": "Philosophy of religion examines concepts and arguments concerning religion, such as faith, divinity and religious experience.",
+  "entry_text_kind": "definition",
+  "example": "A seminar evaluates whether a proposed account of faith requires evidence.",
+  "id": "e8c7k9oj7e",
+  "key": "philosophy-of-religion",
+  "label": "Philosophy of religion",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

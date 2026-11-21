@@ -1,0 +1,242 @@
+[
+  {
+    "id": "r32hw0qken",
+    "definition": "K-means clustering partitions observations into a chosen number of groups by iteratively updating cluster centroids and assigning observations to nearby centroids.",
+    "example": "A retailer groups stores by similar traffic and transaction patterns after scaling the features.",
+    "sense_note": null
+  },
+  {
+    "id": "b7bxzv86i3",
+    "definition": "Kahoot! is a learning platform for running interactive quizzes and activities on participants' devices.",
+    "example": "A teacher runs a live review quiz and discusses the questions many students missed.",
+    "sense_note": null
+  },
+  {
+    "id": "lmao37vzxc",
+    "definition": "KairosDB is a database system for ingesting and querying time-series measurements.",
+    "example": "An operations team queries hourly aggregates of sensor readings.",
+    "sense_note": null
+  },
+  {
+    "id": "x4l4uuo9ve",
+    "definition": "Katalon Studio is an integrated tool for creating and running automated application tests.",
+    "example": "A tester records a web checkout flow and checks the resulting confirmation page.",
+    "sense_note": null
+  },
+  {
+    "id": "brj2fpgqpe",
+    "definition": "Kenna Security refers to a vulnerability-management platform that prioritizes remediation using risk signals and asset information.",
+    "example": "A security team ranks known vulnerabilities on its inventory to decide which fixes to deploy first.",
+    "sense_note": null
+  },
+  {
+    "id": "ae50wmbiia",
+    "definition": "Keras is a high-level Python API for defining, training and using neural networks.",
+    "example": "A developer builds a classifier as a sequence of layers and trains it on labeled images.",
+    "sense_note": null
+  },
+  {
+    "id": "lwi6xz3o2t",
+    "definition": "Kinesitherapy uses therapeutic movement and exercise to restore or improve physical function.",
+    "example": "A rehabilitation clinician guides a patient through a prescribed range-of-motion exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "fmysag6ovk",
+    "definition": "Kinetic typography designs moving text to communicate timing, emphasis or meaning.",
+    "example": "A title designer animates words in sync with the narrator's emphasis.",
+    "sense_note": null
+  },
+  {
+    "id": "etkm588rdk",
+    "definition": "Knockout.js is a JavaScript library that binds interface elements to observable data in a view model.",
+    "example": "A shopping page updates the price total when a user changes an item count.",
+    "sense_note": null
+  },
+  {
+    "id": "grn5gsyx43",
+    "definition": "Know Your Third Party is a third-party risk management platform for exchanging and evaluating due-diligence information.",
+    "example": "A compliance team collects supplier assessment responses in a shared workflow.",
+    "sense_note": "The abbreviation may also refer to a generic due-diligence practice."
+  },
+  {
+    "id": "h6qtadz4ay",
+    "definition": "KPI reporting measures and communicates key indicators tied to organizational goals.",
+    "example": "A manager reports the weekly on-time shipment rate against its target.",
+    "sense_note": null
+  },
+  {
+    "id": "nb8uc9r0d1",
+    "definition": "The Kyoto Protocol is an international climate treaty that set binding greenhouse-gas reduction or limitation commitments for specified parties.",
+    "example": "A national emissions inventory supports reporting against an applicable commitment.",
+    "sense_note": null
+  },
+  {
+    "id": "izaj2j3a7r",
+    "definition": "Kyriba is treasury management software for tasks such as cash visibility, payments, liquidity planning and financial risk management.",
+    "example": "A treasury analyst consolidates balances from several banks to review the day's cash position.",
+    "sense_note": null
+  },
+  {
+    "id": "etrex7o43l",
+    "definition": "A label edge router is a router at a Multiprotocol Label Switching domain boundary that adds, removes or processes packet labels.",
+    "example": "An ingress router classifies incoming traffic and applies a label for its forwarding path.",
+    "sense_note": null
+  },
+  {
+    "id": "myqo7j7o11",
+    "definition": "A label printer produces labels carrying text, barcodes or graphics on compatible stock.",
+    "example": "A warehouse worker prints barcode labels for outgoing cartons.",
+    "sense_note": null
+  },
+  {
+    "id": "if66i05y4n",
+    "definition": "LabVIEW is a graphical programming environment for building measurement, automation and instrument-control applications.",
+    "example": "A technician builds a program to acquire measurements and plot them live.",
+    "sense_note": null
+  },
+  {
+    "id": "ikmthn4x72",
+    "definition": "Landing page optimization improves a destination web page to help visitors complete a defined action.",
+    "example": "An analyst tests whether a clearer signup form raises its completion rate.",
+    "sense_note": null
+  },
+  {
+    "id": "pe8909xapl",
+    "definition": "Lando is a tool for configuring and running local development environments using containers.",
+    "example": "A developer starts a reproducible web server and database using a project's Lando configuration.",
+    "sense_note": null
+  },
+  {
+    "id": "w3b92k0bn0",
+    "definition": "Landscape painting depicts natural or built outdoor scenery using painted color, composition and perspective.",
+    "example": "An artist paints a valley and uses softer colors to suggest distant hills.",
+    "sense_note": null
+  },
+  {
+    "id": "aye5u0w6at",
+    "definition": "Landscaping and yard care involve designing, installing or maintaining outdoor grounds and plantings.",
+    "example": "A grounds crew prunes shrubs and repairs a stretch of turf.",
+    "sense_note": null
+  },
+  {
+    "id": "obustt87w8",
+    "definition": "LangChain is a software framework for assembling language-model applications with components such as prompts, retrieval and tool calls.",
+    "example": "A developer combines document retrieval and a language model to answer handbook questions.",
+    "sense_note": null
+  },
+  {
+    "id": "u2jkowkfye",
+    "definition": "Language interpretation and translation convey meaning between languages, generally with interpreting for spoken or signed messages and translation for written material.",
+    "example": "An interpreter relays a meeting discussion while a translator prepares its written summary in another language.",
+    "sense_note": null
+  },
+  {
+    "id": "xbnzpi95t0",
+    "definition": "Language teaching develops learners' comprehension and expression in a language through instruction and practice.",
+    "example": "A teacher uses role-play to help beginners practice asking for directions.",
+    "sense_note": null
+  },
+  {
+    "id": "v0i8j5lzc6",
+    "definition": "A laser level projects a beam or line to establish reference points for level, plumb or alignment work.",
+    "example": "An installer uses a horizontal beam to align wall-mounted cabinets.",
+    "sense_note": null
+  },
+  {
+    "id": "ys7x7wgt47",
+    "definition": "LDRA Testbed is a software analysis and testing tool for assessing code quality, coding-standard compliance and test coverage.",
+    "example": "A quality engineer checks embedded software for violations of a project's coding rules.",
+    "sense_note": null
+  },
+  {
+    "id": "xjt0zve4ah",
+    "definition": "Lean principles guide work improvement by defining customer value, reducing waste and improving how value-producing activities flow.",
+    "example": "A production team reduces the time parts wait between inspection and assembly.",
+    "sense_note": null
+  },
+  {
+    "id": "i2hmsmvh4a",
+    "definition": "Learner analysis examines learners' prior knowledge, goals, needs and constraints to guide instructional decisions.",
+    "example": "A course designer surveys employees' experience before selecting prerequisite exercises.",
+    "sense_note": null
+  },
+  {
+    "id": "ag3vzgxdjd",
+    "definition": "Learner experience design shapes activities, materials and interactions around how people engage with and learn from them.",
+    "example": "A designer pairs a realistic task with immediate feedback and a guided retry.",
+    "sense_note": null
+  },
+  {
+    "id": "oi6geiye6s",
+    "definition": "Learning agility is the ability to learn from experience and apply that learning in unfamiliar situations.",
+    "example": "After trialing a new tool, a team member applies what worked to a different project.",
+    "sense_note": null
+  },
+  {
+    "id": "s792o40vi8",
+    "definition": "LEGO Digital Designer was a software tool for building virtual models from digital LEGO elements.",
+    "example": "A builder tries different brick arrangements before assembling a physical model.",
+    "sense_note": null
+  },
+  {
+    "id": "f6xnuhcber",
+    "definition": "Less.js is a JavaScript implementation of a preprocessor that compiles Less syntax, such as variables and mixins, into CSS.",
+    "example": "A developer defines a reusable color variable and compiles the stylesheet for a website.",
+    "sense_note": null
+  },
+  {
+    "id": "f98arbexqb",
+    "definition": "Levelator is an audio processing tool that evens out variations in recorded speech levels.",
+    "example": "A podcast editor uses it to balance a quiet presenter and a louder guest.",
+    "sense_note": null
+  },
+  {
+    "id": "qn0k3sdo1v",
+    "definition": "LIBSVM is a library for support vector machine classification, regression and related modeling tasks.",
+    "example": "An analyst trains a support vector classifier to distinguish two categories of text.",
+    "sense_note": null
+  },
+  {
+    "id": "old72z3wmi",
+    "definition": "LiDAR measures distances by emitting laser light and analyzing the returned signal, often to create three-dimensional point data.",
+    "example": "A survey crew maps terrain and structures along a road.",
+    "sense_note": null
+  },
+  {
+    "id": "noa3cr0ize",
+    "definition": "Life skills are practical abilities for managing daily responsibilities, relationships and decisions.",
+    "example": "A learner makes a budget and schedules bill payments.",
+    "sense_note": null
+  },
+  {
+    "id": "y75y0b5eq1",
+    "definition": "Lightcast provides labor-market data and analytics about jobs, occupations and skills.",
+    "example": "An analyst uses job-posting data to identify frequently requested qualifications.",
+    "sense_note": null
+  },
+  {
+    "id": "cx81zzbvil",
+    "definition": "LightGBM is a library for training gradient-boosted decision tree models for classification, regression and ranking.",
+    "example": "An analyst trains a model to predict customer churn from account data.",
+    "sense_note": null
+  },
+  {
+    "id": "u8d4rbiuwn",
+    "definition": "Lighting design plans the placement, intensity, color and direction of light to support function or visual intent.",
+    "example": "A designer sets light positions and levels to keep actors visible while creating a nighttime mood.",
+    "sense_note": "The label spans stage, architectural and other lighting contexts."
+  },
+  {
+    "id": "hnlyt1jz4b",
+    "definition": "LightTools is optical design and simulation software for modeling illumination systems and light propagation.",
+    "example": "An optical engineer simulates how evenly a light guide illuminates a display.",
+    "sense_note": null
+  },
+  {
+    "id": "z3rnxbom1d",
+    "definition": "The LinkedIn API provides programmatic access to authorized LinkedIn features or data under applicable permissions.",
+    "example": "An application with approved access publishes content to a managed organization page.",
+    "sense_note": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Lawful interception is the legally authorized collection of specified communications or related data, subject to defined procedures and oversight.",
+  "entry_text": "Lawful interception is the legally authorized collection of specified communications or related data, subject to defined procedures and oversight.",
+  "entry_text_kind": "definition",
+  "example": "A compliance team reviews whether an authorization covers the requested records.",
+  "id": "jpejvd4f2s",
+  "key": "lawful-interception",
+  "label": "Lawful interception",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

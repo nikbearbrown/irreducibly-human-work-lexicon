@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "dm8qwd9j0u",
+    "key": "auditing-outpatient-coding",
+    "label": "Auditing outpatient coding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d6c47g3ckz",
+    "key": "auditing",
+    "label": "Auditing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zd8butfvut",
+    "key": "aural-rehabilitation",
+    "label": "Aural rehabilitation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hupkg1mnsj",
+    "key": "aurelia",
+    "label": "Aurelia",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sn7ls039m4",
+    "key": "author-it",
+    "label": "Author-it",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vzdpk860cj",
+    "key": "autism-therapy",
+    "label": "Autism therapy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a9sbyr46z1",
+    "key": "auto-glass-installation-and-repair",
+    "label": "Auto glass installation and repair",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "crbzv5sn0r",
+    "key": "autodesk-123d",
+    "label": "Autodesk 123D",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cezarn1svy",
+    "key": "automotive-detailing",
+    "label": "Automotive detailing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jqsu0gbi1u",
+    "key": "autoregressive-integrated-moving-average",
+    "label": "Autoregressive integrated moving average",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yownx9zvff",
+    "key": "autoshade",
+    "label": "Autoshade",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o1ffghl5pu",
+    "key": "avantgo",
+    "label": "AvantGo",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kmcb9apauo",
+    "key": "aveva-pi-system",
+    "label": "AVEVA PI System",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pgdna467wt",
+    "key": "aviation-medical-examination",
+    "label": "Aviation medical examination",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xv37jo287i",
+    "key": "avid-elastic-reality",
+    "label": "Avid Elastic Reality",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l8ekx0fzub",
+    "key": "avid-media-composer",
+    "label": "Avid Media Composer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "scnorb90o8",
+    "key": "aws-big-data",
+    "label": "AWS big data",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cmtuyx6c1u",
+    "key": "aws-cloud9",
+    "label": "AWS Cloud9",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f9s025tlam",
+    "key": "aws-cloudformation",
+    "label": "AWS CloudFormation",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n6a28897om",
+    "key": "aws-cloudhsm",
+    "label": "AWS CloudHSM",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kba5p9by94",
+    "key": "aws-cloudtrail",
+    "label": "AWS CloudTrail",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lrg2eu09em",
+    "key": "aws-codebuild",
+    "label": "AWS CodeBuild",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mldj16hibf",
+    "key": "aws-codecommit",
+    "label": "AWS CodeCommit",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cml6t35xqn",
+    "key": "aws-command-line-interface",
+    "label": "AWS Command Line Interface",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e7v9azv69k",
+    "key": "aws-elastic-beanstalk",
+    "label": "AWS Elastic Beanstalk",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hh5zk4fi3o",
+    "key": "aws-iot",
+    "label": "AWS IoT",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ry245wui4g",
+    "key": "aws-lambda",
+    "label": "AWS Lambda",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ft1f82qoac",
+    "key": "aws-networking",
+    "label": "AWS networking",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hqhwu7b5ig",
+    "key": "aws-opsworks",
+    "label": "AWS OpsWorks",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kazbc7sp8z",
+    "key": "aws-outposts",
+    "label": "AWS Outposts",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lem0uww05d",
+    "key": "aws-sdk",
+    "label": "AWS SDK",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bshzmdl45a",
+    "key": "aws-serverless",
+    "label": "AWS serverless",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h00skqgqmn",
+    "key": "aws",
+    "label": "Amazon Web Services",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jwz55gwlkt",
+    "key": "axios",
+    "label": "Axios",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lty9xyx66t",
+    "key": "azure-application-insights",
+    "label": "Azure Application Insights",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vsekbxlib7",
+    "key": "azure-cognitive-services",
+    "label": "Azure Cognitive Services",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pnklmrczi7",
+    "key": "azure-data-factory",
+    "label": "Azure Data Factory",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bum8cg3i92",
+    "key": "azure-devops",
+    "label": "Azure DevOps",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r8adb73z22",
+    "key": "azure-iot",
+    "label": "Azure IoT",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lf0wenajzy",
+    "key": "azure-monitor",
+    "label": "Azure Monitor",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

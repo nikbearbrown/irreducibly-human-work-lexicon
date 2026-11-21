@@ -1,0 +1,28 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A standardized modeling language for describing software and systems with diagrams.",
+  "entry_text": "A standardized modeling language for describing software and systems with diagrams.",
+  "entry_text_kind": "definition",
+  "example": "A designer uses a sequence diagram to show messages between components.",
+  "id": "va052jqj8q",
+  "key": "uml",
+  "label": "UML",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "modeling-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "va052jqj8q",
+      "note": "OMG identifies UML as a standard for visualizing and documenting software and systems, including structure and behavior. The actual draft describes the language, not the skill of using it.",
+      "packet": "targeted-language-scope-2026-11-21.json",
+      "ref": "https://www.omg.org/uml/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

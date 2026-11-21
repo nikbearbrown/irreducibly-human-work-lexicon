@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Segment is a customer data platform for collecting and routing event and profile data to other applications.",
+  "entry_text": "Segment is a customer data platform for collecting and routing event and profile data to other applications.",
+  "entry_text_kind": "definition",
+  "example": "A team routes sign-up events from its website to an authorized analytics destination.",
+  "id": "vz5cl4b7vg",
+  "key": "segment-software",
+  "label": "Segment (software)",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as the Segment customer data product.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

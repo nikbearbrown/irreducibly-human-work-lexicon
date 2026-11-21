@@ -1,0 +1,242 @@
+[
+  {
+    "id": "g6t643lbht",
+    "definition": "Microsoft Bot Framework provides tools and interfaces for building conversational applications and connecting them to supported channels.",
+    "example": "A developer connects a support bot to a messaging channel and routes inquiries to its dialog logic.",
+    "sense_note": null
+  },
+  {
+    "id": "mzlmepymn4",
+    "definition": "Microsoft Digital Image Suite was a consumer application suite for editing, organizing and sharing photographs.",
+    "example": "A user adjusted color in a scanned photograph and sorted it into an album.",
+    "sense_note": null
+  },
+  {
+    "id": "kjjuwi4o5n",
+    "definition": "Microsoft Forms creates online questionnaires, quizzes and polls and collects responses.",
+    "example": "A teacher creates a quiz that records students' answers in a response summary.",
+    "sense_note": null
+  },
+  {
+    "id": "jjj5imbhcc",
+    "definition": "Microsoft HoloLens is a wearable mixed-reality device that presents digital content registered in the wearer's surroundings.",
+    "example": "A trainee views an overlay identifying parts of a machine.",
+    "sense_note": null
+  },
+  {
+    "id": "kf8h1njv2w",
+    "definition": "Microsoft Intune is a cloud service for managing organizational devices, applications and related compliance policies.",
+    "example": "An administrator checks whether enrolled laptops meet disk-encryption requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "w1w7p7ynd9",
+    "definition": "A Microsoft Language Interface Pack provides localized interface text for supported software, sometimes requiring a base language installation.",
+    "example": "A user installs and selects a display language to read supported menus in that language.",
+    "sense_note": "Specific coverage varies by product and package."
+  },
+  {
+    "id": "tr4qm7u5gh",
+    "definition": "Microsoft Lists is a Microsoft 365 tool for tracking structured records in configurable lists and views.",
+    "example": "A team creates an equipment issue list with filters for department and status.",
+    "sense_note": null
+  },
+  {
+    "id": "mn8o7lhdzz",
+    "definition": "Microsoft Lync was a business communication application for instant messaging, presence, calling and meetings.",
+    "example": "A user checked a colleague's presence before starting an online call.",
+    "sense_note": null
+  },
+  {
+    "id": "tjxf2atlaw",
+    "definition": "Microsoft Paint is a basic raster graphics editor for drawing and editing images.",
+    "example": "A user crops a screenshot and adds colored labels.",
+    "sense_note": null
+  },
+  {
+    "id": "wm0an97hss",
+    "definition": "Microsoft Sentinel is a cloud security platform for collecting, analyzing and responding to security event data.",
+    "example": "A defender investigates an alert by reviewing related sign-in and system logs.",
+    "sense_note": null
+  },
+  {
+    "id": "k328rpnfpy",
+    "definition": "Microsoft Teams live events refers to a Teams broadcast format in which designated presenters and producers deliver an event to viewers.",
+    "example": "A producer manages presenters and moderated questions during an organization-wide broadcast.",
+    "sense_note": "The label is feature-specific; do not infer availability or equate it to every Teams broadcast format."
+  },
+  {
+    "id": "p0bdmpxb0j",
+    "definition": "Microsoft Teams Phone adds telephony and call-control capabilities to Teams, with external calling through configured connectivity.",
+    "example": "An organization routes calls for a main number to a queue in Teams.",
+    "sense_note": null
+  },
+  {
+    "id": "tjnjb7dm3i",
+    "definition": "Microsoft Transaction Server was a Microsoft platform for running distributed components with services such as transaction coordination and resource management.",
+    "example": "An enterprise application used it to coordinate a business operation across transactional resources.",
+    "sense_note": null
+  },
+  {
+    "id": "najoe59rqn",
+    "definition": "Microsoft Visio is software for creating diagrams such as flowcharts, floor plans and network maps.",
+    "example": "A process analyst uses Visio to document who approves each step of an invoice workflow.",
+    "sense_note": null
+  },
+  {
+    "id": "mqds5egqy1",
+    "definition": "Microsoft Works was a consumer productivity suite offering basic document, spreadsheet and database functions.",
+    "example": "A household used its spreadsheet component to track shared expenses.",
+    "sense_note": null
+  },
+  {
+    "id": "an7k8us8vm",
+    "definition": "MicroStation is computer-aided design software for creating and documenting two- and three-dimensional designs.",
+    "example": "An engineer drafts a roadway plan and attaches reference drawings.",
+    "sense_note": null
+  },
+  {
+    "id": "qss12gvh4s",
+    "definition": "MicroStrategy Desktop refers to a desktop business intelligence application for exploring data and building visual analyses.",
+    "example": "An analyst builds a dashboard from a sales spreadsheet.",
+    "sense_note": "The product name has varied across releases; confirm the version before describing server integration."
+  },
+  {
+    "id": "kzcxb7qa6p",
+    "definition": "MicroStrategy Intelligence Server is the server tier that executes and distributes MicroStrategy analytics and manages associated queries and services.",
+    "example": "A report request is processed by the server and returned to a browser client.",
+    "sense_note": null
+  },
+  {
+    "id": "dwvdsrh0mq",
+    "definition": "MicroStrategy Office is a Microsoft Office integration for accessing and using MicroStrategy reports or data in Office documents.",
+    "example": "A finance analyst refreshes a report embedded in an Excel workbook.",
+    "sense_note": null
+  },
+  {
+    "id": "b9ccp4ihhh",
+    "definition": "MicroStrategy OLAP Services provides in-memory analytical processing for manipulating report views without issuing every query to the underlying data source.",
+    "example": "An analyst changes filters on a cached dataset to compare sales regions.",
+    "sense_note": null
+  },
+  {
+    "id": "xvro2qusl7",
+    "definition": "MicroStrategy Report Services refers to functionality for designing formatted analytical documents and reports.",
+    "example": "A team creates a paginated operating report with tables and charts.",
+    "sense_note": null
+  },
+  {
+    "id": "bt6n4f6sxp",
+    "definition": "The MicroStrategy Software Development Kit provides programming interfaces and development resources for extending or embedding MicroStrategy features.",
+    "example": "A developer integrates a governed analytics view into an internal application.",
+    "sense_note": null
+  },
+  {
+    "id": "u7zy60dlsh",
+    "definition": "MicroStrategy Transaction Services supports data-entry and write-back workflows from analytics interfaces to configured data sources.",
+    "example": "A manager submits a revised forecast value from a dashboard control.",
+    "sense_note": null
+  },
+  {
+    "id": "zjf0haqci6",
+    "definition": "MicroStrategy Visual Insight was a visual data-discovery tool for building interactive analyses and dashboards.",
+    "example": "An analyst drags fields into a chart to explore revenue differences across regions.",
+    "sense_note": null
+  },
+  {
+    "id": "a8hfha4eox",
+    "definition": "MicroStrategy Web is a browser interface for accessing reports, dashboards and related business intelligence tools.",
+    "example": "A manager opens a shared dashboard in a browser and filters it to their region.",
+    "sense_note": null
+  },
+  {
+    "id": "nicyomlrg5",
+    "definition": "MIKE URBAN is modeling software for urban water infrastructure such as water supply, drainage and sewer networks.",
+    "example": "A civil engineer simulates how heavy rainfall affects flows through a stormwater network.",
+    "sense_note": null
+  },
+  {
+    "id": "ph4pdgllci",
+    "definition": "Military standards and specifications prescribe requirements for materials, equipment, services or processes in military acquisition and operation.",
+    "example": "A procurement specialist checks whether a supplier's test evidence satisfies a contractually referenced specification.",
+    "sense_note": null
+  },
+  {
+    "id": "z9fhus6h3o",
+    "definition": "Mind mapping organizes related ideas visually around a central topic using branching associations.",
+    "example": "A team maps possible causes of delivery delays around a central problem.",
+    "sense_note": null
+  },
+  {
+    "id": "pwa238fmd8",
+    "definition": "MITRE ATT&CK is a knowledge base and framework that organizes observed adversary behavior into tactics and techniques for security analysis.",
+    "example": "A defender maps known security alerts to ATT&CK categories to identify gaps in monitoring.",
+    "sense_note": null
+  },
+  {
+    "id": "jnbv0d79jr",
+    "definition": "Mobile application design plans an application's functionality, interactions and presentation for mobile devices and contexts.",
+    "example": "A designer maps how a commuter would complete a ticket purchase with one hand.",
+    "sense_note": null
+  },
+  {
+    "id": "r6evkrcg5x",
+    "definition": "Mobile UI design creates the visual and interactive controls through which users operate a mobile application.",
+    "example": "A designer chooses button sizes and spacing that make a form easy to tap.",
+    "sense_note": null
+  },
+  {
+    "id": "s8e0grtfer",
+    "definition": "Mobile UX design improves how users accomplish goals in mobile contexts by addressing workflows, usability and accessibility.",
+    "example": "A researcher observes people using an app on a crowded platform and identifies where the process breaks down.",
+    "sense_note": null
+  },
+  {
+    "id": "vnj1cbr7ux",
+    "definition": "ModelOps coordinates the deployment, monitoring, governance and maintenance of analytical models across their operational lifecycle.",
+    "example": "A model owner tracks production versions and triggers review when validation metrics decline.",
+    "sense_note": null
+  },
+  {
+    "id": "o5nqf6k2ww",
+    "definition": "ModelSim is an electronic design simulation tool for testing hardware description language models.",
+    "example": "An engineer uses a testbench to verify a counter's expected sequence in a simulation.",
+    "sense_note": null
+  },
+  {
+    "id": "n3l0oty8h4",
+    "definition": "Modern methods of construction describe approaches that improve building production through techniques such as off-site manufacture or standardized assemblies.",
+    "example": "A builder installs factory-made wall panels to reduce on-site assembly time.",
+    "sense_note": "This is an umbrella term; qualifying methods vary across programs."
+  },
+  {
+    "id": "twby58lhlh",
+    "definition": "MODO is a three-dimensional content-creation application for modeling, texturing, rendering and animation.",
+    "example": "An artist models a product, applies materials and renders a studio image.",
+    "sense_note": null
+  },
+  {
+    "id": "r6k77wrrjc",
+    "definition": "Moist heat sterilization uses controlled moist heat to inactivate microorganisms, including resistant forms, in compatible materials.",
+    "example": "A facility uses a validated steam sterilization cycle for compatible instruments.",
+    "sense_note": null
+  },
+  {
+    "id": "s14nnt0n9p",
+    "definition": "Mold setting installs, aligns and prepares a mold in manufacturing equipment for a production run.",
+    "example": "An operator secures a replacement mold and verifies its alignment before production.",
+    "sense_note": null
+  },
+  {
+    "id": "dvj1ptsqlv",
+    "definition": "Molding forms a material into a defined shape using a mold or cavity.",
+    "example": "A manufacturer forms plastic housings in a mold that defines their dimensions.",
+    "sense_note": "This is a general manufacturing sense; distinguish casting, injection molding and architectural moldings where needed."
+  },
+  {
+    "id": "swoghz2nu2",
+    "definition": "Moldings installation and maintenance fit, secure, finish and repair decorative or protective trim on surfaces.",
+    "example": "A carpenter cuts and fits replacement trim around a damaged doorway.",
+    "sense_note": null
+  }
+]

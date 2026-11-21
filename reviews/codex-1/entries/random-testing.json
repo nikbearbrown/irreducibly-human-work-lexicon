@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Random testing evaluates a system using test inputs sampled from a specified domain or distribution.",
+  "entry_text": "Random testing evaluates a system using test inputs sampled from a specified domain or distribution.",
+  "entry_text_kind": "definition",
+  "example": "A tester generates varied valid input sizes for a library.",
+  "id": "a65p6wgs2q",
+  "key": "random-testing",
+  "label": "Random testing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

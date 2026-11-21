@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The case method teaches through discussion and analysis of concrete situations rather than exclusively through lectures or abstract exercises.",
+  "entry_text": "The case method teaches through discussion and analysis of concrete situations rather than exclusively through lectures or abstract exercises.",
+  "entry_text_kind": "definition",
+  "example": "An instructor asks students to defend different decisions as if they were the manager in a case.",
+  "id": "u33zg3sop2",
+  "key": "case-method",
+  "label": "Case method",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

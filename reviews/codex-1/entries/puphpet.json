@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PuPHPet was a configuration generator for provisioning Vagrant development environments with Puppet.",
+  "entry_text": "PuPHPet was a configuration generator for provisioning Vagrant development environments with Puppet.",
+  "entry_text_kind": "definition",
+  "example": "A developer used it to generate a repeatable local PHP development setup.",
+  "id": "zu2ca90t34",
+  "key": "puphpet",
+  "label": "PuPHPet",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Network topology describes the physical or logical arrangement of network nodes and the links between them.",
+  "entry_text": "Network topology describes the physical or logical arrangement of network nodes and the links between them.",
+  "entry_text_kind": "definition",
+  "example": "A designer compares a star layout with a ring for connecting office switches.",
+  "id": "d2m3gb8qfu",
+  "key": "network-topology",
+  "label": "Network topology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

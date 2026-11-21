@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Ray tracing calculates light transport or visibility by following rays and evaluating their intersections with scene geometry.",
+  "entry_text": "Ray tracing calculates light transport or visibility by following rays and evaluating their intersections with scene geometry.",
+  "entry_text_kind": "definition",
+  "example": "A renderer traces a ray to determine what surface is visible at a pixel.",
+  "id": "ly9pv45gt7",
+  "key": "ray-tracing",
+  "label": "Ray tracing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

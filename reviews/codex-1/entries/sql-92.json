@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SQL-92 is the 1992 revision of the SQL standard, specifying relational database language features such as queries, constraints, and transaction constructs.",
+  "entry_text": "SQL-92 is the 1992 revision of the SQL standard, specifying relational database language features such as queries, constraints, and transaction constructs.",
+  "entry_text_kind": "definition",
+  "example": "A developer checks whether a query uses standard joins when planning to move it between database systems.",
+  "id": "g1hfi5qy94",
+  "key": "sql-92",
+  "label": "SQL-92",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

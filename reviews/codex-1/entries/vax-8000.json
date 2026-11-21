@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The VAX 8000 is a series of higher-end Digital Equipment Corporation systems implementing the VAX instruction set architecture.",
+  "entry_text": "The VAX 8000 is a series of higher-end Digital Equipment Corporation systems implementing the VAX instruction set architecture.",
+  "entry_text_kind": "definition",
+  "example": "A computer archivist identifies a VAX 8800 system from its model documentation.",
+  "id": "cdkw6bhtjt",
+  "key": "vax-8000",
+  "label": "VAX 8000",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical product series; not a single configuration.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

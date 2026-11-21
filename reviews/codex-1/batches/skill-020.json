@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "o0xh85dvg5",
+    "key": "google-ads",
+    "label": "Google Ads",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vi7zc8mye4",
+    "key": "google-bard",
+    "label": "Google Bard",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s5wfbovdhh",
+    "key": "google-business-profile",
+    "label": "Google Business Profile",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wwygnox2lh",
+    "key": "google-cloud-platform",
+    "label": "Google Cloud Platform",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fni7jt25xn",
+    "key": "google-jamboard",
+    "label": "Google Jamboard",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y29ojw2nif",
+    "key": "google-kubernetes-engine",
+    "label": "Google Kubernetes Engine",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qwxve2acvt",
+    "key": "google-optimize",
+    "label": "Google Optimize",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o691ftsrfr",
+    "key": "google-sheets",
+    "label": "Google Sheets",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l119bneew7",
+    "key": "google-slides",
+    "label": "Google Slides",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xxggdc82ng",
+    "key": "google-workspace",
+    "label": "Google Workspace",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wm61vorv24",
+    "key": "google",
+    "label": "Google+",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "myl1vbxorx",
+    "key": "gopro",
+    "label": "GoPro",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kzkhrmm2jm",
+    "key": "gosystem-tax-rs",
+    "label": "GoSystem Tax RS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mzkgkg9ifg",
+    "key": "governance",
+    "label": "AI governance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h8tb04y8ia",
+    "key": "government-engagement",
+    "label": "Government engagement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xmvmbpscz8",
+    "key": "graphical-evaluation-and-review-technique",
+    "label": "Graphical Evaluation and Review Technique",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bwvcfq0xhb",
+    "key": "graphics-interchange-format",
+    "label": "Graphics Interchange Format",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k7txrlpsj4",
+    "key": "graphite",
+    "label": "Graphite",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nnpo33gfsf",
+    "key": "greeting-guests",
+    "label": "Greeting guests",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z3cpi1yc3f",
+    "key": "groove-welding",
+    "label": "Groove welding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wcem2h6zih",
+    "key": "groundskeeping-and-yard-care",
+    "label": "Groundskeeping and yard care",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q4anc8fb3e",
+    "key": "group-decision-making",
+    "label": "Group decision-making",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rm2id4spt5",
+    "key": "group-work",
+    "label": "Group work",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gvxp4p5oq8",
+    "key": "groupme",
+    "label": "GroupMe",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kx6hq4bfym",
+    "key": "grunt-js",
+    "label": "Grunt.js",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o7ocsir0rp",
+    "key": "guardrails-product",
+    "label": "Guardrails AI",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xayt8bhrdg",
+    "key": "guardrails",
+    "label": "AI guardrails",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ojeubzzg6x",
+    "key": "gulp-js",
+    "label": "Gulp.js",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v9eefyu589",
+    "key": "gymnastics",
+    "label": "Gymnastics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p1m3z4jikp",
+    "key": "h-262-mpeg-2-part-2",
+    "label": "H.262/MPEG-2 Part 2",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z1ujvxs2o9",
+    "key": "hadoop-distributed-file-system",
+    "label": "Hadoop Distributed File System",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k533vkg8mw",
+    "key": "hair-clipper",
+    "label": "Hair clipper",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qj03k5ss5r",
+    "key": "hammer-file-system",
+    "label": "HAMMER file system",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u3dikz1bvr",
+    "key": "hammer-js",
+    "label": "Hammer.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hheoc0urcl",
+    "key": "hand-lettering",
+    "label": "Hand lettering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q6he1cwe1i",
+    "key": "hand-therapy",
+    "label": "Hand therapy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qhqzepuu95",
+    "key": "handle-system",
+    "label": "Handle System",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v4wdughw0p",
+    "key": "handlebars-js",
+    "label": "Handlebars.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "evbr3hj7wv",
+    "key": "hapi",
+    "label": "hapi",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "khu10n7d7g",
+    "key": "hardware-configuration-management",
+    "label": "Hardware configuration management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

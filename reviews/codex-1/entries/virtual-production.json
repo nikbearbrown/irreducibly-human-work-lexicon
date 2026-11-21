@@ -1,0 +1,20 @@
+{
+  "batch": "skill-047.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Virtual production combines digital environments or effects with live production workflows.",
+  "entry_text": "Virtual production combines digital environments or effects with live production workflows.",
+  "entry_text_kind": "definition",
+  "example": "A director frames actors against a digital backdrop on an LED wall.",
+  "id": "t2feabgvth",
+  "key": "virtual-production",
+  "label": "Virtual production",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

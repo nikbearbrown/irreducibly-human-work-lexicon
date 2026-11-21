@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Children's ministry is the work of a religious community to provide children with age-appropriate religious education, participation, and pastoral care.",
+  "entry_text": "Children's ministry is the work of a religious community to provide children with age-appropriate religious education, participation, and pastoral care.",
+  "entry_text_kind": "definition",
+  "example": "A congregation organizes a supervised children's lesson using stories, questions, and activities suited to different ages.",
+  "id": "qatr9a0kcz",
+  "key": "children-s-ministry",
+  "label": "Children's ministry",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-013.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Virtual reality presents an immersive computer-generated environment that can respond to a user's viewpoint or actions.",
+  "entry_text": "Virtual reality presents an immersive computer-generated environment that can respond to a user's viewpoint or actions.",
+  "entry_text_kind": "definition",
+  "example": "A trainee uses a headset to practice navigating a simulated facility.",
+  "id": "megl3qks4r",
+  "key": "virtual-reality",
+  "label": "Virtual reality",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

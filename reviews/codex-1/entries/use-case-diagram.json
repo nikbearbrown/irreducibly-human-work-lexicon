@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A use case diagram represents external actors and the goal-oriented interactions they have with a system, without detailing the steps inside each interaction.",
+  "entry_text": "A use case diagram represents external actors and the goal-oriented interactions they have with a system, without detailing the steps inside each interaction.",
+  "entry_text_kind": "definition",
+  "example": "A diagram shows that customers can request refunds while only managers can approve certain requests.",
+  "id": "h9ukmahwf4",
+  "key": "use-case-diagram",
+  "label": "Use case diagram",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

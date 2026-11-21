@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Linguistic morphology studies how meaningful units combine within words and how word forms express grammatical distinctions.",
+  "entry_text": "Linguistic morphology studies how meaningful units combine within words and how word forms express grammatical distinctions.",
+  "entry_text_kind": "definition",
+  "example": "A linguist analyzes how a plural suffix changes a noun's number.",
+  "id": "m0xr2zu744",
+  "key": "linguistic-morphology",
+  "label": "Linguistic morphology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

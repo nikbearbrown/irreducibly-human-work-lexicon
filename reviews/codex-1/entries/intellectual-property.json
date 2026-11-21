@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Intellectual property concerns legal rights in certain creations, inventions, identifying marks and protected information.",
+  "entry_text": "Intellectual property concerns legal rights in certain creations, inventions, identifying marks and protected information.",
+  "entry_text_kind": "definition",
+  "example": "A publishing team checks which rights it needs to reproduce an illustration.",
+  "id": "gycnd1oe8v",
+  "key": "intellectual-property",
+  "label": "Intellectual property",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

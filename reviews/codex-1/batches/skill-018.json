@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "ouz5zu8tme",
+    "key": "figjam",
+    "label": "FigJam",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p0rsziuazr",
+    "key": "filleting",
+    "label": "Filleting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lmnl567ljy",
+    "key": "film-scoring",
+    "label": "Film scoring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cw7k737uu3",
+    "key": "finacle",
+    "label": "Finacle",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "alkq3wmgp5",
+    "key": "finance-automation",
+    "label": "Finance automation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hj9hq9169z",
+    "key": "finance-software",
+    "label": "Finance software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oh51xzioea",
+    "key": "financial-acumen",
+    "label": "Financial acumen",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zva5cuwjey",
+    "key": "financial-analytics",
+    "label": "Financial analytics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pts4mjn76g",
+    "key": "financial-consolidation",
+    "label": "Financial consolidation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ygv0c1sw96",
+    "key": "financial-forecasting",
+    "label": "Financial forecasting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hmao8iexo4",
+    "key": "financial-information-exchange",
+    "label": "Financial Information eXchange",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vivxc5g99i",
+    "key": "financial-risk-management",
+    "label": "Financial risk management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ti163kegtl",
+    "key": "fincad",
+    "label": "FINCAD",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "it615kyzux",
+    "key": "fincen-314-program",
+    "label": "FinCEN 314 program",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nnwm6rgpju",
+    "key": "fine-tuning",
+    "label": "Model fine-tuning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r4ouhufncq",
+    "key": "firebase-cloud-messaging",
+    "label": "Firebase Cloud Messaging",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v6qh0hzk61",
+    "key": "first-article-inspection",
+    "label": "First article inspection",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uaod3n95k8",
+    "key": "fis-getpaid",
+    "label": "FIS GetPaid",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o1z2vme9w2",
+    "key": "flask",
+    "label": "Flask",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hgakunv2dr",
+    "key": "flat-sketching",
+    "label": "Flat sketching",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n6kpgpt2fz",
+    "key": "flatbed-truck",
+    "label": "Flatbed truck",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sday7dmv3r",
+    "key": "flavor-development",
+    "label": "Flavor development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ch6dqtum68",
+    "key": "flexisign",
+    "label": "FlexiSIGN",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cf0cldbloe",
+    "key": "flight-planning",
+    "label": "Flight planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u554ug560m",
+    "key": "flipped-classroom",
+    "label": "Flipped classroom",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rjc04xak59",
+    "key": "flutter",
+    "label": "Flutter",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "inav67iamu",
+    "key": "flux-analysis",
+    "label": "Flux analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d7860gye0y",
+    "key": "flux-cd",
+    "label": "Flux CD",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iw0wtio6ok",
+    "key": "foglight",
+    "label": "Foglight",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cf2be9glw3",
+    "key": "font-awesome",
+    "label": "Font Awesome",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c4n1w9e67s",
+    "key": "food-palatability-evaluation",
+    "label": "Food palatability evaluation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mo6witleai",
+    "key": "food-plating-and-presentation",
+    "label": "Food plating and presentation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "acez55e1cs",
+    "key": "food-preservation",
+    "label": "Food preservation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gx7y9n0km8",
+    "key": "food-procurement",
+    "label": "Food procurement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dvyts3is91",
+    "key": "food-systems-management",
+    "label": "Food systems management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nhdkvgjim2",
+    "key": "footprinting",
+    "label": "Footprinting",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lpvif7kblc",
+    "key": "foreign-account-tax-compliance-act",
+    "label": "Foreign Account Tax Compliance Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n3156vn7ie",
+    "key": "forklift-truck",
+    "label": "Forklift truck",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cr8hoe2lk8",
+    "key": "framer-js",
+    "label": "Framer.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mpc9ar27l6",
+    "key": "franchise-sales",
+    "label": "Franchise sales",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

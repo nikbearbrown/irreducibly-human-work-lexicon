@@ -1,0 +1,28 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Pug is a template language and engine with indentation-based syntax for generating HTML.",
+  "entry_text": "Pug is a template language and engine with indentation-based syntax for generating HTML.",
+  "entry_text_kind": "definition",
+  "example": "A site renders a list of products from records using one Pug template.",
+  "id": "wpe22ejvkt",
+  "key": "pug",
+  "label": "Pug",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "wpe22ejvkt",
+      "note": "Project documentation demonstrates indented templates compiled to functions rendering HTML with supplied data.",
+      "packet": "root-skill-037-and-abc.json",
+      "ref": "https://pugjs.org/api/getting-started.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

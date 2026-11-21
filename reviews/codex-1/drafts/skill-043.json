@@ -1,0 +1,242 @@
+[
+  {
+    "id": "vz9yf51h4p",
+    "definition": "Stable Diffusion is a family of image generation models that use diffusion processes in a compressed representation to create or modify images from conditions such as text.",
+    "example": "An illustrator uses text prompts to explore visual directions before drawing the final scene.",
+    "sense_note": null
+  },
+  {
+    "id": "zcduq1duac",
+    "definition": "Stair and railing construction builds stairways and protective or graspable rails to meet design, structural, and safety requirements.",
+    "example": "A carpenter checks that completed stairs have consistent rise heights and secure handrail attachments.",
+    "sense_note": null
+  },
+  {
+    "id": "kbj9m1t62c",
+    "definition": "Stakeholder communication exchanges relevant information and feedback with people or groups affected by a decision, project, or organization.",
+    "example": "A project lead explains a schedule change to affected teams and records which dependencies need follow-up.",
+    "sense_note": null
+  },
+  {
+    "id": "x81u46ani4",
+    "definition": "The Standards of Training, Certification and Watchkeeping are international maritime requirements for minimum seafarer training, credentials, and watchkeeping practices.",
+    "example": "A shipping operator checks that a crew member's certification matches assigned watch duties.",
+    "sense_note": null
+  },
+  {
+    "id": "srpx1wtabe",
+    "definition": "Stanislavski's system is an approach to actor training that develops believable performances by examining given circumstances, objectives, and purposeful action.",
+    "example": "An actor rehearses a negotiation scene by identifying what the character wants from the other person.",
+    "sense_note": null
+  },
+  {
+    "id": "vgsyrsr7pf",
+    "definition": "Star and snowflake schemas organize analytical data around fact tables and dimensions, with snowflake schemas further normalizing dimension data into related tables.",
+    "example": "A warehouse designer keeps product category in one dimension for a star schema but separates it into a linked table in a snowflake schema.",
+    "sense_note": null
+  },
+  {
+    "id": "cvzbo9nnh4",
+    "definition": "Statement on Auditing Standards No. 70 was a U.S. auditing standard for reporting on controls at service organizations relevant to their customers' financial reporting.",
+    "example": "An auditor reading an archived file distinguishes a report issued under SAS 70 from its later reporting frameworks.",
+    "sense_note": "Historical standard; do not treat it as current guidance."
+  },
+  {
+    "id": "eisnlpf3so",
+    "definition": "Statements on Standards for Attestation Engagements are U.S. professional standards governing engagements in which practitioners examine, review, or perform agreed procedures on specified subject matter or assertions.",
+    "example": "An accounting firm identifies the applicable guidance before accepting an agreed-upon procedures engagement.",
+    "sense_note": null
+  },
+  {
+    "id": "yudz6qpuf8",
+    "definition": "Statistical software implements tools for managing data, estimating models, testing hypotheses, and visualizing results.",
+    "example": "A researcher uses statistical software to fit a regression and plot its residuals.",
+    "sense_note": null
+  },
+  {
+    "id": "u7uo9jl0hd",
+    "definition": "Sterile technique uses controlled practices and barriers to keep designated materials and areas free from contamination by viable microorganisms.",
+    "example": "A clinical team monitors the sterile field and replaces an item if its sterility is compromised.",
+    "sense_note": null
+  },
+  {
+    "id": "f3p9mj9l02",
+    "definition": "STM32 Nucleo is STMicroelectronics' family of development boards for prototyping with STM32 microcontrollers.",
+    "example": "An engineer tests a sensor interface on a Nucleo board before designing a custom circuit.",
+    "sense_note": null
+  },
+  {
+    "id": "kzqxoy5ali",
+    "definition": "Stochastic modelling represents uncertain system behavior using random variables or probability processes.",
+    "example": "A planner models different passenger arrival times to estimate the distribution of queue lengths.",
+    "sense_note": null
+  },
+  {
+    "id": "hv6ysxrs2l",
+    "definition": "StormCAD is Bentley storm sewer design and analysis software for evaluating drainage networks under modeled rainfall and hydraulic conditions.",
+    "example": "An engineer checks whether a modeled pipe network can convey runoff from the design storm.",
+    "sense_note": null
+  },
+  {
+    "id": "m2oxlvpoy1",
+    "definition": "Stormwater monitoring measures runoff quantity, quality, or associated conditions to evaluate drainage performance and impacts on receiving waters.",
+    "example": "A municipality compares monitored sediment levels before and after upgrading a detention basin.",
+    "sense_note": null
+  },
+  {
+    "id": "xvm42di96q",
+    "definition": "Strategic decision-making selects actions with long-term consequences by weighing goals, evidence, alternatives, risks, and resource commitments.",
+    "example": "A nonprofit compares expanding into a new city with improving its existing program before allocating its budget.",
+    "sense_note": null
+  },
+  {
+    "id": "k1k1pijmlc",
+    "definition": "Strategic prioritization ranks competing initiatives according to objectives, expected impact, urgency, feasibility, and constraints.",
+    "example": "A team prioritizes stabilizing an essential service over adding a feature with little demonstrated demand.",
+    "sense_note": null
+  },
+  {
+    "id": "z9ekven1de",
+    "definition": "Strategic procurement aligns purchasing and supplier decisions with long-term goals for value, risk, availability, and performance.",
+    "example": "A hospital assesses supply continuity and service terms alongside unit price when choosing a supplier.",
+    "sense_note": null
+  },
+  {
+    "id": "egr0a7yj0j",
+    "definition": "Strength training uses progressively challenging muscular resistance to develop force production and related physical capacities.",
+    "example": "A supervised exercise program tracks changes in how much resistance a participant can handle with sound technique.",
+    "sense_note": null
+  },
+  {
+    "id": "ngph5j5f3b",
+    "definition": "Computing stress testing deliberately exposes a system to unusually demanding but authorized workloads to observe limits, degradation, and recovery.",
+    "example": "A team increases simulated traffic in a test environment and records when response times exceed the target.",
+    "sense_note": null
+  },
+  {
+    "id": "wtalx4mqbo",
+    "definition": "Stretch wrapping uses tensioned elastic film to hold items together or secure a load for handling and transport.",
+    "example": "A warehouse wraps cartons on a pallet so the stack stays together during transit.",
+    "sense_note": null
+  },
+  {
+    "id": "vh41ol2rut",
+    "definition": "Structural calculations apply engineering mechanics and design requirements to estimate load effects, capacity, stability, or deflection in a structure.",
+    "example": "An engineer calculates the expected deflection of a floor beam under specified loads.",
+    "sense_note": null
+  },
+  {
+    "id": "bd1njmfufc",
+    "definition": "Structural detailing translates structural design requirements into drawings or models that specify dimensions, connections, reinforcement, and assembly details.",
+    "example": "A detailer shows where reinforcing bars overlap around a concrete opening.",
+    "sense_note": null
+  },
+  {
+    "id": "nottch9bpm",
+    "definition": "A structure chart diagrams the hierarchy of software modules and their calling or data relationships.",
+    "example": "A designer diagrams how an invoice routine calls separate modules to compute taxes and format totals.",
+    "sense_note": "Interpreted as structured software design, not an organizational chart."
+  },
+  {
+    "id": "x9n3rqkopo",
+    "definition": "Student development concerns how students grow intellectually, socially, personally, and professionally and how educational settings support that growth.",
+    "example": "A student affairs team designs advising activities that help first-year students make more independent decisions.",
+    "sense_note": null
+  },
+  {
+    "id": "jwu8ona3vz",
+    "definition": "Student recruitment attracts and informs prospective students and supports their progression toward application or enrollment.",
+    "example": "An admissions team offers a program information session and follows up with applicants about required materials.",
+    "sense_note": null
+  },
+  {
+    "id": "thnbnd3pir",
+    "definition": "Student's t-test uses a t statistic to test a hypothesis about a mean or mean difference under specified assumptions.",
+    "example": "A researcher uses a paired t-test to assess the average change between two measurements on the same participants.",
+    "sense_note": "Distinguish equal-variance two-sample Student tests from Welch's variant."
+  },
+  {
+    "id": "y8thnateb0",
+    "definition": "The Stuttgart Neural Network Simulator is a software package for constructing, training, and studying artificial neural networks.",
+    "example": "A researcher teaching historical neural network methods loads a small classifier and examines its learned weights.",
+    "sense_note": "Historical software commonly abbreviated SNNS."
+  },
+  {
+    "id": "elj734ipli",
+    "definition": "Sublime Text is a text and source code editor with syntax highlighting, search, and extensibility through packages.",
+    "example": "A developer uses project-wide search to find where an outdated configuration name appears.",
+    "sense_note": null
+  },
+  {
+    "id": "zph9nlj4oh",
+    "definition": "Substance use assessment evaluates patterns, risks, consequences, and related needs to guide professional decisions about support or treatment.",
+    "example": "A clinician gathers a history and uses a validated questionnaire before discussing options with a patient.",
+    "sense_note": "The label uses older terminology; screening alone does not establish a diagnosis."
+  },
+  {
+    "id": "mn0kh9q0a1",
+    "definition": "In auditing, substantive testing examines transaction details, balances, disclosures, or analytical relationships to detect material misstatements.",
+    "example": "An auditor compares selected recorded sales with invoices and shipment evidence.",
+    "sense_note": null
+  },
+  {
+    "id": "pssdza1weh",
+    "definition": "SuperTest is a JavaScript library for testing HTTP server behavior by sending requests and asserting response properties.",
+    "example": "A developer checks that an application returns the expected status and JSON fields for a test request.",
+    "sense_note": null
+  },
+  {
+    "id": "tf0qfj7tkw",
+    "definition": "Supplier quality engineering uses engineering methods to qualify suppliers, assess production processes, and prevent or resolve defects in supplied components.",
+    "example": "An engineer reviews a supplier's process capability after repeated parts fail a dimensional check.",
+    "sense_note": null
+  },
+  {
+    "id": "bmmxhtlvs2",
+    "definition": "Supplier quality management establishes and monitors supplier quality requirements, performance, and corrective actions over the relationship.",
+    "example": "A purchasing team reviews supplier defect trends and tracks corrective actions to completion.",
+    "sense_note": null
+  },
+  {
+    "id": "s479attn3c",
+    "definition": "A surgical incision is a deliberate cut into tissue made to provide access for an operation or procedure.",
+    "example": "A surgical trainee reviewing an anatomy diagram identifies the marked access site for a planned procedure.",
+    "sense_note": null
+  },
+  {
+    "id": "q30r29eun4",
+    "definition": "Surgical suturing uses stitches to approximate tissues, close a wound, or secure tissue or material during a procedure.",
+    "example": "A supervised learner uses a simulation model to assess whether the edges remain aligned after closure.",
+    "sense_note": null
+  },
+  {
+    "id": "psgmej2f93",
+    "definition": "Sustainability risk management identifies, evaluates, and responds to environmental and social uncertainties that could affect operations, stakeholders, or long-term goals.",
+    "example": "A company assesses whether water scarcity at key suppliers could disrupt production and harm local communities.",
+    "sense_note": null
+  },
+  {
+    "id": "kf00e1n2od",
+    "definition": "Sustainable investment management incorporates financially relevant sustainability factors or explicit sustainability objectives into investment research, decisions, ownership, and monitoring.",
+    "example": "A fund manager compares portfolio companies' transition risks against the fund's stated mandate.",
+    "sense_note": null
+  },
+  {
+    "id": "gcll6t8sfs",
+    "definition": "Svelte is a web user-interface framework that compiles components into JavaScript and coordinates updates when application state changes.",
+    "example": "A developer binds a filter control to the displayed list in a Svelte component.",
+    "sense_note": null
+  },
+  {
+    "id": "ccto9mfj25",
+    "definition": "SvelteKit is an application framework built on Svelte that adds routing, data loading, rendering, and deployment integration.",
+    "example": "A developer creates a route that loads product details on the server and renders a page.",
+    "sense_note": null
+  },
+  {
+    "id": "t1q7dip5ju",
+    "definition": "Swagger UI renders OpenAPI descriptions as interactive documentation for exploring API operations and, when configured, making requests.",
+    "example": "A developer reads a documented request schema and tries the operation against an authorized sandbox.",
+    "sense_note": null
+  }
+]

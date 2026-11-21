@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Lighting design plans the placement, intensity, color and direction of light to support function or visual intent.",
+  "entry_text": "Lighting design plans the placement, intensity, color and direction of light to support function or visual intent.",
+  "entry_text_kind": "definition",
+  "example": "A designer sets light positions and levels to keep actors visible while creating a nighttime mood.",
+  "id": "u8d4rbiuwn",
+  "key": "lighting-design",
+  "label": "Lighting design",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label spans stage, architectural and other lighting contexts.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

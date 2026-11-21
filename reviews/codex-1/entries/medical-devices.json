@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Medical devices are instruments, equipment, implants or software intended for a medical purpose such as diagnosis, monitoring or treatment.",
+  "entry_text": "Medical devices are instruments, equipment, implants or software intended for a medical purpose such as diagnosis, monitoring or treatment.",
+  "entry_text_kind": "definition",
+  "example": "A clinic uses a pulse oximeter to measure a patient's blood oxygen saturation.",
+  "id": "i7hneu52i6",
+  "key": "medical-devices",
+  "label": "Medical devices",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Formal regulatory definitions vary by jurisdiction.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

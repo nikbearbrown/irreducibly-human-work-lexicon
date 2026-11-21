@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A powered industrial truck that uses forks to lift, move, and position loads.",
+  "entry_text": "A powered industrial truck that uses forks to lift, move, and position loads.",
+  "entry_text_kind": "definition",
+  "example": "A trained operator moves a pallet from a receiving area to a storage rack.",
+  "id": "n3156vn7ie",
+  "key": "forklift-truck",
+  "label": "Forklift truck",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

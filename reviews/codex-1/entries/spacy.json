@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "spaCy is a Python library for processing natural language with tools such as tokenization, parsing, and named entity recognition.",
+  "entry_text": "spaCy is a Python library for processing natural language with tools such as tokenization, parsing, and named entity recognition.",
+  "entry_text_kind": "definition",
+  "example": "A research team labels organization names in a set of documents for review.",
+  "id": "n4go9oimdg",
+  "key": "spacy",
+  "label": "spaCy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

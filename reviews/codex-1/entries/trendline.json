@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A trendline is a fitted or smoothed line that summarizes the predominant direction or pattern in plotted observations.",
+  "entry_text": "A trendline is a fitted or smoothed line that summarizes the predominant direction or pattern in plotted observations.",
+  "entry_text_kind": "definition",
+  "example": "An analyst overlays a fitted line on monthly sales and inspects where individual months depart from it.",
+  "id": "lq3c55zbbn",
+  "key": "trendline",
+  "label": "Trendline",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

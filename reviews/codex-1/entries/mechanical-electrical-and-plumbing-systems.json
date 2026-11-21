@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Mechanical, electrical and plumbing systems are coordinated building services that supply functions such as climate control, power, water and drainage.",
+  "entry_text": "Mechanical, electrical and plumbing systems are coordinated building services that supply functions such as climate control, power, water and drainage.",
+  "entry_text_kind": "definition",
+  "example": "A design team checks that ductwork and electrical conduits do not interfere above a ceiling.",
+  "id": "artpsp4ao2",
+  "key": "mechanical-electrical-and-plumbing-systems",
+  "label": "Mechanical, electrical and plumbing systems",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

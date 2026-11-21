@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Microsoft Works was a consumer productivity suite offering basic document, spreadsheet and database functions.",
+  "entry_text": "Microsoft Works was a consumer productivity suite offering basic document, spreadsheet and database functions.",
+  "entry_text_kind": "definition",
+  "example": "A household used its spreadsheet component to track shared expenses.",
+  "id": "mqds5egqy1",
+  "key": "microsoft-works",
+  "label": "Microsoft Works",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

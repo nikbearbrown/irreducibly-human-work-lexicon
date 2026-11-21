@@ -1,0 +1,242 @@
+[
+  {
+    "id": "jx7it8oo69",
+    "definition": "3D Touch is Apple's pressure-sensitive touchscreen feature that lets a supported device respond differently to touches of different force.",
+    "example": "A user presses firmly on a supported iPhone app icon to reveal a shortcut menu.",
+    "sense_note": null
+  },
+  {
+    "id": "x1ik9vrk6z",
+    "definition": "The ABEC scale classifies certain precision bearings by dimensional and running tolerances, not by overall durability or suitability for a particular use.",
+    "example": "A machine designer specifies an ABEC tolerance class for a spindle bearing rather than inferring its load rating from that class.",
+    "sense_note": null
+  },
+  {
+    "id": "dcojl2vxs3",
+    "definition": "An access point name, or APN, identifies the packet data network a mobile device requests from its carrier.",
+    "example": "A technician selects a carrier's enterprise APN to connect a compatible device to the organization's designated data network.",
+    "sense_note": null
+  },
+  {
+    "id": "uga6m4y1c2",
+    "definition": "An accumulated benefit obligation is the actuarial present value of defined pension benefits earned to date, based on current rather than projected future compensation.",
+    "example": "A pension actuary estimates obligations for service already performed without assuming future salary increases.",
+    "sense_note": null
+  },
+  {
+    "id": "nqi6z4463l",
+    "definition": "Action for Climate Empowerment is the UN climate framework for strengthening education, training, public awareness, participation, public access to information, and international cooperation on climate change.",
+    "example": "A national program combines teacher training and public consultations so people can participate in developing climate policy.",
+    "sense_note": null
+  },
+  {
+    "id": "kaq3khj4zt",
+    "definition": "An active pharmaceutical ingredient is a substance in a medicine intended to produce its pharmacological activity or another direct effect relevant to its intended use.",
+    "example": "Acetaminophen is the active ingredient in a tablet whose other ingredients help hold the tablet together.",
+    "sense_note": null
+  },
+  {
+    "id": "kh1pwxmv04",
+    "definition": "Activities of daily living are basic personal self-care tasks such as bathing, dressing, eating, and using the toilet.",
+    "example": "A clinician assesses whether a person can dress without assistance when planning a safe return home.",
+    "sense_note": null
+  },
+  {
+    "id": "gd6cpzm0po",
+    "definition": "Actuarial exams are professional assessments of quantitative and business knowledge required along actuarial credentialing pathways.",
+    "example": "An aspiring actuary takes a probability exam as one step toward professional qualification.",
+    "sense_note": "The label names examinations, not a field of knowledge."
+  },
+  {
+    "id": "d0ayx8tpi3",
+    "definition": "Administrative law governs the authority, procedures, decisions, and legal review of government administrative bodies.",
+    "example": "A lawyer checks whether a licensing agency provided the required hearing before revoking a license.",
+    "sense_note": null
+  },
+  {
+    "id": "ixo5hey83a",
+    "definition": "Advanced Automatic Collision Notification uses vehicle crash sensors and telematics to transmit crash information for emergency response and may estimate injury risk from the transmitted data.",
+    "example": "A response center receives the location and severity indicators after a crash even though the occupants cannot call for help.",
+    "sense_note": null
+  },
+  {
+    "id": "t1zvd2cmly",
+    "definition": "Airworthiness engineering establishes and demonstrates that an aircraft or aircraft system meets applicable safety requirements for flight and continued operation.",
+    "example": "An engineering team documents and tests whether a redesigned landing gear meets certification loads.",
+    "sense_note": null
+  },
+  {
+    "id": "l9skd3jhai",
+    "definition": "Analogue electronics is the study and design of circuits that process continuously varying electrical signals.",
+    "example": "An engineer designs an amplifier to raise a microphone's small voltage signal to a usable level.",
+    "sense_note": null
+  },
+  {
+    "id": "sjmv9bjgf0",
+    "definition": "Ancient history studies societies and events of the ancient past through evidence such as texts, inscriptions, artifacts, and material remains.",
+    "example": "A historian compares trade records with recovered ceramics to reconstruct relationships between ancient port cities.",
+    "sense_note": null
+  },
+  {
+    "id": "fkdu4zhgon",
+    "definition": "Ancient philosophy studies philosophical arguments and traditions developed in ancient societies, including accounts of knowledge, reality, and how to live.",
+    "example": "A class compares Stoic and Epicurean arguments about what makes a life good.",
+    "sense_note": null
+  },
+  {
+    "id": "kii00iund2",
+    "definition": "Andragogy is the study and practice of helping adults learn, especially through instruction that draws on their experience and addresses practical goals.",
+    "example": "An instructor asks working nurses to use their own handoff cases in a course on communication.",
+    "sense_note": null
+  },
+  {
+    "id": "u4n357y1ti",
+    "definition": "Animal science studies the biology, nutrition, breeding, behavior, and care of animals, especially domesticated species.",
+    "example": "A researcher compares feeding programs for their effects on the growth and health of dairy calves.",
+    "sense_note": null
+  },
+  {
+    "id": "efwtd5psz9",
+    "definition": "Anthropometrics is the measurement and analysis of human body dimensions and their variation across individuals and populations.",
+    "example": "A designer uses distributions of forearm length and seated reach to position a height-adjustable control panel.",
+    "sense_note": null
+  },
+  {
+    "id": "ao4kld81ar",
+    "definition": "Anti-bribery and corruption encompasses the rules and controls used to prevent, identify, and respond to improper inducements and abuses of entrusted power.",
+    "example": "A procurement team has a prospective supplier's gifts reviewed for conflicts before contract negotiations.",
+    "sense_note": null
+  },
+  {
+    "id": "aupdc445tz",
+    "definition": "Application controls are checks within an information system that protect the validity, completeness, and accuracy of the transactions it processes.",
+    "example": "An accounts-payable application rejects an invoice that duplicates a supplier and invoice-number combination already entered.",
+    "sense_note": null
+  },
+  {
+    "id": "shrj08s20e",
+    "definition": "An application delivery network is a set of network services that distributes, accelerates, and protects access to applications.",
+    "example": "An application delivery network sends users to healthy application instances and protects the public entry point from abusive traffic.",
+    "sense_note": null
+  },
+  {
+    "id": "wjdoqpvi1k",
+    "definition": "An application pool groups web applications under shared worker-process settings and isolates their execution from applications in separate pools.",
+    "example": "An IIS administrator places a billing site in its own application pool so recycling its worker does not restart the document portal.",
+    "sense_note": "The usual sense is Microsoft's IIS hosting concept."
+  },
+  {
+    "id": "xe2d2jfa1r",
+    "definition": "An application programming interface defines the operations, inputs, and outputs through which software components interact.",
+    "example": "A scheduling app requests available appointment times from a clinic system through its API.",
+    "sense_note": null
+  },
+  {
+    "id": "hazuxnf4z3",
+    "definition": "An application-specific integrated circuit is a chip designed to perform a particular application rather than general-purpose computation.",
+    "example": "A network appliance uses a chip designed specifically to forward packets at high throughput.",
+    "sense_note": null
+  },
+  {
+    "id": "hm380yneeh",
+    "definition": "Applied linguistics uses research on language to address practical problems such as language teaching, assessment, and communication.",
+    "example": "A researcher tests whether a redesigned proficiency test better reflects the language tasks students perform in class.",
+    "sense_note": null
+  },
+  {
+    "id": "ww4glmysl2",
+    "definition": "Applied statistics uses statistical methods to design studies and draw evidence-based conclusions from data in practical settings.",
+    "example": "An analyst estimates delivery-time variability from sample routes to recommend a realistic service window.",
+    "sense_note": null
+  },
+  {
+    "id": "hmn1b2xrbu",
+    "definition": "Archaeology reconstructs and interprets past human activity by studying artifacts, structures, sites, and other material traces in context.",
+    "example": "An archaeologist compares the remains in successive soil layers to infer how a settlement's food practices changed.",
+    "sense_note": null
+  },
+  {
+    "id": "hzccoii598",
+    "definition": "Arithmetic concerns basic numerical operations and the relationships among them, such as addition, subtraction, multiplication, and division.",
+    "example": "A cook multiplies each ingredient quantity by three to prepare enough portions for a larger group.",
+    "sense_note": null
+  },
+  {
+    "id": "fkq839wai8",
+    "definition": "ARP4754 is an SAE aerospace recommended practice for developing civil aircraft and systems using structured requirements, validation, verification, and development assurance.",
+    "example": "An avionics program uses the guidance to trace a system safety requirement through allocation and verification.",
+    "sense_note": "Specific revisions have different designations; the label does not specify one."
+  },
+  {
+    "id": "xxc17ku210",
+    "definition": "Art education studies and practices teaching people to create, interpret, and evaluate visual and other artistic work.",
+    "example": "A teacher has students compare how changing composition alters the focus of their photographs.",
+    "sense_note": null
+  },
+  {
+    "id": "lkf15jjd0m",
+    "definition": "Art history studies works of art in relation to their dates, places, materials, makers, patrons, audiences, and historical contexts.",
+    "example": "An art historian compares altar paintings and commissioning records to understand what a church expected a painting to communicate.",
+    "sense_note": null
+  },
+  {
+    "id": "q5554wmlbq",
+    "definition": "Art theory investigates the concepts and arguments used to define, interpret, and evaluate art and artistic practice.",
+    "example": "A critic uses theories of institutional recognition to explain why displaying a common object in a gallery may change how it is understood.",
+    "sense_note": null
+  },
+  {
+    "id": "bpbuz2kkrs",
+    "definition": "Arterial blood gas testing measures properties such as blood pH and oxygen and carbon dioxide partial pressures in an arterial sample to assess respiratory and acid-base status.",
+    "example": "A clinician reviews the test after a change in ventilation to assess carbon dioxide clearance.",
+    "sense_note": null
+  },
+  {
+    "id": "ub1zd0d7ve",
+    "definition": "Artificial intelligence risk concerns potential harms from the design, deployment, use, or misuse of AI systems and the conditions that make those harms more or less likely.",
+    "example": "A lender evaluates whether a model could systematically misclassify applicants from a group poorly represented in its training data.",
+    "sense_note": null
+  },
+  {
+    "id": "xme4tqyrgi",
+    "definition": "Artificial intelligence is the field concerned with building computational systems that perform tasks such as perception, reasoning, learning, or planning.",
+    "example": "A game uses a search algorithm to choose a route through a maze, without needing to learn the route from examples.",
+    "sense_note": null
+  },
+  {
+    "id": "i4m07o2di6",
+    "definition": "ASC 340 is the U.S. accounting codification topic Other Assets and Deferred Costs, whose subtopics address accounting for specified assets or costs, including certain contract costs.",
+    "example": "An accountant consults its contract-cost guidance to decide whether an incremental sales commission should be capitalized.",
+    "sense_note": null
+  },
+  {
+    "id": "smualdul1n",
+    "definition": "Asset turnover is a ratio that measures how much net sales a business generates per unit of average assets during a period.",
+    "example": "A retailer with $6 million in annual net sales and $3 million in average assets reports asset turnover of 2.",
+    "sense_note": null
+  },
+  {
+    "id": "bfd8vmdbfl",
+    "definition": "Athletic training is a health profession focused on preventing, evaluating, managing, and rehabilitating injuries and conditions associated with physical activity.",
+    "example": "An athletic trainer assesses an athlete's ankle injury and coordinates a staged return to participation.",
+    "sense_note": "Distinguish the health profession from athletic performance conditioning."
+  },
+  {
+    "id": "dqwhnum5zj",
+    "definition": "Attorney-client privilege is a legal protection against compelled disclosure of qualifying confidential communications between a lawyer and a client for the purpose of obtaining or giving legal advice.",
+    "example": "An organization claims privilege over a confidential email to its lawyer requesting advice about a contract dispute.",
+    "sense_note": "Scope and exceptions vary by jurisdiction; not all attorney communications are privileged."
+  },
+  {
+    "id": "rheyc8p5bk",
+    "definition": "Authorised capital is the maximum amount of share capital a company is permitted to issue under its governing documents or applicable legal framework.",
+    "example": "A company checks its authorised capital before issuing new shares to investors.",
+    "sense_note": "Terms and requirements vary by jurisdiction."
+  },
+  {
+    "id": "e5x8ah23ds",
+    "definition": "Automated information systems security protects computer-based information systems and their data against unauthorized access, alteration, or disruption.",
+    "example": "An organization limits access by job role and verifies its backups so users can recover records after a system failure.",
+    "sense_note": null
+  }
+]

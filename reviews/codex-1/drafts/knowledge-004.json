@@ -1,0 +1,242 @@
+[
+  {
+    "id": "xl6126omq1",
+    "definition": "Dairy science studies milk production, composition, quality, and processing into products such as cheese, yogurt, and butter.",
+    "example": "A dairy scientist measures how storage conditions affect the quality of milk sent to a processor.",
+    "sense_note": null
+  },
+  {
+    "id": "xb17x3c064",
+    "definition": "Data as a Service delivers datasets to consumers through a managed network interface or feed rather than requiring each consumer to collect and maintain the data.",
+    "example": "A transit dashboard retrieves a provider's regularly updated ridership data through a subscription interface.",
+    "sense_note": null
+  },
+  {
+    "id": "eqeh9wy963",
+    "definition": "Data localization is a requirement to store, process, or retain specified data within a designated jurisdiction, depending on the applicable rule.",
+    "example": "A company checks whether a rule requiring an in-country copy of certain records still allows a backup abroad.",
+    "sense_note": "Localization requirements vary and are not synonymous with choosing where data resides."
+  },
+  {
+    "id": "wf2959cm1y",
+    "definition": "Data storage technologies are the media, devices, and systems used to retain and retrieve digital information.",
+    "example": "An archive chooses tape for infrequently accessed backups and solid-state storage for frequently consulted catalogs.",
+    "sense_note": null
+  },
+  {
+    "id": "gubch3nzct",
+    "definition": "Database as a service provides a remotely hosted database whose provider manages infrastructure and agreed operational tasks such as backups, patching, or replication.",
+    "example": "An application team provisions a managed PostgreSQL database instead of maintaining its own database server.",
+    "sense_note": null
+  },
+  {
+    "id": "kke6p4opfp",
+    "definition": "The database life cycle covers planning, designing, implementing, operating, evolving, and eventually retiring or replacing a database.",
+    "example": "A team migrates an active membership database to a revised schema while preserving its records and validating the change.",
+    "sense_note": null
+  },
+  {
+    "id": "sai8akfwpi",
+    "definition": "Database systems combine organized collections of data with software that manages access, queries, changes, integrity, and recovery.",
+    "example": "An inventory system records a shipment and updates available stock in a single transaction.",
+    "sense_note": null
+  },
+  {
+    "id": "msfcsjfs8h",
+    "definition": "A database trigger runs a defined action automatically when a specified event occurs in the database.",
+    "example": "An update trigger records a time and table name in an audit log when a protected record changes.",
+    "sense_note": null
+  },
+  {
+    "id": "wus3avbghs",
+    "definition": "Debits and credits are the left- and right-side entries of double-entry accounting, and their effects on balances depend on the account type.",
+    "example": "A cash purchase of supplies debits the supplies asset account and credits the cash asset account.",
+    "sense_note": null
+  },
+  {
+    "id": "d8uol1sujj",
+    "definition": "Deposition is the geological process by which transported material settles or accumulates when water, wind, ice, or gravity no longer carries it onward.",
+    "example": "A river deposits sediment as its flow slows entering a lake.",
+    "sense_note": null
+  },
+  {
+    "id": "lcn148zblw",
+    "definition": "Diagnostic audiology uses tests of hearing and auditory function to characterize hearing differences and help determine their nature or possible source.",
+    "example": "An audiologist compares air- and bone-conduction thresholds to investigate whether sound conduction is contributing to a hearing loss.",
+    "sense_note": null
+  },
+  {
+    "id": "k7yr930923",
+    "definition": "Dialectology studies systematic variation in language across regional or social groups, drawing on features such as pronunciation, grammar, and vocabulary.",
+    "example": "A researcher maps where speakers use different words for the same household object without ranking one variety above another.",
+    "sense_note": null
+  },
+  {
+    "id": "psbz3dahyh",
+    "definition": "Dietetics applies food and nutrition science to assess dietary needs and develop strategies that support health or manage disease.",
+    "example": "A dietitian adapts a meal plan to a patient's reported food preferences, available foods, and prescribed nutrient needs.",
+    "sense_note": null
+  },
+  {
+    "id": "iz17ednjvl",
+    "definition": "Digital currencies are monetary units represented and transferred electronically, including forms that do not rely on cryptocurrency networks.",
+    "example": "A central bank pilots a digital form of its currency for electronic retail payments.",
+    "sense_note": null
+  },
+  {
+    "id": "mzu6ras3dp",
+    "definition": "Digital health technologies use software, electronics, or communications to support health, care delivery, or health-system operations.",
+    "example": "A clinic uses a remote monitoring platform to review blood pressure readings patients send from home.",
+    "sense_note": null
+  },
+  {
+    "id": "nw6j3m07dp",
+    "definition": "Digital humanities integrates computing with humanities research and teaching to analyze, present, and interrogate cultural materials.",
+    "example": "A historian maps locations mentioned in digitized letters to explore how a correspondence network changed over time.",
+    "sense_note": null
+  },
+  {
+    "id": "j5r068z6ix",
+    "definition": "Digital rights management uses technical controls and permission rules to govern access to and use of digital works.",
+    "example": "A library ebook system checks that a loan is current before granting access to an encrypted book.",
+    "sense_note": null
+  },
+  {
+    "id": "o0rsreqle5",
+    "definition": "Direct digital control uses a digital controller to read process inputs, compute control decisions, and command actuators directly.",
+    "example": "A building controller uses a temperature reading to update an air damper position according to a programmed control rule.",
+    "sense_note": null
+  },
+  {
+    "id": "w169ky8jd2",
+    "definition": "Disability insurance provides benefits, often partial income replacement, when a covered disability meets the policy's definition and other terms.",
+    "example": "An employee checks a short-term disability policy's waiting period after an injury prevents them from working.",
+    "sense_note": null
+  },
+  {
+    "id": "i6g0tbrpag",
+    "definition": "Disaster loans are repayable funds supplied under designated programs to help eligible borrowers recover from losses caused by a qualifying disaster.",
+    "example": "A small business checks whether it can borrow under a disaster program to replace flood-damaged equipment.",
+    "sense_note": null
+  },
+  {
+    "id": "h4ck1veoae",
+    "definition": "Distributed computing coordinates multiple networked computers to complete related computations or provide a joint service.",
+    "example": "A data processing framework assigns separate chunks of a large dataset to several machines and combines the results.",
+    "sense_note": null
+  },
+  {
+    "id": "olbfc4v90u",
+    "definition": "A documentation lifecycle spans planning, authoring, reviewing, publishing, maintaining, and retiring documentation as the underlying subject changes.",
+    "example": "A release owner updates the installation guide and archives instructions that apply only to an unsupported version.",
+    "sense_note": null
+  },
+  {
+    "id": "zotkhvqj89",
+    "definition": "Dot matrix printing uses arrays of dots to form text and graphics, usually through pins striking an inked ribbon against paper.",
+    "example": "A shop prints a delivery slip and its carbon-copy duplicates on an impact dot matrix printer.",
+    "sense_note": "Interpreted as the familiar impact printer technology."
+  },
+  {
+    "id": "swb70cmfee",
+    "definition": "Drug absorption is the movement of a drug from its administration site into systemic circulation.",
+    "example": "A pharmacology class compares how two oral formulations differ in the rate at which the medicine appears in blood.",
+    "sense_note": null
+  },
+  {
+    "id": "fdc0mivhcr",
+    "definition": "A dynamic-link library contains code or other resources that a program can link to or load at runtime rather than incorporating them into its own executable at build time.",
+    "example": "Two Windows programs load a shared DLL to use the same image-decoding routines.",
+    "sense_note": "The term DLL is especially associated with Windows; shared libraries serve similar purposes on other platforms."
+  },
+  {
+    "id": "lqet2be6bf",
+    "definition": "Early childhood mental health concerns young children's developing capacity to experience and regulate emotions, build relationships, and explore and learn in supportive environments.",
+    "example": "A clinician observes a toddler's interactions with a caregiver to understand how their relationship supports emotional regulation.",
+    "sense_note": null
+  },
+  {
+    "id": "i9zv3uo696",
+    "definition": "Earthing systems connect specified points and conductive parts of electrical installations to earth to provide a reference and help manage electrical fault and shock risks.",
+    "example": "An electrical designer verifies that protective earthing works with the installation's protective devices to clear a fault.",
+    "sense_note": null
+  },
+  {
+    "id": "fpev42nqyf",
+    "definition": "Educational assessment gathers and interprets evidence of learners' knowledge, skills, or progress to inform instruction or support decisions about achievement.",
+    "example": "A teacher uses an exit question to identify which fraction concept needs reteaching before the next lesson.",
+    "sense_note": null
+  },
+  {
+    "id": "xnujen6uj6",
+    "definition": "Electrical power quality describes how closely supply voltage, frequency, and waveforms meet conditions required for connected equipment to operate reliably.",
+    "example": "An engineer checks whether brief voltage sags coincide with unexpected equipment resets.",
+    "sense_note": null
+  },
+  {
+    "id": "yy563wgg4o",
+    "definition": "Electromechanical engineering designs and analyzes systems in which electrical and mechanical components exchange energy or information.",
+    "example": "An engineer specifies a motor, transmission, and position sensor for a machine that moves a platform precisely.",
+    "sense_note": null
+  },
+  {
+    "id": "vo4tn2c2c7",
+    "definition": "Electronic article surveillance uses detectable tags and sensors to help identify items leaving a monitored area without authorization.",
+    "example": "A store's exit sensors alert staff when an active security tag passes through the doorway.",
+    "sense_note": null
+  },
+  {
+    "id": "pis2iav0c2",
+    "definition": "Electronic paper is a class of reflective displays designed to resemble printed paper, often retaining a static image with little or no continuous power.",
+    "example": "An electronic shelf label updates its price by radio and remains readable without active illumination.",
+    "sense_note": null
+  },
+  {
+    "id": "tae9xfo4ul",
+    "definition": "Emergency procedures are predefined actions and responsibilities for protecting people, communicating, and managing an emergency until it is resolved or handed over.",
+    "example": "During an evacuation drill, staff account for employees at the designated assembly point.",
+    "sense_note": null
+  },
+  {
+    "id": "degzu6h1fr",
+    "definition": "The endocannabinoid system consists of endogenous signaling molecules, their receptors, and the enzymes that make and break them down, helping regulate physiological functions.",
+    "example": "A physiology class examines how endocannabinoid signals can alter communication between neurons.",
+    "sense_note": null
+  },
+  {
+    "id": "tz5vp5fotk",
+    "definition": "Endocrine disorders are conditions in which hormone production, signaling, or tissue response is impaired or excessive.",
+    "example": "An endocrinologist investigates whether abnormal thyroid hormone production explains a patient's symptoms.",
+    "sense_note": null
+  },
+  {
+    "id": "l332ucqq7q",
+    "definition": "Endodontics is the dental specialty concerned with the pulp and tissues surrounding the tooth root, including diagnosis and treatment of related disease or injury.",
+    "example": "An endodontist evaluates an infected tooth to determine whether root canal treatment can preserve it.",
+    "sense_note": null
+  },
+  {
+    "id": "pccbu7ba7t",
+    "definition": "An energy system transition is a sustained change in how energy is produced, delivered, stored, and used, including changes to infrastructure, institutions, and behavior.",
+    "example": "A regional utility plans grid upgrades alongside electrified heating and more variable renewable generation.",
+    "sense_note": null
+  },
+  {
+    "id": "ptaszdu8ky",
+    "definition": "An engineered materials arrestor system is a crushable bed installed beyond a runway end to slow an aircraft that overruns the runway.",
+    "example": "An airport with limited space beyond its runway installs a bed designed to deform beneath an overrunning aircraft's landing gear.",
+    "sense_note": null
+  },
+  {
+    "id": "q63qicd4p4",
+    "definition": "Engineering economics applies economic evaluation to engineering alternatives by comparing costs, benefits, timing, and uncertainty over their useful lives.",
+    "example": "An engineer compares two pumps on purchase cost, energy use, maintenance, and expected replacement timing.",
+    "sense_note": null
+  },
+  {
+    "id": "f3cm6vxc0h",
+    "definition": "Engineering education studies and practices how learners develop engineering knowledge, design judgment, technical skills, and professional responsibility.",
+    "example": "An instructor evaluates student prototypes against requirements and asks teams to explain the tradeoffs behind their designs.",
+    "sense_note": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sublime Text is a text and source code editor with syntax highlighting, search, and extensibility through packages.",
+  "entry_text": "Sublime Text is a text and source code editor with syntax highlighting, search, and extensibility through packages.",
+  "entry_text_kind": "definition",
+  "example": "A developer uses project-wide search to find where an outdated configuration name appears.",
+  "id": "elj734ipli",
+  "key": "sublime-text",
+  "label": "Sublime Text",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

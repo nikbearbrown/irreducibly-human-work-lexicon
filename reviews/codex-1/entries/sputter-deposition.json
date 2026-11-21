@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sputter deposition forms a thin film from atoms ejected from a target by energetic bombardment and collected on a substrate.",
+  "entry_text": "Sputter deposition forms a thin film from atoms ejected from a target by energetic bombardment and collected on a substrate.",
+  "entry_text_kind": "definition",
+  "example": "A materials engineer compares the optical behavior of coatings produced by sputter deposition.",
+  "id": "ki27he1gct",
+  "key": "sputter-deposition",
+  "label": "Sputter deposition",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

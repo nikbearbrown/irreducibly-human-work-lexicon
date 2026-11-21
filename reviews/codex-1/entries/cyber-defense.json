@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cyber defense protects digital systems and services by reducing exposure, detecting harmful activity, and coordinating response and recovery.",
+  "entry_text": "Cyber defense protects digital systems and services by reducing exposure, detecting harmful activity, and coordinating response and recovery.",
+  "entry_text_kind": "definition",
+  "example": "A security team reviews access alerts and improves account protections after an incident.",
+  "id": "tmdu8fhxhg",
+  "key": "cyber-defense",
+  "label": "Cyber defense",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

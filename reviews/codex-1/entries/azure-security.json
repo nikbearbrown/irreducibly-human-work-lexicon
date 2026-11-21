@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Azure Security refers to protecting Azure workloads and data through identity, network, configuration, and monitoring controls.",
+  "entry_text": "Azure Security refers to protecting Azure workloads and data through identity, network, configuration, and monitoring controls.",
+  "entry_text_kind": "definition",
+  "example": "A cloud team restricts storage access to approved identities and monitors for unauthorized changes.",
+  "id": "dtlvf3ey43",
+  "key": "azure-security",
+  "label": "Azure Security",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "This is a broad practice, not necessarily a single Microsoft product.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

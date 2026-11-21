@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "c6mr2nxzm3",
+    "key": "problem-solving",
+    "label": "Problem solving",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k5ufy5as91",
+    "key": "process-hazard-analysis",
+    "label": "Process hazard analysis",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q7krwm5s5q",
+    "key": "process-improvement",
+    "label": "Process improvement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s3n5ds6s5q",
+    "key": "process-management",
+    "label": "Process management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oex3i29zws",
+    "key": "process-piping",
+    "label": "Process piping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ggtzg87xae",
+    "key": "processing-js",
+    "label": "Processing.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sslld0gt0n",
+    "key": "procore",
+    "label": "Procore",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v6zacfwhge",
+    "key": "product-analysis",
+    "label": "Product analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fl92xd5dwo",
+    "key": "product-analytics",
+    "label": "Product analytics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a0o6usqgsr",
+    "key": "product-benchmarking",
+    "label": "Product benchmarking",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bzu9711vdy",
+    "key": "product-catalogue-management",
+    "label": "Product catalogue management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e7ikkvaim5",
+    "key": "product-leadership",
+    "label": "Product leadership",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i2az7uj6oe",
+    "key": "product-quality-assurance",
+    "label": "Product quality assurance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zq3dwmyih3",
+    "key": "product-requirements-documentation",
+    "label": "Product requirements documentation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vz3nkb9mr7",
+    "key": "product-strategy",
+    "label": "Product strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tu36v4sy7c",
+    "key": "production-support",
+    "label": "Production support",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s5lmgnd1je",
+    "key": "productivity-management",
+    "label": "Productivity management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ybsy8ezsaf",
+    "key": "professionalism",
+    "label": "Professionalism",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lpt0v9ouhr",
+    "key": "profitability-management",
+    "label": "Profitability management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l6wcns768h",
+    "key": "program-evaluation",
+    "label": "Program evaluation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z40m891ema",
+    "key": "program-optimization",
+    "label": "Program optimization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m0skxwolr3",
+    "key": "programmatic-media-buying",
+    "label": "Programmatic media buying",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wnnm0zmdx4",
+    "key": "programmer-s-hierarchical-interactive-graphics-system",
+    "label": "Programmer's Hierarchical Interactive Graphics System",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "scenl2l59f",
+    "key": "project-benchmarking",
+    "label": "Project benchmarking",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z83cabeb9c",
+    "key": "project-management",
+    "label": "Project management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "my95i8hloo",
+    "key": "project-scoping",
+    "label": "Project scoping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mgqa6kj100",
+    "key": "project-status-reporting",
+    "label": "Project status reporting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sc05cw6xtg",
+    "key": "prometheus",
+    "label": "Prometheus",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vdwkv86cyb",
+    "key": "prompting",
+    "label": "Prompt engineering",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "islil7fue7",
+    "key": "proofreading",
+    "label": "Proofreading",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ddvoxpkhp6",
+    "key": "proposal-development",
+    "label": "Proposal development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g6mzlifyu3",
+    "key": "proposal-management",
+    "label": "Proposal management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w1zri6d3wg",
+    "key": "proposal-strategy",
+    "label": "Proposal strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tuj4ch0b9s",
+    "key": "prosecutor-s-management-information-system",
+    "label": "Prosecutor's management information system",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pfp23xemlu",
+    "key": "protein-characterization",
+    "label": "Protein characterization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cz3drmvj0y",
+    "key": "protein-structure-prediction",
+    "label": "Protein structure prediction",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dp16u2fll8",
+    "key": "protocol-oriented-programming",
+    "label": "Protocol-oriented programming",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pkld3bgf9n",
+    "key": "prototype-javascript-framework",
+    "label": "Prototype JavaScript Framework",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yqx76opq5c",
+    "key": "prototyping",
+    "label": "Prototyping",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ahawvzgh4q",
+    "key": "protractor",
+    "label": "Protractor",
+    "onet_codes": [],
+    "original_kind": "framework"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Biological applications of bifurcation theory study how a change in a model parameter can cause a qualitative shift in the modeled behavior of a biological system.",
+  "entry_text": "Biological applications of bifurcation theory study how a change in a model parameter can cause a qualitative shift in the modeled behavior of a biological system.",
+  "entry_text_kind": "definition",
+  "example": "An ecologist models how an increase in nutrient input might shift a lake from one persistent ecosystem state to another.",
+  "id": "h1yzwdb0b3",
+  "key": "biological-applications-of-bifurcation-theory",
+  "label": "Biological applications of bifurcation theory",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

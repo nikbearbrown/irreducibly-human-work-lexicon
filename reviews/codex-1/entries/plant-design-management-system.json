@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Plant Design Management System was a three-dimensional computer-aided design system for industrial plant layouts and equipment models.",
+  "entry_text": "The Plant Design Management System was a three-dimensional computer-aided design system for industrial plant layouts and equipment models.",
+  "entry_text_kind": "definition",
+  "example": "An engineer coordinates piping routes with structural components in a shared plant model.",
+  "id": "y67hoezmp0",
+  "key": "plant-design-management-system",
+  "label": "Plant Design Management System",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The generic label is interpreted as the product commonly abbreviated PDMS.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

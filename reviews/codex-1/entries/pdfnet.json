@@ -1,0 +1,28 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PDFNet is a software development kit for adding PDF viewing, editing, conversion or processing capabilities to applications.",
+  "entry_text": "PDFNet is a software development kit for adding PDF viewing, editing, conversion or processing capabilities to applications.",
+  "entry_text_kind": "definition",
+  "example": "A document application uses the SDK to add comments to PDF pages.",
+  "id": "euiop3hzmk",
+  "key": "pdfnet",
+  "label": "PDFNet",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "euiop3hzmk",
+      "note": "Apryse's Java reference lists PDF rendering, conversion, editing, and annotation classes in the PDFNet-associated package, including support for document comments and annotations.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://sdk.apryse.com/api/PDFTronSDK/java/com/pdftron/pdf/package-summary.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

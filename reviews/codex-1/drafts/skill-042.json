@@ -1,0 +1,242 @@
+[
+  {
+    "id": "yikd65o35c",
+    "definition": "Socket 5 is a legacy processor socket used with certain early Intel Pentium processors and compatible CPUs.",
+    "example": "A technician restoring a vintage computer checks processor voltage and pin compatibility before selecting a replacement.",
+    "sense_note": null
+  },
+  {
+    "id": "wmkik8ucw1",
+    "definition": "SockJS provides a browser-facing WebSocket-like interface and can fall back to other supported transports when WebSockets cannot be used.",
+    "example": "A web app uses a SockJS connection to receive status notifications across different client environments.",
+    "sense_note": null
+  },
+  {
+    "id": "sydpcel9cl",
+    "definition": "Softrax provides finance software for billing and recognizing revenue from contracts and subscriptions.",
+    "example": "A finance team configures a revenue schedule for a customer contract billed in advance.",
+    "sense_note": null
+  },
+  {
+    "id": "nxe5r570bd",
+    "definition": "Software architecture is the organization of a software system into elements, interactions, and governing design decisions that shape its behavior and evolution.",
+    "example": "An architect separates payment processing from the storefront so the two can change and recover independently.",
+    "sense_note": null
+  },
+  {
+    "id": "yw2egk4m94",
+    "definition": "Software localization adapts a product's language, formats, and conventions for a target locale.",
+    "example": "A team translates interface text and updates date displays to match local conventions.",
+    "sense_note": null
+  },
+  {
+    "id": "o1bclljhfa",
+    "definition": "Software quality assurance establishes and evaluates practices that give confidence software and its development processes meet quality requirements.",
+    "example": "A release reviewer audits whether required tests and independent approvals were completed before deployment.",
+    "sense_note": null
+  },
+  {
+    "id": "f514s143d0",
+    "definition": "Software quality management plans, assures, controls, and improves software quality across a product's lifecycle.",
+    "example": "A team sets defect goals, reviews release evidence, and revises practices when quality trends deteriorate.",
+    "sense_note": null
+  },
+  {
+    "id": "iopfdqljc7",
+    "definition": "Software reliability testing evaluates whether software continues to perform required functions under specified conditions and over specified time or usage.",
+    "example": "A team runs a representative workload for several days and records service failures and recovery times.",
+    "sense_note": null
+  },
+  {
+    "id": "daoszu8tvh",
+    "definition": "The software testing life cycle organizes testing activities from analyzing requirements and planning through designing, running, reporting, and closing tests.",
+    "example": "A QA lead maps acceptance requirements to test cases before scheduling execution and defect review.",
+    "sense_note": null
+  },
+  {
+    "id": "xdzjh8o7c2",
+    "definition": "Soil fertility treatment adjusts nutrient availability or soil conditions to support plant growth based on the crop and soil's needs.",
+    "example": "A grower uses soil test findings to select an appropriate nutrient or pH amendment.",
+    "sense_note": "Likely agronomic soil management; not medical fertility treatment."
+  },
+  {
+    "id": "upytq9e2xt",
+    "definition": "A solar panel is an assembly that collects solar energy, commonly using photovoltaic cells to produce electricity or a thermal collector to provide heat.",
+    "example": "A photovoltaic array supplies electricity to a building during daylight.",
+    "sense_note": "Label commonly means a photovoltaic module but can also refer to solar thermal collectors."
+  },
+  {
+    "id": "ad3mkvvkr3",
+    "definition": "A solar street light illuminates an outdoor public area using electricity collected by a solar panel, usually stored in a battery for nighttime use.",
+    "example": "A municipality assesses whether a shaded sidewalk location would receive enough sunlight to recharge its light.",
+    "sense_note": null
+  },
+  {
+    "id": "stzgtpqqh9",
+    "definition": "SonicStage was Sony desktop software for managing, playing, and transferring digital music to compatible devices.",
+    "example": "A preservation specialist identifies a historical SonicStage library associated with a portable music player.",
+    "sense_note": null
+  },
+  {
+    "id": "ztsbmjfbc3",
+    "definition": "SonicWall provides network security products including firewalls and related tools for controlling and monitoring network traffic.",
+    "example": "An administrator reviews an authorized firewall change before permitting a new business application.",
+    "sense_note": "Vendor and product-family label; exact appliance or service is unspecified."
+  },
+  {
+    "id": "t4wzn7vzqx",
+    "definition": "A soot blower removes soot or ash deposits from boiler heat-transfer surfaces using a directed cleaning medium such as steam or air.",
+    "example": "A boiler operator monitors heat-transfer performance to assess the effect of a scheduled cleaning.",
+    "sense_note": null
+  },
+  {
+    "id": "fyp3kns8gb",
+    "definition": "Source Insight is a source code editor and browser with analysis and navigation features for understanding relationships in large codebases.",
+    "example": "A developer uses it to locate where a function is declared and called.",
+    "sense_note": null
+  },
+  {
+    "id": "v03rbybd9q",
+    "definition": "SourceGear Vault is a centralized version control system for tracking file revisions and coordinating team changes.",
+    "example": "A developer compares two revisions of a configuration file before restoring a needed setting.",
+    "sense_note": null
+  },
+  {
+    "id": "n4go9oimdg",
+    "definition": "spaCy is a Python library for processing natural language with tools such as tokenization, parsing, and named entity recognition.",
+    "example": "A research team labels organization names in a set of documents for review.",
+    "sense_note": null
+  },
+  {
+    "id": "cifv2by5mk",
+    "definition": "Specimen processing prepares and records samples for analysis while preserving their identification, integrity, and suitability for the intended test.",
+    "example": "A laboratory worker verifies that a specimen's identifier and container conform to the receiving checklist.",
+    "sense_note": null
+  },
+  {
+    "id": "k1agyun6gt",
+    "definition": "Speech recognition software interprets spoken audio and converts it into text or recognized commands.",
+    "example": "A lecturer uses speech recognition to produce a text transcript for later correction.",
+    "sense_note": null
+  },
+  {
+    "id": "fxyswjz96r",
+    "definition": "Speech therapy assesses and treats difficulties in speech, language, communication, or swallowing within professional scope.",
+    "example": "A clinician works with a client on strategies to make everyday requests easier to express.",
+    "sense_note": null
+  },
+  {
+    "id": "kbw8iffkxz",
+    "definition": "A sphygmomanometer is an instrument that estimates blood pressure, typically using an inflatable cuff around a limb.",
+    "example": "A clinician uses a validated cuff device to take and record a patient's blood pressure.",
+    "sense_note": null
+  },
+  {
+    "id": "irwzfq0j1x",
+    "definition": "SpiderMonkey is Mozilla's JavaScript and WebAssembly engine, used to execute code in Firefox and other applications.",
+    "example": "A browser engineer uses an engine diagnostic to investigate unexpected JavaScript performance.",
+    "sense_note": null
+  },
+  {
+    "id": "uzlo7cd69m",
+    "definition": "Spine.js is a JavaScript framework for structuring web application models and controllers and managing client-side application behavior.",
+    "example": "A developer uses it to keep a page view in sync with changes to its backing model.",
+    "sense_note": "Legacy library; distinguish it from the Spine animation products."
+  },
+  {
+    "id": "axe7jcxa6b",
+    "definition": "Spiritual care supports people in exploring meaning, values, beliefs, and spiritual needs in ways that respect their preferences and traditions.",
+    "example": "A chaplain asks a patient whether they would like assistance observing an important personal ritual.",
+    "sense_note": null
+  },
+  {
+    "id": "rd9kj3ke0r",
+    "definition": "Splinting supports, protects, or limits movement of a body part using an external device.",
+    "example": "A clinician fits a hand splint to protect an injured joint during healing.",
+    "sense_note": null
+  },
+  {
+    "id": "z8kpukjtt0",
+    "definition": "Spock is a testing and specification framework for JVM software that uses Groovy syntax to express test conditions and expected outcomes.",
+    "example": "A developer supplies a table of inputs and expected prices for a discount function.",
+    "sense_note": null
+  },
+  {
+    "id": "dk62ws37y4",
+    "definition": "Sports journalism reports and analyzes sporting events, participants, institutions, and issues for a public audience.",
+    "example": "A reporter verifies match statistics and interviews players before writing a game recap.",
+    "sense_note": null
+  },
+  {
+    "id": "kgw6ojmkno",
+    "definition": "A spray gun applies a substance by dispersing it into droplets and directing the spray onto a target surface.",
+    "example": "A technician uses approved equipment to coat a prepared furniture panel evenly.",
+    "sense_note": "The label does not specify the coating material or spray system."
+  },
+  {
+    "id": "fub3ytd58x",
+    "definition": "A sprint retrospective is a Scrum event in which the team reflects on its recent work and plans improvements for the next sprint.",
+    "example": "A team identifies late code reviews as a bottleneck and commits to testing a new review schedule.",
+    "sense_note": null
+  },
+  {
+    "id": "qs93b71k93",
+    "definition": "SPServices is a legacy jQuery library for calling SharePoint SOAP web services from browser scripts.",
+    "example": "A maintainer reads an older SharePoint page to identify a list query made through SPServices.",
+    "sense_note": "Legacy library; verify product context."
+  },
+  {
+    "id": "ki27he1gct",
+    "definition": "Sputter deposition forms a thin film from atoms ejected from a target by energetic bombardment and collected on a substrate.",
+    "example": "A materials engineer compares the optical behavior of coatings produced by sputter deposition.",
+    "sense_note": null
+  },
+  {
+    "id": "aegbvphut2",
+    "definition": "Spyder is a Python development environment designed for scientific computing, with an editor, interactive console, and variable inspection tools.",
+    "example": "A researcher steps through a data analysis and checks intermediate arrays in the variable explorer.",
+    "sense_note": "Interpreted as the scientific Python IDE; other products share the name."
+  },
+  {
+    "id": "g1hfi5qy94",
+    "definition": "SQL-92 is the 1992 revision of the SQL standard, specifying relational database language features such as queries, constraints, and transaction constructs.",
+    "example": "A developer checks whether a query uses standard joins when planning to move it between database systems.",
+    "sense_note": null
+  },
+  {
+    "id": "rldiu1tfvy",
+    "definition": "SQL Server Analysis Services is Microsoft's analytical modeling platform for building tabular or multidimensional models that support interactive queries.",
+    "example": "A reporting team creates shared revenue measures for reuse in multiple reports.",
+    "sense_note": null
+  },
+  {
+    "id": "r9xdxpsdlc",
+    "definition": "SQL Server Express LocalDB is a lightweight mode of SQL Server Express that starts local, user-context database instances for development or small local applications.",
+    "example": "A developer runs database integration tests on a workstation without setting up a shared database server.",
+    "sense_note": null
+  },
+  {
+    "id": "xd4rfzhfig",
+    "definition": "SQL Server Integration Services is Microsoft's platform for building data integration packages that extract, transform, and load data and orchestrate related tasks.",
+    "example": "A nightly package validates a sales export before loading it into a data warehouse.",
+    "sense_note": null
+  },
+  {
+    "id": "z37uxoynx1",
+    "definition": "SQL tuning improves query execution or workload performance by analyzing execution plans and adjusting queries, indexes, statistics, or related design choices.",
+    "example": "A developer checks the plan for a slow report and tests whether a suitable index reduces work.",
+    "sense_note": null
+  },
+  {
+    "id": "mcliy0oofb",
+    "definition": "SQuirreL SQL Client is a Java graphical application for browsing and querying databases through JDBC drivers.",
+    "example": "An analyst connects to an approved reporting database and inspects table columns before drafting a query.",
+    "sense_note": null
+  },
+  {
+    "id": "oqjr6z2wak",
+    "definition": "SSL/TLS security concerns protecting network connections through authenticated encryption with secure TLS versions and configurations rather than obsolete SSL.",
+    "example": "An administrator verifies that a public service uses a trusted certificate and disables obsolete protocols.",
+    "sense_note": "SSL is a historical predecessor; common labels still use SSL when referring to TLS."
+  }
+]

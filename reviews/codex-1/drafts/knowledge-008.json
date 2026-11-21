@@ -1,0 +1,242 @@
+[
+  {
+    "id": "t49r7wk7u5",
+    "definition": "Logistics engineering designs and evaluates systems for moving, storing and supplying goods or materials.",
+    "example": "An engineer redesigns a warehouse layout to shorten replenishment routes.",
+    "sense_note": null
+  },
+  {
+    "id": "s0jgh1zbri",
+    "definition": "A lookup table stores preassigned results so an input can retrieve an answer without recomputing it.",
+    "example": "An embedded controller maps sensor readings to calibrated temperatures using a lookup table.",
+    "sense_note": null
+  },
+  {
+    "id": "y960uicmf7",
+    "definition": "Machining technology concerns equipment, tooling and methods for shaping workpieces by removing material.",
+    "example": "A machinist chooses a milling process to produce an accurately sized slot.",
+    "sense_note": null
+  },
+  {
+    "id": "s3rg9vaczo",
+    "definition": "Mainframe storage comprises the hardware and software used to retain, organize and access data for mainframe workloads.",
+    "example": "A bank allocates disk volumes to handle its overnight batch processing.",
+    "sense_note": null
+  },
+  {
+    "id": "z79armevpb",
+    "definition": "Margin lending allows a borrower to borrow against securities held as collateral, subject to collateral requirements.",
+    "example": "A brokerage requires more collateral after the market value of a pledged account falls.",
+    "sense_note": null
+  },
+  {
+    "id": "ib7s2w06na",
+    "definition": "Market capitalization is the market price per share multiplied by the number of shares outstanding.",
+    "example": "An analyst calculates a company’s market capitalization using its closing share price.",
+    "sense_note": null
+  },
+  {
+    "id": "sh7axh4ck4",
+    "definition": "Market depth describes how much buying and selling interest is available at different prices near the market price.",
+    "example": "A trader inspects the order book to see whether a large order would consume several price levels.",
+    "sense_note": null
+  },
+  {
+    "id": "i9pfxulhzp",
+    "definition": "Mass media are channels and organizations that distribute content to large audiences.",
+    "example": "A radio station broadcasts a weather update to listeners across a region.",
+    "sense_note": null
+  },
+  {
+    "id": "eh47l78bpt",
+    "definition": "Master production records specify the standard ingredients, instructions and controls for making a defined product or batch.",
+    "example": "A quality team checks a completed batch record against the approved master production record.",
+    "sense_note": null
+  },
+  {
+    "id": "wp92dm6esb",
+    "definition": "Material flow is the movement of physical materials through storage, processing and distribution operations.",
+    "example": "A factory maps how parts move between receiving, assembly and shipping.",
+    "sense_note": null
+  },
+  {
+    "id": "dk47qkxodh",
+    "definition": "A mechanic's lien is a statutory claim against property that can secure payment for qualifying work or materials supplied to improve it.",
+    "example": "A contractor asks whether unpaid renovation work qualifies for a lien.",
+    "sense_note": "Requirements and terminology vary by jurisdiction."
+  },
+  {
+    "id": "ini9hiun24",
+    "definition": "Mechanical drawings communicate the geometry, dimensions and other requirements of parts, assemblies or mechanical installations.",
+    "example": "A fabricator uses a drawing to check the diameter and location of mounting holes.",
+    "sense_note": null
+  },
+  {
+    "id": "artpsp4ao2",
+    "definition": "Mechanical, electrical and plumbing systems are coordinated building services that supply functions such as climate control, power, water and drainage.",
+    "example": "A design team checks that ductwork and electrical conduits do not interfere above a ceiling.",
+    "sense_note": null
+  },
+  {
+    "id": "uu17w6c03r",
+    "definition": "Media ethics concerns principles for making responsible decisions about gathering, creating and distributing content.",
+    "example": "An editor weighs the public interest against a private person's privacy before publishing a photograph.",
+    "sense_note": null
+  },
+  {
+    "id": "i7hneu52i6",
+    "definition": "Medical devices are instruments, equipment, implants or software intended for a medical purpose such as diagnosis, monitoring or treatment.",
+    "example": "A clinic uses a pulse oximeter to measure a patient's blood oxygen saturation.",
+    "sense_note": "Formal regulatory definitions vary by jurisdiction."
+  },
+  {
+    "id": "fxag0yh7o6",
+    "definition": "Medical equipment comprises physical apparatus used in clinical care, diagnosis, monitoring or treatment.",
+    "example": "A clinic maintains its examination tables and patient monitors as part of its equipment inventory.",
+    "sense_note": null
+  },
+  {
+    "id": "yn4il9n9p6",
+    "definition": "A meta tag is an HTML element that provides information or instructions about a document without adding visible page content.",
+    "example": "A web developer sets a viewport meta tag to help a page display properly on phones.",
+    "sense_note": null
+  },
+  {
+    "id": "vr3htpg6gb",
+    "definition": "The metaverse is a broad concept for persistent, shared digital spaces where people interact, often through avatars.",
+    "example": "A virtual exhibition lets attendees walk through the same digital gallery and speak to one another.",
+    "sense_note": "The label has no single settled technical definition."
+  },
+  {
+    "id": "yv63nnf7b5",
+    "definition": "The metric system is a decimal system of measurement built around units such as the metre and gram.",
+    "example": "A designer converts millimetres to metres by dividing the measurement by 1,000.",
+    "sense_note": null
+  },
+  {
+    "id": "heekgmf53y",
+    "definition": "Microcontrollers are integrated circuits that combine a processor, memory and input-output interfaces for embedded control.",
+    "example": "A washing machine uses a microcontroller to read the door switch and coordinate the wash cycle.",
+    "sense_note": null
+  },
+  {
+    "id": "dx4466r7ac",
+    "definition": "Microscopic anatomy studies tissue and cellular structures too small to examine in detail without magnification.",
+    "example": "A student distinguishes skeletal muscle from connective tissue on a microscope slide.",
+    "sense_note": null
+  },
+  {
+    "id": "m5ehoxv5hq",
+    "definition": "A microsite is a small website or distinct section created around a narrow purpose, campaign or topic.",
+    "example": "A museum builds a microsite with event details and registration for a special exhibit.",
+    "sense_note": null
+  },
+  {
+    "id": "m93rwlykrf",
+    "definition": "MicroStrategy metrics are calculation objects that define how data is aggregated or otherwise computed in MicroStrategy reports and dashboards.",
+    "example": "A dashboard uses a reusable metric to compute net sales by region.",
+    "sense_note": null
+  },
+  {
+    "id": "qw40ev8cj4",
+    "definition": "A mill test report documents the tested chemical composition and mechanical properties of a manufactured material lot, typically metal.",
+    "example": "A receiving inspector compares a steel heat number with the corresponding report before accepting delivery.",
+    "sense_note": null
+  },
+  {
+    "id": "a7dp0jiyay",
+    "definition": "Millimeter waves are electromagnetic waves with wavelengths of about one to ten millimetres.",
+    "example": "A short-range radar uses millimeter waves to measure object distance.",
+    "sense_note": null
+  },
+  {
+    "id": "egg15jc6qd",
+    "definition": "Mineralogy studies minerals, including their chemistry, structure, physical properties and formation.",
+    "example": "A geologist distinguishes two similar minerals by comparing hardness and crystal form.",
+    "sense_note": null
+  },
+  {
+    "id": "sfte4xs6zx",
+    "definition": "Mixed reality combines digital content with a view of the physical surroundings so that virtual objects can be positioned in, and may respond to, the real environment.",
+    "example": "A maintenance trainee views a digital alignment marker anchored to a physical pump.",
+    "sense_note": "The boundary between mixed and augmented reality varies across sources."
+  },
+  {
+    "id": "j99w42yktq",
+    "definition": "Mobile computing uses portable devices to run applications and access information away from a fixed workstation.",
+    "example": "A field technician updates a maintenance record from a tablet on site.",
+    "sense_note": null
+  },
+  {
+    "id": "d0sdezje4m",
+    "definition": "Models for life contingencies use probabilities and cash-flow timing to value payments that depend on events such as survival or death.",
+    "example": "An actuary estimates the present value of payments from a lifetime annuity.",
+    "sense_note": null
+  },
+  {
+    "id": "pvzx15szxf",
+    "definition": "Molecular engineering designs materials or systems by controlling their structures and interactions at the molecular scale.",
+    "example": "A materials researcher designs polymer chains to alter how a coating repels water.",
+    "sense_note": null
+  },
+  {
+    "id": "bo7vfugy2w",
+    "definition": "Motor control firmware is low-level code running within a motor controller to manage its sensors, timing and output signals.",
+    "example": "An embedded controller adjusts its drive output when feedback shows the motor slowing.",
+    "sense_note": null
+  },
+  {
+    "id": "u3mnyqrb8i",
+    "definition": "Motor control software comprises programs and algorithms for commanding and monitoring a motor’s speed, position or torque.",
+    "example": "A machine application requests a new motor speed and tracks whether the drive reaches it.",
+    "sense_note": null
+  },
+  {
+    "id": "vuj6oiflxx",
+    "definition": "A multi-agent system consists of multiple decision-making entities that interact in a shared environment.",
+    "example": "A warehouse simulation models robots that coordinate to avoid blocking one another.",
+    "sense_note": null
+  },
+  {
+    "id": "i53ufef076",
+    "definition": "A multi-core processor integrates multiple processing cores that can execute work concurrently.",
+    "example": "A video editor distributes independent rendering tasks across several cores.",
+    "sense_note": null
+  },
+  {
+    "id": "ikj5ftub8s",
+    "definition": "Multi-core symmetric multiprocessing allows a common operating system to schedule work across peer processor cores that share main memory.",
+    "example": "An operating system runs separate application threads on different cores while both access shared buffers.",
+    "sense_note": null
+  },
+  {
+    "id": "yjt8ek1ys1",
+    "definition": "Multi-core software is designed to use multiple processor cores to execute portions of work concurrently.",
+    "example": "A simulation assigns independent regions of a grid to separate worker threads.",
+    "sense_note": null
+  },
+  {
+    "id": "e7w5wq1r3n",
+    "definition": "Multi-touch input detects and distinguishes multiple simultaneous contacts on a touch-sensitive surface.",
+    "example": "A map application turns the movement of two fingers into a zoom gesture.",
+    "sense_note": null
+  },
+  {
+    "id": "aagb58wtxo",
+    "definition": "Multicultural education uses curricula and teaching practices that recognize cultural diversity and address inequities in learning.",
+    "example": "A teacher compares accounts of the same event from several cultural perspectives.",
+    "sense_note": null
+  },
+  {
+    "id": "g5m5upqdxb",
+    "definition": "Multitenancy lets separate customers share a service or infrastructure while keeping their information and configuration logically isolated.",
+    "example": "A shared ticketing system restricts each organization to its own support cases.",
+    "sense_note": null
+  },
+  {
+    "id": "y3ojit3m1g",
+    "definition": "Music theory studies how elements such as pitch, rhythm, harmony and form are organized in music.",
+    "example": "A student identifies the cadence that marks the end of a musical phrase.",
+    "sense_note": null
+  }
+]

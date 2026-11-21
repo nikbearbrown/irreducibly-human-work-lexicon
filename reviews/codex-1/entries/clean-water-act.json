@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The U.S. Clean Water Act establishes a federal framework for protecting water quality and regulating certain discharges of pollutants into waters.",
+  "entry_text": "The U.S. Clean Water Act establishes a federal framework for protecting water quality and regulating certain discharges of pollutants into waters.",
+  "entry_text_kind": "definition",
+  "example": "A facility reviews whether a wastewater discharge needs a permit.",
+  "id": "zxuhn9wqrx",
+  "key": "clean-water-act",
+  "label": "Clean Water Act",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "This definition assumes the U.S. statute.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

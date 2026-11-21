@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PixiJS is a JavaScript rendering library for displaying high-performance two-dimensional graphics on the web.",
+  "entry_text": "PixiJS is a JavaScript rendering library for displaying high-performance two-dimensional graphics on the web.",
+  "entry_text_kind": "definition",
+  "example": "A developer uses animated sprites to display a game scene in a web page.",
+  "id": "lfc8pxbfib",
+  "key": "pixijs",
+  "label": "PixiJS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

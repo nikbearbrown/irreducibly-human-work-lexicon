@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A U.S. financial information-sharing framework under Section 314 of the USA PATRIOT Act, implemented through distinct programs for government requests and eligible institution-to-institution sharing.",
+  "entry_text": "A U.S. financial information-sharing framework under Section 314 of the USA PATRIOT Act, implemented through distinct programs for government requests and eligible institution-to-institution sharing.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "it615kyzux",
+  "key": "fincen-314-program",
+  "label": "FinCEN 314 program",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specify 314(a) or 314(b) when the distinction matters.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

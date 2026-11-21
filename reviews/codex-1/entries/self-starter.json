@@ -1,0 +1,28 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A self-starter identifies and begins useful work without needing detailed instructions or repeated prompting.",
+  "entry_text": "A self-starter identifies and begins useful work without needing detailed instructions or repeated prompting.",
+  "entry_text_kind": "definition",
+  "example": "A new coordinator notices unanswered inquiries and creates a queue to track and route them.",
+  "id": "hq2g370jgj",
+  "key": "self-starter",
+  "label": "Self-starter",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label names a person characterized by initiative.",
+  "sources": [
+    {
+      "id": "hq2g370jgj",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Frese and Fay’s personal-initiative work supports the self-starting behavior; not a claim that the example measures aptitude.",
+      "packet": "worker-stratified.json",
+      "ref": "https://doi.org/10.1016/S0191-3085(01)23005-6",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Administering blood tests involves carrying out the collection or point-of-care steps needed for an ordered blood analysis.",
+  "entry_text": "Administering blood tests involves carrying out the collection or point-of-care steps needed for an ordered blood analysis.",
+  "entry_text_kind": "definition",
+  "example": "A qualified clinician verifies patient identity and documents that an ordered specimen was obtained.",
+  "id": "zko5ukvqdy",
+  "key": "administering-blood-tests",
+  "label": "Administering blood tests",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

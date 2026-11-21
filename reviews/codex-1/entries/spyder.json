@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Spyder is a Python development environment designed for scientific computing, with an editor, interactive console, and variable inspection tools.",
+  "entry_text": "Spyder is a Python development environment designed for scientific computing, with an editor, interactive console, and variable inspection tools.",
+  "entry_text_kind": "definition",
+  "example": "A researcher steps through a data analysis and checks intermediate arrays in the variable explorer.",
+  "id": "aegbvphut2",
+  "key": "spyder",
+  "label": "Spyder",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as the scientific Python IDE; other products share the name.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

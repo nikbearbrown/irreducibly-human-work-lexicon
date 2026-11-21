@@ -1,0 +1,28 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache Jena is a Java framework for RDF data, SPARQL queries, and semantic-web applications.",
+  "entry_text": "Apache Jena is a Java framework for RDF data, SPARQL queries, and semantic-web applications.",
+  "entry_text_kind": "definition",
+  "example": "A research team queries a graph of collections and the people connected to them.",
+  "id": "byo5hfwztp",
+  "key": "apache-jena",
+  "label": "Apache Jena",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "byo5hfwztp",
+      "note": "The project describes a Java framework for Semantic Web applications, with libraries for RDF and SPARQL and several RDF triple storage options.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://jena.apache.org/about_jena/about.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

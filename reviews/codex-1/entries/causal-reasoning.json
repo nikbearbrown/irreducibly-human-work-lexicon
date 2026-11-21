@@ -1,0 +1,20 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Causal reasoning is the ability to judge whether a change or event produces an outcome rather than merely accompanying it.",
+  "entry_text": "Causal reasoning is the ability to judge whether a change or event produces an outcome rather than merely accompanying it.",
+  "entry_text_kind": "definition",
+  "example": "An analyst compares randomly assigned groups to determine whether a new reminder actually increased attendance.",
+  "id": "njlcvlg504",
+  "key": "causal-reasoning",
+  "label": "Causal reasoning",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

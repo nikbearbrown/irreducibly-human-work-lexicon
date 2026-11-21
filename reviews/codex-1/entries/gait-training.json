@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A rehabilitation approach that practices walking tasks to improve mobility, balance, and walking patterns.",
+  "entry_text": "A rehabilitation approach that practices walking tasks to improve mobility, balance, and walking patterns.",
+  "entry_text_kind": "definition",
+  "example": "A physical therapist supervises walking practice and evaluates progress.",
+  "id": "ibphs8fgxr",
+  "key": "gait-training",
+  "label": "Gait training",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

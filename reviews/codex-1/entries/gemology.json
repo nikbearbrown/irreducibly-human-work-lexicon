@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-006.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Gemology is the study and identification of gemstones and their properties.",
+  "entry_text": "Gemology is the study and identification of gemstones and their properties.",
+  "entry_text_kind": "definition",
+  "example": "A gemologist distinguishes a natural stone from an imitation by examining its optical properties.",
+  "id": "i8sdf9t01b",
+  "key": "gemology",
+  "label": "Gemology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

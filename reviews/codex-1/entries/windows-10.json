@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Windows 10 is a Microsoft desktop operating system released after Windows 8.1 and before Windows 11.",
+  "entry_text": "Windows 10 is a Microsoft desktop operating system released after Windows 8.1 and before Windows 11.",
+  "entry_text_kind": "definition",
+  "example": "A technician checks whether a driver supports the installed Windows 10 edition.",
+  "id": "w73i1r9yha",
+  "key": "windows-10",
+  "label": "Windows 10",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

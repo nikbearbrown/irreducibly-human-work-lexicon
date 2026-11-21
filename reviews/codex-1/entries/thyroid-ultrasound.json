@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Thyroid ultrasound uses sound waves to image the thyroid gland and assess features such as its size and nodules.",
+  "entry_text": "Thyroid ultrasound uses sound waves to image the thyroid gland and assess features such as its size and nodules.",
+  "entry_text_kind": "definition",
+  "example": "A clinician compares ultrasound measurements from two examinations to assess whether a nodule has changed.",
+  "id": "y8avl54v9o",
+  "key": "thyroid-ultrasound",
+  "label": "Thyroid ultrasound",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

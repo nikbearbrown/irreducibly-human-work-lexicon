@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Systems management administers and monitors computing infrastructure, including configuration, updates, inventory, and availability.",
+  "entry_text": "Systems management administers and monitors computing infrastructure, including configuration, updates, inventory, and availability.",
+  "entry_text_kind": "definition",
+  "example": "An IT team stages operating system updates and tracks which managed devices still need them.",
+  "id": "dwli80bqlh",
+  "key": "systems-management",
+  "label": "Systems management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as IT infrastructure management.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

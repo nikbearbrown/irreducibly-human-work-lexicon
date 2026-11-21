@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-013.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Utility engineering concerns the design, construction and operation of infrastructure that provides services such as power, water, gas or communications.",
+  "entry_text": "Utility engineering concerns the design, construction and operation of infrastructure that provides services such as power, water, gas or communications.",
+  "entry_text_kind": "definition",
+  "example": "Engineers coordinate water and electrical routes before a street reconstruction.",
+  "id": "jxii97zqv9",
+  "key": "utility-engineering",
+  "label": "Utility engineering",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

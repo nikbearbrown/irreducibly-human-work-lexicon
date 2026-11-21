@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A project control system that combines scope, schedule, and cost information to compare completed work with the baseline plan.",
+  "entry_text": "A project control system that combines scope, schedule, and cost information to compare completed work with the baseline plan.",
+  "entry_text_kind": "definition",
+  "example": "A project controller compares the budgeted value of completed work with its actual cost.",
+  "id": "n7z8knzo4j",
+  "key": "earned-value-management-system",
+  "label": "Earned value management system",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

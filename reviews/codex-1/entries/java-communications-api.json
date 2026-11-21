@@ -1,0 +1,28 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Java Communications API defines Java interfaces for accessing serial and parallel communication ports.",
+  "entry_text": "The Java Communications API defines Java interfaces for accessing serial and parallel communication ports.",
+  "entry_text_kind": "definition",
+  "example": "A desktop application opens a serial port to read data from an attached instrument.",
+  "id": "rqi69qjjr4",
+  "key": "java-communications-api",
+  "label": "Java Communications API",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "rqi69qjjr4",
+      "note": "Oracle confirms serial access and IEEE 1284 parallel access, with the latter explicitly limited to SPP mode; note that scope when expanding the definition.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://www.oracle.com/java/technologies/java-communications-api.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

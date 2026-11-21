@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "In auditing, substantive testing examines transaction details, balances, disclosures, or analytical relationships to detect material misstatements.",
+  "entry_text": "In auditing, substantive testing examines transaction details, balances, disclosures, or analytical relationships to detect material misstatements.",
+  "entry_text_kind": "definition",
+  "example": "An auditor compares selected recorded sales with invoices and shipment evidence.",
+  "id": "mn0kh9q0a1",
+  "key": "substantive-testing",
+  "label": "Substantive testing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

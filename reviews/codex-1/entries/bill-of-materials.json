@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A bill of materials lists the components, materials, quantities, and often subassemblies needed to make a product.",
+  "entry_text": "A bill of materials lists the components, materials, quantities, and often subassemblies needed to make a product.",
+  "entry_text_kind": "definition",
+  "example": "A manufacturer uses the bill of materials for a lamp to order the right numbers of housings, switches, and fasteners.",
+  "id": "pm5q2pbpgx",
+  "key": "bill-of-materials",
+  "label": "Bill of materials",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

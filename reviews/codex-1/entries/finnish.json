@@ -1,0 +1,31 @@
+{
+  "batch": "language-003.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Finnish (ISO 639-3: fin) as a language under the Uralic grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Uralic",
+    "catalog_name": "Finnish",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "finn1318",
+    "iso639_3": "fin",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/finn1318"
+  },
+  "definition": "A human language used for written and spoken communication.",
+  "entry_text": "A human language used for written and spoken communication.",
+  "entry_text_kind": "definition",
+  "example": "An editor proofreads a Finnish museum guide.",
+  "id": "q98sd6zk57",
+  "key": "finnish",
+  "label": "Finnish",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

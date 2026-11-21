@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "fboqbigh6e",
+    "key": "anglo-american-cataloguing-rules",
+    "label": "Anglo-American Cataloguing Rules",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "swlrwigph5",
+    "key": "angular-cli",
+    "label": "Angular CLI",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fcadn3ihwg",
+    "key": "angular",
+    "label": "Angular",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mnlgauzi32",
+    "key": "angularjs",
+    "label": "AngularJS",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r6e29dwqn6",
+    "key": "anim8or",
+    "label": "Anim8or",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ecqh2a4ca4",
+    "key": "animated-explainer-video-production",
+    "label": "Animated explainer video production",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x8xjrkaqqf",
+    "key": "anma-massage",
+    "label": "Anma massage",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "raz4etcdn4",
+    "key": "antics3d",
+    "label": "Antics3D",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cs0zix8jdm",
+    "key": "antivirus-software",
+    "label": "Antivirus software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sadiccf9ey",
+    "key": "apache-airflow",
+    "label": "Apache Airflow",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z2kard8rzx",
+    "key": "apache-ambari",
+    "label": "Apache Ambari",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lbok5jfq45",
+    "key": "apache-ant",
+    "label": "Apache Ant",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ni2i5wg786",
+    "key": "apache-archiva",
+    "label": "Apache Archiva",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "odz2egqfxy",
+    "key": "apache-beam",
+    "label": "Apache Beam",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f2p6p58eru",
+    "key": "apache-cassandra",
+    "label": "Apache Cassandra",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ub4dw76yra",
+    "key": "apache-cocoon",
+    "label": "Apache Cocoon",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j6btwxoob1",
+    "key": "apache-giraph",
+    "label": "Apache Giraph",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bj4a613kbk",
+    "key": "apache-gump",
+    "label": "Apache Gump",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "byo5hfwztp",
+    "key": "apache-jena",
+    "label": "Apache Jena",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tt4q0v7blz",
+    "key": "apache-juddi",
+    "label": "Apache jUDDI",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zksf32dtwb",
+    "key": "apache-karaf",
+    "label": "Apache Karaf",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uztz53wb8d",
+    "key": "apache-lenya",
+    "label": "Apache Lenya",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xrm90olzt9",
+    "key": "apache-mahout",
+    "label": "Apache Mahout",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y560uwo68d",
+    "key": "apache-mesos",
+    "label": "Apache Mesos",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xf20rnp68i",
+    "key": "apache-nifi",
+    "label": "Apache NiFi",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i551tg0cu0",
+    "key": "apache-objectrelationalbridge",
+    "label": "Apache ObJectRelationalBridge",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n0qcfbikx2",
+    "key": "apache-ofbiz",
+    "label": "Apache OFBiz",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xka0j0r454",
+    "key": "apache-openejb",
+    "label": "Apache OpenEJB",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k2fnt61kzq",
+    "key": "apache-opennlp",
+    "label": "Apache OpenNLP",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sf6d6x0h64",
+    "key": "apache-pdfbox",
+    "label": "Apache PDFBox",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r17ek70io4",
+    "key": "apache-predictionio",
+    "label": "Apache PredictionIO",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zl7ti25hhx",
+    "key": "apache-spark",
+    "label": "Apache Spark",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "awczms31u7",
+    "key": "apache-tiles",
+    "label": "Apache Tiles",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k3hb2jqpwb",
+    "key": "apache-tinkerpop",
+    "label": "Apache TinkerPop",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bzumolh62w",
+    "key": "api-design",
+    "label": "API design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v7rwb3jmgy",
+    "key": "api-gateway",
+    "label": "API gateway",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ogt8lrbjfc",
+    "key": "api-management",
+    "label": "API management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nkt2stz7xu",
+    "key": "apollo-graphql",
+    "label": "Apollo GraphQL",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ayizahk9u0",
+    "key": "appian",
+    "label": "Appian",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q74bxk8hi6",
+    "key": "apple-device-enrollment-program",
+    "label": "Apple Device Enrollment Program",
+    "onet_codes": [],
+    "original_kind": "platform"
+  }
+]

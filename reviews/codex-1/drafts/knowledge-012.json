@@ -1,0 +1,242 @@
+[
+  {
+    "id": "h1e2kiw4mp",
+    "definition": "A rights issue offers existing shareholders the right to buy new shares, typically in proportion to their current holdings.",
+    "example": "A shareholder decides whether to exercise rights to subscribe for newly issued shares.",
+    "sense_note": null
+  },
+  {
+    "id": "n5223dhbup",
+    "definition": "Risk ratings classify assessed risk into numerical scores or categories using specified criteria.",
+    "example": "A lender assigns exposures to risk tiers for review and monitoring.",
+    "sense_note": "Criteria depend on the domain and rating scheme."
+  },
+  {
+    "id": "dhhp3v06ac",
+    "definition": "Rolling stock comprises wheeled vehicles that run on a railway, including locomotives, passenger cars and freight wagons.",
+    "example": "A transit authority inventories trainsets before planning replacement purchases.",
+    "sense_note": null
+  },
+  {
+    "id": "m471yigg5j",
+    "definition": "A rubber-tyred metro is an urban rail system whose vehicles use rubber tires on dedicated rolling surfaces, typically with separate guideways or guidance rails.",
+    "example": "A transport engineer compares the climbing performance of rubber-tyred trains and steel-wheel trains.",
+    "sense_note": null
+  },
+  {
+    "id": "z3in4qbkv2",
+    "definition": "A sales journal records sales transactions in chronological order, often specifically credit sales in a specialized accounting ledger.",
+    "example": "A bookkeeper posts the month's credit sales total to the general ledger.",
+    "sense_note": null
+  },
+  {
+    "id": "on2ks52go0",
+    "definition": "A SCARA robot is an industrial robot with a selectively compliant articulated arm suited to fast positioning in a horizontal plane and vertical insertion.",
+    "example": "An assembly line uses a SCARA robot to place small parts into a fixture.",
+    "sense_note": null
+  },
+  {
+    "id": "fbgyvaz7qh",
+    "definition": "The scholarship of teaching and learning is systematic inquiry into teaching and student learning whose methods and findings are made available for scrutiny and use.",
+    "example": "An instructor studies the effect of a classroom activity and shares the results with other educators.",
+    "sense_note": null
+  },
+  {
+    "id": "t7opf288w6",
+    "definition": "Secured transactions are arrangements in which a debtor grants an interest in collateral to secure payment or performance of an obligation.",
+    "example": "A lender takes a security interest in equipment purchased with a business loan.",
+    "sense_note": null
+  },
+  {
+    "id": "kqtkcsq5fq",
+    "definition": "Smart buildings use networked sensors and controls to monitor and coordinate building systems.",
+    "example": "An office building adjusts ventilation using occupancy and air-quality measurements.",
+    "sense_note": null
+  },
+  {
+    "id": "xlev25akr5",
+    "definition": "Smart lighting uses sensors, programmable controls or connectivity to adjust lighting automatically or remotely.",
+    "example": "A corridor lowers its lighting level when no movement is detected.",
+    "sense_note": null
+  },
+  {
+    "id": "vhuknlgq5p",
+    "definition": "Smart meter systems measure utility consumption and communicate readings electronically for billing, monitoring or service management.",
+    "example": "An electric utility uses interval readings to analyze when demand peaks.",
+    "sense_note": null
+  },
+  {
+    "id": "urm5qsloae",
+    "definition": "Social determinants of health are the social and economic conditions in which people live and work that shape health outcomes.",
+    "example": "A health department studies how housing instability affects continuity of care.",
+    "sense_note": null
+  },
+  {
+    "id": "u10rokkwol",
+    "definition": "A social impact bond is an outcomes-based financing arrangement in which private or philanthropic investors fund a service and repayment depends on agreed results.",
+    "example": "Investors fund a housing-support program whose public payments depend on independently measured outcomes.",
+    "sense_note": "Despite the name, it need not be a conventional tradable bond."
+  },
+  {
+    "id": "ftgr0snkh6",
+    "definition": "Social sustainability concerns maintaining equitable and inclusive social conditions that support long-term well-being.",
+    "example": "A transit plan assesses whether affordable access can be maintained across neighborhoods.",
+    "sense_note": null
+  },
+  {
+    "id": "j2dnvobke5",
+    "definition": "The sociology of education studies how schooling and other learning institutions shape and are shaped by social relationships, culture and inequality.",
+    "example": "A researcher examines how school placement practices affect opportunities across social groups.",
+    "sense_note": null
+  },
+  {
+    "id": "rm0k01pcl6",
+    "definition": "Software as a service delivers provider-managed applications over a network for customers to use without installing and operating the full software stack themselves.",
+    "example": "A company uses a hosted customer-management application available through a browser.",
+    "sense_note": null
+  },
+  {
+    "id": "oj9fkwcd4e",
+    "definition": "Software-defined WAN uses centrally managed policies and software to route traffic across multiple wide-area network links.",
+    "example": "A branch sends real-time calls over whichever available connection meets its latency policy.",
+    "sense_note": null
+  },
+  {
+    "id": "qmravcc671",
+    "definition": "Software engineering applies systematic methods to designing, building, testing and maintaining software systems.",
+    "example": "A team uses versioned builds and automated regression tests to modify a payment application safely.",
+    "sense_note": null
+  },
+  {
+    "id": "riw8xkpt0u",
+    "definition": "A sovereign cloud is a cloud offering designed to satisfy specified sovereignty constraints on data, operations and legal jurisdiction.",
+    "example": "A public agency evaluates where data is stored and who can administer the cloud services it uses.",
+    "sense_note": "Requirements differ by jurisdiction and procurement context."
+  },
+  {
+    "id": "d9nqi6y3rv",
+    "definition": "Special education law governs rights, responsibilities, procedures and services relating to education for learners with disabilities.",
+    "example": "A school reviews whether its reevaluation process meets applicable requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "yplq0w5d56",
+    "definition": "Special education provides specially designed instruction and supports responsive to the learning needs of students with disabilities.",
+    "example": "A school adapts materials and delivery to help a student meet an individualized reading goal.",
+    "sense_note": null
+  },
+  {
+    "id": "mi6mj4dcc0",
+    "definition": "Special hazards suppression systems are fire suppression systems designed for hazards, equipment or environments that require tailored agents or designs.",
+    "example": "A facility assesses a dedicated suppression system for an enclosure containing sensitive electronics.",
+    "sense_note": null
+  },
+  {
+    "id": "ppo88pqi8w",
+    "definition": "Special use airspace is airspace designated for activities that may require restrictions or advisories for other aircraft.",
+    "example": "A pilot checks current information about a restricted area when planning a route.",
+    "sense_note": null
+  },
+  {
+    "id": "fb0fcpjf1o",
+    "definition": "Sport governance concerns how sports organizations make decisions, regulate participation and ensure accountability.",
+    "example": "A federation defines an independent appeals process for eligibility rulings.",
+    "sense_note": null
+  },
+  {
+    "id": "i0768ad1w6",
+    "definition": "Standard ambient temperature and pressure is a reference condition commonly specified as 25 degrees Celsius and 100 kilopascals.",
+    "example": "A chemistry problem states that gas properties are reported at SATP so the comparison uses the same reference conditions.",
+    "sense_note": "Check the stated convention, especially when comparing it with STP or other reference conditions."
+  },
+  {
+    "id": "c9opben0zn",
+    "definition": "Static HTML is markup delivered as a pre-existing document rather than generated for each individual request.",
+    "example": "A site serves a published article as the same HTML document to every visitor.",
+    "sense_note": null
+  },
+  {
+    "id": "ecoz6ylymx",
+    "definition": "Statistics develops methods for collecting, summarizing, analyzing and interpreting data under variability and uncertainty.",
+    "example": "An analyst uses sampling data to estimate the prevalence of a defect with an uncertainty interval.",
+    "sense_note": null
+  },
+  {
+    "id": "ppn1crdqgj",
+    "definition": "Stormwater collection systems capture and convey runoff from surfaces to storage, treatment or a receiving outlet.",
+    "example": "A site directs runoff from paved areas through inlets and pipes to a detention basin.",
+    "sense_note": null
+  },
+  {
+    "id": "p0s0bb8ncl",
+    "definition": "Student development theory comprises frameworks for understanding how students change intellectually, psychosocially or in identity during education.",
+    "example": "An adviser uses a developmental framework to design reflection exercises for first-year students.",
+    "sense_note": null
+  },
+  {
+    "id": "o419jkkg4o",
+    "definition": "A Subordination, Non-Disturbance and Attornment Agreement sets the priority of a lease relative to a lender's interest and defines possession and tenancy obligations following foreclosure.",
+    "example": "A commercial tenant negotiates continued occupancy after foreclosure if it remains in compliance with its lease.",
+    "sense_note": null
+  },
+  {
+    "id": "vlddi3cmfn",
+    "definition": "Surface properties of transition metal oxides concern how the composition, structure and electronic state at their surfaces affect interactions such as adsorption and reactivity.",
+    "example": "A materials scientist compares how oxygen vacancies influence adsorption on two oxide surfaces.",
+    "sense_note": null
+  },
+  {
+    "id": "f7c96nvfei",
+    "definition": "Surgery treats, investigates or reconstructs parts of the body through operative procedures.",
+    "example": "A surgical team repairs damaged tissue in a planned operation.",
+    "sense_note": null
+  },
+  {
+    "id": "f1n6rn43ia",
+    "definition": "A sustainability bond is debt whose proceeds fund eligible projects combining environmental and social objectives.",
+    "example": "An issuer earmarks proceeds for renewable energy and affordable housing.",
+    "sense_note": "Distinguish from a sustainability-linked bond, whose financial terms are tied to performance targets."
+  },
+  {
+    "id": "booi01h6d6",
+    "definition": "Sustainable infrastructure is infrastructure planned, built and operated to meet service needs while accounting for long-term environmental, social and economic effects.",
+    "example": "A city compares drainage options using flood resilience, maintenance costs and public benefits over their lifetimes.",
+    "sense_note": null
+  },
+  {
+    "id": "lp4bwp30dh",
+    "definition": "Sustainable insurance incorporates environmental, social and governance considerations into insurance activities such as underwriting, products or investment decisions.",
+    "example": "An insurer evaluates how future flood conditions could affect property risk and access to coverage.",
+    "sense_note": null
+  },
+  {
+    "id": "r75j0tgdjg",
+    "definition": "Syndicated finance arranges financing through a group of lenders or investors that share a transaction's funding and risk.",
+    "example": "Several banks jointly provide a credit facility that would be large for one lender to fund alone.",
+    "sense_note": null
+  },
+  {
+    "id": "agserdgtg7",
+    "definition": "A tax deduction is an amount allowed to reduce the base on which tax is calculated, rather than directly reducing the tax owed.",
+    "example": "An allowable business expense reduces taxable profit before tax is calculated.",
+    "sense_note": null
+  },
+  {
+    "id": "s55w8vv1a1",
+    "definition": "A tax return is a filing that reports information used to calculate, reconcile or disclose tax obligations for a reporting period.",
+    "example": "A worker files an annual return showing income and taxes already withheld.",
+    "sense_note": null
+  },
+  {
+    "id": "iiguuxxpw3",
+    "definition": "A tax shelter is an investment or arrangement intended to reduce or defer tax liability.",
+    "example": "An analyst distinguishes a legally recognized tax-favored arrangement from an abusive shelter.",
+    "sense_note": "The term covers arrangements with differing legal status."
+  },
+  {
+    "id": "wml4xch2r5",
+    "definition": "Technical theatre encompasses the practical design and operation of stage elements such as scenery, lighting, sound and effects.",
+    "example": "A backstage crew coordinates lighting and sound cues with scene changes.",
+    "sense_note": null
+  }
+]

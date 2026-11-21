@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ouz5zu8tme",
+    "definition": "Figma's collaborative online whiteboard for brainstorming, mapping, and facilitating group activities.",
+    "example": "A team sorts ideas into groups on a shared FigJam board during a workshop.",
+    "sense_note": null
+  },
+  {
+    "id": "p0rsziuazr",
+    "definition": "Cutting a boneless portion of fish or meat away from the underlying bone structure.",
+    "example": "A fishmonger separates fillets from the backbone before retail preparation.",
+    "sense_note": null
+  },
+  {
+    "id": "lmnl567ljy",
+    "definition": "Composing or arranging music to accompany a film and support its narrative, mood, or timing.",
+    "example": "A composer synchronizes a rising musical phrase with the reveal in a scene.",
+    "sense_note": null
+  },
+  {
+    "id": "cw7k737uu3",
+    "definition": "A banking software suite for operating core banking and related digital financial services.",
+    "example": "A bank uses Finacle to maintain accounts and process transactions.",
+    "sense_note": null
+  },
+  {
+    "id": "alkq3wmgp5",
+    "definition": "Designing and operating automated workflows for financial tasks and controls.",
+    "example": "An accounting team automates routine invoice matching and routes mismatches to staff.",
+    "sense_note": null
+  },
+  {
+    "id": "hj9hq9169z",
+    "definition": "Applications that support finance functions such as accounting, budgeting, reporting, or financial analysis.",
+    "example": "A controller uses finance software to reconcile ledger balances and prepare reports.",
+    "sense_note": null
+  },
+  {
+    "id": "oh51xzioea",
+    "definition": "Interpreting financial information and applying it to decisions about performance, resources, and risk.",
+    "example": "A department head estimates how a proposed contract would affect cash flow and margin.",
+    "sense_note": null
+  },
+  {
+    "id": "zva5cuwjey",
+    "definition": "Analyzing financial data to understand results, identify drivers, and support informed decisions.",
+    "example": "An analyst investigates which cost categories explain a decline in operating margin.",
+    "sense_note": null
+  },
+  {
+    "id": "pts4mjn76g",
+    "definition": "Combining financial results of entities into group-level statements with appropriate adjustments and eliminations.",
+    "example": "An accountant eliminates intercompany sales when preparing consolidated results.",
+    "sense_note": null
+  },
+  {
+    "id": "ygv0c1sw96",
+    "definition": "Projecting future financial results from evidence and stated assumptions.",
+    "example": "A finance team updates a cash forecast to account for delayed receipts.",
+    "sense_note": null
+  },
+  {
+    "id": "hmao8iexo4",
+    "definition": "A messaging protocol for exchanging securities and other financial trading information electronically.",
+    "example": "A trading venue and a broker exchange order status messages using agreed FIX formats.",
+    "sense_note": null
+  },
+  {
+    "id": "vivxc5g99i",
+    "definition": "Identifying, measuring, and managing exposure to financial loss or volatility.",
+    "example": "A risk team tests how interest rate changes would affect the value of a portfolio.",
+    "sense_note": null
+  },
+  {
+    "id": "ti163kegtl",
+    "definition": "A financial analytics product family used to value instruments and assess portfolio risk.",
+    "example": "An analyst compares the sensitivity of derivative valuations to changes in interest rates.",
+    "sense_note": null
+  },
+  {
+    "id": "it615kyzux",
+    "definition": "A U.S. financial information-sharing framework under Section 314 of the USA PATRIOT Act, implemented through distinct programs for government requests and eligible institution-to-institution sharing.",
+    "example": null,
+    "sense_note": "Specify 314(a) or 314(b) when the distinction matters."
+  },
+  {
+    "id": "nnwm6rgpju",
+    "definition": "Adapting an existing machine-learning model by further training it on data relevant to a target task or domain.",
+    "example": "A team fine-tunes a pretrained classifier using verified examples from its own document categories.",
+    "sense_note": null
+  },
+  {
+    "id": "r4ouhufncq",
+    "definition": "A Firebase service for delivering push notifications and data messages to applications on supported devices.",
+    "example": "An app sends a reminder notification to users who opted in.",
+    "sense_note": null
+  },
+  {
+    "id": "v6qh0hzk61",
+    "definition": "Inspection of a representative initial production item to verify that it meets documented engineering requirements.",
+    "example": "An inspector measures an initial manufactured part and records the results against its drawing.",
+    "sense_note": null
+  },
+  {
+    "id": "uaod3n95k8",
+    "definition": "A receivables and collections management product used to track accounts, prioritize collection work, and manage disputes.",
+    "example": "A receivables team uses the account history to coordinate follow-up on overdue invoices.",
+    "sense_note": null
+  },
+  {
+    "id": "o1z2vme9w2",
+    "definition": "A lightweight Python framework for web applications with routing and request handling.",
+    "example": "A developer uses Flask to serve a web form and save its submitted data.",
+    "sense_note": null
+  },
+  {
+    "id": "hgakunv2dr",
+    "definition": "Creating two-dimensional technical drawings of garments to show construction details without rendering a posed figure.",
+    "example": "A designer draws front and back views that show seam and pocket placement.",
+    "sense_note": "The fashion design sense is intended; confirm if the source covers another drawing domain."
+  },
+  {
+    "id": "n6kpgpt2fz",
+    "definition": "A truck with a flat, open cargo platform suited to freight that may be loaded from the sides or above.",
+    "example": "A carrier transports strapped construction materials on a flatbed truck.",
+    "sense_note": null
+  },
+  {
+    "id": "sday7dmv3r",
+    "definition": "Creating or refining a product's flavor profile through ingredient selection and sensory testing.",
+    "example": "A beverage developer tests formulations to balance sweetness and acidity.",
+    "sense_note": null
+  },
+  {
+    "id": "ch6dqtum68",
+    "definition": "Software for creating, cutting, and printing graphics for the sign-making industry.",
+    "example": "A sign shop prepares a vinyl lettering layout for its cutter.",
+    "sense_note": null
+  },
+  {
+    "id": "cf0cldbloe",
+    "definition": "Preparing the route, timing, fuel, and operational information needed to conduct a flight safely.",
+    "example": "A pilot checks expected winds and identifies alternate airports during planning.",
+    "sense_note": null
+  },
+  {
+    "id": "u554ug560m",
+    "definition": "An instructional approach in which learners encounter introductory material before class and use class time for active practice or discussion.",
+    "example": "Students watch an explanation before class and solve related problems with instructor support in class.",
+    "sense_note": null
+  },
+  {
+    "id": "rjc04xak59",
+    "definition": "Google's UI framework and toolkit for building applications for multiple platforms using Dart.",
+    "example": "A team shares most of its interface code between its mobile apps.",
+    "sense_note": null
+  },
+  {
+    "id": "inav67iamu",
+    "definition": "Analyzing rates of change or flow to explain observed differences in a system or its reported results.",
+    "example": null,
+    "sense_note": "May refer to financial variance analysis, metabolic flux, or another scientific domain; confirm before narrowing."
+  },
+  {
+    "id": "d7860gye0y",
+    "definition": "A GitOps toolset that reconciles deployed Kubernetes resources with desired configuration stored in version-controlled sources.",
+    "example": "Flux applies an approved configuration change from a repository to a managed cluster.",
+    "sense_note": null
+  },
+  {
+    "id": "iw0wtio6ok",
+    "definition": "A monitoring product family used to track infrastructure, database, or application performance.",
+    "example": "An operator investigates increasing database latency using collected performance metrics.",
+    "sense_note": "Confirm the intended Foglight vendor and edition if necessary."
+  },
+  {
+    "id": "cf2be9glw3",
+    "definition": "An icon library and associated tools for adding standardized scalable icons to interfaces and documents.",
+    "example": "A website uses a magnifying-glass icon beside its search field.",
+    "sense_note": null
+  },
+  {
+    "id": "c4n1w9e67s",
+    "definition": "Assessing whether a food is acceptable and appealing based on sensory characteristics and consumer response.",
+    "example": "A sensory panel compares the taste and texture of two formulations.",
+    "sense_note": null
+  },
+  {
+    "id": "mo6witleai",
+    "definition": "Arranging and finishing food for visually appealing, practical service.",
+    "example": "A chef portions a dish consistently and places its components for clean presentation.",
+    "sense_note": null
+  },
+  {
+    "id": "acez55e1cs",
+    "definition": "Using controlled processes or storage conditions to slow food spoilage and maintain safety or quality.",
+    "example": "A producer stores prepared food using a validated preservation process.",
+    "sense_note": null
+  },
+  {
+    "id": "gx7y9n0km8",
+    "definition": "Selecting and purchasing food to meet requirements for quality, volume, cost, safety, and delivery.",
+    "example": "A cafeteria buyer checks supplier specifications and orders produce for its weekly menu.",
+    "sense_note": null
+  },
+  {
+    "id": "dvyts3is91",
+    "definition": "Coordinating resources and operations that connect food production, distribution, service, and waste management.",
+    "example": "A food service manager tracks purchases and leftovers to reduce waste while maintaining supply.",
+    "sense_note": null
+  },
+  {
+    "id": "nhdkvgjim2",
+    "definition": "Systematically documenting publicly available characteristics or an observable profile of a subject.",
+    "example": null,
+    "sense_note": "May mean environmental footprint measurement or authorized security reconnaissance; confirm intended sense and scope."
+  },
+  {
+    "id": "lpvif7kblc",
+    "definition": "A U.S. law that establishes reporting and withholding rules aimed at identifying assets and accounts held abroad by U.S. taxpayers.",
+    "example": "A financial institution reviews whether an account must be reported under FATCA.",
+    "sense_note": null
+  },
+  {
+    "id": "n3156vn7ie",
+    "definition": "A powered industrial truck that uses forks to lift, move, and position loads.",
+    "example": "A trained operator moves a pallet from a receiving area to a storage rack.",
+    "sense_note": null
+  },
+  {
+    "id": "cr8hoe2lk8",
+    "definition": "A historical JavaScript animation and interaction library associated with the Framer prototyping environment.",
+    "example": "A designer builds an interactive prototype that animates transitions between screens.",
+    "sense_note": "Distinguish the historical Framer.js tool from current Framer products or other animation libraries."
+  },
+  {
+    "id": "mpc9ar27l6",
+    "definition": "Presenting and selling franchise opportunities to qualified prospective operators while following disclosure requirements.",
+    "example": "A sales representative explains the franchise application and directs a candidate to formal disclosures.",
+    "sense_note": null
+  }
+]

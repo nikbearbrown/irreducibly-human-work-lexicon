@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A binary option is a financial contract whose payoff takes one of two predetermined values depending on whether a specified condition holds at expiry.",
+  "entry_text": "A binary option is a financial contract whose payoff takes one of two predetermined values depending on whether a specified condition holds at expiry.",
+  "entry_text_kind": "definition",
+  "example": "A contract pays a fixed amount if an index is above its strike at expiry and nothing if it is not.",
+  "id": "ndr4eqq5k6",
+  "key": "binary-options",
+  "label": "Binary options",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

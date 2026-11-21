@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A structured method for identifying how components or processes can fail and evaluating the effects and priorities of those failures.",
+  "entry_text": "A structured method for identifying how components or processes can fail and evaluating the effects and priorities of those failures.",
+  "entry_text_kind": "definition",
+  "example": "A team analyzes possible sensor failures and records which require mitigation.",
+  "id": "i5akb8g29i",
+  "key": "failure-mode-and-effects-analysis",
+  "label": "Failure mode and effects analysis",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

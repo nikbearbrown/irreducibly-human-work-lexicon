@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SQuirreL SQL Client is a Java graphical application for browsing and querying databases through JDBC drivers.",
+  "entry_text": "SQuirreL SQL Client is a Java graphical application for browsing and querying databases through JDBC drivers.",
+  "entry_text_kind": "definition",
+  "example": "An analyst connects to an approved reporting database and inspects table columns before drafting a query.",
+  "id": "mcliy0oofb",
+  "key": "squirrel-sql-client",
+  "label": "SQuirreL SQL Client",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

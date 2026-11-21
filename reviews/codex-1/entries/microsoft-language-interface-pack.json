@@ -1,0 +1,28 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A Microsoft Language Interface Pack provides localized interface text for supported software, sometimes requiring a base language installation.",
+  "entry_text": "A Microsoft Language Interface Pack provides localized interface text for supported software, sometimes requiring a base language installation.",
+  "entry_text_kind": "definition",
+  "example": "A user installs and selects a display language to read supported menus in that language.",
+  "id": "w1w7p7ynd9",
+  "key": "microsoft-language-interface-pack",
+  "label": "Microsoft Language Interface Pack",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specific coverage varies by product and package.",
+  "sources": [
+    {
+      "id": "w1w7p7ynd9",
+      "note": "Microsoft illustrates partial interface localization over a base or parent language for Windows Language Interface Packs; this is not equivalent to a fully localized language pack.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://devblogs.microsoft.com/oldnewthing/20161227-00/?p=95025",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

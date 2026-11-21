@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A schematic diagram uses conventional symbols and connecting lines to represent how parts of a system functionally connect rather than their physical layout.",
+  "entry_text": "A schematic diagram uses conventional symbols and connecting lines to represent how parts of a system functionally connect rather than their physical layout.",
+  "entry_text_kind": "definition",
+  "example": "A technician reads a circuit schematic to see which relays share a control signal.",
+  "id": "p69ue6ggj9",
+  "key": "schematic-diagrams",
+  "label": "Schematic diagrams",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

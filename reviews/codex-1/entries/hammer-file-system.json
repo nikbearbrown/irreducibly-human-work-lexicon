@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A file system developed for DragonFly BSD with features for retaining historical filesystem data.",
+  "entry_text": "A file system developed for DragonFly BSD with features for retaining historical filesystem data.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "qj03k5ss5r",
+  "key": "hammer-file-system",
+  "label": "HAMMER file system",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm whether the label means original HAMMER or separately named HAMMER2.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

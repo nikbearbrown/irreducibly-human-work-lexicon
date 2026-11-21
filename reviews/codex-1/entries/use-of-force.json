@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-013.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Use of force concerns the application of physical compulsion and the legal, ethical and organizational standards that govern it.",
+  "entry_text": "Use of force concerns the application of physical compulsion and the legal, ethical and organizational standards that govern it.",
+  "entry_text_kind": "definition",
+  "example": "An oversight team assesses whether the force documented in an incident complied with policy.",
+  "id": "yitddfndv7",
+  "key": "use-of-force",
+  "label": "Use of force",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The relevant standards depend on the setting and jurisdiction.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

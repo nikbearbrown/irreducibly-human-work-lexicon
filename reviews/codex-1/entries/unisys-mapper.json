@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Unisys MAPPER is a legacy data management and application development environment for interactive reporting and business applications.",
+  "entry_text": "Unisys MAPPER is a legacy data management and application development environment for interactive reporting and business applications.",
+  "entry_text_kind": "definition",
+  "example": "A modernization team maps a historical MAPPER report to the equivalent fields in a replacement application.",
+  "id": "i2id84nuwe",
+  "key": "unisys-mapper",
+  "label": "Unisys MAPPER",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical product naming may vary; verify the installation.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

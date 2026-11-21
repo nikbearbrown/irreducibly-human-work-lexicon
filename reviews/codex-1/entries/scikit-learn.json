@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "scikit-learn is a Python library for conventional machine learning, preprocessing, and model evaluation.",
+  "entry_text": "scikit-learn is a Python library for conventional machine learning, preprocessing, and model evaluation.",
+  "entry_text_kind": "definition",
+  "example": "An analyst fits a classifier and uses cross-validation to compare its performance with a baseline.",
+  "id": "g9gfriy1ec",
+  "key": "scikit-learn",
+  "label": "scikit-learn",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

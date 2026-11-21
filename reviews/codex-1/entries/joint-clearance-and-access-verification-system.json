@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Joint Clearance and Access Verification System was an interface within the U.S. Department of Defense personnel security system for recording and verifying clearance and access information.",
+  "entry_text": "Joint Clearance and Access Verification System was an interface within the U.S. Department of Defense personnel security system for recording and verifying clearance and access information.",
+  "entry_text_kind": "definition",
+  "example": "A security office used JCAVS to check personnel eligibility before processing requests for access.",
+  "id": "iwz47o25o8",
+  "key": "joint-clearance-and-access-verification-system",
+  "label": "Joint Clearance and Access Verification System",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical system; do not infer current availability from the name.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

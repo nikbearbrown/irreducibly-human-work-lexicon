@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Motor control software comprises programs and algorithms for commanding and monitoring a motor’s speed, position or torque.",
+  "entry_text": "Motor control software comprises programs and algorithms for commanding and monitoring a motor’s speed, position or torque.",
+  "entry_text_kind": "definition",
+  "example": "A machine application requests a new motor speed and tracks whether the drive reaches it.",
+  "id": "u3mnyqrb8i",
+  "key": "motor-control-software",
+  "label": "Motor control software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

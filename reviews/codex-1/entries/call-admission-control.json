@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Call admission control protects service quality by deciding whether the network can accept a new call with its available capacity.",
+  "entry_text": "Call admission control protects service quality by deciding whether the network can accept a new call with its available capacity.",
+  "entry_text_kind": "definition",
+  "example": "A network declines a new voice session when it would exceed the bandwidth budget.",
+  "id": "nz84281zw5",
+  "key": "call-admission-control",
+  "label": "Call admission control",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

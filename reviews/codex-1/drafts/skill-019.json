@@ -1,0 +1,242 @@
+[
+  {
+    "id": "k4stuct7vk",
+    "definition": "Designing safeguards to reduce fraud and identifying suspicious activity for appropriate review.",
+    "example": "A business separates invoice approval from payment and reviews unusual transaction patterns.",
+    "sense_note": null
+  },
+  {
+    "id": "clqf1bf58h",
+    "definition": "A structured process for identifying fraud scenarios and rating their likelihood and potential impact.",
+    "example": "A team evaluates which payment processes are most exposed to false vendor invoices.",
+    "sense_note": null
+  },
+  {
+    "id": "x352fxyh45",
+    "definition": "Coordinating policies, controls, monitoring, and response activities to manage an organization's exposure to fraud.",
+    "example": "A risk manager assigns ownership of controls and reviews the results of investigations to improve prevention.",
+    "sense_note": null
+  },
+  {
+    "id": "k03kjgprvl",
+    "definition": "A diagramming method that isolates an object and represents the external forces and moments acting on it.",
+    "example": "An engineering student diagrams gravity and support reactions on a loaded beam.",
+    "sense_note": null
+  },
+  {
+    "id": "mi2t4wx6vw",
+    "definition": "An audio format specification that compresses digital audio without discarding any information needed to reconstruct the source samples.",
+    "example": "An archivist stores recordings in FLAC and can restore their original audio samples.",
+    "sense_note": null
+  },
+  {
+    "id": "cuphtv0iqh",
+    "definition": "Tools and machines used to lift, move, position, or secure freight.",
+    "example": "A warehouse team uses a pallet jack to move freight to the loading area.",
+    "sense_note": null
+  },
+  {
+    "id": "n753kuxhfv",
+    "definition": "Moving, staging, loading, unloading, and securing cargo using appropriate handling practices.",
+    "example": "A dock worker checks the load layout before staging cargo for a trailer.",
+    "sense_note": null
+  },
+  {
+    "id": "ya453qelec",
+    "definition": "Examining cargo and its documentation to assess condition, quantity, identity, or conformity to requirements.",
+    "example": "An inspector records damage to containers received at a warehouse.",
+    "sense_note": null
+  },
+  {
+    "id": "qg3os2kfq1",
+    "definition": "A customer communication platform for managing messaging and chat across support channels.",
+    "example": "A support team assigns incoming website chats to available agents.",
+    "sense_note": null
+  },
+  {
+    "id": "w6wpkte1cm",
+    "definition": "A JavaScript testing framework for making HTTP requests and asserting API responses.",
+    "example": "A test checks that an API returns the expected status and JSON fields.",
+    "sense_note": null
+  },
+  {
+    "id": "lgo87hx7fp",
+    "definition": "A brand management platform for maintaining brand guidelines, templates, and shared assets.",
+    "example": "A designer retrieves an approved logo and checks the rules for using it.",
+    "sense_note": null
+  },
+  {
+    "id": "xq9g4ouati",
+    "definition": "Managing the selling process from initial prospecting and qualification through negotiation and closing.",
+    "example": "A representative qualifies a lead, demonstrates the product, and negotiates the agreement.",
+    "sense_note": null
+  },
+  {
+    "id": "w1aq63na2m",
+    "definition": "Collecting and correlating telemetry across application, infrastructure, and user-facing layers to understand system behavior.",
+    "example": "An engineer traces a slow page request across services to a database delay.",
+    "sense_note": null
+  },
+  {
+    "id": "kbm35o1ym2",
+    "definition": "Designing, building, testing, and maintaining both client-facing and server-side application components.",
+    "example": "A developer connects a web form to an API and adds validation on both sides.",
+    "sense_note": null
+  },
+  {
+    "id": "t0b61v3qrz",
+    "definition": "A standardized assessment instrument that rates how much assistance a person needs for selected daily activities and functions.",
+    "example": "A rehabilitation team records changes in a patient's independence during care.",
+    "sense_note": null
+  },
+  {
+    "id": "kuqc26vh3g",
+    "definition": "An enterprise service bus product or distribution for connecting applications and mediating message exchange.",
+    "example": "A team configures a workflow to route order messages between business systems.",
+    "sense_note": "Confirm which historical Fuse ESB product or distribution is intended."
+  },
+  {
+    "id": "ibphs8fgxr",
+    "definition": "A rehabilitation approach that practices walking tasks to improve mobility, balance, and walking patterns.",
+    "example": "A physical therapist supervises walking practice and evaluates progress.",
+    "sense_note": null
+  },
+  {
+    "id": "zr7jfsxep8",
+    "definition": "A historical test automation platform that supported running and reporting tests across multiple .NET frameworks.",
+    "example": "A team runs tests from two supported .NET test frameworks and collects their results together.",
+    "sense_note": null
+  },
+  {
+    "id": "xu2crck16y",
+    "definition": "Creating visual assets and visual direction for video games within their artistic and technical requirements.",
+    "example": "An artist designs character sprites for a game with a limited color palette.",
+    "sense_note": null
+  },
+  {
+    "id": "r8kn0vxljj",
+    "definition": "Designing games' mechanics, goals, rules, progression, and player experiences.",
+    "example": "A designer adjusts a game's reward rules after observing player behavior in a playtest.",
+    "sense_note": null
+  },
+  {
+    "id": "jj1y0opj8n",
+    "definition": "Modifying an existing garment's fit, dimensions, or construction while preserving its intended use and appearance.",
+    "example": "A tailor shortens trouser legs and preserves the original hem style.",
+    "sense_note": null
+  },
+  {
+    "id": "dalckzat01",
+    "definition": "A React-based framework for building websites, including static pages generated from sourced content.",
+    "example": "A developer builds a documentation site from structured content and templates.",
+    "sense_note": null
+  },
+  {
+    "id": "zglmbe1k9b",
+    "definition": "A laboratory method for separating nucleic acid fragments in a gel according to their movement in an electric field.",
+    "example": "A laboratory uses a gel image to assess whether fragments fall in the expected size range.",
+    "sense_note": null
+  },
+  {
+    "id": "ali865tohc",
+    "definition": "Carrying out routine office support work such as organizing records, handling correspondence, and coordinating schedules.",
+    "example": "An assistant files incoming documents and schedules a meeting.",
+    "sense_note": null
+  },
+  {
+    "id": "h9x8yk1sy1",
+    "definition": "Administering and monitoring a reversible medically induced state of unconsciousness for surgery or another procedure.",
+    "example": "An anaesthesia team monitors a patient's condition during an operation.",
+    "sense_note": null
+  },
+  {
+    "id": "izrkso47in",
+    "definition": "A packet-switched mobile data standard used on compatible GSM networks.",
+    "example": "A legacy tracking device sends periodic data over a network supporting GPRS.",
+    "sense_note": null
+  },
+  {
+    "id": "a1x6lergu6",
+    "definition": "A statistical modeling framework that relates predictors to a response mean through a link function with a suitable response distribution.",
+    "example": "An analyst fits a logistic model for whether customers renewed their subscriptions.",
+    "sense_note": null
+  },
+  {
+    "id": "r808a9m04r",
+    "definition": "A protocol that encapsulates network packets so they can be carried through a logical tunnel over another network.",
+    "example": "A network engineer uses GRE to carry selected traffic between sites, with separate protections where required.",
+    "sense_note": null
+  },
+  {
+    "id": "f9ith6u17j",
+    "definition": "An open-source Python library for representing and modeling text collections, including topic models and embeddings.",
+    "example": "A researcher uses Gensim to identify themes across a document collection.",
+    "sense_note": null
+  },
+  {
+    "id": "o2f6fps51b",
+    "definition": "Geospatial extensions to Django for working with spatial data types, queries, and map-related application logic.",
+    "example": "A developer queries for parks within a specified distance of a user location.",
+    "sense_note": null
+  },
+  {
+    "id": "ft7fc37o2d",
+    "definition": "Building representations of underground geology from observations, interpretations, and geological constraints.",
+    "example": "A geologist combines borehole and survey information to model the depth of a rock layer.",
+    "sense_note": null
+  },
+  {
+    "id": "zhyr681875",
+    "definition": "A software reverse-engineering tool suite for examining compiled code.",
+    "example": "A security analyst examines a compiled program in an authorized review to understand its behavior.",
+    "sense_note": null
+  },
+  {
+    "id": "mrowqrn1dp",
+    "definition": "Creating and analyzing maps by linking location data with attributes in a geographic information system.",
+    "example": "A planner overlays flood zones and road networks to assess which routes may be affected.",
+    "sense_note": null
+  },
+  {
+    "id": "awiyv5ych6",
+    "definition": "Measuring, fitting, and securing glass panels or glazing assemblies according to design and safety specifications.",
+    "example": "An installer replaces a building window using the specified glazing system.",
+    "sense_note": null
+  },
+  {
+    "id": "aswbsv8sty",
+    "definition": "A geographic information system application for displaying, processing, converting, and analyzing spatial datasets.",
+    "example": "A surveyor compares elevation data with a property boundary layer.",
+    "sense_note": null
+  },
+  {
+    "id": "tm4ow78j6a",
+    "definition": "An IT service and asset management tool for tracking equipment, work requests, and related support activity.",
+    "example": "A help desk links a support ticket to the affected workstation's inventory record.",
+    "sense_note": null
+  },
+  {
+    "id": "fijvbfas62",
+    "definition": "An internal audit method for checking operations against applicable good manufacturing practice requirements and identifying corrective actions.",
+    "example": "A quality team reviews production records during a scheduled self-inspection and tracks its findings.",
+    "sense_note": null
+  },
+  {
+    "id": "pb9jup7p6r",
+    "definition": "Planning how a product or service will reach target customers through positioning, channels, sales, and launch activities.",
+    "example": "A team identifies its initial customer segment and chooses a distribution channel for launch.",
+    "sense_note": null
+  },
+  {
+    "id": "m1nnmfjsv0",
+    "definition": "Defining desired outcomes and establishing criteria and milestones for assessing progress.",
+    "example": "A manager and employee agree on a deadline and a measurable performance target.",
+    "sense_note": null
+  },
+  {
+    "id": "he4tfuedsk",
+    "definition": "Separating gold particles from sediment by manually washing material in a shallow pan.",
+    "example": "A prospector checks a stream sediment sample for visible gold particles.",
+    "sense_note": null
+  }
+]

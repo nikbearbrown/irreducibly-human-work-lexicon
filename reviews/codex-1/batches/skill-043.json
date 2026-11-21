@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "vz9yf51h4p",
+    "key": "stable-diffusion",
+    "label": "Stable Diffusion",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zcduq1duac",
+    "key": "stair-and-railing-construction",
+    "label": "Stair and railing construction",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kbj9m1t62c",
+    "key": "stakeholder-communication",
+    "label": "Stakeholder communication",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x81u46ani4",
+    "key": "standards-of-training-certification-and-watchkeeping",
+    "label": "Standards of Training, Certification and Watchkeeping",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "srpx1wtabe",
+    "key": "stanislavski-s-system",
+    "label": "Stanislavski's system",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vgsyrsr7pf",
+    "key": "star-and-snowflake-schemas",
+    "label": "Star and snowflake schemas",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cvzbo9nnh4",
+    "key": "statement-on-auditing-standards-no-70",
+    "label": "Statement on Auditing Standards No. 70",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eisnlpf3so",
+    "key": "statements-on-standards-for-attestation-engagements",
+    "label": "Statements on Standards for Attestation Engagements",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yudz6qpuf8",
+    "key": "statistical-software",
+    "label": "Statistical software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u7uo9jl0hd",
+    "key": "sterile-technique",
+    "label": "Sterile technique",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f3p9mj9l02",
+    "key": "stm32-nucleo",
+    "label": "STM32 Nucleo",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kzqxoy5ali",
+    "key": "stochastic-modelling",
+    "label": "Stochastic modelling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hv6ysxrs2l",
+    "key": "stormcad",
+    "label": "StormCAD",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m2oxlvpoy1",
+    "key": "stormwater-monitoring",
+    "label": "Stormwater monitoring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xvm42di96q",
+    "key": "strategic-decision-making",
+    "label": "Strategic decision-making",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k1k1pijmlc",
+    "key": "strategic-prioritization",
+    "label": "Strategic prioritization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z9ekven1de",
+    "key": "strategic-procurement",
+    "label": "Strategic procurement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "egr0a7yj0j",
+    "key": "strength-training",
+    "label": "Strength training",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ngph5j5f3b",
+    "key": "stress-testing-computing",
+    "label": "Stress testing (computing)",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wtalx4mqbo",
+    "key": "stretch-wrapping",
+    "label": "Stretch wrapping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vh41ol2rut",
+    "key": "structural-calculations",
+    "label": "Structural calculations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bd1njmfufc",
+    "key": "structural-detailing",
+    "label": "Structural detailing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nottch9bpm",
+    "key": "structure-chart",
+    "label": "Structure chart",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x9n3rqkopo",
+    "key": "student-development",
+    "label": "Student development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jwu8ona3vz",
+    "key": "student-recruitment",
+    "label": "Student recruitment",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "thnbnd3pir",
+    "key": "student-s-t-test",
+    "label": "Student's t-test",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y8thnateb0",
+    "key": "stuttgart-neural-network-simulator",
+    "label": "Stuttgart Neural Network Simulator",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "elj734ipli",
+    "key": "sublime-text",
+    "label": "Sublime Text",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zph9nlj4oh",
+    "key": "substance-abuse-assessment",
+    "label": "Substance abuse assessment",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mn0kh9q0a1",
+    "key": "substantive-testing",
+    "label": "Substantive testing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pssdza1weh",
+    "key": "supertest",
+    "label": "SuperTest",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tf0qfj7tkw",
+    "key": "supplier-quality-engineering",
+    "label": "Supplier quality engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bmmxhtlvs2",
+    "key": "supplier-quality-management",
+    "label": "Supplier quality management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s479attn3c",
+    "key": "surgical-incision",
+    "label": "Surgical incision",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q30r29eun4",
+    "key": "surgical-suturing",
+    "label": "Surgical suturing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "psgmej2f93",
+    "key": "sustainability-risk-management",
+    "label": "Sustainability risk management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kf00e1n2od",
+    "key": "sustainable-investment-management",
+    "label": "Sustainable investment management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gcll6t8sfs",
+    "key": "svelte",
+    "label": "Svelte",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ccto9mfj25",
+    "key": "sveltekit",
+    "label": "SvelteKit",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t1q7dip5ju",
+    "key": "swagger-ui",
+    "label": "Swagger UI",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

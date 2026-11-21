@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An SD card is removable flash storage conforming to Secure Digital specifications for storing and transferring data.",
+  "entry_text": "An SD card is removable flash storage conforming to Secure Digital specifications for storing and transferring data.",
+  "entry_text_kind": "definition",
+  "example": "A photographer removes an SD card from a camera to copy image files to a computer.",
+  "id": "esx8bhcp74",
+  "key": "sd-card",
+  "label": "SD card",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

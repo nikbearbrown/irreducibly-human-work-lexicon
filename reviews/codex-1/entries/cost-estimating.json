@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cost estimating forecasts the resources and expenditures needed to complete a project or deliver an outcome.",
+  "entry_text": "Cost estimating forecasts the resources and expenditures needed to complete a project or deliver an outcome.",
+  "entry_text_kind": "definition",
+  "example": "A construction estimator combines material quantities with labor and equipment rates to develop a budget.",
+  "id": "y83erk8o1r",
+  "key": "cost-estimating",
+  "label": "Cost estimating",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

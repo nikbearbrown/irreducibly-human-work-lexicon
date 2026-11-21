@@ -1,0 +1,28 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "American Welding Society codes define technical requirements for welding work within their specified scopes.",
+  "entry_text": "American Welding Society codes define technical requirements for welding work within their specified scopes.",
+  "entry_text_kind": "definition",
+  "example": "A welding inspector consults the applicable code when reviewing structural weld acceptance.",
+  "id": "obbbl6h3c4",
+  "key": "american-welding-society-codes",
+  "label": "American Welding Society codes",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "obbbl6h3c4",
+      "note": "The issuing organization identifies its standards for welding practices and procedures and emphasizes that requirements apply within each document’s scope. This does not mean that every code is automatically a legal requirement.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://www.aws.org/standards-and-publications/codes-and-standards/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

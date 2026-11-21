@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-012.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Surface properties of transition metal oxides concern how the composition, structure and electronic state at their surfaces affect interactions such as adsorption and reactivity.",
+  "entry_text": "Surface properties of transition metal oxides concern how the composition, structure and electronic state at their surfaces affect interactions such as adsorption and reactivity.",
+  "entry_text_kind": "definition",
+  "example": "A materials scientist compares how oxygen vacancies influence adsorption on two oxide surfaces.",
+  "id": "vlddi3cmfn",
+  "key": "surface-properties-of-transition-metal-oxides",
+  "label": "Surface properties of transition metal oxides",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

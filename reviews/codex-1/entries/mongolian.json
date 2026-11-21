@@ -1,0 +1,27 @@
+{
+  "batch": "language-005.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_identity_candidates": [
+    {
+      "code": "mong1331",
+      "level": "family",
+      "name": "Mongolian"
+    }
+  ],
+  "definition": "A human language used in spoken and written communication across multiple script conventions.",
+  "entry_text": "A human language used in spoken and written communication across multiple script conventions.",
+  "entry_text_kind": "definition",
+  "example": "A publisher specifies the intended script for a Mongolian edition.",
+  "id": "rec5tl6jmm",
+  "key": "mongolian",
+  "label": "Mongolian",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

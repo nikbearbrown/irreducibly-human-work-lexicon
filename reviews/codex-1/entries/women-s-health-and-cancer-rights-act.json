@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Women's Health and Cancer Rights Act is a U.S. law that requires qualifying health coverage offering mastectomy benefits to cover specified related care.",
+  "entry_text": "The Women's Health and Cancer Rights Act is a U.S. law that requires qualifying health coverage offering mastectomy benefits to cover specified related care.",
+  "entry_text_kind": "definition",
+  "example": "A benefits specialist reviews plan materials for required post-mastectomy reconstruction coverage.",
+  "id": "g5w0hghcgk",
+  "key": "women-s-health-and-cancer-rights-act",
+  "label": "Women's Health and Cancer Rights Act",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

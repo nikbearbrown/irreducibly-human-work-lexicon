@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A vehicle whose propulsion uses one or more electric motors powered by electrical energy.",
+  "entry_text": "A vehicle whose propulsion uses one or more electric motors powered by electrical energy.",
+  "entry_text_kind": "definition",
+  "example": "A delivery operator recharges a battery-electric van between shifts.",
+  "id": "gmm5f3ssho",
+  "key": "electric-vehicle",
+  "label": "Electric vehicle",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

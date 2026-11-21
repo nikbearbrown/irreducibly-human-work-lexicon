@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Software architecture is the organization of a software system into elements, interactions, and governing design decisions that shape its behavior and evolution.",
+  "entry_text": "Software architecture is the organization of a software system into elements, interactions, and governing design decisions that shape its behavior and evolution.",
+  "entry_text_kind": "definition",
+  "example": "An architect separates payment processing from the storefront so the two can change and recover independently.",
+  "id": "nxe5r570bd",
+  "key": "software-architecture",
+  "label": "Software architecture",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

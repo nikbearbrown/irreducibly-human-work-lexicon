@@ -1,0 +1,31 @@
+{
+  "batch": "language-003.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Hindi (ISO 639-3: hin) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Hindi",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "hind1269",
+    "iso639_3": "hin",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/hind1269"
+  },
+  "definition": "A human language whose standard written form uses Devanagari.",
+  "entry_text": "A human language whose standard written form uses Devanagari.",
+  "entry_text_kind": "definition",
+  "example": "A translator checks a Hindi transit announcement.",
+  "id": "u42in8da9c",
+  "key": "hindi",
+  "label": "Hindi",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

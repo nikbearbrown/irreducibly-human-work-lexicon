@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A customer relationship management platform for organizing contacts, companies, deals, and interactions.",
+  "entry_text": "A customer relationship management platform for organizing contacts, companies, deals, and interactions.",
+  "entry_text_kind": "definition",
+  "example": "A sales team tracks opportunities and follow-up tasks in a shared CRM.",
+  "id": "eoyz2rkeok",
+  "key": "hubspot-crm",
+  "label": "HubSpot CRM",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

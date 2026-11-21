@@ -1,0 +1,266 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "zblaq7zuuy",
+    "key": "word-embedding",
+    "label": "Word embedding",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "db9b71y3ro",
+    "key": "word-processing",
+    "label": "Word processing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t4shhq3mff",
+    "key": "word-vba",
+    "label": "Word VBA",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zmd0lqh1v8",
+    "key": "word2vec",
+    "label": "word2vec",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "on40gkkbwj",
+    "key": "workers-compensation-claims",
+    "label": "Workers' compensation claims",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qrp6flp31z",
+    "key": "workflow-automation",
+    "label": "Workflow automation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "injapalu4u",
+    "key": "workflow-management",
+    "label": "Workflow management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i71ujs2p1s",
+    "key": "workforce-optimisation",
+    "label": "Workforce optimisation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tmgks8isxz",
+    "key": "working-with-children-aged-0-5",
+    "label": "Working with children aged 0-5",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "weh7we1w6p",
+    "key": "writing-outlines",
+    "label": "Writing outlines",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oxms4xxazw",
+    "key": "wsdl2java",
+    "label": "WSDL2Java",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ffw2lu5zpa",
+    "key": "wxgtk",
+    "label": "wxGTK",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f2jm5onupj",
+    "key": "wxperl",
+    "label": "wxPerl",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wi51wbsa9k",
+    "key": "wxpython",
+    "label": "wxPython",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kfzd0j02g5",
+    "key": "wyse-management-suite",
+    "label": "Wyse Management Suite",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ayo1hdf1sx",
+    "key": "xanthoproteic-reaction",
+    "label": "Xanthoproteic reaction",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fwqpdgm41j",
+    "key": "xbox-live-vision",
+    "label": "Xbox Live Vision",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e0mbaqg3fb",
+    "key": "xcalibur",
+    "label": "Xcalibur",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dbflhzs5on",
+    "key": "xtragrid",
+    "label": "XtraGrid",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "llq5laptmx",
+    "key": "yahoo-messenger",
+    "label": "Yahoo Messenger",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ncxhzvv61k",
+    "key": "yara",
+    "label": "YARA",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zfj2qiys3k",
+    "key": "yardi",
+    "label": "Yardi",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e41ytuzgd2",
+    "key": "yellow-dog-linux",
+    "label": "Yellow Dog Linux",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vckpdr9vll",
+    "key": "youth-mentoring",
+    "label": "Youth mentoring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wrmfmtic1i",
+    "key": "yunos",
+    "label": "YunOS",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z31by6og0u",
+    "key": "z-os",
+    "label": "z/OS",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wrnhvdt1hx",
+    "key": "z-wave",
+    "label": "Z-Wave",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dmhun0l6s3",
+    "key": "zemax-opticstudio",
+    "label": "Zemax OpticStudio",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gxi8cntte5",
+    "key": "zenworks-asset-management",
+    "label": "ZENworks Asset Management",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dol9duyg3c",
+    "key": "zeroheight",
+    "label": "zeroheight",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zs4ghz3n1b",
+    "key": "zerto",
+    "label": "Zerto",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jz5tjsgtoi",
+    "key": "zetafax",
+    "label": "Zetafax",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s3xo61f08o",
+    "key": "zfs",
+    "label": "ZFS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

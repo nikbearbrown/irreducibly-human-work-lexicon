@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "WebDriverJS refers to JavaScript tooling for driving browsers through WebDriver, particularly Selenium’s JavaScript bindings.",
+  "entry_text": "WebDriverJS refers to JavaScript tooling for driving browsers through WebDriver, particularly Selenium’s JavaScript bindings.",
+  "entry_text_kind": "definition",
+  "example": "A tester writes a JavaScript check that verifies a modal can be closed.",
+  "id": "j24v0pklgn",
+  "key": "webdriverjs",
+  "label": "WebDriverJS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label has also been used for other JavaScript WebDriver clients.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

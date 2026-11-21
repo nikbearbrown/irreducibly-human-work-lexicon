@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-012.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A tax shelter is an investment or arrangement intended to reduce or defer tax liability.",
+  "entry_text": "A tax shelter is an investment or arrangement intended to reduce or defer tax liability.",
+  "entry_text_kind": "definition",
+  "example": "An analyst distinguishes a legally recognized tax-favored arrangement from an abusive shelter.",
+  "id": "iiguuxxpw3",
+  "key": "tax-shelter",
+  "label": "Tax shelter",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The term covers arrangements with differing legal status.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

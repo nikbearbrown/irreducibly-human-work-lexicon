@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Plumbing plans examination reviews plumbing drawings and supporting documents against applicable requirements for approval.",
+  "entry_text": "Plumbing plans examination reviews plumbing drawings and supporting documents against applicable requirements for approval.",
+  "entry_text_kind": "definition",
+  "example": "An examiner requests a missing drainage layout detail.",
+  "id": "wvrwtap8yd",
+  "key": "plumbing-plans-examination",
+  "label": "Plumbing plans examination",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

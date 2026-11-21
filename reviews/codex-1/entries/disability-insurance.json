@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Disability insurance provides benefits, often partial income replacement, when a covered disability meets the policy's definition and other terms.",
+  "entry_text": "Disability insurance provides benefits, often partial income replacement, when a covered disability meets the policy's definition and other terms.",
+  "entry_text_kind": "definition",
+  "example": "An employee checks a short-term disability policy's waiting period after an injury prevents them from working.",
+  "id": "w169ky8jd2",
+  "key": "disability-insurance",
+  "label": "Disability insurance",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

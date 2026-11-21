@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "MicroStrategy Office is a Microsoft Office integration for accessing and using MicroStrategy reports or data in Office documents.",
+  "entry_text": "MicroStrategy Office is a Microsoft Office integration for accessing and using MicroStrategy reports or data in Office documents.",
+  "entry_text_kind": "definition",
+  "example": "A finance analyst refreshes a report embedded in an Excel workbook.",
+  "id": "dwvdsrh0mq",
+  "key": "microstrategy-office",
+  "label": "MicroStrategy Office",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

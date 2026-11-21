@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Net zero describes a balance between greenhouse gas emissions and removals within specified boundaries and a defined period.",
+  "entry_text": "Net zero describes a balance between greenhouse gas emissions and removals within specified boundaries and a defined period.",
+  "entry_text_kind": "definition",
+  "example": "A climate inventory separates remaining emissions from credited removals when assessing a net-zero claim.",
+  "id": "duizwpkp0n",
+  "key": "net-zero",
+  "label": "Net zero",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Some targets cover carbon dioxide alone rather than all greenhouse gases.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

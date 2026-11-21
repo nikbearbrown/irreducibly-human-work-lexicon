@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Wi-Fi test engineering designs and runs tests for wireless behavior, compliance and interoperability.",
+  "entry_text": "Wi-Fi test engineering designs and runs tests for wireless behavior, compliance and interoperability.",
+  "entry_text_kind": "definition",
+  "example": "An engineer measures how well a device maintains connectivity while moving between access points.",
+  "id": "p8qmykc9gw",
+  "key": "wi-fi-test-engineering",
+  "label": "Wi-Fi test engineering",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

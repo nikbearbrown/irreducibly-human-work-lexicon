@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Agricultural machinery comprises powered or mechanical equipment used to perform farming tasks such as planting, cultivation, and harvesting.",
+  "entry_text": "Agricultural machinery comprises powered or mechanical equipment used to perform farming tasks such as planting, cultivation, and harvesting.",
+  "entry_text_kind": "definition",
+  "example": "A grower uses a calibrated seed drill to place crops at a consistent spacing.",
+  "id": "kmr2qx0hc9",
+  "key": "agricultural-machinery",
+  "label": "Agricultural machinery",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

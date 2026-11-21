@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Designing or producing web material that responds to user input rather than presenting fixed information alone.",
+  "entry_text": "Designing or producing web material that responds to user input rather than presenting fixed information alone.",
+  "entry_text_kind": "definition",
+  "example": "A publisher builds an explorable graphic that updates when readers select a city.",
+  "id": "qpdq0k0dbj",
+  "key": "interactive-web-content",
+  "label": "Interactive web content",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

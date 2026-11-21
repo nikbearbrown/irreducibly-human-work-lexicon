@@ -1,0 +1,20 @@
+{
+  "batch": "skill-010.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Complaint investigation gathers and evaluates evidence to determine the facts behind a reported problem and recommend an appropriate response.",
+  "entry_text": "Complaint investigation gathers and evaluates evidence to determine the facts behind a reported problem and recommend an appropriate response.",
+  "entry_text_kind": "definition",
+  "example": "An investigator interviews both parties and compares their accounts with relevant records.",
+  "id": "x5fnpmr8pm",
+  "key": "complaint-investigation",
+  "label": "Complaint investigation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

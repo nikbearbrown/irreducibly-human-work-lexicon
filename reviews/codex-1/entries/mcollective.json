@@ -1,0 +1,28 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "MCollective was a framework for issuing coordinated administrative commands across groups of machines.",
+  "entry_text": "MCollective was a framework for issuing coordinated administrative commands across groups of machines.",
+  "entry_text_kind": "definition",
+  "example": "An administrator queried service status across a set of managed hosts.",
+  "id": "ivqbujumn8",
+  "key": "mcollective",
+  "label": "MCollective",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "ivqbujumn8",
+      "note": "The first-party module documentation describes MCollective clients, agents, middleware, and groups of managed nodes, consistent with the distributed orchestration definition.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://forge.puppet.com/modules/puppet/mcollective",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

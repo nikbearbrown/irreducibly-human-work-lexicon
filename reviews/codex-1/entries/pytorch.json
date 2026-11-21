@@ -1,0 +1,28 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PyTorch is a tensor-computing library with automatic differentiation for building and training machine-learning models.",
+  "entry_text": "PyTorch is a tensor-computing library with automatic differentiation for building and training machine-learning models.",
+  "entry_text_kind": "definition",
+  "example": "A developer computes gradients for a model during training.",
+  "id": "ipe556x4k6",
+  "key": "pytorch",
+  "label": "PyTorch",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "ipe556x4k6",
+      "note": "Official documentation describes tensor operations and automatic differentiation during model training.",
+      "packet": "root-skill-037-and-abc.json",
+      "ref": "https://docs.pytorch.org/docs/main/notes/autograd.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

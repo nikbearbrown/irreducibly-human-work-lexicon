@@ -1,0 +1,30 @@
+{
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Managing one's own time and the time of others.",
+  "entry_text": "Managing one's own time and the time of others.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "jv2zzu3080",
+  "key": "time-management",
+  "label": "Time Management",
+  "onet_codes": [
+    "2.B.5.a"
+  ],
+  "origin": "onet-30.2-source-definition",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "attribution": "U.S. Department of Labor, Employment and Training Administration",
+      "element_id": "2.B.5.a",
+      "license": "CC BY 4.0",
+      "release": "30.2",
+      "snapshot_path": "onet-skills/onet-skills.json",
+      "url": "https://www.onetcenter.org/dl_files/database/db_30_2_text/Content%20Model%20Reference.txt"
+    }
+  ],
+  "verification": "official-exact"
+}

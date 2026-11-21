@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "ihcdms58ev",
+    "key": "email-software",
+    "label": "Email software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rvb4xaqyno",
+    "key": "embalming",
+    "label": "Embalming",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o5aj12ezze",
+    "key": "ember-js",
+    "label": "Ember.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l4yp5azrbp",
+    "key": "embroidery-machine-operation",
+    "label": "Embroidery machine operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kblgtvd61c",
+    "key": "emergency-vehicle-operations",
+    "label": "Emergency vehicle operations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vvrl1yaqdd",
+    "key": "emission-calculations",
+    "label": "Emission calculations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jrbj7k9am7",
+    "key": "employee-relations-investigations",
+    "label": "Employee relations investigations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rlkshw2yiw",
+    "key": "employee-relations",
+    "label": "Employee relations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qdp11s2pja",
+    "key": "employer-branding",
+    "label": "Employer branding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k4il6d3l0u",
+    "key": "employment-compliance",
+    "label": "Employment compliance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x5se053uo6",
+    "key": "ems-dispatch",
+    "label": "EMS dispatch",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "or91a4q1dx",
+    "key": "encounter-data-management",
+    "label": "Encounter data management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nh1ta76214",
+    "key": "endevor",
+    "label": "Endevor",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mkkre3uwga",
+    "key": "endotracheal-suctioning",
+    "label": "Endotracheal suctioning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "isam351nfh",
+    "key": "endovascular-aneurysm-repair",
+    "label": "Endovascular aneurysm repair",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qd1x4xiu5o",
+    "key": "endpoint-detection-and-response",
+    "label": "Endpoint detection and response",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yaztpt8bej",
+    "key": "endpoint-engineering",
+    "label": "Endpoint engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e61znnqfwb",
+    "key": "endpoint-management",
+    "label": "Endpoint management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sshjgtnr54",
+    "key": "endpoint-security",
+    "label": "Endpoint security",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "is6rdg2nb3",
+    "key": "enema-administration",
+    "label": "Enema administration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x6ouzz71v2",
+    "key": "energy-control-procedures",
+    "label": "Energy control procedures",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fbmyyojcj3",
+    "key": "engineering-drawing",
+    "label": "Engineering drawing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cbl1f2h14n",
+    "key": "enhanced-data-rates-for-gsm-evolution",
+    "label": "Enhanced Data rates for GSM Evolution",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bw6hhm83w9",
+    "key": "enhanced-prudential-standards",
+    "label": "Enhanced prudential standards",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l193wio43x",
+    "key": "enscape",
+    "label": "Enscape",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gx2ytxtkrx",
+    "key": "ensemble-conducting",
+    "label": "Ensemble conducting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i23d7safuf",
+    "key": "ensemble-methods",
+    "label": "Ensemble methods",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zhx1j34swl",
+    "key": "enterprise-integration",
+    "label": "Enterprise integration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rd3adykyyr",
+    "key": "enterprise-network-security",
+    "label": "Enterprise network security",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zhzug46cnu",
+    "key": "enterprise-performance-management",
+    "label": "Enterprise performance management",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sj66h6hvfz",
+    "key": "enterprisedb",
+    "label": "EnterpriseDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ryt8m9iu1m",
+    "key": "entrepreneurial-operating-system",
+    "label": "Entrepreneurial Operating System",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n97b7f7wad",
+    "key": "environmental-impact-statement-preparation",
+    "label": "Environmental impact statement preparation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qyidg7zbc0",
+    "key": "environmental-journalism",
+    "label": "Environmental journalism",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x67m4fgi71",
+    "key": "environmental-scanning",
+    "label": "Environmental scanning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ky1xl14a44",
+    "key": "enzyme-analysis",
+    "label": "Enzyme analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b4wc6manaz",
+    "key": "enzyme-linked-immunosorbent-assay",
+    "label": "Enzyme-linked immunosorbent assay",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "su6pqtkxed",
+    "key": "epic-asap",
+    "label": "Epic ASAP",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lfl8vfghrk",
+    "key": "epic-beacon",
+    "label": "Epic Beacon",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "djn4rto36i",
+    "key": "epic-willow",
+    "label": "Epic Willow",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "dm8qwd9j0u",
+    "definition": "Auditing outpatient coding checks whether codes for non-inpatient encounters match the documentation and applicable coding rules.",
+    "example": "An auditor compares charges for an outpatient office visit with the services documented in the record.",
+    "sense_note": null
+  },
+  {
+    "id": "d6c47g3ckz",
+    "definition": "Auditing systematically examines evidence to evaluate whether statements, practices, or controls meet specified criteria.",
+    "example": "An auditor samples purchase records to assess whether payments received the required approvals.",
+    "sense_note": null
+  },
+  {
+    "id": "zd8butfvut",
+    "definition": "Aural rehabilitation helps people with hearing loss improve communication through training, strategies, and appropriate assistive supports.",
+    "example": "A clinician and client practice speech recognition and strategies for conversations in noisy spaces.",
+    "sense_note": null
+  },
+  {
+    "id": "hupkg1mnsj",
+    "definition": "Aurelia is a JavaScript framework for building client-side applications with components, templates, and data binding.",
+    "example": "A developer binds a view to an editable customer profile model.",
+    "sense_note": null
+  },
+  {
+    "id": "sn7ls039m4",
+    "definition": "Author-it is a component content management and authoring platform for reusing structured content across publications.",
+    "example": "A documentation team updates a shared topic once and republishes several manuals.",
+    "sense_note": null
+  },
+  {
+    "id": "vzdpk860cj",
+    "definition": "Autism therapy encompasses individualized clinical or developmental supports intended to help autistic people pursue communication, daily living, or other chosen goals.",
+    "example": "A therapist and client choose a communication goal and evaluate whether a new support is useful.",
+    "sense_note": "This is an umbrella term, not one treatment, and does not imply a goal of eliminating autism."
+  },
+  {
+    "id": "a9sbyr46z1",
+    "definition": "Auto glass installation and repair assess, repair, or replace vehicle windows while maintaining visibility and structural fit.",
+    "example": "A technician replaces a cracked windshield and checks that the installation meets vehicle specifications.",
+    "sense_note": null
+  },
+  {
+    "id": "crbzv5sn0r",
+    "definition": "Autodesk 123D was a family of consumer tools for creating and preparing digital 3D designs.",
+    "example": "A hobbyist creates a simple model and exports it for fabrication.",
+    "sense_note": null
+  },
+  {
+    "id": "cezarn1svy",
+    "definition": "Automotive detailing thoroughly cleans, restores, and protects a vehicle’s interior and exterior surfaces.",
+    "example": "A detailer cleans fabric seats and protects painted surfaces after removing road residue.",
+    "sense_note": null
+  },
+  {
+    "id": "jqsu0gbi1u",
+    "definition": "An autoregressive integrated moving-average model forecasts a univariate time series through differencing and terms based on prior values and forecast errors.",
+    "example": "An analyst models weekly demand and checks whether its residuals retain time dependence.",
+    "sense_note": null
+  },
+  {
+    "id": "yownx9zvff",
+    "definition": "Autoshade was an Autodesk rendering application for producing shaded images from three-dimensional AutoCAD geometry.",
+    "example": "A designer renders an older CAD model to review how its surfaces appear.",
+    "sense_note": "The suggested sense is the historical Autodesk renderer."
+  },
+  {
+    "id": "o1ffghl5pu",
+    "definition": "AvantGo was a mobile service for synchronizing web content to handheld devices for later reading.",
+    "example": "A traveler downloads news to a handheld and reads it offline.",
+    "sense_note": null
+  },
+  {
+    "id": "kmcb9apauo",
+    "definition": "AVEVA PI System captures, stores, and contextualizes time-series data from industrial operations.",
+    "example": "A plant engineer compares motor temperature readings over several shifts.",
+    "sense_note": null
+  },
+  {
+    "id": "pgdna467wt",
+    "definition": "An aviation medical examination assesses whether an individual meets health requirements for a defined aviation role or certification.",
+    "example": "A designated examiner evaluates an applicant’s fitness for the requested aviation medical certificate.",
+    "sense_note": null
+  },
+  {
+    "id": "xv37jo287i",
+    "definition": "Avid Elastic Reality was a visual-effects application for morphing and warping images or video.",
+    "example": "A compositor uses shape-based morphing to transition between two images.",
+    "sense_note": null
+  },
+  {
+    "id": "l8ekx0fzub",
+    "definition": "Avid Media Composer is a nonlinear video editing application for organizing media and assembling edited productions.",
+    "example": "An editor synchronizes recorded audio to camera footage and revises a sequence.",
+    "sense_note": null
+  },
+  {
+    "id": "scnorb90o8",
+    "definition": "AWS big data refers to the use of Amazon Web Services to ingest, store, process, and analyze large or complex datasets.",
+    "example": "A team combines object storage and distributed processing to summarize telemetry.",
+    "sense_note": "This is a service area rather than a single AWS product."
+  },
+  {
+    "id": "cmtuyx6c1u",
+    "definition": "AWS Cloud9 is a cloud-based integrated development environment for editing, running, and debugging code in a browser.",
+    "example": "A developer maintains an existing project from its hosted workspace.",
+    "sense_note": null
+  },
+  {
+    "id": "f9s025tlam",
+    "definition": "AWS CloudFormation provisions and manages groups of AWS resources from declarative infrastructure templates.",
+    "example": "A team recreates a test environment using the same reviewed template as its staging environment.",
+    "sense_note": null
+  },
+  {
+    "id": "n6a28897om",
+    "definition": "AWS CloudHSM provides dedicated cloud hardware security modules for managing cryptographic keys and performing cryptographic operations.",
+    "example": "An application signs a document using a key controlled within a hardware security module.",
+    "sense_note": null
+  },
+  {
+    "id": "kba5p9by94",
+    "definition": "AWS CloudTrail records supported activity in an AWS account so teams can audit actions and changes.",
+    "example": "An investigator checks which identity changed a storage resource’s configuration.",
+    "sense_note": null
+  },
+  {
+    "id": "lrg2eu09em",
+    "definition": "AWS CodeBuild is a managed service that runs specified build and test steps and produces build artifacts.",
+    "example": "A team runs regression tests and packages the application on each approved change.",
+    "sense_note": null
+  },
+  {
+    "id": "mldj16hibf",
+    "definition": "AWS CodeCommit is a managed service that hosts private Git repositories in AWS.",
+    "example": "A team reviews changes in a private repository integrated with its AWS identity controls.",
+    "sense_note": null
+  },
+  {
+    "id": "cml6t35xqn",
+    "definition": "The AWS Command Line Interface invokes AWS service operations through terminal commands or scripts.",
+    "example": "An administrator lists the resources that belong to a development account.",
+    "sense_note": null
+  },
+  {
+    "id": "e7v9azv69k",
+    "definition": "AWS Elastic Beanstalk deploys applications while managing much of the supporting AWS infrastructure.",
+    "example": "A team uploads a web application and lets the platform manage its deployment environment.",
+    "sense_note": null
+  },
+  {
+    "id": "hh5zk4fi3o",
+    "definition": "AWS IoT is a family of services for connecting devices, processing their messages, and managing fleets.",
+    "example": "A monitoring team collects authorized temperature readings from equipment at multiple sites.",
+    "sense_note": null
+  },
+  {
+    "id": "ry245wui4g",
+    "definition": "AWS Lambda is a managed service that executes code on demand in response to invocations and events.",
+    "example": "A file upload triggers a function that validates the file’s metadata.",
+    "sense_note": null
+  },
+  {
+    "id": "ft1f82qoac",
+    "definition": "AWS networking involves configuring connectivity, routing, isolation, and traffic management for AWS resources.",
+    "example": "An engineer puts a service in a private subnet and allows access through an approved endpoint.",
+    "sense_note": null
+  },
+  {
+    "id": "hqhwu7b5ig",
+    "definition": "AWS OpsWorks was a family of AWS configuration-management offerings for automating infrastructure and application setup.",
+    "example": "An operations team applies a managed configuration policy to a group of servers.",
+    "sense_note": null
+  },
+  {
+    "id": "kazbc7sp8z",
+    "definition": "AWS Outposts extends selected AWS infrastructure and services into a customer’s on-premises or colocated facility.",
+    "example": "A company processes data locally while using AWS tools to operate the on-site infrastructure.",
+    "sense_note": null
+  },
+  {
+    "id": "lem0uww05d",
+    "definition": "An AWS Software Development Kit exposes programming interfaces for calling AWS services from application code.",
+    "example": "A developer uploads a file to object storage through the SDK for the application’s language.",
+    "sense_note": null
+  },
+  {
+    "id": "bshzmdl45a",
+    "definition": "AWS serverless refers to building systems with managed services that avoid direct administration of the underlying servers.",
+    "example": "An order event triggers managed compute and stores a record in a managed database.",
+    "sense_note": null
+  },
+  {
+    "id": "h00skqgqmn",
+    "definition": "Amazon Web Services is a cloud platform providing on-demand computing, storage, networking, and other managed services.",
+    "example": "A company hosts a web application using cloud compute and a managed database.",
+    "sense_note": null
+  },
+  {
+    "id": "jwz55gwlkt",
+    "definition": "Axios is a promise-based JavaScript HTTP client for browsers and Node.js.",
+    "example": "A front end fetches account data and displays an error if the request fails.",
+    "sense_note": null
+  },
+  {
+    "id": "lty9xyx66t",
+    "definition": "Azure Application Insights monitors application performance by collecting telemetry such as requests, dependencies, exceptions, and traces.",
+    "example": "An engineer traces a slow API request through its downstream service calls.",
+    "sense_note": null
+  },
+  {
+    "id": "vsekbxlib7",
+    "definition": "Azure Cognitive Services is the historical name for a family of cloud APIs that add capabilities such as language, speech, and vision processing to applications.",
+    "example": "A developer adds automatic transcription using a managed speech service.",
+    "sense_note": null
+  },
+  {
+    "id": "pnklmrczi7",
+    "definition": "Azure Data Factory is a managed data integration service for orchestrating data movement and transformations.",
+    "example": "A team schedules nightly ingestion from an operational database into an analytical store.",
+    "sense_note": null
+  },
+  {
+    "id": "bum8cg3i92",
+    "definition": "Azure DevOps provides tools for software project tracking, source control, build pipelines, and release workflows.",
+    "example": "A team links a work item to the pull request and build that implement it.",
+    "sense_note": null
+  },
+  {
+    "id": "r8adb73z22",
+    "definition": "Azure IoT comprises cloud and device services for securely connecting and monitoring fleets of connected devices.",
+    "example": "An operator tracks telemetry from remotely deployed meters.",
+    "sense_note": null
+  },
+  {
+    "id": "lf0wenajzy",
+    "definition": "Azure Monitor collects and analyzes operational telemetry across cloud and connected resources.",
+    "example": "An operations team uses a dashboard and alerts to detect an increase in service failures.",
+    "sense_note": null
+  }
+]

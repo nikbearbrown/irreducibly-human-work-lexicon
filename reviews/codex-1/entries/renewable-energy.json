@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-011.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Renewable energy comes from sources naturally replenished on human timescales, such as sunlight, wind or flowing water.",
+  "entry_text": "Renewable energy comes from sources naturally replenished on human timescales, such as sunlight, wind or flowing water.",
+  "entry_text_kind": "definition",
+  "example": "A community generates electricity from wind turbines.",
+  "id": "b0lmdyh8po",
+  "key": "renewable-energy",
+  "label": "Renewable energy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

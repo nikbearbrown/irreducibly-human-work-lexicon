@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Taking messages means recording and relaying a caller's or visitor's information accurately, completely, and to the appropriate recipient.",
+  "entry_text": "Taking messages means recording and relaying a caller's or visitor's information accurately, completely, and to the appropriate recipient.",
+  "entry_text_kind": "definition",
+  "example": "A receptionist records a callback number and repeats it to confirm accuracy before forwarding the message.",
+  "id": "lbwvejax9o",
+  "key": "taking-messages",
+  "label": "Taking messages",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

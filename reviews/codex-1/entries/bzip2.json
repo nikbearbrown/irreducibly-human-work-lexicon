@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "bzip2 is a lossless compression utility and format for reducing the size of files.",
+  "entry_text": "bzip2 is a lossless compression utility and format for reducing the size of files.",
+  "entry_text_kind": "definition",
+  "example": "An archivist compresses a plain-text log and later recovers the original bytes.",
+  "id": "lf4govmv8z",
+  "key": "bzip2",
+  "label": "bzip2",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

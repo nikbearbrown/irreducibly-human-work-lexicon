@@ -1,0 +1,44 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Bassa (ISO 639-3: bsq) as a language under the Kru grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Kru",
+    "catalog_name": "Bassa",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "nucl1418",
+    "iso639_3": "bsq",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/nucl1418"
+  },
+  "definition": null,
+  "entry_text": "Bassa [bsq] is the exact catalog-name candidate. Bassa-Kontagora [bsr] is distinct, and Glottolog 5.4 lists Bassa as a German alternative name for Basa (Cameroon) [bas]. Confirm the intended code.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "bzhvu8qe7g",
+  "key": "bassa",
+  "label": "Bassa",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label identifies multiple languages; confirm the intended language or code before drafting.",
+  "sense_proposal": {
+    "ambiguity_note": "Bassa [bsq] is the exact catalog-name candidate. Bassa-Kontagora [bsr] is distinct, and Glottolog 5.4 lists Bassa as a German alternative name for Basa (Cameroon) [bas]. Confirm the intended code.",
+    "id": "bzhvu8qe7g",
+    "label": "Bassa",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/nucl1418",
+      "https://glottolog.org/resource/languoid/id/bass1259",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3",
+      "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry",
+      "https://glottolog.org/resource/languoid/id/basa1284"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

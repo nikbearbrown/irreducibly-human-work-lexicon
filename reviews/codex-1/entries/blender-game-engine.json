@@ -1,0 +1,28 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Blender Game Engine was Blender’s integrated runtime and authoring environment for interactive 3D experiences.",
+  "entry_text": "Blender Game Engine was Blender’s integrated runtime and authoring environment for interactive 3D experiences.",
+  "entry_text_kind": "definition",
+  "example": "An archivist opens a legacy project in a compatible Blender version to inspect its logic bricks.",
+  "id": "p5xwz73srr",
+  "key": "blender-game-engine",
+  "label": "Blender Game Engine",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The historical Blender component is distinct from later forks and unrelated engines.",
+  "sources": [
+    {
+      "id": "p5xwz73srr",
+      "note": "The archived official 2.79a API documents game scenes, action controls and logic bricks connected to the Blender interface. This supports the legacy product sense.",
+      "packet": "worker-technical-skills.json",
+      "ref": "https://docs.blender.org/api/2.79a/bge.logic.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "broad_class": "ability",
+    "id": "yegnhni99h",
+    "key": "adaptability",
+    "label": "Adaptability",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "gdzh66chlx",
+    "key": "attention-to-detail",
+    "label": "Attention to detail",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "njlcvlg504",
+    "key": "causal-reasoning",
+    "label": "Causal reasoning",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "ce6c1rs0jk",
+    "key": "emotional-stability",
+    "label": "Emotional stability",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "g32rgj6uc5",
+    "key": "goal-oriented",
+    "label": "Goal-oriented",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "my2u4mc16o",
+    "key": "ingenuity",
+    "label": "Ingenuity",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "rrzqh6zhic",
+    "key": "patience",
+    "label": "Patience",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "sg1xfslxld",
+    "key": "quick-learning",
+    "label": "Quick learning",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "gov0d8zbms",
+    "key": "resilience",
+    "label": "Resilience",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "id244h1e6v",
+    "key": "results-oriented",
+    "label": "Results-oriented",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "k2ayt41ale",
+    "key": "self-confidence",
+    "label": "Self-confidence",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "hq2g370jgj",
+    "key": "self-starter",
+    "label": "Self-starter",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "my2r15ngyp",
+    "key": "spatial-temporal-reasoning",
+    "label": "Spatial-temporal reasoning",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "uvzu3z28qp",
+    "key": "success-driven",
+    "label": "Success-driven",
+    "onet_codes": [],
+    "original_kind": "ability"
+  },
+  {
+    "broad_class": "ability",
+    "id": "crm3w31oq7",
+    "key": "team-oriented",
+    "label": "Team-oriented",
+    "onet_codes": [],
+    "original_kind": "ability"
+  }
+]

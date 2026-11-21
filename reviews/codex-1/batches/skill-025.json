@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "pmjnab076s",
+    "key": "it-security-architecture",
+    "label": "IT security architecture",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y3zi3hsdf6",
+    "key": "it-security-documentation",
+    "label": "IT security documentation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qj95uqnlid",
+    "key": "itu-t-t-30",
+    "label": "ITU-T T.30",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ao9i14atpq",
+    "key": "ivalua",
+    "label": "Ivalua",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uyk06pg91v",
+    "key": "jacoco",
+    "label": "JaCoCo",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c0kc6xcx90",
+    "key": "jacorb",
+    "label": "JacORB",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "auq98ca7fv",
+    "key": "jafan",
+    "label": "JAFAN",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qx79ytpn5b",
+    "key": "jasmine",
+    "label": "Jasmine",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ox8ixvytf3",
+    "key": "java-archive",
+    "label": "Java Archive",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rqi69qjjr4",
+    "key": "java-communications-api",
+    "label": "Java Communications API",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t3q15beb4e",
+    "key": "java-persistence-api-2-0",
+    "label": "Java Persistence API 2.0",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uflky7mun1",
+    "key": "javascript-engine",
+    "label": "JavaScript engine",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "btu0ssr6y6",
+    "key": "javascriptcore",
+    "label": "JavaScriptCore",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oi02iz23ds",
+    "key": "javaserver-faces-2-0",
+    "label": "JavaServer Faces 2.0",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gzp0ef9f8g",
+    "key": "jax-rpc",
+    "label": "JAX-RPC",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q60ouku66r",
+    "key": "jax-ws",
+    "label": "JAX-WS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "siozurm3lm",
+    "key": "jd-edwards-cnc",
+    "label": "JD Edwards CNC",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eka9kv46sl",
+    "key": "jdbctemplate",
+    "label": "JdbcTemplate",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r3l54ozsil",
+    "key": "jdesktop-network-components",
+    "label": "JDesktop Network Components",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o0l43yotxm",
+    "key": "jersey",
+    "label": "Jersey",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "khoqe1sng8",
+    "key": "jive-software",
+    "label": "Jive Software",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oemj81pym1",
+    "key": "jmock",
+    "label": "jMock",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l003adbeqa",
+    "key": "jmockit",
+    "label": "JMockit",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dtn6n5nztb",
+    "key": "job-scheduling",
+    "label": "Job scheduling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iwz47o25o8",
+    "key": "joint-clearance-and-access-verification-system",
+    "label": "Joint Clearance and Access Verification System",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "epds2yvzsk",
+    "key": "joint-commission-standards",
+    "label": "Joint Commission standards",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qc53qbujg3",
+    "key": "jointjs",
+    "label": "JointJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o94e3sb247",
+    "key": "joomla",
+    "label": "Joomla",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gue4rsxccu",
+    "key": "jpeg",
+    "label": "JPEG",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xmdqx611pm",
+    "key": "jsdata",
+    "label": "JSData",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qf0kjoyyky",
+    "key": "jsfiddle",
+    "label": "JSFiddle",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gjufx8c460",
+    "key": "jsgrid",
+    "label": "jsGrid",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rvl53f9ykh",
+    "key": "json-web-token",
+    "label": "JSON Web Token",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l5iy68ysj9",
+    "key": "jsperf",
+    "label": "jsPerf",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fjdoahry17",
+    "key": "jsrender",
+    "label": "JsRender",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "euml8cdzrt",
+    "key": "jsunit",
+    "label": "JsUnit",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nggbtq5q1r",
+    "key": "jtrac",
+    "label": "JTrac",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v2xhut8qdl",
+    "key": "jury-instructions",
+    "label": "Jury instructions",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "drtx3fyceq",
+    "key": "jury-management",
+    "label": "Jury management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d5v0dwpx4c",
+    "key": "juvenile-rehabilitation",
+    "label": "Juvenile rehabilitation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

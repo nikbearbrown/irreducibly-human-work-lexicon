@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "IBM's relational database for the AS/400 platform, now known as Db2 for i.",
+  "entry_text": "IBM's relational database for the AS/400 platform, now known as Db2 for i.",
+  "entry_text_kind": "definition",
+  "example": "A reporting application queries customer records stored on an IBM i system.",
+  "id": "n8zkppxggv",
+  "key": "db2-400",
+  "label": "DB2/400",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

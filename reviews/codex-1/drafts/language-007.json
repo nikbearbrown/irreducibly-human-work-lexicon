@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ec0588lyxr",
+    "definition": "A human language used for speaking and writing.",
+    "example": "An editor checks a Slovak school announcement.",
+    "sense_note": null
+  },
+  {
+    "id": "unurfua1et",
+    "definition": "A human language also known as Slovenian.",
+    "example": "A translator prepares a Slovene audio guide.",
+    "sense_note": null
+  },
+  {
+    "id": "wt1hw5q5hk",
+    "definition": "An object-oriented programming language built around objects and message sending.",
+    "example": "A developer sends a filtering message to a collection.",
+    "sense_note": null
+  },
+  {
+    "id": "m8tdyuqv91",
+    "definition": "A historical Iranian language attested in written documents and inscriptions.",
+    "example": "A scholar transliterates a Sogdian manuscript fragment.",
+    "sense_note": null
+  },
+  {
+    "id": "vfbvb6cbta",
+    "definition": "A human language used in oral and written communication.",
+    "example": "An interpreter explains service instructions in Somali.",
+    "sense_note": null
+  },
+  {
+    "id": "de8aeltv9z",
+    "definition": "A human language used in speech and writing across multiple regional standards.",
+    "example": "An editor localizes a Spanish product manual for its intended audience.",
+    "sense_note": null
+  },
+  {
+    "id": "f69xny35zm",
+    "definition": "A declarative language for querying and managing relational data.",
+    "example": "An analyst selects sales totals grouped by month.",
+    "sense_note": null
+  },
+  {
+    "id": "kxge7c4n0p",
+    "definition": "An ancient human language attested in cuneiform texts.",
+    "example": "A scholar translates a Sumerian administrative tablet.",
+    "sense_note": null
+  },
+  {
+    "id": "wmeomhwzf1",
+    "definition": "A human language used in speech and writing.",
+    "example": "A translator checks a Sundanese community notice.",
+    "sense_note": null
+  },
+  {
+    "id": "dwt6p5kqud",
+    "definition": "A group of German dialects conventionally called Swabian.",
+    "example": "A researcher transcribes the speech in a Swabian interview.",
+    "sense_note": null
+  },
+  {
+    "id": "ahff7lh1ul",
+    "definition": "A human language used in oral and written communication, including as a lingua franca.",
+    "example": "A producer checks a Swahili radio script.",
+    "sense_note": null
+  },
+  {
+    "id": "mhqs5zfa2v",
+    "definition": "A human language also known as siSwati.",
+    "example": "An editor proofreads Swati subtitles.",
+    "sense_note": null
+  },
+  {
+    "id": "lr6v3jj0ke",
+    "definition": "A human language used in speech and writing.",
+    "example": "A translator revises Swedish menu labels.",
+    "sense_note": null
+  },
+  {
+    "id": "p1pplzvq0f",
+    "definition": "A statically typed general-purpose language widely used for developing Apple-platform applications.",
+    "example": "A developer safely handles a missing value using an optional binding.",
+    "sense_note": null
+  },
+  {
+    "id": "imyseyihm7",
+    "definition": "A hardware description and verification language that extends Verilog.",
+    "example": "An engineer writes an assertion to check that a digital signal changes on the expected clock cycle.",
+    "sense_note": null
+  },
+  {
+    "id": "lcec6ryumx",
+    "definition": "A standardized variety of Persian commonly written in Cyrillic in Tajikistan.",
+    "example": "An editor reviews a Tajik version of a public notice.",
+    "sense_note": null
+  },
+  {
+    "id": "y21520l3cr",
+    "definition": "A human language written with the Tamil script.",
+    "example": "A translator prepares Tamil captions for a tutorial.",
+    "sense_note": null
+  },
+  {
+    "id": "un0apigqro",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm which Tatar language is intended; do not assume this includes Crimean Tatar."
+  },
+  {
+    "id": "uct8ix3rbg",
+    "definition": "A scripting language used for extending applications and automating commands.",
+    "example": "A developer uses Tcl to build a configuration dialog with Tk.",
+    "sense_note": null
+  },
+  {
+    "id": "rifkoqyo50",
+    "definition": "A human language written in the Telugu script.",
+    "example": "An editor checks a Telugu heading and caption.",
+    "sense_note": null
+  },
+  {
+    "id": "b0xfrvtumm",
+    "definition": "A human language written in the Thai script.",
+    "example": "A translator reviews Thai wayfinding text.",
+    "sense_note": null
+  },
+  {
+    "id": "gdng6a4nxd",
+    "definition": null,
+    "example": null,
+    "sense_note": "Specify the Tharu language or variety rather than assuming a single standardized target."
+  },
+  {
+    "id": "uybjs4bc0k",
+    "definition": "A language label covering classical written Tibetan and multiple modern spoken varieties.",
+    "example": "A translator specifies the intended register for a Tibetan edition.",
+    "sense_note": null
+  },
+  {
+    "id": "d0ken0jrsa",
+    "definition": "A human language written in the Ethiopic script.",
+    "example": "An editor proofreads a Tigrinya information sheet.",
+    "sense_note": null
+  },
+  {
+    "id": "n5gmv1hla7",
+    "definition": "A human language also known as Setswana.",
+    "example": "A broadcaster prepares a Tswana announcement.",
+    "sense_note": null
+  },
+  {
+    "id": "hfschl129h",
+    "definition": "A human language used in speech and writing.",
+    "example": "An archivist checks a Tulu oral-history transcription.",
+    "sense_note": null
+  },
+  {
+    "id": "hhvk7sb8r1",
+    "definition": "A human language whose modern standard uses the Latin alphabet.",
+    "example": "An editor reviews Turkish subtitles.",
+    "sense_note": null
+  },
+  {
+    "id": "bnonpsk48o",
+    "definition": "A human language used in oral and written communication.",
+    "example": "A translator checks a Turkmen version of a visitor guide.",
+    "sense_note": null
+  },
+  {
+    "id": "y37j4kl3jo",
+    "definition": "A language that adds static types to JavaScript and compiles to JavaScript.",
+    "example": "A developer defines a type for the properties accepted by a UI component.",
+    "sense_note": null
+  },
+  {
+    "id": "wkoox3i8b0",
+    "definition": "A language that combines SQL-style queries with C# extensibility for Azure Data Lake Analytics jobs.",
+    "example": "An analyst groups rows after parsing each record with a C# expression.",
+    "sense_note": null
+  },
+  {
+    "id": "sixeo41sa3",
+    "definition": "A human language written in the Cyrillic script.",
+    "example": "A translator reviews Ukrainian instructions in a mobile app.",
+    "sense_note": null
+  },
+  {
+    "id": "va052jqj8q",
+    "definition": "A standardized modeling language for describing software and systems with diagrams.",
+    "example": "A designer uses a sequence diagram to show messages between components.",
+    "sense_note": null
+  },
+  {
+    "id": "vef8tboltu",
+    "definition": "A discontinued JavaScript-like language formerly supported by the Unity game engine.",
+    "example": "A maintainer migrates a legacy UnityScript component to C#.",
+    "sense_note": null
+  },
+  {
+    "id": "rawbtq2err",
+    "definition": "A human language commonly written in a Perso-Arabic script using Nastaliq conventions.",
+    "example": "A translator reviews an Urdu public-service notice.",
+    "sense_note": null
+  },
+  {
+    "id": "x00w15fusw",
+    "definition": "A human language with multiple writing conventions, commonly written in an Arabic-derived script.",
+    "example": "A publisher confirms the script for a Uyghur edition.",
+    "sense_note": null
+  },
+  {
+    "id": "rxfjfx408i",
+    "definition": "A human language written in Latin and Cyrillic conventions.",
+    "example": "A localization team confirms the expected Uzbek script for its audience.",
+    "sense_note": null
+  },
+  {
+    "id": "bf44rq4z0z",
+    "definition": "A hardware description language for modeling and simulating digital circuits.",
+    "example": "An engineer describes a register that updates on a clock edge.",
+    "sense_note": null
+  },
+  {
+    "id": "y5tixyhegu",
+    "definition": "A hardware description language using entities and architectures to describe digital circuits.",
+    "example": "An engineer defines the ports and behavior of a digital counter.",
+    "sense_note": null
+  },
+  {
+    "id": "fn33kjvbkv",
+    "definition": "A human language written with a Latin-based alphabet using diacritics.",
+    "example": "An editor proofreads Vietnamese subtitles.",
+    "sense_note": null
+  },
+  {
+    "id": "yl4tfx5kdt",
+    "definition": "A Visual Basic-derived scripting language embedded in Microsoft Office and other host applications.",
+    "example": "An Excel macro formats newly imported worksheet rows.",
+    "sense_note": null
+  }
+]

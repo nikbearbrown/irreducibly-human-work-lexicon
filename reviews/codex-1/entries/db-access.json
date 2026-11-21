@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An interactive Informix utility for issuing SQL statements and working with database objects.",
+  "entry_text": "An interactive Informix utility for issuing SQL statements and working with database objects.",
+  "entry_text_kind": "definition",
+  "example": "A database operator uses DB-Access to inspect a table and run a report query.",
+  "id": "x4ws8p3zju",
+  "key": "db-access",
+  "label": "DB-Access",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

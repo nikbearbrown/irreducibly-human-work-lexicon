@@ -1,0 +1,28 @@
+{
+  "batch": "skill-036.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Processing.js was a JavaScript implementation for running Processing-style graphics programs in a web browser.",
+  "entry_text": "Processing.js was a JavaScript implementation for running Processing-style graphics programs in a web browser.",
+  "entry_text_kind": "definition",
+  "example": "An artist used it to display an interactive drawing on a webpage.",
+  "id": "ggtzg87xae",
+  "key": "processing-js",
+  "label": "Processing.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Distinguish it from the Processing desktop environment and p5.js.",
+  "sources": [
+    {
+      "id": "ggtzg87xae",
+      "note": "The original repository describes the JavaScript port of the Processing visualization language and marks it archived since 2018. It is distinct from p5.js.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://github.com/processing-js/processing-js/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

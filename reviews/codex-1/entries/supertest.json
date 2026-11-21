@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SuperTest is a JavaScript library for testing HTTP server behavior by sending requests and asserting response properties.",
+  "entry_text": "SuperTest is a JavaScript library for testing HTTP server behavior by sending requests and asserting response properties.",
+  "entry_text_kind": "definition",
+  "example": "A developer checks that an application returns the expected status and JSON fields for a test request.",
+  "id": "pssdza1weh",
+  "key": "supertest",
+  "label": "SuperTest",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

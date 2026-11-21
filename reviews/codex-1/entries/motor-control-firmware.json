@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Motor control firmware is low-level code running within a motor controller to manage its sensors, timing and output signals.",
+  "entry_text": "Motor control firmware is low-level code running within a motor controller to manage its sensors, timing and output signals.",
+  "entry_text_kind": "definition",
+  "example": "An embedded controller adjusts its drive output when feedback shows the motor slowing.",
+  "id": "bo7vfugy2w",
+  "key": "motor-control-firmware",
+  "label": "Motor control firmware",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

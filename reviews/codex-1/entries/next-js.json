@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Next.js is a React framework offering routing, rendering and server-side facilities for web applications.",
+  "entry_text": "Next.js is a React framework offering routing, rendering and server-side facilities for web applications.",
+  "entry_text_kind": "definition",
+  "example": "A developer builds a product page with server-rendered data and client-side controls.",
+  "id": "irmhl02qj4",
+  "key": "next-js",
+  "label": "Next.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

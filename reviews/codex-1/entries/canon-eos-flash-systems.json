@@ -1,0 +1,28 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Canon EOS flash systems are compatible camera and flash components for controlling artificial light during exposure.",
+  "entry_text": "Canon EOS flash systems are compatible camera and flash components for controlling artificial light during exposure.",
+  "entry_text_kind": "definition",
+  "example": "A photographer uses a compatible flash to balance a subject’s illumination against a bright background.",
+  "id": "r15eo3tf6w",
+  "key": "canon-eos-flash-systems",
+  "label": "Canon EOS flash systems",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "r15eo3tf6w",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Canon documents compatible EOS control of Speedlite firing and flash exposure; the example is a plausible application, not measured performance.",
+      "packet": "worker-stratified.json",
+      "ref": "https://cam.start.canon/en/A014/manual/html/UG-03_Setting_Flash_0020.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

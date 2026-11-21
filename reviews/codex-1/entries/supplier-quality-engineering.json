@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Supplier quality engineering uses engineering methods to qualify suppliers, assess production processes, and prevent or resolve defects in supplied components.",
+  "entry_text": "Supplier quality engineering uses engineering methods to qualify suppliers, assess production processes, and prevent or resolve defects in supplied components.",
+  "entry_text_kind": "definition",
+  "example": "An engineer reviews a supplier's process capability after repeated parts fail a dimensional check.",
+  "id": "tf0qfj7tkw",
+  "key": "supplier-quality-engineering",
+  "label": "Supplier quality engineering",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

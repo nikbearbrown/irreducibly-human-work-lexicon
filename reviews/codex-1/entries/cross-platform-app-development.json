@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cross-platform app development builds applications intended to operate across multiple operating systems or device types, often sharing code or tooling.",
+  "entry_text": "Cross-platform app development builds applications intended to operate across multiple operating systems or device types, often sharing code or tooling.",
+  "entry_text_kind": "definition",
+  "example": "A team tests a shared mobile application on iOS and Android while adapting platform-specific accessibility behavior.",
+  "id": "vaxzb7mo9m",
+  "key": "cross-platform-app-development",
+  "label": "Cross-platform app development",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

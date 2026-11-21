@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Authorised capital is the maximum amount of share capital a company is permitted to issue under its governing documents or applicable legal framework.",
+  "entry_text": "Authorised capital is the maximum amount of share capital a company is permitted to issue under its governing documents or applicable legal framework.",
+  "entry_text_kind": "definition",
+  "example": "A company checks its authorised capital before issuing new shares to investors.",
+  "id": "rheyc8p5bk",
+  "key": "authorised-capital",
+  "label": "Authorised capital",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Terms and requirements vary by jurisdiction.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

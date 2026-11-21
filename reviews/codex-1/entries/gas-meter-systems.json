@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-006.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Gas meter systems measure and record the quantity of gas flowing to a customer or through a process.",
+  "entry_text": "Gas meter systems measure and record the quantity of gas flowing to a customer or through a process.",
+  "entry_text_kind": "definition",
+  "example": "A utility uses meter readings to calculate monthly consumption.",
+  "id": "i5gs33auro",
+  "key": "gas-meter-systems",
+  "label": "Gas meter systems",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

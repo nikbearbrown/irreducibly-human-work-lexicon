@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SourceGear Vault is a centralized version control system for tracking file revisions and coordinating team changes.",
+  "entry_text": "SourceGear Vault is a centralized version control system for tracking file revisions and coordinating team changes.",
+  "entry_text_kind": "definition",
+  "example": "A developer compares two revisions of a configuration file before restoring a needed setting.",
+  "id": "v03rbybd9q",
+  "key": "sourcegear-vault",
+  "label": "SourceGear Vault",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

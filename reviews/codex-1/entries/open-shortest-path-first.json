@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Open Shortest Path First is a link-state routing protocol for finding routes within an Internet Protocol routing domain.",
+  "entry_text": "Open Shortest Path First is a link-state routing protocol for finding routes within an Internet Protocol routing domain.",
+  "entry_text_kind": "definition",
+  "example": "Routers exchange topology information and compute routes using their configured link costs.",
+  "id": "smc60649db",
+  "key": "open-shortest-path-first",
+  "label": "Open Shortest Path First",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

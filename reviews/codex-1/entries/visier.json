@@ -1,0 +1,20 @@
+{
+  "batch": "skill-047.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Visier provides workforce analytics tools for examining employee and staffing data.",
+  "entry_text": "Visier provides workforce analytics tools for examining employee and staffing data.",
+  "entry_text_kind": "definition",
+  "example": "An analyst compares turnover across departments.",
+  "id": "xwtp0t987r",
+  "key": "visier",
+  "label": "Visier",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Syskey was a legacy Windows utility for configuring additional protection of account database keys at system startup.",
+  "entry_text": "Syskey was a legacy Windows utility for configuring additional protection of account database keys at system startup.",
+  "entry_text_kind": "definition",
+  "example": "A Windows migration specialist recognizes Syskey in historical documentation and checks which replacement security controls apply.",
+  "id": "ou1594vcv2",
+  "key": "syskey",
+  "label": "Syskey",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Retired feature; not a recommendation to use it.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

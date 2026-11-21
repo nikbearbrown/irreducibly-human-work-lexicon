@@ -1,0 +1,28 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Anglo-American Cataloguing Rules prescribe how to describe library materials and select access points in catalog records.",
+  "entry_text": "The Anglo-American Cataloguing Rules prescribe how to describe library materials and select access points in catalog records.",
+  "entry_text_kind": "definition",
+  "example": "A cataloguer prepares a record that makes a book discoverable under its author and title.",
+  "id": "fboqbigh6e",
+  "key": "anglo-american-cataloguing-rules",
+  "label": "Anglo-American Cataloguing Rules",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "fboqbigh6e",
+      "note": "The Library of Congress MARC 21 technical documentation identifies both record description and choice and form of access points as governed by AACR2. The evidence is specific to AACR2 and does not imply that all cataloging currently uses these rules.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://www.loc.gov/cds/PDFdownloads/marc/MARC21_Upd8.pdf",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

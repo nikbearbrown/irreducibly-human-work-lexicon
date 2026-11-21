@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "TOGAF is an enterprise architecture framework and methodology for developing, managing, and governing architecture aligned to organizational goals.",
+  "entry_text": "TOGAF is an enterprise architecture framework and methodology for developing, managing, and governing architecture aligned to organizational goals.",
+  "entry_text_kind": "definition",
+  "example": "An architecture team uses the framework to describe a target operating model and plan the transition from current systems.",
+  "id": "pld1fraqcc",
+  "key": "togaf",
+  "label": "TOGAF",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

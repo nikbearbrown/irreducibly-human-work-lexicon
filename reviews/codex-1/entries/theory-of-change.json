@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A theory of change explains how and why activities are expected to contribute to intended outcomes, including intermediate steps and assumptions.",
+  "entry_text": "A theory of change explains how and why activities are expected to contribute to intended outcomes, including intermediate steps and assumptions.",
+  "entry_text_kind": "definition",
+  "example": "A nonprofit maps how coaching might improve interview performance and states the conditions needed for it to improve hiring outcomes.",
+  "id": "wyuz035oqf",
+  "key": "theory-of-change",
+  "label": "Theory of change",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

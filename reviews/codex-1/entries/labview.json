@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "LabVIEW is a graphical programming environment for building measurement, automation and instrument-control applications.",
+  "entry_text": "LabVIEW is a graphical programming environment for building measurement, automation and instrument-control applications.",
+  "entry_text_kind": "definition",
+  "example": "A technician builds a program to acquire measurements and plot them live.",
+  "id": "if66i05y4n",
+  "key": "labview",
+  "label": "LabVIEW",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

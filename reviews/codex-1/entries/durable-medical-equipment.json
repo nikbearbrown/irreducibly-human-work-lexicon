@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Medical equipment intended for repeated use to support care or daily function.",
+  "entry_text": "Medical equipment intended for repeated use to support care or daily function.",
+  "entry_text_kind": "definition",
+  "example": "A patient uses a prescribed home wheelchair.",
+  "id": "q04p0u98h5",
+  "key": "durable-medical-equipment",
+  "label": "Durable medical equipment",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Reimbursement programs may apply additional eligibility criteria to this category.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

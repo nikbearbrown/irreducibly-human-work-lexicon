@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A data integration process that extracts source data, transforms it to the target requirements, and then loads it into a destination.",
+  "entry_text": "A data integration process that extracts source data, transforms it to the target requirements, and then loads it into a destination.",
+  "entry_text_kind": "definition",
+  "example": "A job reads sales files, standardizes their columns, and loads the results into a warehouse.",
+  "id": "d9sq04v2o1",
+  "key": "extract-transform-load",
+  "label": "Extract, transform, load",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Combining automation with analytical or AI techniques to execute workflows that involve interpretation or decision support.",
+  "entry_text": "Combining automation with analytical or AI techniques to execute workflows that involve interpretation or decision support.",
+  "entry_text_kind": "definition",
+  "example": "An accounts team classifies incoming documents automatically and routes uncertain cases for review.",
+  "id": "fpv3wcolic",
+  "key": "intelligent-automation",
+  "label": "Intelligent automation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

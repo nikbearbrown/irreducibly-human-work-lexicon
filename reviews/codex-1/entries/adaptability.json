@@ -1,0 +1,28 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "classification_check": {
+    "element_id": "1.D.1.f",
+    "name": "Adaptability",
+    "note": "Exact label in a different source category. Check whether the intended sense is a work style or a distinct ability.",
+    "result": "alternate-category-in-source",
+    "source_category": "O*NET Work Styles",
+    "url": "https://www.onetcenter.org/dl_files/database/db_30_2_text/Content%20Model%20Reference.txt"
+  },
+  "definition": "Adaptability is the capacity to adjust one's methods or behavior when requirements, circumstances, or available information change.",
+  "entry_text": "Adaptability is the capacity to adjust one's methods or behavior when requirements, circumstances, or available information change.",
+  "entry_text_kind": "definition",
+  "example": "When a venue becomes unavailable, an organizer redesigns the event for a smaller room without dropping its essential activities.",
+  "id": "yegnhni99h",
+  "key": "adaptability",
+  "label": "Adaptability",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

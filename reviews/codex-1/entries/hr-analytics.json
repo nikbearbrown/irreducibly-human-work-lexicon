@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Using workforce data to assess patterns, evaluate human resources programs, and support personnel decisions.",
+  "entry_text": "Using workforce data to assess patterns, evaluate human resources programs, and support personnel decisions.",
+  "entry_text_kind": "definition",
+  "example": "An analyst examines retention rates across cohorts to assess an onboarding program.",
+  "id": "ipnoi8cnbl",
+  "key": "hr-analytics",
+  "label": "HR analytics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

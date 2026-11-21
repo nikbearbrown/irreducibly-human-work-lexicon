@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "epsmzyz2kr",
+    "key": "optical-fiber",
+    "label": "Optical fiber",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "awv8d1to01",
+    "key": "optical-waveguides",
+    "label": "Optical waveguides",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dozn4f5txo",
+    "key": "oral-hygiene",
+    "label": "Oral hygiene",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ujglp3rfir",
+    "key": "order-of-draw",
+    "label": "Order of draw",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xwel6sw1ng",
+    "key": "organic-composition-of-capital",
+    "label": "Organic composition of capital",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "w6ocli1owt",
+    "key": "organization-development",
+    "label": "Organization development",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "bbyfrkvg03",
+    "key": "organizational-change",
+    "label": "Organizational change",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "blqmvo7hp3",
+    "key": "outbound-logistics",
+    "label": "Outbound logistics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "y0w122f4sc",
+    "key": "outpatient-surgery",
+    "label": "Outpatient surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "w4o2z8kf12",
+    "key": "overhead-camshaft-engine",
+    "label": "Overhead camshaft engine",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "boe9jpc3ik",
+    "key": "overhead-valve-engine",
+    "label": "Overhead valve engine",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zl9ehic1aj",
+    "key": "oxidation-processes",
+    "label": "Oxidation processes",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zjicebvx16",
+    "key": "pandemic-preparedness",
+    "label": "Pandemic preparedness",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "q2d0ow3z6i",
+    "key": "parasympathetic-nervous-system",
+    "label": "Parasympathetic nervous system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "o03d8l0gzy",
+    "key": "paris-agreement",
+    "label": "Paris Agreement",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "uo0zg2aflh",
+    "key": "partnership-taxation",
+    "label": "Partnership taxation",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "aqv9gwjebh",
+    "key": "path-to-purchase",
+    "label": "Path to purchase",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "nvdcu20iv6",
+    "key": "pathology-informatics",
+    "label": "Pathology informatics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "k0ly5hwdcx",
+    "key": "patient-identification-and-matching",
+    "label": "Patient identification and matching",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ka97msfzvo",
+    "key": "pediatric-surgery",
+    "label": "Pediatric surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "n2z7wsvvf1",
+    "key": "pelvic-floor",
+    "label": "Pelvic floor",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "t9vz5pnyhd",
+    "key": "pelvic-health",
+    "label": "Pelvic health",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "nihqybz5x8",
+    "key": "penology",
+    "label": "Penology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "z6pq85m7r3",
+    "key": "perinatology",
+    "label": "Perinatology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "udqoryhg2u",
+    "key": "perioperative-care",
+    "label": "Perioperative care",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "h0rlt8kl2c",
+    "key": "personal-communications-service",
+    "label": "Personal Communications Service",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "hwydqml8yk",
+    "key": "personal-income-tax",
+    "label": "Personal income tax",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qf54ifw1gi",
+    "key": "pet-insurance",
+    "label": "Pet insurance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zdhjtk4sx3",
+    "key": "petrography",
+    "label": "Petrography",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xeufj3aonl",
+    "key": "pharmacogenetics",
+    "label": "Pharmacogenetics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "uqjc6llawt",
+    "key": "pharmacoinformatics",
+    "label": "Pharmacoinformatics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "e8c7k9oj7e",
+    "key": "philosophy-of-religion",
+    "label": "Philosophy of religion",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xacbk0lpsz",
+    "key": "philosophy-of-science",
+    "label": "Philosophy of science",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dckt1k1rmo",
+    "key": "php-frameworks",
+    "label": "PHP frameworks",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "u1uj3cchu7",
+    "key": "physical-security",
+    "label": "Physical security",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wiyjakztr1",
+    "key": "plastic-surgery",
+    "label": "Plastic surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "kli63uvu2s",
+    "key": "platform-as-a-service",
+    "label": "Platform as a service",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yt79mgauuz",
+    "key": "police-accountability",
+    "label": "Police accountability",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "w5b7ri6mi9",
+    "key": "price-to-book-ratio",
+    "label": "Price-to-book ratio",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cxdlgo9gy1",
+    "key": "prisoners-rights",
+    "label": "Prisoners' rights",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Data storage technologies are the media, devices, and systems used to retain and retrieve digital information.",
+  "entry_text": "Data storage technologies are the media, devices, and systems used to retain and retrieve digital information.",
+  "entry_text_kind": "definition",
+  "example": "An archive chooses tape for infrequently accessed backups and solid-state storage for frequently consulted catalogs.",
+  "id": "wf2959cm1y",
+  "key": "data-storage-technologies",
+  "label": "Data storage technologies",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

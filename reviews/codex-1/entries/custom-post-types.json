@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Custom post types are developer-defined WordPress content categories with their own names and configured editing, display, or routing behavior.",
+  "entry_text": "Custom post types are developer-defined WordPress content categories with their own names and configured editing, display, or routing behavior.",
+  "entry_text_kind": "definition",
+  "example": "A museum stores its exhibitions as a distinct post type instead of mixing them into blog posts.",
+  "id": "f83jvlwbfo",
+  "key": "custom-post-types",
+  "label": "Custom post types",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The phrase is specifically associated with WordPress; a post type is not the same as a taxonomy term.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Signalling Connection Control Part is an SS7 protocol layer that provides addressing and connectionless or connection-oriented transport services for signaling applications.",
+  "entry_text": "Signalling Connection Control Part is an SS7 protocol layer that provides addressing and connectionless or connection-oriented transport services for signaling applications.",
+  "entry_text_kind": "definition",
+  "example": "A telecom engineer reads a signaling diagram to see where global title translation selects a destination.",
+  "id": "jfc94x3rg1",
+  "key": "signalling-connection-control-part",
+  "label": "Signalling Connection Control Part",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

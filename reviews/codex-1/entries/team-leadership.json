@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Team leadership guides a group toward shared goals by clarifying priorities, coordinating work, supporting members, and making decisions.",
+  "entry_text": "Team leadership guides a group toward shared goals by clarifying priorities, coordinating work, supporting members, and making decisions.",
+  "entry_text_kind": "definition",
+  "example": "A team lead resolves conflicting assignments and agrees on a sequence that frees a blocked colleague.",
+  "id": "a2ymv23g4x",
+  "key": "team-leadership",
+  "label": "Team leadership",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

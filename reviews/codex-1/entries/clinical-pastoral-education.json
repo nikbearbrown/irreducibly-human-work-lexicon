@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Clinical pastoral education trains spiritual care providers through supervised practice, reflection, and feedback in clinical or other care settings.",
+  "entry_text": "Clinical pastoral education trains spiritual care providers through supervised practice, reflection, and feedback in clinical or other care settings.",
+  "entry_text_kind": "definition",
+  "example": "A chaplain trainee reviews a conversation with a patient alongside a supervisor to understand what support the patient wanted.",
+  "id": "n98y0v2qy7",
+  "key": "clinical-pastoral-education",
+  "label": "Clinical pastoral education",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cyber resilience is the capacity to maintain or restore essential digital functions when cyber incidents disrupt systems despite preventive controls.",
+  "entry_text": "Cyber resilience is the capacity to maintain or restore essential digital functions when cyber incidents disrupt systems despite preventive controls.",
+  "entry_text_kind": "definition",
+  "example": "An organization rehearses restoring its records and switching to a fallback process after simulated downtime.",
+  "id": "q3kisw0y71",
+  "key": "cyber-resilience",
+  "label": "Cyber resilience",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Amazon CloudWatch collects operational metrics, logs, and events and can alert on monitored conditions.",
+  "entry_text": "Amazon CloudWatch collects operational metrics, logs, and events and can alert on monitored conditions.",
+  "entry_text_kind": "definition",
+  "example": "An operations team sets an alarm for an unexpectedly high error rate.",
+  "id": "s1jyt2h0md",
+  "key": "amazon-cloudwatch",
+  "label": "Amazon CloudWatch",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

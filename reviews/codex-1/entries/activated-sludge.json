@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Activated sludge is a wastewater treatment process in which a suspended microbial community removes organic matter before solids are separated from the water.",
+  "entry_text": "Activated sludge is a wastewater treatment process in which a suspended microbial community removes organic matter before solids are separated from the water.",
+  "entry_text_kind": "definition",
+  "example": "A treatment plant uses an activated sludge stage before releasing its clarified effluent.",
+  "id": "qtajo535yk",
+  "key": "activated-sludge",
+  "label": "Activated sludge",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

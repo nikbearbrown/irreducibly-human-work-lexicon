@@ -1,0 +1,28 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Amazon AppStream 2.0 streams remotely hosted desktop applications to users without requiring a local installation of each application.",
+  "entry_text": "Amazon AppStream 2.0 streams remotely hosted desktop applications to users without requiring a local installation of each application.",
+  "entry_text_kind": "definition",
+  "example": "A university lets students use a licensed design tool through streamed sessions.",
+  "id": "imi19hgljl",
+  "key": "amazon-appstream-2-0",
+  "label": "Amazon AppStream 2.0",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "imi19hgljl",
+      "note": "AWS explicitly identifies Amazon WorkSpaces Applications as the renamed AppStream 2.0 and confirms remote application or desktop streaming to browsers or its client. Function matches; mark AppStream 2.0 as the former name.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://aws.amazon.com/blogs/alps/4-year-anniversary-news-about-aws-europe-zurich-region/",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

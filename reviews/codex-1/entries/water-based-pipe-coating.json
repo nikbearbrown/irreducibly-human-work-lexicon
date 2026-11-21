@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Water-based pipe coating uses a coating carried primarily in water to protect or finish a pipe surface.",
+  "entry_text": "Water-based pipe coating uses a coating carried primarily in water to protect or finish a pipe surface.",
+  "entry_text_kind": "definition",
+  "example": "A technician evaluates adhesion on a coated pipe sample.",
+  "id": "vyqnnqyzs1",
+  "key": "water-based-pipe-coating",
+  "label": "Water-based pipe coating",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

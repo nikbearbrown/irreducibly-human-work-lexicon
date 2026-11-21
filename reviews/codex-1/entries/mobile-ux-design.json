@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Mobile UX design improves how users accomplish goals in mobile contexts by addressing workflows, usability and accessibility.",
+  "entry_text": "Mobile UX design improves how users accomplish goals in mobile contexts by addressing workflows, usability and accessibility.",
+  "entry_text_kind": "definition",
+  "example": "A researcher observes people using an app on a crowded platform and identifies where the process breaks down.",
+  "id": "s8e0grtfer",
+  "key": "mobile-ux-design",
+  "label": "Mobile UX design",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

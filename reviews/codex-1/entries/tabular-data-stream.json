@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Tabular Data Stream is a wire protocol used by SQL Server and related database systems to exchange requests and tabular results with clients.",
+  "entry_text": "Tabular Data Stream is a wire protocol used by SQL Server and related database systems to exchange requests and tabular results with clients.",
+  "entry_text_kind": "definition",
+  "example": "A driver developer checks how metadata and result rows are represented in a database response.",
+  "id": "b1dxizkqhf",
+  "key": "tabular-data-stream",
+  "label": "Tabular Data Stream",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

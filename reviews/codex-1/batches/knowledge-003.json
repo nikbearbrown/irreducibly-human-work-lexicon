@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "n760j93js9",
+    "key": "circular-economy",
+    "label": "Circular economy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dhc19wwc9q",
+    "key": "circulatory-system",
+    "label": "Circulatory system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d7q5p3nh9m",
+    "key": "client-access-license",
+    "label": "Client access license",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cbcufd4kbq",
+    "key": "climate-variability-and-change",
+    "label": "Climate variability and change",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "tc5ngv6fmu",
+    "key": "clinical-informatics",
+    "label": "Clinical informatics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ao1t61ccgp",
+    "key": "clinical-medical-ethics",
+    "label": "Clinical medical ethics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "n98y0v2qy7",
+    "key": "clinical-pastoral-education",
+    "label": "Clinical pastoral education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "lsxf83lrq4",
+    "key": "cloud-computing-security",
+    "label": "Cloud computing security",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "lpsnz8mgp5",
+    "key": "cloud-computing",
+    "label": "Cloud computing",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ag7qptfyr6",
+    "key": "coastal-engineering",
+    "label": "Coastal engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s3b1vsg6g5",
+    "key": "cognitive-computing",
+    "label": "Cognitive computing",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "pe7jh92y5e",
+    "key": "cognitive-load",
+    "label": "Cognitive load",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s3bllcrvqd",
+    "key": "color-rendering-index",
+    "label": "Color rendering index",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "a7nv41b5e4",
+    "key": "commercial-off-the-shelf",
+    "label": "Commercial off-the-shelf",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "drhdme1yln",
+    "key": "commons-based-peer-production",
+    "label": "Commons-based peer production",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i96jrqh2vb",
+    "key": "communication-theories",
+    "label": "Communication theories",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "t80fs65far",
+    "key": "community-nutrition",
+    "label": "Community nutrition",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "tjjqny4fk5",
+    "key": "community-resilience",
+    "label": "Community resilience",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ndjje4dqb6",
+    "key": "computer-architecture",
+    "label": "Computer architecture",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fnhev4v1dn",
+    "key": "computer-networking",
+    "label": "Computer networking",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "oxu0hc83pv",
+    "key": "computer-science",
+    "label": "Computer science",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "tw2hqmerzk",
+    "key": "control-loops",
+    "label": "Control loops",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wtbeydaxk8",
+    "key": "control-valves-and-flow-characteristics",
+    "label": "Control valves and flow characteristics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jneeg255g4",
+    "key": "conversational-ai",
+    "label": "Conversational AI",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "hu5gpjlq33",
+    "key": "convolutional-neural-networks",
+    "label": "Convolutional neural networks",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "m1z1sscsk1",
+    "key": "corporate-finance",
+    "label": "Corporate finance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "oramfb6to9",
+    "key": "correspondent-banking",
+    "label": "Correspondent banking",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j3jkhkredm",
+    "key": "cosmetic-dermatology",
+    "label": "Cosmetic dermatology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vf02rn80se",
+    "key": "cost-accounting",
+    "label": "Cost accounting",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "uuq4bsfz4g",
+    "key": "counterparty-risk",
+    "label": "Counterparty risk",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "kuq1oz5bcv",
+    "key": "craniofacial-surgery",
+    "label": "Craniofacial surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ilwjbw0ewo",
+    "key": "criminal-intelligence",
+    "label": "Criminal intelligence",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "su3wyoeytb",
+    "key": "crop-farming",
+    "label": "Crop farming",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s0o9pw5dhe",
+    "key": "cross-domain-solutions",
+    "label": "Cross-domain solutions",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cjkn9h9pnh",
+    "key": "cross-product",
+    "label": "Cross product",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "v5oizwc96o",
+    "key": "crud",
+    "label": "CRUD",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s9ux6raw0k",
+    "key": "cryptocurrency",
+    "label": "Cryptocurrency",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "f83jvlwbfo",
+    "key": "custom-post-types",
+    "label": "Custom post types",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "q3kisw0y71",
+    "key": "cyber-resilience",
+    "label": "Cyber resilience",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "norpz7ekiw",
+    "key": "cybersecurity",
+    "label": "Cybersecurity",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

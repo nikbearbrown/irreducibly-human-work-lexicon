@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An IP address management product for tracking address space, assignments, and associated infrastructure information.",
+  "entry_text": "An IP address management product for tracking address space, assignments, and associated infrastructure information.",
+  "entry_text_kind": "definition",
+  "example": "An administrator consults Infoblox IPAM before allocating a new subnet.",
+  "id": "ggm9c4xs9a",
+  "key": "infoblox-ipam",
+  "label": "Infoblox IPAM",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ASC 340 is the U.S. accounting codification topic Other Assets and Deferred Costs, whose subtopics address accounting for specified assets or costs, including certain contract costs.",
+  "entry_text": "ASC 340 is the U.S. accounting codification topic Other Assets and Deferred Costs, whose subtopics address accounting for specified assets or costs, including certain contract costs.",
+  "entry_text_kind": "definition",
+  "example": "An accountant consults its contract-cost guidance to decide whether an incremental sales commission should be capitalized.",
+  "id": "i4m07o2di6",
+  "key": "asc-340",
+  "label": "ASC 340",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

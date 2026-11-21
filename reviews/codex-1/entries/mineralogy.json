@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Mineralogy studies minerals, including their chemistry, structure, physical properties and formation.",
+  "entry_text": "Mineralogy studies minerals, including their chemistry, structure, physical properties and formation.",
+  "entry_text_kind": "definition",
+  "example": "A geologist distinguishes two similar minerals by comparing hardness and crystal form.",
+  "id": "egg15jc6qd",
+  "key": "mineralogy",
+  "label": "Mineralogy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

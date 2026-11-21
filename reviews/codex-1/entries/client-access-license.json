@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A client access license grants a specified user or device the right to access licensed server software under a vendor's terms.",
+  "entry_text": "A client access license grants a specified user or device the right to access licensed server software under a vendor's terms.",
+  "entry_text_kind": "definition",
+  "example": "An organization compares per-user and per-device licenses for staff who share workstations.",
+  "id": "d7q5p3nh9m",
+  "key": "client-access-license",
+  "label": "Client access license",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

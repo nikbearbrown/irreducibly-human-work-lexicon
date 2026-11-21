@@ -1,0 +1,41 @@
+{
+  "batch": "language-004.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Korwa (ISO 639-3: kfp) as a language under the Austroasiatic grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Austroasiatic",
+    "catalog_name": "Korwa",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "korw1242",
+    "iso639_3": "kfp",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/korw1242"
+  },
+  "definition": null,
+  "entry_text": "Korwa is a human language cataloged as ISO 639-3 kfp.",
+  "entry_text_kind": "source-proposed-definition",
+  "example": null,
+  "id": "d458icsqdz",
+  "key": "korwa",
+  "label": "Korwa",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the language identifier and intended distinction from similar labels.",
+  "sense_proposal": {
+    "ambiguity_note": "Exact label and language-level match in the local linkage; no alias inferred.",
+    "id": "d458icsqdz",
+    "label": "Korwa",
+    "proposed_definition": "Korwa is a human language cataloged as ISO 639-3 kfp.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/korw1242",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

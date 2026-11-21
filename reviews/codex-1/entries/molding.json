@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Molding forms a material into a defined shape using a mold or cavity.",
+  "entry_text": "Molding forms a material into a defined shape using a mold or cavity.",
+  "entry_text_kind": "definition",
+  "example": "A manufacturer forms plastic housings in a mold that defines their dimensions.",
+  "id": "dvj1ptsqlv",
+  "key": "molding",
+  "label": "Molding",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "This is a general manufacturing sense; distinguish casting, injection molding and architectural moldings where needed.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

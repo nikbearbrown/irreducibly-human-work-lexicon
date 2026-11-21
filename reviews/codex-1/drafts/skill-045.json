@@ -1,0 +1,242 @@
+[
+  {
+    "id": "i7ho5g8jhr",
+    "definition": "Thin film coating applies a thin layer of material to a surface to change properties such as optical behavior, wear, adhesion, or conductivity.",
+    "example": "An optical engineer applies and evaluates an antireflection coating on a lens.",
+    "sense_note": null
+  },
+  {
+    "id": "e2co6cr2s0",
+    "definition": "Third party risk management identifies, assesses, monitors, and treats risks arising from suppliers, partners, contractors, or other external relationships.",
+    "example": "An organization checks a cloud vendor's recovery commitments and reviews its performance annually.",
+    "sense_note": null
+  },
+  {
+    "id": "gk4ii6y37r",
+    "definition": "Threading forms a helical ridge or groove on an internal or external surface so parts can engage with matching threads.",
+    "example": "A machinist verifies that a tapped hole accepts the specified fastener and meets its thread gauge requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "wkbsvthe6e",
+    "definition": "Threat modeling systematically examines an asset or system's design, trust boundaries, and plausible adverse events to prioritize defenses.",
+    "example": "A team diagrams who can access a document store and checks whether its authorization rules match the stated trust boundaries.",
+    "sense_note": null
+  },
+  {
+    "id": "g2h5hej63u",
+    "definition": "Three.js is a JavaScript library that abstracts browser graphics rendering to create interactive three-dimensional scenes.",
+    "example": "A developer creates a rotatable 3D preview of a product for a web page.",
+    "sense_note": null
+  },
+  {
+    "id": "tkhv6cm0yg",
+    "definition": "A thyroid biopsy collects cells or tissue from the thyroid for microscopic or other diagnostic evaluation.",
+    "example": "A clinician reviews a biopsy report to help characterize a thyroid nodule.",
+    "sense_note": null
+  },
+  {
+    "id": "y8avl54v9o",
+    "definition": "Thyroid ultrasound uses sound waves to image the thyroid gland and assess features such as its size and nodules.",
+    "example": "A clinician compares ultrasound measurements from two examinations to assess whether a nodule has changed.",
+    "sense_note": null
+  },
+  {
+    "id": "g73ql8iyda",
+    "definition": "TIBCO ActiveMatrix is a suite of enterprise middleware products for integrating applications and building, deploying, or managing services and processes.",
+    "example": "An integration team connects two enterprise applications and monitors exchanges through an ActiveMatrix product.",
+    "sense_note": "The label names a product family; the exact component is unspecified."
+  },
+  {
+    "id": "fki4wx2hnj",
+    "definition": "TIBCO Designer is a graphical development environment used in legacy TIBCO products to configure integration resources and processes.",
+    "example": "A maintainer opens a historical BusinessWorks project to trace where its message mappings are defined.",
+    "sense_note": "Legacy design tooling; verify product and version."
+  },
+  {
+    "id": "ghalca0lm7",
+    "definition": "TIBCO Enterprise Message Service is enterprise messaging middleware that implements Java Message Service APIs and supports queues and topics.",
+    "example": "An order service publishes a message to a queue for later processing by another application.",
+    "sense_note": null
+  },
+  {
+    "id": "wwmgynppq0",
+    "definition": "TIBCO iProcess Suite is business process management software for defining, executing, and tracking workflows that may include assigned human work.",
+    "example": "An operations team routes applications to reviewers and reports where cases are waiting.",
+    "sense_note": null
+  },
+  {
+    "id": "bdi5yd5igv",
+    "definition": "Spotfire is a visual analytics platform for interactively exploring data and developing analyses or dashboards.",
+    "example": "An engineer compares sensor readings by equipment type and filters the views to inspect a suspected trend.",
+    "sense_note": null
+  },
+  {
+    "id": "ufo7ksvhuf",
+    "definition": "The Time Protocol is a simple network protocol that returns a binary count of seconds since the beginning of 1900 for time retrieval.",
+    "example": "A network historian identifies the Time Protocol in an archived system and distinguishes it from NTP.",
+    "sense_note": "Interpreted as the specific RFC 868 protocol, not network time protocols in general."
+  },
+  {
+    "id": "ixpjy58qxp",
+    "definition": "TinyDB is a lightweight Python document database that commonly stores records in a local JSON file.",
+    "example": "A small command-line utility keeps a local set of bookmarked items and queries their tags.",
+    "sense_note": "Interpreted as the Python library; TinyDB also names a wireless sensor network query system."
+  },
+  {
+    "id": "qp9g31370v",
+    "definition": "Tire balancing corrects uneven wheel-assembly mass distribution, while rotation periodically changes tire positions to help distribute wear.",
+    "example": "A shop corrects a measured wheel imbalance and rotates the tires according to the vehicle's recommended pattern.",
+    "sense_note": null
+  },
+  {
+    "id": "pld1fraqcc",
+    "definition": "TOGAF is an enterprise architecture framework and methodology for developing, managing, and governing architecture aligned to organizational goals.",
+    "example": "An architecture team uses the framework to describe a target operating model and plan the transition from current systems.",
+    "sense_note": null
+  },
+  {
+    "id": "n5lzhqjkhv",
+    "definition": "TokuDB was a MySQL-compatible storage engine designed for high insertion rates using fractal tree indexes and compression.",
+    "example": "A database engineer plans a migration away from TokuDB while checking how its indexes and compression affect the workload.",
+    "sense_note": "Historical storage engine; availability varies by product version."
+  },
+  {
+    "id": "irydpvx389",
+    "definition": "Agent tool use is the selection and invocation of external functions by an agent, followed by interpretation of their results within defined permissions and task constraints.",
+    "example": "An assistant calls an approved calendar lookup and checks returned availability before suggesting meeting times.",
+    "sense_note": null
+  },
+  {
+    "id": "u3nn7jymhc",
+    "definition": "Toon Boom is a family of animation and storyboard software used to plan and produce digital animated productions.",
+    "example": "An animator uses Toon Boom Harmony to rig a character and revise its poses across a shot.",
+    "sense_note": "The label may denote the vendor or one of several products."
+  },
+  {
+    "id": "epler56qiy",
+    "definition": "TopSolid is a suite of computer-aided design and manufacturing tools for designing parts, assemblies, and manufacturing processes.",
+    "example": "A manufacturer uses TopSolid to model a fixture and prepare compatible machining operations.",
+    "sense_note": null
+  },
+  {
+    "id": "wng5g0t68d",
+    "definition": "Torch is an older Lua-based scientific computing and machine learning framework with tensor and neural network libraries.",
+    "example": "A researcher examines an archived Lua Torch model to understand its layer definitions before porting it.",
+    "sense_note": "Distinguish original Torch, often called Torch7, from Python-based PyTorch unless the source equates the label."
+  },
+  {
+    "id": "tccw7yyw7f",
+    "definition": "Tourism management plans and operates visitor services and destinations while considering demand, service quality, sustainability, and local impacts.",
+    "example": "A destination manager adds off-season activities and monitors whether demand shifts away from congested peak weeks.",
+    "sense_note": null
+  },
+  {
+    "id": "h4el20olb5",
+    "definition": "Track and trace records the identity, movement, and history of items or consignments so their current state and prior locations can be established.",
+    "example": "A food distributor follows a batch identifier from supplier receipt through shipments to several stores.",
+    "sense_note": "Broad supply-chain sense; other domains may use dedicated variants."
+  },
+  {
+    "id": "jzhusdqwl4",
+    "definition": "TrackWise is quality management software used to manage regulated or controlled processes such as deviations, audits, and corrective actions.",
+    "example": "A manufacturer logs a deviation and links it to a corrective action and effectiveness check.",
+    "sense_note": "Verify edition where cloud and legacy implementations differ."
+  },
+  {
+    "id": "n9pcxl6m5e",
+    "definition": "Traffic Alert and Collision Avoidance System is an airborne system that monitors nearby transponder-equipped aircraft and alerts crews to potential conflicts, with applicable versions providing resolution advisories.",
+    "example": "A flight training simulator demonstrates how a crew distinguishes a traffic advisory from a resolution advisory.",
+    "sense_note": null
+  },
+  {
+    "id": "leu6zjs1w7",
+    "definition": "Traffic collision reconstruction uses physical evidence and engineering analysis to estimate the sequence and dynamics of a road crash.",
+    "example": "A reconstruction specialist compares vehicle damage, scene measurements, and recordings to assess competing accounts of a collision.",
+    "sense_note": null
+  },
+  {
+    "id": "yeo5zlg9b0",
+    "definition": "A training and development needs assessment identifies performance or capability gaps and determines whether training or another intervention would address them.",
+    "example": "An evaluator separates unfamiliarity with a new process from delays caused by an unavailable tool before recommending training.",
+    "sense_note": null
+  },
+  {
+    "id": "a2jaki06vt",
+    "definition": "Training material development creates instructional content, practice opportunities, and assessment materials aligned with learning objectives and audience needs.",
+    "example": "A trainer builds a job aid, worked example, and exercise for a new warehouse receiving process.",
+    "sense_note": null
+  },
+  {
+    "id": "jrjgi5l08q",
+    "definition": "The Trans-Proteomic Pipeline is a software suite for processing, validating, and interpreting mass-spectrometry evidence in proteomics.",
+    "example": "A researcher uses pipeline reports to compare confidence in peptide identifications across archived datasets.",
+    "sense_note": null
+  },
+  {
+    "id": "tmgkousng8",
+    "definition": "Transaction monitoring reviews transactions and patterns against rules, models, or expectations to identify activity requiring investigation.",
+    "example": "A financial compliance analyst reviews why a flagged set of account transfers departed from expected activity.",
+    "sense_note": "Often financial crime or fraud monitoring, but operational transaction monitoring is also possible."
+  },
+  {
+    "id": "drsw0y6l0f",
+    "definition": "Transient expression is the temporary production of a gene product in cells without establishing stable long-term expression in the population.",
+    "example": "A student distinguishes a short-lived expression signal in a research report from evidence of a stable cell line.",
+    "sense_note": null
+  },
+  {
+    "id": "s2ue9ge4us",
+    "definition": "Trauma-focused cognitive behavioral therapy is a structured psychotherapy that combines trauma-focused and cognitive behavioral methods to address trauma-related symptoms, commonly in children and adolescents and with caregiver involvement when appropriate.",
+    "example": "A trained clinician works with a child and caregiver within an individualized trauma recovery plan.",
+    "sense_note": "Capitalized TF-CBT usually refers to a specific manualized model, not all trauma-focused CBT approaches."
+  },
+  {
+    "id": "qq7az5jyor",
+    "definition": "Travel coordination organizes transportation, accommodation, timing, documentation, and changes around travelers' needs and constraints.",
+    "example": "A coordinator rebooks an accessible transfer after a flight schedule changes.",
+    "sense_note": null
+  },
+  {
+    "id": "zeqzu6mpby",
+    "definition": "Treatment planning translates findings and patient goals into a proposed sequence of care actions, monitoring, and reassessment.",
+    "example": "A rehabilitation team agrees with a patient on functional goals and how recovery will be measured.",
+    "sense_note": "The broad label does not specify a clinical discipline."
+  },
+  {
+    "id": "n13ccjbhiu",
+    "definition": "A treemap depicts hierarchical or grouped data as nested rectangles whose areas represent a selected quantity.",
+    "example": "A financial dashboard shows department budgets as rectangles sized by expenditure.",
+    "sense_note": null
+  },
+  {
+    "id": "lq3c55zbbn",
+    "definition": "A trendline is a fitted or smoothed line that summarizes the predominant direction or pattern in plotted observations.",
+    "example": "An analyst overlays a fitted line on monthly sales and inspects where individual months depart from it.",
+    "sense_note": null
+  },
+  {
+    "id": "bc9knehyg2",
+    "definition": "TV production coordinates the preparation, recording, and postproduction of content intended for television distribution.",
+    "example": "A production team schedules interviews, records footage, and edits it into a timed documentary episode.",
+    "sense_note": null
+  },
+  {
+    "id": "cztrri0hmh",
+    "definition": "Twitch is a livestreaming platform that combines broadcast video with viewer interaction such as live chat.",
+    "example": "A creator streams a demonstration and appoints moderators to help manage the audience chat.",
+    "sense_note": null
+  },
+  {
+    "id": "t04g06uxlu",
+    "definition": "Twitter advertising is the use of paid placements and campaign tools on the service historically named Twitter to reach defined audiences.",
+    "example": "A campaign manager compares the cost per registration of two promoted posts.",
+    "sense_note": "Platform later branded X; historical tools and present offerings may differ."
+  },
+  {
+    "id": "om33zxs7ew",
+    "definition": "Twitter marketing uses content, community interaction, and sometimes paid promotion to achieve communication goals on the service historically named Twitter.",
+    "example": "A nonprofit schedules public updates and tracks which posts lead to event signups.",
+    "sense_note": "Platform later branded X; the label does not imply paid advertising only."
+  }
+]

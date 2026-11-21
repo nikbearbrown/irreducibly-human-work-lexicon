@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "phpLDAPadmin is a web interface for browsing and administering LDAP directories.",
+  "entry_text": "phpLDAPadmin is a web interface for browsing and administering LDAP directories.",
+  "entry_text_kind": "definition",
+  "example": "An administrator reviews directory entries through its browser interface.",
+  "id": "b1phw8p0rp",
+  "key": "phpldapadmin",
+  "label": "phpLDAPadmin",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

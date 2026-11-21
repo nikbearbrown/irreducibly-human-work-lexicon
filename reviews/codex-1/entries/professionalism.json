@@ -1,0 +1,20 @@
+{
+  "batch": "skill-036.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Professionalism applies the conduct, reliability, ethical judgment and communication expected in a work setting.",
+  "entry_text": "Professionalism applies the conduct, reliability, ethical judgment and communication expected in a work setting.",
+  "entry_text_kind": "definition",
+  "example": "A team member discloses a conflict of interest before participating in a purchasing decision.",
+  "id": "ybsy8ezsaf",
+  "key": "professionalism",
+  "label": "Professionalism",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

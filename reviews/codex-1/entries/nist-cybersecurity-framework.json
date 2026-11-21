@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The NIST Cybersecurity Framework organizes outcomes for managing and communicating organizational cybersecurity risk.",
+  "entry_text": "The NIST Cybersecurity Framework organizes outcomes for managing and communicating organizational cybersecurity risk.",
+  "entry_text_kind": "definition",
+  "example": "A team compares its existing security practices with a target profile to identify gaps.",
+  "id": "kopywf7m97",
+  "key": "nist-cybersecurity-framework",
+  "label": "NIST Cybersecurity Framework",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

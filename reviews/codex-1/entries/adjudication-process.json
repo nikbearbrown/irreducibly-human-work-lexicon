@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Adjudication is a formal process for examining evidence and applying rules to decide a dispute or claim.",
+  "entry_text": "Adjudication is a formal process for examining evidence and applying rules to decide a dispute or claim.",
+  "entry_text_kind": "definition",
+  "example": "A hearing officer reviews the parties’ submissions and issues a reasoned decision.",
+  "id": "oq06rmk4iu",
+  "key": "adjudication-process",
+  "label": "Adjudication process",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

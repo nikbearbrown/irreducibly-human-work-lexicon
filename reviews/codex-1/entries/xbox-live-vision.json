@@ -1,0 +1,20 @@
+{
+  "batch": "skill-049.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Xbox Live Vision was a camera accessory for the Xbox 360 that supported compatible games and video features.",
+  "entry_text": "Xbox Live Vision was a camera accessory for the Xbox 360 that supported compatible games and video features.",
+  "entry_text_kind": "definition",
+  "example": "A player uses the camera for video chat in a supported legacy Xbox experience.",
+  "id": "fwqpdgm41j",
+  "key": "xbox-live-vision",
+  "label": "Xbox Live Vision",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

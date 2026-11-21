@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A NoSQL database stores and queries data using models such as documents, key-value pairs, columns or graphs rather than relying chiefly on relational tables.",
+  "entry_text": "A NoSQL database stores and queries data using models such as documents, key-value pairs, columns or graphs rather than relying chiefly on relational tables.",
+  "entry_text_kind": "definition",
+  "example": "A product catalog stores items with different attribute sets as documents.",
+  "id": "pmy0yp0e50",
+  "key": "nosql",
+  "label": "NoSQL database",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

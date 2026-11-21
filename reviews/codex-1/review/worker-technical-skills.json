@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pabpxn4ry1",
+    "result": "supports",
+    "ref": "https://bacnet.org/about-bacnet-standard/",
+    "note": "The ASHRAE committee describes the protocol’s data, command and status exchanges among building automation devices and explicitly includes HVAC."
+  },
+  {
+    "id": "a7qvbb5y4u",
+    "result": "supports",
+    "ref": "https://basex.org/",
+    "note": "The project describes both the XML database and XQuery processor, including storage and querying of XML documents. XML is a core capability, not the only supported data format."
+  },
+  {
+    "id": "kqpe0qcysy",
+    "result": "supports",
+    "ref": "https://xmpp.org/extensions/xep-0124.html",
+    "note": "The specification’s Abstract and §1 describe emulating a long-lived bidirectional connection through several synchronous HTTP request/response pairs."
+  },
+  {
+    "id": "p5xwz73srr",
+    "result": "supports",
+    "ref": "https://docs.blender.org/api/2.79a/bge.logic.html",
+    "note": "The archived official 2.79a API documents game scenes, action controls and logic bricks connected to the Blender interface. This supports the legacy product sense."
+  },
+  {
+    "id": "bc99msc7oz",
+    "result": "supports",
+    "ref": "https://www.rfc-editor.org/rfc/rfc1994.html#section-2",
+    "note": "RFC 1994 specifies peer authentication by a challenge and a response dependent on a shared secret that neither party sends across the link."
+  },
+  {
+    "id": "c5l9xyik3i",
+    "result": "supports",
+    "ref": "https://cocoapods.org/",
+    "note": "The official overview calls CocoaPods a dependency manager for Cocoa projects and describes integration through an Xcode project and workspace."
+  },
+  {
+    "id": "jqfxxchd9n",
+    "result": "supports",
+    "ref": "https://learn.microsoft.com/en-us/windows/win32/medfound/directx-video-acceleration-2-0",
+    "note": "Microsoft describes the DXVA API and driver interface, and explains that codecs and video processors can offload work to the GPU."
+  },
+  {
+    "id": "xblbioz2d4",
+    "result": "supports",
+    "ref": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_20-115D.pdf",
+    "note": "Sections 4 and 6 explain DO-178C lifecycle objectives, activities and evidence for airborne software. FAA treats it as an acceptable means, not itself a regulation."
+  },
+  {
+    "id": "h6de3ztyj8",
+    "result": "supports",
+    "ref": "https://account.cablelabs.com/server/alfresco/1519efdc-d9ae-4d0b-a017-9a1e457bcbcb",
+    "note": "CableLabs identifies the document as a member of the DOCSIS high-speed data-over-cable specification family and depicts the cable modem linked to the operator’s broadband access network."
+  },
+  {
+    "id": "pzkbjaeg8u",
+    "result": "supports",
+    "ref": "https://github.com/google/eddystone#readme",
+    "note": "Google’s archived specification describes Bluetooth Low Energy proximity beacon messages and their frame formats. This does not establish support for any associated cloud service."
+  },
+  {
+    "id": "mi2t4wx6vw",
+    "result": "supports",
+    "ref": "https://www.rfc-editor.org/rfc/rfc9639.html#section-1",
+    "note": "RFC 9639 defines a lossless format for digital audio. Lossless reconstruction refers to the encoded audio samples, not necessarily all metadata or container bytes from a source file."
+  },
+  {
+    "id": "qhqzepuu95",
+    "result": "supports",
+    "ref": "https://www.rfc-editor.org/info/rfc3650/",
+    "note": "RFC 3650 explains persistent handles and resolution independent of location. A moved resource remains reachable when its binding is maintained."
+  }
+]

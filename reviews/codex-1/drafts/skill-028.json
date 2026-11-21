@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sw8c3qk1m2",
+    "definition": "Marketing management plans, coordinates and evaluates the people, budgets and activities used to market offerings.",
+    "example": "A manager reallocates a campaign budget after comparing acquisition results across channels.",
+    "sense_note": null
+  },
+  {
+    "id": "f4r9a2sogw",
+    "definition": "Marketing strategy defines the audiences, positioning and choices through which an offering aims to achieve market goals.",
+    "example": "A startup chooses to target small clinics first and positions its software around reduced paperwork.",
+    "sense_note": null
+  },
+  {
+    "id": "nrksbh186s",
+    "definition": "Masonry constructs or repairs structures by laying bricks, blocks or stone, typically using mortar or carefully fitted joints.",
+    "example": "A mason replaces damaged bricks while preserving the wall's pattern.",
+    "sense_note": null
+  },
+  {
+    "id": "jdzffpay1e",
+    "definition": "Massage applies controlled manipulation of soft tissue for comfort, relaxation or other therapeutic goals.",
+    "example": "A practitioner adapts a session to the client's stated comfort and restrictions.",
+    "sense_note": null
+  },
+  {
+    "id": "tws2xkl10q",
+    "definition": "Materials testing measures a material's properties or behavior under specified conditions to assess suitability or quality.",
+    "example": "A technician measures the tensile strength of samples from a production batch.",
+    "sense_note": null
+  },
+  {
+    "id": "wvycqv51z7",
+    "definition": "Mathematica is a computational environment for symbolic and numerical mathematics, programming and visualization.",
+    "example": "An analyst solves a symbolic equation and plots its solutions in a notebook.",
+    "sense_note": null
+  },
+  {
+    "id": "dnco8uza64",
+    "definition": "Matplotlib is a Python library for creating static, animated and interactive visualizations from data.",
+    "example": "A scientist plots measured values with error bars.",
+    "sense_note": null
+  },
+  {
+    "id": "qij7l9wbz8",
+    "definition": "McAfee Personal Firewall Plus was a personal firewall product for monitoring and controlling network traffic on a computer.",
+    "example": "A user reviewed application connection requests and blocked an unauthorized program.",
+    "sense_note": null
+  },
+  {
+    "id": "ivqbujumn8",
+    "definition": "MCollective was a framework for issuing coordinated administrative commands across groups of machines.",
+    "example": "An administrator queried service status across a set of managed hosts.",
+    "sense_note": null
+  },
+  {
+    "id": "no3tp66b0r",
+    "definition": "Meal planning and preparation organize what meals are made, procure ingredients and prepare food to suit schedules and dietary needs.",
+    "example": "A caregiver plans meals for the week and batches vegetables to shorten cooking time.",
+    "sense_note": null
+  },
+  {
+    "id": "cf2acgxwct",
+    "definition": "MEAN.JS is a JavaScript application stack and project scaffold using MongoDB, Express, AngularJS and Node.js.",
+    "example": "A developer starts a web application with an AngularJS interface and an Express API.",
+    "sense_note": "Do not assume compatibility with current Angular from the historical name."
+  },
+  {
+    "id": "s9b2klic4m",
+    "definition": "Meat cutting portions and trims meat into specified cuts while maintaining safe handling and product quality.",
+    "example": "A butcher separates a larger cut into evenly sized retail portions.",
+    "sense_note": null
+  },
+  {
+    "id": "d86tb3zsu0",
+    "definition": "Mechanical drafting creates engineering drawings that communicate dimensions, tolerances, materials and construction details of mechanical parts or assemblies.",
+    "example": "A drafter adds hole positions and tolerances to a mounting plate drawing.",
+    "sense_note": null
+  },
+  {
+    "id": "jbotgr5hal",
+    "definition": "A mechanical seal limits fluid leakage at the interface between a rotating shaft and a stationary housing.",
+    "example": "A pump technician selects a seal compatible with the pumped fluid and operating conditions.",
+    "sense_note": null
+  },
+  {
+    "id": "qhvqe6edu5",
+    "definition": "Media buying selects and purchases advertising placements from publishers, platforms or networks within a campaign plan.",
+    "example": "A media buyer reserves audio ads aimed at reaching commuters.",
+    "sense_note": null
+  },
+  {
+    "id": "r4rp67mbb0",
+    "definition": "Media production creates, records and assembles content for distribution through formats such as audio, video or digital publications.",
+    "example": "A producer coordinates recording and editing an interview for an online series.",
+    "sense_note": null
+  },
+  {
+    "id": "rwmcsu5aze",
+    "definition": "Media relations manages communication with journalists and outlets to provide accurate information and respond to coverage requests.",
+    "example": "A communications officer prepares a spokesperson to answer reporters' questions.",
+    "sense_note": null
+  },
+  {
+    "id": "ndmd2a7z2m",
+    "definition": "Media Transfer Protocol is a standard for transferring and managing media objects between a host and a connected device.",
+    "example": "A user imports pictures from a portable device without mounting its storage as a disk.",
+    "sense_note": null
+  },
+  {
+    "id": "fo3x072gil",
+    "definition": "MediatR is a .NET library for routing messages to handlers within an application.",
+    "example": "An application sends an order command to its registered handler without coupling the caller to that handler directly.",
+    "sense_note": null
+  },
+  {
+    "id": "hqymi9wcca",
+    "definition": "Medical billing and coding translate documented care into standardized codes and use those codes to prepare and manage payment claims.",
+    "example": "A coder checks a diagnosis code against the encounter documentation before the billing team submits the claim.",
+    "sense_note": null
+  },
+  {
+    "id": "jqwk9m8qss",
+    "definition": "Medical device development designs, verifies and prepares devices for health applications with attention to intended use, safety and applicable requirements.",
+    "example": "An engineering team tests whether a prototype meets its stated measurement accuracy.",
+    "sense_note": null
+  },
+  {
+    "id": "fl8a6jfvsu",
+    "definition": "Medical device sales communicate a device's approved uses, capabilities and purchasing terms to prospective customers.",
+    "example": "A representative explains device compatibility and service arrangements to a hospital purchasing team.",
+    "sense_note": null
+  },
+  {
+    "id": "l2t1b5hgd3",
+    "definition": "Medical office skills support administrative work in a healthcare practice, including scheduling, patient communications and records handling.",
+    "example": "A coordinator schedules a follow-up and updates the patient's contact information.",
+    "sense_note": null
+  },
+  {
+    "id": "e103dsfem0",
+    "definition": "Medical photography captures clinically useful images using appropriate technique, documentation and privacy practices.",
+    "example": "A trained photographer records successive clinical images with consistent framing for comparison.",
+    "sense_note": null
+  },
+  {
+    "id": "eu7pzt8yc7",
+    "definition": "Medical record formatting organizes health documentation into standardized, readable structures that preserve relevant clinical information.",
+    "example": "A specialist converts dictated information into sections for history, examination and assessment.",
+    "sense_note": null
+  },
+  {
+    "id": "s3rphwj2ud",
+    "definition": "Medical records release verifies and fulfills authorized requests to disclose health records under applicable rules and organizational procedures.",
+    "example": "A records specialist checks authorization and releases only the records covered by the request.",
+    "sense_note": null
+  },
+  {
+    "id": "ps84lr8vqx",
+    "definition": "A medical ventilator supports or replaces aspects of breathing by delivering controlled gas flow or pressure.",
+    "example": "A respiratory therapist monitors how a patient responds to prescribed ventilator support.",
+    "sense_note": null
+  },
+  {
+    "id": "j1u1gihs5z",
+    "definition": "Mental health assessment collects and evaluates information about symptoms, functioning and relevant history to guide care or further evaluation.",
+    "example": "A clinician uses an interview and a screening measure to decide whether a more detailed evaluation is needed.",
+    "sense_note": null
+  },
+  {
+    "id": "paspq84cye",
+    "definition": "Menu planning designs a selection of dishes for a service or period while balancing nutrition, budget, availability and customer needs.",
+    "example": "A school food service team rotates main dishes and includes options for documented dietary restrictions.",
+    "sense_note": null
+  },
+  {
+    "id": "hkrxfoq04k",
+    "definition": "MEP design software helps engineers model, coordinate and document mechanical, electrical and plumbing systems in buildings.",
+    "example": "A coordinator checks whether a proposed ventilation duct interferes with a plumbing run.",
+    "sense_note": null
+  },
+  {
+    "id": "fpiu9689bi",
+    "definition": "Merchandise management plans and controls the assortment, availability, pricing and presentation of goods for sale.",
+    "example": "A retailer increases stock of a popular size before a seasonal promotion.",
+    "sense_note": null
+  },
+  {
+    "id": "ww0gm8s6qt",
+    "definition": "Metadata management defines and maintains descriptive information about assets so they can be found, interpreted and governed.",
+    "example": "A data steward records a dataset's owner, refresh schedule and variable definitions.",
+    "sense_note": null
+  },
+  {
+    "id": "zgsi8tvrhg",
+    "definition": "A metal detector senses nearby metal objects by measuring their effects on an electromagnetic field.",
+    "example": "A quality technician uses a detector to screen packaged food for unintended metal fragments.",
+    "sense_note": null
+  },
+  {
+    "id": "xpcuy21jio",
+    "definition": "Meteor is a JavaScript framework for building applications across the client and server, with facilities for synchronizing data.",
+    "example": "A developer builds a shared list that updates connected browser clients as items change.",
+    "sense_note": null
+  },
+  {
+    "id": "w0dzpselbw",
+    "definition": "Meter data management collects, validates, stores and provides measurements from utility meters for billing and analysis.",
+    "example": "A utility flags missing hourly readings for review before calculating a bill.",
+    "sense_note": null
+  },
+  {
+    "id": "dm5iivuzvs",
+    "definition": "The Meter Operation Code of Practice Agreement governs agreed practices for appointing and operating electricity metering services in a defined market.",
+    "example": "A metering operator checks its obligations when transferring responsibility for a meter.",
+    "sense_note": "Verify jurisdiction and applicable revision before citing specific requirements."
+  },
+  {
+    "id": "xtfanztaf3",
+    "definition": "MicroBlaze is a configurable soft processor core intended for integration into programmable logic devices.",
+    "example": "An embedded engineer integrates a MicroBlaze processor to handle control tasks alongside FPGA logic.",
+    "sense_note": null
+  },
+  {
+    "id": "n5ny10lu9r",
+    "definition": "Microchipping implants a small electronic identifier so an animal or other subject can be identified with a compatible reader.",
+    "example": "A shelter scans a found dog and checks its identifier against a registry.",
+    "sense_note": "The common use is animal identification; distinguish implanting identifiers from fabricating microchips."
+  },
+  {
+    "id": "bpexleutl2",
+    "definition": "Microsoft 365 is a subscription suite combining productivity applications and cloud services for work, communication and collaboration.",
+    "example": "A team edits a shared spreadsheet while coordinating its review in a meeting.",
+    "sense_note": null
+  },
+  {
+    "id": "iv91vx1c9i",
+    "definition": "Microsoft Bookings is a scheduling tool for publishing appointment availability and managing reservations.",
+    "example": "A clinic creates a booking page for consultations that reflects staff availability.",
+    "sense_note": null
+  }
+]

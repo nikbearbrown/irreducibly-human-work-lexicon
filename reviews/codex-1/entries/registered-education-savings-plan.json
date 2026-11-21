@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-011.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A Registered Education Savings Plan is a Canadian registered savings arrangement for education expenses, potentially eligible for government grants or bonds.",
+  "entry_text": "A Registered Education Savings Plan is a Canadian registered savings arrangement for education expenses, potentially eligible for government grants or bonds.",
+  "entry_text_kind": "definition",
+  "example": "A family opens an RESP to save for a beneficiary's postsecondary education.",
+  "id": "gkyfwnguc9",
+  "key": "registered-education-savings-plan",
+  "label": "Registered Education Savings Plan",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

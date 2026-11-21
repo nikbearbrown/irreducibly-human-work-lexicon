@@ -1,0 +1,20 @@
+{
+  "batch": "skill-024.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A workplace management software product for coordinating space, assets, and facilities-related work.",
+  "entry_text": "A workplace management software product for coordinating space, assets, and facilities-related work.",
+  "entry_text_kind": "definition",
+  "example": "A facilities team tracks room use and manages service requests.",
+  "id": "gyeh0f1zkb",
+  "key": "ioffice",
+  "label": "iOFFICE",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label may denote historical branding or a specific current product within a larger suite.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

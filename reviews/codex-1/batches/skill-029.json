@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "g6t643lbht",
+    "key": "microsoft-bot-framework",
+    "label": "Microsoft Bot Framework",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mzlmepymn4",
+    "key": "microsoft-digital-image-suite",
+    "label": "Microsoft Digital Image Suite",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kjjuwi4o5n",
+    "key": "microsoft-forms",
+    "label": "Microsoft Forms",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jjj5imbhcc",
+    "key": "microsoft-hololens",
+    "label": "Microsoft HoloLens",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kf8h1njv2w",
+    "key": "microsoft-intune",
+    "label": "Microsoft Intune",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w1w7p7ynd9",
+    "key": "microsoft-language-interface-pack",
+    "label": "Microsoft Language Interface Pack",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tr4qm7u5gh",
+    "key": "microsoft-lists",
+    "label": "Microsoft Lists",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mn8o7lhdzz",
+    "key": "microsoft-lync",
+    "label": "Microsoft Lync",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tjxf2atlaw",
+    "key": "microsoft-paint",
+    "label": "Microsoft Paint",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wm0an97hss",
+    "key": "microsoft-sentinel",
+    "label": "Microsoft Sentinel",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k328rpnfpy",
+    "key": "microsoft-teams-live-events",
+    "label": "Microsoft Teams live events",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p0bdmpxb0j",
+    "key": "microsoft-teams-phone",
+    "label": "Microsoft Teams Phone",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tjnjb7dm3i",
+    "key": "microsoft-transaction-server",
+    "label": "Microsoft Transaction Server",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "najoe59rqn",
+    "key": "microsoft-visio",
+    "label": "Microsoft Visio",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mqds5egqy1",
+    "key": "microsoft-works",
+    "label": "Microsoft Works",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "an7k8us8vm",
+    "key": "microstation",
+    "label": "MicroStation",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qss12gvh4s",
+    "key": "microstrategy-desktop",
+    "label": "MicroStrategy Desktop",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kzcxb7qa6p",
+    "key": "microstrategy-intelligence-server",
+    "label": "MicroStrategy Intelligence Server",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dwvdsrh0mq",
+    "key": "microstrategy-office",
+    "label": "MicroStrategy Office",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b9ccp4ihhh",
+    "key": "microstrategy-olap-services",
+    "label": "MicroStrategy OLAP Services",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xvro2qusl7",
+    "key": "microstrategy-report-services",
+    "label": "MicroStrategy Report Services",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bt6n4f6sxp",
+    "key": "microstrategy-software-development-kit",
+    "label": "MicroStrategy Software Development Kit",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u7zy60dlsh",
+    "key": "microstrategy-transaction-services",
+    "label": "MicroStrategy Transaction Services",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zjf0haqci6",
+    "key": "microstrategy-visual-insight",
+    "label": "MicroStrategy Visual Insight",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a8hfha4eox",
+    "key": "microstrategy-web",
+    "label": "MicroStrategy Web",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nicyomlrg5",
+    "key": "mike-urban",
+    "label": "MIKE URBAN",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ph4pdgllci",
+    "key": "military-standards-and-specifications",
+    "label": "Military standards and specifications",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z9fhus6h3o",
+    "key": "mind-mapping",
+    "label": "Mind mapping",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pwa238fmd8",
+    "key": "mitre-att-ck",
+    "label": "MITRE ATT&CK",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jnbv0d79jr",
+    "key": "mobile-application-design",
+    "label": "Mobile application design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r6evkrcg5x",
+    "key": "mobile-ui-design",
+    "label": "Mobile UI design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s8e0grtfer",
+    "key": "mobile-ux-design",
+    "label": "Mobile UX design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vnj1cbr7ux",
+    "key": "modelops",
+    "label": "ModelOps",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o5nqf6k2ww",
+    "key": "modelsim",
+    "label": "ModelSim",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n3l0oty8h4",
+    "key": "modern-methods-of-construction",
+    "label": "Modern methods of construction",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "twby58lhlh",
+    "key": "modo",
+    "label": "MODO",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r6k77wrrjc",
+    "key": "moist-heat-sterilization",
+    "label": "Moist heat sterilization",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s14nnt0n9p",
+    "key": "mold-setting",
+    "label": "Mold setting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dvj1ptsqlv",
+    "key": "molding",
+    "label": "Molding",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "swoghz2nu2",
+    "key": "moldings-installation-and-maintenance",
+    "label": "Moldings installation and maintenance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Operations analytics analyzes operational data to understand performance and make decisions about processes, resources or service delivery.",
+  "entry_text": "Operations analytics analyzes operational data to understand performance and make decisions about processes, resources or service delivery.",
+  "entry_text_kind": "definition",
+  "example": "A warehouse analyst identifies which picking steps contribute most to delays.",
+  "id": "y2ac1u5au7",
+  "key": "operations-analytics",
+  "label": "Operations analytics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

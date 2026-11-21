@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A distributed file system in the Apache Hadoop ecosystem that stores large files across multiple machines.",
+  "entry_text": "A distributed file system in the Apache Hadoop ecosystem that stores large files across multiple machines.",
+  "entry_text_kind": "definition",
+  "example": "A data processing job reads a large dataset divided into blocks across an HDFS cluster.",
+  "id": "z1ujvxs2o9",
+  "key": "hadoop-distributed-file-system",
+  "label": "Hadoop Distributed File System",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

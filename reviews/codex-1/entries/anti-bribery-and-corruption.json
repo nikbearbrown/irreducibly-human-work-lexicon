@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Anti-bribery and corruption encompasses the rules and controls used to prevent, identify, and respond to improper inducements and abuses of entrusted power.",
+  "entry_text": "Anti-bribery and corruption encompasses the rules and controls used to prevent, identify, and respond to improper inducements and abuses of entrusted power.",
+  "entry_text_kind": "definition",
+  "example": "A procurement team has a prospective supplier's gifts reviewed for conflicts before contract negotiations.",
+  "id": "ao4kld81ar",
+  "key": "anti-bribery-and-corruption",
+  "label": "Anti-bribery and corruption",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

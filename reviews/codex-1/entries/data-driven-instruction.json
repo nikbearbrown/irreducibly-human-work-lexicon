@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Data-driven instruction uses evidence of learner progress or difficulty to adjust what is taught and how it is taught.",
+  "entry_text": "Data-driven instruction uses evidence of learner progress or difficulty to adjust what is taught and how it is taught.",
+  "entry_text_kind": "definition",
+  "example": "A teacher reteaches fractions after reviewing errors common across a class’s recent assessments.",
+  "id": "h13obge925",
+  "key": "data-driven-instruction",
+  "label": "Data-driven instruction",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

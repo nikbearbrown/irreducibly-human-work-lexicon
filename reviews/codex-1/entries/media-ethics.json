@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Media ethics concerns principles for making responsible decisions about gathering, creating and distributing content.",
+  "entry_text": "Media ethics concerns principles for making responsible decisions about gathering, creating and distributing content.",
+  "entry_text_kind": "definition",
+  "example": "An editor weighs the public interest against a private person's privacy before publishing a photograph.",
+  "id": "uu17w6c03r",
+  "key": "media-ethics",
+  "label": "Media ethics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

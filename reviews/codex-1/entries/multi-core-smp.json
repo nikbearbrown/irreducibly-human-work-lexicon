@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Multi-core symmetric multiprocessing allows a common operating system to schedule work across peer processor cores that share main memory.",
+  "entry_text": "Multi-core symmetric multiprocessing allows a common operating system to schedule work across peer processor cores that share main memory.",
+  "entry_text_kind": "definition",
+  "example": "An operating system runs separate application threads on different cores while both access shared buffers.",
+  "id": "ikj5ftub8s",
+  "key": "multi-core-smp",
+  "label": "Multi-core SMP",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

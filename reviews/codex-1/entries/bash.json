@@ -1,0 +1,20 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A command shell and scripting language that implements the Bourne shell tradition.",
+  "entry_text": "A command shell and scripting language that implements the Bourne shell tradition.",
+  "entry_text_kind": "definition",
+  "example": "A script loops over images and records their filenames.",
+  "id": "op6iieveb7",
+  "key": "bash",
+  "label": "Bash",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

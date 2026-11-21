@@ -1,0 +1,20 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Mental health assessment collects and evaluates information about symptoms, functioning and relevant history to guide care or further evaluation.",
+  "entry_text": "Mental health assessment collects and evaluates information about symptoms, functioning and relevant history to guide care or further evaluation.",
+  "entry_text_kind": "definition",
+  "example": "A clinician uses an interview and a screening measure to decide whether a more detailed evaluation is needed.",
+  "id": "j1u1gihs5z",
+  "key": "mental-health-assessments",
+  "label": "Mental health assessments",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

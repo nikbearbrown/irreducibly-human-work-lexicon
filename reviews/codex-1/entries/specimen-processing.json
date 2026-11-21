@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Specimen processing prepares and records samples for analysis while preserving their identification, integrity, and suitability for the intended test.",
+  "entry_text": "Specimen processing prepares and records samples for analysis while preserving their identification, integrity, and suitability for the intended test.",
+  "entry_text_kind": "definition",
+  "example": "A laboratory worker verifies that a specimen's identifier and container conform to the receiving checklist.",
+  "id": "cifv2by5mk",
+  "key": "specimen-processing",
+  "label": "Specimen processing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

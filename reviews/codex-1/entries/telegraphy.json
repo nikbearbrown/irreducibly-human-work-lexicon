@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Telegraphy is the long-distance transmission of messages encoded as discrete signals, historically including electrical pulses over wires.",
+  "entry_text": "Telegraphy is the long-distance transmission of messages encoded as discrete signals, historically including electrical pulses over wires.",
+  "entry_text_kind": "definition",
+  "example": "A museum demonstration shows how a receiver interprets timed signals as letters in Morse code.",
+  "id": "dlzr4a50wm",
+  "key": "telegraphy",
+  "label": "Telegraphy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

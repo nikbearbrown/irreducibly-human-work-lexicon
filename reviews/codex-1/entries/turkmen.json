@@ -1,0 +1,31 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Turkmen (ISO 639-3: tuk) as a language under the Turkic grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Turkic",
+    "catalog_name": "Turkmen",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "turk1304",
+    "iso639_3": "tuk",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/turk1304"
+  },
+  "definition": "A human language used in oral and written communication.",
+  "entry_text": "A human language used in oral and written communication.",
+  "entry_text_kind": "definition",
+  "example": "A translator checks a Turkmen version of a visitor guide.",
+  "id": "bnonpsk48o",
+  "key": "turkmen",
+  "label": "Turkmen",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

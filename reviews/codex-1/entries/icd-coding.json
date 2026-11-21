@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Assigning standardized diagnostic or procedural codes from the applicable ICD system based on documented information.",
+  "entry_text": "Assigning standardized diagnostic or procedural codes from the applicable ICD system based on documented information.",
+  "entry_text_kind": "definition",
+  "example": "A medical coder reviews the encounter documentation to assign an appropriate diagnosis code.",
+  "id": "ev74bf3h3g",
+  "key": "icd-coding",
+  "label": "ICD coding",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Procedure coding availability and applicable rules depend on the edition and jurisdiction.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

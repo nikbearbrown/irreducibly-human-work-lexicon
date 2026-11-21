@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Microsoft Teams Phone adds telephony and call-control capabilities to Teams, with external calling through configured connectivity.",
+  "entry_text": "Microsoft Teams Phone adds telephony and call-control capabilities to Teams, with external calling through configured connectivity.",
+  "entry_text_kind": "definition",
+  "example": "An organization routes calls for a main number to a queue in Teams.",
+  "id": "p0bdmpxb0j",
+  "key": "microsoft-teams-phone",
+  "label": "Microsoft Teams Phone",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

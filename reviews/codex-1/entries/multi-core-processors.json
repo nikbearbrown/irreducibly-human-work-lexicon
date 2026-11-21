@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A multi-core processor integrates multiple processing cores that can execute work concurrently.",
+  "entry_text": "A multi-core processor integrates multiple processing cores that can execute work concurrently.",
+  "entry_text_kind": "definition",
+  "example": "A video editor distributes independent rendering tasks across several cores.",
+  "id": "i53ufef076",
+  "key": "multi-core-processors",
+  "label": "Multi-core processors",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

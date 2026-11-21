@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Levelator is an audio processing tool that evens out variations in recorded speech levels.",
+  "entry_text": "Levelator is an audio processing tool that evens out variations in recorded speech levels.",
+  "entry_text_kind": "definition",
+  "example": "A podcast editor uses it to balance a quiet presenter and a louder guest.",
+  "id": "f98arbexqb",
+  "key": "levelator",
+  "label": "Levelator",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

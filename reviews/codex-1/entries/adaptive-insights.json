@@ -1,0 +1,28 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Adaptive Insights is business planning software for budgeting, forecasting, and comparing financial scenarios.",
+  "entry_text": "Adaptive Insights is business planning software for budgeting, forecasting, and comparing financial scenarios.",
+  "entry_text_kind": "definition",
+  "example": "A finance team models how a hiring delay changes next quarter’s spending forecast.",
+  "id": "jyl5hk0swj",
+  "key": "adaptive-insights",
+  "label": "Adaptive Insights",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "jyl5hk0swj",
+      "note": "Workday describes a planning and forecasting solution and records the 2020 rebranding to Workday Adaptive Planning. The draft captures the functionality but should explicitly treat Adaptive Insights as a former product name or company name rather than imply current branding.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://blog.workday.com/en-gb/what-is-adaptive-planning.html",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

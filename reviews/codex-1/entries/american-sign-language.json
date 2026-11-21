@@ -1,0 +1,39 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs American Sign Language (ISO 639-3: ase) as a language under the Sign Language grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Sign Language",
+    "catalog_name": "American Sign Language",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "amer1248",
+    "iso639_3": "ase",
+    "macroarea": "Africa;North America",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/amer1248"
+  },
+  "definition": "A natural visual language that uses handshape, movement, location, and nonmanual signals.",
+  "entry_text": "A natural visual language that uses handshape, movement, location, and nonmanual signals.",
+  "entry_text_kind": "definition",
+  "example": "An interpreter signs a classroom question in ASL.",
+  "id": "l2yggbg9hw",
+  "key": "american-sign-language",
+  "label": "American Sign Language",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "l2yggbg9hw",
+      "note": "Ferrara et al. describe handshape, movement, location and nonmanual features and use ASL dictionaries in their analysis. NIDCD independently confirms the natural signed-language classification: https://www.nidcd.nih.gov/health/american-sign-language.",
+      "packet": "root-language-001.json",
+      "ref": "https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12741",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

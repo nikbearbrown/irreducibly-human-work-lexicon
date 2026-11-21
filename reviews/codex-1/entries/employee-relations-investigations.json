@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Fact-finding and documentation in response to workplace conduct complaints or policy concerns.",
+  "entry_text": "Fact-finding and documentation in response to workplace conduct complaints or policy concerns.",
+  "entry_text_kind": "definition",
+  "example": "An investigator interviews involved employees and records findings against the applicable policy.",
+  "id": "jrbj7k9am7",
+  "key": "employee-relations-investigations",
+  "label": "Employee relations investigations",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

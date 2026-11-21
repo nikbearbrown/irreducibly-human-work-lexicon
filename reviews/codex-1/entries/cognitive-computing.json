@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cognitive computing is a broad label for computer systems designed to support or approximate human capabilities such as interpreting language, recognizing patterns, and reasoning from evidence.",
+  "entry_text": "Cognitive computing is a broad label for computer systems designed to support or approximate human capabilities such as interpreting language, recognizing patterns, and reasoning from evidence.",
+  "entry_text_kind": "definition",
+  "example": "A system highlights relevant passages from documents for a reviewer answering a question.",
+  "id": "s3b1vsg6g5",
+  "key": "cognitive-computing",
+  "label": "Cognitive computing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label is used inconsistently and does not imply consciousness or a single technical architecture.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

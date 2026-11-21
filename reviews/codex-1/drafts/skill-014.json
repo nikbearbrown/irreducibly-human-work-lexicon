@@ -1,0 +1,242 @@
+[
+  {
+    "id": "mgwpga1jmw",
+    "definition": "Procedures whose rules produce the same result when started with the same inputs and conditions.",
+    "example": "A simulation test uses a fixed initial state to reproduce the same predicted trajectory.",
+    "sense_note": null
+  },
+  {
+    "id": "d8bp52ogpj",
+    "definition": "A lawn maintenance machine that loosens and removes accumulated dead stems and roots above the soil.",
+    "example": "A groundskeeper removes a thick layer of thatch before overseeding.",
+    "sense_note": null
+  },
+  {
+    "id": "fsvbd7mhjr",
+    "definition": "An approach to education that adapts teaching to learners' developmental stage, individual needs, and cultural context.",
+    "example": "An early childhood teacher uses manipulatives and play to introduce counting.",
+    "sense_note": null
+  },
+  {
+    "id": "jun5boenwf",
+    "definition": "A family of software component libraries for building user interfaces, reports, and data visualizations.",
+    "example": "A developer adds a DevExpress data grid with sorting to a business application.",
+    "sense_note": null
+  },
+  {
+    "id": "d8opmi1fio",
+    "definition": "Determining the causes, impact, and context of a departure from an approved procedure or expected result.",
+    "example": "A quality specialist reviews batch records and interviews operators after a process check fails.",
+    "sense_note": null
+  },
+  {
+    "id": "fvuxj1r6nn",
+    "definition": "A formal process for recording, assessing, investigating, and resolving departures from established requirements.",
+    "example": "A quality team logs a deviation, assesses affected products, and tracks corrective actions to closure.",
+    "sense_note": null
+  },
+  {
+    "id": "d4xxm6t88j",
+    "definition": "An approach that combines development and operations practices to deliver and operate software collaboratively and reliably.",
+    "example": "A team shares deployment ownership and uses automation to release and monitor new versions.",
+    "sense_note": null
+  },
+  {
+    "id": "rpc3fbgnib",
+    "definition": "An approach that integrates security practices and responsibilities throughout collaborative software delivery and operation.",
+    "example": "A team includes dependency review and security checks alongside its normal release checks.",
+    "sense_note": null
+  },
+  {
+    "id": "u7ui1qw5um",
+    "definition": "Interpreting evidence to identify factors that explain an observed condition or performance problem.",
+    "example": "An analyst compares system measurements before and after an incident to identify its likely cause.",
+    "sense_note": null
+  },
+  {
+    "id": "nnzs6rvsc6",
+    "definition": "Google's platform for building conversational interfaces that interpret user requests and manage responses.",
+    "example": "A support team configures a chatbot to distinguish billing questions from service outages.",
+    "sense_note": null
+  },
+  {
+    "id": "r9lt5me4ha",
+    "definition": "A device used to record spoken material, especially for transcription.",
+    "example": "A reporter records spoken notes and transcribes them later.",
+    "sense_note": "The name originated as a brand and is also used generically."
+  },
+  {
+    "id": "pz26rmdqty",
+    "definition": "Speaking material aloud clearly and in a structured sequence for recording or transcription.",
+    "example": "A clinician dictates encounter notes for authorized transcription.",
+    "sense_note": null
+  },
+  {
+    "id": "mgli64p2b6",
+    "definition": "Designing or assessing digital content and interfaces so people with disabilities can use them.",
+    "example": "A designer verifies that a registration form can be completed with a keyboard and a screen reader.",
+    "sense_note": null
+  },
+  {
+    "id": "a19c10mi46",
+    "definition": "Planning, placing, and evaluating paid promotional messages across digital channels.",
+    "example": "A campaign manager compares the cost per registration from search and display ads.",
+    "sense_note": null
+  },
+  {
+    "id": "lcoae2rzwl",
+    "definition": "A software platform and product family for managing aspects of enterprise application development and delivery.",
+    "example": "A release manager uses the platform to coordinate approvals across several application teams.",
+    "sense_note": null
+  },
+  {
+    "id": "yzu8eoggb2",
+    "definition": "Creating and managing messages and interactions distributed through digital channels.",
+    "example": "A school coordinates an announcement across its website, email, and text alerts.",
+    "sense_note": null
+  },
+  {
+    "id": "an5f1wkslh",
+    "definition": "Defining how an organization will attract, serve, and retain customers through digital channels.",
+    "example": "A retailer maps where customers abandon online orders and prioritizes checkout improvements.",
+    "sense_note": null
+  },
+  {
+    "id": "kns9ez1tsx",
+    "definition": "Using digital tools and information adaptively and confidently to accomplish tasks and solve unfamiliar problems.",
+    "example": "An employee chooses a suitable online collaboration tool and teaches coworkers how to use it.",
+    "sense_note": null
+  },
+  {
+    "id": "h27ahjbfu2",
+    "definition": "Reporting, verifying, producing, and publishing journalism in digital formats and channels.",
+    "example": "A reporter publishes a verified local election story with interactive precinct results.",
+    "sense_note": null
+  },
+  {
+    "id": "a9jtam6w1r",
+    "definition": "Presenting and organizing products in digital storefronts to help shoppers discover and evaluate them.",
+    "example": "A retailer adjusts product categories and featured items on an online storefront.",
+    "sense_note": null
+  },
+  {
+    "id": "m6uvjl465p",
+    "definition": "A signaling standard that supports interoperable call-control features between private telephone exchanges.",
+    "example": "A company links participating office exchanges so employees can use internal calling features.",
+    "sense_note": null
+  },
+  {
+    "id": "hdbcz2nnh2",
+    "definition": "The ability to use digital devices, software, and online services to complete practical tasks safely and effectively.",
+    "example": "A worker organizes shared documents and adjusts their permissions for collaborators.",
+    "sense_note": null
+  },
+  {
+    "id": "larjv4ascm",
+    "definition": "Redesigning organizational processes, services, or business models around digital technologies and data.",
+    "example": "A hospital replaces a paper referral workflow with a system shared by participating clinics.",
+    "sense_note": null
+  },
+  {
+    "id": "hijioia4a4",
+    "definition": "An algorithm for finding shortest paths from a source in a graph whose edge weights are nonnegative.",
+    "example": "A routing system computes the least-cost paths from a depot using nonnegative road distances.",
+    "sense_note": null
+  },
+  {
+    "id": "poo02d8zdk",
+    "definition": "A software configuration management tool for controlling source versions, baselines, and changes.",
+    "example": "A release engineer records which component versions belong to an approved baseline.",
+    "sense_note": null
+  },
+  {
+    "id": "jqfxxchd9n",
+    "definition": "Microsoft interfaces that allow compatible hardware to accelerate video decoding and other video processing on Windows.",
+    "example": "A media player delegates supported decoding work to the graphics hardware.",
+    "sense_note": "An API technology, not a standalone video player library."
+  },
+  {
+    "id": "mt0t611gxy",
+    "definition": "Guiding others as they learn and practice the teachings of a religious tradition, commonly Christianity.",
+    "example": "A mentor leads regular discussions about applying shared beliefs in everyday situations.",
+    "sense_note": "The scope depends on the community and tradition."
+  },
+  {
+    "id": "o6zctkbed3",
+    "definition": "Handling disagreements by documenting issues, managing communications, and pursuing an appropriate resolution.",
+    "example": "A contract manager coordinates records and discussions for a disputed invoice before mediation.",
+    "sense_note": null
+  },
+  {
+    "id": "op8cesvddr",
+    "definition": "Delivering instruction and supporting learning when participants and instructors are not in the same physical location.",
+    "example": "A teacher combines streamed lessons and asynchronous assignments for remote students.",
+    "sense_note": null
+  },
+  {
+    "id": "wr4w7vpbsx",
+    "definition": "Solving a problem by splitting it into smaller instances, solving those instances, and combining their results.",
+    "example": "Merge sort divides a list, sorts each part, and merges the sorted lists.",
+    "sense_note": null
+  },
+  {
+    "id": "xblbioz2d4",
+    "definition": "An aviation software assurance standard that defines objectives for developing and verifying airborne software.",
+    "example": "An avionics supplier traces safety-related requirements to their software verification evidence.",
+    "sense_note": null
+  },
+  {
+    "id": "g5lqkx80zn",
+    "definition": "A platform and toolset for building, distributing, and running applications in containers.",
+    "example": "A team packages a service and its dependencies in a container image for deployment.",
+    "sense_note": null
+  },
+  {
+    "id": "h6de3ztyj8",
+    "definition": "A family of standards governing data communications over cable television networks.",
+    "example": "A cable modem exchanges broadband data with the operator's network using a supported DOCSIS version.",
+    "sense_note": null
+  },
+  {
+    "id": "a3xx71mj8w",
+    "definition": "Examining collected documents to extract, organize, and assess information relevant to an authorized investigation or analysis.",
+    "example": "An analyst records dates and identifies corroborating records from an authorized document collection.",
+    "sense_note": null
+  },
+  {
+    "id": "x0tkgbv0x1",
+    "definition": "An electronic signature and digital agreement platform used to route documents for approval, signing, and tracking.",
+    "example": "A contracting team sends an approved agreement for electronic signatures and records its completion.",
+    "sense_note": null
+  },
+  {
+    "id": "n0qt1tfnn4",
+    "definition": "A family of United States Department of Defense directives and instructions concerning information assurance and cybersecurity.",
+    "example": null,
+    "sense_note": "Confirm the particular documents and historical version because the series has evolved."
+  },
+  {
+    "id": "kbwn2l59ne",
+    "definition": "A former Department of Defense process for evaluating information system security controls and authorizing systems to operate.",
+    "example": null,
+    "sense_note": "Historical process often abbreviated DIACAP; do not present as the current authorization workflow."
+  },
+  {
+    "id": "o05z05mzxc",
+    "definition": "A Department of Defense instruction establishing how the Risk Management Framework is applied to covered information systems.",
+    "example": null,
+    "sense_note": "Check the applicable edition when a precise requirement is relevant."
+  },
+  {
+    "id": "o5gsg8nzid",
+    "definition": "A Department of Defense architecture framework for describing organizational capabilities, operations, systems, and their relationships through structured views.",
+    "example": "An architect shows which systems support a military organization's information exchanges.",
+    "sense_note": null
+  },
+  {
+    "id": "mte089qu88",
+    "definition": "A JavaScript templating library that generates text or markup by applying templates to data.",
+    "example": "A developer renders a list of records into HTML using a compiled template.",
+    "sense_note": null
+  }
+]

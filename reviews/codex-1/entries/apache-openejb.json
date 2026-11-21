@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache OpenEJB is an implementation of the Enterprise JavaBeans container specification for running enterprise Java components.",
+  "entry_text": "Apache OpenEJB is an implementation of the Enterprise JavaBeans container specification for running enterprise Java components.",
+  "entry_text_kind": "definition",
+  "example": "A developer runs transaction-aware application services in an embedded container during tests.",
+  "id": "xka0j0r454",
+  "key": "apache-openejb",
+  "label": "Apache OpenEJB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

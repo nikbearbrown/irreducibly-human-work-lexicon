@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Snort is a network intrusion detection and prevention system that analyzes traffic against configured rules and protocol information.",
+  "entry_text": "Snort is a network intrusion detection and prevention system that analyzes traffic against configured rules and protocol information.",
+  "entry_text_kind": "definition",
+  "example": "A defender reviews an alert Snort generated while monitoring an authorized network.",
+  "id": "r9mdk24kix",
+  "key": "snort",
+  "label": "Snort",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

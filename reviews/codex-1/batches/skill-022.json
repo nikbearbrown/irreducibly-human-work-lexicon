@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "voxmwb8ban",
+    "key": "hybrid-mobile-app-development",
+    "label": "Hybrid mobile app development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wfzg0h1u35",
+    "key": "hydraulic-snubbing",
+    "label": "Hydraulic snubbing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v4z52o4053",
+    "key": "hydrological-modelling",
+    "label": "Hydrological modelling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nqclhy4oqs",
+    "key": "hyperbaric-welding",
+    "label": "Hyperbaric welding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hbm2c56yvw",
+    "key": "i2c",
+    "label": "I2C",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zmnv3c76qo",
+    "key": "iad",
+    "label": "iAd",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rf1t7hc1e3",
+    "key": "iar-embedded-workbench",
+    "label": "IAR Embedded Workbench",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qz19nh82dh",
+    "key": "ibeacon",
+    "label": "iBeacon",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jjws8r6d9o",
+    "key": "ibm-bluemix",
+    "label": "IBM Bluemix",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kqgsngz45v",
+    "key": "ibm-business-process-manager",
+    "label": "IBM Business Process Manager",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vol7cmmy3l",
+    "key": "ibm-cl-supersession",
+    "label": "IBM CL/SuperSession",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f4mh2r0h0g",
+    "key": "ibm-data-studio",
+    "label": "IBM Data Studio",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z56mohhtsh",
+    "key": "ibm-eserver",
+    "label": "IBM eServer",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zj1neae89l",
+    "key": "ibm-filenet",
+    "label": "IBM FileNet",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cqlp6occgg",
+    "key": "ibm-informix",
+    "label": "IBM Informix",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rem7cfer6b",
+    "key": "ibm-officevision",
+    "label": "IBM OfficeVision",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zh8dyj880g",
+    "key": "ibm-power10",
+    "label": "IBM POWER10",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ztfqr0o2n3",
+    "key": "ibm-power7",
+    "label": "IBM POWER7",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k6ns4jdo7n",
+    "key": "ibm-power8",
+    "label": "IBM POWER8",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gohjwxc1ev",
+    "key": "ibm-power9",
+    "label": "IBM POWER9",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gxsy4ozai7",
+    "key": "ibm-qradar",
+    "label": "IBM QRadar",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bz134aih1f",
+    "key": "ibm-rational-application-developer",
+    "label": "IBM Rational Application Developer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zghrwejt65",
+    "key": "ibm-tivoli-enterprise-console",
+    "label": "IBM Tivoli Enterprise Console",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sgnyk2ryn0",
+    "key": "ibm-websphere-application-server",
+    "label": "IBM WebSphere Application Server",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ev74bf3h3g",
+    "key": "icd-coding",
+    "label": "ICD coding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kqjbnw5tmx",
+    "key": "ich-guidelines",
+    "label": "ICH guidelines",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ff2sy7qrjo",
+    "key": "icmpv6",
+    "label": "ICMPv6",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dxkq536gow",
+    "key": "ida-pro",
+    "label": "IDA Pro",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f2phqfe4e5",
+    "key": "ideation",
+    "label": "Ideation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j0ybg3llnc",
+    "key": "identity-management",
+    "label": "Identity management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nu5e6kxo1b",
+    "key": "ids-infolease",
+    "label": "IDS InfoLease",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p0gghnb84i",
+    "key": "ieee-1394",
+    "label": "IEEE 1394",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ctjpk6qa7z",
+    "key": "ieee-1547",
+    "label": "IEEE 1547",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g9mmd5pvdg",
+    "key": "ifs-applications",
+    "label": "IFS Applications",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rgbts5kl0x",
+    "key": "iis-manager",
+    "label": "IIS Manager",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z61wlp9lki",
+    "key": "imac-g4",
+    "label": "iMac G4",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iti6qwphys",
+    "key": "imac-g5",
+    "label": "iMac G5",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q8atqsmjrm",
+    "key": "image-generation",
+    "label": "Image generation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gem70slfnb",
+    "key": "image-segmentation",
+    "label": "Image segmentation",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a74793xzn5",
+    "key": "immutable-js",
+    "label": "Immutable.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  }
+]

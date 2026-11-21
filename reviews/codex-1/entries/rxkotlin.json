@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "RxKotlin adds Kotlin-friendly extensions and utilities for composing reactive streams with RxJava.",
+  "entry_text": "RxKotlin adds Kotlin-friendly extensions and utilities for composing reactive streams with RxJava.",
+  "entry_text_kind": "definition",
+  "example": "A developer uses an extension to combine the latest readings from two observable data streams.",
+  "id": "y13h71ry03",
+  "key": "rxkotlin",
+  "label": "RxKotlin",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

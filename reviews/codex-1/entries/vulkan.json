@@ -1,0 +1,20 @@
+{
+  "batch": "skill-047.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Vulkan is a cross-platform API for explicit control of graphics and compute work on compatible hardware.",
+  "entry_text": "Vulkan is a cross-platform API for explicit control of graphics and compute work on compatible hardware.",
+  "entry_text_kind": "definition",
+  "example": "A renderer submits drawing commands to a GPU using Vulkan.",
+  "id": "nedtcwz5ap",
+  "key": "vulkan",
+  "label": "Vulkan",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

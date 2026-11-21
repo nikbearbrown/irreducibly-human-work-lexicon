@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Onboarding helps a new employee, customer or other participant learn procedures and gain the access and information needed to begin.",
+  "entry_text": "Onboarding helps a new employee, customer or other participant learn procedures and gain the access and information needed to begin.",
+  "entry_text_kind": "definition",
+  "example": "A manager introduces a new employee to team responsibilities and schedules required training.",
+  "id": "q57gehopyn",
+  "key": "onboarding",
+  "label": "Onboarding",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The target population depends on context.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

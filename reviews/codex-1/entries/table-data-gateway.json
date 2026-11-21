@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A table data gateway is an application design pattern that centralizes access to the rows of a database table or view in a single gateway object.",
+  "entry_text": "A table data gateway is an application design pattern that centralizes access to the rows of a database table or view in a single gateway object.",
+  "entry_text_kind": "definition",
+  "example": "An application sends customer insert and lookup operations through one gateway instead of scattering SQL throughout the code.",
+  "id": "hc5hip223s",
+  "key": "table-data-gateway",
+  "label": "Table data gateway",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Administering the inventory, configuration, updates, and policies of managed devices.",
+  "entry_text": "Administering the inventory, configuration, updates, and policies of managed devices.",
+  "entry_text_kind": "definition",
+  "example": "An IT team checks that employee laptops have received required operating-system updates.",
+  "id": "e61znnqfwb",
+  "key": "endpoint-management",
+  "label": "Endpoint management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

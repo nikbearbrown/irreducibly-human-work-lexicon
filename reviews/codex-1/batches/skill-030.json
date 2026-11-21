@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "m2d5d0743r",
+    "key": "molecular-docking",
+    "label": "Molecular docking",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lyvcnj21am",
+    "key": "molecular-modelling",
+    "label": "Molecular modelling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wck3opdy5d",
+    "key": "molisch-s-test",
+    "label": "Molisch's test",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e877q80t32",
+    "key": "moment-js",
+    "label": "Moment.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l0340qjhfp",
+    "key": "monetdb",
+    "label": "MonetDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fjma3u3f19",
+    "key": "mongoengine",
+    "label": "MongoEngine",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "urb8bix86y",
+    "key": "mongoose",
+    "label": "Mongoose",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ujd32t22iy",
+    "key": "mongovue",
+    "label": "MongoVue",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mwc6g16twz",
+    "key": "mortgage-electronic-registration-system",
+    "label": "Mortgage Electronic Registration System",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i6hs4i5v7l",
+    "key": "mosaic-art",
+    "label": "Mosaic art",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tu4rs5w9ul",
+    "key": "motion-graphics-software",
+    "label": "Motion graphics software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fl0mme2six",
+    "key": "motion-graphics",
+    "label": "Motion graphics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ypoy7kwjyw",
+    "key": "motor-control-algorithms",
+    "label": "Motor control algorithms",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sdaw9r1pvj",
+    "key": "movable-type",
+    "label": "Movable Type",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kc4y604tiy",
+    "key": "moz-pro",
+    "label": "Moz Pro",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a80qfhw79g",
+    "key": "mp-m",
+    "label": "MP/M",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "abvr1rryof",
+    "key": "mri-software",
+    "label": "MRI Software",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uacnrdn102",
+    "key": "mstest",
+    "label": "MSTest",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i2li0qyuwf",
+    "key": "mud-pump",
+    "label": "Mud pump",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jp5f35cnyj",
+    "key": "mulesoft",
+    "label": "MuleSoft",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jr2nlrschs",
+    "key": "multi-core-programming",
+    "label": "Multi-core programming",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d585rvfjpc",
+    "key": "multi-device-design",
+    "label": "Multi-device design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "flcu1xych1",
+    "key": "multichannel-marketing",
+    "label": "Multichannel marketing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r1y15eavgh",
+    "key": "music-instruction",
+    "label": "Music instruction",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "om7xg83nw7",
+    "key": "nagle-s-algorithm",
+    "label": "Nagle's algorithm",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m39ohmnxq1",
+    "key": "naive-bayes",
+    "label": "Naive Bayes",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qzzi26hkh7",
+    "key": "namenode",
+    "label": "NameNode",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i31i4j847r",
+    "key": "nant",
+    "label": "NAnt",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wbk6o1s30r",
+    "key": "nasotracheal-suctioning",
+    "label": "Nasotracheal suctioning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nvcrix34g7",
+    "key": "national-geothermal-data-system",
+    "label": "National Geothermal Data System",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e8vb2pds5k",
+    "key": "nationwide-multistate-licensing-system",
+    "label": "Nationwide Multistate Licensing System",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ff38barlkn",
+    "key": "nativescript",
+    "label": "NativeScript",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d168utcmjy",
+    "key": "natural-language-processing",
+    "label": "Natural language processing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z0p46eqsxu",
+    "key": "navigational-aid",
+    "label": "Navigational aid",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gowylqqu55",
+    "key": "navisworks",
+    "label": "Navisworks",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u5dz59qduc",
+    "key": "nedgraphics",
+    "label": "NedGraphics",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ewf1nb7uzl",
+    "key": "needle-localization",
+    "label": "Needle localization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cwe2s6tnyg",
+    "key": "neonatal-intensive-care-nursing",
+    "label": "Neonatal intensive care nursing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rgmb82njzm",
+    "key": "net-development",
+    "label": ".NET development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "it4ad3hs7q",
+    "key": "net-promoter-score",
+    "label": "Net Promoter Score",
+    "onet_codes": [],
+    "original_kind": "method"
+  }
+]

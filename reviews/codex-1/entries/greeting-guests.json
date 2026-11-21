@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Welcoming visitors in a way that acknowledges their arrival and provides initial orientation or assistance.",
+  "entry_text": "Welcoming visitors in a way that acknowledges their arrival and provides initial orientation or assistance.",
+  "entry_text_kind": "definition",
+  "example": "A receptionist welcomes a visitor and directs them to the correct meeting room.",
+  "id": "nnpo33gfsf",
+  "key": "greeting-guests",
+  "label": "Greeting guests",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,28 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Border studies examines how territorial boundaries are created, governed, crossed, and experienced and how they shape communities and identities.",
+  "entry_text": "Border studies examines how territorial boundaries are created, governed, crossed, and experienced and how they shape communities and identities.",
+  "entry_text_kind": "definition",
+  "example": "A researcher studies how new border procedures change the daily commute of workers in neighboring towns.",
+  "id": "yzj1md842p",
+  "key": "border-studies",
+  "label": "Border studies",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "yzj1md842p",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Radboud’s program documents political bordering, mobility, and unequal consequences. The commute is an illustrative research question.",
+      "packet": "worker-stratified.json",
+      "ref": "https://www.ru.nl/en/education/masters/borders-migration-and-justice/why-this-programme",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

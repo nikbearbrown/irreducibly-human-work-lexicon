@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Therapeutic interventions are planned actions intended to alleviate symptoms, improve functioning, or support recovery in a care context.",
+  "entry_text": "Therapeutic interventions are planned actions intended to alleviate symptoms, improve functioning, or support recovery in a care context.",
+  "entry_text_kind": "definition",
+  "example": "A clinician selects a supervised exercise program to help a patient regain functional mobility.",
+  "id": "i77a6xif9h",
+  "key": "therapeutic-interventions",
+  "label": "Therapeutic interventions",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Broad label spans physical health, mental health, and other therapeutic contexts.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

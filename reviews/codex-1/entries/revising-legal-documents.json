@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Revising legal documents involves updating text to reflect instructions, preserve legal meaning, and maintain consistency across clauses and references.",
+  "entry_text": "Revising legal documents involves updating text to reflect instructions, preserve legal meaning, and maintain consistency across clauses and references.",
+  "entry_text_kind": "definition",
+  "example": "A reviewer updates an agreement's payment date and checks that defined terms and cross-references still work.",
+  "id": "gomxwo1cp5",
+  "key": "revising-legal-documents",
+  "label": "Revising legal documents",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

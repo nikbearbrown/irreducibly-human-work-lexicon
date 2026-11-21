@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "tx4y2yxh6j",
+    "key": "impact-js",
+    "label": "Impact.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g0hke08uav",
+    "key": "incentive-spirometry",
+    "label": "Incentive spirometry",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g5ll2usbzr",
+    "key": "incident-reporting",
+    "label": "Incident reporting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bttz5za9v1",
+    "key": "indexeddb",
+    "label": "IndexedDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rs9ggylkfu",
+    "key": "influencing",
+    "label": "Influencing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qad0uw5btk",
+    "key": "influxdb",
+    "label": "InfluxDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ggm9c4xs9a",
+    "key": "infoblox-ipam",
+    "label": "Infoblox IPAM",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i4vule328g",
+    "key": "infographics",
+    "label": "Infographics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "seeljv809d",
+    "key": "information-advice-and-guidance",
+    "label": "Information, advice and guidance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bd8wbhizin",
+    "key": "information-evaluation",
+    "label": "Information evaluation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bxmawi82qq",
+    "key": "information-hiding",
+    "label": "Information hiding",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gbsppteik8",
+    "key": "information-leak-prevention",
+    "label": "Information leak prevention",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bq1135r6rn",
+    "key": "information-technology-audit",
+    "label": "Information technology audit",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lc2rcp825q",
+    "key": "infusion-enterprise-control-system",
+    "label": "InFusion Enterprise Control System",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p98xjhlkpu",
+    "key": "ingres",
+    "label": "Ingres",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wtrq54ml3i",
+    "key": "innodb",
+    "label": "InnoDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w5pn5u48dh",
+    "key": "inpatient-obstetric-nursing",
+    "label": "Inpatient obstetric nursing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jt5tote9cr",
+    "key": "inside-sales-management",
+    "label": "Inside sales management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jx2hqz8q8r",
+    "key": "insightvm",
+    "label": "InsightVM",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n71b651xn5",
+    "key": "instagram-advertising",
+    "label": "Instagram advertising",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e41wx7aie8",
+    "key": "instagram-content-creation",
+    "label": "Instagram content creation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "canygbhhr1",
+    "key": "instagram-marketing",
+    "label": "Instagram marketing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qubow4whki",
+    "key": "instagram-stories",
+    "label": "Instagram Stories",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p1dlftn9sg",
+    "key": "instagram",
+    "label": "Instagram",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c3bimmt0do",
+    "key": "integrity-rtos",
+    "label": "INTEGRITY RTOS",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g0k226qn7c",
+    "key": "intel-viiv",
+    "label": "Intel Viiv",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fpv3wcolic",
+    "key": "intelligent-automation",
+    "label": "Intelligent automation",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kx3006o03p",
+    "key": "intensive-outpatient-therapy",
+    "label": "Intensive outpatient therapy",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m9s424jy6t",
+    "key": "interactive-3d",
+    "label": "Interactive 3D",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qxmxb2pd9w",
+    "key": "interactive-design",
+    "label": "Interactive design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l6oh8z1sgb",
+    "key": "interactive-storytelling",
+    "label": "Interactive storytelling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qpdq0k0dbj",
+    "key": "interactive-web-content",
+    "label": "Interactive web content",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v716ee80n4",
+    "key": "interactive-web-design",
+    "label": "Interactive web design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "prurki4ppc",
+    "key": "interactive-web-development",
+    "label": "Interactive web development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ft6xjcgltn",
+    "key": "interdisciplinary-collaboration",
+    "label": "Interdisciplinary collaboration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w4geod402w",
+    "key": "internal-investigations",
+    "label": "Internal investigations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rscqfs498r",
+    "key": "international-standard-book-number",
+    "label": "International Standard Book Number",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ixm7ora2sc",
+    "key": "internet-control-message-protocol",
+    "label": "Internet Control Message Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v1edze49tk",
+    "key": "internet-message-access-protocol",
+    "label": "Internet Message Access Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "npe8caepoo",
+    "key": "internet-protocol-suite",
+    "label": "Internet protocol suite",
+    "onet_codes": [],
+    "original_kind": "standard"
+  }
+]

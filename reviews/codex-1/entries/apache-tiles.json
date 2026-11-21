@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache Tiles is a Java web presentation framework for composing pages from reusable layout fragments.",
+  "entry_text": "Apache Tiles is a Java web presentation framework for composing pages from reusable layout fragments.",
+  "entry_text_kind": "definition",
+  "example": "A team shares navigation and footer fragments across several web pages.",
+  "id": "awczms31u7",
+  "key": "apache-tiles",
+  "label": "Apache Tiles",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

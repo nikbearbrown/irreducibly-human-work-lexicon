@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "npm is the package-management tool and associated registry ecosystem commonly used to distribute and manage JavaScript dependencies.",
+  "entry_text": "npm is the package-management tool and associated registry ecosystem commonly used to distribute and manage JavaScript dependencies.",
+  "entry_text_kind": "definition",
+  "example": "A developer installs the dependency versions recorded in a project's lockfile.",
+  "id": "gkq7vbv3ql",
+  "key": "npm",
+  "label": "npm",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "May refer specifically to the command-line tool or the registry ecosystem.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

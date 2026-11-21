@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Ultraviolet-visible spectroscopy measures how a sample absorbs or transmits ultraviolet and visible light as a function of wavelength.",
+  "entry_text": "Ultraviolet-visible spectroscopy measures how a sample absorbs or transmits ultraviolet and visible light as a function of wavelength.",
+  "entry_text_kind": "definition",
+  "example": "An analyst compares a sample's absorbance against calibration standards to estimate concentration.",
+  "id": "qpaummw5j4",
+  "key": "ultraviolet-visible-spectroscopy",
+  "label": "Ultraviolet-visible spectroscopy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

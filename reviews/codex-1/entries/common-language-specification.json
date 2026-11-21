@@ -1,0 +1,20 @@
+{
+  "batch": "skill-010.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Common Language Specification defines a subset of .NET language features that libraries can follow to interoperate across supported languages.",
+  "entry_text": "The Common Language Specification defines a subset of .NET language features that libraries can follow to interoperate across supported languages.",
+  "entry_text_kind": "definition",
+  "example": "A library author avoids exporting a type signature that another supported language cannot consume.",
+  "id": "x1qzxo9lhl",
+  "key": "common-language-specification",
+  "label": "Common Language Specification",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

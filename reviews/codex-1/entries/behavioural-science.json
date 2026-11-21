@@ -1,0 +1,28 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Behavioural science examines how people or other organisms act and how psychological, social, and environmental factors shape those actions.",
+  "entry_text": "Behavioural science examines how people or other organisms act and how psychological, social, and environmental factors shape those actions.",
+  "entry_text_kind": "definition",
+  "example": "A researcher tests whether changing the default meeting reminder increases attendance.",
+  "id": "oia7a9p9lz",
+  "key": "behavioural-science",
+  "label": "Behavioural science",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "oia7a9p9lz",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. OECD supports the interdisciplinary human behavior scope and application; this source does not verify draft’s broader claim about other organisms.",
+      "packet": "worker-stratified.json",
+      "ref": "https://www.oecd.org/en/topics/behavioural-science.html",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "d3liyhugq1",
+    "definition": "Automotive finance concerns the structures, costs, and risks of loans, leases, and other arrangements that fund vehicles or vehicle inventories.",
+    "example": "A dealership compares the financing costs of carrying unsold vehicles under different inventory-credit terms.",
+    "sense_note": null
+  },
+  {
+    "id": "gar91e3y2c",
+    "definition": "An automotive loan is credit used to purchase a vehicle, which typically serves as collateral for repayment.",
+    "example": "A borrower compares monthly payments and total interest for the same car under two loan terms.",
+    "sense_note": null
+  },
+  {
+    "id": "eixg7h0h2o",
+    "definition": "The autonomic nervous system regulates functions typically outside conscious control, including heart rate, digestion, and blood vessel tone.",
+    "example": "When someone stands, autonomic reflexes can help maintain blood pressure by adjusting heart rate and vascular tone.",
+    "sense_note": null
+  },
+  {
+    "id": "w9n8sme4x4",
+    "definition": "A B-tree is a balanced multiway search tree that keeps keys sorted and limits the number of nodes visited for lookups and updates.",
+    "example": "A database uses a B-tree index to find a range of invoice dates without scanning every invoice.",
+    "sense_note": null
+  },
+  {
+    "id": "du49l1vv1p",
+    "definition": "Bacteriology is the study of bacteria, including their diversity, structure, physiology, ecology, and roles in health and disease.",
+    "example": "An instructor compares beneficial gut bacteria and disease-associated bacteria to explain why bacteria are not all harmful.",
+    "sense_note": null
+  },
+  {
+    "id": "rhj2gox2bc",
+    "definition": "Barcode systems encode identifiers in machine-readable patterns and use scanners and software to connect those identifiers to records or transactions.",
+    "example": "A warehouse scans a carton barcode to match the carton to its shipment record.",
+    "sense_note": null
+  },
+  {
+    "id": "dfc9xr7d51",
+    "definition": "Bariatric surgery encompasses operations that alter the digestive system to treat obesity and associated metabolic conditions.",
+    "example": "A care team compares the expected benefits and long-term follow-up needs of different bariatric operations.",
+    "sense_note": null
+  },
+  {
+    "id": "u8jwh1zpt8",
+    "definition": "A basic block is a maximal sequence of machine or intermediate instructions entered at the beginning and executed in order until control leaves at the end.",
+    "example": "A compiler treats the instructions between a branch target and a conditional jump as a unit during optimization.",
+    "sense_note": null
+  },
+  {
+    "id": "mrubr5ybum",
+    "definition": "Battery technology concerns devices that store chemical energy and deliver it as electrical energy, including their materials, design, safety, and performance.",
+    "example": "An engineer compares cycle life and capacity when selecting batteries for a solar backup system.",
+    "sense_note": null
+  },
+  {
+    "id": "oia7a9p9lz",
+    "definition": "Behavioural science examines how people or other organisms act and how psychological, social, and environmental factors shape those actions.",
+    "example": "A researcher tests whether changing the default meeting reminder increases attendance.",
+    "sense_note": null
+  },
+  {
+    "id": "atdk6aaopa",
+    "definition": "Big O notation describes an asymptotic upper bound on how a function grows, ignoring constant factors beyond a sufficiently large input size.",
+    "example": "An algorithm using a number of comparisons proportional to the square of its input size can be described as O(n²).",
+    "sense_note": null
+  },
+  {
+    "id": "pm5q2pbpgx",
+    "definition": "A bill of materials lists the components, materials, quantities, and often subassemblies needed to make a product.",
+    "example": "A manufacturer uses the bill of materials for a lamp to order the right numbers of housings, switches, and fasteners.",
+    "sense_note": null
+  },
+  {
+    "id": "ndr4eqq5k6",
+    "definition": "A binary option is a financial contract whose payoff takes one of two predetermined values depending on whether a specified condition holds at expiry.",
+    "example": "A contract pays a fixed amount if an index is above its strike at expiry and nothing if it is not.",
+    "sense_note": null
+  },
+  {
+    "id": "aero8oblws",
+    "definition": "Biochemical genetics studies how variation in genes affects enzymes, metabolites, and other biochemical processes.",
+    "example": "A researcher studies how an inherited enzyme deficiency changes levels of a metabolite in patients.",
+    "sense_note": null
+  },
+  {
+    "id": "h1yzwdb0b3",
+    "definition": "Biological applications of bifurcation theory study how a change in a model parameter can cause a qualitative shift in the modeled behavior of a biological system.",
+    "example": "An ecologist models how an increase in nutrient input might shift a lake from one persistent ecosystem state to another.",
+    "sense_note": null
+  },
+  {
+    "id": "fn8par41c3",
+    "definition": "Biomedical informatics develops and applies methods for representing, managing, and using data and information in biology, medicine, and public health.",
+    "example": "A hospital standardizes laboratory records so clinicians can compare a patient's results over time across departments.",
+    "sense_note": null
+  },
+  {
+    "id": "rvsvd49up9",
+    "definition": "Biomolecular engineering applies engineering principles to the design, analysis, or use of biological molecules and molecular systems.",
+    "example": "A materials team studies how molecular properties affect the performance of a protein-based material.",
+    "sense_note": null
+  },
+  {
+    "id": "xu0azmubfo",
+    "definition": "A biopesticide is a pest-control agent based on a living organism, a naturally derived substance, or a pesticidal substance produced by a plant, subject to how the term is defined by the regulator.",
+    "example": "A grower checks whether a registered insect-control product is classified as a biopesticide.",
+    "sense_note": null
+  },
+  {
+    "id": "cjyg2bfrqe",
+    "definition": "Biosensors combine a biological recognition element with a signal-converting component to detect or measure a substance or condition.",
+    "example": "A glucose meter converts a reaction involving glucose into an electrical signal used to estimate its concentration.",
+    "sense_note": null
+  },
+  {
+    "id": "o7mfnp1pfo",
+    "definition": "Bioterrorism preparedness and response encompasses public-health planning, detection, communication, and coordinated care to limit harm from deliberate biological incidents.",
+    "example": "A public-health team runs a tabletop exercise to check how hospitals and health agencies would coordinate public information.",
+    "sense_note": null
+  },
+  {
+    "id": "m8gmr3txqk",
+    "definition": "Bismuth sulfite agar is a selective and differential microbiological medium historically used in screening for certain Salmonella, including Salmonella Typhi.",
+    "example": "A microbiology student identifies the medium in an archival laboratory report and distinguishes a presumptive screen from confirmation.",
+    "sense_note": null
+  },
+  {
+    "id": "fygo8wubvo",
+    "definition": "Boiler draft is the pressure difference that moves combustion air into a boiler and carries flue gases out.",
+    "example": "A plant operator monitors draft to distinguish restricted flue flow from normal boiler operation.",
+    "sense_note": null
+  },
+  {
+    "id": "njv3f0ufws",
+    "definition": "Boolean algebra is a formal system for combining and simplifying true-or-false values using operations such as AND, OR, and NOT.",
+    "example": "A designer uses Boolean algebra to simplify the logic determining whether a warning light turns on.",
+    "sense_note": null
+  },
+  {
+    "id": "yzj1md842p",
+    "definition": "Border studies examines how territorial boundaries are created, governed, crossed, and experienced and how they shape communities and identities.",
+    "example": "A researcher studies how new border procedures change the daily commute of workers in neighboring towns.",
+    "sense_note": null
+  },
+  {
+    "id": "evst0xb1l8",
+    "definition": "Breast surgery encompasses operations on breast tissue performed for diagnosis, treatment, reconstruction, or changes in appearance.",
+    "example": "A surgical team plans how breast reconstruction might fit into a patient's treatment and recovery schedule.",
+    "sense_note": null
+  },
+  {
+    "id": "mxl01lm0t7",
+    "definition": "Builder's risk insurance covers specified property loss or damage to a building under construction and may cover related materials, subject to policy terms.",
+    "example": "After a covered fire damages an unfinished building, the project owner consults the policy to determine whether replacement materials qualify.",
+    "sense_note": null
+  },
+  {
+    "id": "z4vtam14dw",
+    "definition": "A callback is a function supplied to another component so that component can invoke it at a designated point or in response to an event.",
+    "example": "A program gives its file reader a callback that updates the screen once reading finishes.",
+    "sense_note": null
+  },
+  {
+    "id": "mkb0siub2w",
+    "definition": "Cannabis regulations are jurisdiction-specific rules governing permitted activities involving cannabis, such as production, testing, sale, possession, and use.",
+    "example": "A compliance worker checks labeling and testing requirements before releasing a regulated product in a particular jurisdiction.",
+    "sense_note": null
+  },
+  {
+    "id": "hpvywql8oq",
+    "definition": "The capital asset pricing model relates an asset's expected return to the risk-free rate and its sensitivity to the market risk premium.",
+    "example": "An analyst uses a firm's equity beta and an assumed market premium to estimate its cost of equity.",
+    "sense_note": null
+  },
+  {
+    "id": "s2nhx2485d",
+    "definition": "Captive insurance uses an insurer owned or controlled by the organization or group it is formed to insure.",
+    "example": "Several affiliated companies use a captive insurer to pool a defined share of their own property risks.",
+    "sense_note": null
+  },
+  {
+    "id": "mdtu8qicbk",
+    "definition": "Cardiac surgery is the surgical treatment of conditions affecting the heart and its closely associated major vessels.",
+    "example": "A surgical team repairs a damaged heart valve to restore more effective blood flow.",
+    "sense_note": null
+  },
+  {
+    "id": "gyc8aazwuc",
+    "definition": "Cardiothoracic surgery is the specialty concerned with operations on the heart and other organs and structures of the chest.",
+    "example": "A cardiothoracic service includes both heart valve procedures and operations to remove diseased lung tissue.",
+    "sense_note": null
+  },
+  {
+    "id": "jkwrklfl9h",
+    "definition": "Cardiovascular physiology studies how the heart, blood vessels, and their regulatory mechanisms circulate blood and maintain tissue perfusion.",
+    "example": "A student explains how heart rate and stroke volume contribute to increased cardiac output during exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "fo93ho62h9",
+    "definition": "Chemical reactions transform substances by rearranging atoms, ions, or electrons to form products with chemical identities different from the reactants.",
+    "example": "Iron reacts with oxygen in the presence of moisture to form products commonly called rust.",
+    "sense_note": null
+  },
+  {
+    "id": "iocx2qlgxq",
+    "definition": "Child and adolescent psychiatry is the medical specialty concerned with assessing, preventing, and treating mental health conditions in children and adolescents.",
+    "example": "A psychiatrist works with a teenager, family, and school to assess how anxiety affects attendance.",
+    "sense_note": null
+  },
+  {
+    "id": "jdnt5uczex",
+    "definition": "Child nutrition concerns children's dietary needs, feeding practices, and the relationship between nutrients, growth, development, and health.",
+    "example": "A school meal planner considers age-appropriate portions and nutrient needs when designing a lunch menu.",
+    "sense_note": null
+  },
+  {
+    "id": "qzjv1z5cug",
+    "definition": "The Children's Health Insurance Program is a U.S. federal-state program that provides coverage to eligible children, generally in families whose income is too high for Medicaid but insufficient for affordable private coverage.",
+    "example": "A family checks its state's CHIP eligibility after learning its children do not qualify for Medicaid.",
+    "sense_note": null
+  },
+  {
+    "id": "qatr9a0kcz",
+    "definition": "Children's ministry is the work of a religious community to provide children with age-appropriate religious education, participation, and pastoral care.",
+    "example": "A congregation organizes a supervised children's lesson using stories, questions, and activities suited to different ages.",
+    "sense_note": null
+  },
+  {
+    "id": "n2hw22jw1r",
+    "definition": "Chlorofluorocarbons are compounds containing carbon, chlorine, and fluorine that can deplete stratospheric ozone after breaking down and releasing chlorine.",
+    "example": "A technician identifies a legacy refrigerant as a CFC when documenting equipment for proper disposal.",
+    "sense_note": null
+  },
+  {
+    "id": "xc5h12foes",
+    "definition": "Choral music is music composed or arranged for a group of singers, who may sing in unison or in multiple parts.",
+    "example": "A choir rehearses a piece in which sopranos and altos sing different melodic lines against the tenors and basses.",
+    "sense_note": null
+  }
+]

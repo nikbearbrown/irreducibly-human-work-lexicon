@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Stable Diffusion is a family of image generation models that use diffusion processes in a compressed representation to create or modify images from conditions such as text.",
+  "entry_text": "Stable Diffusion is a family of image generation models that use diffusion processes in a compressed representation to create or modify images from conditions such as text.",
+  "entry_text_kind": "definition",
+  "example": "An illustrator uses text prompts to explore visual directions before drawing the final scene.",
+  "id": "vz9yf51h4p",
+  "key": "stable-diffusion",
+  "label": "Stable Diffusion",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

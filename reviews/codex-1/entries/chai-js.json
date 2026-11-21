@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Chai.js is a JavaScript assertion library for expressing and checking expected conditions in tests.",
+  "entry_text": "Chai.js is a JavaScript assertion library for expressing and checking expected conditions in tests.",
+  "entry_text_kind": "definition",
+  "example": "A unit test checks that a returned record has the required properties and values.",
+  "id": "k4asujsweb",
+  "key": "chai-js",
+  "label": "Chai.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

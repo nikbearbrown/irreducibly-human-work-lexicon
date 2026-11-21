@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Commissioning, qualification and validation are coordinated activities for putting a system into service, verifying specified operation, and documenting consistent fitness for intended use.",
+  "entry_text": "Commissioning, qualification and validation are coordinated activities for putting a system into service, verifying specified operation, and documenting consistent fitness for intended use.",
+  "entry_text_kind": "definition",
+  "example": "An equipment team tests a newly installed line against requirements before documenting its authorized production use.",
+  "id": "vrm9lzl1br",
+  "key": "commissioning-qualification-and-validation",
+  "label": "Commissioning, qualification and validation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

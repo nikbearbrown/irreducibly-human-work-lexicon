@@ -1,0 +1,20 @@
+{
+  "batch": "skill-036.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Product requirements documentation records what a product or change must do, for whom, and under what constraints or acceptance conditions.",
+  "entry_text": "Product requirements documentation records what a product or change must do, for whom, and under what constraints or acceptance conditions.",
+  "entry_text_kind": "definition",
+  "example": "A product manager writes measurable criteria for a returns workflow.",
+  "id": "zq3dwmyih3",
+  "key": "product-requirements-documentation",
+  "label": "Product requirements documentation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

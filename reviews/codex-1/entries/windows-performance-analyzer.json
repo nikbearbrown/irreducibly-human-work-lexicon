@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Windows Performance Analyzer examines recorded Windows performance traces using graphs and tables.",
+  "entry_text": "Windows Performance Analyzer examines recorded Windows performance traces using graphs and tables.",
+  "entry_text_kind": "definition",
+  "example": "An engineer inspects a trace to see whether CPU or disk activity coincides with a slow launch.",
+  "id": "jfr592yy2c",
+  "key": "windows-performance-analyzer",
+  "label": "Windows Performance Analyzer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A dynamic, object-oriented programming language with support for blocks and iterators.",
+  "entry_text": "A dynamic, object-oriented programming language with support for blocks and iterators.",
+  "entry_text_kind": "definition",
+  "example": "A developer groups records using a Ruby block.",
+  "id": "s3rdirqwq6",
+  "key": "ruby",
+  "label": "Ruby",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

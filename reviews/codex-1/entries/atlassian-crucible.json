@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Atlassian Crucible is a tool for collaborative code review and discussion of changes.",
+  "entry_text": "Atlassian Crucible is a tool for collaborative code review and discussion of changes.",
+  "entry_text_kind": "definition",
+  "example": "Reviewers annotate specific lines and track issues before accepting a change.",
+  "id": "w53hiak9py",
+  "key": "atlassian-crucible",
+  "label": "Atlassian Crucible",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

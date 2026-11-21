@@ -1,0 +1,92 @@
+[
+  {
+    "id": "yegnhni99h",
+    "definition": "Adaptability is the capacity to adjust one's methods or behavior when requirements, circumstances, or available information change.",
+    "example": "When a venue becomes unavailable, an organizer redesigns the event for a smaller room without dropping its essential activities.",
+    "sense_note": null
+  },
+  {
+    "id": "gdzh66chlx",
+    "definition": "Attention to detail is the capacity to notice and verify small elements whose omission or inconsistency could affect the result.",
+    "example": "A payroll reviewer catches a transposed digit in an employee's recorded hours before the payment goes out.",
+    "sense_note": null
+  },
+  {
+    "id": "njlcvlg504",
+    "definition": "Causal reasoning is the ability to judge whether a change or event produces an outcome rather than merely accompanying it.",
+    "example": "An analyst compares randomly assigned groups to determine whether a new reminder actually increased attendance.",
+    "sense_note": null
+  },
+  {
+    "id": "ce6c1rs0jk",
+    "definition": "Emotional stability is a tendency to maintain relatively steady emotional responses and recover composure under stress.",
+    "example": "A dispatcher remains composed during a surge of calls and continues applying the same triage criteria.",
+    "sense_note": "Better understood as a disposition than as a discrete cognitive ability."
+  },
+  {
+    "id": "g32rgj6uc5",
+    "definition": "Being goal-oriented is a tendency to organize and prioritize work around a specified objective.",
+    "example": "A tutor uses the student's target reading level to choose exercises and measure progress each week.",
+    "sense_note": "The adjectival label describes a work orientation."
+  },
+  {
+    "id": "my2u4mc16o",
+    "definition": "Ingenuity is the capacity to devise a resourceful solution when standard methods or available resources are insufficient.",
+    "example": "A teacher turns spare cardboard and rubber bands into a working model of a lever for class.",
+    "sense_note": null
+  },
+  {
+    "id": "rrzqh6zhic",
+    "definition": "Patience is the capacity to tolerate delay, repetition, or frustration while continuing to act deliberately.",
+    "example": "A mentor lets a learner work through several attempts before offering another hint.",
+    "sense_note": null
+  },
+  {
+    "id": "sg1xfslxld",
+    "definition": "Quick learning is the capacity to acquire and apply unfamiliar information or procedures with relatively little instruction or practice.",
+    "example": "After a short demonstration, a technician correctly uses an unfamiliar inventory screen to receive a shipment.",
+    "sense_note": null
+  },
+  {
+    "id": "gov0d8zbms",
+    "definition": "Resilience is the capacity to recover or adapt after setbacks, adversity, or sustained pressure.",
+    "example": "After a prototype fails a trial, a team member processes the feedback and returns to the work with a revised plan.",
+    "sense_note": null
+  },
+  {
+    "id": "id244h1e6v",
+    "definition": "Being results-oriented is a tendency to judge work by its demonstrated outcomes rather than by activity alone.",
+    "example": "A support lead checks whether a new help page reduced repeat questions, not just how many articles were published.",
+    "sense_note": "The adjectival label describes a work orientation."
+  },
+  {
+    "id": "k2ayt41ale",
+    "definition": "Self-confidence is trust in one's capacity to act or exercise judgment in a situation, without implying that the judgment is correct.",
+    "example": "A junior designer explains a design choice to a review panel while remaining open to counterevidence.",
+    "sense_note": "Better understood as a disposition or belief than as a discrete cognitive ability."
+  },
+  {
+    "id": "hq2g370jgj",
+    "definition": "A self-starter identifies and begins useful work without needing detailed instructions or repeated prompting.",
+    "example": "A new coordinator notices unanswered inquiries and creates a queue to track and route them.",
+    "sense_note": "The label names a person characterized by initiative."
+  },
+  {
+    "id": "my2r15ngyp",
+    "definition": "Spatial-temporal reasoning is the ability to infer how positions, shapes, or spatial relationships change over time.",
+    "example": "A player predicts where a bouncing ball will reach the edge of the court after it strikes a wall.",
+    "sense_note": null
+  },
+  {
+    "id": "uvzu3z28qp",
+    "definition": "Being success-driven is a tendency to seek achievement and persist in pursuit of a high standard of performance.",
+    "example": "After falling short of a benchmark, a runner adjusts training and works toward a measurable improvement.",
+    "sense_note": "The label describes motivation rather than a discrete ability."
+  },
+  {
+    "id": "crm3w31oq7",
+    "definition": "Being team-oriented is a tendency to coordinate one's contributions with others in support of shared goals.",
+    "example": "An engineer documents a handoff early so the next team can continue without waiting for a meeting.",
+    "sense_note": "The adjectival label describes a work orientation."
+  }
+]

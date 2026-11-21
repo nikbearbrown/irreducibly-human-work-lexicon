@@ -1,0 +1,42 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Tatar (ISO 639-3: tat) as a language under the Turkic grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Turkic",
+    "catalog_name": "Tatar",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "tata1255",
+    "iso639_3": "tat",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/tata1255"
+  },
+  "definition": null,
+  "entry_text": "Tatar is a Turkic language cataloged as ISO 639-3 tat.",
+  "entry_text_kind": "source-proposed-definition",
+  "example": null,
+  "id": "un0apigqro",
+  "key": "tatar",
+  "label": "Tatar",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm which Tatar language is intended; do not assume this includes Crimean Tatar.",
+  "sense_proposal": {
+    "ambiguity_note": "Exact catalog match supports this standalone sense, not conflation with Crimean Tatar [crh].",
+    "id": "un0apigqro",
+    "label": "Tatar",
+    "proposed_definition": "Tatar is a Turkic language cataloged as ISO 639-3 tat.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/tata1255",
+      "https://glottolog.org/resource/languoid/id/crim1257",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

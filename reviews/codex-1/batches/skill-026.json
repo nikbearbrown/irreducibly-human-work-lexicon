@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "r32hw0qken",
+    "key": "k-means-clustering",
+    "label": "k-means clustering",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b7bxzv86i3",
+    "key": "kahoot",
+    "label": "Kahoot!",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lmao37vzxc",
+    "key": "kairosdb",
+    "label": "KairosDB",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x4l4uuo9ve",
+    "key": "katalon-studio",
+    "label": "Katalon Studio",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "brj2fpgqpe",
+    "key": "kenna-security",
+    "label": "Kenna Security",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ae50wmbiia",
+    "key": "keras",
+    "label": "Keras",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lwi6xz3o2t",
+    "key": "kinesitherapy",
+    "label": "Kinesitherapy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fmysag6ovk",
+    "key": "kinetic-typography",
+    "label": "Kinetic typography",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "etkm588rdk",
+    "key": "knockout-js",
+    "label": "Knockout.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "grn5gsyx43",
+    "key": "know-your-third-party-ky3p",
+    "label": "Know Your Third Party (KY3P)",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h6qtadz4ay",
+    "key": "kpi-reporting",
+    "label": "KPI reporting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nb8uc9r0d1",
+    "key": "kyoto-protocol",
+    "label": "Kyoto Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "izaj2j3a7r",
+    "key": "kyriba",
+    "label": "Kyriba",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "etrex7o43l",
+    "key": "label-edge-router",
+    "label": "Label edge router",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "myqo7j7o11",
+    "key": "label-printer",
+    "label": "Label printer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "if66i05y4n",
+    "key": "labview",
+    "label": "LabVIEW",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ikmthn4x72",
+    "key": "landing-page-optimization",
+    "label": "Landing page optimization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pe8909xapl",
+    "key": "lando",
+    "label": "Lando",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w3b92k0bn0",
+    "key": "landscape-painting",
+    "label": "Landscape painting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "aye5u0w6at",
+    "key": "landscaping-and-yard-care",
+    "label": "Landscaping and yard care",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "obustt87w8",
+    "key": "langchain",
+    "label": "LangChain",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u2jkowkfye",
+    "key": "language-interpretation-and-translation",
+    "label": "Language interpretation and translation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xbnzpi95t0",
+    "key": "language-teaching",
+    "label": "Language teaching",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v0i8j5lzc6",
+    "key": "laser-level",
+    "label": "Laser level",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ys7x7wgt47",
+    "key": "ldra-testbed",
+    "label": "LDRA Testbed",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xjt0zve4ah",
+    "key": "lean-principles",
+    "label": "Lean principles",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i2hmsmvh4a",
+    "key": "learner-analysis",
+    "label": "Learner analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ag3vzgxdjd",
+    "key": "learner-experience-design",
+    "label": "Learner experience design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oi6geiye6s",
+    "key": "learning-agility",
+    "label": "Learning agility",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s792o40vi8",
+    "key": "lego-digital-designer",
+    "label": "LEGO Digital Designer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f6xnuhcber",
+    "key": "less-js",
+    "label": "Less.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f98arbexqb",
+    "key": "levelator",
+    "label": "Levelator",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qn0k3sdo1v",
+    "key": "libsvm",
+    "label": "LIBSVM",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "old72z3wmi",
+    "key": "lidar",
+    "label": "LiDAR",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "noa3cr0ize",
+    "key": "life-skills",
+    "label": "Life skills",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y75y0b5eq1",
+    "key": "lightcast",
+    "label": "Lightcast",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cx81zzbvil",
+    "key": "lightgbm",
+    "label": "LightGBM",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u8d4rbiuwn",
+    "key": "lighting-design",
+    "label": "Lighting design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hnlyt1jz4b",
+    "key": "lighttools",
+    "label": "LightTools",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z3rnxbom1d",
+    "key": "linkedin-api",
+    "label": "LinkedIn API",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

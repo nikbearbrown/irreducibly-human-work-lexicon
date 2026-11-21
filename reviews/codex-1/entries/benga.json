@@ -1,0 +1,31 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Benga (ISO 639-3: bng) as a language under the Atlantic-Congo grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Atlantic-Congo",
+    "catalog_name": "Benga",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "beng1282",
+    "iso639_3": "bng",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/beng1282"
+  },
+  "definition": "A human language that can be represented through recorded speech and transcription.",
+  "entry_text": "A human language that can be represented through recorded speech and transcription.",
+  "entry_text_kind": "definition",
+  "example": "A researcher annotates a Benga language recording.",
+  "id": "ynw7yrzobc",
+  "key": "benga",
+  "label": "Benga",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

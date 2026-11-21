@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Agent evaluation measures how well an automated agent completes tasks within specified quality and behavior constraints.",
+  "entry_text": "Agent evaluation measures how well an automated agent completes tasks within specified quality and behavior constraints.",
+  "entry_text_kind": "definition",
+  "example": "A test suite checks whether a booking agent gets the correct price without committing an unapproved purchase.",
+  "id": "nqjrl8n88z",
+  "key": "agent-evaluation",
+  "label": "Agent evaluation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

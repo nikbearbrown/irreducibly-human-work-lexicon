@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Periscope Data was a business intelligence platform for querying data and sharing dashboards and analyses.",
+  "entry_text": "Periscope Data was a business intelligence platform for querying data and sharing dashboards and analyses.",
+  "entry_text_kind": "definition",
+  "example": "An analyst publishes a dashboard driven by SQL queries against a data warehouse.",
+  "id": "f4azaunkfi",
+  "key": "periscope-data",
+  "label": "Periscope Data",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,27 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_identity_candidates": [
+    {
+      "code": "ainu1252",
+      "level": "family",
+      "name": "Ainu"
+    }
+  ],
+  "definition": "A human language that can be documented through speech and written transcriptions.",
+  "entry_text": "A human language that can be documented through speech and written transcriptions.",
+  "entry_text_kind": "definition",
+  "example": "A learner practices a greeting from an Ainu language recording.",
+  "id": "vks1qiiz57",
+  "key": "ainu",
+  "label": "Ainu",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

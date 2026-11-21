@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Dairy science studies milk production, composition, quality, and processing into products such as cheese, yogurt, and butter.",
+  "entry_text": "Dairy science studies milk production, composition, quality, and processing into products such as cheese, yogurt, and butter.",
+  "entry_text_kind": "definition",
+  "example": "A dairy scientist measures how storage conditions affect the quality of milk sent to a processor.",
+  "id": "xl6126omq1",
+  "key": "dairy-science",
+  "label": "Dairy science",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

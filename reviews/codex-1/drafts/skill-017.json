@@ -1,0 +1,242 @@
+[
+  {
+    "id": "j9h80du45m",
+    "definition": "Giving epinephrine safely and appropriately under applicable treatment protocols or clinical direction.",
+    "example": "A trained responder uses prescribed emergency epinephrine as directed during a severe allergic reaction.",
+    "sense_note": null
+  },
+  {
+    "id": "j6lwkq5kwl",
+    "definition": "Specifying equipment geometry, components, interfaces, and safeguards to meet its intended operating requirements.",
+    "example": "A designer specifies an adjustable fixture for several product sizes.",
+    "sense_note": null
+  },
+  {
+    "id": "ctuf7ymnjc",
+    "definition": "Applying engineering analysis to the selection, development, installation, or improvement of equipment over its lifecycle.",
+    "example": "An engineer evaluates whether a new pump can meet a production line's duty requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "oiowbvir6p",
+    "definition": "Evaluating how workplace tasks, tools, and layouts fit the physical and cognitive needs of users.",
+    "example": "A specialist identifies repetitive reaches at an assembly station and recommends layout changes.",
+    "sense_note": null
+  },
+  {
+    "id": "t7wrep17u6",
+    "definition": "A data modeling application for designing, documenting, and managing logical and physical database models.",
+    "example": "A modeler maps conceptual customer entities to a physical database schema.",
+    "sense_note": null
+  },
+  {
+    "id": "nohrtfqkb7",
+    "definition": "Evaluating environmental, social, and governance factors and their implications for an organization or investment.",
+    "example": "An analyst compares a company's emissions disclosures and board oversight to stated assessment criteria.",
+    "sense_note": null
+  },
+  {
+    "id": "prkfpz7o8w",
+    "definition": "A business process automation platform for managing document-intensive finance workflows.",
+    "example": "A finance team uses Esker to route received invoices for review and approval.",
+    "sense_note": null
+  },
+  {
+    "id": "eg3xtq24wx",
+    "definition": "Planning and coordinating competitive video game teams, tournaments, or related operations.",
+    "example": "An event manager schedules matches and coordinates the rules briefing for competitors.",
+    "sense_note": null
+  },
+  {
+    "id": "d5pgaqwsxl",
+    "definition": "Promoting competitive gaming teams, events, and brands to relevant audiences.",
+    "example": "An organizer measures ticket sales attributed to a tournament campaign.",
+    "sense_note": null
+  },
+  {
+    "id": "eub20prvvq",
+    "definition": "Estimating the value of assets and liabilities in an estate for administration, reporting, or distribution.",
+    "example": "An appraiser values an estate's real property as of the required valuation date.",
+    "sense_note": null
+  },
+  {
+    "id": "pfrqi7iiw7",
+    "definition": "Arranging financial or in-kind support for an event in exchange for agreed sponsor benefits or recognition.",
+    "example": "A coordinator negotiates sponsor support and confirms where acknowledgments will appear.",
+    "sense_note": null
+  },
+  {
+    "id": "zm7sxsrys1",
+    "definition": "Identifying, gathering, recording, and preserving material relevant to an authorized investigation or proceeding.",
+    "example": "An investigator documents the source and custody of a retrieved record.",
+    "sense_note": null
+  },
+  {
+    "id": "veknequ9pu",
+    "definition": "Reviewing legal documents for relevant provisions, completeness, and potential issues in context.",
+    "example": "A paralegal flags missing exhibits and inconsistent dates for counsel.",
+    "sense_note": null
+  },
+  {
+    "id": "shmkvde2bg",
+    "definition": "Using Excel PivotTables to summarize data and associated PivotCharts to visualize those changing summaries.",
+    "example": "An analyst groups expenses by department and builds a chart linked to that grouping.",
+    "sense_note": null
+  },
+  {
+    "id": "fzmto408su",
+    "definition": "Using Excel PivotTables to group, aggregate, filter, and rearrange tabular data interactively.",
+    "example": "An analyst totals sales by region and changes the grouping from months to quarters.",
+    "sense_note": null
+  },
+  {
+    "id": "jk0b68hkct",
+    "definition": "Surgically removing a skin lesion for treatment or diagnostic examination.",
+    "example": "A clinician sends a removed lesion for pathology review.",
+    "sense_note": null
+  },
+  {
+    "id": "uxc5mcnmd3",
+    "definition": "Preparing and delivering concise, decision-focused presentations for senior leaders.",
+    "example": "A project lead presents an investment recommendation, the alternatives, and the major risks.",
+    "sense_note": null
+  },
+  {
+    "id": "uqjw14p9ev",
+    "definition": "Planning and providing protective services for executives or other designated individuals based on assessed risks.",
+    "example": "A protection team coordinates with venue staff to support an executive's safe arrival.",
+    "sense_note": "Non-operational scope; applicable authority and safety responsibilities vary."
+  },
+  {
+    "id": "qq55sjjp3e",
+    "definition": "Building and maintaining productive working relationships with senior decision-makers.",
+    "example": "An account lead schedules regular briefings with executive sponsors and follows through on concerns.",
+    "sense_note": null
+  },
+  {
+    "id": "bdzgbz9dry",
+    "definition": "Identifying, evaluating, and recruiting candidates for senior leadership roles.",
+    "example": "A recruiter interviews potential executives against a board-approved role profile.",
+    "sense_note": null
+  },
+  {
+    "id": "jfngdt55mz",
+    "definition": "Creating interactive experiences that let audiences engage directly with a product, brand, or organization.",
+    "example": "A company invites attendees to try a product at a staffed demonstration and gathers their feedback.",
+    "sense_note": null
+  },
+  {
+    "id": "fdlki9ovdk",
+    "definition": "Recognizing and reporting possible explosive hazards through authorized screening or detection systems.",
+    "example": "A trained screening team refers a potential hazard to designated specialists.",
+    "sense_note": "Non-operational safety scope."
+  },
+  {
+    "id": "ypam152p4c",
+    "definition": "Identifying potential explosive hazards and arranging or performing their safe disposition under authorized specialist procedures.",
+    "example": "A designated disposal unit assumes control after security personnel report a suspected hazard.",
+    "sense_note": "Non-operational safety scope; the entry does not describe detection or disposal procedures."
+  },
+  {
+    "id": "pl9ucmohz5",
+    "definition": "A Node.js web framework that uses routing and middleware to handle HTTP requests.",
+    "example": "A developer defines a route that returns a product's details as JSON.",
+    "sense_note": null
+  },
+  {
+    "id": "quabg9izgu",
+    "definition": "A language-learning approach built around reading large amounts of generally accessible material for meaning and fluency.",
+    "example": "Learners read graded stories of their choice without stopping to analyze every unfamiliar word.",
+    "sense_note": null
+  },
+  {
+    "id": "n8ihj4als1",
+    "definition": "Identifying and engaging outside parties whose interests or influence affect a project or organization.",
+    "example": "A project manager meets with local residents and records their concerns before finalizing a proposal.",
+    "sense_note": null
+  },
+  {
+    "id": "d9sq04v2o1",
+    "definition": "A data integration process that extracts source data, transforms it to the target requirements, and then loads it into a destination.",
+    "example": "A job reads sales files, standardizes their columns, and loads the results into a warehouse.",
+    "sense_note": null
+  },
+  {
+    "id": "lvlyhbur7j",
+    "definition": "Planning, buying, and evaluating paid advertisements displayed through Facebook's ad platform.",
+    "example": "A campaign manager tests two paid creatives and compares their conversion rates.",
+    "sense_note": null
+  },
+  {
+    "id": "v313jsqx2s",
+    "definition": "Using Facebook's content, community, or advertising capabilities to reach and engage an audience.",
+    "example": "A nonprofit shares event updates and answers questions on its Facebook page.",
+    "sense_note": null
+  },
+  {
+    "id": "zi1e5ob8r0",
+    "definition": "A social networking platform for publishing content and interacting through profiles, pages, and groups.",
+    "example": "An organizer posts meeting information in a Facebook group.",
+    "sense_note": null
+  },
+  {
+    "id": "xghgcqr6jy",
+    "definition": "Inspecting, servicing, and repairing building systems and assets to keep facilities safe and functional.",
+    "example": "A technician checks air-handling units as part of scheduled facility maintenance.",
+    "sense_note": null
+  },
+  {
+    "id": "i5akb8g29i",
+    "definition": "A structured method for identifying how components or processes can fail and evaluating the effects and priorities of those failures.",
+    "example": "A team analyzes possible sensor failures and records which require mitigation.",
+    "sense_note": null
+  },
+  {
+    "id": "g0mmhmhuoe",
+    "definition": "A California law prohibiting specified types of discrimination in employment and housing.",
+    "example": "An employer reviews its policies for issues governed by the California Fair Employment and Housing Act.",
+    "sense_note": null
+  },
+  {
+    "id": "wrzt29u98s",
+    "definition": "Developing collaborative relationships with families to support shared goals, commonly in education or care settings.",
+    "example": "A teacher and a student's caregivers agree on how to share learning progress.",
+    "sense_note": null
+  },
+  {
+    "id": "pu8rwr7u2b",
+    "definition": "Tools and machinery used to carry out farm operations such as soil preparation, planting, or harvesting.",
+    "example": "A farmer selects an implement suited to preparing a field for planting.",
+    "sense_note": null
+  },
+  {
+    "id": "varb8cbvw3",
+    "definition": "Planning and overseeing farm production, finances, equipment, labor, and other resources.",
+    "example": "A farm manager balances planting plans against staffing and available equipment.",
+    "sense_note": null
+  },
+  {
+    "id": "xt7cxxzjcc",
+    "definition": "A historical U.S. accounting standard specifying how entities account for current and deferred income taxes.",
+    "example": "An accountant consults the historical standard when interpreting older financial statements.",
+    "sense_note": "Confirm reference to Financial Accounting Standard 109 rather than current codification."
+  },
+  {
+    "id": "cynf8kt39j",
+    "definition": "A historical enterprise search platform for indexing and retrieving content across organizational sources.",
+    "example": "A company uses an enterprise search index to find internal documents across repositories.",
+    "sense_note": "Confirm the intended FAST Enterprise Search Platform generation and status."
+  },
+  {
+    "id": "i740drj12f",
+    "definition": "An open-source Python library that provides higher-level interfaces for training deep learning models with PyTorch.",
+    "example": "A developer uses fastai to fine-tune a model for image classification.",
+    "sense_note": null
+  },
+  {
+    "id": "ojwz0qfs5f",
+    "definition": "Standards associated with the U.S. Federal Geographic Data Committee for documenting and exchanging geospatial information.",
+    "example": null,
+    "sense_note": "Identify the particular FGDC standard if the entry is intended to describe one specific specification."
+  }
+]

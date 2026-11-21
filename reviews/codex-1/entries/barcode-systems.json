@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Barcode systems encode identifiers in machine-readable patterns and use scanners and software to connect those identifiers to records or transactions.",
+  "entry_text": "Barcode systems encode identifiers in machine-readable patterns and use scanners and software to connect those identifiers to records or transactions.",
+  "entry_text_kind": "definition",
+  "example": "A warehouse scans a carton barcode to match the carton to its shipment record.",
+  "id": "rhj2gox2bc",
+  "key": "barcode-systems",
+  "label": "Barcode systems",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

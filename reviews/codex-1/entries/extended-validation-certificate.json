@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-005.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An extended validation certificate is a public-key certificate issued after a certificate authority performs prescribed checks on an organization's identity.",
+  "entry_text": "An extended validation certificate is a public-key certificate issued after a certificate authority performs prescribed checks on an organization's identity.",
+  "entry_text_kind": "definition",
+  "example": "A company seeks extended validation to have its legal identity vetted during certificate issuance.",
+  "id": "d96cz68osz",
+  "key": "extended-validation-certificate",
+  "label": "Extended validation certificate",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Browser presentation varies; it does not establish that the site is safe.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

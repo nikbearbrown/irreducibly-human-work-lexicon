@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "DALL·E is a family of generative image models that create visual outputs from text prompts or related inputs.",
+  "entry_text": "DALL·E is a family of generative image models that create visual outputs from text prompts or related inputs.",
+  "entry_text_kind": "definition",
+  "example": "An artist requests several conceptual images for preliminary composition review.",
+  "id": "pudsxgof73",
+  "key": "dall-e",
+  "label": "DALL·E",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

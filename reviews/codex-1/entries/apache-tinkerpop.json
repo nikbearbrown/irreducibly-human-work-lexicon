@@ -1,0 +1,28 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache TinkerPop is a graph computing framework that defines common interfaces and the Gremlin traversal language.",
+  "entry_text": "Apache TinkerPop is a graph computing framework that defines common interfaces and the Gremlin traversal language.",
+  "entry_text_kind": "definition",
+  "example": "A developer uses Gremlin to find connections between people and projects.",
+  "id": "k3hb2jqpwb",
+  "key": "apache-tinkerpop",
+  "label": "Apache TinkerPop",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "k3hb2jqpwb",
+      "note": "The reference describes common structure and process APIs and identifies Gremlin as the traversal API. Its graph provider interfaces do not imply uniform support for provider-specific features.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://tinkerpop.apache.org/docs/current/reference/#graph-computing",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

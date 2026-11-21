@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "language",
+    "id": "qb4qnsutxp",
+    "key": "c",
+    "label": "C++",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "qlaxx8o2dm",
+    "key": "carib",
+    "label": "Carib",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "n2zf1jjewl",
+    "key": "castilian-spanish",
+    "label": "Castilian Spanish",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "b53t6y9iys",
+    "key": "catalan",
+    "label": "Catalan",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ms42m7io2w",
+    "key": "cebuano",
+    "label": "Cebuano",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "gvutm225wm",
+    "key": "cfml",
+    "label": "CFML",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "mrfo4d84xg",
+    "key": "chakma",
+    "label": "Chakma",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "r5qkbzvx25",
+    "key": "chamorro",
+    "label": "Chamorro",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "nbdd2ehtfg",
+    "key": "chichewa",
+    "label": "Chichewa",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hj8i6mh3zz",
+    "key": "chinese",
+    "label": "Chinese",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "emsn9xnsir",
+    "key": "chipmunk-basic",
+    "label": "Chipmunk Basic",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "r9tfnc7x3j",
+    "key": "clist",
+    "label": "CLIST",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hwas4qmror",
+    "key": "clojure",
+    "label": "Clojure",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "rw1cn65xyv",
+    "key": "cobol",
+    "label": "COBOL",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "piarz4pc6x",
+    "key": "coffeescript",
+    "label": "CoffeeScript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hhw3e2lfwh",
+    "key": "comit",
+    "label": "COMIT",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "gwr1azxj60",
+    "key": "common-lisp",
+    "label": "Common Lisp",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "njqn7yrch4",
+    "key": "component-pascal",
+    "label": "Component Pascal",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "sh4sf1nwm1",
+    "key": "crystal",
+    "label": "Crystal",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "dbxqhrpv38",
+    "key": "csharp",
+    "label": "C#",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "x4397709dt",
+    "key": "css",
+    "label": "CSS",
+    "onet_codes": [],
+    "original_kind": "style-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "e6wzlsvhig",
+    "key": "cython",
+    "label": "Cython",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "jozc69fgpa",
+    "key": "czech",
+    "label": "Czech",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "eaovn4ljeo",
+    "key": "d",
+    "label": "D",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "x09au1cwqd",
+    "key": "danish",
+    "label": "Danish",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ar6o7kobv7",
+    "key": "dari",
+    "label": "Dari",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "vp6szkok86",
+    "key": "dart",
+    "label": "Dart",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ly6jzdmqwz",
+    "key": "delphi",
+    "label": "Delphi",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "s7rg5fey2w",
+    "key": "dhivehi",
+    "label": "Dhivehi",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "y1sl47tp8c",
+    "key": "digital-command-language",
+    "label": "Digital Command Language",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "pak2r3gski",
+    "key": "dinka",
+    "label": "Dinka",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "l6le846miv",
+    "key": "duala",
+    "label": "Duala",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ol3tcjafkq",
+    "key": "dutch",
+    "label": "Dutch",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ec5sjzxk6h",
+    "key": "dylan",
+    "label": "Dylan",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "zx3or51hr1",
+    "key": "dzongkha",
+    "label": "Dzongkha",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "jvqv4lupvf",
+    "key": "ecmascript-2015",
+    "label": "ECMAScript 2015",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "kcu5dpjinp",
+    "key": "eiffel",
+    "label": "Eiffel",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "gmnxfnk0xv",
+    "key": "elixir",
+    "label": "Elixir",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "rh3gh6e9pn",
+    "key": "elm",
+    "label": "Elm",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "tsdlbd9gt0",
+    "key": "english",
+    "label": "English",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  }
+]

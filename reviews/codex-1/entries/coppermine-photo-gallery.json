@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Coppermine Photo Gallery is web software for publishing and managing albums, images, and related user interactions.",
+  "entry_text": "Coppermine Photo Gallery is web software for publishing and managing albums, images, and related user interactions.",
+  "entry_text_kind": "definition",
+  "example": "A site administrator organizes a community’s uploaded photographs into albums with appropriate permissions.",
+  "id": "cvxvhkki8b",
+  "key": "coppermine-photo-gallery",
+  "label": "Coppermine Photo Gallery",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

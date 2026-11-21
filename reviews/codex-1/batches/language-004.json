@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "language",
+    "id": "ciqcmsfd1o",
+    "key": "hungarian",
+    "label": "Hungarian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "vypg5ki3gp",
+    "key": "hup",
+    "label": "Hup",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "b30v30rgue",
+    "key": "igbo",
+    "label": "Igbo",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "iryd1t5hx3",
+    "key": "indonesian",
+    "label": "Indonesian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "y8idko4c9n",
+    "key": "italian",
+    "label": "Italian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "xkyic5vgkn",
+    "key": "j",
+    "label": "J#",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "xzbzidj6js",
+    "key": "japanese",
+    "label": "Japanese",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ls6hrpynv0",
+    "key": "java",
+    "label": "Java",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "h60l8olauw",
+    "key": "javascript",
+    "label": "JavaScript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hxl6oldmhj",
+    "key": "jdoql",
+    "label": "JDOQL",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wzkjcw38s8",
+    "key": "jhdl",
+    "label": "JHDL",
+    "onet_codes": [],
+    "original_kind": "modeling-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "pjem268xhe",
+    "key": "jiba",
+    "label": "Jiba",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "svqokai4ji",
+    "key": "jscript-net",
+    "label": "JScript .NET",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "xg6thfg29w",
+    "key": "jscript",
+    "label": "JScript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "t5qatususg",
+    "key": "julia",
+    "label": "Julia",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "dy0cjdom8i",
+    "key": "kachin",
+    "label": "Kachin",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "c32hcf7j71",
+    "key": "kalenjin",
+    "label": "Kalenjin",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "u9xvb4f062",
+    "key": "kannada",
+    "label": "Kannada",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "p1wfqcq8a8",
+    "key": "kazakh",
+    "label": "Kazakh",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "oezvmtjgl6",
+    "key": "keyhole-markup-language",
+    "label": "Keyhole Markup Language",
+    "onet_codes": [],
+    "original_kind": "markup-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "eili48vgqq",
+    "key": "khmer",
+    "label": "Khmer",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "tt4tv9smzy",
+    "key": "kinyarwanda",
+    "label": "Kinyarwanda",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "rfn2ahijci",
+    "key": "kirundi",
+    "label": "Kirundi",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hs38odazxz",
+    "key": "kokborok",
+    "label": "Kokborok",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "k2e2feirg4",
+    "key": "korean",
+    "label": "Korean",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "d458icsqdz",
+    "key": "korwa",
+    "label": "Korwa",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "a9vdp0px7b",
+    "key": "kotlin",
+    "label": "Kotlin",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "cionmp7u62",
+    "key": "kurdish",
+    "label": "Kurdish",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "tdxy4vo005",
+    "key": "kurukh",
+    "label": "Kurukh",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "pxs2n3nuzb",
+    "key": "kyrgyz",
+    "label": "Kyrgyz",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "j0bdoceeet",
+    "key": "ladder-logic",
+    "label": "Ladder logic",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "d848216rx6",
+    "key": "ladino",
+    "label": "Ladino",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "lkx73u6d8t",
+    "key": "lango",
+    "label": "Lango",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "jgx1oq2stu",
+    "key": "lao",
+    "label": "Lao",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "p3jpn4fdtu",
+    "key": "lawa",
+    "label": "Lawa",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "mdcx7ximpo",
+    "key": "less",
+    "label": "LESS",
+    "onet_codes": [],
+    "original_kind": "style-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "b2291n6joq",
+    "key": "lingala",
+    "label": "Lingala",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "zc8shpqdop",
+    "key": "lingo",
+    "label": "Lingo",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "gon731b20n",
+    "key": "liquid-template-language",
+    "label": "Liquid template language",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "zb709ig3an",
+    "key": "lisp",
+    "label": "Lisp",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  }
+]

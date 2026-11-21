@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pi5xj8mknx",
+    "definition": "Adobe Substance 3D Painter applies layered textures and material properties directly to 3D meshes.",
+    "example": "A game artist adds worn paint and exposed metal to a modeled tool.",
+    "sense_note": null
+  },
+  {
+    "id": "ey47ubziw1",
+    "definition": "Advertising design develops visual and verbal creative that communicates an offer to a target audience.",
+    "example": "A designer lays out a poster so readers can quickly identify the event and ticket link.",
+    "sense_note": null
+  },
+  {
+    "id": "a2ftxfcthf",
+    "definition": "Aerospike Database is a distributed NoSQL database optimized for low-latency reads and writes at scale.",
+    "example": "A personalization service reads a visitor profile during a request without scanning historical event logs.",
+    "sense_note": null
+  },
+  {
+    "id": "f9an7y5w6v",
+    "definition": "AG Grid is a JavaScript data-grid component for presenting and interacting with tabular data in web applications.",
+    "example": "A trading dashboard lets users sort orders and group them by status.",
+    "sense_note": null
+  },
+  {
+    "id": "nqjrl8n88z",
+    "definition": "Agent evaluation measures how well an automated agent completes tasks within specified quality and behavior constraints.",
+    "example": "A test suite checks whether a booking agent gets the correct price without committing an unapproved purchase.",
+    "sense_note": null
+  },
+  {
+    "id": "cfem7cgay7",
+    "definition": "Agile software development delivers software in small increments and adjusts plans based on feedback and observed results.",
+    "example": "A team tests a working checkout change with users before deciding which improvement to build next.",
+    "sense_note": null
+  },
+  {
+    "id": "kmr2qx0hc9",
+    "definition": "Agricultural machinery comprises powered or mechanical equipment used to perform farming tasks such as planting, cultivation, and harvesting.",
+    "example": "A grower uses a calibrated seed drill to place crops at a consistent spacing.",
+    "sense_note": null
+  },
+  {
+    "id": "o0bkdduxor",
+    "definition": "AI copywriting uses generative models to assist with drafting or revising persuasive or informational text.",
+    "example": "A marketer reviews model-generated variants of a product description against approved product facts.",
+    "sense_note": null
+  },
+  {
+    "id": "zyx43s2qb5",
+    "definition": "Air Travel Organisers’ Licensing is the United Kingdom’s licensing and consumer protection scheme for qualifying air travel arrangements.",
+    "example": "A travel organizer checks whether a planned flight-inclusive package falls within the ATOL scheme.",
+    "sense_note": null
+  },
+  {
+    "id": "k5f5yj60ou",
+    "definition": "Ajax is a web development technique in which a browser exchanges data with a server without reloading the entire page.",
+    "example": "A search box updates its suggestions while a visitor types.",
+    "sense_note": null
+  },
+  {
+    "id": "ph6tkwz6c2",
+    "definition": "ÄKTA is a family of liquid chromatography systems used to separate and purify biomolecules.",
+    "example": "A laboratory technician reviews chromatograms from an ÄKTA purification run.",
+    "sense_note": null
+  },
+  {
+    "id": "ca87twse7q",
+    "definition": "Aldus PhotoStyler was a raster graphics editor for editing and retouching photographs on personal computers.",
+    "example": "A graphic artist adjusts the color of a scanned image before placing it in a publication.",
+    "sense_note": null
+  },
+  {
+    "id": "pp0ifhxwtv",
+    "definition": "Alexa Internet was a web analytics service that reported website traffic estimates and popularity rankings.",
+    "example": "A researcher compares archived site rankings while noting that they are estimates rather than direct traffic counts.",
+    "sense_note": null
+  },
+  {
+    "id": "mnys3u3va3",
+    "definition": "Algorithm analysis examines the correctness and resource requirements of an algorithm as its inputs or assumptions vary.",
+    "example": "An engineer compares the memory needs of two approaches to sorting a dataset.",
+    "sense_note": null
+  },
+  {
+    "id": "tbid4ervbh",
+    "definition": "Alibaba Cloud provides managed computing, storage, networking, and other cloud infrastructure services.",
+    "example": "A developer deploys an application on virtual servers and stores its backups in object storage.",
+    "sense_note": null
+  },
+  {
+    "id": "k9lgfp8na4",
+    "definition": "AlienVault refers to security monitoring and threat-intelligence products used to collect and correlate defensive security data.",
+    "example": "An operations team combines logs from several systems to review suspicious account activity.",
+    "sense_note": "The name can refer to the company or its products, including Unified Security Management."
+  },
+  {
+    "id": "xfnpaikx1y",
+    "definition": "An all-terrain vehicle is a motorized vehicle designed for travel over rough or unpaved ground.",
+    "example": "A land steward uses a suitable ATV to inspect a remote access road.",
+    "sense_note": null
+  },
+  {
+    "id": "eb0wn0y0au",
+    "definition": "Allergen labelling flags ingredients or cross-contact risks that may cause allergic reactions.",
+    "example": "A food manufacturer checks that a product label identifies the relevant allergens in its recipe.",
+    "sense_note": null
+  },
+  {
+    "id": "cjqp8nwcn9",
+    "definition": "AllJoyn was an open interoperability framework that allowed connected devices to discover and communicate with one another.",
+    "example": "A home control app discovers a compatible device on a local network.",
+    "sense_note": null
+  },
+  {
+    "id": "puo12ic4rl",
+    "definition": "AlloyUI is a web interface framework built on YUI that provides reusable JavaScript components.",
+    "example": "A maintainer updates the date picker in an older portal that uses AlloyUI.",
+    "sense_note": null
+  },
+  {
+    "id": "q9sf1w77ej",
+    "definition": "Allyship is the practice of using one’s position and actions to support people facing exclusion or unequal treatment.",
+    "example": "A meeting facilitator credits an overlooked colleague’s proposal and makes space for them to explain it.",
+    "sense_note": null
+  },
+  {
+    "id": "mwkqst1v48",
+    "definition": "Alooma was a managed data integration platform for moving data from multiple sources into analytical destinations.",
+    "example": "A data engineer synchronizes application events and customer records to a data warehouse.",
+    "sense_note": null
+  },
+  {
+    "id": "g14hvhxwai",
+    "definition": "Alternative dispute resolution uses mechanisms such as mediation and arbitration to address disputes outside ordinary court proceedings.",
+    "example": "Two parties ask a neutral mediator to help them negotiate a settlement.",
+    "sense_note": null
+  },
+  {
+    "id": "jq8v5gedpq",
+    "definition": "The Alternative Transients Program simulates electromagnetic transient behavior in electrical power systems.",
+    "example": "A power engineer models the voltage transient following a switching operation.",
+    "sense_note": null
+  },
+  {
+    "id": "ffrlff4nm4",
+    "definition": "Aluminium smelting produces metallic aluminium by electrolytically reducing alumina dissolved in a molten bath.",
+    "example": "A process engineer tracks electricity use at an aluminium smelter.",
+    "sense_note": null
+  },
+  {
+    "id": "imi19hgljl",
+    "definition": "Amazon AppStream 2.0 streams remotely hosted desktop applications to users without requiring a local installation of each application.",
+    "example": "A university lets students use a licensed design tool through streamed sessions.",
+    "sense_note": null
+  },
+  {
+    "id": "s1jyt2h0md",
+    "definition": "Amazon CloudWatch collects operational metrics, logs, and events and can alert on monitored conditions.",
+    "example": "An operations team sets an alarm for an unexpectedly high error rate.",
+    "sense_note": null
+  },
+  {
+    "id": "gzok01cjvc",
+    "definition": "Amazon EMR manages infrastructure for distributed data processing frameworks such as Apache Spark.",
+    "example": "A team processes daily event files with Spark and writes summarized results to object storage.",
+    "sense_note": null
+  },
+  {
+    "id": "w5g4r0jtmy",
+    "definition": "An Amazon Fire tablet is a touchscreen device that runs Fire OS and supports apps and media consumption.",
+    "example": "A tester checks that an interactive reading app displays correctly on a Fire tablet.",
+    "sense_note": null
+  },
+  {
+    "id": "xstca7bdbk",
+    "definition": "Amazon SageMaker is a set of managed cloud tools for building, training, deploying, and operating machine-learning models.",
+    "example": "An engineer evaluates a trained classifier before exposing it through a managed inference endpoint.",
+    "sense_note": null
+  },
+  {
+    "id": "srtz4mtpnt",
+    "definition": "Amazon SimpleDB is a managed nonrelational data store that organizes records as items with named attributes.",
+    "example": "A small application queries stored product items by a category attribute.",
+    "sense_note": null
+  },
+  {
+    "id": "ya8of3fs21",
+    "definition": "amCharts is a JavaScript library for creating interactive charts and geographic visualizations on the web.",
+    "example": "A publisher gives readers an interactive line chart of historical temperatures.",
+    "sense_note": null
+  },
+  {
+    "id": "obbbl6h3c4",
+    "definition": "American Welding Society codes define technical requirements for welding work within their specified scopes.",
+    "example": "A welding inspector consults the applicable code when reviewing structural weld acceptance.",
+    "sense_note": null
+  },
+  {
+    "id": "e4939h1iss",
+    "definition": "Amiga refers to a family of personal computers known for their multimedia capabilities and the associated Amiga platform.",
+    "example": "A preservation team tests whether an archived graphics program runs in a matching Amiga environment.",
+    "sense_note": null
+  },
+  {
+    "id": "ppo11nahux",
+    "definition": "AMX programming configures and writes control logic for AMX systems that coordinate audiovisual equipment and room controls.",
+    "example": "An integrator programs a touch-panel selection to switch a conference room’s display source.",
+    "sense_note": "The intended sense is audiovisual control, not Intel Advanced Matrix Extensions."
+  },
+  {
+    "id": "ks93tfz19m",
+    "definition": "Anaconda is a distribution and package-management ecosystem for Python and R workflows, particularly data science.",
+    "example": "A scientist installs a project’s dependencies in an isolated conda environment.",
+    "sense_note": null
+  },
+  {
+    "id": "z09tq03hir",
+    "definition": "Analysis of variance is a statistical method that compares sources of variability to test hypotheses about differences in group means.",
+    "example": "A researcher tests whether mean yield differs across several treatments.",
+    "sense_note": null
+  },
+  {
+    "id": "cxpxcuw3gh",
+    "definition": "Anaplan is a cloud planning platform that links business data, forecasts, and scenarios across departments.",
+    "example": "A retailer updates a demand forecast and checks its effect on staffing and cash plans.",
+    "sense_note": null
+  },
+  {
+    "id": "ir4834pgff",
+    "definition": "Android app development builds, tests, and maintains applications that run on Android devices.",
+    "example": "A developer implements an offline mode and tests it on phones with different screen sizes.",
+    "sense_note": null
+  },
+  {
+    "id": "ukkzhjgb9c",
+    "definition": "Android UI development designs and implements the screens, controls, and interaction behavior of Android applications.",
+    "example": "A developer builds an accessible sign-in screen that adapts to portrait and landscape displays.",
+    "sense_note": null
+  }
+]

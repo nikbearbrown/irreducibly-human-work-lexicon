@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Evaluating whether a design fulfills its intended use and meets user needs under representative conditions.",
+  "entry_text": "Evaluating whether a design fulfills its intended use and meets user needs under representative conditions.",
+  "entry_text_kind": "definition",
+  "example": "A team checks whether intended operators can complete a real task with the prototype.",
+  "id": "p2k4yt3ls3",
+  "key": "design-validation",
+  "label": "Design validation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Strength training uses progressively challenging muscular resistance to develop force production and related physical capacities.",
+  "entry_text": "Strength training uses progressively challenging muscular resistance to develop force production and related physical capacities.",
+  "entry_text_kind": "definition",
+  "example": "A supervised exercise program tracks changes in how much resistance a participant can handle with sound technique.",
+  "id": "egr0a7yj0j",
+  "key": "strength-training",
+  "label": "Strength training",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

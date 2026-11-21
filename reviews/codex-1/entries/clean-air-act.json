@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The U.S. Clean Air Act establishes a federal framework for controlling air pollution, including air quality and emissions standards.",
+  "entry_text": "The U.S. Clean Air Act establishes a federal framework for controlling air pollution, including air quality and emissions standards.",
+  "entry_text_kind": "definition",
+  "example": "An environmental specialist identifies which air-pollution requirements are relevant to an industrial facility.",
+  "id": "g35t5hixm4",
+  "key": "clean-air-act",
+  "label": "Clean Air Act",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The generic name can refer to other countries’ statutes; this definition assumes the U.S. law.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Kyoto Protocol is an international climate treaty that set binding greenhouse-gas reduction or limitation commitments for specified parties.",
+  "entry_text": "The Kyoto Protocol is an international climate treaty that set binding greenhouse-gas reduction or limitation commitments for specified parties.",
+  "entry_text_kind": "definition",
+  "example": "A national emissions inventory supports reporting against an applicable commitment.",
+  "id": "nb8uc9r0d1",
+  "key": "kyoto-protocol",
+  "label": "Kyoto Protocol",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

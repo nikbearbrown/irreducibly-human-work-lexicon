@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-010.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Physical security protects people, facilities and physical assets from unauthorized access, damage and other threats.",
+  "entry_text": "Physical security protects people, facilities and physical assets from unauthorized access, damage and other threats.",
+  "entry_text_kind": "definition",
+  "example": "A laboratory uses controlled entry and visitor records to protect secure workspaces.",
+  "id": "u1uj3cchu7",
+  "key": "physical-security",
+  "label": "Physical security",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

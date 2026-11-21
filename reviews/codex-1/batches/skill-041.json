@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "y7oiw2a8nf",
+    "key": "sharable-content-object-reference-model",
+    "label": "Sharable Content Object Reference Model",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f2brdjikmg",
+    "key": "shared-vision-planning",
+    "label": "Shared Vision Planning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yq4iixbank",
+    "key": "sharefile",
+    "label": "ShareFile",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a6vlrfokws",
+    "key": "sharp-zaurus",
+    "label": "Sharp Zaurus",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mcq19gzghr",
+    "key": "shepard-s-citations",
+    "label": "Shepard's Citations",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ul70j17833",
+    "key": "ship-handling",
+    "label": "Ship handling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lttufyejs0",
+    "key": "shipping-and-receiving",
+    "label": "Shipping and receiving",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lpcilh3rqk",
+    "key": "shipping-management",
+    "label": "Shipping management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "aeainj02qw",
+    "key": "shoulder-surgery",
+    "label": "Shoulder surgery",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gjzaap79p3",
+    "key": "shower-installation",
+    "label": "Shower installation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "opqo30ewyl",
+    "key": "shrink-wrapping",
+    "label": "Shrink wrapping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y6nnymqmh6",
+    "key": "shuttle-car-operation",
+    "label": "Shuttle car operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jfc94x3rg1",
+    "key": "signalling-connection-control-part",
+    "label": "Signalling Connection Control Part",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tub5zvto3r",
+    "key": "signalling-system-no-7",
+    "label": "Signalling System No. 7",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m6qn2ni0mx",
+    "key": "silk-test",
+    "label": "Silk Test",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pdqd1zdbm6",
+    "key": "simple-interrupted-suture",
+    "label": "Simple interrupted suture",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rw1rf4xx4r",
+    "key": "simple-mail-transfer-protocol",
+    "label": "Simple Mail Transfer Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "em3svulww1",
+    "key": "simple-public-key-infrastructure",
+    "label": "Simple Public Key Infrastructure",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vidnq2l1rz",
+    "key": "simplelegal",
+    "label": "SimpleLegal",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kmd4pupkyx",
+    "key": "simputer",
+    "label": "Simputer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mnh4oeocnq",
+    "key": "single-in-line-memory-module",
+    "label": "Single In-Line Memory Module",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "abnhhao29t",
+    "key": "single-sign-on",
+    "label": "Single sign-on",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qcse7xh7on",
+    "key": "site-reliability-engineering",
+    "label": "Site reliability engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v3cuopv3ef",
+    "key": "skip-tracing",
+    "label": "Skip tracing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qfv4bypfec",
+    "key": "sluice-gate",
+    "label": "Sluice gate",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mu97mah0vn",
+    "key": "slurm-workload-manager",
+    "label": "Slurm Workload Manager",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m82jna0f8h",
+    "key": "smart-pig",
+    "label": "Smart pig",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bv0zy9wr0n",
+    "key": "smartbidnet",
+    "label": "SmartBidNet",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h2cjyjeoa7",
+    "key": "smartphone-operation",
+    "label": "Smartphone operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r9mdk24kix",
+    "key": "snort",
+    "label": "Snort",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k9446vt92g",
+    "key": "snow-software",
+    "label": "Snow Software",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jh5x3kr85t",
+    "key": "social-and-behavior-change-communication",
+    "label": "Social and behavior change communication",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ot4pymzomt",
+    "key": "social-emotional-learning",
+    "label": "Social-emotional learning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ztbqyvr0s2",
+    "key": "social-media-advertising",
+    "label": "Social media advertising",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oozzdioit7",
+    "key": "social-media-analytics",
+    "label": "Social media analytics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z2atmy7yji",
+    "key": "social-media-content-creation",
+    "label": "Social media content creation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bkbalm9r73",
+    "key": "social-media-content-management",
+    "label": "Social media content management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f1qxsirpfn",
+    "key": "social-media-management",
+    "label": "Social media management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zobx6cbtk7",
+    "key": "social-media-optimization",
+    "label": "Social media optimization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m2lagknaw0",
+    "key": "socket-478",
+    "label": "Socket 478",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

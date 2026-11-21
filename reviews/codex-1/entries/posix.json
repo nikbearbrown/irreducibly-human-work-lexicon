@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "POSIX is a family of standards specifying portable operating-system interfaces, including APIs and shell utilities for Unix-like environments.",
+  "entry_text": "POSIX is a family of standards specifying portable operating-system interfaces, including APIs and shell utilities for Unix-like environments.",
+  "entry_text_kind": "definition",
+  "example": "A developer uses a standardized interface to build software for multiple compatible operating systems.",
+  "id": "i9qx5qqteg",
+  "key": "posix",
+  "label": "POSIX",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

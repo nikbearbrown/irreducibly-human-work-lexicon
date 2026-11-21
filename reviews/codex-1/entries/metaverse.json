@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The metaverse is a broad concept for persistent, shared digital spaces where people interact, often through avatars.",
+  "entry_text": "The metaverse is a broad concept for persistent, shared digital spaces where people interact, often through avatars.",
+  "entry_text_kind": "definition",
+  "example": "A virtual exhibition lets attendees walk through the same digital gallery and speak to one another.",
+  "id": "vr3htpg6gb",
+  "key": "metaverse",
+  "label": "Metaverse",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label has no single settled technical definition.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

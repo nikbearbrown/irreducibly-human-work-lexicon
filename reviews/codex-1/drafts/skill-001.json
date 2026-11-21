@@ -1,0 +1,242 @@
+[
+  {
+    "id": "vybdl8cbsd",
+    "definition": "1Password is a password manager that stores sign-in details and other secrets in encrypted vaults.",
+    "example": "A project team shares a service login through a restricted vault rather than sending the password in chat.",
+    "sense_note": null
+  },
+  {
+    "id": "cw49d7xovz",
+    "definition": "A 360 campaign coordinates a marketing message across multiple channels and audience touchpoints.",
+    "example": "A museum launch uses matching themes in email, street posters, social video, and on-site signage.",
+    "sense_note": null
+  },
+  {
+    "id": "xaw12yw4wk",
+    "definition": "3D modeling software creates and edits digital objects defined in three spatial dimensions.",
+    "example": "A designer builds a chair model and checks how its proportions look from several angles.",
+    "sense_note": null
+  },
+  {
+    "id": "kwcwko7ozp",
+    "definition": "Solid and surface modeling represent three-dimensional geometry as volumes or as bounding surfaces, respectively.",
+    "example": "An engineer shapes a curved housing with surfaces and converts the closed form into a solid to check wall thickness.",
+    "sense_note": null
+  },
+  {
+    "id": "ie5zqb9lez",
+    "definition": "3DMark is a suite of standardized benchmarks for evaluating graphics and gaming performance.",
+    "example": "A reviewer compares two graphics cards with the same 3DMark test and settings.",
+    "sense_note": null
+  },
+  {
+    "id": "t79xst2o2u",
+    "definition": "Four-dimensional construction modeling links elements of a 3D project model to the construction schedule.",
+    "example": "A planner plays back the model to check whether a hoist is installed before façade work begins.",
+    "sense_note": null
+  },
+  {
+    "id": "mo4nl9t5c8",
+    "definition": "TCID50 is a measure of infectivity defined by the dose estimated to produce detectable infection in half of the tissue culture test units.",
+    "example": "A reader distinguishes a published TCID50 result from a count of physical particles.",
+    "sense_note": null
+  },
+  {
+    "id": "xuaqr3xw13",
+    "definition": null,
+    "example": null,
+    "sense_note": "The label names a JavaScript renderer but does not identify the product or meaning of ABC clearly enough to distinguish a specific tool."
+  },
+  {
+    "id": "q79kcfioa9",
+    "definition": "Academic English is the register used to read, discuss, and present arguments and evidence in educational or scholarly contexts.",
+    "example": "A student qualifies a research conclusion and cites the evidence that supports it.",
+    "sense_note": null
+  },
+  {
+    "id": "shp7k2eln7",
+    "definition": "Academic record-keeping maintains authoritative records of students’ enrollment, coursework, and progress.",
+    "example": "A registrar reconciles course completions before issuing a transcript.",
+    "sense_note": null
+  },
+  {
+    "id": "tmruyf3737",
+    "definition": "An accelerated failure time model relates predictors to multiplicative changes in the time until an event.",
+    "example": "A researcher compares how two treatments stretch or shorten the modeled time to relapse.",
+    "sense_note": null
+  },
+  {
+    "id": "n40b1v2pun",
+    "definition": "Accelerated Mobile Pages is a web framework that uses constrained markup and optimized resource loading to build fast-loading pages.",
+    "example": "A publisher builds an AMP version of a news article using the framework’s supported components.",
+    "sense_note": null
+  },
+  {
+    "id": "d16eizgfld",
+    "definition": "Acceptance and Commitment Therapy is a behavioral psychotherapy that develops psychological flexibility through acceptance, awareness, and action guided by personal values.",
+    "example": "A therapist helps a client identify a valued activity to resume even when uncomfortable thoughts are present.",
+    "sense_note": null
+  },
+  {
+    "id": "y80oj040jw",
+    "definition": "Accessioning formally receives and registers an item so its identity and custody can be tracked.",
+    "example": "A museum gives an incoming object a unique identifier and records its provenance.",
+    "sense_note": "The core recordkeeping sense is shared by collections and laboratory specimen workflows."
+  },
+  {
+    "id": "rivr9g4ool",
+    "definition": "The Accountancy and Passenger Ticket Issuing System, or APTIS, was a computerized rail ticketing system that linked ticket sales to accounting records.",
+    "example": "A railway clerk issues a passenger ticket while the system records the transaction for reconciliation.",
+    "sense_note": null
+  },
+  {
+    "id": "g0px5fvj2a",
+    "definition": "The accounting cycle is the recurring sequence of recording transactions, preparing statements, and closing accounts for a reporting period.",
+    "example": "An accountant posts year-end adjustments before preparing financial statements and closing revenue accounts.",
+    "sense_note": null
+  },
+  {
+    "id": "a0cpzx7lc1",
+    "definition": "Accounting software records financial transactions and produces ledger, reconciliation, or reporting outputs.",
+    "example": "A small business reconciles its bank statement against transactions recorded in the software.",
+    "sense_note": null
+  },
+  {
+    "id": "ds2v2gms4a",
+    "definition": "Accounts receivable management tracks what customers owe and follows invoices through collection or other resolution.",
+    "example": "A credit controller uses an aging report to prioritize overdue invoices for follow-up.",
+    "sense_note": null
+  },
+  {
+    "id": "pbxelha0x3",
+    "definition": "ACID Pro is a digital audio workstation designed for arranging loop-based music and editing multitrack recordings.",
+    "example": "A producer combines rhythmic loops with a newly recorded vocal track.",
+    "sense_note": null
+  },
+  {
+    "id": "qwxq4g1dxk",
+    "definition": "ACL Analytics is software for examining datasets and automating audit and control tests.",
+    "example": "An auditor searches a payment ledger for duplicate payments and retains the resulting exceptions for review.",
+    "sense_note": null
+  },
+  {
+    "id": "qtajo535yk",
+    "definition": "Activated sludge is a wastewater treatment process in which a suspended microbial community removes organic matter before solids are separated from the water.",
+    "example": "A treatment plant uses an activated sludge stage before releasing its clarified effluent.",
+    "sense_note": null
+  },
+  {
+    "id": "px641yid6a",
+    "definition": "Active-HDL is a design and simulation environment for digital circuits described in hardware description languages.",
+    "example": "An FPGA engineer simulates a counter design against a testbench before synthesis.",
+    "sense_note": null
+  },
+  {
+    "id": "nv1m32nwsp",
+    "definition": "ActivePivot is an in-memory analytical database for aggregating and exploring large datasets interactively.",
+    "example": "A risk analyst changes portfolio groupings and recomputes exposure totals in a dashboard.",
+    "sense_note": null
+  },
+  {
+    "id": "wpvzxxfp8w",
+    "definition": "ActivePython is ActiveState’s distribution of the Python language and runtime.",
+    "example": "A maintenance team uses the specified ActivePython environment to run an existing automation script.",
+    "sense_note": null
+  },
+  {
+    "id": "calqr5kns5",
+    "definition": "Acunetix is a web application security scanner that helps identify potential weaknesses in authorized web properties.",
+    "example": "A security team reviews scan findings and assigns defensive remediation tasks.",
+    "sense_note": null
+  },
+  {
+    "id": "sordsd3iq2",
+    "definition": "AD Model Builder is a framework that uses automatic differentiation to fit complex statistical models by numerical optimization.",
+    "example": "A fisheries scientist fits a population model and evaluates uncertainty in its fitted parameters.",
+    "sense_note": null
+  },
+  {
+    "id": "ydp6a13kjq",
+    "definition": "AdaBoost is an ensemble method that trains successive weak learners while increasing emphasis on examples earlier learners misclassified.",
+    "example": "A classifier combines multiple shallow decision trees to reduce mistakes on difficult observations.",
+    "sense_note": null
+  },
+  {
+    "id": "t5cy0zpwuy",
+    "definition": "Adaptive equipment modifies how a person performs an activity to accommodate a functional limitation.",
+    "example": "A person with limited grip uses an enlarged utensil handle to eat independently.",
+    "sense_note": null
+  },
+  {
+    "id": "jyl5hk0swj",
+    "definition": "Adaptive Insights is business planning software for budgeting, forecasting, and comparing financial scenarios.",
+    "example": "A finance team models how a hiring delay changes next quarter’s spending forecast.",
+    "sense_note": null
+  },
+  {
+    "id": "rhn76haere",
+    "definition": "Adaptive leadership mobilizes people to learn and change their practices when a problem cannot be resolved with existing expertise alone.",
+    "example": "A department manager facilitates small experiments when new workflows have no established best practice.",
+    "sense_note": null
+  },
+  {
+    "id": "wk12bqmtty",
+    "definition": "The ADDIE model organizes instructional design around analysis, design, development, implementation, and evaluation.",
+    "example": "A training team identifies learner needs before designing lessons and later measures whether the lessons met their objectives.",
+    "sense_note": null
+  },
+  {
+    "id": "u7y9o9rpyw",
+    "definition": "Additive manufacturing builds physical objects by adding material in layers or other successive portions from a digital design.",
+    "example": "A prototyping shop prints a housing whose internal channels would be difficult to machine.",
+    "sense_note": null
+  },
+  {
+    "id": "oq06rmk4iu",
+    "definition": "Adjudication is a formal process for examining evidence and applying rules to decide a dispute or claim.",
+    "example": "A hearing officer reviews the parties’ submissions and issues a reasoned decision.",
+    "sense_note": null
+  },
+  {
+    "id": "zko5ukvqdy",
+    "definition": "Administering blood tests involves carrying out the collection or point-of-care steps needed for an ordered blood analysis.",
+    "example": "A qualified clinician verifies patient identity and documents that an ordered specimen was obtained.",
+    "sense_note": null
+  },
+  {
+    "id": "qukrgv9x75",
+    "definition": "Adobe Analytics is a platform for measuring and analyzing digital customer behavior across visits and channels.",
+    "example": "An analyst compares where visitors leave two versions of an online checkout.",
+    "sense_note": null
+  },
+  {
+    "id": "p8pyyy8zfg",
+    "definition": "Adobe ColdFusion is an application server for building web applications in CFML and related technologies.",
+    "example": "A developer uses ColdFusion to render a portal page populated from a database.",
+    "sense_note": null
+  },
+  {
+    "id": "vmr98s77kp",
+    "definition": "Adobe Experience Platform Launch is a tag-management system for deploying and governing scripts and data collection rules across digital properties.",
+    "example": "A measurement team updates an approved analytics rule without editing each page individually.",
+    "sense_note": null
+  },
+  {
+    "id": "edoqm7c042",
+    "definition": "Adobe Fonts provides a catalog of typefaces for use in supported design and web workflows.",
+    "example": "A designer selects a typeface from Adobe Fonts and applies it consistently across a brand project.",
+    "sense_note": null
+  },
+  {
+    "id": "qq4qgc7k78",
+    "definition": "Adobe PhotoDeluxe was a consumer image editor for retouching pictures and making simple photo projects.",
+    "example": "A user crops a scanned photograph and arranges it in a greeting-card layout.",
+    "sense_note": null
+  },
+  {
+    "id": "qaln0cszm4",
+    "definition": "Adobe Substance 3D Designer creates procedural textures and materials through editable node graphs.",
+    "example": "A material artist builds a stone surface whose crack density can be adjusted without repainting the texture.",
+    "sense_note": null
+  }
+]

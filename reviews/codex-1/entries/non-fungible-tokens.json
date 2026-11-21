@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A non-fungible token is a uniquely identified digital token recorded on a ledger rather than treated as interchangeable with another token of the same type.",
+  "entry_text": "A non-fungible token is a uniquely identified digital token recorded on a ledger rather than treated as interchangeable with another token of the same type.",
+  "entry_text_kind": "definition",
+  "example": "A gallery issues distinct tokens associated with items in an edition.",
+  "id": "oge4mk4z9q",
+  "key": "non-fungible-tokens",
+  "label": "Non-fungible tokens",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "A token does not automatically confer ownership of a referenced work or its copyright.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

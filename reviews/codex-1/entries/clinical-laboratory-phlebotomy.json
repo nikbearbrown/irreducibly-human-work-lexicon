@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Clinical laboratory phlebotomy is the collection and documentation of blood specimens for laboratory analysis.",
+  "entry_text": "Clinical laboratory phlebotomy is the collection and documentation of blood specimens for laboratory analysis.",
+  "entry_text_kind": "definition",
+  "example": "A trained phlebotomist checks patient and specimen identifiers before transferring the sample to the laboratory.",
+  "id": "z4t6jz6jpg",
+  "key": "clinical-laboratory-phlebotomy",
+  "label": "Clinical laboratory phlebotomy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "xl6126omq1",
+    "key": "dairy-science",
+    "label": "Dairy science",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xb17x3c064",
+    "key": "data-as-a-service",
+    "label": "Data as a Service",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "eqeh9wy963",
+    "key": "data-localization",
+    "label": "Data localization",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wf2959cm1y",
+    "key": "data-storage-technologies",
+    "label": "Data storage technologies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gubch3nzct",
+    "key": "database-as-a-service",
+    "label": "Database as a service",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "kke6p4opfp",
+    "key": "database-life-cycle",
+    "label": "Database life cycle",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "sai8akfwpi",
+    "key": "database-systems",
+    "label": "Database systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "msfcsjfs8h",
+    "key": "database-trigger",
+    "label": "Database trigger",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wus3avbghs",
+    "key": "debits-and-credits",
+    "label": "Debits and credits",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d8uol1sujj",
+    "key": "deposition-geology",
+    "label": "Deposition (geology)",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "lcn148zblw",
+    "key": "diagnostic-audiology",
+    "label": "Diagnostic audiology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "k7yr930923",
+    "key": "dialectology",
+    "label": "Dialectology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "psbz3dahyh",
+    "key": "dietetics",
+    "label": "Dietetics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "iz17ednjvl",
+    "key": "digital-currencies",
+    "label": "Digital currencies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mzu6ras3dp",
+    "key": "digital-health-technologies",
+    "label": "Digital health technologies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "nw6j3m07dp",
+    "key": "digital-humanities",
+    "label": "Digital humanities",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j5r068z6ix",
+    "key": "digital-rights-management",
+    "label": "Digital rights management",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "o0rsreqle5",
+    "key": "direct-digital-control",
+    "label": "Direct digital control",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "w169ky8jd2",
+    "key": "disability-insurance",
+    "label": "Disability insurance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i6g0tbrpag",
+    "key": "disaster-loans",
+    "label": "Disaster loans",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "h4ck1veoae",
+    "key": "distributed-computing",
+    "label": "Distributed computing",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "olbfc4v90u",
+    "key": "documentation-lifecycle",
+    "label": "Documentation lifecycle",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zotkhvqj89",
+    "key": "dot-matrix-printing",
+    "label": "Dot matrix printing",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "swb70cmfee",
+    "key": "drug-absorption",
+    "label": "Drug absorption",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fdc0mivhcr",
+    "key": "dynamic-link-library",
+    "label": "Dynamic-link library",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "lqet2be6bf",
+    "key": "early-childhood-mental-health",
+    "label": "Early childhood mental health",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i9zv3uo696",
+    "key": "earthing-systems",
+    "label": "Earthing systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fpev42nqyf",
+    "key": "educational-assessment",
+    "label": "Educational assessment",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xnujen6uj6",
+    "key": "electrical-power-quality",
+    "label": "Electrical power quality",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yy563wgg4o",
+    "key": "electromechanical-engineering",
+    "label": "Electromechanical engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vo4tn2c2c7",
+    "key": "electronic-article-surveillance",
+    "label": "Electronic article surveillance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "pis2iav0c2",
+    "key": "electronic-paper",
+    "label": "Electronic paper",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "tae9xfo4ul",
+    "key": "emergency-procedures",
+    "label": "Emergency procedures",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "degzu6h1fr",
+    "key": "endocannabinoid-system",
+    "label": "Endocannabinoid system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "tz5vp5fotk",
+    "key": "endocrine-disorders",
+    "label": "Endocrine disorders",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "l332ucqq7q",
+    "key": "endodontics",
+    "label": "Endodontics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "pccbu7ba7t",
+    "key": "energy-system-transition",
+    "label": "Energy system transition",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ptaszdu8ky",
+    "key": "engineered-materials-arrestor-system",
+    "label": "Engineered materials arrestor system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "q63qicd4p4",
+    "key": "engineering-economics",
+    "label": "Engineering economics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "f3cm6vxc0h",
+    "key": "engineering-education",
+    "label": "Engineering education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

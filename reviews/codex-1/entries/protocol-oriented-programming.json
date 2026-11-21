@@ -1,0 +1,20 @@
+{
+  "batch": "skill-036.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Protocol-oriented programming structures software around behavioral interfaces called protocols and types that conform to them.",
+  "entry_text": "Protocol-oriented programming structures software around behavioral interfaces called protocols and types that conform to them.",
+  "entry_text_kind": "definition",
+  "example": "A Swift developer defines a rendering protocol and writes code that accepts multiple conforming types.",
+  "id": "dp16u2fll8",
+  "key": "protocol-oriented-programming",
+  "label": "Protocol-oriented programming",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

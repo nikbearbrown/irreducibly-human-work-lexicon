@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Object-oriented programming implements programs using objects that combine data and behavior, with mechanisms such as encapsulation and polymorphism.",
+  "entry_text": "Object-oriented programming implements programs using objects that combine data and behavior, with mechanisms such as encapsulation and polymorphism.",
+  "entry_text_kind": "definition",
+  "example": "A graphics program calls the same draw method on different kinds of shapes.",
+  "id": "i0vpvmxbz0",
+  "key": "object-oriented-programming",
+  "label": "Object-oriented programming",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

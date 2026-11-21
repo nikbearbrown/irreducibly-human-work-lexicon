@@ -1,0 +1,28 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An audio format specification that compresses digital audio without discarding any information needed to reconstruct the source samples.",
+  "entry_text": "An audio format specification that compresses digital audio without discarding any information needed to reconstruct the source samples.",
+  "entry_text_kind": "definition",
+  "example": "An archivist stores recordings in FLAC and can restore their original audio samples.",
+  "id": "mi2t4wx6vw",
+  "key": "free-lossless-audio-codec",
+  "label": "Free Lossless Audio Codec",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "mi2t4wx6vw",
+      "note": "RFC 9639 defines a lossless format for digital audio. Lossless reconstruction refers to the encoded audio samples, not necessarily all metadata or container bytes from a source file.",
+      "packet": "worker-technical-skills.json",
+      "ref": "https://www.rfc-editor.org/rfc/rfc9639.html#section-1",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

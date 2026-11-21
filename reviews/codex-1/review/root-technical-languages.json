@@ -1,0 +1,8 @@
+[
+{"id":"x4397709dt","result":"supports","ref":"https://www.w3.org/Style/CSS/Overview.en.html","note":"W3C documents CSS as the web language for adding presentation style to documents."},
+{"id":"n29960itit","result":"supports","ref":"https://go.dev/doc/","note":"Go project documentation describes compiled execution, concurrency mechanisms and garbage collection."},
+{"id":"twhbebct5l","result":"supports","ref":"https://html.spec.whatwg.org/multipage/introduction.html","note":"WHATWG describes HTML as the web markup language originally designed for semantic description."},
+{"id":"pk7cebmtg6","result":"supports","ref":"https://docs.python.org/3/tutorial/index.html","note":"The Python tutorial explicitly describes dynamic typing, application across many areas and an extensive standard library."},
+{"id":"oeixkjthc3","result":"supports","ref":"https://www.r-project.org/about.html","note":"The R project directly identifies R as a language and environment for statistical computing and graphics."},
+{"id":"f69xny35zm","result":"supports","ref":"https://www.postgresql.org/docs/current/tutorial-sql-intro.html","note":"PostgreSQL's official SQL tutorial identifies SQL as the relational query language and covers creating and maintaining tables and accessing stored data."}
+]

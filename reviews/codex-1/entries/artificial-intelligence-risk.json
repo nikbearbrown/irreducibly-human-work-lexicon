@@ -1,0 +1,28 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Artificial intelligence risk concerns potential harms from the design, deployment, use, or misuse of AI systems and the conditions that make those harms more or less likely.",
+  "entry_text": "Artificial intelligence risk concerns potential harms from the design, deployment, use, or misuse of AI systems and the conditions that make those harms more or less likely.",
+  "entry_text_kind": "definition",
+  "example": "A lender evaluates whether a model could systematically misclassify applicants from a group poorly represented in its training data.",
+  "id": "ub1zd0d7ve",
+  "key": "artificial-intelligence-risk",
+  "label": "Artificial intelligence risk",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "ub1zd0d7ve",
+      "note": "NIST sections 1.1 and 3.2 connect potential harms and their likelihood and severity to lifecycle decisions and contexts of use. The draft describes the negative-risk sense, not the framework’s separate opportunities.",
+      "packet": "scheduled-knowledge-2026-11-21.json",
+      "ref": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

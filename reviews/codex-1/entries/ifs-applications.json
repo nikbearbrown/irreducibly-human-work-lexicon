@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An enterprise business software suite covering functions such as resource planning, asset management, and service operations.",
+  "entry_text": "An enterprise business software suite covering functions such as resource planning, asset management, and service operations.",
+  "entry_text_kind": "definition",
+  "example": "A manufacturer coordinates maintenance work orders and spare parts in an IFS system.",
+  "id": "g9mmd5pvdg",
+  "key": "ifs-applications",
+  "label": "IFS Applications",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the historical IFS Applications name versus newer product branding.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

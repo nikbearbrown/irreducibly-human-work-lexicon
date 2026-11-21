@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Baseline Personnel Security Standard is a UK government framework for basic employment screening of individuals with access to government assets.",
+  "entry_text": "The Baseline Personnel Security Standard is a UK government framework for basic employment screening of individuals with access to government assets.",
+  "entry_text_kind": "definition",
+  "example": "A recruiter documents completion of the required baseline checks before a new staff member begins work.",
+  "id": "pe4jav8s6k",
+  "key": "baseline-personnel-security-standard",
+  "label": "Baseline Personnel Security Standard",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "This is a baseline screening framework, not a national security clearance.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

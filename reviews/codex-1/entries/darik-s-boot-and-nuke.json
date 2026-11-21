@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Darik’s Boot and Nuke was a bootable utility designed to overwrite supported computer storage media for data erasure.",
+  "entry_text": "Darik’s Boot and Nuke was a bootable utility designed to overwrite supported computer storage media for data erasure.",
+  "entry_text_kind": "definition",
+  "example": "An asset-disposal reviewer checks a historical record of an authorized disk wipe and its verification.",
+  "id": "sqqun2bafg",
+  "key": "darik-s-boot-and-nuke",
+  "label": "Darik's Boot and Nuke",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Do not assume erasure suitability for other media, especially solid-state devices.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

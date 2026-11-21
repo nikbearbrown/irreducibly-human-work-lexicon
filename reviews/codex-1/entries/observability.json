@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Observability is the ability to infer a system's internal behavior from emitted signals such as logs, metrics and traces.",
+  "entry_text": "Observability is the ability to infer a system's internal behavior from emitted signals such as logs, metrics and traces.",
+  "entry_text_kind": "definition",
+  "example": "An engineer follows traces and latency metrics to identify which dependency slows a request.",
+  "id": "f4pwxnygi1",
+  "key": "observability",
+  "label": "Observability",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

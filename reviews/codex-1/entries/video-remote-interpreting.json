@@ -1,0 +1,20 @@
+{
+  "batch": "skill-047.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Video remote interpreting connects an interpreter and participants through video.",
+  "entry_text": "Video remote interpreting connects an interpreter and participants through video.",
+  "entry_text_kind": "definition",
+  "example": "A remote interpreter helps a patient communicate during a clinic visit.",
+  "id": "t23fp45nbc",
+  "key": "video-remote-interpreting",
+  "label": "Video remote interpreting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

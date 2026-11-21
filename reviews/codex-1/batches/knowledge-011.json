@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "b2xq589i0g",
+    "key": "private-banking",
+    "label": "Private banking",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "z6wanimd2s",
+    "key": "process-management-operating-systems",
+    "label": "Process management (operating systems)",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "glrrnzyzf0",
+    "key": "process-state",
+    "label": "Process state",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j7et6lzq8c",
+    "key": "professional-negligence-in-english-law",
+    "label": "Professional negligence in English law",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ryaou42crn",
+    "key": "prosthetic-devices",
+    "label": "Prosthetic devices",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "obcy8kghk7",
+    "key": "protein-protein-interaction",
+    "label": "Protein-protein interaction",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zomp6sei1p",
+    "key": "ptas-reduction",
+    "label": "PTAS reduction",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "g75wabftn6",
+    "key": "public-history",
+    "label": "Public history",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "rxof9ifz2b",
+    "key": "public-key-cryptography",
+    "label": "Public-key cryptography",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "aqa8dgmx72",
+    "key": "public-policy",
+    "label": "Public policy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "uoqoozw98l",
+    "key": "quantitative-models-of-the-action-potential",
+    "label": "Quantitative models of the action potential",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i8ccn7r16p",
+    "key": "quantum-dot",
+    "label": "Quantum dot",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wbdhb63fpc",
+    "key": "quantum-merlin-arthur",
+    "label": "Quantum Merlin Arthur",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "b8k8bf3qsh",
+    "key": "quantum-spin-hall-effect",
+    "label": "Quantum spin Hall effect",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "al1g4o1hr9",
+    "key": "quartile",
+    "label": "Quartile",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "eo1aypur0p",
+    "key": "queer-theory",
+    "label": "Queer theory",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "re6fzrz83p",
+    "key": "question-answering",
+    "label": "Question answering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xse7gmd16k",
+    "key": "rail-safety",
+    "label": "Rail safety",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gvcy23bd7y",
+    "key": "railway-signalling",
+    "label": "Railway signalling",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jzoa74uapk",
+    "key": "random-variable",
+    "label": "Random variable",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "iapgb1wud2",
+    "key": "rankine-cycle",
+    "label": "Rankine cycle",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "lkcvbyy23k",
+    "key": "real-estate-contracts",
+    "label": "Real estate contracts",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cgf7ur1s02",
+    "key": "real-estate-owned",
+    "label": "Real estate owned",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yeanq8udmx",
+    "key": "real-estate",
+    "label": "Real estate",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zg79euxsva",
+    "key": "real-time-payments",
+    "label": "Real-time payments",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yqcn8qvr58",
+    "key": "receptive-and-expressive-language",
+    "label": "Receptive and expressive language",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gt17x9dtjr",
+    "key": "reference-range",
+    "label": "Reference range",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "amaofka1yj",
+    "key": "refrigeration-compressors",
+    "label": "Refrigeration compressors",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jio8nmyohw",
+    "key": "refrigeration",
+    "label": "Refrigeration",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yjyj9s94qv",
+    "key": "refugee-issues",
+    "label": "Refugee issues",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gkyfwnguc9",
+    "key": "registered-education-savings-plan",
+    "label": "Registered Education Savings Plan",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yi5wth4bnj",
+    "key": "regulation-sho",
+    "label": "Regulation SHO",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dpym5atjbx",
+    "key": "rehabilitation",
+    "label": "Rehabilitation",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "o63wn5eub5",
+    "key": "reinforced-masonry",
+    "label": "Reinforced masonry",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wrn21idyay",
+    "key": "relational-database-management-system",
+    "label": "Relational database management system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "oodx1gxbvc",
+    "key": "renal-nutrition",
+    "label": "Renal nutrition",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "b0lmdyh8po",
+    "key": "renewable-energy",
+    "label": "Renewable energy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qp1x2nazlg",
+    "key": "reproductive-health-care",
+    "label": "Reproductive health care",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "b504pbeqhu",
+    "key": "research-methodology",
+    "label": "Research methodology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cd19a0euqf",
+    "key": "residential-construction",
+    "label": "Residential construction",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

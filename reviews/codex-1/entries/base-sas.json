@@ -1,0 +1,20 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The core SAS environment and programming facilities for managing and analyzing data.",
+  "entry_text": "The core SAS environment and programming facilities for managing and analyzing data.",
+  "entry_text_kind": "definition",
+  "example": "An analyst uses a DATA step to recode values.",
+  "id": "zam3lqxfdr",
+  "key": "base-sas",
+  "label": "Base SAS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Product and language scope may need separate treatment.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

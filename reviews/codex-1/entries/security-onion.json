@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Security Onion is a security monitoring platform that aggregates and analyzes telemetry from networks and endpoints.",
+  "entry_text": "Security Onion is a security monitoring platform that aggregates and analyzes telemetry from networks and endpoints.",
+  "entry_text_kind": "definition",
+  "example": "A defender reviews network alerts and supporting flow records in a monitoring dashboard.",
+  "id": "ddfo4ab44g",
+  "key": "security-onion",
+  "label": "Security Onion",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

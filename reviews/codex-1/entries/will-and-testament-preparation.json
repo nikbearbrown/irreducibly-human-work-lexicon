@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Will and testament preparation documents a person’s directions for administering and distributing their estate after death.",
+  "entry_text": "Will and testament preparation documents a person’s directions for administering and distributing their estate after death.",
+  "entry_text_kind": "definition",
+  "example": "A legal professional records a client's instructions about beneficiaries and an executor.",
+  "id": "gejo2dg8b2",
+  "key": "will-and-testament-preparation",
+  "label": "Will and testament preparation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Formal requirements vary by jurisdiction.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

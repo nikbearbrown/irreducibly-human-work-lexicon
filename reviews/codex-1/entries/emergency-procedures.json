@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Emergency procedures are predefined actions and responsibilities for protecting people, communicating, and managing an emergency until it is resolved or handed over.",
+  "entry_text": "Emergency procedures are predefined actions and responsibilities for protecting people, communicating, and managing an emergency until it is resolved or handed over.",
+  "entry_text_kind": "definition",
+  "example": "During an evacuation drill, staff account for employees at the designated assembly point.",
+  "id": "tae9xfo4ul",
+  "key": "emergency-procedures",
+  "label": "Emergency procedures",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

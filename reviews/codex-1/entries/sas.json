@@ -1,0 +1,20 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A programming language and software environment for managing data and conducting statistical analyses.",
+  "entry_text": "A programming language and software environment for managing data and conducting statistical analyses.",
+  "entry_text_kind": "definition",
+  "example": "An analyst summarizes survey responses with a SAS procedure.",
+  "id": "d7zsm83o61",
+  "key": "sas",
+  "label": "SAS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Clarify language versus the larger platform if needed.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

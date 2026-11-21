@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Color, material and finish design specifies the visible and tactile surface qualities of a product to achieve intended practical and aesthetic effects.",
+  "entry_text": "Color, material and finish design specifies the visible and tactile surface qualities of a product to achieve intended practical and aesthetic effects.",
+  "entry_text_kind": "definition",
+  "example": "A designer chooses a textured finish that reduces visible fingerprints while supporting the product’s palette.",
+  "id": "z9o1drq4m4",
+  "key": "color-material-and-finish-design",
+  "label": "Color, material and finish design",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

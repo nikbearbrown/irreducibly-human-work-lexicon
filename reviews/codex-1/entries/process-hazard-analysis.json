@@ -1,0 +1,20 @@
+{
+  "batch": "skill-036.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Process hazard analysis systematically examines what could go wrong in a process and evaluates potential consequences and safeguards.",
+  "entry_text": "Process hazard analysis systematically examines what could go wrong in a process and evaluates potential consequences and safeguards.",
+  "entry_text_kind": "definition",
+  "example": "A team reviews a proposed facility change to identify hazards requiring further controls.",
+  "id": "k5ufy5as91",
+  "key": "process-hazard-analysis",
+  "label": "Process hazard analysis",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A navigational aid is a device, signal or reference that helps a navigator determine position or follow a safe route.",
+  "entry_text": "A navigational aid is a device, signal or reference that helps a navigator determine position or follow a safe route.",
+  "entry_text_kind": "definition",
+  "example": "A mariner checks a channel marker against the chart before turning.",
+  "id": "z0p46eqsxu",
+  "key": "navigational-aid",
+  "label": "Navigational aid",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

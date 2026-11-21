@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A software test management product used to organize requirements, test runs, and defects.",
+  "entry_text": "A software test management product used to organize requirements, test runs, and defects.",
+  "entry_text_kind": "definition",
+  "example": "A test lead records regression results and links failed cases to defects.",
+  "id": "qmao9he0d4",
+  "key": "hp-quality-center",
+  "label": "HP Quality Center",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the applicable Quality Center or ALM edition and historical branding.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

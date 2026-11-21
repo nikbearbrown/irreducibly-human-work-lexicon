@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-005.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Food science studies the composition, properties and behavior of foods during production, storage and use.",
+  "entry_text": "Food science studies the composition, properties and behavior of foods during production, storage and use.",
+  "entry_text_kind": "definition",
+  "example": "A team investigates why a sauce separates during refrigerated storage.",
+  "id": "x898wqqz2q",
+  "key": "food-science",
+  "label": "Food science",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

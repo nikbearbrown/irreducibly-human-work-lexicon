@@ -1,0 +1,31 @@
+{
+  "batch": "language-002.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Duala (ISO 639-3: dua) as a language under the Atlantic-Congo grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Atlantic-Congo",
+    "catalog_name": "Duala",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "dual1243",
+    "iso639_3": "dua",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/dual1243"
+  },
+  "definition": "A human language used in spoken and written communication.",
+  "entry_text": "A human language used in spoken and written communication.",
+  "entry_text_kind": "definition",
+  "example": "A researcher transcribes an oral narrative in Duala.",
+  "id": "l6le846miv",
+  "key": "duala",
+  "label": "Duala",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

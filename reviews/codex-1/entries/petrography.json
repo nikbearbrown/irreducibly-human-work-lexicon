@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-010.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Petrography describes and classifies rocks through close observation of their mineral composition and texture, commonly in thin section.",
+  "entry_text": "Petrography describes and classifies rocks through close observation of their mineral composition and texture, commonly in thin section.",
+  "entry_text_kind": "definition",
+  "example": "A geologist examines a thin rock slice under polarized light to identify its constituent minerals.",
+  "id": "zdhjtk4sx3",
+  "key": "petrography",
+  "label": "Petrography",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

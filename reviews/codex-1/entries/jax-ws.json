@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "JAX-WS is a Java API for building and consuming XML-based web services, including SOAP services.",
+  "entry_text": "JAX-WS is a Java API for building and consuming XML-based web services, including SOAP services.",
+  "entry_text_kind": "definition",
+  "example": "A programmer binds a Java service method to a SOAP endpoint described by WSDL.",
+  "id": "q60ouku66r",
+  "key": "jax-ws",
+  "label": "JAX-WS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

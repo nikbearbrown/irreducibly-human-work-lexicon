@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Redesigning organizational processes, services, or business models around digital technologies and data.",
+  "entry_text": "Redesigning organizational processes, services, or business models around digital technologies and data.",
+  "entry_text_kind": "definition",
+  "example": "A hospital replaces a paper referral workflow with a system shared by participating clinics.",
+  "id": "larjv4ascm",
+  "key": "digital-transformation",
+  "label": "Digital transformation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

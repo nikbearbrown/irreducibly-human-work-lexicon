@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Curriculum evaluation gathers and interprets evidence to judge how well an educational program meets its goals.",
+  "entry_text": "Curriculum evaluation gathers and interprets evidence to judge how well an educational program meets its goals.",
+  "entry_text_kind": "definition",
+  "example": "An educator compares assessed student work with the program’s stated learning outcomes.",
+  "id": "nna0x6ic9d",
+  "key": "curriculum-evaluation",
+  "label": "Curriculum evaluation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

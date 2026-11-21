@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Planning how a product or service will reach target customers through positioning, channels, sales, and launch activities.",
+  "entry_text": "Planning how a product or service will reach target customers through positioning, channels, sales, and launch activities.",
+  "entry_text_kind": "definition",
+  "example": "A team identifies its initial customer segment and chooses a distribution channel for launch.",
+  "id": "pb9jup7p6r",
+  "key": "go-to-market-strategy",
+  "label": "Go-to-market strategy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

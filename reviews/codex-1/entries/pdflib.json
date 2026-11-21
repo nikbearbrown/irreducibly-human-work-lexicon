@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PDFlib is a programming library for generating and processing PDF documents.",
+  "entry_text": "PDFlib is a programming library for generating and processing PDF documents.",
+  "entry_text_kind": "definition",
+  "example": "An application uses PDFlib to create reports that embed fonts and charts.",
+  "id": "g98khwp7bb",
+  "key": "pdflib",
+  "label": "PDFlib",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

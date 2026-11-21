@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "tchcnxjts2",
+    "key": "performanceanalytics",
+    "label": "PerformanceAnalytics",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f4azaunkfi",
+    "key": "periscope-data",
+    "label": "Periscope Data",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tozta7hksp",
+    "key": "periscope",
+    "label": "Periscope",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vq49rs5iwp",
+    "key": "permit-to-work",
+    "label": "Permit to work",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iyrl5xu43f",
+    "key": "personal-printer-data-stream",
+    "label": "Personal Printer Data Stream",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zcdt1cpt15",
+    "key": "personal-protective-equipment",
+    "label": "Personal protective equipment",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tpzgmg30qp",
+    "key": "personalization",
+    "label": "Personalization",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e7mhl48ny3",
+    "key": "pest-analysis",
+    "label": "PEST analysis",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "benjtuhjh1",
+    "key": "pet-insurance-sales",
+    "label": "Pet insurance sales",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sc4h9yyxxk",
+    "key": "phalcon",
+    "label": "Phalcon",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w77qwg3nqc",
+    "key": "phantomjs",
+    "label": "PhantomJS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r7lpnxmxrl",
+    "key": "pharmaceutical-batch-documentation",
+    "label": "Pharmaceutical batch documentation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fkzcbz8lh3",
+    "key": "pharmacy-operations",
+    "label": "Pharmacy operations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sul2js0p68",
+    "key": "photo-retouching",
+    "label": "Photo retouching",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v3obh6w5hq",
+    "key": "phpbb",
+    "label": "phpBB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h9w77rp6zb",
+    "key": "phpdesigner",
+    "label": "phpDesigner",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o7uu89ka5g",
+    "key": "phpdocx",
+    "label": "phpdocx",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ieoqhwib8d",
+    "key": "phped",
+    "label": "PhpED",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "osdmq2u9ue",
+    "key": "phpexcel",
+    "label": "PHPExcel",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tlkmz0vxje",
+    "key": "phpfox",
+    "label": "phpFox",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b8w93an4bo",
+    "key": "phpgroupware",
+    "label": "phpGroupWare",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b1phw8p0rp",
+    "key": "phpldapadmin",
+    "label": "phpLDAPadmin",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qcaa98rbm1",
+    "key": "phplist",
+    "label": "phpList",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u1ju3kcd2b",
+    "key": "phpmailer",
+    "label": "PHPMailer",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jxw7ck50wo",
+    "key": "phppgadmin",
+    "label": "phpPgAdmin",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qwaw1go6tv",
+    "key": "phpunit",
+    "label": "PHPUnit",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gtfp6pi8ps",
+    "key": "phpwebsite",
+    "label": "phpWebSite",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "neq83pc35x",
+    "key": "phpwiki",
+    "label": "PhpWiki",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xsr9lchl77",
+    "key": "physical-modelling-synthesis",
+    "label": "Physical modelling synthesis",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u2cju90m1j",
+    "key": "physical-vapor-deposition",
+    "label": "Physical vapor deposition",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wbofx399g8",
+    "key": "piano-playing",
+    "label": "Piano playing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gwnsslbe3u",
+    "key": "pilates",
+    "label": "Pilates",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ja1oge4jc3",
+    "key": "pinterest",
+    "label": "Pinterest",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i9o9dtfo9o",
+    "key": "pipeline-pigging",
+    "label": "Pipeline pigging",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ofsxzlj2y4",
+    "key": "pivotal-tracker",
+    "label": "Pivotal Tracker",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jpze7pqj3g",
+    "key": "pixel-art",
+    "label": "Pixel art",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lfc8pxbfib",
+    "key": "pixijs",
+    "label": "PixiJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y67hoezmp0",
+    "key": "plant-design-management-system",
+    "label": "Plant Design Management System",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "afgwin6zn7",
+    "key": "plant-design",
+    "label": "Plant design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fevw1yj6of",
+    "key": "platespin-migrate",
+    "label": "PlateSpin Migrate",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

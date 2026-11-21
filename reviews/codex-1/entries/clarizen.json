@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Clarizen was a cloud project and portfolio management platform for coordinating work, schedules, resources, and project reporting.",
+  "entry_text": "Clarizen was a cloud project and portfolio management platform for coordinating work, schedules, resources, and project reporting.",
+  "entry_text_kind": "definition",
+  "example": "A project lead checks milestones across a program and updates a resource plan.",
+  "id": "hw93ogmznm",
+  "key": "clarizen",
+  "label": "Clarizen",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

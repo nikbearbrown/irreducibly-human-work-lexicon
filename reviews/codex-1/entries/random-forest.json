@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A random forest combines many randomized decision trees to make a prediction by aggregating their outputs.",
+  "entry_text": "A random forest combines many randomized decision trees to make a prediction by aggregating their outputs.",
+  "entry_text_kind": "definition",
+  "example": "A classifier combines votes from trees trained with different samples or feature subsets.",
+  "id": "ws8dcvyb8p",
+  "key": "random-forest",
+  "label": "Random forest",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "curl is a command-line tool for transferring data to or from servers over supported network protocols.",
+  "entry_text": "curl is a command-line tool for transferring data to or from servers over supported network protocols.",
+  "entry_text_kind": "definition",
+  "example": "A developer downloads a public dataset and records the response status.",
+  "id": "g2b0hvsib5",
+  "key": "curl",
+  "label": "cURL",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Distinguish the command-line program from libcurl, the underlying library.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

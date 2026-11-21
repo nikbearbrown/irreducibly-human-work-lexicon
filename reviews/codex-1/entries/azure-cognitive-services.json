@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Azure Cognitive Services is the historical name for a family of cloud APIs that add capabilities such as language, speech, and vision processing to applications.",
+  "entry_text": "Azure Cognitive Services is the historical name for a family of cloud APIs that add capabilities such as language, speech, and vision processing to applications.",
+  "entry_text_kind": "definition",
+  "example": "A developer adds automatic transcription using a managed speech service.",
+  "id": "vsekbxlib7",
+  "key": "azure-cognitive-services",
+  "label": "Azure Cognitive Services",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "JSON Web Token is a compact format for transmitting claims as a JSON object, commonly signed or integrity-protected with JWS or encrypted with JWE.",
+  "entry_text": "JSON Web Token is a compact format for transmitting claims as a JSON object, commonly signed or integrity-protected with JWS or encrypted with JWE.",
+  "entry_text_kind": "definition",
+  "example": "An API verifies a signed token's issuer, audience and expiration before accepting its claims.",
+  "id": "rvl53f9ykh",
+  "key": "json-web-token",
+  "label": "JSON Web Token",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Windows software development creates and maintains software intended to run on Microsoft Windows.",
+  "entry_text": "Windows software development creates and maintains software intended to run on Microsoft Windows.",
+  "entry_text_kind": "definition",
+  "example": "A developer builds and tests a desktop application against supported Windows versions.",
+  "id": "ohwq8eavw4",
+  "key": "windows-software-development",
+  "label": "Windows software development",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

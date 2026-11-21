@@ -1,0 +1,28 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Microsoft interfaces that allow compatible hardware to accelerate video decoding and other video processing on Windows.",
+  "entry_text": "Microsoft interfaces that allow compatible hardware to accelerate video decoding and other video processing on Windows.",
+  "entry_text_kind": "definition",
+  "example": "A media player delegates supported decoding work to the graphics hardware.",
+  "id": "jqfxxchd9n",
+  "key": "directx-video-acceleration",
+  "label": "DirectX Video Acceleration",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "An API technology, not a standalone video player library.",
+  "sources": [
+    {
+      "id": "jqfxxchd9n",
+      "note": "Microsoft describes the DXVA API and driver interface, and explains that codecs and video processors can offload work to the GPU.",
+      "packet": "worker-technical-skills.json",
+      "ref": "https://learn.microsoft.com/en-us/windows/win32/medfound/directx-video-acceleration-2-0",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

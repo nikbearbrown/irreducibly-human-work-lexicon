@@ -1,0 +1,45 @@
+{
+  "batch": "language-003.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Fali (ISO 639-3: fli) as a language under the Afro-Asiatic grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Afro-Asiatic",
+    "catalog_name": "Fali",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "fali1285",
+    "iso639_3": "fli",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/fali1285"
+  },
+  "definition": null,
+  "entry_text": "Fali [fli] is the exact catalog-name candidate. North Fali [fll], South Fali [fal], and Baissa Fali [fah] have separate codes; metadata does not establish which identity was intended.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "q0vx2lgkj8",
+  "key": "fali",
+  "label": "Fali",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the intended language identifier because Fali can name different languages.",
+  "sense_proposal": {
+    "ambiguity_note": "Fali [fli] is the exact catalog-name candidate. North Fali [fll], South Fali [fal], and Baissa Fali [fah] have separate codes; metadata does not establish which identity was intended.",
+    "id": "q0vx2lgkj8",
+    "label": "Fali",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/fali1285",
+      "https://glottolog.org/resource/languoid/id/nort2770",
+      "https://glottolog.org/resource/languoid/id/sout2782",
+      "https://glottolog.org/resource/languoid/id/bais1242",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3",
+      "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

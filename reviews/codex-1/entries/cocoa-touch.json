@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cocoa Touch is Apple’s application framework layer for building touch-oriented applications on iOS and related platforms.",
+  "entry_text": "Cocoa Touch is Apple’s application framework layer for building touch-oriented applications on iOS and related platforms.",
+  "entry_text_kind": "definition",
+  "example": "A developer uses UIKit views and controllers to build a touch-based interface.",
+  "id": "vy91p7byqt",
+  "key": "cocoa-touch",
+  "label": "Cocoa Touch",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

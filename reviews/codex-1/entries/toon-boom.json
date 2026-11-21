@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Toon Boom is a family of animation and storyboard software used to plan and produce digital animated productions.",
+  "entry_text": "Toon Boom is a family of animation and storyboard software used to plan and produce digital animated productions.",
+  "entry_text_kind": "definition",
+  "example": "An animator uses Toon Boom Harmony to rig a character and revise its poses across a shot.",
+  "id": "u3nn7jymhc",
+  "key": "toon-boom",
+  "label": "Toon Boom",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label may denote the vendor or one of several products.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

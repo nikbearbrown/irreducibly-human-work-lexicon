@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Collecting and correlating telemetry across application, infrastructure, and user-facing layers to understand system behavior.",
+  "entry_text": "Collecting and correlating telemetry across application, infrastructure, and user-facing layers to understand system behavior.",
+  "entry_text_kind": "definition",
+  "example": "An engineer traces a slow page request across services to a database delay.",
+  "id": "w1aq63na2m",
+  "key": "full-stack-observability",
+  "label": "Full-stack observability",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

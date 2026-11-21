@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ShareFile is a file-sharing and collaboration platform for transferring, storing, and controlling access to documents.",
+  "entry_text": "ShareFile is a file-sharing and collaboration platform for transferring, storing, and controlling access to documents.",
+  "entry_text_kind": "definition",
+  "example": "An accounting firm gives a client access to a restricted folder for submitting records.",
+  "id": "yq4iixbank",
+  "key": "sharefile",
+  "label": "ShareFile",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

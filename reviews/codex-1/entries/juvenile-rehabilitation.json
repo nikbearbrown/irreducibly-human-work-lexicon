@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Juvenile rehabilitation supports young people involved in the justice system in changing behavior and returning safely to their communities.",
+  "entry_text": "Juvenile rehabilitation supports young people involved in the justice system in changing behavior and returning safely to their communities.",
+  "entry_text_kind": "definition",
+  "example": "A caseworker coordinates counseling, school attendance and reentry support for a youth leaving placement.",
+  "id": "d5v0dwpx4c",
+  "key": "juvenile-rehabilitation",
+  "label": "Juvenile rehabilitation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

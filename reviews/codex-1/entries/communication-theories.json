@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Communication theories explain how people or systems create, transmit, interpret, and respond to messages in different contexts.",
+  "entry_text": "Communication theories explain how people or systems create, transmit, interpret, and respond to messages in different contexts.",
+  "entry_text_kind": "definition",
+  "example": "A researcher applies framing theory to examine how two headlines lead readers to interpret the same event differently.",
+  "id": "i96jrqh2vb",
+  "key": "communication-theories",
+  "label": "Communication theories",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

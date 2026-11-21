@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Loan agreements are contracts that define the amount borrowed, repayment terms and obligations of the borrower and lender.",
+  "entry_text": "Loan agreements are contracts that define the amount borrowed, repayment terms and obligations of the borrower and lender.",
+  "entry_text_kind": "definition",
+  "example": "A business reviews a loan agreement to identify its repayment schedule and collateral obligations.",
+  "id": "qmf4ku6cqj",
+  "key": "loan-agreements",
+  "label": "Loan agreements",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

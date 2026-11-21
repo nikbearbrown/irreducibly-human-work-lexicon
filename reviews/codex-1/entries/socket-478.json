@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Socket 478 is a 478-contact Intel processor socket used by certain older desktop Pentium 4 and Celeron processors.",
+  "entry_text": "Socket 478 is a 478-contact Intel processor socket used by certain older desktop Pentium 4 and Celeron processors.",
+  "entry_text_kind": "definition",
+  "example": "A technician checks the motherboard socket before selecting a compatible processor for a legacy computer.",
+  "id": "m2lagknaw0",
+  "key": "socket-478",
+  "label": "Socket 478",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

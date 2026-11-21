@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ArtStation is an online portfolio and community platform for visual artists working in fields such as games, film, and illustration.",
+  "entry_text": "ArtStation is an online portfolio and community platform for visual artists working in fields such as games, film, and illustration.",
+  "entry_text_kind": "definition",
+  "example": "A character artist publishes a portfolio piece with supporting design sketches and model views.",
+  "id": "oha0yq6osg",
+  "key": "artstation",
+  "label": "ArtStation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

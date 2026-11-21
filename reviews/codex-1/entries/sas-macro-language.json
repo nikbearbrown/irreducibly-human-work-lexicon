@@ -1,0 +1,20 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A text-generation language for parameterizing and generating SAS code.",
+  "entry_text": "A text-generation language for parameterizing and generating SAS code.",
+  "entry_text_kind": "definition",
+  "example": "An analyst uses a macro parameter to generate the same report for several years.",
+  "id": "pr56rj4a6x",
+  "key": "sas-macro-language",
+  "label": "SAS macro language",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Debits and credits are the left- and right-side entries of double-entry accounting, and their effects on balances depend on the account type.",
+  "entry_text": "Debits and credits are the left- and right-side entries of double-entry accounting, and their effects on balances depend on the account type.",
+  "entry_text_kind": "definition",
+  "example": "A cash purchase of supplies debits the supplies asset account and credits the cash asset account.",
+  "id": "wus3avbghs",
+  "key": "debits-and-credits",
+  "label": "Debits and credits",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

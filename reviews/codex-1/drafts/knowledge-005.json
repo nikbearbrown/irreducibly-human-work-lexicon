@@ -1,0 +1,242 @@
+[
+  {
+    "id": "kgaqqkj85g",
+    "definition": "Engineering mathematics applies mathematical methods to modeling, analysis and design in engineering.",
+    "example": "An engineer uses differential equations to predict a suspension system's motion.",
+    "sense_note": null
+  },
+  {
+    "id": "yf5sbs8dj5",
+    "definition": "Engineering statics studies the forces and moments on objects in equilibrium.",
+    "example": "A structural engineer calculates the reactions at both supports of a beam.",
+    "sense_note": null
+  },
+  {
+    "id": "mcd36zu7px",
+    "definition": "Engineering statistics applies probability and statistical inference to engineering data and decisions.",
+    "example": "A reliability engineer estimates uncertainty in a component's average lifetime.",
+    "sense_note": null
+  },
+  {
+    "id": "tr09cdaifq",
+    "definition": "An eNodeB is the LTE base station that manages radio communications between mobile devices and the core network.",
+    "example": "An eNodeB allocates radio resources to phones in its cell.",
+    "sense_note": null
+  },
+  {
+    "id": "csly32ln8y",
+    "definition": "Environmental anthropology studies how human cultures and communities interact with and understand their environments.",
+    "example": "A researcher studies how fishing practices reflect local knowledge of a river.",
+    "sense_note": null
+  },
+  {
+    "id": "cxnx0quia8",
+    "definition": "Environmental finance examines how financial instruments, investment and risk management address environmental goals or impacts.",
+    "example": "An analyst compares financing structures for restoring a watershed.",
+    "sense_note": null
+  },
+  {
+    "id": "ynz87l2wd8",
+    "definition": "Environmental, social and governance factors describe three groups of nonfinancial considerations used to evaluate organizations and investments.",
+    "example": "A portfolio review considers emissions, workforce policies and board oversight.",
+    "sense_note": null
+  },
+  {
+    "id": "has4hqzm9c",
+    "definition": "Equities are ownership interests in companies, commonly held as shares of stock.",
+    "example": "A fund holds shares in several public companies as part of its equity allocation.",
+    "sense_note": null
+  },
+  {
+    "id": "c8dynexvh1",
+    "definition": "Erikson's theory divides psychosocial development into eight life stages, each organized around a characteristic conflict.",
+    "example": "A developmental psychology class discusses identity versus role confusion in adolescence.",
+    "sense_note": null
+  },
+  {
+    "id": "cr5t68tqrq",
+    "definition": "Ethical AI addresses how AI systems can be developed and used in ways that respect people and reduce harm.",
+    "example": "A team evaluates whether an automated tool systematically disadvantages one user group.",
+    "sense_note": null
+  },
+  {
+    "id": "xscxa564ti",
+    "definition": "Etiology is the origin or cause of a disease or condition, or the study of those causes.",
+    "example": "An epidemiologist investigates whether several cases share the same source.",
+    "sense_note": null
+  },
+  {
+    "id": "nlpp5heif9",
+    "definition": "Excess return is the difference between an investment's return and a specified reference return.",
+    "example": "A portfolio gaining 7 percent shows a 2-percentage-point excess return over a benchmark gaining 5 percent.",
+    "sense_note": "The comparator can be a benchmark, risk-free rate or another specified reference."
+  },
+  {
+    "id": "st55lsvhfe",
+    "definition": "Expectancy theory explains motivation in terms of beliefs about whether effort leads to performance, performance to outcomes, and those outcomes are valued.",
+    "example": "An employee is more willing to take on a difficult assignment when success seems attainable and the reward worthwhile.",
+    "sense_note": null
+  },
+  {
+    "id": "l3hn8e47ak",
+    "definition": "The Extended Parallel Process Model predicts responses to fear appeals from perceived threat and perceived ability to respond effectively.",
+    "example": "A researcher compares whether a flood warning encourages preparation or leads recipients to tune out.",
+    "sense_note": null
+  },
+  {
+    "id": "afj4721k6w",
+    "definition": "Extended reality is an umbrella term for technologies that combine or substitute digital experiences for aspects of the physical world.",
+    "example": "A training program combines augmented-reality instructions with a virtual-reality practice environment.",
+    "sense_note": null
+  },
+  {
+    "id": "d96cz68osz",
+    "definition": "An extended validation certificate is a public-key certificate issued after a certificate authority performs prescribed checks on an organization's identity.",
+    "example": "A company seeks extended validation to have its legal identity vetted during certificate issuance.",
+    "sense_note": "Browser presentation varies; it does not establish that the site is safe."
+  },
+  {
+    "id": "v7d85yap3i",
+    "definition": "Eye surgery comprises operations on the eye or its supporting structures to treat disease, injury or visual problems.",
+    "example": "An ophthalmologist replaces a clouded lens during cataract surgery.",
+    "sense_note": null
+  },
+  {
+    "id": "bnirjna4h6",
+    "definition": "Factoring is the sale of accounts receivable to a third party, commonly to receive cash before invoices come due.",
+    "example": "A distributor sells unpaid invoices to a factor rather than waiting for customer payments.",
+    "sense_note": null
+  },
+  {
+    "id": "m9enm9l66f",
+    "definition": "Family and consumer sciences studies everyday decisions about resources, well-being and relationships in households and communities.",
+    "example": "A class teaches families to plan a food budget around nutrition and cost.",
+    "sense_note": null
+  },
+  {
+    "id": "b54kbh2h43",
+    "definition": "Family ministry is organized religious work that supports families in their relationships, spiritual life and participation in a faith community.",
+    "example": "A congregation offers a parenting discussion group through its family ministry.",
+    "sense_note": null
+  },
+  {
+    "id": "ji21mv1q0v",
+    "definition": "Family systems theory understands families as interdependent systems in which members' behavior and relationships influence one another.",
+    "example": "A counselor examines how one person's stress changes patterns of communication across the household.",
+    "sense_note": null
+  },
+  {
+    "id": "x67fsx1qco",
+    "definition": "Feminist theory includes frameworks for examining how gendered power and inequality shape social institutions and lived experience.",
+    "example": "A researcher analyzes how assumptions about caregiving shape workplace promotion practices.",
+    "sense_note": null
+  },
+  {
+    "id": "oo03viu49k",
+    "definition": "Fibre Channel is a high-speed networking technology used chiefly to connect servers to shared storage.",
+    "example": "A data center uses Fibre Channel to connect database servers to a storage array.",
+    "sense_note": null
+  },
+  {
+    "id": "ll3qkk2jdu",
+    "definition": "A field-programmable gate array is a chip whose digital logic circuitry can be configured after manufacture.",
+    "example": "An engineer configures an FPGA to filter multiple signal channels in parallel.",
+    "sense_note": null
+  },
+  {
+    "id": "qmvmif4a3i",
+    "definition": "A file control block is a data structure that holds the metadata an operating system uses to manage a file.",
+    "example": "A system consults a file control block to locate stored file data.",
+    "sense_note": "The specific fields and purpose differ across operating systems."
+  },
+  {
+    "id": "yjhzrcmw7v",
+    "definition": "Final expense insurance is life insurance marketed to help beneficiaries cover funeral and other end-of-life costs.",
+    "example": "A beneficiary uses the policy proceeds toward a funeral bill.",
+    "sense_note": null
+  },
+  {
+    "id": "hl9jtiahtk",
+    "definition": "Financial privacy concerns control over who can collect, use and disclose information about a person's finances.",
+    "example": "A banking app asks permission before sharing transaction history with a budgeting service.",
+    "sense_note": null
+  },
+  {
+    "id": "nymhipg0hw",
+    "definition": "Flexible Single Master Operations are Active Directory roles that assign specific directory-wide or domain-wide operations to designated domain controllers.",
+    "example": "An administrator checks which domain controller holds the schema master role before a schema change.",
+    "sense_note": null
+  },
+  {
+    "id": "fa900jy3j1",
+    "definition": "Floating-point arithmetic performs calculations on finite-precision numbers represented with a significand and exponent.",
+    "example": "A programmer uses a tolerance when comparing the results of two approximate calculations.",
+    "sense_note": null
+  },
+  {
+    "id": "fmr7msrro2",
+    "definition": "Fluid statics studies pressure and forces in liquids and gases at rest.",
+    "example": "An engineer calculates how water pressure increases with depth along a stationary tank wall.",
+    "sense_note": null
+  },
+  {
+    "id": "cdwflm7faa",
+    "definition": "Folk music includes musical traditions passed through communities and the styles that draw on those traditions.",
+    "example": "Participants learn a local dance tune by playing it together at gatherings.",
+    "sense_note": null
+  },
+  {
+    "id": "cd4wpjcvoe",
+    "definition": "Food economics studies how prices, policies and incentives shape food production, distribution and consumption.",
+    "example": "An economist examines how rising transport costs affect grocery prices.",
+    "sense_note": null
+  },
+  {
+    "id": "k3mym9larg",
+    "definition": "Food microbiology studies microorganisms that affect how foods ferment, spoil or transmit illness.",
+    "example": "A food scientist studies the cultures that give yogurt its texture and acidity.",
+    "sense_note": null
+  },
+  {
+    "id": "mcl9mvr4nx",
+    "definition": "Food process engineering applies engineering principles to design and control operations that transform or preserve foods.",
+    "example": "An engineer sizes a heat exchanger for a beverage production line.",
+    "sense_note": null
+  },
+  {
+    "id": "dd2h4imy46",
+    "definition": "Food safety comprises practices and controls that prevent food from harming consumers.",
+    "example": "A cafeteria keeps raw ingredients separate from prepared salads.",
+    "sense_note": null
+  },
+  {
+    "id": "x898wqqz2q",
+    "definition": "Food science studies the composition, properties and behavior of foods during production, storage and use.",
+    "example": "A team investigates why a sauce separates during refrigerated storage.",
+    "sense_note": null
+  },
+  {
+    "id": "y6ccuo6c1l",
+    "definition": "Forced draft systems use a fan or blower to push air into equipment that needs controlled airflow.",
+    "example": "A boiler uses a forced draft fan to supply air for combustion.",
+    "sense_note": null
+  },
+  {
+    "id": "ojapzhs7kb",
+    "definition": "Forensic dentistry applies dental expertise to questions of identification and legal evidence.",
+    "example": "A specialist compares dental records with available dental evidence to help identify remains.",
+    "sense_note": null
+  },
+  {
+    "id": "vpg63jqsjx",
+    "definition": "Forklift safety concerns practices that reduce collisions, tip-overs and other injuries during forklift operation.",
+    "example": "A warehouse uses separate travel lanes for pedestrians and forklifts.",
+    "sense_note": null
+  },
+  {
+    "id": "xdi53hf5ry",
+    "definition": "A fuel cell converts chemical energy into electricity through an electrochemical reaction while reactants are supplied.",
+    "example": "A stationary fuel cell supplies backup electricity to a facility.",
+    "sense_note": null
+  }
+]

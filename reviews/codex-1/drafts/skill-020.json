@@ -1,0 +1,242 @@
+[
+  {
+    "id": "o0xh85dvg5",
+    "definition": "Google's advertising platform for placing and measuring paid campaigns across search and other supported channels.",
+    "example": "A retailer measures purchases attributed to a Google Ads search campaign.",
+    "sense_note": null
+  },
+  {
+    "id": "vi7zc8mye4",
+    "definition": "Google's former name for its conversational generative AI assistant, later rebranded as Gemini.",
+    "example": "A user asks the conversational interface to draft an outline.",
+    "sense_note": "Historical product name; do not assume the feature set of current Gemini products."
+  },
+  {
+    "id": "s5wfbovdhh",
+    "definition": "A Google tool for managing the information an organization displays in Google Search and Maps.",
+    "example": "A shop updates its public business hours and address.",
+    "sense_note": null
+  },
+  {
+    "id": "wwygnox2lh",
+    "definition": "Google's collection of cloud computing services for building and operating applications, infrastructure, and data systems.",
+    "example": "A team deploys a web service and stores application data on managed cloud resources.",
+    "sense_note": null
+  },
+  {
+    "id": "fni7jt25xn",
+    "definition": "A discontinued Google interactive whiteboard product and associated collaboration application.",
+    "example": "Participants in a past workshop used Jamboard to organize digital sticky notes.",
+    "sense_note": null
+  },
+  {
+    "id": "y29ojw2nif",
+    "definition": "Google's managed Kubernetes service for operating clusters and deploying containerized workloads.",
+    "example": "A platform team deploys a containerized service to a managed GKE cluster.",
+    "sense_note": null
+  },
+  {
+    "id": "qwxve2acvt",
+    "definition": "A discontinued Google website experimentation tool for testing page variations and personalization.",
+    "example": "A team previously used Google Optimize to compare two landing-page designs.",
+    "sense_note": null
+  },
+  {
+    "id": "o691ftsrfr",
+    "definition": "An online spreadsheet application for organizing, calculating, analyzing, and sharing tabular data.",
+    "example": "Two analysts edit a budget together and calculate totals with formulas.",
+    "sense_note": null
+  },
+  {
+    "id": "l119bneew7",
+    "definition": "An online presentation application for creating, editing, and sharing slide decks collaboratively.",
+    "example": "A team prepares and comments on presentation slides in a shared file.",
+    "sense_note": null
+  },
+  {
+    "id": "xxggdc82ng",
+    "definition": "Google's suite of cloud productivity and collaboration services for organizations and individuals.",
+    "example": "A project team combines shared documents, email, meetings, and calendars in Workspace.",
+    "sense_note": null
+  },
+  {
+    "id": "wm61vorv24",
+    "definition": "A discontinued Google social networking platform for sharing posts and organizing online communities.",
+    "example": "Members of a historical Google+ community shared news and comments about a hobby.",
+    "sense_note": null
+  },
+  {
+    "id": "myl1vbxorx",
+    "definition": "A brand and product family best known for compact action cameras designed to record activities in motion.",
+    "example": "A cyclist uses a mounted camera to record a ride.",
+    "sense_note": null
+  },
+  {
+    "id": "kzkhrmm2jm",
+    "definition": "A tax preparation and compliance application for preparing and processing professional tax returns.",
+    "example": "A tax preparer assembles the forms for a multi-entity client in GoSystem Tax RS.",
+    "sense_note": null
+  },
+  {
+    "id": "mzkgkg9ifg",
+    "definition": "Establishing and applying oversight, responsibilities, and controls for the development and use of artificial intelligence systems.",
+    "example": "An organization requires documented evaluation and approval before an AI system enters production.",
+    "sense_note": null
+  },
+  {
+    "id": "h8tb04y8ia",
+    "definition": "Managing communication and collaboration with government officials, agencies, or public bodies on matters relevant to an organization.",
+    "example": "A community organization briefs a public agency about a proposed joint program.",
+    "sense_note": null
+  },
+  {
+    "id": "xmvmbpscz8",
+    "definition": "A network-based project analysis method that represents uncertain activity paths and durations, including alternatives and loops.",
+    "example": "A planner models a process in which an unsuccessful test may send a task back for rework.",
+    "sense_note": null
+  },
+  {
+    "id": "bwvcfq0xhb",
+    "definition": "A raster image format supporting palette-based images and sequences of frames for simple animation.",
+    "example": "A help page uses a short GIF to demonstrate a menu transition.",
+    "sense_note": null
+  },
+  {
+    "id": "k7txrlpsj4",
+    "definition": "An open-source system for storing numeric time-series data and graphing the resulting metrics.",
+    "example": "An operations team graphs historical application request counts in Graphite.",
+    "sense_note": "Confirm the monitoring tool sense rather than the material or a different product with this name."
+  },
+  {
+    "id": "nnpo33gfsf",
+    "definition": "Welcoming visitors in a way that acknowledges their arrival and provides initial orientation or assistance.",
+    "example": "A receptionist welcomes a visitor and directs them to the correct meeting room.",
+    "sense_note": null
+  },
+  {
+    "id": "z3cpi1yc3f",
+    "definition": "Joining workpieces by depositing weld material in a prepared groove between adjoining edges.",
+    "example": "A qualified welder joins two steel plates in accordance with the specified groove joint design.",
+    "sense_note": null
+  },
+  {
+    "id": "wcem2h6zih",
+    "definition": "Maintaining outdoor landscaped areas and yards through routine care, cleanup, and attention to plant and surface condition.",
+    "example": "A groundskeeper trims vegetation and clears a public pathway.",
+    "sense_note": null
+  },
+  {
+    "id": "q4anc8fb3e",
+    "definition": "A process for making a decision using the input and judgment of multiple participants.",
+    "example": "A committee compares proposals against shared criteria and votes on a recommendation.",
+    "sense_note": null
+  },
+  {
+    "id": "rm2id4spt5",
+    "definition": "Coordinating contributions and responsibilities while collaborating on a shared activity or outcome.",
+    "example": "Students divide research tasks and combine their findings into a joint report.",
+    "sense_note": null
+  },
+  {
+    "id": "gvxp4p5oq8",
+    "definition": "A messaging application for creating group conversations and exchanging messages with members.",
+    "example": "A student team coordinates meeting times in a GroupMe chat.",
+    "sense_note": null
+  },
+  {
+    "id": "kx6hq4bfym",
+    "definition": "A JavaScript task runner that automates configured development operations such as builds, tests, and file processing.",
+    "example": "A developer runs a Grunt task to prepare assets for distribution.",
+    "sense_note": null
+  },
+  {
+    "id": "o7ocsir0rp",
+    "definition": "An open-source software library for adding validations and checks around generative AI outputs.",
+    "example": "A developer validates a model response against an expected schema before displaying it.",
+    "sense_note": null
+  },
+  {
+    "id": "xayt8bhrdg",
+    "definition": "Controls that constrain, validate, or monitor AI behavior to reduce unsafe or unintended outcomes.",
+    "example": "An application prevents an assistant from committing an irreversible action without required approval.",
+    "sense_note": null
+  },
+  {
+    "id": "ojeubzzg6x",
+    "definition": "A JavaScript build tool that automates tasks such as processing or transforming files through pipelines.",
+    "example": "A developer uses a Gulp task to transform source styles into deployment assets.",
+    "sense_note": null
+  },
+  {
+    "id": "v9eefyu589",
+    "definition": "Performing and developing coordinated movements that require strength, balance, flexibility, and body control.",
+    "example": "A gymnast practices a balanced routine on the beam with coaching.",
+    "sense_note": null
+  },
+  {
+    "id": "p1m3z4jikp",
+    "definition": "A video coding standard for compressing moving pictures, used in systems such as digital television and DVD.",
+    "example": "A decoder reconstructs video frames from an MPEG-2 Video stream.",
+    "sense_note": null
+  },
+  {
+    "id": "z1ujvxs2o9",
+    "definition": "A distributed file system in the Apache Hadoop ecosystem that stores large files across multiple machines.",
+    "example": "A data processing job reads a large dataset divided into blocks across an HDFS cluster.",
+    "sense_note": null
+  },
+  {
+    "id": "k533vkg8mw",
+    "definition": "A handheld device with moving blades for cutting hair to a chosen length.",
+    "example": "A barber uses a clipper with an appropriate guide to produce an even length.",
+    "sense_note": null
+  },
+  {
+    "id": "qj03k5ss5r",
+    "definition": "A file system developed for DragonFly BSD with features for retaining historical filesystem data.",
+    "example": null,
+    "sense_note": "Confirm whether the label means original HAMMER or separately named HAMMER2."
+  },
+  {
+    "id": "u3dikz1bvr",
+    "definition": "A JavaScript library for recognizing touch or pointer gestures in web interfaces.",
+    "example": "A gallery recognizes a horizontal swipe with Hammer.js and moves to the next image.",
+    "sense_note": null
+  },
+  {
+    "id": "hheoc0urcl",
+    "definition": "Drawing letterforms by hand to create a specific visual composition, rather than writing with uniform type characters.",
+    "example": "An illustrator draws custom lettering that fits the shape of a sign.",
+    "sense_note": null
+  },
+  {
+    "id": "q6he1cwe1i",
+    "definition": "Providing rehabilitation for the hand and upper extremity to improve function after injury, illness, or surgery.",
+    "example": "An occupational therapist assesses grip and helps a patient regain useful hand movement.",
+    "sense_note": null
+  },
+  {
+    "id": "qhqzepuu95",
+    "definition": "A system for assigning and resolving persistent identifiers for digital or other identified objects.",
+    "example": "A repository exposes a persistent handle that continues to resolve after a record moves to a new URL.",
+    "sense_note": null
+  },
+  {
+    "id": "v4wdughw0p",
+    "definition": "A JavaScript templating library that renders structured data into text using reusable templates and expressions.",
+    "example": "A web application uses Handlebars to generate a view from product records.",
+    "sense_note": null
+  },
+  {
+    "id": "evbr3hj7wv",
+    "definition": "A Node.js framework for building web services with routing, configuration, and extensible plugins.",
+    "example": "A developer defines application routes and attaches request validation using hapi.",
+    "sense_note": null
+  },
+  {
+    "id": "khu10n7d7g",
+    "definition": "Controlling and documenting hardware baselines, versions, interfaces, and approved changes.",
+    "example": "An engineering team records which board revisions are approved for a specific product configuration.",
+    "sense_note": null
+  }
+]

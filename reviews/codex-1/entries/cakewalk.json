@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cakewalk is a digital audio workstation lineage for recording, arranging, editing, and mixing music.",
+  "entry_text": "Cakewalk is a digital audio workstation lineage for recording, arranging, editing, and mixing music.",
+  "entry_text_kind": "definition",
+  "example": "A musician edits MIDI notes and balances recorded tracks in a mix.",
+  "id": "q6fnn8m7no",
+  "key": "cakewalk",
+  "label": "Cakewalk",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label could also refer to a software publisher or historical products under that name.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

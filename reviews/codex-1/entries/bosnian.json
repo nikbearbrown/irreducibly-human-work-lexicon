@@ -1,0 +1,28 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A human language used in conversation and written communication.",
+  "entry_text": "A human language used in conversation and written communication.",
+  "entry_text_kind": "definition",
+  "example": "An interpreter explains application instructions in Bosnian.",
+  "id": "t86zp83kn8",
+  "key": "bosnian",
+  "label": "Bosnian",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "t86zp83kn8",
+      "note": "PCC confirms Bosnian as a distinct standard-language identifier (bos) and its use in written records. The draft is generic and spoken usage was not checked here.",
+      "packet": "targeted-language-scope-2026-11-21.json",
+      "ref": "https://www.loc.gov/aba/pcc/scs/documents/ISO-639-3-guidelines.pdf",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

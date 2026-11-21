@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A class of security tools that monitors endpoint activity, detects suspicious behavior, and supports investigation and coordinated response.",
+  "entry_text": "A class of security tools that monitors endpoint activity, detects suspicious behavior, and supports investigation and coordinated response.",
+  "entry_text_kind": "definition",
+  "example": "An analyst reviews a workstation alert and uses the tool to investigate related events.",
+  "id": "qd1x4xiu5o",
+  "key": "endpoint-detection-and-response",
+  "label": "Endpoint detection and response",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

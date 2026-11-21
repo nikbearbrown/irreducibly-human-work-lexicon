@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Case analysis examines the facts, context, and alternatives in a specific situation to support an interpretation or decision.",
+  "entry_text": "Case analysis examines the facts, context, and alternatives in a specific situation to support an interpretation or decision.",
+  "entry_text_kind": "definition",
+  "example": "A business student compares possible responses to a supplier failure using a detailed written case.",
+  "id": "nr9nocn8r3",
+  "key": "case-analysis",
+  "label": "Case analysis",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

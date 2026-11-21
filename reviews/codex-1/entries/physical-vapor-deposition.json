@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Physical vapor deposition applies a thin coating by vaporizing material and depositing it onto a surface in a controlled environment.",
+  "entry_text": "Physical vapor deposition applies a thin coating by vaporizing material and depositing it onto a surface in a controlled environment.",
+  "entry_text_kind": "definition",
+  "example": "A manufacturer coats a component with a thin wear-resistant layer.",
+  "id": "u2cju90m1j",
+  "key": "physical-vapor-deposition",
+  "label": "Physical vapor deposition",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

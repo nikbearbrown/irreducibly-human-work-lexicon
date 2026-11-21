@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Casualty movement is the organized relocation or transport of an injured person to safety or appropriate care while accounting for their condition.",
+  "entry_text": "Casualty movement is the organized relocation or transport of an injured person to safety or appropriate care while accounting for their condition.",
+  "entry_text_kind": "definition",
+  "example": "A first-aid drill evaluates whether participants coordinate a simulated handoff safely.",
+  "id": "e9497o6o3v",
+  "key": "casualty-movement",
+  "label": "Casualty movement",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

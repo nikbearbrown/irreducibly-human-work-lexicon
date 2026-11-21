@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Shuttle car operation is the controlled use of a mobile underground mining vehicle that carries material between extraction and transfer points.",
+  "entry_text": "Shuttle car operation is the controlled use of a mobile underground mining vehicle that carries material between extraction and transfer points.",
+  "entry_text_kind": "definition",
+  "example": "An operator transports material from a mining machine to a designated discharge point under the site's safety procedures.",
+  "id": "y6nnymqmh6",
+  "key": "shuttle-car-operation",
+  "label": "Shuttle car operation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Likely underground mining sense; confirm vehicle type if another industry is intended.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

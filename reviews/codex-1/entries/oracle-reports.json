@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Oracle Reports is a toolset for designing and publishing formatted reports from database data.",
+  "entry_text": "Oracle Reports is a toolset for designing and publishing formatted reports from database data.",
+  "entry_text_kind": "definition",
+  "example": "A developer creates a report template that renders a monthly transaction summary.",
+  "id": "im9mjynl0i",
+  "key": "oracle-reports",
+  "label": "Oracle Reports",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

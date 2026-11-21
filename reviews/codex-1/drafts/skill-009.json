@@ -1,0 +1,242 @@
+[
+  {
+    "id": "rywn4mucmx",
+    "definition": "Channel sales reaches customers through partners such as distributors, resellers, and retailers rather than only through direct sales.",
+    "example": "A software vendor trains an authorized reseller to sell and support its product.",
+    "sense_note": null
+  },
+  {
+    "id": "chya8hfm4m",
+    "definition": "Character art develops the visual appearance of fictional characters through drawings, paintings, or digital models.",
+    "example": "A game artist draws several silhouettes before modeling the selected character.",
+    "sense_note": null
+  },
+  {
+    "id": "v00xfjkjpc",
+    "definition": "Chart.js is a JavaScript library for rendering common data chart types using the browser’s canvas element.",
+    "example": "A developer adds a chart that shows week-by-week traffic in an analytics app.",
+    "sense_note": null
+  },
+  {
+    "id": "j95dttpz2w",
+    "definition": "Chip design specifies and verifies the electronic circuits and layout to be fabricated in an integrated circuit.",
+    "example": "An engineer checks a proposed hardware block for timing and functional correctness before fabrication.",
+    "sense_note": null
+  },
+  {
+    "id": "rr8nuoopwd",
+    "definition": "Chipmunk2D is a physics library for simulating rigid bodies, collisions, and constraints in two dimensions.",
+    "example": "A game developer models a ball bouncing between moving platforms.",
+    "sense_note": null
+  },
+  {
+    "id": "b6aks1wdou",
+    "definition": "Chordiant was an enterprise software platform for customer relationship management and rules-based customer interactions.",
+    "example": "A service provider maintains a legacy workflow that guides support agents through account inquiries.",
+    "sense_note": null
+  },
+  {
+    "id": "qrnkinzz01",
+    "definition": "Choreography composes and organizes movement in time and space for a performance.",
+    "example": "A choreographer arranges the dancers’ entrances, spacing, and shared movements.",
+    "sense_note": null
+  },
+  {
+    "id": "uar2udvki6",
+    "definition": "Chromatography software controls compatible instruments or processes and reports chromatographic measurement data.",
+    "example": "A quality analyst reviews a chromatogram and checks how the software integrated its peaks.",
+    "sense_note": null
+  },
+  {
+    "id": "e528lasxbu",
+    "definition": "A chronometer is a precision timekeeping instrument, traditionally associated with navigation or certified accuracy.",
+    "example": "A maritime exhibit explains how a reliable chronometer let navigators compare local time with reference time.",
+    "sense_note": "In some occupational lists the term is used more broadly for a precision timer."
+  },
+  {
+    "id": "ek5du86681",
+    "definition": "Cisco Intersight is an infrastructure management platform for monitoring and operating supported systems from a shared control interface.",
+    "example": "An infrastructure team reviews firmware compliance for enrolled systems.",
+    "sense_note": null
+  },
+  {
+    "id": "g19y1gv4wx",
+    "definition": "Cisco UCS Director automates configuration and operations across supported computing, networking, and storage infrastructure.",
+    "example": "An administrator uses a predefined workflow to provision a standard development environment.",
+    "sense_note": null
+  },
+  {
+    "id": "tmqozvht84",
+    "definition": "Civil engineering design develops and verifies plans for infrastructure and built works against conditions, safety requirements, and user needs.",
+    "example": "An engineer sizes site drainage structures for the design’s expected runoff.",
+    "sense_note": null
+  },
+  {
+    "id": "xyi17s2fy2",
+    "definition": "CKEditor is a web-based rich text editor component for authoring and formatting content in applications.",
+    "example": "A publisher embeds CKEditor in a form that lets editors add links and headings.",
+    "sense_note": null
+  },
+  {
+    "id": "w49tfjhjw9",
+    "definition": "Claim processing receives, validates, evaluates, and resolves requests for payment or coverage under applicable rules.",
+    "example": "An insurance processor compares a submitted claim with the policy and requests missing documents.",
+    "sense_note": null
+  },
+  {
+    "id": "fyins3tz6o",
+    "definition": "Claims modeling uses statistical or computational methods to estimate claim frequency, cost, development, or related outcomes.",
+    "example": "An insurer models the expected annual cost of reported property claims.",
+    "sense_note": "This assumes the actuarial or insurance sense; it is not about constructing an argument."
+  },
+  {
+    "id": "hw93ogmznm",
+    "definition": "Clarizen was a cloud project and portfolio management platform for coordinating work, schedules, resources, and project reporting.",
+    "example": "A project lead checks milestones across a program and updates a resource plan.",
+    "sense_note": null
+  },
+  {
+    "id": "eg9tmz288m",
+    "definition": "Clash detection identifies incompatible intersections or clearances between components in a coordinated design model.",
+    "example": "A construction coordinator finds a duct that overlaps a structural beam before installation.",
+    "sense_note": null
+  },
+  {
+    "id": "twrr15dgpe",
+    "definition": "A classification and regression tree recursively splits observations by predictor values and assigns a class or numerical prediction to each final region.",
+    "example": "An analyst grows a tree to predict relative order-processing time from workload and staffing.",
+    "sense_note": null
+  },
+  {
+    "id": "g35t5hixm4",
+    "definition": "The U.S. Clean Air Act establishes a federal framework for controlling air pollution, including air quality and emissions standards.",
+    "example": "An environmental specialist identifies which air-pollution requirements are relevant to an industrial facility.",
+    "sense_note": "The generic name can refer to other countries’ statutes; this definition assumes the U.S. law."
+  },
+  {
+    "id": "zxuhn9wqrx",
+    "definition": "The U.S. Clean Water Act establishes a federal framework for protecting water quality and regulating certain discharges of pollutants into waters.",
+    "example": "A facility reviews whether a wastewater discharge needs a permit.",
+    "sense_note": "This definition assumes the U.S. statute."
+  },
+  {
+    "id": "rzz95q00uw",
+    "definition": "ClearDB was a managed cloud database service centered on MySQL-compatible databases.",
+    "example": "A developer connects an application to an existing hosted ClearDB database.",
+    "sense_note": null
+  },
+  {
+    "id": "aciqe7t4nw",
+    "definition": "Client confidentiality protects information learned through a client relationship from disclosure without appropriate authority.",
+    "example": "A consultant limits circulation of a client’s records to the approved project team.",
+    "sense_note": null
+  },
+  {
+    "id": "h8isdaje7z",
+    "definition": "A clinical data repository stores and organizes patient-related data from clinical systems for authorized retrieval or analysis.",
+    "example": "A hospital makes laboratory results from several departments available through a shared record.",
+    "sense_note": null
+  },
+  {
+    "id": "rb9mtm72hn",
+    "definition": "Clinical documentation improvement clarifies and completes clinical records so they accurately support patient care, coding, and reporting.",
+    "example": "A specialist asks a clinician to clarify conflicting descriptions of a diagnosis without suggesting an unsupported answer.",
+    "sense_note": null
+  },
+  {
+    "id": "z4t6jz6jpg",
+    "definition": "Clinical laboratory phlebotomy is the collection and documentation of blood specimens for laboratory analysis.",
+    "example": "A trained phlebotomist checks patient and specimen identifiers before transferring the sample to the laboratory.",
+    "sense_note": null
+  },
+  {
+    "id": "qh6fizk0v5",
+    "definition": "A closed-circuit television camera sends video to a limited monitoring or recording system rather than to a public broadcast.",
+    "example": "A facility uses an authorized camera to monitor access to a stockroom.",
+    "sense_note": null
+  },
+  {
+    "id": "pkrafh1a5u",
+    "definition": "A cloud access security broker applies an organization’s security policies to its use of cloud applications or services.",
+    "example": "A security team monitors whether approved cloud applications are being used to store restricted information.",
+    "sense_note": null
+  },
+  {
+    "id": "ycn2mm67g2",
+    "definition": "Cloud-native development builds software to use cloud delivery, operational automation, and independently manageable infrastructure or components.",
+    "example": "A team automates deployment and scaling for a service across multiple instances.",
+    "sense_note": null
+  },
+  {
+    "id": "b2h7n09yjc",
+    "definition": "CNC programming specifies the controlled motions and instructions a computer numerical control machine uses to manufacture a part.",
+    "example": "A machinist simulates a toolpath before running it on a milling machine.",
+    "sense_note": null
+  },
+  {
+    "id": "vy91p7byqt",
+    "definition": "Cocoa Touch is Apple’s application framework layer for building touch-oriented applications on iOS and related platforms.",
+    "example": "A developer uses UIKit views and controllers to build a touch-based interface.",
+    "sense_note": null
+  },
+  {
+    "id": "c5l9xyik3i",
+    "definition": "CocoaPods is a dependency manager that integrates libraries into projects built with Xcode.",
+    "example": "A maintainer refreshes a project’s prescribed dependency versions and rebuilds it.",
+    "sense_note": null
+  },
+  {
+    "id": "guisdss7ww",
+    "definition": "CocoonJS was a platform for packaging and running HTML5 applications and games as mobile apps.",
+    "example": "A maintainer reviews how a legacy web game accesses native device features.",
+    "sense_note": "This is distinct from Apache Cocoon."
+  },
+  {
+    "id": "e3m33mt7of",
+    "definition": "Collaboration software helps people exchange information, coordinate work, or jointly edit shared materials.",
+    "example": "Several reviewers comment on a proposal and track decisions in a shared workspace.",
+    "sense_note": null
+  },
+  {
+    "id": "kut5s14k79",
+    "definition": "Collaboration is working with others toward a shared outcome by coordinating contributions, decisions, and responsibilities.",
+    "example": "Designers and engineers jointly resolve an accessibility problem before release.",
+    "sense_note": null
+  },
+  {
+    "id": "qwg7xy898e",
+    "definition": "Collaborative Planning, Forecasting and Replenishment is a supply-chain practice in which trading partners share plans and demand forecasts to coordinate inventory replenishment.",
+    "example": "A retailer and supplier exchange demand projections ahead of a seasonal promotion.",
+    "sense_note": null
+  },
+  {
+    "id": "psbb6fbfk4",
+    "definition": "Color matching adjusts or selects colors so a sample or output visually or instrumentally agrees with a target under specified conditions.",
+    "example": "A print technician compares a proof to a reference under controlled lighting.",
+    "sense_note": null
+  },
+  {
+    "id": "z9o1drq4m4",
+    "definition": "Color, material and finish design specifies the visible and tactile surface qualities of a product to achieve intended practical and aesthetic effects.",
+    "example": "A designer chooses a textured finish that reduces visible fingerprints while supporting the product’s palette.",
+    "sense_note": null
+  },
+  {
+    "id": "p56jjjonfi",
+    "definition": "A combine harvester cuts a crop, threshes it, and separates the usable grain in one machine.",
+    "example": "An operator harvests wheat and monitors how much grain is lost behind the machine.",
+    "sense_note": null
+  },
+  {
+    "id": "ekceelb9fw",
+    "definition": "Commercial loan documentation records a business borrower’s obligations and the terms, conditions, and security interests associated with a loan.",
+    "example": "A loan officer assembles the signed agreement and collateral records for review.",
+    "sense_note": null
+  },
+  {
+    "id": "vrm9lzl1br",
+    "definition": "Commissioning, qualification and validation are coordinated activities for putting a system into service, verifying specified operation, and documenting consistent fitness for intended use.",
+    "example": "An equipment team tests a newly installed line against requirements before documenting its authorized production use.",
+    "sense_note": null
+  }
+]

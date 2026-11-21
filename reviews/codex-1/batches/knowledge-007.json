@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "c0src1lras",
+    "key": "hvac-controls",
+    "label": "HVAC controls",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "kwz7uq4aje",
+    "key": "hypercompact-stellar-systems",
+    "label": "Hypercompact stellar systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "eqs79srrpm",
+    "key": "image-and-video-compression",
+    "label": "Image and video compression",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ramrv3b9a1",
+    "key": "imaging-informatics",
+    "label": "Imaging informatics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "bprelfo6pk",
+    "key": "immunization",
+    "label": "Immunization",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d8xh9h0m0q",
+    "key": "immunohaematology",
+    "label": "Immunohaematology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cj5rjuoa37",
+    "key": "in-memory-database",
+    "label": "In-memory database",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "voqokiy3af",
+    "key": "inbound-logistics",
+    "label": "Inbound logistics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "da5idct9o6",
+    "key": "incurred-but-not-reported",
+    "label": "Incurred but not reported",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j18ihca7b5",
+    "key": "indentation-hardness",
+    "label": "Indentation hardness",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "a2nphi3heq",
+    "key": "individual-life-insurance",
+    "label": "Individual life insurance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "a4cpgp9pfi",
+    "key": "individualized-education-program",
+    "label": "Individualized Education Program",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jtnu7fnqvl",
+    "key": "individualized-family-service-plan",
+    "label": "Individualized Family Service Plan",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "h65kyjr4ub",
+    "key": "industrial-internet-of-things",
+    "label": "Industrial Internet of Things",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mwcmyvh54c",
+    "key": "industrial-statistics",
+    "label": "Industrial statistics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mu8pgevr8j",
+    "key": "infant-development",
+    "label": "Infant development",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ydzwl9wfab",
+    "key": "ingredient-functionality",
+    "label": "Ingredient functionality",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ncdmib9pd8",
+    "key": "integrative-biology",
+    "label": "Integrative biology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gycnd1oe8v",
+    "key": "intellectual-property",
+    "label": "Intellectual property",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "g2o5zhkc75",
+    "key": "intended-nationally-determined-contributions",
+    "label": "Intended Nationally Determined Contributions",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ipdzyw63rq",
+    "key": "iss-environmental-control-and-life-support-system",
+    "label": "ISS Environmental Control and Life Support System",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cl8qm37sfr",
+    "key": "it-governance",
+    "label": "IT governance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ud3xd0snz8",
+    "key": "it-s-lemma",
+    "label": "Itô's lemma",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "hd1530gaoe",
+    "key": "knowledge-graphs",
+    "label": "Knowledge graphs",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "nj7ggxlzyt",
+    "key": "labor-market-trends",
+    "label": "Labor market trends",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "knzx0n9lzt",
+    "key": "labour-economics",
+    "label": "Labour economics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "k7zdlmxxst",
+    "key": "labour-law",
+    "label": "Labour law",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ptrm1ihsdz",
+    "key": "land-atmosphere-interactions",
+    "label": "Land-atmosphere interactions",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ag0hpcesx8",
+    "key": "large-language-models",
+    "label": "Large language models",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "v5qd3g817l",
+    "key": "laser-engineering",
+    "label": "Laser engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qlsxg8d6i9",
+    "key": "laser-printing",
+    "label": "Laser printing",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ev1tagfici",
+    "key": "latin-american-and-latino-studies",
+    "label": "Latin American and Latino studies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i3hhtsx5w7",
+    "key": "law-enforcement-operations",
+    "label": "Law enforcement operations",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "o7831ig0bi",
+    "key": "law-enforcement-practices",
+    "label": "Law enforcement practices",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jpejvd4f2s",
+    "key": "lawful-interception",
+    "label": "Lawful interception",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "u2aqbj190k",
+    "key": "leisure-education",
+    "label": "Leisure education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "u5ee5ubtkw",
+    "key": "letterforms",
+    "label": "Letterforms",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "k5la1dxosl",
+    "key": "librarianship",
+    "label": "Librarianship",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "m0xr2zu744",
+    "key": "linguistic-morphology",
+    "label": "Linguistic morphology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qmf4ku6cqj",
+    "key": "loan-agreements",
+    "label": "Loan agreements",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

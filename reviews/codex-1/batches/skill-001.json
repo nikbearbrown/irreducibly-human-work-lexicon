@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "vybdl8cbsd",
+    "key": "1password",
+    "label": "1Password",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cw49d7xovz",
+    "key": "360-campaigns",
+    "label": "360 campaigns",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xaw12yw4wk",
+    "key": "3d-modeling-software",
+    "label": "3D modeling software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kwcwko7ozp",
+    "key": "3d-solid-and-surface-modeling",
+    "label": "3D solid and surface modeling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ie5zqb9lez",
+    "key": "3dmark",
+    "label": "3DMark",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t79xst2o2u",
+    "key": "4d-modeling-construction",
+    "label": "4D modeling (construction)",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mo4nl9t5c8",
+    "key": "50-tissue-culture-infectious-dose-tcid50",
+    "label": "50% tissue culture infectious dose (TCID50)",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xuaqr3xw13",
+    "key": "abc-javascript-renderer",
+    "label": "ABC JavaScript Renderer",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q79kcfioa9",
+    "key": "academic-english",
+    "label": "Academic English",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "shp7k2eln7",
+    "key": "academic-record-keeping",
+    "label": "Academic record-keeping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tmruyf3737",
+    "key": "accelerated-failure-time-models",
+    "label": "Accelerated failure time models",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n40b1v2pun",
+    "key": "accelerated-mobile-pages",
+    "label": "Accelerated Mobile Pages",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d16eizgfld",
+    "key": "acceptance-and-commitment-therapy",
+    "label": "Acceptance and Commitment Therapy",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y80oj040jw",
+    "key": "accessioning",
+    "label": "Accessioning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rivr9g4ool",
+    "key": "accountancy-and-passenger-ticket-issuing-system",
+    "label": "Accountancy and Passenger Ticket Issuing System",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g0px5fvj2a",
+    "key": "accounting-cycle",
+    "label": "Accounting cycle",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a0cpzx7lc1",
+    "key": "accounting-software",
+    "label": "Accounting software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ds2v2gms4a",
+    "key": "accounts-receivable-management",
+    "label": "Accounts receivable management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pbxelha0x3",
+    "key": "acid-pro",
+    "label": "ACID Pro",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qwxq4g1dxk",
+    "key": "acl-analytics",
+    "label": "ACL Analytics",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qtajo535yk",
+    "key": "activated-sludge",
+    "label": "Activated sludge",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "px641yid6a",
+    "key": "active-hdl",
+    "label": "Active-HDL",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nv1m32nwsp",
+    "key": "activepivot",
+    "label": "ActivePivot",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wpvzxxfp8w",
+    "key": "activepython",
+    "label": "ActivePython",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "calqr5kns5",
+    "key": "acunetix",
+    "label": "Acunetix",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sordsd3iq2",
+    "key": "ad-model-builder",
+    "label": "AD Model Builder",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ydp6a13kjq",
+    "key": "adaboost",
+    "label": "AdaBoost",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t5cy0zpwuy",
+    "key": "adaptive-equipment",
+    "label": "Adaptive equipment",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jyl5hk0swj",
+    "key": "adaptive-insights",
+    "label": "Adaptive Insights",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rhn76haere",
+    "key": "adaptive-leadership",
+    "label": "Adaptive leadership",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wk12bqmtty",
+    "key": "addie-model",
+    "label": "ADDIE model",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u7y9o9rpyw",
+    "key": "additive-manufacturing",
+    "label": "Additive manufacturing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oq06rmk4iu",
+    "key": "adjudication-process",
+    "label": "Adjudication process",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zko5ukvqdy",
+    "key": "administering-blood-tests",
+    "label": "Administering blood tests",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qukrgv9x75",
+    "key": "adobe-analytics",
+    "label": "Adobe Analytics",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p8pyyy8zfg",
+    "key": "adobe-coldfusion",
+    "label": "Adobe ColdFusion",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vmr98s77kp",
+    "key": "adobe-experience-platform-launch",
+    "label": "Adobe Experience Platform Launch",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "edoqm7c042",
+    "key": "adobe-fonts",
+    "label": "Adobe Fonts",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qq4qgc7k78",
+    "key": "adobe-photodeluxe",
+    "label": "Adobe PhotoDeluxe",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qaln0cszm4",
+    "key": "adobe-substance-3d-designer",
+    "label": "Adobe Substance 3D Designer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

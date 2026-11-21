@@ -1,0 +1,39 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": null,
+  "entry_text": "Maintainer documentation supports abcjs as a strong candidate and identifies abc2svg as a separate JavaScript project for ABC music notation. No unique package, vendor, or original source is encoded in the label; do not assign one.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "xuaqr3xw13",
+  "key": "abc-javascript-renderer",
+  "label": "ABC JavaScript Renderer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label names a JavaScript renderer but does not identify the product or meaning of ABC clearly enough to distinguish a specific tool.",
+  "sense_proposal": {
+    "ambiguity_note": "Maintainer documentation supports abcjs as a strong candidate and identifies abc2svg as a separate JavaScript project for ABC music notation. No unique package, vendor, or original source is encoded in the label; do not assign one.",
+    "id": "xuaqr3xw13",
+    "label": "ABC JavaScript Renderer",
+    "proposed_definition": null,
+    "refs": [
+      "https://docs.abcjs.net/visual/render-abc-options.html",
+      "https://www.abcjs.net/abcjs-basic",
+      "https://github.com/moinejf/abc2svg/blob/master/package.json"
+    ]
+  },
+  "sources": [
+    {
+      "id": "xuaqr3xw13",
+      "note": "abcjs is a plausible match: the project describes rendering ABC text music notation in JavaScript. This does not establish the source label refers only to that project.",
+      "packet": "root-skill-037-and-abc.json",
+      "ref": "https://www.abcjs.net/",
+      "result": "unconfirmed"
+    }
+  ],
+  "verification": "not-confirmed"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Veeva provides cloud software for life sciences operations such as clinical, regulatory, quality, and commercial workflows.",
+  "entry_text": "Veeva provides cloud software for life sciences operations such as clinical, regulatory, quality, and commercial workflows.",
+  "entry_text_kind": "definition",
+  "example": "A regulatory team manages approved document versions in a Veeva Vault application.",
+  "id": "kw9fh6vj31",
+  "key": "veeva",
+  "label": "Veeva",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Vendor and product-family label; exact Veeva application is not specified.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

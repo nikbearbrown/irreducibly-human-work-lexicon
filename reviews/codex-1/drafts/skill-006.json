@@ -1,0 +1,242 @@
+[
+  {
+    "id": "hg1pgsuuhk",
+    "definition": "Azure Policy evaluates Azure resources against governance rules and can apply effects such as audit or denial.",
+    "example": "An administrator audits whether deployments use approved geographic regions.",
+    "sense_note": null
+  },
+  {
+    "id": "dtlvf3ey43",
+    "definition": "Azure Security refers to protecting Azure workloads and data through identity, network, configuration, and monitoring controls.",
+    "example": "A cloud team restricts storage access to approved identities and monitors for unauthorized changes.",
+    "sense_note": "This is a broad practice, not necessarily a single Microsoft product."
+  },
+  {
+    "id": "n225fen24i",
+    "definition": "Babylon.js is a JavaScript and TypeScript engine for rendering and interacting with 3D scenes on the web.",
+    "example": "A developer adds an interactive product model to a browser-based showroom.",
+    "sense_note": null
+  },
+  {
+    "id": "hty63xrb26",
+    "definition": "Back-end development implements the services, storage, and business logic that support client applications.",
+    "example": "A developer builds an order service that checks inventory before saving a purchase.",
+    "sense_note": null
+  },
+  {
+    "id": "fvywboh27m",
+    "definition": "Backbone.js is a JavaScript library that structures web applications using models, collections, views, and routing.",
+    "example": "A maintainer updates how a Backbone view responds to changes in its underlying data.",
+    "sense_note": null
+  },
+  {
+    "id": "pabpxn4ry1",
+    "definition": "BACnet is a communication protocol for exchanging data among building automation and control systems.",
+    "example": "A facilities dashboard reads room temperatures from compatible heating and ventilation controllers.",
+    "sense_note": null
+  },
+  {
+    "id": "hxclrzb8sy",
+    "definition": "Bacon.js is a JavaScript library for modeling changing values and asynchronous events with functional reactive streams.",
+    "example": "A web interface combines a filter selection stream with a search text stream.",
+    "sense_note": null
+  },
+  {
+    "id": "rqqx99ehke",
+    "definition": "Bacterial culture is the growth of bacteria in a controlled laboratory setting for observation, identification, or study.",
+    "example": "A microbiologist reviews a culture report to distinguish growth from a negative result.",
+    "sense_note": null
+  },
+  {
+    "id": "z3g31q33r8",
+    "definition": "The balafon is a wooden-key percussion instrument, usually with resonators beneath its keys, used in West African musical traditions.",
+    "example": "An ensemble player performs a repeating melodic pattern on a balafon.",
+    "sense_note": null
+  },
+  {
+    "id": "sa8c6ibu44",
+    "definition": "Balloon modelling shapes inflated balloons into recognizable figures or decorative structures.",
+    "example": "A performer twists balloons into a simple animal for an event.",
+    "sense_note": null
+  },
+  {
+    "id": "kt2njukdr4",
+    "definition": "Banner advertising places visual promotional units within websites, apps, or other digital displays.",
+    "example": "A campaign team checks whether a display banner is legible at its intended dimensions.",
+    "sense_note": null
+  },
+  {
+    "id": "nx4r7bqcht",
+    "definition": "Banyan VINES was a network operating system that provided directory, file, and other network services.",
+    "example": "An IT historian examines how a legacy office network organized users and shared printers.",
+    "sense_note": null
+  },
+  {
+    "id": "pe4jav8s6k",
+    "definition": "The Baseline Personnel Security Standard is a UK government framework for basic employment screening of individuals with access to government assets.",
+    "example": "A recruiter documents completion of the required baseline checks before a new staff member begins work.",
+    "sense_note": "This is a baseline screening framework, not a national security clearance."
+  },
+  {
+    "id": "a7qvbb5y4u",
+    "definition": "BaseX is an XML database and XQuery processor for storing and querying structured documents.",
+    "example": "A publishing team retrieves sections of manuals by querying their XML markup.",
+    "sense_note": null
+  },
+  {
+    "id": "ppl4zfnufj",
+    "definition": "Batman.js was a JavaScript framework for building client-side web applications around models, bindings, and views.",
+    "example": "A maintainer troubleshoots an obsolete application whose page automatically updates when its data changes.",
+    "sense_note": null
+  },
+  {
+    "id": "bt8p5jsa0c",
+    "definition": "Battle management is the coordination of situational information, decisions, and resources during military operations.",
+    "example": "A historian studies how a command structure divided responsibility for tracking events and reporting decisions.",
+    "sense_note": null
+  },
+  {
+    "id": "h8992wzklv",
+    "definition": "Bed mobility is the ability to reposition oneself in bed or the clinical support needed to perform those movements.",
+    "example": "A therapist observes how independently a patient can roll and move into a seated position.",
+    "sense_note": null
+  },
+  {
+    "id": "jctieiwib0",
+    "definition": "Behavior change communication uses audience research and designed messages to support adoption or maintenance of a specific behavior.",
+    "example": "A community program tests which reminders make attendance at scheduled health appointments easier.",
+    "sense_note": null
+  },
+  {
+    "id": "r2s2a082xj",
+    "definition": "Benefits realisation management defines intended gains from an initiative and tracks whether they occur after implementation.",
+    "example": "A project sponsor assigns responsibility for checking processing time several months after a new workflow launches.",
+    "sense_note": null
+  },
+  {
+    "id": "cv3d24xm4v",
+    "definition": "Bereavement care provides practical, emotional, and, when appropriate, clinical support to people grieving a death.",
+    "example": "A care team offers a family information about local grief support and follows up after the funeral.",
+    "sense_note": null
+  },
+  {
+    "id": "chxsoqxi2v",
+    "definition": "The Berkeley Data Analytics Stack was a research software ecosystem integrating tools for distributed processing and analysis of large datasets.",
+    "example": "A researcher studies how its projects combined cluster computing with analytics workloads.",
+    "sense_note": null
+  },
+  {
+    "id": "kqpe0qcysy",
+    "definition": "Bidirectional-streams Over Synchronous HTTP is a transport specification that emulates a two-way stream using sequences of HTTP requests and responses.",
+    "example": "A messaging client exchanges streaming messages over ordinary HTTP infrastructure.",
+    "sense_note": null
+  },
+  {
+    "id": "yapu6om8hs",
+    "definition": "BigFix is an endpoint-management platform for tracking device inventory, distributing software, and applying patches or configuration policies.",
+    "example": "An administrator checks which managed devices still need an approved update.",
+    "sense_note": null
+  },
+  {
+    "id": "tdp9wsve0r",
+    "definition": "Binary Ninja is a reverse-engineering platform for examining compiled software through disassembly and intermediate representations.",
+    "example": "A defender reviews an unknown executable’s high-level behavior as part of incident triage.",
+    "sense_note": null
+  },
+  {
+    "id": "bzg3r9ulfm",
+    "definition": "BIND is a software implementation of the Domain Name System used to serve authoritative DNS answers or resolve names.",
+    "example": "An administrator validates a zone change before publishing it on a nameserver.",
+    "sense_note": null
+  },
+  {
+    "id": "of69xfk012",
+    "definition": "Bioconductor is a collection of R packages and data resources for analyzing biological and genomic datasets.",
+    "example": "A researcher generates exploratory plots from a published gene-expression dataset.",
+    "sense_note": null
+  },
+  {
+    "id": "swfjde2n0t",
+    "definition": "Biopython is a collection of Python libraries for working with biological data formats and computational biology tasks.",
+    "example": "An analyst reads annotation records from a public sequence database into a table.",
+    "sense_note": null
+  },
+  {
+    "id": "pk4hydl0w5",
+    "definition": "Bitly is a link-management service that creates shortened URLs and measures interactions with them.",
+    "example": "An event team compares clicks on links printed on two different flyers.",
+    "sense_note": null
+  },
+  {
+    "id": "gojjwsv7zx",
+    "definition": "BlackLine provides software for managing reconciliations, close tasks, and related accounting controls.",
+    "example": "An accounting team records a balance reconciliation and routes it for sign-off.",
+    "sense_note": null
+  },
+  {
+    "id": "jfqj25il68",
+    "definition": "Blast radius analysis estimates which systems, users, or operations could be affected by a proposed change or failure.",
+    "example": "A team maps which applications depend on a database before scheduling its maintenance.",
+    "sense_note": null
+  },
+  {
+    "id": "w1blu9iu00",
+    "definition": "Blended learning purposefully combines in-person instruction with online or computer-mediated learning activities.",
+    "example": "Learners review demonstrations online and use class time to practice with instructor feedback.",
+    "sense_note": null
+  },
+  {
+    "id": "p5xwz73srr",
+    "definition": "Blender Game Engine was Blender’s integrated runtime and authoring environment for interactive 3D experiences.",
+    "example": "An archivist opens a legacy project in a compatible Blender version to inspect its logic bricks.",
+    "sense_note": "The historical Blender component is distinct from later forks and unrelated engines."
+  },
+  {
+    "id": "a55fzbayyn",
+    "definition": "Boa Constructor was a Python development environment and GUI builder for applications using wxPython.",
+    "example": "A maintainer opens a legacy desktop dialog and edits the layout visually.",
+    "sense_note": null
+  },
+  {
+    "id": "ljshci25ww",
+    "definition": "A board support package contains the code and configuration needed to run an operating system on a particular hardware board.",
+    "example": "An embedded developer uses the package to initialize a board’s supported peripherals at boot.",
+    "sense_note": null
+  },
+  {
+    "id": "r87rnj12pg",
+    "definition": "Body contouring refers to surgical or nonsurgical procedures intended to change the shape of a region of the body.",
+    "example": "A clinician discusses which contouring options, risks, and recovery expectations are relevant to a patient’s goals.",
+    "sense_note": null
+  },
+  {
+    "id": "qynnjedz1c",
+    "definition": "BODYATTACK is a branded group fitness class built around aerobics, athletic movement, and conditioning exercises.",
+    "example": "An instructor demonstrates a low-impact alternative during a group session.",
+    "sense_note": null
+  },
+  {
+    "id": "g24dhd0nzf",
+    "definition": "BODYPUMP is a branded group fitness class using repeated resistance exercises performed with barbells or weights.",
+    "example": "A participant selects an appropriate load for the class’s squat track.",
+    "sense_note": null
+  },
+  {
+    "id": "bjp3i8vngr",
+    "definition": "Bonjour is Apple’s zero-configuration networking implementation for local network service discovery and name resolution.",
+    "example": "A laptop discovers a compatible network printer without requiring its address to be entered manually.",
+    "sense_note": null
+  },
+  {
+    "id": "zvd4xk1u3p",
+    "definition": "Boolean search combines search terms using logical operators to include, require, or exclude conditions.",
+    "example": "A recruiter searches for analyst profiles that mention either Python or R while requiring a specified location.",
+    "sense_note": null
+  },
+  {
+    "id": "zwm9kkpnld",
+    "definition": "The Box API provides programming access to Box content, users, permissions, and related services.",
+    "example": "An authorized integration uploads a report to a designated team folder.",
+    "sense_note": null
+  }
+]

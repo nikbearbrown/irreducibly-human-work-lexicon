@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "ubbks6pmjn",
+    "key": "data-warehouse-management",
+    "label": "Data warehouse management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ie3ky4o9l0",
+    "key": "data-wrangling",
+    "label": "Data wrangling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jqnx17j4zy",
+    "key": "database-administration",
+    "label": "Database administration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kp84ig38m5",
+    "key": "database-design",
+    "label": "Database design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qwwzdu21ry",
+    "key": "database-mirroring",
+    "label": "Database mirroring",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x4ws8p3zju",
+    "key": "db-access",
+    "label": "DB-Access",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n8zkppxggv",
+    "key": "db2-400",
+    "label": "DB2/400",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n6jajuq7xe",
+    "key": "dbcc",
+    "label": "DBCC",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d4twtmz0xj",
+    "key": "dbfit",
+    "label": "DbFit",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hqe3a6n58q",
+    "key": "dbpedia",
+    "label": "DBpedia",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v9psjv5xcb",
+    "key": "dbsnp",
+    "label": "dbSNP",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ey99gk851b",
+    "key": "dbunit",
+    "label": "DbUnit",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ds71vj3zr1",
+    "key": "dbvisualizer",
+    "label": "DbVisualizer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tlgs5hgvnv",
+    "key": "dc-js",
+    "label": "dc.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k0i39m7973",
+    "key": "dcid-6-3",
+    "label": "DCID 6/3",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m8l9rs4net",
+    "key": "deal-shaping",
+    "label": "Deal shaping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f247pyw2ly",
+    "key": "dealing-with-enquiries",
+    "label": "Dealing with enquiries",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x76mwrjain",
+    "key": "deboning",
+    "label": "Deboning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zh5hk9g8gz",
+    "key": "deburring",
+    "label": "Deburring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a4mmn4cmho",
+    "key": "decision-making-software",
+    "label": "Decision-making software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hcxk1prurk",
+    "key": "decorating",
+    "label": "Decorating",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g7ttwtxbej",
+    "key": "deegree",
+    "label": "deegree",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nw1oyk7q86",
+    "key": "deep-learning",
+    "label": "Deep learning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ovrrog0mz2",
+    "key": "defensive-tactics",
+    "label": "Defensive tactics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ri3r675sh1",
+    "key": "deflashing",
+    "label": "Deflashing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cjla0mq4dy",
+    "key": "delivery-pipeline",
+    "label": "Delivery pipeline",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n77gq847cg",
+    "key": "dell-wyse-thin-clients",
+    "label": "Dell Wyse thin clients",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "abl7u4xght",
+    "key": "deltek-costpoint",
+    "label": "Deltek Costpoint",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vt6xft6d62",
+    "key": "demolition",
+    "label": "Demolition",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r988qdft8n",
+    "key": "dental-plaque-removal",
+    "label": "Dental plaque removal",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c0kd1bmd4t",
+    "key": "dental-records",
+    "label": "Dental records",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bt632lzc9o",
+    "key": "design-consultation",
+    "label": "Design consultation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "roimjkavj1",
+    "key": "design-documentation",
+    "label": "Design documentation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k0nsgux6t3",
+    "key": "design-for-manufacturability",
+    "label": "Design for manufacturability",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kokxhnhui7",
+    "key": "design-of-experiments",
+    "label": "Design of experiments",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r8txrd6uj1",
+    "key": "design-review",
+    "label": "Design review",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p2k4yt3ls3",
+    "key": "design-validation",
+    "label": "Design validation",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vd34jqks0j",
+    "key": "desktop-management",
+    "label": "Desktop management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hp26l3foe2",
+    "key": "desmos",
+    "label": "Desmos",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d4tfwk03xy",
+    "key": "destoner",
+    "label": "Destoner",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

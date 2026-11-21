@@ -1,0 +1,242 @@
+[
+  {
+    "id": "e4ky74p3dr",
+    "definition": "Rockmelt was a Chromium-based web browser designed to integrate social-network and content-sharing functions into browsing.",
+    "example": "A software historian compares how Rockmelt displayed social updates alongside a web page.",
+    "sense_note": "Discontinued historical product; brand was also used for a later content-discovery product."
+  },
+  {
+    "id": "hlqq8yiyj2",
+    "definition": "FactoryTalk is Rockwell Automation's family of industrial software for functions such as visualization, data collection, and production operations.",
+    "example": "A plant uses FactoryTalk View to display machine status and alarms to operators.",
+    "sense_note": null
+  },
+  {
+    "id": "u057dkd9xn",
+    "definition": "Role-based access control assigns permissions to roles and grants access to users through their assigned roles.",
+    "example": "A payroll system lets people in the payroll approver role authorize a payment while other users can only review it.",
+    "sense_note": null
+  },
+  {
+    "id": "f8yrj15jmk",
+    "definition": "Roof bolting stabilizes the rock above an underground opening by anchoring and reinforcing it with installed bolts.",
+    "example": "A mine safety engineer reviews a support plan for an underground passage before workers enter it.",
+    "sense_note": null
+  },
+  {
+    "id": "ty8an2d5rc",
+    "definition": "Route management plans, monitors, and adjusts routes to meet delivery or service commitments under constraints such as time, capacity, and access.",
+    "example": "A dispatcher reassigns two deliveries when a road closure puts one truck behind schedule.",
+    "sense_note": "Likely transport sense; routing in networks or software is also possible."
+  },
+  {
+    "id": "yunl331qp4",
+    "definition": "Routing Table Maintenance Protocol is an AppleTalk distance-vector routing protocol that exchanges reachability information to maintain network routes.",
+    "example": "A network historian interprets an archived AppleTalk routing table using its reported hop counts.",
+    "sense_note": null
+  },
+  {
+    "id": "zxff4du3c6",
+    "definition": "RSA Archer is enterprise software for governance, risk, and compliance workflows, including risk assessments, control tracking, and audit documentation.",
+    "example": "A compliance team links a control test to its evidence and assigns a remediation owner in Archer.",
+    "sense_note": "Legacy brand; verify product naming as needed."
+  },
+  {
+    "id": "lr0g99v968",
+    "definition": "Rx30 is pharmacy management software for processing prescriptions and supporting workflow such as claims, inventory, and dispensing records.",
+    "example": "A community pharmacy uses Rx30 to reconcile the inventory associated with dispensed prescriptions.",
+    "sense_note": null
+  },
+  {
+    "id": "y13h71ry03",
+    "definition": "RxKotlin adds Kotlin-friendly extensions and utilities for composing reactive streams with RxJava.",
+    "example": "A developer uses an extension to combine the latest readings from two observable data streams.",
+    "sense_note": null
+  },
+  {
+    "id": "gv3yol606d",
+    "definition": "The Safe Drinking Water Act is the U.S. federal law authorizing protections for public drinking water, including standards, oversight, and monitoring requirements.",
+    "example": "A public water utility uses applicable standards to plan its sampling and reporting.",
+    "sense_note": null
+  },
+  {
+    "id": "e23xcwkh9v",
+    "definition": "Safety audits systematically check practices, records, and conditions against safety requirements to identify gaps and corrective actions.",
+    "example": "An auditor reviews training records and observes equipment use before documenting areas for correction.",
+    "sense_note": null
+  },
+  {
+    "id": "mwe27ckha8",
+    "definition": "Sage Intacct is cloud financial management software for accounting and reporting functions such as the general ledger, payables, and receivables.",
+    "example": "A nonprofit generates a statement that breaks expenses out by program.",
+    "sense_note": null
+  },
+  {
+    "id": "dvsxgd6jgp",
+    "definition": "Sage MAS 90 is a legacy business management system for accounting, inventory, and operational workflows that became part of the Sage 100 product line.",
+    "example": "A migration specialist maps accounts from a MAS 90 ledger to a replacement system.",
+    "sense_note": "Legacy brand; verify exact edition when relevant."
+  },
+  {
+    "id": "axnlkb7htl",
+    "definition": "Sailing instruction teaches learners to handle a sailboat, interpret conditions, maneuver, and follow safety practices.",
+    "example": "An instructor has students practice tacking on a marked course while observing boat traffic.",
+    "sense_note": null
+  },
+  {
+    "id": "nq2y7jjqri",
+    "definition": "SailPoint IdentityIQ is identity governance software for administering access policies, reviewing entitlements, and supporting provisioning workflows.",
+    "example": "A manager uses an access certification campaign to remove entitlements that staff no longer need.",
+    "sense_note": null
+  },
+  {
+    "id": "cvjjttyqe3",
+    "definition": "Sails.js is a Node.js web application framework with conventions for organizing models, controllers, and interfaces.",
+    "example": "A developer creates a service for viewing and updating appointment records.",
+    "sense_note": null
+  },
+  {
+    "id": "wa0o3efjz9",
+    "definition": "Sales and operations planning is a recurring cross-functional process that aligns expected demand, operational capacity, inventory, and financial plans.",
+    "example": "Sales and production teams agree on a feasible volume forecast before materials are ordered.",
+    "sense_note": null
+  },
+  {
+    "id": "n1iikcimhd",
+    "definition": "A sales presentation explains an offering's fit and evidence to a prospective buyer and addresses objections or decision criteria.",
+    "example": "A presenter shows how software would shorten a prospect's actual invoicing workflow.",
+    "sense_note": null
+  },
+  {
+    "id": "mhqjaq3kyx",
+    "definition": "Salesforce Datorama is a marketing analytics platform for combining data across channels and reporting campaign performance, later branded Marketing Cloud Intelligence.",
+    "example": "An analyst brings paid search and email campaign costs into one reporting dashboard.",
+    "sense_note": "Legacy brand name."
+  },
+  {
+    "id": "rvakw702hv",
+    "definition": "Salesforce Social Studio was a social media management application for publishing, listening, and engaging across connected channels.",
+    "example": "A marketing analyst reviewing historical records checks how brand mentions were categorized in Social Studio.",
+    "sense_note": "Retired product."
+  },
+  {
+    "id": "url3hq4jid",
+    "definition": "Salesforce is a cloud enterprise software platform and product family used to manage customer relationships and related workflows.",
+    "example": "A sales team records customer interactions and tracks opportunities through defined stages.",
+    "sense_note": "The label may denote the vendor, the overall platform, or a particular product."
+  },
+  {
+    "id": "qzxtep4gcy",
+    "definition": "SAP Adaptive Server Enterprise is a relational database management system historically known as Sybase ASE and designed for transactional workloads.",
+    "example": "An administrator monitors a transaction database and schedules backups under its recovery plan.",
+    "sense_note": null
+  },
+  {
+    "id": "ym6s3kvy3v",
+    "definition": "SAP BusinessObjects is a business intelligence suite for querying organizational data and producing managed reports and dashboards.",
+    "example": "A financial analyst builds a scheduled report of regional sales for department managers.",
+    "sense_note": null
+  },
+  {
+    "id": "mvrzxgwe6c",
+    "definition": "SAP Crystal Reports is a reporting application for designing formatted reports from databases and other structured data sources.",
+    "example": "A developer lays out a printable inventory report grouped by stockroom.",
+    "sense_note": null
+  },
+  {
+    "id": "f1mc7yrkqz",
+    "definition": "SAP Fiori is SAP's design system and application experience for role-oriented business tasks across devices.",
+    "example": "A purchasing clerk uses a Fiori app to view and act on assigned purchase approvals.",
+    "sense_note": null
+  },
+  {
+    "id": "re91tiyz00",
+    "definition": "SAP GUI is SAP's client interface for accessing classic SAP transactions and applications.",
+    "example": "A warehouse clerk uses SAP GUI to display a material document by its number.",
+    "sense_note": null
+  },
+  {
+    "id": "f9jm6pwe2p",
+    "definition": "SAP IoT refers to SAP technologies for connecting devices, collecting their measurements, and integrating device events with enterprise workflows.",
+    "example": "A manufacturer uses equipment temperature readings to inform a maintenance workflow.",
+    "sense_note": "Product names and offerings have changed; verify the intended edition."
+  },
+  {
+    "id": "af0ihpcnom",
+    "definition": "SAP IS-Retail is SAP's industry solution for retail processes such as assortment planning, merchandising, purchasing, and store inventory.",
+    "example": "A retailer manages which products are available in each store's assortment.",
+    "sense_note": null
+  },
+  {
+    "id": "pcy2k2al3q",
+    "definition": "SAP Lumira is SAP software for creating interactive data visualizations and analytical applications.",
+    "example": "An analyst builds an interactive view that lets managers compare sales across product lines.",
+    "sense_note": "Version and components vary."
+  },
+  {
+    "id": "clelgs9q2c",
+    "definition": "SAP Materials Management supports procurement and inventory processes, including purchasing, goods movement, and material records.",
+    "example": "A buyer creates a purchase order and later checks whether the goods receipt matches it.",
+    "sense_note": null
+  },
+  {
+    "id": "vlxwpt4op5",
+    "definition": "SAP NetWeaver Process Integration is middleware for routing and transforming messages between SAP and other enterprise systems.",
+    "example": "An integration developer maps purchase-order fields between two applications using different formats.",
+    "sense_note": null
+  },
+  {
+    "id": "ejsvn6xdf3",
+    "definition": "SAP Quality Management is SAP functionality for planning inspections, recording quality results, and handling nonconformities in business processes.",
+    "example": "A receiving team records an inspection and withholds a batch that fails an acceptance check.",
+    "sense_note": null
+  },
+  {
+    "id": "zf8lkgf31j",
+    "definition": "SAP S/4HANA is an enterprise resource planning suite built on the SAP HANA database for processes such as finance, procurement, production, and sales.",
+    "example": "A manufacturer links a production order, material movements, and accounting postings in the same ERP suite.",
+    "sense_note": null
+  },
+  {
+    "id": "x6e2sp6oyn",
+    "definition": "SAP Sovereign Cloud denotes SAP deployment offerings designed to satisfy jurisdiction-specific requirements for data location, operations, or control.",
+    "example": "A public-sector team checks whether a proposed SAP deployment meets its contractual data and operator-location requirements.",
+    "sense_note": "Offerings vary by country; the label does not establish compliance with any particular regime."
+  },
+  {
+    "id": "ihw2qwek3f",
+    "definition": "SAP technology consulting helps organizations design, configure, integrate, migrate, and operate SAP systems against business requirements.",
+    "example": "A consultant evaluates which existing interfaces must change during a migration to a new SAP environment.",
+    "sense_note": null
+  },
+  {
+    "id": "nv6qz3g272",
+    "definition": "SAP refers to an enterprise software vendor or its broad ecosystem of applications and platforms for managing business processes.",
+    "example": "An implementation team integrates purchasing and accounting using SAP software.",
+    "sense_note": "The label does not identify a particular product or module."
+  },
+  {
+    "id": "ucciwb5dse",
+    "definition": "Savon is a Ruby library for using web services that expose a SOAP interface.",
+    "example": "A Ruby application uses Savon to send a structured request to a legacy order service.",
+    "sense_note": "Interpreted as the Ruby library based on the technical label."
+  },
+  {
+    "id": "j6lsmpnya0",
+    "definition": "Scaffold building is the erection, alteration, or dismantling of temporary structures that support elevated work and access.",
+    "example": "A qualified crew assembles a scaffold for façade work and has it inspected before use.",
+    "sense_note": "Likely construction sense; software and instructional uses are possible."
+  },
+  {
+    "id": "d868fdr68x",
+    "definition": "Scala.js compiles Scala programs to JavaScript so they can run in environments such as web browsers.",
+    "example": "A developer compiles Scala code for an interactive chart that runs in a browser.",
+    "sense_note": null
+  },
+  {
+    "id": "kg3scy47l7",
+    "definition": "Scalding is a Scala library for expressing distributed data processing jobs on infrastructure such as Hadoop, built on Cascading.",
+    "example": "A data engineer defines a batch job that groups records by category and sums their values.",
+    "sense_note": "Interpreted as the Scala library, not the thermal injury or processing technique."
+  }
+]

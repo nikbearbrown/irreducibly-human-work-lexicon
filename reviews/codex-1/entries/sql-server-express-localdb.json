@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SQL Server Express LocalDB is a lightweight mode of SQL Server Express that starts local, user-context database instances for development or small local applications.",
+  "entry_text": "SQL Server Express LocalDB is a lightweight mode of SQL Server Express that starts local, user-context database instances for development or small local applications.",
+  "entry_text_kind": "definition",
+  "example": "A developer runs database integration tests on a workstation without setting up a shared database server.",
+  "id": "r9xdxpsdlc",
+  "key": "sql-server-express-localdb",
+  "label": "SQL Server Express LocalDB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

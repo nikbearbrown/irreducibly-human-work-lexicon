@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An enterprise service bus product or distribution for connecting applications and mediating message exchange.",
+  "entry_text": "An enterprise service bus product or distribution for connecting applications and mediating message exchange.",
+  "entry_text_kind": "definition",
+  "example": "A team configures a workflow to route order messages between business systems.",
+  "id": "kuqc26vh3g",
+  "key": "fuse-esb",
+  "label": "Fuse ESB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm which historical Fuse ESB product or distribution is intended.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

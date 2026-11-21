@@ -1,0 +1,28 @@
+{
+  "batch": "language-005.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A label for a set of Chinese varieties that includes the basis of Standard Mandarin.",
+  "entry_text": "A label for a set of Chinese varieties that includes the basis of Standard Mandarin.",
+  "entry_text_kind": "definition",
+  "example": "A voice director requests a Standard Mandarin recording.",
+  "id": "vphlc8dpfb",
+  "key": "mandarin",
+  "label": "Mandarin",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Distinguish standard speech from the broader group.",
+  "sources": [
+    {
+      "id": "vphlc8dpfb",
+      "note": "Original historical research distinguishes regional Mandarin varieties from the codified standard, explaining northern dialect and Beijing pronunciation inputs. Do not treat Mandarin as synonymous with all Chinese.",
+      "packet": "targeted-language-scope-2026-11-21.json",
+      "ref": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/what-is-mandarin-the-social-project-of-language-standardization-in-early-republican-china/7AAA7A1CB930C41E850E515EFE89DF14",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

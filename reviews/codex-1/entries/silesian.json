@@ -1,0 +1,42 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Silesian (ISO 639-3: szl) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Silesian",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "sile1253",
+    "iso639_3": "szl",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/sile1253"
+  },
+  "definition": null,
+  "entry_text": "The exact Silesian [szl] record differs from the Lower Silesian [sli] German-language record; confirm the intended sense.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "u1r1jfnmnz",
+  "key": "silesian",
+  "label": "Silesian",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the intended language sense, especially whether the label refers to the Slavic variety or a historical German one.",
+  "sense_proposal": {
+    "ambiguity_note": "The exact Silesian [szl] record differs from the Lower Silesian [sli] German-language record; confirm the intended sense.",
+    "id": "u1r1jfnmnz",
+    "label": "Silesian",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/sile1253",
+      "https://glottolog.org/resource/languoid/id/lowe1388",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

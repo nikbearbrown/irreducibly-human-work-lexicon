@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Critical test results management ensures that findings requiring urgent clinical attention are identified, communicated, and documented reliably.",
+  "entry_text": "Critical test results management ensures that findings requiring urgent clinical attention are identified, communicated, and documented reliably.",
+  "entry_text_kind": "definition",
+  "example": "A laboratory team confirms receipt of a critical result by the responsible clinician according to its protocol.",
+  "id": "pfm68oskn9",
+  "key": "critical-test-results-management",
+  "label": "Critical test results management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

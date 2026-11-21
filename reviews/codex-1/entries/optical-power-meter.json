@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An optical power meter measures optical signal power, commonly in fiber-optic systems.",
+  "entry_text": "An optical power meter measures optical signal power, commonly in fiber-optic systems.",
+  "entry_text_kind": "definition",
+  "example": "A technician measures received signal power at the end of a fiber link to check its loss budget.",
+  "id": "zgpnyz7ovy",
+  "key": "optical-power-meter",
+  "label": "Optical power meter",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

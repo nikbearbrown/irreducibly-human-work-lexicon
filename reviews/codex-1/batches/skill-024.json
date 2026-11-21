@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "ivzzs4ifm2",
+    "key": "interpreting-contracts-under-english-law",
+    "label": "Interpreting contracts under English law",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h80iveytxm",
+    "key": "interpreting-law",
+    "label": "Interpreting law",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q1rfkue4ql",
+    "key": "interqual",
+    "label": "InterQual",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s1czmc42wp",
+    "key": "intradermal-injection",
+    "label": "Intradermal injection",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jklg8c984x",
+    "key": "intraoperative-neurophysiological-monitoring",
+    "label": "Intraoperative neurophysiological monitoring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j4c4cvd7qv",
+    "key": "intraoral-cameras",
+    "label": "Intraoral cameras",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ht2wlmar11",
+    "key": "intravenous-hydration",
+    "label": "Intravenous hydration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eoa2dv3h9x",
+    "key": "intravenous-infusion",
+    "label": "Intravenous infusion",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "imvi4xd1bb",
+    "key": "inventory-management-software",
+    "label": "Inventory management software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y7r5n6cczl",
+    "key": "investigating-drug-trafficking",
+    "label": "Investigating drug trafficking",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pxvhwldzm8",
+    "key": "investigative-interviewing",
+    "label": "Investigative interviewing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j8wsdvaon1",
+    "key": "investigator-s-brochure",
+    "label": "Investigator's brochure",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "haad0e5z1n",
+    "key": "invision",
+    "label": "InVision",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m4rbaj4f3l",
+    "key": "invoice-processing",
+    "label": "Invoice processing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t2y97tzi55",
+    "key": "io-js",
+    "label": "Io.js",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gyeh0f1zkb",
+    "key": "ioffice",
+    "label": "iOFFICE",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ynl2bq90h0",
+    "key": "ionic-2",
+    "label": "Ionic 2",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "relu6zxlst",
+    "key": "ios",
+    "label": "iOS",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oo0nr1tiif",
+    "key": "ip-address-management",
+    "label": "IP address management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vk2k09kvlq",
+    "key": "ipython",
+    "label": "IPython",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "smjdqp6xd6",
+    "key": "ireport-designer",
+    "label": "iReport Designer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wi2jt4gwwc",
+    "key": "ironmq",
+    "label": "IronMQ",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y3lbnh790j",
+    "key": "ironpython",
+    "label": "IronPython",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zoe33g6tco",
+    "key": "irrigation-agriculture",
+    "label": "Irrigation (agriculture)",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d46bq5u2my",
+    "key": "irrigation-health",
+    "label": "Irrigation (health)",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hp5jogxeo2",
+    "key": "iso-10012",
+    "label": "ISO 10012",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yyvebhced9",
+    "key": "iso-10993",
+    "label": "ISO 10993",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zwmnfdk5t0",
+    "key": "iso-14000",
+    "label": "ISO 14000",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qxv6wnwthm",
+    "key": "iso-14971",
+    "label": "ISO 14971",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bydht0lzxm",
+    "key": "iso-15189",
+    "label": "ISO 15189",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u8t0sc4hp2",
+    "key": "iso-19011",
+    "label": "ISO 19011",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "onui7wccwc",
+    "key": "iso-26262",
+    "label": "ISO 26262",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c4p6jfgpuw",
+    "key": "iso-31000",
+    "label": "ISO 31000",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hllec8rbxe",
+    "key": "iso-50001",
+    "label": "ISO 50001",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hai4eyhpu6",
+    "key": "iso-8583",
+    "label": "ISO 8583",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b7urnp1y80",
+    "key": "iso-9000",
+    "label": "ISO 9000",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b9atybxdgh",
+    "key": "iso-iec-27000-series",
+    "label": "ISO/IEC 27000 series",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dln07ri3cd",
+    "key": "iso-iec-27001",
+    "label": "ISO/IEC 27001",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iy9zh0s63e",
+    "key": "iso-iec-9075-sql-standard",
+    "label": "ISO/IEC 9075 SQL standard",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "li4w89q0m0",
+    "key": "issue-tracking-systems",
+    "label": "Issue tracking systems",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SAP technology consulting helps organizations design, configure, integrate, migrate, and operate SAP systems against business requirements.",
+  "entry_text": "SAP technology consulting helps organizations design, configure, integrate, migrate, and operate SAP systems against business requirements.",
+  "entry_text_kind": "definition",
+  "example": "A consultant evaluates which existing interfaces must change during a migration to a new SAP environment.",
+  "id": "ihw2qwek3f",
+  "key": "sap-technology-consulting",
+  "label": "SAP technology consulting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

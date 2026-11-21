@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Lando is a tool for configuring and running local development environments using containers.",
+  "entry_text": "Lando is a tool for configuring and running local development environments using containers.",
+  "entry_text_kind": "definition",
+  "example": "A developer starts a reproducible web server and database using a project's Lando configuration.",
+  "id": "pe8909xapl",
+  "key": "lando",
+  "label": "Lando",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

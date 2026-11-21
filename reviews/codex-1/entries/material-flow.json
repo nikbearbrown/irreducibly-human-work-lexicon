@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Material flow is the movement of physical materials through storage, processing and distribution operations.",
+  "entry_text": "Material flow is the movement of physical materials through storage, processing and distribution operations.",
+  "entry_text_kind": "definition",
+  "example": "A factory maps how parts move between receiving, assembly and shipping.",
+  "id": "wp92dm6esb",
+  "key": "material-flow",
+  "label": "Material flow",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

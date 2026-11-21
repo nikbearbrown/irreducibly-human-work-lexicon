@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Big O notation describes an asymptotic upper bound on how a function grows, ignoring constant factors beyond a sufficiently large input size.",
+  "entry_text": "Big O notation describes an asymptotic upper bound on how a function grows, ignoring constant factors beyond a sufficiently large input size.",
+  "entry_text_kind": "definition",
+  "example": "An algorithm using a number of comparisons proportional to the square of its input size can be described as O(n²).",
+  "id": "atdk6aaopa",
+  "key": "big-o-notation",
+  "label": "Big O notation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

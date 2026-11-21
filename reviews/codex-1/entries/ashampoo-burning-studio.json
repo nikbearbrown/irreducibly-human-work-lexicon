@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Ashampoo Burning Studio is software for creating, copying, and managing supported optical discs.",
+  "entry_text": "Ashampoo Burning Studio is software for creating, copying, and managing supported optical discs.",
+  "entry_text_kind": "definition",
+  "example": "A user writes a verified set of archived photos to a disc supported by the drive.",
+  "id": "cepsdwz3fu",
+  "key": "ashampoo-burning-studio",
+  "label": "Ashampoo Burning Studio",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

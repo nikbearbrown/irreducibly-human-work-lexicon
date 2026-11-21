@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An integrated development environment and toolchain for building and debugging software for embedded processors.",
+  "entry_text": "An integrated development environment and toolchain for building and debugging software for embedded processors.",
+  "entry_text_kind": "definition",
+  "example": "A firmware engineer compiles and debugs a program for a supported microcontroller.",
+  "id": "rf1t7hc1e3",
+  "key": "iar-embedded-workbench",
+  "label": "IAR Embedded Workbench",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

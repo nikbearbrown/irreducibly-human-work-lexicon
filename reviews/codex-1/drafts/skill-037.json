@@ -1,0 +1,242 @@
+[
+  {
+    "id": "nozav31cgp",
+    "definition": "Data provenance records where data originated and how it was transformed or transferred.",
+    "example": "A reviewer traces an aggregate back to the source records and transformation steps.",
+    "sense_note": null
+  },
+  {
+    "id": "angs2qsya4",
+    "definition": "Public-key cryptography standards specify interoperable formats, algorithms, and procedures for systems using paired public and private keys.",
+    "example": "An engineer checks a signing service against the applicable signature standard.",
+    "sense_note": null
+  },
+  {
+    "id": "wpe22ejvkt",
+    "definition": "Pug is a template language and engine with indentation-based syntax for generating HTML.",
+    "example": "A site renders a list of products from records using one Pug template.",
+    "sense_note": null
+  },
+  {
+    "id": "yzx7utgq81",
+    "definition": "Punctuation uses conventional written marks to organize text and clarify its structure and meaning.",
+    "example": "An editor uses commas to separate items in a list.",
+    "sense_note": null
+  },
+  {
+    "id": "zu2ca90t34",
+    "definition": "PuPHPet was a configuration generator for provisioning Vagrant development environments with Puppet.",
+    "example": "A developer used it to generate a repeatable local PHP development setup.",
+    "sense_note": null
+  },
+  {
+    "id": "l843486lg0",
+    "definition": "Puppet automates system configuration by specifying the desired state of managed resources.",
+    "example": "An administrator sets the same package and configuration across servers.",
+    "sense_note": null
+  },
+  {
+    "id": "aoyn4kei0h",
+    "definition": "Puppeteer is a JavaScript library for controlling web browsers programmatically.",
+    "example": "A developer captures a screenshot after a test page loads.",
+    "sense_note": null
+  },
+  {
+    "id": "y12yaa93sz",
+    "definition": "PuTTY is a terminal client for connections such as SSH and serial sessions.",
+    "example": "An administrator opens an authorized SSH session for routine maintenance.",
+    "sense_note": null
+  },
+  {
+    "id": "wrobx5q3f7",
+    "definition": "PyMongo is the MongoDB driver for Python, providing access to collections and database operations.",
+    "example": "A Python service uses it to read application records.",
+    "sense_note": null
+  },
+  {
+    "id": "pqs7no75hv",
+    "definition": "PyTables is a Python package for managing and querying structured data in HDF5 files.",
+    "example": "An analyst reads a subset of a large scientific dataset stored in HDF5.",
+    "sense_note": null
+  },
+  {
+    "id": "kdr2xylcht",
+    "definition": "Python for data analysis is using Python and its libraries to prepare, examine, and interpret data.",
+    "example": "An analyst groups sales records by month and checks for missing values.",
+    "sense_note": null
+  },
+  {
+    "id": "hpj10pgto9",
+    "definition": "Python Server Pages are a server-side templating approach that embeds Python logic in pages rendered into HTML.",
+    "example": "A historical web application inserts a record into a generated HTML page.",
+    "sense_note": "Multiple implementations share this label. This definition describes the general technique."
+  },
+  {
+    "id": "ne5dlxqhw0",
+    "definition": "Python Tools for Visual Studio provides Python editing, debugging, and project support within Microsoft Visual Studio.",
+    "example": "A developer inspects variable values while stepping through a Python program.",
+    "sense_note": null
+  },
+  {
+    "id": "ipe556x4k6",
+    "definition": "PyTorch is a tensor-computing library with automatic differentiation for building and training machine-learning models.",
+    "example": "A developer computes gradients for a model during training.",
+    "sense_note": null
+  },
+  {
+    "id": "ujzh92ndhy",
+    "definition": "QARun was a Compuware tool for automating functional tests of application interfaces.",
+    "example": "A tester replayed a recorded sequence to check a desktop application.",
+    "sense_note": "Historical product. Verify branding and supported platforms from vendor archival material."
+  },
+  {
+    "id": "m4cw90r7i6",
+    "definition": "Qlik Sense is an analytics platform for exploring data and building interactive visualizations and dashboards.",
+    "example": "A team connects an operations dataset to a dashboard with filters.",
+    "sense_note": null
+  },
+  {
+    "id": "jv24uy22gz",
+    "definition": "QlikView is a business intelligence product for building and using interactive data analysis applications.",
+    "example": "A manager filters a sales analysis document by region.",
+    "sense_note": null
+  },
+  {
+    "id": "n5gs71bpv0",
+    "definition": "QS/1 is a name associated with software used to manage pharmacy operations.",
+    "example": "A pharmacy uses management software to track prescriptions and dispensing workflows.",
+    "sense_note": "Verify whether the intended sense is the company, the brand, or a specific product line."
+  },
+  {
+    "id": "q12fvgzu4o",
+    "definition": "Qualitative data analysis interprets nonnumeric evidence to identify themes, patterns, and meanings.",
+    "example": "A researcher codes interview transcripts and compares recurring themes.",
+    "sense_note": null
+  },
+  {
+    "id": "tv1zjnzlo0",
+    "definition": "A queue management system coordinates how waiting items or people are ordered, routed, and served.",
+    "example": "A clinic routes waiting patients to available service counters.",
+    "sense_note": "Examples use service queues, while the general label may also occur in computing."
+  },
+  {
+    "id": "n2pwh7zakj",
+    "definition": "QuickTime VR was an Apple technology for viewing interactive panoramas or rotatable objects.",
+    "example": "A museum visitor could pan around a digitized exhibit space.",
+    "sense_note": null
+  },
+  {
+    "id": "ixq8ik77aq",
+    "definition": "Qumu is an enterprise video platform for publishing, streaming, and managing organizational video.",
+    "example": "A company distributes a recorded training session to staff.",
+    "sense_note": "Verify whether the label is intended to refer to the platform or the company."
+  },
+  {
+    "id": "goxs4gp6w3",
+    "definition": "QuoteWerks is a quoting and proposal tool for assembling sales offers with products, prices, and terms.",
+    "example": "A salesperson prepares and revises an itemized customer quote.",
+    "sense_note": null
+  },
+  {
+    "id": "e7mr0f9vmv",
+    "definition": "Rack elevation drawings depict the physical position and height of equipment in a rack.",
+    "example": "An installer checks which rack units are reserved for a network switch.",
+    "sense_note": null
+  },
+  {
+    "id": "zxk5s65tvb",
+    "definition": "radare2 is an open-source framework for inspecting and analyzing compiled programs.",
+    "example": "A developer inspects their own compiled program to understand its binary layout.",
+    "sense_note": null
+  },
+  {
+    "id": "a18n6zcx8m",
+    "definition": "Rally Software is an agile delivery management platform for planning and tracking work across teams.",
+    "example": "A product team tracks stories and dependencies across iterations.",
+    "sense_note": null
+  },
+  {
+    "id": "eswkykkgp8",
+    "definition": "Rancher is a management platform for operating and administering Kubernetes clusters.",
+    "example": "An operations team views multiple clusters through one management interface.",
+    "sense_note": null
+  },
+  {
+    "id": "ws8dcvyb8p",
+    "definition": "A random forest combines many randomized decision trees to make a prediction by aggregating their outputs.",
+    "example": "A classifier combines votes from trees trained with different samples or feature subsets.",
+    "sense_note": null
+  },
+  {
+    "id": "a65p6wgs2q",
+    "definition": "Random testing evaluates a system using test inputs sampled from a specified domain or distribution.",
+    "example": "A tester generates varied valid input sizes for a library.",
+    "sense_note": null
+  },
+  {
+    "id": "t2pw81w7vy",
+    "definition": "Randomization uses chance to assign treatments, choose observations, or vary order according to a stated procedure.",
+    "example": "A study randomly assigns participants to two conditions.",
+    "sense_note": null
+  },
+  {
+    "id": "mmk671rf9a",
+    "definition": "RavenDB is a document database for storing and querying structured data as documents.",
+    "example": "An application stores each customer profile as a document.",
+    "sense_note": null
+  },
+  {
+    "id": "ly9pv45gt7",
+    "definition": "Ray tracing calculates light transport or visibility by following rays and evaluating their intersections with scene geometry.",
+    "example": "A renderer traces a ray to determine what surface is visible at a pixel.",
+    "sense_note": null
+  },
+  {
+    "id": "hjzieo2ohv",
+    "definition": "React is a JavaScript library for constructing user interfaces from components whose output can change with data.",
+    "example": "A developer builds a list component that updates as filters change.",
+    "sense_note": null
+  },
+  {
+    "id": "isdz1w83kv",
+    "definition": "ReactiveX is a family of libraries and interfaces for composing and transforming asynchronous streams through observable sequences.",
+    "example": "An application filters and combines streams of interface events.",
+    "sense_note": null
+  },
+  {
+    "id": "rmkqenma3p",
+    "definition": "Reading gauges is interpreting indicated measurements on an instrument scale or display.",
+    "example": "A technician reads a pressure indicator in the units marked on the dial.",
+    "sense_note": null
+  },
+  {
+    "id": "kbdcdytq6a",
+    "definition": "Reading technical drawings is interpreting dimensions, views, symbols, and specifications in technical documentation.",
+    "example": "A craftsperson identifies a hole diameter and its tolerance from a drawing.",
+    "sense_note": null
+  },
+  {
+    "id": "vu3qxyu8ov",
+    "definition": "Reading to children is presenting a written text aloud in ways that help young listeners follow and engage with it.",
+    "example": "An educator pauses after a picture-book page to ask what happened.",
+    "sense_note": null
+  },
+  {
+    "id": "j4u2uvtmvj",
+    "definition": "ReadyAPI is a software suite for testing and validating application programming interfaces.",
+    "example": "A quality engineer checks that a test API returns the expected response fields.",
+    "sense_note": null
+  },
+  {
+    "id": "p08u5bg76s",
+    "definition": "Real estate market analysis uses property, transaction, supply, and demand information to evaluate market conditions.",
+    "example": "An analyst compares recent sales of similar properties in the same area.",
+    "sense_note": null
+  },
+  {
+    "id": "humax3ssc0",
+    "definition": "Recruitment consulting advises organizations on finding, assessing, and hiring people for defined roles.",
+    "example": "A consultant helps a team clarify requirements and structure candidate evaluation.",
+    "sense_note": null
+  }
+]

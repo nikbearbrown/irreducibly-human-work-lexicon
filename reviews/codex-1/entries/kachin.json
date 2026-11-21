@@ -1,0 +1,30 @@
+{
+  "batch": "language-004.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": null,
+  "entry_text": "May refer to a Jinghpaw language sense or a broader identity; a Jingpho family record alone does not settle scope.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "dy0cjdom8i",
+  "key": "kachin",
+  "label": "Kachin",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm whether the label denotes Jinghpaw specifically or a broader language grouping.",
+  "sense_proposal": {
+    "ambiguity_note": "May refer to a Jinghpaw language sense or a broader identity; a Jingpho family record alone does not settle scope.",
+    "id": "dy0cjdom8i",
+    "label": "Kachin",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/jing1260",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

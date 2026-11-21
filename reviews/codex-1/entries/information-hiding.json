@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A software design principle that conceals implementation decisions behind stable interfaces to limit unnecessary dependencies.",
+  "entry_text": "A software design principle that conceals implementation decisions behind stable interfaces to limit unnecessary dependencies.",
+  "entry_text_kind": "definition",
+  "example": "A module exposes an operation for saving records without exposing the data format it uses internally.",
+  "id": "bxmawi82qq",
+  "key": "information-hiding",
+  "label": "Information hiding",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "In security contexts the phrase can instead mean concealing data; the design principle is intended here.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

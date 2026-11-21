@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A historical United States intelligence directive on protecting classified information handled by information systems.",
+  "entry_text": "A historical United States intelligence directive on protecting classified information handled by information systems.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "k0i39m7973",
+  "key": "dcid-6-3",
+  "label": "DCID 6/3",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the directive's edition and whether the entry refers to the directive or its implementation manual.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

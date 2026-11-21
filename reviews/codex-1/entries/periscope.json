@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Periscope was a social video platform for broadcasting live video and interacting with viewers.",
+  "entry_text": "Periscope was a social video platform for broadcasting live video and interacting with viewers.",
+  "entry_text_kind": "definition",
+  "example": "A presenter streamed a live event and responded to comments during the broadcast.",
+  "id": "tozta7hksp",
+  "key": "periscope",
+  "label": "Periscope",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The platform hint suggests the discontinued streaming service; distinguish an optical periscope and Periscope Data.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

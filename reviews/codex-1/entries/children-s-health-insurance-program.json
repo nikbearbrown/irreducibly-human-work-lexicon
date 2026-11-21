@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Children's Health Insurance Program is a U.S. federal-state program that provides coverage to eligible children, generally in families whose income is too high for Medicaid but insufficient for affordable private coverage.",
+  "entry_text": "The Children's Health Insurance Program is a U.S. federal-state program that provides coverage to eligible children, generally in families whose income is too high for Medicaid but insufficient for affordable private coverage.",
+  "entry_text_kind": "definition",
+  "example": "A family checks its state's CHIP eligibility after learning its children do not qualify for Medicaid.",
+  "id": "qzjv1z5cug",
+  "key": "children-s-health-insurance-program",
+  "label": "Children's Health Insurance Program",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

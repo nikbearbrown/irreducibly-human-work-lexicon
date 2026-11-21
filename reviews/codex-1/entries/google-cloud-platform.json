@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Google's collection of cloud computing services for building and operating applications, infrastructure, and data systems.",
+  "entry_text": "Google's collection of cloud computing services for building and operating applications, infrastructure, and data systems.",
+  "entry_text_kind": "definition",
+  "example": "A team deploys a web service and stores application data on managed cloud resources.",
+  "id": "wwygnox2lh",
+  "key": "google-cloud-platform",
+  "label": "Google Cloud Platform",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

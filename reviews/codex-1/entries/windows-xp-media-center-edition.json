@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Windows XP Media Center Edition was an edition of Windows XP designed for media playback and related home-entertainment functions.",
+  "entry_text": "Windows XP Media Center Edition was an edition of Windows XP designed for media playback and related home-entertainment functions.",
+  "entry_text_kind": "definition",
+  "example": "A user browses recorded television in a legacy Media Center setup.",
+  "id": "iqxlv5j0s0",
+  "key": "windows-xp-media-center-edition",
+  "label": "Windows XP Media Center Edition",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

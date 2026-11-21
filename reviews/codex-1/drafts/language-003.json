@@ -1,0 +1,242 @@
+[
+  {
+    "id": "e4spqals97",
+    "definition": "A functional programming language built around lightweight processes and message passing.",
+    "example": "A message server isolates each client connection in its own process.",
+    "sense_note": null
+  },
+  {
+    "id": "wxuml71bfu",
+    "definition": "A human language used for spoken and written communication.",
+    "example": "An archivist transcribes an Ewondo interview.",
+    "sense_note": null
+  },
+  {
+    "id": "np8jq1gkrj",
+    "definition": "A programming language for specifying and verifying properties of programs with dependent types.",
+    "example": "A developer proves that a lookup function stays within array bounds.",
+    "sense_note": null
+  },
+  {
+    "id": "wonwpe2z38",
+    "definition": "A functional-first, statically typed programming language on .NET.",
+    "example": "An analyst maps a typed function over a list of sensor readings.",
+    "sense_note": null
+  },
+  {
+    "id": "q0vx2lgkj8",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm the intended language identifier because Fali can name different languages."
+  },
+  {
+    "id": "ipwny15jpy",
+    "definition": "An object-oriented programming language designed for portability across runtime platforms.",
+    "example": "A developer uses Fantom collections to organize configuration records.",
+    "sense_note": null
+  },
+  {
+    "id": "dn5iveu53x",
+    "definition": "A standardized language based primarily on Tagalog.",
+    "example": "A translator prepares Filipino subtitles for a public information video.",
+    "sense_note": null
+  },
+  {
+    "id": "q98sd6zk57",
+    "definition": "A human language used for written and spoken communication.",
+    "example": "An editor proofreads a Finnish museum guide.",
+    "sense_note": null
+  },
+  {
+    "id": "jzczt8njk2",
+    "definition": "A stack-oriented programming language in which words operate on values placed on a stack.",
+    "example": "A developer defines a word that adds the top two stack values.",
+    "sense_note": null
+  },
+  {
+    "id": "twiey8e4zm",
+    "definition": "A compiled language widely used for numerical and scientific computing.",
+    "example": "A scientist uses Fortran to update a matrix in a simulation.",
+    "sense_note": null
+  },
+  {
+    "id": "jeai1j8uhz",
+    "definition": "A human language used in writing and speech across multiple regional varieties.",
+    "example": "A translator checks a French instruction manual.",
+    "sense_note": null
+  },
+  {
+    "id": "uj60c4yrr3",
+    "definition": "A label covering a group of closely related languages.",
+    "example": "An editor asks whether a Frisian translation should use West Frisian.",
+    "sense_note": "Identify the specific Frisian language."
+  },
+  {
+    "id": "z199mo1bdd",
+    "definition": "A human language with multiple varieties and writing conventions.",
+    "example": "A radio producer verifies which Fula variety to use for a local broadcast.",
+    "sense_note": null
+  },
+  {
+    "id": "goirkloj73",
+    "definition": null,
+    "example": null,
+    "sense_note": "Specify Scottish Gaelic, Irish, or a broader grouping rather than assuming a single sense."
+  },
+  {
+    "id": "c34c0nwfxj",
+    "definition": "A human language used in spoken and written communication.",
+    "example": "A recorder captures an oral account in Galo.",
+    "sense_note": null
+  },
+  {
+    "id": "t8i6f5zm8d",
+    "definition": "A BASIC-derived language and development environment for building applications.",
+    "example": "A developer builds a desktop form with a click handler.",
+    "sense_note": null
+  },
+  {
+    "id": "os4bq6o3n0",
+    "definition": "A human language used in oral and written communication.",
+    "example": "A teacher records a Garifuna dialogue for language practice.",
+    "sense_note": null
+  },
+  {
+    "id": "ww6z5fppct",
+    "definition": "A human language used in written and spoken communication across several standard varieties.",
+    "example": "An editor checks a German software guide.",
+    "sense_note": null
+  },
+  {
+    "id": "m0nxw9pywy",
+    "definition": "A structured notation for describing software behavior with scenarios and steps.",
+    "example": "A test writer specifies an expected result using Given, When, and Then.",
+    "sense_note": null
+  },
+  {
+    "id": "o410b5qw7m",
+    "definition": "A human language used in speech and writing.",
+    "example": "A translator checks a Gikuyu community announcement.",
+    "sense_note": null
+  },
+  {
+    "id": "n29960itit",
+    "definition": "A compiled programming language with built-in concurrency primitives and garbage collection.",
+    "example": "A developer sends work items to a worker goroutine through a channel.",
+    "sense_note": null
+  },
+  {
+    "id": "gqq3os57m4",
+    "definition": "A query language and execution specification for requesting typed API data.",
+    "example": "A client requests a product's name without requesting other available fields.",
+    "sense_note": null
+  },
+  {
+    "id": "eon43rmtrr",
+    "definition": "A human language label covering modern usage and historical forms written with the Greek alphabet.",
+    "example": "An editor checks a Modern Greek product description.",
+    "sense_note": "Specify the historical stage if relevant."
+  },
+  {
+    "id": "e4tzaqhrc4",
+    "definition": "A JVM programming language with scripting features and Java interoperability.",
+    "example": "A build engineer writes a Gradle task in Groovy.",
+    "sense_note": null
+  },
+  {
+    "id": "hth5eczuzx",
+    "definition": "A human language written using the Gujarati script.",
+    "example": "A reviewer checks a Gujarati enrollment form.",
+    "sense_note": null
+  },
+  {
+    "id": "ybdv7l9ewb",
+    "definition": "A statically checked programming language derived from PHP and used with HHVM.",
+    "example": "A developer adds type annotations to a collection-processing function.",
+    "sense_note": "Assumes the programming language, not the general verb."
+  },
+  {
+    "id": "z2kugvplb2",
+    "definition": "A human language used in speech and writing, distinct from French.",
+    "example": "An interpreter explains a hospital appointment in Haitian Creole.",
+    "sense_note": null
+  },
+  {
+    "id": "qsaoj0vnxc",
+    "definition": "A formal language for describing hardware structure or behavior for simulation and sometimes synthesis.",
+    "example": "An engineer describes the behavior of a clocked register for simulation.",
+    "sense_note": null
+  },
+  {
+    "id": "zceu8ud0dw",
+    "definition": "A statically typed, purely functional programming language with non-strict evaluation.",
+    "example": "A developer pattern-matches an optional value before displaying a result.",
+    "sense_note": null
+  },
+  {
+    "id": "v5s8v3c7qh",
+    "definition": "A human language used in speech, writing, and broadcasting.",
+    "example": "A broadcaster reads a Hausa news bulletin.",
+    "sense_note": null
+  },
+  {
+    "id": "satap7pcf3",
+    "definition": "A named variety of Kannada.",
+    "example": "A linguist compares a recorded Havyaka Kannada expression with a standard Kannada form.",
+    "sense_note": null
+  },
+  {
+    "id": "saanweu4mx",
+    "definition": "A human language used for speaking, writing, and teaching.",
+    "example": "A teacher records Hawaiian pronunciations for a beginner lesson.",
+    "sense_note": null
+  },
+  {
+    "id": "k6hx88t7yt",
+    "definition": "A statically typed programming language that can compile to several target platforms or languages.",
+    "example": "A game developer shares a Haxe gameplay module between builds.",
+    "sense_note": null
+  },
+  {
+    "id": "zkm3kvmgrn",
+    "definition": "A human language used in spoken and written communication.",
+    "example": "A researcher transcribes a Haya oral history.",
+    "sense_note": null
+  },
+  {
+    "id": "yawglvcqj8",
+    "definition": "A human language written in the Hebrew alphabet, with historical and modern forms.",
+    "example": "An editor reviews the labels in a Modern Hebrew interface.",
+    "sense_note": null
+  },
+  {
+    "id": "u42in8da9c",
+    "definition": "A human language whose standard written form uses Devanagari.",
+    "example": "A translator checks a Hindi transit announcement.",
+    "sense_note": null
+  },
+  {
+    "id": "x9khiljmo5",
+    "definition": "A broad language label covering multiple varieties relevant to speech and translation.",
+    "example": "An interpreter checks which Hmong variety a caller prefers.",
+    "sense_note": "Specify the variety where exact language matching matters."
+  },
+  {
+    "id": "t3hoz1q1jm",
+    "definition": "A label for related varieties of Southern Min used in spoken and written communication.",
+    "example": "A localization team confirms the target Hokkien variety for narration.",
+    "sense_note": null
+  },
+  {
+    "id": "c2b26cho4f",
+    "definition": "A human language used in spoken and written communication.",
+    "example": "A language teacher reviews a Hopi pronunciation exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "twhbebct5l",
+    "definition": "A markup language that gives web documents structure and meaning.",
+    "example": "A developer marks the main page title with a heading element.",
+    "sense_note": null
+  }
+]

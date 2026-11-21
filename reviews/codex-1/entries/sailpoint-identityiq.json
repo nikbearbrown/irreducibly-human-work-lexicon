@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SailPoint IdentityIQ is identity governance software for administering access policies, reviewing entitlements, and supporting provisioning workflows.",
+  "entry_text": "SailPoint IdentityIQ is identity governance software for administering access policies, reviewing entitlements, and supporting provisioning workflows.",
+  "entry_text_kind": "definition",
+  "example": "A manager uses an access certification campaign to remove entitlements that staff no longer need.",
+  "id": "nq2y7jjqri",
+  "key": "sailpoint-identityiq",
+  "label": "SailPoint IdentityIQ",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

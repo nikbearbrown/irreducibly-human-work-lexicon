@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Bacteriology is the study of bacteria, including their diversity, structure, physiology, ecology, and roles in health and disease.",
+  "entry_text": "Bacteriology is the study of bacteria, including their diversity, structure, physiology, ecology, and roles in health and disease.",
+  "entry_text_kind": "definition",
+  "example": "An instructor compares beneficial gut bacteria and disease-associated bacteria to explain why bacteria are not all harmful.",
+  "id": "du49l1vv1p",
+  "key": "bacteriology",
+  "label": "Bacteriology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

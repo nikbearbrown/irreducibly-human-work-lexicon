@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Security management establishes responsibilities, policies, and controls for protecting people, assets, or information against identified threats.",
+  "entry_text": "Security management establishes responsibilities, policies, and controls for protecting people, assets, or information against identified threats.",
+  "entry_text_kind": "definition",
+  "example": "A manager assigns owners to physical access reviews and schedules recurring verification.",
+  "id": "js76dl80jf",
+  "key": "security-management",
+  "label": "Security management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Broad term with physical, organizational, and information security senses.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

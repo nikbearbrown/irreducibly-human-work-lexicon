@@ -1,0 +1,20 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Medical records release verifies and fulfills authorized requests to disclose health records under applicable rules and organizational procedures.",
+  "entry_text": "Medical records release verifies and fulfills authorized requests to disclose health records under applicable rules and organizational procedures.",
+  "entry_text_kind": "definition",
+  "example": "A records specialist checks authorization and releases only the records covered by the request.",
+  "id": "s3rphwj2ud",
+  "key": "medical-records-release",
+  "label": "Medical records release",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

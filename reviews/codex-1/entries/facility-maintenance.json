@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Inspecting, servicing, and repairing building systems and assets to keep facilities safe and functional.",
+  "entry_text": "Inspecting, servicing, and repairing building systems and assets to keep facilities safe and functional.",
+  "entry_text_kind": "definition",
+  "example": "A technician checks air-handling units as part of scheduled facility maintenance.",
+  "id": "xghgcqr6jy",
+  "key": "facility-maintenance",
+  "label": "Facility maintenance",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Business excellence is a management approach to improving performance through systematic assessment, feedback, and sustained improvement.",
+  "entry_text": "Business excellence is a management approach to improving performance through systematic assessment, feedback, and sustained improvement.",
+  "entry_text_kind": "definition",
+  "example": "An organization assesses its service quality and selects process changes based on the findings.",
+  "id": "wyr81cjqol",
+  "key": "business-excellence",
+  "label": "Business excellence",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

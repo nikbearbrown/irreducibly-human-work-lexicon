@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ivzzs4ifm2",
+    "definition": "Determining the legal meaning of contractual terms by applying principles of English law to the text and relevant context.",
+    "example": "A solicitor examines a disputed pricing clause and advises how a court may construe it.",
+    "sense_note": null
+  },
+  {
+    "id": "h80iveytxm",
+    "definition": "Determining the meaning and application of legal authorities in a particular factual and jurisdictional context.",
+    "example": "A legal researcher compares the wording of a statute with decisions interpreting it.",
+    "sense_note": null
+  },
+  {
+    "id": "q1rfkue4ql",
+    "definition": "A clinical decision support product that supplies criteria for reviewing the appropriateness of services and levels of care.",
+    "example": "A utilization reviewer consults applicable criteria when evaluating an inpatient stay.",
+    "sense_note": null
+  },
+  {
+    "id": "s1czmc42wp",
+    "definition": "Administering a prescribed substance into the dermis in accordance with clinical requirements.",
+    "example": "A qualified clinician administers a diagnostic skin test and records it.",
+    "sense_note": null
+  },
+  {
+    "id": "jklg8c984x",
+    "definition": "Monitoring nervous system function during surgery to help detect changes that may call for clinical action.",
+    "example": "A monitoring specialist alerts the surgical team to a significant change in recorded signals.",
+    "sense_note": null
+  },
+  {
+    "id": "j4c4cvd7qv",
+    "definition": "Small dental cameras used to capture images from inside a patient's mouth.",
+    "example": "A dentist shows a patient an image of a damaged tooth captured during examination.",
+    "sense_note": null
+  },
+  {
+    "id": "ht2wlmar11",
+    "definition": "Providing fluids intravenously to treat or prevent inadequate hydration under appropriate clinical direction.",
+    "example": "A care team monitors a patient's response to ordered intravenous fluids.",
+    "sense_note": null
+  },
+  {
+    "id": "eoa2dv3h9x",
+    "definition": "Delivering prescribed fluids, medications, or nutrients into a vein over time under applicable clinical procedures.",
+    "example": "A nurse checks an authorized infusion order and monitors the patient during administration.",
+    "sense_note": null
+  },
+  {
+    "id": "imvi4xd1bb",
+    "definition": "Software for tracking stock quantities, locations, movements, and replenishment needs.",
+    "example": "A warehouse checks available quantity before assigning stock to an order.",
+    "sense_note": null
+  },
+  {
+    "id": "y7r5n6cczl",
+    "definition": "Conducting authorized evidence-based inquiries into suspected unlawful distribution of controlled drugs.",
+    "example": "An authorized investigator documents findings for a legally supervised case review.",
+    "sense_note": "Non-operational scope; do not infer authority or permitted investigative techniques."
+  },
+  {
+    "id": "pxvhwldzm8",
+    "definition": "Gathering relevant and reliable information through planned, impartial questioning and careful documentation.",
+    "example": "An investigator uses open questions to obtain a witness's account before checking specific details.",
+    "sense_note": null
+  },
+  {
+    "id": "j8wsdvaon1",
+    "definition": "Preparing and maintaining a clinical trial document that summarizes relevant nonclinical and clinical information about an investigational product.",
+    "example": "A clinical team updates the brochure after receiving new safety findings.",
+    "sense_note": "The label denotes a document; this definition reflects brochure preparation as the corresponding skill."
+  },
+  {
+    "id": "haad0e5z1n",
+    "definition": "A historical digital product design and collaboration platform used to share prototypes and collect feedback.",
+    "example": "A team previously shared a clickable prototype and collected review comments in InVision.",
+    "sense_note": "Confirm the specific InVision product because capabilities and operating status differ across products."
+  },
+  {
+    "id": "m4rbaj4f3l",
+    "definition": "Receiving, checking, coding, approving, and recording invoices for settlement under applicable controls.",
+    "example": "An accounts payable clerk matches an invoice against its purchase order and flags discrepancies.",
+    "sense_note": null
+  },
+  {
+    "id": "t2y97tzi55",
+    "definition": "A historical JavaScript runtime fork of Node.js that later rejoined the Node.js project.",
+    "example": "A maintainer recognizes an io.js deployment in archived application documentation.",
+    "sense_note": null
+  },
+  {
+    "id": "gyeh0f1zkb",
+    "definition": "A workplace management software product for coordinating space, assets, and facilities-related work.",
+    "example": "A facilities team tracks room use and manages service requests.",
+    "sense_note": "The label may denote historical branding or a specific current product within a larger suite."
+  },
+  {
+    "id": "ynl2bq90h0",
+    "definition": "A historical Angular-based version of the Ionic framework for building hybrid mobile applications using web technologies.",
+    "example": "A team uses Ionic 2 components to build application screens for both Android and iOS.",
+    "sense_note": "The entry is version-specific; do not assume current Ionic conventions."
+  },
+  {
+    "id": "relu6zxlst",
+    "definition": "Apple's mobile operating system for the iPhone.",
+    "example": "A developer tests how an iPhone application behaves with iOS accessibility settings.",
+    "sense_note": null
+  },
+  {
+    "id": "oo0nr1tiif",
+    "definition": "Planning, allocating, tracking, and governing IP addresses and address ranges across networks.",
+    "example": "A network administrator records a subnet allocation to prevent conflicting assignments.",
+    "sense_note": null
+  },
+  {
+    "id": "vk2k09kvlq",
+    "definition": "An enhanced interactive Python shell and associated computing tools for exploratory programming and analysis.",
+    "example": "A researcher inspects intermediate results and plots data in an interactive session.",
+    "sense_note": null
+  },
+  {
+    "id": "smjdqp6xd6",
+    "definition": "A historical graphical report designer for creating report templates used by JasperReports.",
+    "example": "A report author lays out invoice fields and totals in iReport Designer.",
+    "sense_note": null
+  },
+  {
+    "id": "wi2jt4gwwc",
+    "definition": "A message queue service that lets distributed applications exchange messages asynchronously.",
+    "example": "A web service enqueues a background task for a separate worker to process.",
+    "sense_note": null
+  },
+  {
+    "id": "y3lbnh790j",
+    "definition": "An implementation of Python for the .NET ecosystem that supports interoperability with .NET code.",
+    "example": "A developer calls an existing .NET library from an IronPython script.",
+    "sense_note": null
+  },
+  {
+    "id": "zoe33g6tco",
+    "definition": "Applying and managing water supplies for crops based on soil, plant, and operational requirements.",
+    "example": "A farm manager adjusts irrigation scheduling after rainfall reduces crop water demand.",
+    "sense_note": null
+  },
+  {
+    "id": "d46bq5u2my",
+    "definition": "Applying an appropriate fluid to flush a body site during authorized clinical care.",
+    "example": "A clinician records irrigation performed as part of prescribed wound care.",
+    "sense_note": "Confirm the intended anatomical site if a more specific sense is needed."
+  },
+  {
+    "id": "hp5jogxeo2",
+    "definition": "An international standard for measurement management systems and requirements associated with measurement processes and equipment.",
+    "example": "A manufacturer uses the standard when reviewing how calibration records support reliable measurements.",
+    "sense_note": null
+  },
+  {
+    "id": "yyvebhced9",
+    "definition": "A series of international standards for evaluating the biological safety of medical devices.",
+    "example": "A manufacturer considers the applicable ISO 10993 parts when planning biological evaluation.",
+    "sense_note": "Specific tests depend on device contact and intended use."
+  },
+  {
+    "id": "zwmnfdk5t0",
+    "definition": "A family of international standards and guidance for environmental management.",
+    "example": "An organization uses an applicable family standard to guide its environmental management system.",
+    "sense_note": null
+  },
+  {
+    "id": "qxv6wnwthm",
+    "definition": "An international standard for applying risk management to medical devices throughout their lifecycle.",
+    "example": "A device manufacturer documents hazards, risk controls, and their effectiveness.",
+    "sense_note": null
+  },
+  {
+    "id": "bydht0lzxm",
+    "definition": "An international standard specifying quality and competence requirements for medical laboratories.",
+    "example": "A laboratory uses the requirements to review personnel competence and result quality.",
+    "sense_note": null
+  },
+  {
+    "id": "u8t0sc4hp2",
+    "definition": "International guidance for auditing management systems, including planning and auditor competence.",
+    "example": "An audit lead uses the guidance to plan interviews and document audit evidence.",
+    "sense_note": null
+  },
+  {
+    "id": "onui7wccwc",
+    "definition": "A series of functional safety standards for electrical and electronic systems in production road vehicles.",
+    "example": "An automotive engineering team traces a safety goal to system requirements and verification evidence.",
+    "sense_note": null
+  },
+  {
+    "id": "c4p6jfgpuw",
+    "definition": "International guidance for integrating risk management principles and processes into organizational decisions.",
+    "example": "A project team uses ISO 31000 guidance to structure a risk assessment and follow-up plan.",
+    "sense_note": null
+  },
+  {
+    "id": "hllec8rbxe",
+    "definition": "An international standard specifying requirements for energy management systems and improvement of energy performance.",
+    "example": "A manufacturing site tracks energy performance against its established baseline.",
+    "sense_note": null
+  },
+  {
+    "id": "hai4eyhpu6",
+    "definition": "An international standard for messages exchanged in card-originated financial transactions.",
+    "example": "A payment system interprets the transaction message fields under an agreed ISO 8583 implementation.",
+    "sense_note": null
+  },
+  {
+    "id": "b7urnp1y80",
+    "definition": "A core international standard describing quality management fundamentals and vocabulary, also commonly used to refer to the associated family of standards.",
+    "example": "A team consults ISO 9000 vocabulary when interpreting a quality management requirement.",
+    "sense_note": "ISO 9000 is not the certifiable system requirements standard ISO 9001."
+  },
+  {
+    "id": "b9atybxdgh",
+    "definition": "A family of international standards for information security management systems and related information security practices.",
+    "example": "A security team consults relevant series guidance when preparing its management system.",
+    "sense_note": "The series includes but is not identical to the requirements document ISO/IEC 27001."
+  },
+  {
+    "id": "dln07ri3cd",
+    "definition": "An international standard specifying requirements for establishing, maintaining, and improving an information security management system.",
+    "example": "An organization assesses its security management system against the standard's requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "iy9zh0s63e",
+    "definition": "A multipart international standard that defines SQL language features and their semantics for working with relational data.",
+    "example": "A developer compares a query feature against the applicable ISO SQL specification before relying on portability.",
+    "sense_note": null
+  },
+  {
+    "id": "li4w89q0m0",
+    "definition": "Software that records issues, assigns responsibility, and tracks their status from reporting through resolution.",
+    "example": "A development team assigns a reported defect and records the verification that closes it.",
+    "sense_note": null
+  }
+]

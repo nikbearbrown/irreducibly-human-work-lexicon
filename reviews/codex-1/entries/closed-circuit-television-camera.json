@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A closed-circuit television camera sends video to a limited monitoring or recording system rather than to a public broadcast.",
+  "entry_text": "A closed-circuit television camera sends video to a limited monitoring or recording system rather than to a public broadcast.",
+  "entry_text_kind": "definition",
+  "example": "A facility uses an authorized camera to monitor access to a stockroom.",
+  "id": "qh6fizk0v5",
+  "key": "closed-circuit-television-camera",
+  "label": "Closed-circuit television camera",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

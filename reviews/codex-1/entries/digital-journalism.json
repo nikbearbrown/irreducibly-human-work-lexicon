@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Reporting, verifying, producing, and publishing journalism in digital formats and channels.",
+  "entry_text": "Reporting, verifying, producing, and publishing journalism in digital formats and channels.",
+  "entry_text_kind": "definition",
+  "example": "A reporter publishes a verified local election story with interactive precinct results.",
+  "id": "h27ahjbfu2",
+  "key": "digital-journalism",
+  "label": "Digital journalism",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

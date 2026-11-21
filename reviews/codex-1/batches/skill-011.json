@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "nlw2em4wy6",
+    "key": "continuous-passive-motion",
+    "label": "Continuous passive motion",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "srhmowmu6y",
+    "key": "contour-plowing",
+    "label": "Contour plowing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "snkq2fzg6e",
+    "key": "contract-review",
+    "label": "Contract review",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lt7wmuoa77",
+    "key": "controllogix",
+    "label": "ControlLogix",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wiusuiqy2m",
+    "key": "controlup",
+    "label": "ControlUp",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wbm3a667jj",
+    "key": "copier-troubleshooting",
+    "label": "Copier troubleshooting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fmk4mr39gh",
+    "key": "coping-saw",
+    "label": "Coping saw",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cvxvhkki8b",
+    "key": "coppermine-photo-gallery",
+    "label": "Coppermine Photo Gallery",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pjgqggil05",
+    "key": "copywriting",
+    "label": "Copywriting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dmanxhx3ah",
+    "key": "core-spotlight",
+    "label": "Core Spotlight",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eq1sto5sbz",
+    "key": "coreos",
+    "label": "CoreOS",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g5a9cit4x4",
+    "key": "corona-sdk",
+    "label": "Corona SDK",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "povysqyg4w",
+    "key": "coronal-polishing",
+    "label": "Coronal polishing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d3zbc9cgeu",
+    "key": "corporate-communications",
+    "label": "Corporate communications",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kjyp8z5e06",
+    "key": "coso-framework",
+    "label": "COSO framework",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y83erk8o1r",
+    "key": "cost-estimating",
+    "label": "Cost estimating",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ix7gdpio0m",
+    "key": "cost-to-serve",
+    "label": "Cost to serve",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lkd0dh203l",
+    "key": "costar-real-estate-manager",
+    "label": "CoStar Real Estate Manager",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rtrc1foglt",
+    "key": "cpython",
+    "label": "CPython",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g351fd3uhq",
+    "key": "crane-signaling",
+    "label": "Crane signaling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "coi0tfw3eq",
+    "key": "create-react-app",
+    "label": "Create React App",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a6uxgvojco",
+    "key": "createjs",
+    "label": "CreateJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "syt4e7l62v",
+    "key": "creative-arts-therapy",
+    "label": "Creative arts therapy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u9lvovjv7p",
+    "key": "creative-problem-solving",
+    "label": "Creative problem-solving",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yfwv4lzspx",
+    "key": "credit-risk-analysis",
+    "label": "Credit risk analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x3v34yrjj2",
+    "key": "creo-elements-pro",
+    "label": "Creo Elements/Pro",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gkooziad4f",
+    "key": "crestron-programming",
+    "label": "Crestron programming",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s71g30vi1m",
+    "key": "crestron",
+    "label": "Crestron",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rhsdk9dz6z",
+    "key": "crime-analysis",
+    "label": "Crime analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dob6za2tys",
+    "key": "crime-mapping",
+    "label": "Crime mapping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dph0il9gp2",
+    "key": "crime-scene-investigation",
+    "label": "Crime scene investigation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "plyin34jo8",
+    "key": "critical-path-method",
+    "label": "Critical path method",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qayw96u2hz",
+    "key": "critical-reflection",
+    "label": "Critical reflection",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pfm68oskn9",
+    "key": "critical-test-results-management",
+    "label": "Critical test results management",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vaxzb7mo9m",
+    "key": "cross-platform-app-development",
+    "label": "Cross-platform app development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f4zabtnnc2",
+    "key": "cryengine",
+    "label": "CryEngine",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i8wz6wg5v0",
+    "key": "cu-seeme",
+    "label": "CU-SeeMe",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zgnj6ebugu",
+    "key": "cucumber-js",
+    "label": "Cucumber.js",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "te8h97eiea",
+    "key": "cucumber",
+    "label": "Cucumber",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fm6e3bf8o0",
+    "key": "cultural-sensitivity",
+    "label": "Cultural sensitivity",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

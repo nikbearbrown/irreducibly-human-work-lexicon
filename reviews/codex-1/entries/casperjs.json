@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "CasperJS was a scripting and testing utility for automating browser interactions through PhantomJS or SlimerJS.",
+  "entry_text": "CasperJS was a scripting and testing utility for automating browser interactions through PhantomJS or SlimerJS.",
+  "entry_text_kind": "definition",
+  "example": "A maintainer reads a historical browser test that verifies a site’s registration flow.",
+  "id": "wlvg42fqif",
+  "key": "casperjs",
+  "label": "CasperJS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

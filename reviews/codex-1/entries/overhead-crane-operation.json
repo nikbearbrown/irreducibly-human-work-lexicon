@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Overhead crane operation uses a bridge, gantry or similar overhead crane to lift and move loads within operating limits.",
+  "entry_text": "Overhead crane operation uses a bridge, gantry or similar overhead crane to lift and move loads within operating limits.",
+  "entry_text_kind": "definition",
+  "example": "A trained operator follows an approved lift plan to place a component at a workstation.",
+  "id": "djno840jsm",
+  "key": "overhead-crane-operation",
+  "label": "Overhead crane operation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

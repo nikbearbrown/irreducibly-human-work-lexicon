@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-012.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Software engineering applies systematic methods to designing, building, testing and maintaining software systems.",
+  "entry_text": "Software engineering applies systematic methods to designing, building, testing and maintaining software systems.",
+  "entry_text_kind": "definition",
+  "example": "A team uses versioned builds and automated regression tests to modify a payment application safely.",
+  "id": "qmravcc671",
+  "key": "software-engineering",
+  "label": "Software engineering",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

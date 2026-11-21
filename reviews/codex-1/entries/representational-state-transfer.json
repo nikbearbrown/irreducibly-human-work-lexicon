@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Representational State Transfer is an architectural style for distributed systems that uses a uniform interface to exchange resource representations under constraints including stateless interactions.",
+  "entry_text": "Representational State Transfer is an architectural style for distributed systems that uses a uniform interface to exchange resource representations under constraints including stateless interactions.",
+  "entry_text_kind": "definition",
+  "example": "A client requests a representation of an order using its resource identifier without relying on the server to remember an earlier request.",
+  "id": "uhwnqf48he",
+  "key": "representational-state-transfer",
+  "label": "Representational State Transfer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Community resilience is the capacity of a community to maintain essential functions, adapt, and recover when exposed to disturbances or sustained stress.",
+  "entry_text": "Community resilience is the capacity of a community to maintain essential functions, adapt, and recover when exposed to disturbances or sustained stress.",
+  "entry_text_kind": "definition",
+  "example": "A neighborhood organizes transportation and communications so residents can reach cooling centers during a power outage.",
+  "id": "tjjqny4fk5",
+  "key": "community-resilience",
+  "label": "Community resilience",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

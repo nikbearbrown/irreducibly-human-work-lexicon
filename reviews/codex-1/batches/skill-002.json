@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "pi5xj8mknx",
+    "key": "adobe-substance-3d-painter",
+    "label": "Adobe Substance 3D Painter",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ey47ubziw1",
+    "key": "advertising-design",
+    "label": "Advertising design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a2ftxfcthf",
+    "key": "aerospike-database",
+    "label": "Aerospike Database",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f9an7y5w6v",
+    "key": "ag-grid",
+    "label": "AG Grid",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nqjrl8n88z",
+    "key": "agent-evaluation",
+    "label": "Agent evaluation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cfem7cgay7",
+    "key": "agile-software-development",
+    "label": "Agile software development",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kmr2qx0hc9",
+    "key": "agricultural-machinery",
+    "label": "Agricultural machinery",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o0bkdduxor",
+    "key": "ai-copywriting",
+    "label": "AI copywriting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zyx43s2qb5",
+    "key": "air-travel-organisers-licensing",
+    "label": "Air Travel Organisers' Licensing",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k5f5yj60ou",
+    "key": "ajax",
+    "label": "Ajax",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ph6tkwz6c2",
+    "key": "akta",
+    "label": "ÄKTA",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ca87twse7q",
+    "key": "aldus-photostyler",
+    "label": "Aldus PhotoStyler",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pp0ifhxwtv",
+    "key": "alexa-internet",
+    "label": "Alexa Internet",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mnys3u3va3",
+    "key": "algorithms",
+    "label": "Algorithm analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tbid4ervbh",
+    "key": "alibaba-cloud",
+    "label": "Alibaba Cloud",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k9lgfp8na4",
+    "key": "alienvault",
+    "label": "AlienVault",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xfnpaikx1y",
+    "key": "all-terrain-vehicle",
+    "label": "All-terrain vehicle",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eb0wn0y0au",
+    "key": "allergen-labelling",
+    "label": "Allergen labelling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cjqp8nwcn9",
+    "key": "alljoyn",
+    "label": "AllJoyn",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "puo12ic4rl",
+    "key": "alloyui",
+    "label": "AlloyUI",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q9sf1w77ej",
+    "key": "allyship",
+    "label": "Allyship",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mwkqst1v48",
+    "key": "alooma",
+    "label": "Alooma",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g14hvhxwai",
+    "key": "alternative-dispute-resolution",
+    "label": "Alternative dispute resolution",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jq8v5gedpq",
+    "key": "alternative-transients-program",
+    "label": "Alternative Transients Program",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ffrlff4nm4",
+    "key": "aluminium-smelting",
+    "label": "Aluminium smelting",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "imi19hgljl",
+    "key": "amazon-appstream-2-0",
+    "label": "Amazon AppStream 2.0",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s1jyt2h0md",
+    "key": "amazon-cloudwatch",
+    "label": "Amazon CloudWatch",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gzok01cjvc",
+    "key": "amazon-emr",
+    "label": "Amazon EMR",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w5g4r0jtmy",
+    "key": "amazon-fire-tablet",
+    "label": "Amazon Fire tablet",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xstca7bdbk",
+    "key": "amazon-sagemaker",
+    "label": "Amazon SageMaker",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "srtz4mtpnt",
+    "key": "amazon-simpledb",
+    "label": "Amazon SimpleDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ya8of3fs21",
+    "key": "amcharts",
+    "label": "amCharts",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "obbbl6h3c4",
+    "key": "american-welding-society-codes",
+    "label": "American Welding Society codes",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e4939h1iss",
+    "key": "amiga",
+    "label": "Amiga",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ppo11nahux",
+    "key": "amx-programming",
+    "label": "AMX programming",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ks93tfz19m",
+    "key": "anaconda",
+    "label": "Anaconda",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z09tq03hir",
+    "key": "analysis-of-variance",
+    "label": "Analysis of variance",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cxpxcuw3gh",
+    "key": "anaplan",
+    "label": "Anaplan",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ir4834pgff",
+    "key": "android-app-development",
+    "label": "Android app development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ukkzhjgb9c",
+    "key": "android-ui-development",
+    "label": "Android UI development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

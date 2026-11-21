@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Spotfire is a visual analytics platform for interactively exploring data and developing analyses or dashboards.",
+  "entry_text": "Spotfire is a visual analytics platform for interactively exploring data and developing analyses or dashboards.",
+  "entry_text_kind": "definition",
+  "example": "An engineer compares sensor readings by equipment type and filters the views to inspect a suspected trend.",
+  "id": "bdi5yd5igv",
+  "key": "tibco-spotfire",
+  "label": "TIBCO Spotfire",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

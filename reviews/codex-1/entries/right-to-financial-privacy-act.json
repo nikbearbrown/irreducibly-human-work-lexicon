@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Right to Financial Privacy Act restricts certain U.S. federal government access to customers' financial records and specifies procedures and exceptions.",
+  "entry_text": "The Right to Financial Privacy Act restricts certain U.S. federal government access to customers' financial records and specifies procedures and exceptions.",
+  "entry_text_kind": "definition",
+  "example": "A federal investigator checks with counsel which process applies before requesting covered account records.",
+  "id": "brtkhngp2g",
+  "key": "right-to-financial-privacy-act",
+  "label": "Right to Financial Privacy Act",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

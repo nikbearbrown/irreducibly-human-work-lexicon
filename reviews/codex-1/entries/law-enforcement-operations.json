@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Law enforcement operations concerns how agencies coordinate personnel, procedures and resources to carry out public-safety duties.",
+  "entry_text": "Law enforcement operations concerns how agencies coordinate personnel, procedures and resources to carry out public-safety duties.",
+  "entry_text_kind": "definition",
+  "example": "An agency coordinates call dispatch and traffic diversion during a road closure.",
+  "id": "i3hhtsx5w7",
+  "key": "law-enforcement-operations",
+  "label": "Law enforcement operations",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

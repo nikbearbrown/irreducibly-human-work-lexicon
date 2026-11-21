@@ -1,0 +1,20 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PostgreSQL's procedural language for implementing server-side functions and triggers.",
+  "entry_text": "PostgreSQL's procedural language for implementing server-side functions and triggers.",
+  "entry_text_kind": "definition",
+  "example": "A developer writes a trigger function that records a timestamp.",
+  "id": "onzi0v8hlf",
+  "key": "plpgsql",
+  "label": "PL/pgSQL",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

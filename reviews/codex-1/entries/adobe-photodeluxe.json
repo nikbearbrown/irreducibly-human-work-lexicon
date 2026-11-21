@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Adobe PhotoDeluxe was a consumer image editor for retouching pictures and making simple photo projects.",
+  "entry_text": "Adobe PhotoDeluxe was a consumer image editor for retouching pictures and making simple photo projects.",
+  "entry_text_kind": "definition",
+  "example": "A user crops a scanned photograph and arranges it in a greeting-card layout.",
+  "id": "qq4qgc7k78",
+  "key": "adobe-photodeluxe",
+  "label": "Adobe PhotoDeluxe",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

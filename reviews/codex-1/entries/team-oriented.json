@@ -1,0 +1,20 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Being team-oriented is a tendency to coordinate one's contributions with others in support of shared goals.",
+  "entry_text": "Being team-oriented is a tendency to coordinate one's contributions with others in support of shared goals.",
+  "entry_text_kind": "definition",
+  "example": "An engineer documents a handoff early so the next team can continue without waiting for a meeting.",
+  "id": "crm3w31oq7",
+  "key": "team-oriented",
+  "label": "Team-oriented",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The adjectival label describes a work orientation.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

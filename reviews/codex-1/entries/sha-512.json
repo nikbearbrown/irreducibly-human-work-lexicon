@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SHA-512 is a cryptographic hash function in the SHA-2 family that produces a 512-bit digest from input data.",
+  "entry_text": "SHA-512 is a cryptographic hash function in the SHA-2 family that produces a 512-bit digest from input data.",
+  "entry_text_kind": "definition",
+  "example": "An archive records SHA-512 digests to check later whether stored files have changed.",
+  "id": "djgnjt4yvc",
+  "key": "sha-512",
+  "label": "SHA-512",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,28 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Biomolecular engineering applies engineering principles to the design, analysis, or use of biological molecules and molecular systems.",
+  "entry_text": "Biomolecular engineering applies engineering principles to the design, analysis, or use of biological molecules and molecular systems.",
+  "entry_text_kind": "definition",
+  "example": "A materials team studies how molecular properties affect the performance of a protein-based material.",
+  "id": "rvsvd49up9",
+  "key": "biomolecular-engineering",
+  "label": "Biomolecular engineering",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "rvsvd49up9",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Department explains engineering design of biomolecules and molecular systems; the material example is illustrative only.",
+      "packet": "worker-stratified.json",
+      "ref": "https://engineering.ucsc.edu/departments/biomolecular-engineering/frequently-asked-questions/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

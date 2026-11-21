@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Microsoft Intune is a cloud service for managing organizational devices, applications and related compliance policies.",
+  "entry_text": "Microsoft Intune is a cloud service for managing organizational devices, applications and related compliance policies.",
+  "entry_text_kind": "definition",
+  "example": "An administrator checks whether enrolled laptops meet disk-encryption requirements.",
+  "id": "kf8h1njv2w",
+  "key": "microsoft-intune",
+  "label": "Microsoft Intune",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

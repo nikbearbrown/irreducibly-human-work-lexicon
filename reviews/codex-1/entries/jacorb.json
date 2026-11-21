@@ -1,0 +1,28 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "JacORB is a Java implementation of the CORBA object request broker architecture for distributed object communication.",
+  "entry_text": "JacORB is a Java implementation of the CORBA object request broker architecture for distributed object communication.",
+  "entry_text_kind": "definition",
+  "example": "A Java client uses JacORB to invoke an operation on a remote CORBA object.",
+  "id": "c0kc6xcx90",
+  "key": "jacorb",
+  "label": "JacORB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "c0kc6xcx90",
+      "note": "The project guide describes a Java CORBA object request broker for distributed object communication.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://www.jacorb.org/releases/3.5/ProgrammingGuide.pdf",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

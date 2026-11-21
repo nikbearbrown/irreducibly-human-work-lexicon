@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Puppet automates system configuration by specifying the desired state of managed resources.",
+  "entry_text": "Puppet automates system configuration by specifying the desired state of managed resources.",
+  "entry_text_kind": "definition",
+  "example": "An administrator sets the same package and configuration across servers.",
+  "id": "l843486lg0",
+  "key": "puppet",
+  "label": "Puppet",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

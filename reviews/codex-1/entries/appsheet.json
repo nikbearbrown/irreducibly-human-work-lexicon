@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "AppSheet is a low-code platform for building applications and automations over existing data sources.",
+  "entry_text": "AppSheet is a low-code platform for building applications and automations over existing data sources.",
+  "entry_text_kind": "definition",
+  "example": "A maintenance team turns a spreadsheet of inspection records into a mobile form.",
+  "id": "yd07y07och",
+  "key": "appsheet",
+  "label": "AppSheet",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

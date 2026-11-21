@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Solving a problem by splitting it into smaller instances, solving those instances, and combining their results.",
+  "entry_text": "Solving a problem by splitting it into smaller instances, solving those instances, and combining their results.",
+  "entry_text_kind": "definition",
+  "example": "Merge sort divides a list, sorts each part, and merges the sorted lists.",
+  "id": "wr4w7vpbsx",
+  "key": "divide-and-conquer",
+  "label": "Divide and conquer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PDF conversion changes a file to PDF or transforms a PDF into another format while managing formatting and data fidelity.",
+  "entry_text": "PDF conversion changes a file to PDF or transforms a PDF into another format while managing formatting and data fidelity.",
+  "entry_text_kind": "definition",
+  "example": "A user converts a text-based PDF to an editable document and checks table alignment.",
+  "id": "wpao4gtt54",
+  "key": "pdf-conversion",
+  "label": "PDF conversion",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

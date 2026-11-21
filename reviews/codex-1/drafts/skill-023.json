@@ -1,0 +1,242 @@
+[
+  {
+    "id": "tx4y2yxh6j",
+    "definition": "A JavaScript game engine for creating two-dimensional games that run in a web browser.",
+    "example": "A developer implements a tile-based platform game with Impact.js.",
+    "sense_note": null
+  },
+  {
+    "id": "g0hke08uav",
+    "definition": "A clinical breathing exercise that uses device feedback to encourage slow, deep inhalation.",
+    "example": "A patient follows a clinician's guidance to use an incentive spirometer during recovery.",
+    "sense_note": null
+  },
+  {
+    "id": "g5ll2usbzr",
+    "definition": "Documenting and communicating an incident, its circumstances, and immediate responses through the appropriate reporting process.",
+    "example": "A worker records a near miss so a safety team can investigate it.",
+    "sense_note": null
+  },
+  {
+    "id": "bttz5za9v1",
+    "definition": "A web platform API for storing and querying substantial amounts of structured data locally in a browser.",
+    "example": "An offline web app saves records in IndexedDB until a network connection returns.",
+    "sense_note": null
+  },
+  {
+    "id": "rs9ggylkfu",
+    "definition": "Using communication, evidence, and relationships to shape another person's understanding or decision without necessarily having formal authority.",
+    "example": "A project lead gains stakeholder support by explaining the implications of several options.",
+    "sense_note": null
+  },
+  {
+    "id": "qad0uw5btk",
+    "definition": "A database designed for ingesting, storing, and querying timestamped or time-series data.",
+    "example": "An operator queries sensor measurements over a production shift.",
+    "sense_note": null
+  },
+  {
+    "id": "ggm9c4xs9a",
+    "definition": "An IP address management product for tracking address space, assignments, and associated infrastructure information.",
+    "example": "An administrator consults Infoblox IPAM before allocating a new subnet.",
+    "sense_note": null
+  },
+  {
+    "id": "i4vule328g",
+    "definition": "Designing visual explanations that combine structured information, concise text, and graphics.",
+    "example": "A communications designer turns survey results into a visual summary with labeled charts.",
+    "sense_note": null
+  },
+  {
+    "id": "seeljv809d",
+    "definition": "Providing accurate information and context-sensitive support so people can understand their options and make informed choices.",
+    "example": "An adviser explains course entry requirements and helps a learner compare possible pathways.",
+    "sense_note": "May refer to the formal UK information, advice, and guidance service context."
+  },
+  {
+    "id": "bd8wbhizin",
+    "definition": "Assessing information for credibility, accuracy, relevance, and sufficiency for a particular purpose.",
+    "example": "A researcher compares a claim against the underlying dataset and independent evidence.",
+    "sense_note": null
+  },
+  {
+    "id": "bxmawi82qq",
+    "definition": "A software design principle that conceals implementation decisions behind stable interfaces to limit unnecessary dependencies.",
+    "example": "A module exposes an operation for saving records without exposing the data format it uses internally.",
+    "sense_note": "In security contexts the phrase can instead mean concealing data; the design principle is intended here."
+  },
+  {
+    "id": "gbsppteik8",
+    "definition": "Designing or using safeguards to detect and prevent unauthorized disclosure of sensitive information.",
+    "example": "A company applies approved sharing policies and reviews alerts for accidental exposure of confidential files.",
+    "sense_note": null
+  },
+  {
+    "id": "bq1135r6rn",
+    "definition": "Examining information technology systems, controls, and processes against defined requirements or audit criteria.",
+    "example": "An auditor samples account changes to check whether access reviews were completed.",
+    "sense_note": null
+  },
+  {
+    "id": "lc2rcp825q",
+    "definition": "An industrial control platform associated with Invensys for integrating process control and plant information.",
+    "example": null,
+    "sense_note": "Confirm the historical product edition and architecture before describing specific components."
+  },
+  {
+    "id": "p98xjhlkpu",
+    "definition": "A relational database management system used to store and query structured data.",
+    "example": "A legacy business application retrieves account records from Ingres.",
+    "sense_note": null
+  },
+  {
+    "id": "wtrq54ml3i",
+    "definition": "A MySQL storage engine that supports transactions, row-level locking, and foreign key constraints.",
+    "example": "An application updates an order and its items in a single InnoDB transaction.",
+    "sense_note": null
+  },
+  {
+    "id": "w5pn5u48dh",
+    "definition": "Providing nursing care to hospitalized patients during pregnancy, labor, birth, or the postpartum period.",
+    "example": "An obstetric nurse monitors a patient's condition and communicates changes to the care team.",
+    "sense_note": null
+  },
+  {
+    "id": "jt5tote9cr",
+    "definition": "Leading sales teams that engage prospective and existing customers remotely rather than primarily through field visits.",
+    "example": "A manager coaches representatives on remote demonstrations and tracks conversion rates.",
+    "sense_note": null
+  },
+  {
+    "id": "jx2hqz8q8r",
+    "definition": "A vulnerability management tool used to identify, prioritize, and track remediation of security weaknesses in authorized environments.",
+    "example": "A security manager reviews remediation progress for findings on company-managed assets.",
+    "sense_note": null
+  },
+  {
+    "id": "n71b651xn5",
+    "definition": "Planning, placing, and evaluating paid advertisements delivered through Instagram placements.",
+    "example": "A marketer compares registration rates from two paid Instagram video campaigns.",
+    "sense_note": null
+  },
+  {
+    "id": "e41wx7aie8",
+    "definition": "Producing and adapting photographs, videos, graphics, and copy for Instagram formats and audiences.",
+    "example": "A creator edits a short vertical video with captions for publication.",
+    "sense_note": null
+  },
+  {
+    "id": "canygbhhr1",
+    "definition": "Using Instagram's content, community, analytics, and advertising features to support promotional goals.",
+    "example": "A brand reviews engagement and uses the findings to plan its next posts.",
+    "sense_note": null
+  },
+  {
+    "id": "qubow4whki",
+    "definition": "An Instagram feature for sharing sequences of media that are normally visible for a limited time unless preserved through supported features.",
+    "example": "An event organizer posts a short sequence of behind-the-scenes updates to Stories.",
+    "sense_note": null
+  },
+  {
+    "id": "p1dlftn9sg",
+    "definition": "A social networking platform for sharing photos and videos and interacting with other accounts.",
+    "example": "A museum posts photographs of its exhibits and answers visitors' comments.",
+    "sense_note": null
+  },
+  {
+    "id": "c3bimmt0do",
+    "definition": "A commercial real-time operating system family designed for predictable execution in embedded systems.",
+    "example": "An embedded engineering team evaluates the operating system for a system with strict timing requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "g0k226qn7c",
+    "definition": "A historical Intel branding program for personal computers designed to support digital home entertainment.",
+    "example": "A history exhibit shows a media-center computer sold under the Intel Viiv brand.",
+    "sense_note": null
+  },
+  {
+    "id": "fpv3wcolic",
+    "definition": "Combining automation with analytical or AI techniques to execute workflows that involve interpretation or decision support.",
+    "example": "An accounts team classifies incoming documents automatically and routes uncertain cases for review.",
+    "sense_note": null
+  },
+  {
+    "id": "kx3006o03p",
+    "definition": "A structured course of frequent treatment sessions that allows participants to live outside a facility rather than receive inpatient care.",
+    "example": "A patient attends several scheduled group and individual sessions each week while living at home.",
+    "sense_note": null
+  },
+  {
+    "id": "m9s424jy6t",
+    "definition": "Creating or operating three-dimensional digital content that responds to user actions in real time.",
+    "example": "A designer builds a model that visitors can rotate and inspect from different viewpoints.",
+    "sense_note": null
+  },
+  {
+    "id": "qxmxb2pd9w",
+    "definition": "Designing how a person acts on a system or experience and how it responds.",
+    "example": "A designer prototypes the feedback that follows selection of an item in a kiosk interface.",
+    "sense_note": null
+  },
+  {
+    "id": "l6oh8z1sgb",
+    "definition": "Developing narratives in which a participant's actions influence how the story is revealed or what happens next.",
+    "example": "A writer creates branches that change which character the player meets.",
+    "sense_note": null
+  },
+  {
+    "id": "qpdq0k0dbj",
+    "definition": "Designing or producing web material that responds to user input rather than presenting fixed information alone.",
+    "example": "A publisher builds an explorable graphic that updates when readers select a city.",
+    "sense_note": null
+  },
+  {
+    "id": "v716ee80n4",
+    "definition": "Planning the layout, controls, states, and feedback of responsive or interactive web experiences.",
+    "example": "A designer specifies how filter controls alter a product grid and show active selections.",
+    "sense_note": null
+  },
+  {
+    "id": "prurki4ppc",
+    "definition": "Implementing interactive behavior in websites and web applications with suitable client- and server-side technologies.",
+    "example": "A developer builds a filterable list that updates without reloading the full page.",
+    "sense_note": null
+  },
+  {
+    "id": "ft6xjcgltn",
+    "definition": "Coordinating work across people with different disciplinary knowledge to solve problems or produce shared outcomes.",
+    "example": "A designer, clinician, and engineer jointly refine a patient-facing application.",
+    "sense_note": null
+  },
+  {
+    "id": "w4geod402w",
+    "definition": "Conducting an authorized fact-finding inquiry into suspected misconduct or other issues within an organization.",
+    "example": "An investigator preserves records and interviews involved staff to establish relevant facts.",
+    "sense_note": null
+  },
+  {
+    "id": "rscqfs498r",
+    "definition": "A standardized identifier assigned to a particular edition and format of a book or similar monographic publication.",
+    "example": "A bookseller matches a hardcover edition to its ISBN.",
+    "sense_note": null
+  },
+  {
+    "id": "ixm7ora2sc",
+    "definition": "A network protocol for reporting IP delivery errors and conveying diagnostic or control messages.",
+    "example": "A network administrator interprets an ICMP error indicating that a destination could not be reached.",
+    "sense_note": null
+  },
+  {
+    "id": "v1edze49tk",
+    "definition": "A mail access protocol for retrieving and managing messages and folders while keeping mailbox state on a server.",
+    "example": "A user reads mail on a laptop and later sees the same read status on a phone.",
+    "sense_note": null
+  },
+  {
+    "id": "npe8caepoo",
+    "definition": "The family of layered communications protocols used to interconnect networks and support Internet applications.",
+    "example": "An application sends requests over transport and IP protocols without needing to control individual network links.",
+    "sense_note": null
+  }
+]

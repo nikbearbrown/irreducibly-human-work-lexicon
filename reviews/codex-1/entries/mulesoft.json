@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "MuleSoft is an integration platform for connecting applications and data through APIs and integration workflows.",
+  "entry_text": "MuleSoft is an integration platform for connecting applications and data through APIs and integration workflows.",
+  "entry_text_kind": "definition",
+  "example": "An installer links a sales application to an order system so the two can exchange records.",
+  "id": "jp5f35cnyj",
+  "key": "mulesoft",
+  "label": "MuleSoft",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

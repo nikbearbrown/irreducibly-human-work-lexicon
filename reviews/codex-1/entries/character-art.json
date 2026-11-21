@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Character art develops the visual appearance of fictional characters through drawings, paintings, or digital models.",
+  "entry_text": "Character art develops the visual appearance of fictional characters through drawings, paintings, or digital models.",
+  "entry_text_kind": "definition",
+  "example": "A game artist draws several silhouettes before modeling the selected character.",
+  "id": "chya8hfm4m",
+  "key": "character-art",
+  "label": "Character art",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

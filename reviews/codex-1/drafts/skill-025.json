@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pmjnab076s",
+    "definition": "IT security architecture is the design of controls, trust boundaries and system relationships to protect information and technology assets.",
+    "example": "An architect isolates a payment service on its own network and restricts which services may contact it.",
+    "sense_note": null
+  },
+  {
+    "id": "y3zi3hsdf6",
+    "definition": "IT security documentation is the creation and maintenance of written records that describe security requirements, controls, procedures and decisions.",
+    "example": "A team documents who approves privileged access and how the approvals are recorded.",
+    "sense_note": null
+  },
+  {
+    "id": "qj95uqnlid",
+    "definition": "ITU-T T.30 is the recommendation governing call setup, negotiation and message transfer for Group 3 facsimile over the telephone network.",
+    "example": "Two fax machines use its signaling procedures to agree on how to send a page.",
+    "sense_note": null
+  },
+  {
+    "id": "ao9i14atpq",
+    "definition": "Ivalua is enterprise software that supports sourcing, supplier management, purchasing and other source-to-pay activities.",
+    "example": "A procurement team compares supplier bids before sending the selected contract for approval.",
+    "sense_note": null
+  },
+  {
+    "id": "uyk06pg91v",
+    "definition": "JaCoCo is a Java code-coverage library that records which parts of compiled code run during tests.",
+    "example": "A developer uses its branch report to find an unchecked path in a validation method.",
+    "sense_note": null
+  },
+  {
+    "id": "c0kc6xcx90",
+    "definition": "JacORB is a Java implementation of the CORBA object request broker architecture for distributed object communication.",
+    "example": "A Java client uses JacORB to invoke an operation on a remote CORBA object.",
+    "sense_note": null
+  },
+  {
+    "id": "auq98ca7fv",
+    "definition": "JAFAN refers to a family of U.S. Air Force and joint publications for administering and protecting special access programs.",
+    "example": "A program security officer checks which manual applies when reviewing facility requirements.",
+    "sense_note": "The label does not identify a particular JAFAN document or revision; applicability should be verified."
+  },
+  {
+    "id": "qx79ytpn5b",
+    "definition": "Jasmine is a JavaScript testing framework that specifies expected behavior through test cases and assertions.",
+    "example": "A developer writes a Jasmine test to check that a sorting function returns results in ascending order.",
+    "sense_note": null
+  },
+  {
+    "id": "ox8ixvytf3",
+    "definition": "The Java Archive format packages Java classes and related resources in a ZIP-based file that can contain a manifest.",
+    "example": "A build packages a command-line application and its resources in a JAR with a declared entry point.",
+    "sense_note": null
+  },
+  {
+    "id": "rqi69qjjr4",
+    "definition": "The Java Communications API defines Java interfaces for accessing serial and parallel communication ports.",
+    "example": "A desktop application opens a serial port to read data from an attached instrument.",
+    "sense_note": null
+  },
+  {
+    "id": "t3q15beb4e",
+    "definition": "Java Persistence API 2.0 specifies object-relational mapping and persistence for Java applications, including entity management and type-safe criteria queries.",
+    "example": "A service uses an entity manager to load a customer stored in a relational table.",
+    "sense_note": null
+  },
+  {
+    "id": "uflky7mun1",
+    "definition": "A JavaScript engine parses and executes JavaScript programs, often compiling code or using intermediate instructions internally.",
+    "example": "A browser uses its engine to execute an event handler when a user clicks a button.",
+    "sense_note": null
+  },
+  {
+    "id": "btu0ssr6y6",
+    "definition": "JavaScriptCore is WebKit's engine for executing JavaScript code.",
+    "example": "A WebKit-based application evaluates page scripts using JavaScriptCore.",
+    "sense_note": null
+  },
+  {
+    "id": "oi02iz23ds",
+    "definition": "JavaServer Faces 2.0 is a Java specification for constructing server-side web interfaces from reusable components with a defined request lifecycle.",
+    "example": "A web form uses Facelets and JSF components to display validation errors after submission.",
+    "sense_note": null
+  },
+  {
+    "id": "gzp0ef9f8g",
+    "definition": "JAX-RPC is an older Java API for invoking remote procedures using XML-based web services, commonly with SOAP.",
+    "example": "A legacy Java client calls a published SOAP operation through a generated stub.",
+    "sense_note": null
+  },
+  {
+    "id": "q60ouku66r",
+    "definition": "JAX-WS is a Java API for building and consuming XML-based web services, including SOAP services.",
+    "example": "A programmer binds a Java service method to a SOAP endpoint described by WSDL.",
+    "sense_note": null
+  },
+  {
+    "id": "siozurm3lm",
+    "definition": "JD Edwards CNC is the administration discipline for installing, configuring and operating the JD Edwards EnterpriseOne technical environment.",
+    "example": "An administrator builds and deploys an EnterpriseOne application package to a test environment.",
+    "sense_note": null
+  },
+  {
+    "id": "eka9kv46sl",
+    "definition": "JdbcTemplate is a Spring Framework class that simplifies Java database access by managing JDBC resources and repetitive query code.",
+    "example": "A service uses JdbcTemplate to execute a parameterized query and map the returned rows.",
+    "sense_note": null
+  },
+  {
+    "id": "r3l54ozsil",
+    "definition": "JDesktop Network Components refers to Java components intended to simplify access to networked services and data from desktop applications.",
+    "example": "A desktop application uses a data provider to display results obtained from a remote service.",
+    "sense_note": null
+  },
+  {
+    "id": "o0l43yotxm",
+    "definition": "Jersey is a Java framework that implements the JAX-RS API for developing RESTful services and clients.",
+    "example": "A Java service uses Jersey to route an HTTP GET request to an annotated resource method.",
+    "sense_note": null
+  },
+  {
+    "id": "khoqe1sng8",
+    "definition": "Jive Software refers to enterprise collaboration software that supports communities, discussions and shared documents.",
+    "example": "An organization uses a Jive community to publish reference documents and answer employee questions.",
+    "sense_note": "The label could name the company rather than its collaboration product."
+  },
+  {
+    "id": "oemj81pym1",
+    "definition": "jMock is a Java testing library that verifies interactions between code under test and simulated dependencies.",
+    "example": "A test checks that a billing service invokes its mocked payment gateway exactly once.",
+    "sense_note": null
+  },
+  {
+    "id": "l003adbeqa",
+    "definition": "JMockit is a Java testing library for substituting dependencies and verifying interactions in unit tests.",
+    "example": "A test replaces a clock dependency so it can verify expiration behavior using a fixed time.",
+    "sense_note": null
+  },
+  {
+    "id": "dtn6n5nztb",
+    "definition": "Job scheduling is the coordination of when tasks run, including their triggers, dependencies, resource availability and recurrence.",
+    "example": "An operations team runs a reporting job only after the nightly data import completes.",
+    "sense_note": null
+  },
+  {
+    "id": "iwz47o25o8",
+    "definition": "Joint Clearance and Access Verification System was an interface within the U.S. Department of Defense personnel security system for recording and verifying clearance and access information.",
+    "example": "A security office used JCAVS to check personnel eligibility before processing requests for access.",
+    "sense_note": "Historical system; do not infer current availability from the name."
+  },
+  {
+    "id": "epds2yvzsk",
+    "definition": "Joint Commission standards set accreditation requirements for health care organizations' quality, safety and operational practices.",
+    "example": "A hospital reviews medication management practices against the requirements that apply to its accreditation program.",
+    "sense_note": null
+  },
+  {
+    "id": "qc53qbujg3",
+    "definition": "JointJS is a JavaScript library for displaying and editing interactive diagrams made from elements and links.",
+    "example": "A web application uses JointJS to let users connect workflow steps visually.",
+    "sense_note": null
+  },
+  {
+    "id": "o94e3sb247",
+    "definition": "Joomla is a content management system for publishing and administering websites through configurable templates and extensions.",
+    "example": "A nonprofit site editor uses Joomla to publish an article without editing the site's HTML.",
+    "sense_note": null
+  },
+  {
+    "id": "gue4rsxccu",
+    "definition": "JPEG is a set of coding standards for compressing continuous-tone digital images, most commonly used with lossy compression.",
+    "example": "A photographer saves a smaller web copy of a camera image as a JPEG.",
+    "sense_note": null
+  },
+  {
+    "id": "xmdqx611pm",
+    "definition": "JSData is a JavaScript data-management library that provides records, relationships and adapters for application data.",
+    "example": "A developer defines a record type and uses a REST adapter to load it from a server.",
+    "sense_note": null
+  },
+  {
+    "id": "qf0kjoyyky",
+    "definition": "JSFiddle is a browser-based editor for combining and sharing runnable HTML, CSS and JavaScript examples.",
+    "example": "A developer shares a small JSFiddle to demonstrate how a browser layout behaves.",
+    "sense_note": null
+  },
+  {
+    "id": "gjufx8c460",
+    "definition": "jsGrid is a JavaScript data-grid component for presenting and manipulating table records in a browser.",
+    "example": "An admin page uses jsGrid to show a sortable inventory table with editable quantities.",
+    "sense_note": null
+  },
+  {
+    "id": "rvl53f9ykh",
+    "definition": "JSON Web Token is a compact format for transmitting claims as a JSON object, commonly signed or integrity-protected with JWS or encrypted with JWE.",
+    "example": "An API verifies a signed token's issuer, audience and expiration before accepting its claims.",
+    "sense_note": null
+  },
+  {
+    "id": "l5iy68ysj9",
+    "definition": "jsPerf is a browser-based JavaScript benchmarking tool for comparing the execution rates of code snippets under its test harness.",
+    "example": "A developer creates a benchmark to compare two array-processing expressions in the same browser.",
+    "sense_note": null
+  },
+  {
+    "id": "fjdoahry17",
+    "definition": "JsRender is a JavaScript templating library that renders templates against data to produce text or HTML.",
+    "example": "A page renders one product row for each item in an array using a JsRender template.",
+    "sense_note": null
+  },
+  {
+    "id": "euml8cdzrt",
+    "definition": "JsUnit is a JavaScript unit-testing framework modeled on the xUnit family of test frameworks.",
+    "example": "A developer uses a JsUnit assertion to verify the result of a date-formatting function.",
+    "sense_note": "Multiple historical projects used similar capitalization; confirm the implementation if product-specific detail is needed."
+  },
+  {
+    "id": "nggbtq5q1r",
+    "definition": "JTrac is a web-based issue tracker for recording and organizing work items.",
+    "example": "A support team records a defect in JTrac and assigns it to a developer.",
+    "sense_note": null
+  },
+  {
+    "id": "v2xhut8qdl",
+    "definition": "Jury instructions are the court's directions explaining the law, issues and legal standards jurors must apply in deciding a case.",
+    "example": "A judge explains the applicable burden of proof to jurors before deliberations.",
+    "sense_note": "The skill interpretation is preparing or communicating the instructions; the label itself names the instructions."
+  },
+  {
+    "id": "drtx3fyceq",
+    "definition": "Jury management is the administration of jury service, including summonses, attendance, availability and assignment of jurors.",
+    "example": "A court office schedules jurors and tracks which panels are available for trials.",
+    "sense_note": null
+  },
+  {
+    "id": "d5v0dwpx4c",
+    "definition": "Juvenile rehabilitation supports young people involved in the justice system in changing behavior and returning safely to their communities.",
+    "example": "A caseworker coordinates counseling, school attendance and reentry support for a youth leaving placement.",
+    "sense_note": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-024.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Software for tracking stock quantities, locations, movements, and replenishment needs.",
+  "entry_text": "Software for tracking stock quantities, locations, movements, and replenishment needs.",
+  "entry_text_kind": "definition",
+  "example": "A warehouse checks available quantity before assigning stock to an order.",
+  "id": "imvi4xd1bb",
+  "key": "inventory-management-software",
+  "label": "Inventory management software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

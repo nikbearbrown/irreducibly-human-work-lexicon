@@ -1,0 +1,28 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ASP.NET Web API is a .NET framework for building HTTP services, especially APIs accessed by clients beyond web browsers.",
+  "entry_text": "ASP.NET Web API is a .NET framework for building HTTP services, especially APIs accessed by clients beyond web browsers.",
+  "entry_text_kind": "definition",
+  "example": "A developer exposes product inventory through an endpoint used by a mobile application.",
+  "id": "vroxc5a0gz",
+  "key": "asp-net-web-api",
+  "label": "ASP.NET Web API",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label can refer specifically to the earlier framework rather than ASP.NET Core web APIs.",
+  "sources": [
+    {
+      "id": "vroxc5a0gz",
+      "note": "Microsoft’s ASP.NET 4.x tutorial identifies it as a framework for HTTP services and mentions browsers, native mobile clients, and desktops. The historical scope could be explicit in the definition.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://learn.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

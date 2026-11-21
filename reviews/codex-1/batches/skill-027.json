@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "nmv4icsuk2",
+    "key": "linkedin",
+    "label": "LinkedIn",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ihoes4l8q2",
+    "key": "linux-systems-administration",
+    "label": "Linux systems administration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h6mztjfv7b",
+    "key": "liquidity-forecasting",
+    "label": "Liquidity forecasting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rd2umyeqn5",
+    "key": "listwise-deletion",
+    "label": "Listwise deletion",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cmdbpnjrr6",
+    "key": "livedata",
+    "label": "LiveData",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pe7v46ydhy",
+    "key": "livestreaming",
+    "label": "Livestreaming",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "foom4y38p0",
+    "key": "llm-observability",
+    "label": "LLM observability",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l507rs9zfn",
+    "key": "load-securement",
+    "label": "Load securement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ayfys0y242",
+    "key": "loan-administration",
+    "label": "Loan administration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pnzuc15c5j",
+    "key": "loan-structuring",
+    "label": "Loan structuring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rtmy2yzpq1",
+    "key": "loan-syndication",
+    "label": "Loan syndication",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "csb2nac37h",
+    "key": "log-management",
+    "label": "Log management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i701aamqht",
+    "key": "logic-diagrams",
+    "label": "Logic diagrams",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jb38910wps",
+    "key": "logistics-planning",
+    "label": "Logistics planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sno6247mi1",
+    "key": "logo-design",
+    "label": "Logo design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ewgeg8njc2",
+    "key": "long-short-term-memory",
+    "label": "Long short-term memory",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "izg9ttrmk4",
+    "key": "low-code-development-platform",
+    "label": "Low-code development platform",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k5tlhu5agn",
+    "key": "low-risk-neonatal-nursing",
+    "label": "Low risk neonatal nursing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "la8381jctz",
+    "key": "low-voltage-transistor-transistor-logic",
+    "label": "Low Voltage Transistor-Transistor Logic",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tbo4o5jjmq",
+    "key": "luigi",
+    "label": "Luigi",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p2oyrsnqqq",
+    "key": "lumion",
+    "label": "Lumion",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pcpzpx5lmm",
+    "key": "lymphedema-management",
+    "label": "Lymphedema management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tndq8jtj6s",
+    "key": "m2crypto",
+    "label": "M2Crypto",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "flxbx98seh",
+    "key": "machine-learning",
+    "label": "Machine learning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nprxj06a8r",
+    "key": "machine-operation",
+    "label": "Machine operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i78tmp36vt",
+    "key": "machine-tools",
+    "label": "Machine tools",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jvd0jfbm1t",
+    "key": "macintosh-application-environment",
+    "label": "Macintosh Application Environment",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yuymi2lr97",
+    "key": "macos",
+    "label": "macOS",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r24n38tdtv",
+    "key": "mail-distribution",
+    "label": "Mail distribution",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bxl9tjsu5g",
+    "key": "mail-processing",
+    "label": "Mail processing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qh2ipycdo7",
+    "key": "malware-analysis",
+    "label": "Malware analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r95stg9m1m",
+    "key": "mammalian-cell-culture",
+    "label": "Mammalian cell culture",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zstay5frm1",
+    "key": "manure-spreader",
+    "label": "Manure spreader",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k99ngi7x73",
+    "key": "map-production",
+    "label": "Map production",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nxgs7upiiv",
+    "key": "map-reading",
+    "label": "Map reading",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fjun60qhx2",
+    "key": "mapdb",
+    "label": "MapDB",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gv5aomo77r",
+    "key": "marine-navigation",
+    "label": "Marine navigation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ebmtk7bt1s",
+    "key": "marine-radar",
+    "label": "Marine radar",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y2k2ntnll0",
+    "key": "marionette-js",
+    "label": "Marionette.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s2hhggpxcw",
+    "key": "maritime-law-enforcement",
+    "label": "Maritime law enforcement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

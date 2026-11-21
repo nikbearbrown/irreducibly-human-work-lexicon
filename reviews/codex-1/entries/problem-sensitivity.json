@@ -1,0 +1,30 @@
+{
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing that there is a problem.",
+  "entry_text": "The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing that there is a problem.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "y2z5t8l784",
+  "key": "problem-sensitivity",
+  "label": "Problem Sensitivity",
+  "onet_codes": [
+    "1.A.1.b.3"
+  ],
+  "origin": "onet-30.2-source-definition",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "attribution": "U.S. Department of Labor, Employment and Training Administration",
+      "element_id": "1.A.1.b.3",
+      "license": "CC BY 4.0",
+      "release": "30.2",
+      "snapshot_path": "abilities/onet-abilities.json",
+      "url": "https://www.onetcenter.org/dl_files/database/db_30_2_text/Content%20Model%20Reference.txt"
+    }
+  ],
+  "verification": "official-exact"
+}

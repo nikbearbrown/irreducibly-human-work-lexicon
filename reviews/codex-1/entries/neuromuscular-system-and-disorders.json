@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Neuromuscular system and disorders covers how nerves activate muscles and what happens when the relevant nerves, junctions or muscles fail to work normally.",
+  "entry_text": "Neuromuscular system and disorders covers how nerves activate muscles and what happens when the relevant nerves, junctions or muscles fail to work normally.",
+  "entry_text_kind": "definition",
+  "example": "A student compares weakness from muscle disease with weakness from impaired nerve signaling.",
+  "id": "wpklrxp0cx",
+  "key": "neuromuscular-system-and-disorders",
+  "label": "Neuromuscular system and disorders",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

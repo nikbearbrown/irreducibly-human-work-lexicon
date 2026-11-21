@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Transient expression is the temporary production of a gene product in cells without establishing stable long-term expression in the population.",
+  "entry_text": "Transient expression is the temporary production of a gene product in cells without establishing stable long-term expression in the population.",
+  "entry_text_kind": "definition",
+  "example": "A student distinguishes a short-lived expression signal in a research report from evidence of a stable cell line.",
+  "id": "drsw0y6l0f",
+  "key": "transient-expression",
+  "label": "Transient expression",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

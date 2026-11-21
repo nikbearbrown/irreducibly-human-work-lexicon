@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Aldus PhotoStyler was a raster graphics editor for editing and retouching photographs on personal computers.",
+  "entry_text": "Aldus PhotoStyler was a raster graphics editor for editing and retouching photographs on personal computers.",
+  "entry_text_kind": "definition",
+  "example": "A graphic artist adjusts the color of a scanned image before placing it in a publication.",
+  "id": "ca87twse7q",
+  "key": "aldus-photostyler",
+  "label": "Aldus PhotoStyler",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

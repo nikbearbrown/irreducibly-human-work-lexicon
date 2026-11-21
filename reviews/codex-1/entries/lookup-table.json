@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A lookup table stores preassigned results so an input can retrieve an answer without recomputing it.",
+  "entry_text": "A lookup table stores preassigned results so an input can retrieve an answer without recomputing it.",
+  "entry_text_kind": "definition",
+  "example": "An embedded controller maps sensor readings to calibrated temperatures using a lookup table.",
+  "id": "s0jgh1zbri",
+  "key": "lookup-table",
+  "label": "Lookup table",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

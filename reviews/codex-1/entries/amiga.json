@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Amiga refers to a family of personal computers known for their multimedia capabilities and the associated Amiga platform.",
+  "entry_text": "Amiga refers to a family of personal computers known for their multimedia capabilities and the associated Amiga platform.",
+  "entry_text_kind": "definition",
+  "example": "A preservation team tests whether an archived graphics program runs in a matching Amiga environment.",
+  "id": "e4939h1iss",
+  "key": "amiga",
+  "label": "Amiga",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

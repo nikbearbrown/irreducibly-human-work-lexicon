@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Moldings installation and maintenance fit, secure, finish and repair decorative or protective trim on surfaces.",
+  "entry_text": "Moldings installation and maintenance fit, secure, finish and repair decorative or protective trim on surfaces.",
+  "entry_text_kind": "definition",
+  "example": "A carpenter cuts and fits replacement trim around a damaged doorway.",
+  "id": "swoghz2nu2",
+  "key": "moldings-installation-and-maintenance",
+  "label": "Moldings installation and maintenance",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "ns5jcxgd2h",
+    "key": "vendavo",
+    "label": "Vendavo",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gdfpw7vyrc",
+    "key": "vendor-management",
+    "label": "Vendor management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lvhuz40oz5",
+    "key": "vendor-payments",
+    "label": "Vendor payments",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oxcah7mzgz",
+    "key": "ventilator-management",
+    "label": "Ventilator management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ekmw83clz8",
+    "key": "verbal-and-physical-intervention",
+    "label": "Verbal and physical intervention",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j8bl0xzopw",
+    "key": "version-control",
+    "label": "Version control",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gi6gdo3gfz",
+    "key": "vestibular-rehabilitation",
+    "label": "Vestibular rehabilitation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y5z1tl7euy",
+    "key": "video-advertising",
+    "label": "Video advertising",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r4pk7tmtns",
+    "key": "video-assisted-thoracoscopic-surgery",
+    "label": "Video-assisted thoracoscopic surgery",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dy97p0gnng",
+    "key": "video-js",
+    "label": "Video.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vt6ixbkzqu",
+    "key": "video-marketing",
+    "label": "Video marketing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t23fp45nbc",
+    "key": "video-remote-interpreting",
+    "label": "Video remote interpreting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hyiokkty1d",
+    "key": "videoconferencing",
+    "label": "Videoconferencing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "am8hc8qvtj",
+    "key": "virtual-design-and-construction",
+    "label": "Virtual design and construction",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t2feabgvth",
+    "key": "virtual-production",
+    "label": "Virtual production",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k1n9hqp5bs",
+    "key": "virus-culture",
+    "label": "Virus culture",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hzajs7800n",
+    "key": "visi",
+    "label": "VISI",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mov419oet2",
+    "key": "visicalc",
+    "label": "VisiCalc",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xwtp0t987r",
+    "key": "visier",
+    "label": "Visier",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m3082r7eyv",
+    "key": "vision-rehabilitation",
+    "label": "Vision rehabilitation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s46ycd317l",
+    "key": "visme",
+    "label": "Visme",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "utbu34q70d",
+    "key": "vissim",
+    "label": "VisSim",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nu3xguqip9",
+    "key": "visual-odometry",
+    "label": "Visual odometry",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "be8z2gkvxc",
+    "key": "visual-storytelling",
+    "label": "Visual storytelling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wjn4rrs3dy",
+    "key": "vmware-aria-automation-orchestrator",
+    "label": "VMware Aria Automation Orchestrator",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tgfd1wjaby",
+    "key": "vmware-aria-automation",
+    "label": "VMware Aria Automation",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u8zpqdlt5w",
+    "key": "vmware-aria-operations-for-logs",
+    "label": "VMware Aria Operations for Logs",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q598atkmi6",
+    "key": "vmware-aria-operations",
+    "label": "VMware Aria Operations",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n1nbcb3tzd",
+    "key": "vmware-aria-suite",
+    "label": "VMware Aria Suite",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fs6373xpc6",
+    "key": "vocational-rehabilitation-counseling",
+    "label": "Vocational rehabilitation counseling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uufvn4ie3x",
+    "key": "voice-ui-design",
+    "label": "Voice UI design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ta8z97c7vx",
+    "key": "vpython",
+    "label": "VPython",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "updt57odw9",
+    "key": "vue-js",
+    "label": "Vue.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nedtcwz5ap",
+    "key": "vulkan",
+    "label": "Vulkan",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yx51ztocqi",
+    "key": "vulnerability-assessment",
+    "label": "Vulnerability assessment",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r88fev79qd",
+    "key": "vyond",
+    "label": "Vyond",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "umb2usakhd",
+    "key": "wainscot-panelling",
+    "label": "Wainscot panelling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lpxeil9yyg",
+    "key": "wasapi",
+    "label": "WASAPI",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ez5yl3a053",
+    "key": "waste-characterisation",
+    "label": "Waste characterisation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z1kxrae19r",
+    "key": "waste-minimisation",
+    "label": "Waste minimisation",
+    "onet_codes": [],
+    "original_kind": "method"
+  }
+]

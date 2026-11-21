@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "MicroStrategy metrics are calculation objects that define how data is aggregated or otherwise computed in MicroStrategy reports and dashboards.",
+  "entry_text": "MicroStrategy metrics are calculation objects that define how data is aggregated or otherwise computed in MicroStrategy reports and dashboards.",
+  "entry_text_kind": "definition",
+  "example": "A dashboard uses a reusable metric to compute net sales by region.",
+  "id": "m93rwlykrf",
+  "key": "microstrategy-metrics",
+  "label": "MicroStrategy metrics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

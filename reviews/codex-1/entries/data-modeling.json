@@ -1,0 +1,28 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Data modeling represents entities, attributes, and relationships or other structures that determine how information is organized and used.",
+  "entry_text": "Data modeling represents entities, attributes, and relationships or other structures that determine how information is organized and used.",
+  "entry_text_kind": "definition",
+  "example": "A designer models orders and line items separately so each order can contain multiple products.",
+  "id": "pgwo2h5tp6",
+  "key": "data-modeling",
+  "label": "Data modeling",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "pgwo2h5tp6",
+      "note": "Oracle documents designing logical, relational, and physical data models, with explicit entities, attributes, identifiers, and relations; this is a first-party tool example rather than a restriction to Oracle or relational design.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://docs.oracle.com/database/sql-developer-data-modeler-18.1/DMDUG/data-modeler-concepts-usage.htm",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

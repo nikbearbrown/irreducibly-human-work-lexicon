@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Twitter advertising is the use of paid placements and campaign tools on the service historically named Twitter to reach defined audiences.",
+  "entry_text": "Twitter advertising is the use of paid placements and campaign tools on the service historically named Twitter to reach defined audiences.",
+  "entry_text_kind": "definition",
+  "example": "A campaign manager compares the cost per registration of two promoted posts.",
+  "id": "t04g06uxlu",
+  "key": "twitter-advertising",
+  "label": "Twitter advertising",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Platform later branded X; historical tools and present offerings may differ.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Documenting and maintaining information about a patient's dental condition, treatment, imaging, and follow-up.",
+  "entry_text": "Documenting and maintaining information about a patient's dental condition, treatment, imaging, and follow-up.",
+  "entry_text_kind": "definition",
+  "example": "A dental assistant updates a patient's chart with today's findings and planned care.",
+  "id": "c0kd1bmd4t",
+  "key": "dental-records",
+  "label": "Dental records",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label also denotes the records themselves; this definition reflects the supplied skill classification.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Aluminium smelting produces metallic aluminium by electrolytically reducing alumina dissolved in a molten bath.",
+  "entry_text": "Aluminium smelting produces metallic aluminium by electrolytically reducing alumina dissolved in a molten bath.",
+  "entry_text_kind": "definition",
+  "example": "A process engineer tracks electricity use at an aluminium smelter.",
+  "id": "ffrlff4nm4",
+  "key": "aluminium-smelting",
+  "label": "Aluminium smelting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

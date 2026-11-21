@@ -1,0 +1,20 @@
+{
+  "batch": "language-005.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A family of distinct languages, not one interchangeable language.",
+  "entry_text": "A family of distinct languages, not one interchangeable language.",
+  "entry_text_kind": "definition",
+  "example": "A translator specifies K'iche' rather than asking for an unspecified Mayan translation.",
+  "id": "ra1r1qki9z",
+  "key": "mayan-languages",
+  "label": "Mayan languages",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

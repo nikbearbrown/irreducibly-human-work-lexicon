@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Distributed computing coordinates multiple networked computers to complete related computations or provide a joint service.",
+  "entry_text": "Distributed computing coordinates multiple networked computers to complete related computations or provide a joint service.",
+  "entry_text_kind": "definition",
+  "example": "A data processing framework assigns separate chunks of a large dataset to several machines and combines the results.",
+  "id": "h4ck1veoae",
+  "key": "distributed-computing",
+  "label": "Distributed computing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

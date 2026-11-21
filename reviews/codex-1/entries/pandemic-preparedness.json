@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-010.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Pandemic preparedness is advance planning and capacity building to detect and respond to widespread outbreaks.",
+  "entry_text": "Pandemic preparedness is advance planning and capacity building to detect and respond to widespread outbreaks.",
+  "entry_text_kind": "definition",
+  "example": "A public health agency exercises its plan for sharing alerts and maintaining essential services.",
+  "id": "zjicebvx16",
+  "key": "pandemic-preparedness",
+  "label": "Pandemic preparedness",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

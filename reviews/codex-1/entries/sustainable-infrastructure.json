@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-012.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sustainable infrastructure is infrastructure planned, built and operated to meet service needs while accounting for long-term environmental, social and economic effects.",
+  "entry_text": "Sustainable infrastructure is infrastructure planned, built and operated to meet service needs while accounting for long-term environmental, social and economic effects.",
+  "entry_text_kind": "definition",
+  "example": "A city compares drainage options using flood resilience, maintenance costs and public benefits over their lifetimes.",
+  "id": "booi01h6d6",
+  "key": "sustainable-infrastructure",
+  "label": "Sustainable infrastructure",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Silk Test is a functional test automation product for scripting and checking behavior of supported application interfaces.",
+  "entry_text": "Silk Test is a functional test automation product for scripting and checking behavior of supported application interfaces.",
+  "entry_text_kind": "definition",
+  "example": "A QA engineer automates a regression check that an application displays the expected confirmation after a test transaction.",
+  "id": "m6qn2ni0mx",
+  "key": "silk-test",
+  "label": "Silk Test",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

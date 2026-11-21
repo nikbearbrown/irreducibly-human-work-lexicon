@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A digital system for collecting, validating, and managing structured data, commonly in clinical studies.",
+  "entry_text": "A digital system for collecting, validating, and managing structured data, commonly in clinical studies.",
+  "entry_text_kind": "definition",
+  "example": "A research coordinator enters scheduled visit observations into an electronic case report form.",
+  "id": "zt8mhiw2a3",
+  "key": "electronic-data-capture",
+  "label": "Electronic data capture",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

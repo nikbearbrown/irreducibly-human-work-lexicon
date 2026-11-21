@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An approach that integrates security practices and responsibilities throughout collaborative software delivery and operation.",
+  "entry_text": "An approach that integrates security practices and responsibilities throughout collaborative software delivery and operation.",
+  "entry_text_kind": "definition",
+  "example": "A team includes dependency review and security checks alongside its normal release checks.",
+  "id": "rpc3fbgnib",
+  "key": "devsecops",
+  "label": "DevSecOps",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Return-to-work management coordinates a worker's safe, supported return after an illness, injury, or absence.",
+  "entry_text": "Return-to-work management coordinates a worker's safe, supported return after an illness, injury, or absence.",
+  "entry_text_kind": "definition",
+  "example": "A coordinator agrees on adjusted shifts and temporary duties with a worker and supervisor.",
+  "id": "iar9iwxac2",
+  "key": "return-to-work-management",
+  "label": "Return-to-work management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

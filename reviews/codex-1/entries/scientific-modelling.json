@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Scientific modelling builds explicit representations of systems or processes to explain observations, explore hypotheses, or predict behavior under assumptions.",
+  "entry_text": "Scientific modelling builds explicit representations of systems or processes to explain observations, explore hypotheses, or predict behavior under assumptions.",
+  "entry_text_kind": "definition",
+  "example": "An ecologist compares model predictions of population growth with measured census data.",
+  "id": "sgi5y6yxmz",
+  "key": "scientific-modelling",
+  "label": "Scientific modelling",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

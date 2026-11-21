@@ -1,0 +1,31 @@
+{
+  "batch": "language-002.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Danish (ISO 639-3: dan) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Danish",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "dani1285",
+    "iso639_3": "dan",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/dani1285"
+  },
+  "definition": "A human language used in conversation and writing.",
+  "entry_text": "A human language used in conversation and writing.",
+  "entry_text_kind": "definition",
+  "example": "An editor reviews a Danish museum caption.",
+  "id": "x09au1cwqd",
+  "key": "danish",
+  "label": "Danish",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

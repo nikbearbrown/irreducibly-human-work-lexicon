@@ -1,0 +1,28 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Industrial statistics applies statistical methods to manufacturing, process improvement and other industrial decisions.",
+  "entry_text": "Industrial statistics applies statistical methods to manufacturing, process improvement and other industrial decisions.",
+  "entry_text_kind": "definition",
+  "example": "A quality engineer uses a control chart to distinguish routine variation from an unusual change.",
+  "id": "mwcmyvh54c",
+  "key": "industrial-statistics",
+  "label": "Industrial statistics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "mwcmyvh54c",
+      "note": "NIST/SEMATECH applies experimental design, process monitoring, product/process comparison, and reliability statistics to production and industrial decisions.",
+      "packet": "scheduled-knowledge-2026-11-21.json",
+      "ref": "https://www.itl.nist.gov/div898/handbook/stoc.htm",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

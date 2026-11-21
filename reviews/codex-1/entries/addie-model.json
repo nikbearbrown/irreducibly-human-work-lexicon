@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The ADDIE model organizes instructional design around analysis, design, development, implementation, and evaluation.",
+  "entry_text": "The ADDIE model organizes instructional design around analysis, design, development, implementation, and evaluation.",
+  "entry_text_kind": "definition",
+  "example": "A training team identifies learner needs before designing lessons and later measures whether the lessons met their objectives.",
+  "id": "wk12bqmtty",
+  "key": "addie-model",
+  "label": "ADDIE model",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Thin film coating applies a thin layer of material to a surface to change properties such as optical behavior, wear, adhesion, or conductivity.",
+  "entry_text": "Thin film coating applies a thin layer of material to a surface to change properties such as optical behavior, wear, adhesion, or conductivity.",
+  "entry_text_kind": "definition",
+  "example": "An optical engineer applies and evaluates an antireflection coating on a lens.",
+  "id": "i7ho5g8jhr",
+  "key": "thin-film-coating",
+  "label": "Thin film coating",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

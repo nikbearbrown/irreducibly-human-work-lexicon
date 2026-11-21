@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Seamanship encompasses the practical knowledge and skill needed to operate, handle, and care for a vessel safely.",
+  "entry_text": "Seamanship encompasses the practical knowledge and skill needed to operate, handle, and care for a vessel safely.",
+  "entry_text_kind": "definition",
+  "example": "A crew member secures a vessel alongside a dock and checks the mooring lines against changing tide.",
+  "id": "b06yv9nln6",
+  "key": "seamanship",
+  "label": "Seamanship",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

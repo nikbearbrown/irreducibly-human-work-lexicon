@@ -1,0 +1,30 @@
+{
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions.",
+  "entry_text": "Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "eyk1vnlnhs",
+  "key": "public-safety-and-security",
+  "label": "Public Safety and Security",
+  "onet_codes": [
+    "2.C.8.a"
+  ],
+  "origin": "onet-30.2-source-definition",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "attribution": "U.S. Department of Labor, Employment and Training Administration",
+      "element_id": "2.C.8.a",
+      "license": "CC BY 4.0",
+      "release": "30.2",
+      "snapshot_path": "onet-knowledge/onet-knowledge.json",
+      "url": "https://www.onetcenter.org/dl_files/database/db_30_2_text/Content%20Model%20Reference.txt"
+    }
+  ],
+  "verification": "official-exact"
+}

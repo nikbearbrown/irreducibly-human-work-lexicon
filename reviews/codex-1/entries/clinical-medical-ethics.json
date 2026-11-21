@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Clinical medical ethics applies ethical principles to decisions and relationships arising in patient care.",
+  "entry_text": "Clinical medical ethics applies ethical principles to decisions and relationships arising in patient care.",
+  "entry_text_kind": "definition",
+  "example": "An ethics consultant helps a care team assess how to honor an incapacitated patient's previously expressed wishes.",
+  "id": "ao1t61ccgp",
+  "key": "clinical-medical-ethics",
+  "label": "Clinical medical ethics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

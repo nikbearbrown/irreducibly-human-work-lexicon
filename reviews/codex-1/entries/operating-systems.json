@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An operating system manages hardware and shared resources and provides services for applications.",
+  "entry_text": "An operating system manages hardware and shared resources and provides services for applications.",
+  "entry_text_kind": "definition",
+  "example": "A computer's operating system schedules tasks and controls access to memory and files.",
+  "id": "zvnr5iuxil",
+  "key": "operating-systems",
+  "label": "Operating systems",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

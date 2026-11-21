@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Imaging informatics concerns the collection, storage, exchange and use of medical images and their associated information.",
+  "entry_text": "Imaging informatics concerns the collection, storage, exchange and use of medical images and their associated information.",
+  "entry_text_kind": "definition",
+  "example": "A hospital links radiology images to the correct patient record for clinical review.",
+  "id": "ramrv3b9a1",
+  "key": "imaging-informatics",
+  "label": "Imaging informatics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

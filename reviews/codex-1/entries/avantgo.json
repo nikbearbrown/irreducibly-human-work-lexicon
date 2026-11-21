@@ -1,0 +1,28 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "AvantGo was a mobile service for synchronizing web content to handheld devices for later reading.",
+  "entry_text": "AvantGo was a mobile service for synchronizing web content to handheld devices for later reading.",
+  "entry_text_kind": "definition",
+  "example": "A traveler downloads news to a handheld and reads it offline.",
+  "id": "o1ffghl5pu",
+  "key": "avantgo",
+  "label": "AvantGo",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "o1ffghl5pu",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. VA technology catalog identifies the historical PDA and smartphone web/file synchronization service; not a currently available service claim.",
+      "packet": "worker-stratified.json",
+      "ref": "https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tab=2&tid=13193",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

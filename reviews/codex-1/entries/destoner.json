@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A machine that separates stones or other dense contaminants from a bulk material stream.",
+  "entry_text": "A machine that separates stones or other dense contaminants from a bulk material stream.",
+  "entry_text_kind": "definition",
+  "example": "A grain processor removes small stones before milling.",
+  "id": "d4tfwk03xy",
+  "key": "destoner",
+  "label": "Destoner",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

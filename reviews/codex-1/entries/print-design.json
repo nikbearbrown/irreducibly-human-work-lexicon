@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Print design prepares visual material for physical printing with attention to layout, typography, color and production constraints.",
+  "entry_text": "Print design prepares visual material for physical printing with attention to layout, typography, color and production constraints.",
+  "entry_text_kind": "definition",
+  "example": "A designer sets the bleed on a brochure to meet the printer's specifications.",
+  "id": "zbpnwo0rf3",
+  "key": "print-design",
+  "label": "Print design",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

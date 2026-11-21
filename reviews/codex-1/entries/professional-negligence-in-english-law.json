@@ -1,0 +1,28 @@
+{
+  "batch": "knowledge-011.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Professional negligence in English law concerns a professional's failure to meet a legally required standard of care, causing actionable loss.",
+  "entry_text": "Professional negligence in English law concerns a professional's failure to meet a legally required standard of care, causing actionable loss.",
+  "entry_text_kind": "definition",
+  "example": "A court considers whether an adviser acted with the care reasonably expected of someone in that profession.",
+  "id": "j7et6lzq8c",
+  "key": "professional-negligence-in-english-law",
+  "label": "Professional negligence in English law",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "j7et6lzq8c",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Judgment distinguishes breach, causation, and scope of duty. Draft’s actionable loss captures the high-level concept; a breach and any loss alone are insufficient.",
+      "packet": "worker-stratified.json",
+      "ref": "https://supremecourt.uk/uploads/uksc_2019_0040_judgment_2b04c84658.pdf",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

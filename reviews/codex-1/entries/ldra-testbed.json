@@ -1,0 +1,28 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "LDRA Testbed is a software analysis and testing tool for assessing code quality, coding-standard compliance and test coverage.",
+  "entry_text": "LDRA Testbed is a software analysis and testing tool for assessing code quality, coding-standard compliance and test coverage.",
+  "entry_text_kind": "definition",
+  "example": "A quality engineer checks embedded software for violations of a project's coding rules.",
+  "id": "ys7x7wgt47",
+  "key": "ldra-testbed",
+  "label": "LDRA Testbed",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "ys7x7wgt47",
+      "note": "LDRA identifies Testbed as the static and dynamic analysis engines and describes coding-standard, quality-metric, and coverage analysis for the Testbed and TBvision combination.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://ldra.com/products/ldra-testbed-tbvision/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

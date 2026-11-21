@@ -1,0 +1,29 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": null,
+  "entry_text": "ALF is a programming language combining evaluable functions with logic programming rules.",
+  "entry_text_kind": "source-proposed-definition",
+  "example": null,
+  "id": "tfv49p04re",
+  "key": "algebraic-logic-functional",
+  "label": "Algebraic Logic Functional",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm whether this names the ALF programming language rather than a generic programming paradigm.",
+  "sense_proposal": {
+    "ambiguity_note": "Exact expanded name in the author’s manual, not a generic paradigm.",
+    "id": "tfv49p04re",
+    "label": "Algebraic Logic Functional",
+    "proposed_definition": "ALF is a programming language combining evaluable functions with logic programming rules.",
+    "refs": [
+      "https://www.michaelhanus.de/systems/ALF/manual.pdf"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

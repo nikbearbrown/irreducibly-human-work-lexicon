@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-013.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Urban resilience is the capacity of a city and its communities to anticipate, withstand, adapt to and recover from disruptions.",
+  "entry_text": "Urban resilience is the capacity of a city and its communities to anticipate, withstand, adapt to and recover from disruptions.",
+  "entry_text_kind": "definition",
+  "example": "A coastal city designs alternate routes and emergency services to remain functional during floods.",
+  "id": "mbsk7t3c4x",
+  "key": "urban-resilience",
+  "label": "Urban resilience",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

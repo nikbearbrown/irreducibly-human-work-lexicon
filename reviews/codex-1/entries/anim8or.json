@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Anim8or is a desktop application for polygonal 3D modeling and character animation.",
+  "entry_text": "Anim8or is a desktop application for polygonal 3D modeling and character animation.",
+  "entry_text_kind": "definition",
+  "example": "An animator creates a simple model and poses it across keyframes.",
+  "id": "r6e29dwqn6",
+  "key": "anim8or",
+  "label": "Anim8or",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

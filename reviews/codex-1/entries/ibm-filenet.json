@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An enterprise content management product family for capturing, managing, and retrieving documents and records.",
+  "entry_text": "An enterprise content management product family for capturing, managing, and retrieving documents and records.",
+  "entry_text_kind": "definition",
+  "example": "An organization stores and routes policy documents in a managed content repository.",
+  "id": "zj1neae89l",
+  "key": "ibm-filenet",
+  "label": "IBM FileNet",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

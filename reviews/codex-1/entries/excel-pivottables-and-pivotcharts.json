@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Using Excel PivotTables to summarize data and associated PivotCharts to visualize those changing summaries.",
+  "entry_text": "Using Excel PivotTables to summarize data and associated PivotCharts to visualize those changing summaries.",
+  "entry_text_kind": "definition",
+  "example": "An analyst groups expenses by department and builds a chart linked to that grouping.",
+  "id": "shmkvde2bg",
+  "key": "excel-pivottables-and-pivotcharts",
+  "label": "Excel PivotTables and PivotCharts",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

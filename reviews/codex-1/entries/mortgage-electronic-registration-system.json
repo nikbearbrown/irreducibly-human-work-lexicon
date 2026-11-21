@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Mortgage Electronic Registration System is a U.S. registry for tracking specified mortgage interests and servicing rights electronically.",
+  "entry_text": "The Mortgage Electronic Registration System is a U.S. registry for tracking specified mortgage interests and servicing rights electronically.",
+  "entry_text_kind": "definition",
+  "example": "A mortgage servicer checks the registry to identify the servicer recorded for a loan.",
+  "id": "mwc6g16twz",
+  "key": "mortgage-electronic-registration-system",
+  "label": "Mortgage Electronic Registration System",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

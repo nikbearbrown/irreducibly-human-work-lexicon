@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Asthma education helps patients and caregivers understand asthma, recognize warning signs, and follow a clinician-approved management plan.",
+  "entry_text": "Asthma education helps patients and caregivers understand asthma, recognize warning signs, and follow a clinician-approved management plan.",
+  "entry_text_kind": "definition",
+  "example": "An educator checks that a patient can explain when to follow their written action plan.",
+  "id": "mhz7f3lsy1",
+  "key": "asthma-education",
+  "label": "Asthma education",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

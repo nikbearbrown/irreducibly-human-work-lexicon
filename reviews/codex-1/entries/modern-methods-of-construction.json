@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Modern methods of construction describe approaches that improve building production through techniques such as off-site manufacture or standardized assemblies.",
+  "entry_text": "Modern methods of construction describe approaches that improve building production through techniques such as off-site manufacture or standardized assemblies.",
+  "entry_text_kind": "definition",
+  "example": "A builder installs factory-made wall panels to reduce on-site assembly time.",
+  "id": "n3l0oty8h4",
+  "key": "modern-methods-of-construction",
+  "label": "Modern methods of construction",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "This is an umbrella term; qualifying methods vary across programs.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

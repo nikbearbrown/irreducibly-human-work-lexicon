@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Map reading interprets a map's symbols, scale, orientation and features to determine locations or relationships.",
+  "entry_text": "Map reading interprets a map's symbols, scale, orientation and features to determine locations or relationships.",
+  "entry_text_kind": "definition",
+  "example": "A hiker uses contour lines to identify the steepest part of a planned route.",
+  "id": "nxgs7upiiv",
+  "key": "map-reading",
+  "label": "Map reading",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

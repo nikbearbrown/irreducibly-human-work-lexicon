@@ -1,0 +1,31 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Sango (ISO 639-3: sag) as a language under the Atlantic-Congo grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Atlantic-Congo",
+    "catalog_name": "Sango",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "sang1328",
+    "iso639_3": "sag",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/sang1328"
+  },
+  "definition": "A human language used in spoken and written communication.",
+  "entry_text": "A human language used in spoken and written communication.",
+  "entry_text_kind": "definition",
+  "example": "An interpreter explains an appointment notice in Sango.",
+  "id": "dupsfn56g9",
+  "key": "sango",
+  "label": "Sango",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

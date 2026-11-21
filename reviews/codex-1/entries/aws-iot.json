@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "AWS IoT is a family of services for connecting devices, processing their messages, and managing fleets.",
+  "entry_text": "AWS IoT is a family of services for connecting devices, processing their messages, and managing fleets.",
+  "entry_text_kind": "definition",
+  "example": "A monitoring team collects authorized temperature readings from equipment at multiple sites.",
+  "id": "hh5zk4fi3o",
+  "key": "aws-iot",
+  "label": "AWS IoT",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

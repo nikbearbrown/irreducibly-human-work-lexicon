@@ -1,0 +1,20 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "MediatR is a .NET library for routing messages to handlers within an application.",
+  "entry_text": "MediatR is a .NET library for routing messages to handlers within an application.",
+  "entry_text_kind": "definition",
+  "example": "An application sends an order command to its registered handler without coupling the caller to that handler directly.",
+  "id": "fo3x072gil",
+  "key": "mediatr",
+  "label": "MediatR",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Marketing strategy defines the audiences, positioning and choices through which an offering aims to achieve market goals.",
+  "entry_text": "Marketing strategy defines the audiences, positioning and choices through which an offering aims to achieve market goals.",
+  "entry_text_kind": "definition",
+  "example": "A startup chooses to target small clinics first and positions its software around reduced paperwork.",
+  "id": "f4r9a2sogw",
+  "key": "marketing-strategy",
+  "label": "Marketing strategy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Nutanix is an infrastructure platform that integrates compute, storage and management for running virtualized or cloud workloads.",
+  "entry_text": "Nutanix is an infrastructure platform that integrates compute, storage and management for running virtualized or cloud workloads.",
+  "entry_text_kind": "definition",
+  "example": "An IT team operates virtual servers and shared storage on a managed Nutanix cluster.",
+  "id": "hwy0lfpcha",
+  "key": "nutanix",
+  "label": "Nutanix",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

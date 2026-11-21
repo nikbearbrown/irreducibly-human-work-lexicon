@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Guidelines from the International Council for Harmonisation addressing scientific and technical requirements for human pharmaceuticals.",
+  "entry_text": "Guidelines from the International Council for Harmonisation addressing scientific and technical requirements for human pharmaceuticals.",
+  "entry_text_kind": "definition",
+  "example": "A regulatory team consults the relevant ICH guidance when planning a study submission.",
+  "id": "kqjbnw5tmx",
+  "key": "ich-guidelines",
+  "label": "ICH guidelines",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

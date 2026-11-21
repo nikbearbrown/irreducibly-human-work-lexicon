@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A specimen collection method in which drops of blood are dried on an absorbent card for later testing.",
+  "entry_text": "A specimen collection method in which drops of blood are dried on an absorbent card for later testing.",
+  "entry_text_kind": "definition",
+  "example": "A screening program sends dried specimens to a central laboratory for analysis.",
+  "id": "cae75hpys3",
+  "key": "dried-blood-spot",
+  "label": "Dried blood spot",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

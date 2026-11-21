@@ -1,0 +1,92 @@
+[
+  {
+    "id": "qwxq4g1dxk",
+    "result": "supports",
+    "ref": "https://help.highbond.com/helpdocs/analytics-exchange/13/user-guide/en-us/Content/ax_ui/analytics/managing_analytics_analysis_apps.htm",
+    "note": "ACL Services identifies ACL Analytics as the place where its analytics are developed and tested and describes deploying scripted analysis for automated audit tests. Distinguish the desktop authoring application from AX Server execution."
+  },
+  {
+    "id": "nv1m32nwsp",
+    "result": "partial",
+    "ref": "https://assets.activeviam.com/products/atoti/server/6.0.7/docs/start/ap_in_a_nutshell/",
+    "note": "The vendor calls it an object-based OLAP tool and in-memory aggregation and calculation framework that consolidates and incrementally aggregates data. Prefer OLAP engine or framework over the less precise database. Document checked in the indexed source excerpt because the direct fetch was unavailable."
+  },
+  {
+    "id": "sordsd3iq2",
+    "result": "supports",
+    "ref": "https://www.admb-project.org/",
+    "note": "The project connects automatic differentiation to nonlinear statistical modeling and optimization and describes ADMB as a statistical application implementing automatic differentiation."
+  },
+  {
+    "id": "jyl5hk0swj",
+    "result": "partial",
+    "ref": "https://blog.workday.com/en-gb/what-is-adaptive-planning.html",
+    "note": "Workday describes a planning and forecasting solution and records the 2020 rebranding to Workday Adaptive Planning. The draft captures the functionality but should explicitly treat Adaptive Insights as a former product name or company name rather than imply current branding."
+  },
+  {
+    "id": "vmr98s77kp",
+    "result": "partial",
+    "ref": "https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-tags",
+    "note": "Adobe identifies Launch with Tags in Adobe Experience Platform, used to deploy scripts for data collection and personalization. Preserve Launch as a legacy name rather than present it as the current feature name. This refers to web data-collection tags, not administrative metadata tags."
+  },
+  {
+    "id": "zyx43s2qb5",
+    "result": "supports",
+    "ref": "https://www.caa.co.uk/atol-protection/atol-requirements-for-the-travel-industry/do-i-need-an-atol/",
+    "note": "The UK regulator describes licensing for applicable flight-inclusive and flight-only arrangements and consumer financial protection when the organizer stops trading. Qualifying is an important scope qualifier."
+  },
+  {
+    "id": "eb0wn0y0au",
+    "result": "partial",
+    "ref": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies",
+    "note": "The FDA distinguishes required declarations of major allergen ingredients from optional truthful advisory statements about unavoidable cross-contact. The broad definition is plausible, but should distinguish these two concepts rather than suggest equal disclosure requirements; this source is U.S.-specific."
+  },
+  {
+    "id": "cjqp8nwcn9",
+    "result": "supports",
+    "ref": "https://openconnectivity.org/technology/reference-implementation/alljoyn/",
+    "note": "The standards foundation describes AllJoyn as an open-source interoperability framework for device and app discovery and communication. It says downloads remain available and the project reached its final major release."
+  },
+  {
+    "id": "imi19hgljl",
+    "result": "partial",
+    "ref": "https://aws.amazon.com/blogs/alps/4-year-anniversary-news-about-aws-europe-zurich-region/",
+    "note": "AWS explicitly identifies Amazon WorkSpaces Applications as the renamed AppStream 2.0 and confirms remote application or desktop streaming to browsers or its client. Function matches; mark AppStream 2.0 as the former name."
+  },
+  {
+    "id": "obbbl6h3c4",
+    "result": "supports",
+    "ref": "https://www.aws.org/standards-and-publications/codes-and-standards/",
+    "note": "The issuing organization identifies its standards for welding practices and procedures and emphasizes that requirements apply within each document’s scope. This does not mean that every code is automatically a legal requirement."
+  },
+  {
+    "id": "fboqbigh6e",
+    "result": "supports",
+    "ref": "https://www.loc.gov/cds/PDFdownloads/marc/MARC21_Upd8.pdf",
+    "note": "The Library of Congress MARC 21 technical documentation identifies both record description and choice and form of access points as governed by AACR2. The evidence is specific to AACR2 and does not imply that all cataloging currently uses these rules."
+  },
+  {
+    "id": "q74bxk8hi6",
+    "result": "supports",
+    "ref": "https://www.apple.com/business-docs/DEP_Guide.pdf",
+    "note": "Apple’s historical DEP Guide identifies automatic MDM enrollment and supervision during setup for eligible organization-owned devices. This substantiates the draft’s past-tense description."
+  },
+  {
+    "id": "y2ee17jenh",
+    "result": "supports",
+    "ref": "https://www.ibm.com/docs/en/apptio-commercial/tbm-studio/saas?topic=fundementals-introduction-technology-business-management",
+    "note": "IBM notes that Apptio TBM Studio models the relationship between IT costs and services and automates cost allocation; it identifies unit-level chargeback and service-level analysis as uses."
+  },
+  {
+    "id": "wjy1358i16",
+    "result": "partial",
+    "ref": "https://learn.microsoft.com/en-us/aspnet/identity/index",
+    "note": "Microsoft labels this framework ASP.NET Identity for ASP.NET 4.x and documents membership, account confirmation, and password recovery. The functional claim is sound; retain the distinction from the separately named ASP.NET Core Identity rather than imply a product family."
+  },
+  {
+    "id": "vroxc5a0gz",
+    "result": "supports",
+    "ref": "https://learn.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api",
+    "note": "Microsoft’s ASP.NET 4.x tutorial identifies it as a framework for HTTP services and mentions browsers, native mobile clients, and desktops. The historical scope could be explicit in the definition."
+  }
+]

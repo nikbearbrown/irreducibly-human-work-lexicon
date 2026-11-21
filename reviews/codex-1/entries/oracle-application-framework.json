@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Oracle Application Framework is a Java-based framework for building web interfaces and business applications in Oracle E-Business Suite.",
+  "entry_text": "Oracle Application Framework is a Java-based framework for building web interfaces and business applications in Oracle E-Business Suite.",
+  "entry_text_kind": "definition",
+  "example": "A developer extends a self-service page while retaining the application's navigation and data model.",
+  "id": "b16607shyo",
+  "key": "oracle-application-framework",
+  "label": "Oracle Application Framework",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Often identified as OA Framework; distinguish from Oracle Application Development Framework.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

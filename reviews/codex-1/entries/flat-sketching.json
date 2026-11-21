@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Creating two-dimensional technical drawings of garments to show construction details without rendering a posed figure.",
+  "entry_text": "Creating two-dimensional technical drawings of garments to show construction details without rendering a posed figure.",
+  "entry_text_kind": "definition",
+  "example": "A designer draws front and back views that show seam and pocket placement.",
+  "id": "hgakunv2dr",
+  "key": "flat-sketching",
+  "label": "Flat sketching",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The fashion design sense is intended; confirm if the source covers another drawing domain.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

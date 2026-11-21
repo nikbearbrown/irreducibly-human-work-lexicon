@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Data localization is a requirement to store, process, or retain specified data within a designated jurisdiction, depending on the applicable rule.",
+  "entry_text": "Data localization is a requirement to store, process, or retain specified data within a designated jurisdiction, depending on the applicable rule.",
+  "entry_text_kind": "definition",
+  "example": "A company checks whether a rule requiring an in-country copy of certain records still allows a backup abroad.",
+  "id": "eqeh9wy963",
+  "key": "data-localization",
+  "label": "Data localization",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Localization requirements vary and are not synonymous with choosing where data resides.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

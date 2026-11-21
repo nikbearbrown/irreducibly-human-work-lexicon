@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Early childhood mental health concerns young children's developing capacity to experience and regulate emotions, build relationships, and explore and learn in supportive environments.",
+  "entry_text": "Early childhood mental health concerns young children's developing capacity to experience and regulate emotions, build relationships, and explore and learn in supportive environments.",
+  "entry_text_kind": "definition",
+  "example": "A clinician observes a toddler's interactions with a caregiver to understand how their relationship supports emotional regulation.",
+  "id": "lqet2be6bf",
+  "key": "early-childhood-mental-health",
+  "label": "Early childhood mental health",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

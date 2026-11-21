@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "d3liyhugq1",
+    "key": "automotive-finance",
+    "label": "Automotive finance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gar91e3y2c",
+    "key": "automotive-loans",
+    "label": "Automotive loans",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "eixg7h0h2o",
+    "key": "autonomic-nervous-system",
+    "label": "Autonomic nervous system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "w9n8sme4x4",
+    "key": "b-tree",
+    "label": "B-tree",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "du49l1vv1p",
+    "key": "bacteriology",
+    "label": "Bacteriology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "rhj2gox2bc",
+    "key": "barcode-systems",
+    "label": "Barcode systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dfc9xr7d51",
+    "key": "bariatric-surgery",
+    "label": "Bariatric surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "u8jwh1zpt8",
+    "key": "basic-block",
+    "label": "Basic block",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mrubr5ybum",
+    "key": "battery-technology",
+    "label": "Battery technology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "oia7a9p9lz",
+    "key": "behavioural-science",
+    "label": "Behavioural science",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "atdk6aaopa",
+    "key": "big-o-notation",
+    "label": "Big O notation",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "pm5q2pbpgx",
+    "key": "bill-of-materials",
+    "label": "Bill of materials",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ndr4eqq5k6",
+    "key": "binary-options",
+    "label": "Binary options",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "aero8oblws",
+    "key": "biochemical-genetics",
+    "label": "Biochemical genetics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "h1yzwdb0b3",
+    "key": "biological-applications-of-bifurcation-theory",
+    "label": "Biological applications of bifurcation theory",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fn8par41c3",
+    "key": "biomedical-informatics",
+    "label": "Biomedical informatics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "rvsvd49up9",
+    "key": "biomolecular-engineering",
+    "label": "Biomolecular engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xu0azmubfo",
+    "key": "biopesticide",
+    "label": "Biopesticide",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cjyg2bfrqe",
+    "key": "biosensors",
+    "label": "Biosensors",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "o7mfnp1pfo",
+    "key": "bioterrorism-preparedness-and-response",
+    "label": "Bioterrorism preparedness and response",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "m8gmr3txqk",
+    "key": "bismuth-sulfite-agar",
+    "label": "Bismuth sulfite agar",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fygo8wubvo",
+    "key": "boiler-draft",
+    "label": "Boiler draft",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "njv3f0ufws",
+    "key": "boolean-algebra",
+    "label": "Boolean algebra",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yzj1md842p",
+    "key": "border-studies",
+    "label": "Border studies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "evst0xb1l8",
+    "key": "breast-surgery",
+    "label": "Breast surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mxl01lm0t7",
+    "key": "builder-s-risk-insurance",
+    "label": "Builder's risk insurance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "z4vtam14dw",
+    "key": "callback-function",
+    "label": "Callback function",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mkb0siub2w",
+    "key": "cannabis-regulations",
+    "label": "Cannabis regulations",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "hpvywql8oq",
+    "key": "capital-asset-pricing-model",
+    "label": "Capital asset pricing model",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s2nhx2485d",
+    "key": "captive-insurance",
+    "label": "Captive insurance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mdtu8qicbk",
+    "key": "cardiac-surgery",
+    "label": "Cardiac surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gyc8aazwuc",
+    "key": "cardiothoracic-surgery",
+    "label": "Cardiothoracic surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jkwrklfl9h",
+    "key": "cardiovascular-physiology",
+    "label": "Cardiovascular physiology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fo93ho62h9",
+    "key": "chemical-reactions",
+    "label": "Chemical reactions",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "iocx2qlgxq",
+    "key": "child-and-adolescent-psychiatry",
+    "label": "Child and adolescent psychiatry",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jdnt5uczex",
+    "key": "child-nutrition",
+    "label": "Child nutrition",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qzjv1z5cug",
+    "key": "children-s-health-insurance-program",
+    "label": "Children's Health Insurance Program",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qatr9a0kcz",
+    "key": "children-s-ministry",
+    "label": "Children's ministry",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "n2hw22jw1r",
+    "key": "chlorofluorocarbons",
+    "label": "Chlorofluorocarbons",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xc5h12foes",
+    "key": "choral-music",
+    "label": "Choral music",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

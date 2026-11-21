@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Using communication, evidence, and relationships to shape another person's understanding or decision without necessarily having formal authority.",
+  "entry_text": "Using communication, evidence, and relationships to shape another person's understanding or decision without necessarily having formal authority.",
+  "entry_text_kind": "definition",
+  "example": "A project lead gains stakeholder support by explaining the implications of several options.",
+  "id": "rs9ggylkfu",
+  "key": "influencing",
+  "label": "Influencing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

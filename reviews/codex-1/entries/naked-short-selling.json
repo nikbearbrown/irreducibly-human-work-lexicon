@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Naked short selling is selling a security short without first borrowing it or arranging to borrow it for delivery.",
+  "entry_text": "Naked short selling is selling a security short without first borrowing it or arranging to borrow it for delivery.",
+  "entry_text_kind": "definition",
+  "example": "A compliance officer checks whether a short sale had the required borrowing arrangement before execution.",
+  "id": "e51h9xxt7e",
+  "key": "naked-short-selling",
+  "label": "Naked short selling",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Legal definitions and exceptions vary by jurisdiction.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

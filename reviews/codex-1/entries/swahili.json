@@ -1,0 +1,31 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Swahili (ISO 639-3: swh) as a language under the Atlantic-Congo grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Atlantic-Congo",
+    "catalog_name": "Swahili",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "swah1253",
+    "iso639_3": "swh",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/swah1253"
+  },
+  "definition": "A human language used in oral and written communication, including as a lingua franca.",
+  "entry_text": "A human language used in oral and written communication, including as a lingua franca.",
+  "entry_text_kind": "definition",
+  "example": "A producer checks a Swahili radio script.",
+  "id": "ahff7lh1ul",
+  "key": "swahili",
+  "label": "Swahili",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

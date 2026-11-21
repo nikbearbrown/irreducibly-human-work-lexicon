@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Reading technical drawings is interpreting dimensions, views, symbols, and specifications in technical documentation.",
+  "entry_text": "Reading technical drawings is interpreting dimensions, views, symbols, and specifications in technical documentation.",
+  "entry_text_kind": "definition",
+  "example": "A craftsperson identifies a hole diameter and its tolerance from a drawing.",
+  "id": "kbdcdytq6a",
+  "key": "reading-technical-drawings",
+  "label": "Reading technical drawings",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

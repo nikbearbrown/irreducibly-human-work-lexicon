@@ -1,0 +1,20 @@
+{
+  "batch": "skill-010.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Contact management software stores and organizes information about people or organizations and their prior interactions.",
+  "entry_text": "Contact management software stores and organizes information about people or organizations and their prior interactions.",
+  "entry_text_kind": "definition",
+  "example": "A business records a contact’s preferred communication channel and recent correspondence.",
+  "id": "amwmjfk4wl",
+  "key": "contact-management-software",
+  "label": "Contact management software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

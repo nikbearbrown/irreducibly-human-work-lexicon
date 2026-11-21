@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Guiding others as they learn and practice the teachings of a religious tradition, commonly Christianity.",
+  "entry_text": "Guiding others as they learn and practice the teachings of a religious tradition, commonly Christianity.",
+  "entry_text_kind": "definition",
+  "example": "A mentor leads regular discussions about applying shared beliefs in everyday situations.",
+  "id": "mt0t611gxy",
+  "key": "discipleship",
+  "label": "Discipleship",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The scope depends on the community and tradition.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c6mr2nxzm3",
+    "definition": "Problem solving identifies a gap or obstacle, develops possible responses and evaluates whether a chosen solution works.",
+    "example": "A support team compares explanations for delivery errors and tests the most likely cause.",
+    "sense_note": null
+  },
+  {
+    "id": "k5ufy5as91",
+    "definition": "Process hazard analysis systematically examines what could go wrong in a process and evaluates potential consequences and safeguards.",
+    "example": "A team reviews a proposed facility change to identify hazards requiring further controls.",
+    "sense_note": null
+  },
+  {
+    "id": "q7krwm5s5q",
+    "definition": "Process improvement measures how work performs and changes steps or conditions to achieve better results.",
+    "example": "A team removes redundant approval steps and checks whether turnaround time improves.",
+    "sense_note": null
+  },
+  {
+    "id": "s3n5ds6s5q",
+    "definition": "Process management defines, coordinates, monitors and maintains how recurring work is performed.",
+    "example": "A supervisor assigns owners and checks whether cases move through each required stage.",
+    "sense_note": null
+  },
+  {
+    "id": "oex3i29zws",
+    "definition": "Process piping is the design, installation or maintenance of piping that conveys fluids used in an industrial process.",
+    "example": "A designer specifies an appropriate piping layout for moving material between vessels.",
+    "sense_note": "The label may denote the system itself or the associated work discipline."
+  },
+  {
+    "id": "ggtzg87xae",
+    "definition": "Processing.js was a JavaScript implementation for running Processing-style graphics programs in a web browser.",
+    "example": "An artist used it to display an interactive drawing on a webpage.",
+    "sense_note": "Distinguish it from the Processing desktop environment and p5.js."
+  },
+  {
+    "id": "sslld0gt0n",
+    "definition": "Procore is a construction management platform for coordinating project information, work and participants.",
+    "example": "A contractor uses it to track requests for information and project documents.",
+    "sense_note": null
+  },
+  {
+    "id": "v6zacfwhge",
+    "definition": "Product analysis evaluates a product's characteristics, performance or market fit to inform decisions.",
+    "example": "A team compares proposed features with customer needs and development constraints.",
+    "sense_note": null
+  },
+  {
+    "id": "fl92xd5dwo",
+    "definition": "Product analytics uses behavioral and product data to understand how people use a product and where outcomes can improve.",
+    "example": "A team analyzes which step of onboarding accounts for the most abandonment.",
+    "sense_note": null
+  },
+  {
+    "id": "a0o6usqgsr",
+    "definition": "Product benchmarking compares a product against other offerings or defined standards using consistent criteria.",
+    "example": "A reviewer measures battery life across comparable devices using the same test conditions.",
+    "sense_note": null
+  },
+  {
+    "id": "bzu9711vdy",
+    "definition": "Product catalogue management maintains the accuracy, structure and distribution of records describing products and offerings.",
+    "example": "A catalog manager updates product dimensions and propagates the approved values to storefronts.",
+    "sense_note": null
+  },
+  {
+    "id": "e7ikkvaim5",
+    "definition": "Product leadership coordinates teams and decisions around product goals, priorities and delivery.",
+    "example": "A product leader aligns engineering and design on which customer problem to address first.",
+    "sense_note": null
+  },
+  {
+    "id": "i2az7uj6oe",
+    "definition": "Product quality assurance establishes and applies practices that help ensure products meet requirements and reduce defects.",
+    "example": "A team defines acceptance criteria and reviews defect patterns before release.",
+    "sense_note": null
+  },
+  {
+    "id": "zq3dwmyih3",
+    "definition": "Product requirements documentation records what a product or change must do, for whom, and under what constraints or acceptance conditions.",
+    "example": "A product manager writes measurable criteria for a returns workflow.",
+    "sense_note": null
+  },
+  {
+    "id": "vz3nkb9mr7",
+    "definition": "Product strategy decides which users and problems a product will serve and how it will achieve and sustain its intended outcomes.",
+    "example": "A team focuses its roadmap on reducing onboarding costs for small organizations.",
+    "sense_note": null
+  },
+  {
+    "id": "tu36v4sy7c",
+    "definition": "Production support maintains the operation of deployed systems through monitoring, incident response and service recovery.",
+    "example": "A support engineer investigates why an application stopped processing scheduled work.",
+    "sense_note": "The wording may also refer to supporting a manufacturing line."
+  },
+  {
+    "id": "s5lmgnd1je",
+    "definition": "Productivity management measures and improves how effectively time and resources are converted into useful outputs.",
+    "example": "A manager adjusts how work is assigned after measuring bottlenecks and rework.",
+    "sense_note": null
+  },
+  {
+    "id": "ybsy8ezsaf",
+    "definition": "Professionalism applies the conduct, reliability, ethical judgment and communication expected in a work setting.",
+    "example": "A team member discloses a conflict of interest before participating in a purchasing decision.",
+    "sense_note": null
+  },
+  {
+    "id": "lpt0v9ouhr",
+    "definition": "Profitability management monitors and improves the relationship between revenues and costs across activities or offerings.",
+    "example": "A manager compares contribution margins before deciding whether to change a service package.",
+    "sense_note": null
+  },
+  {
+    "id": "l6wcns768h",
+    "definition": "Program evaluation systematically assesses a program's implementation, effectiveness or other outcomes against explicit questions and criteria.",
+    "example": "An evaluator studies whether a tutoring program reached its intended students and improved attendance.",
+    "sense_note": null
+  },
+  {
+    "id": "z40m891ema",
+    "definition": "Program optimization changes software to improve resource use or performance while preserving required behavior.",
+    "example": "A developer profiles a slow report and rewrites the operation that dominates its runtime.",
+    "sense_note": "The likely sense is computer-program optimization; in management it can mean improving program performance."
+  },
+  {
+    "id": "m0skxwolr3",
+    "definition": "Programmatic media buying uses software to automate the selection and purchase of advertising placements.",
+    "example": "A campaign automatically bids for suitable ad impressions subject to its budget and targeting rules.",
+    "sense_note": null
+  },
+  {
+    "id": "wnnm0zmdx4",
+    "definition": "Programmer's Hierarchical Interactive Graphics System is a standard interface for creating and manipulating structured, interactive computer graphics.",
+    "example": "An application builds a hierarchy of graphic objects that can be edited and transformed as groups.",
+    "sense_note": null
+  },
+  {
+    "id": "scenl2l59f",
+    "definition": "Project benchmarking compares a project's practices or metrics with suitable references to identify differences and improvement opportunities.",
+    "example": "A team compares its construction lead times with those of projects using similar scope and constraints.",
+    "sense_note": null
+  },
+  {
+    "id": "z83cabeb9c",
+    "definition": "Project management plans, coordinates and controls resources and work to deliver a defined outcome within project constraints.",
+    "example": "A project manager tracks dependencies and resolves a schedule conflict before it delays delivery.",
+    "sense_note": null
+  },
+  {
+    "id": "my95i8hloo",
+    "definition": "Project scoping defines a project's objectives, included and excluded work, deliverables, boundaries and constraints.",
+    "example": "A team specifies that the first release will migrate current records but not archived records.",
+    "sense_note": null
+  },
+  {
+    "id": "mgqa6kj100",
+    "definition": "Project status reporting communicates progress, risks, decisions and expected outcomes relative to a project plan.",
+    "example": "A project lead reports which milestones are complete and flags a dependency threatening the next one.",
+    "sense_note": null
+  },
+  {
+    "id": "sc05cw6xtg",
+    "definition": "Prometheus is an open-source monitoring system that collects time-series metrics and supports queries and alerting rules.",
+    "example": "An engineer sets an alert for sustained error rates above the service target.",
+    "sense_note": null
+  },
+  {
+    "id": "vdwkv86cyb",
+    "definition": "Prompt engineering designs and evaluates inputs and instructions to improve a model's responses for a specified task.",
+    "example": "A developer tests whether a prompt with examples improves extraction accuracy on held-out documents.",
+    "sense_note": null
+  },
+  {
+    "id": "islil7fue7",
+    "definition": "Proofreading checks a near-final text for errors in spelling, punctuation, grammar and presentation consistency.",
+    "example": "An editor catches a misspelled name and inconsistent numbering before publication.",
+    "sense_note": null
+  },
+  {
+    "id": "ddvoxpkhp6",
+    "definition": "Proposal development analyzes a request and produces a written offer explaining the proposed approach, costs and evidence of capability.",
+    "example": "A team drafts a technical plan and budget in response to a request for proposals.",
+    "sense_note": null
+  },
+  {
+    "id": "g6mzlifyu3",
+    "definition": "Proposal management coordinates contributors, requirements, reviews and deadlines for preparing and submitting a proposal.",
+    "example": "A manager tracks compliance items and schedules final reviews before submission.",
+    "sense_note": null
+  },
+  {
+    "id": "w1zri6d3wg",
+    "definition": "Proposal strategy defines the positioning, evidence and approach used to make a proposal persuasive and competitive.",
+    "example": "A bidder emphasizes documented reliability because the buyer gives it a high evaluation weight.",
+    "sense_note": null
+  },
+  {
+    "id": "tuj4ch0b9s",
+    "definition": "A prosecutor's management information system records and organizes information about cases, parties and proceedings for a prosecutorial office.",
+    "example": "A legal office tracks upcoming hearings and the status of active cases.",
+    "sense_note": "Could denote the historical PROMIS product or this category of case-management system; verify the named implementation."
+  },
+  {
+    "id": "pfp23xemlu",
+    "definition": "Protein characterization uses analytical methods to determine properties of proteins, such as identity, composition, structure or function.",
+    "example": "A laboratory compares analytical measurements to check whether purified protein samples are consistent.",
+    "sense_note": null
+  },
+  {
+    "id": "cz3drmvj0y",
+    "definition": "Protein structure prediction estimates a protein's three-dimensional conformation from its sequence and other available information.",
+    "example": "A researcher compares candidate structural models to interpret the shape of a protein domain.",
+    "sense_note": null
+  },
+  {
+    "id": "dp16u2fll8",
+    "definition": "Protocol-oriented programming structures software around behavioral interfaces called protocols and types that conform to them.",
+    "example": "A Swift developer defines a rendering protocol and writes code that accepts multiple conforming types.",
+    "sense_note": null
+  },
+  {
+    "id": "pkld3bgf9n",
+    "definition": "Prototype JavaScript Framework is a historical JavaScript library with helpers for DOM operations, events and asynchronous web requests.",
+    "example": "A legacy page uses Prototype to update a region after a server response.",
+    "sense_note": "Distinguish the named library from JavaScript's prototype-based object model."
+  },
+  {
+    "id": "yqx76opq5c",
+    "definition": "Prototyping creates an early representation of a product or solution to investigate ideas before committing to a full build.",
+    "example": "A design team tests a clickable mockup to see whether users understand a navigation change.",
+    "sense_note": null
+  },
+  {
+    "id": "ahawvzgh4q",
+    "definition": "Protractor was an end-to-end testing framework built on WebDriver for web applications, particularly Angular applications.",
+    "example": "A team used it to test whether a form submission reached the expected page.",
+    "sense_note": "Historical framework; do not infer current support."
+  }
+]

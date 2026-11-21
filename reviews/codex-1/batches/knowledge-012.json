@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "h1e2kiw4mp",
+    "key": "rights-issue",
+    "label": "Rights issue",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "n5223dhbup",
+    "key": "risk-ratings",
+    "label": "Risk ratings",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dhhp3v06ac",
+    "key": "rolling-stock",
+    "label": "Rolling stock",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "m471yigg5j",
+    "key": "rubber-tyred-metro",
+    "label": "Rubber-tyred metro",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "z3in4qbkv2",
+    "key": "sales-journal",
+    "label": "Sales journal",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "on2ks52go0",
+    "key": "scara-robot",
+    "label": "SCARA robot",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fbgyvaz7qh",
+    "key": "scholarship-of-teaching-and-learning",
+    "label": "Scholarship of teaching and learning",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "t7opf288w6",
+    "key": "secured-transactions",
+    "label": "Secured transactions",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "kqtkcsq5fq",
+    "key": "smart-buildings",
+    "label": "Smart buildings",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xlev25akr5",
+    "key": "smart-lighting",
+    "label": "Smart lighting",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vhuknlgq5p",
+    "key": "smart-meter-systems",
+    "label": "Smart meter systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "urm5qsloae",
+    "key": "social-determinants-of-health",
+    "label": "Social determinants of health",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "u10rokkwol",
+    "key": "social-impact-bond",
+    "label": "Social impact bond",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ftgr0snkh6",
+    "key": "social-sustainability",
+    "label": "Social sustainability",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j2dnvobke5",
+    "key": "sociology-of-education",
+    "label": "Sociology of education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "rm0k01pcl6",
+    "key": "software-as-a-service",
+    "label": "Software as a service",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "oj9fkwcd4e",
+    "key": "software-defined-wan",
+    "label": "Software-defined WAN",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qmravcc671",
+    "key": "software-engineering",
+    "label": "Software engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "riw8xkpt0u",
+    "key": "sovereign-cloud",
+    "label": "Sovereign cloud",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d9nqi6y3rv",
+    "key": "special-education-law",
+    "label": "Special education law",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yplq0w5d56",
+    "key": "special-education",
+    "label": "Special education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mi6mj4dcc0",
+    "key": "special-hazards-suppression-systems",
+    "label": "Special hazards suppression systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ppo88pqi8w",
+    "key": "special-use-airspace",
+    "label": "Special use airspace",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fb0fcpjf1o",
+    "key": "sport-governance",
+    "label": "Sport governance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i0768ad1w6",
+    "key": "standard-ambient-temperature-and-pressure",
+    "label": "Standard ambient temperature and pressure",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "c9opben0zn",
+    "key": "static-html",
+    "label": "Static HTML",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ecoz6ylymx",
+    "key": "statistics",
+    "label": "Statistics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ppn1crdqgj",
+    "key": "stormwater-collection-systems",
+    "label": "Stormwater collection systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "p0s0bb8ncl",
+    "key": "student-development-theory",
+    "label": "Student development theory",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "o419jkkg4o",
+    "key": "subordination-non-disturbance-and-attornment-agreement",
+    "label": "Subordination, Non-Disturbance and Attornment Agreement",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vlddi3cmfn",
+    "key": "surface-properties-of-transition-metal-oxides",
+    "label": "Surface properties of transition metal oxides",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "f7c96nvfei",
+    "key": "surgery",
+    "label": "Surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "f1n6rn43ia",
+    "key": "sustainability-bond",
+    "label": "Sustainability bond",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "booi01h6d6",
+    "key": "sustainable-infrastructure",
+    "label": "Sustainable infrastructure",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "lp4bwp30dh",
+    "key": "sustainable-insurance",
+    "label": "Sustainable insurance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "r75j0tgdjg",
+    "key": "syndicated-finance",
+    "label": "Syndicated finance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "agserdgtg7",
+    "key": "tax-deduction",
+    "label": "Tax deduction",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s55w8vv1a1",
+    "key": "tax-return",
+    "label": "Tax return",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "iiguuxxpw3",
+    "key": "tax-shelter",
+    "label": "Tax shelter",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wml4xch2r5",
+    "key": "technical-theatre",
+    "label": "Technical theatre",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

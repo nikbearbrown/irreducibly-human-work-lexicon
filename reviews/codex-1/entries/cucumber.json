@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cucumber is a behavior-driven development tool that executes scenarios written in a structured natural-language format against step definitions.",
+  "entry_text": "Cucumber is a behavior-driven development tool that executes scenarios written in a structured natural-language format against step definitions.",
+  "entry_text_kind": "definition",
+  "example": "A product team and developers use an executable scenario to verify what should happen after an invalid sign-in.",
+  "id": "te8h97eiea",
+  "key": "cucumber",
+  "label": "Cucumber",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The family includes multiple language implementations; Cucumber.js is one of them.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

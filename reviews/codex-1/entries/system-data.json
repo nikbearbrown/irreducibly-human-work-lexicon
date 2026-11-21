@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "System.Data is the .NET namespace that provides ADO.NET abstractions and in-memory structures for working with data sources.",
+  "entry_text": "System.Data is the .NET namespace that provides ADO.NET abstractions and in-memory structures for working with data sources.",
+  "entry_text_kind": "definition",
+  "example": "A developer uses a DataTable to hold structured query results for a desktop application.",
+  "id": "lkcv1ec2gi",
+  "key": "system-data",
+  "label": "System.Data",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

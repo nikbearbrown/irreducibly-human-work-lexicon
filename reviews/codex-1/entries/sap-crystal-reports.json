@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SAP Crystal Reports is a reporting application for designing formatted reports from databases and other structured data sources.",
+  "entry_text": "SAP Crystal Reports is a reporting application for designing formatted reports from databases and other structured data sources.",
+  "entry_text_kind": "definition",
+  "example": "A developer lays out a printable inventory report grouped by stockroom.",
+  "id": "mvrzxgwe6c",
+  "key": "sap-crystal-reports",
+  "label": "SAP Crystal Reports",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

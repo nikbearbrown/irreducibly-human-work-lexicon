@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Jive Software refers to enterprise collaboration software that supports communities, discussions and shared documents.",
+  "entry_text": "Jive Software refers to enterprise collaboration software that supports communities, discussions and shared documents.",
+  "entry_text_kind": "definition",
+  "example": "An organization uses a Jive community to publish reference documents and answer employee questions.",
+  "id": "khoqe1sng8",
+  "key": "jive-software",
+  "label": "Jive Software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label could name the company rather than its collaboration product.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,31 @@
+{
+  "batch": "language-005.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Manx (ISO 639-3: glv) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Manx",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "manx1243",
+    "iso639_3": "glv",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/manx1243"
+  },
+  "definition": "A Goidelic human language associated with the Isle of Man.",
+  "entry_text": "A Goidelic human language associated with the Isle of Man.",
+  "entry_text_kind": "definition",
+  "example": "A teacher records a short Manx conversation.",
+  "id": "xny3fc9cpc",
+  "key": "manx",
+  "label": "Manx",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A sprint retrospective is a Scrum event in which the team reflects on its recent work and plans improvements for the next sprint.",
+  "entry_text": "A sprint retrospective is a Scrum event in which the team reflects on its recent work and plans improvements for the next sprint.",
+  "entry_text_kind": "definition",
+  "example": "A team identifies late code reviews as a bottleneck and commits to testing a new review schedule.",
+  "id": "fub3ytd58x",
+  "key": "sprint-retrospective",
+  "label": "Sprint retrospective",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

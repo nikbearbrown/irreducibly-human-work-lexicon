@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SSL/TLS security concerns protecting network connections through authenticated encryption with secure TLS versions and configurations rather than obsolete SSL.",
+  "entry_text": "SSL/TLS security concerns protecting network connections through authenticated encryption with secure TLS versions and configurations rather than obsolete SSL.",
+  "entry_text_kind": "definition",
+  "example": "An administrator verifies that a public service uses a trusted certificate and disables obsolete protocols.",
+  "id": "oqjr6z2wak",
+  "key": "ssl-tls-security",
+  "label": "SSL/TLS security",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "SSL is a historical predecessor; common labels still use SSL when referring to TLS.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

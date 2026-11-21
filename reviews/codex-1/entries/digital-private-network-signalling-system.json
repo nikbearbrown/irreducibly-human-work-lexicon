@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A signaling standard that supports interoperable call-control features between private telephone exchanges.",
+  "entry_text": "A signaling standard that supports interoperable call-control features between private telephone exchanges.",
+  "entry_text_kind": "definition",
+  "example": "A company links participating office exchanges so employees can use internal calling features.",
+  "id": "m6uvjl465p",
+  "key": "digital-private-network-signalling-system",
+  "label": "Digital Private Network Signalling System",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

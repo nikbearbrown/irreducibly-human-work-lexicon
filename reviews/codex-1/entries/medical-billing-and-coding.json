@@ -1,0 +1,20 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Medical billing and coding translate documented care into standardized codes and use those codes to prepare and manage payment claims.",
+  "entry_text": "Medical billing and coding translate documented care into standardized codes and use those codes to prepare and manage payment claims.",
+  "entry_text_kind": "definition",
+  "example": "A coder checks a diagnosis code against the encounter documentation before the billing team submits the claim.",
+  "id": "hqymi9wcca",
+  "key": "medical-billing-and-coding",
+  "label": "Medical billing and coding",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

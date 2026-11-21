@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Arachnophilia is a text-based web authoring editor with tools for writing and editing HTML.",
+  "entry_text": "Arachnophilia is a text-based web authoring editor with tools for writing and editing HTML.",
+  "entry_text_kind": "definition",
+  "example": "A site maintainer updates hand-written markup in an archived page.",
+  "id": "hiyfl41ph4",
+  "key": "arachnophilia",
+  "label": "Arachnophilia",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

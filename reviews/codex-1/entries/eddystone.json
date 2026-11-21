@@ -1,0 +1,28 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A specification for broadcasting defined data formats from Bluetooth Low Energy beacons.",
+  "entry_text": "A specification for broadcasting defined data formats from Bluetooth Low Energy beacons.",
+  "entry_text_kind": "definition",
+  "example": "A receiver interprets an Eddystone frame sent by a nearby beacon.",
+  "id": "pzkbjaeg8u",
+  "key": "eddystone",
+  "label": "Eddystone",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Do not assume support for any discontinued Google beacon service.",
+  "sources": [
+    {
+      "id": "pzkbjaeg8u",
+      "note": "Google’s archived specification describes Bluetooth Low Energy proximity beacon messages and their frame formats. This does not establish support for any associated cloud service.",
+      "packet": "worker-technical-skills.json",
+      "ref": "https://github.com/google/eddystone#readme",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SAP NetWeaver Process Integration is middleware for routing and transforming messages between SAP and other enterprise systems.",
+  "entry_text": "SAP NetWeaver Process Integration is middleware for routing and transforming messages between SAP and other enterprise systems.",
+  "entry_text_kind": "definition",
+  "example": "An integration developer maps purchase-order fields between two applications using different formats.",
+  "id": "vlxwpt4op5",
+  "key": "sap-netweaver-process-integration",
+  "label": "SAP NetWeaver Process Integration",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

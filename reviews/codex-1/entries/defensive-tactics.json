@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The use of protective awareness, positioning, and response principles to reduce harm during a confrontation.",
+  "entry_text": "The use of protective awareness, positioning, and response principles to reduce harm during a confrontation.",
+  "entry_text_kind": "definition",
+  "example": "A safety instructor assesses how trainees recognize and disengage from a threatening encounter.",
+  "id": "ovrrog0mz2",
+  "key": "defensive-tactics",
+  "label": "Defensive tactics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Non-operational scope; organizational and legal context can affect the intended sense.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

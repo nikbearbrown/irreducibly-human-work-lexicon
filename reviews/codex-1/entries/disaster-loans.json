@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Disaster loans are repayable funds supplied under designated programs to help eligible borrowers recover from losses caused by a qualifying disaster.",
+  "entry_text": "Disaster loans are repayable funds supplied under designated programs to help eligible borrowers recover from losses caused by a qualifying disaster.",
+  "entry_text_kind": "definition",
+  "example": "A small business checks whether it can borrow under a disaster program to replace flood-damaged equipment.",
+  "id": "i6g0tbrpag",
+  "key": "disaster-loans",
+  "label": "Disaster loans",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

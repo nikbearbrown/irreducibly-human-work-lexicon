@@ -1,0 +1,20 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Emotional stability is a tendency to maintain relatively steady emotional responses and recover composure under stress.",
+  "entry_text": "Emotional stability is a tendency to maintain relatively steady emotional responses and recover composure under stress.",
+  "entry_text_kind": "definition",
+  "example": "A dispatcher remains composed during a surge of calls and continues applying the same triage criteria.",
+  "id": "ce6c1rs0jk",
+  "key": "emotional-stability",
+  "label": "Emotional stability",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Better understood as a disposition than as a discrete cognitive ability.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

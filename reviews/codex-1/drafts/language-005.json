@@ -1,0 +1,242 @@
+[
+  {
+    "id": "gcx7x5tes5",
+    "definition": "A programming language that compiles to JavaScript and offers concise functional syntax.",
+    "example": "A developer pipes input through a sequence of transformations.",
+    "sense_note": null
+  },
+  {
+    "id": "jz619i5060",
+    "definition": "An educational programming language known for turtle graphics and procedures.",
+    "example": "A student turns and advances a turtle to draw a square.",
+    "sense_note": null
+  },
+  {
+    "id": "ivq3fs6epa",
+    "definition": "A lightweight scripting language designed to embed in host programs.",
+    "example": "A game designer uses a Lua script to respond to an in-game event.",
+    "sense_note": null
+  },
+  {
+    "id": "shp20mdyan",
+    "definition": "A human language used in oral and written communication.",
+    "example": "An editor reviews Luxembourgish captions for a community video.",
+    "sense_note": null
+  },
+  {
+    "id": "vptguf1rtv",
+    "definition": "A human language whose modern standard uses Cyrillic script.",
+    "example": "A translator checks a Macedonian exhibit label.",
+    "sense_note": null
+  },
+  {
+    "id": "ne1htbc2ex",
+    "definition": "A human language used in speaking and writing.",
+    "example": "A broadcaster records a Maithili public announcement.",
+    "sense_note": null
+  },
+  {
+    "id": "sbv449qamh",
+    "definition": "A human language used for conversation and written communication.",
+    "example": "An interpreter explains appointment instructions in Malagasy.",
+    "sense_note": null
+  },
+  {
+    "id": "koxe79qvy3",
+    "definition": "A human language written using the Malayalam script.",
+    "example": "An editor reviews the Malayalam text on a school poster.",
+    "sense_note": null
+  },
+  {
+    "id": "hte4e69ldf",
+    "definition": "A human language written with the Latin alphabet.",
+    "example": "A translator prepares Maltese subtitles.",
+    "sense_note": null
+  },
+  {
+    "id": "vphlc8dpfb",
+    "definition": "A label for a set of Chinese varieties that includes the basis of Standard Mandarin.",
+    "example": "A voice director requests a Standard Mandarin recording.",
+    "sense_note": "Distinguish standard speech from the broader group."
+  },
+  {
+    "id": "w8wmeqph17",
+    "definition": "A human language also called Meitei.",
+    "example": "An educator checks the script and wording for a Manipuri reading exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "xny3fc9cpc",
+    "definition": "A Goidelic human language associated with the Isle of Man.",
+    "example": "A teacher records a short Manx conversation.",
+    "sense_note": null
+  },
+  {
+    "id": "o7rmvt0viw",
+    "definition": "A human language ordinarily written using Devanagari.",
+    "example": "A translator checks a Marathi clinic handout.",
+    "sense_note": null
+  },
+  {
+    "id": "ru39hxzmz4",
+    "definition": "A numerical programming language and environment oriented toward arrays and matrices.",
+    "example": "An engineer plots the frequency spectrum of a signal.",
+    "sense_note": null
+  },
+  {
+    "id": "ra1r1qki9z",
+    "definition": "A family of distinct languages, not one interchangeable language.",
+    "example": "A translator specifies K'iche' rather than asking for an unspecified Mayan translation.",
+    "sense_note": null
+  },
+  {
+    "id": "hg27hw3l2c",
+    "definition": "An XML-based language for defining Windows Media Center interfaces and their behavior.",
+    "example": "A developer describes how an interface element changes when it receives focus.",
+    "sense_note": null
+  },
+  {
+    "id": "fu6nbpzwxr",
+    "definition": "A human language used in written and spoken communication.",
+    "example": "An editor reviews Mizo text in a bilingual guide.",
+    "sense_note": null
+  },
+  {
+    "id": "rec5tl6jmm",
+    "definition": "A human language used in spoken and written communication across multiple script conventions.",
+    "example": "A publisher specifies the intended script for a Mongolian edition.",
+    "sense_note": null
+  },
+  {
+    "id": "obj0g7i1kl",
+    "definition": "A programming language for indicators and automation in MetaTrader 4.",
+    "example": "A developer computes a moving average for display on a price chart.",
+    "sense_note": null
+  },
+  {
+    "id": "ix1yrwrjn5",
+    "definition": "A programming language with integrated persistent hierarchical data storage.",
+    "example": "A maintainer retrieves an application record from a persistent global.",
+    "sense_note": null
+  },
+  {
+    "id": "i3i5khm667",
+    "definition": "An XML-based declarative language for describing interfaces in Apache Flex.",
+    "example": "A developer declares a data-bound list in a Flex interface.",
+    "sense_note": null
+  },
+  {
+    "id": "txklu9fpkw",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm whether the label refers to Northern Ndebele or Southern Ndebele."
+  },
+  {
+    "id": "msc664vu47",
+    "definition": "A human language normally written using Devanagari.",
+    "example": "A translator reviews a Nepali bus timetable.",
+    "sense_note": null
+  },
+  {
+    "id": "sc1h6sf9t5",
+    "definition": "A statically typed compiled programming language with inference and metaprogramming facilities.",
+    "example": "A developer uses a macro to generate repeated parsing code.",
+    "sense_note": null
+  },
+  {
+    "id": "ez2j813g66",
+    "definition": "A human language with Bokmål and Nynorsk written standards.",
+    "example": "An editor prepares a Norwegian brochure in Nynorsk.",
+    "sense_note": null
+  },
+  {
+    "id": "xvxyocp9rg",
+    "definition": "A modular programming language in the Pascal tradition that supports type extension.",
+    "example": "A developer defines an extended record type in an Oberon module.",
+    "sense_note": null
+  },
+  {
+    "id": "iip9ks8y55",
+    "definition": "A language that extends C with object-oriented message passing.",
+    "example": "A developer sends a message to an object in a legacy macOS application.",
+    "sense_note": null
+  },
+  {
+    "id": "rfrqfpigh3",
+    "definition": "A statically typed, functional-first language with algebraic data types and pattern matching.",
+    "example": "A developer matches each possible form of an expression tree.",
+    "sense_note": null
+  },
+  {
+    "id": "x2oth8jb5y",
+    "definition": "A human language written using the Odia script.",
+    "example": "An editor reviews Odia signage for a museum.",
+    "sense_note": null
+  },
+  {
+    "id": "buwx6qk7uh",
+    "definition": "A business application programming language integrated with the OpenEdge platform.",
+    "example": "A developer validates a customer record before storing it.",
+    "sense_note": null
+  },
+  {
+    "id": "yb2gcevjk0",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm the intended Oshiwambo grouping or specific language before drafting."
+  },
+  {
+    "id": "kb3pruwri8",
+    "definition": "A multiparadigm programming language supporting dataflow concurrency and constraint programming.",
+    "example": "A developer models a constraint that limits two events from sharing a time slot.",
+    "sense_note": null
+  },
+  {
+    "id": "wjye9vcd5l",
+    "definition": "A structured programming language with explicit types and procedures.",
+    "example": "A learner uses a record to group student fields.",
+    "sense_note": null
+  },
+  {
+    "id": "qgyuathae3",
+    "definition": "A human language commonly written with an adapted Arabic script.",
+    "example": "A translator checks the Pashto version of an enrollment notice.",
+    "sense_note": null
+  },
+  {
+    "id": "gaqvznkz28",
+    "definition": "A general-purpose scripting language with strong text-processing capabilities.",
+    "example": "An administrator extracts timestamps from log lines using a pattern.",
+    "sense_note": null
+  },
+  {
+    "id": "kubq5ue8ww",
+    "definition": "A human language with regional standards and varieties, including Iranian Persian, Dari, and Tajik.",
+    "example": "A publisher specifies the intended Persian variety before commissioning narration.",
+    "sense_note": null
+  },
+  {
+    "id": "xlftnwk7c1",
+    "definition": "An ancient human language attested in inscriptions using the Phoenician alphabet.",
+    "example": "An epigrapher transliterates a Phoenician inscription.",
+    "sense_note": null
+  },
+  {
+    "id": "n9dorj1s29",
+    "definition": "A general-purpose scripting language commonly used to generate server-side web responses.",
+    "example": "A developer renders a product page using records from a database.",
+    "sense_note": null
+  },
+  {
+    "id": "mp19apjqcy",
+    "definition": "The seventh major generation of PHP, introducing features including scalar parameter and return type declarations.",
+    "example": "A maintainer adds a return type to a PHP 7 function.",
+    "sense_note": null
+  },
+  {
+    "id": "lq4hint316",
+    "definition": "A general-purpose programming language developed for both business and scientific computing.",
+    "example": "A maintainer reads a PL/I program that handles fixed-format business records.",
+    "sense_note": null
+  }
+]

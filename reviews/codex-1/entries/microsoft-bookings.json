@@ -1,0 +1,20 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Microsoft Bookings is a scheduling tool for publishing appointment availability and managing reservations.",
+  "entry_text": "Microsoft Bookings is a scheduling tool for publishing appointment availability and managing reservations.",
+  "entry_text_kind": "definition",
+  "example": "A clinic creates a booking page for consultations that reflects staff availability.",
+  "id": "iv91vx1c9i",
+  "key": "microsoft-bookings",
+  "label": "Microsoft Bookings",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

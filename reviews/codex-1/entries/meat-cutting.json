@@ -1,0 +1,20 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Meat cutting portions and trims meat into specified cuts while maintaining safe handling and product quality.",
+  "entry_text": "Meat cutting portions and trims meat into specified cuts while maintaining safe handling and product quality.",
+  "entry_text_kind": "definition",
+  "example": "A butcher separates a larger cut into evenly sized retail portions.",
+  "id": "s9b2klic4m",
+  "key": "meat-cutting",
+  "label": "Meat cutting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

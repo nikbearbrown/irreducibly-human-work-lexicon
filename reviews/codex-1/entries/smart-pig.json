@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A smart pig is an instrumented device that travels through a pipeline to collect inspection data about its internal condition or geometry.",
+  "entry_text": "A smart pig is an instrumented device that travels through a pipeline to collect inspection data about its internal condition or geometry.",
+  "entry_text_kind": "definition",
+  "example": "A pipeline integrity team reviews inline inspection findings for possible wall thinning.",
+  "id": "m82jna0f8h",
+  "key": "smart-pig",
+  "label": "Smart pig",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Here pig refers to a pipeline inspection device.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

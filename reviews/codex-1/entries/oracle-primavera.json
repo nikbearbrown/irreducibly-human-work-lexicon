@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Oracle Primavera is a family of project management tools used for scheduling, resource planning and project controls.",
+  "entry_text": "Oracle Primavera is a family of project management tools used for scheduling, resource planning and project controls.",
+  "entry_text_kind": "definition",
+  "example": "A project planner uses a schedule to identify construction tasks on the critical path.",
+  "id": "v5s33r7jux",
+  "key": "oracle-primavera",
+  "label": "Oracle Primavera",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

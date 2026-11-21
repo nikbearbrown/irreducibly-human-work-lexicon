@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Attorney-client privilege is a legal protection against compelled disclosure of qualifying confidential communications between a lawyer and a client for the purpose of obtaining or giving legal advice.",
+  "entry_text": "Attorney-client privilege is a legal protection against compelled disclosure of qualifying confidential communications between a lawyer and a client for the purpose of obtaining or giving legal advice.",
+  "entry_text_kind": "definition",
+  "example": "An organization claims privilege over a confidential email to its lawyer requesting advice about a contract dispute.",
+  "id": "dqwhnum5zj",
+  "key": "attorney-client-privilege",
+  "label": "Attorney-client privilege",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Scope and exceptions vary by jurisdiction; not all attorney communications are privileged.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

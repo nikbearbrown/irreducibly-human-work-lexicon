@@ -1,0 +1,20 @@
+{
+  "batch": "skill-024.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A message queue service that lets distributed applications exchange messages asynchronously.",
+  "entry_text": "A message queue service that lets distributed applications exchange messages asynchronously.",
+  "entry_text_kind": "definition",
+  "example": "A web service enqueues a background task for a separate worker to process.",
+  "id": "wi2jt4gwwc",
+  "key": "ironmq",
+  "label": "IronMQ",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

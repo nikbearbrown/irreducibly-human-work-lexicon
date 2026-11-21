@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "OCUnit was a unit-testing framework for Objective-C applications, distributed as part of older Apple development tooling.",
+  "entry_text": "OCUnit was a unit-testing framework for Objective-C applications, distributed as part of older Apple development tooling.",
+  "entry_text_kind": "definition",
+  "example": "A developer used an OCUnit test to check that a parser handled an empty input.",
+  "id": "kar823op4q",
+  "key": "ocunit",
+  "label": "OCUnit",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Distinguish it from its later successor XCTest.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

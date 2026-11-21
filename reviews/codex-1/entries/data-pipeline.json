@@ -1,0 +1,28 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A data pipeline is a sequence of connected processes that moves data between systems and may validate, transform, or enrich it along the way.",
+  "entry_text": "A data pipeline is a sequence of connected processes that moves data between systems and may validate, transform, or enrich it along the way.",
+  "entry_text_kind": "definition",
+  "example": "A scheduled pipeline reads new records, standardizes dates, and writes validated data to an analytics table.",
+  "id": "afiw0lkbic",
+  "key": "data-pipeline",
+  "label": "Data pipeline",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "afiw0lkbic",
+      "note": "The guide supports linked activities for movement, validation and transformation, including enrichment by transformation. Prefer a connected workflow of processes over a sequence if the latter reads as necessarily linear: activities may branch, loop or run in parallel.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

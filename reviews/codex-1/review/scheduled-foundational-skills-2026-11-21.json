@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sadiccf9ey",
+    "result": "supports",
+    "ref": "https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/dags.html",
+    "note": "The project guide documents schedule, explicit and asset-triggered runs, and acyclic task dependencies. Airflow coordinates task execution rather than prescribing what happens inside each task."
+  },
+  {
+    "id": "odz2egqfxy",
+    "result": "supports",
+    "ref": "https://beam.apache.org/documentation/basics/",
+    "note": "Beam documents one data-parallel programming model for bounded and unbounded collections and describes runners executing pipelines on their chosen processing engines. Runner capabilities can differ."
+  },
+  {
+    "id": "f2p6p58eru",
+    "result": "supports",
+    "ref": "https://cassandra.apache.org/doc/stable/cassandra/architecture/overview.html",
+    "note": "Cassandra documents a partitioned wide-column model deployed across cluster nodes, with architecture intended for large storage footprints and query workloads. This is a wide-column store, not a columnar analytics file format."
+  },
+  {
+    "id": "byo5hfwztp",
+    "result": "supports",
+    "ref": "https://jena.apache.org/about_jena/about.html",
+    "note": "The project describes a Java framework for Semantic Web applications, with libraries for RDF and SPARQL and several RDF triple storage options."
+  },
+  {
+    "id": "xf20rnp68i",
+    "result": "supports",
+    "ref": "https://nifi.apache.org/docs/nifi-docs/html/overview.html",
+    "note": "The project describes automated data flows across systems, a web-based command and control interface, and processors that handle routing or transformation."
+  },
+  {
+    "id": "zl7ti25hhx",
+    "result": "supports",
+    "ref": "https://spark.apache.org/",
+    "note": "Spark lists batch and streaming processing, distributed SQL analytics, large-scale exploratory analysis, and cluster execution for machine-learning workloads. These substantiate the generic engine description without a performance guarantee."
+  },
+  {
+    "id": "k3hb2jqpwb",
+    "result": "supports",
+    "ref": "https://tinkerpop.apache.org/docs/current/reference/#graph-computing",
+    "note": "The reference describes common structure and process APIs and identifies Gremlin as the traversal API. Its graph provider interfaces do not imply uniform support for provider-specific features."
+  },
+  {
+    "id": "pgwo2h5tp6",
+    "result": "supports",
+    "ref": "https://docs.oracle.com/database/sql-developer-data-modeler-18.1/DMDUG/data-modeler-concepts-usage.htm",
+    "note": "Oracle documents designing logical, relational, and physical data models, with explicit entities, attributes, identifiers, and relations; this is a first-party tool example rather than a restriction to Oracle or relational design."
+  },
+  {
+    "id": "afiw0lkbic",
+    "result": "partial",
+    "ref": "https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities",
+    "note": "The guide supports linked activities for movement, validation and transformation, including enrichment by transformation. Prefer a connected workflow of processes over a sequence if the latter reads as necessarily linear: activities may branch, loop or run in parallel."
+  },
+  {
+    "id": "sh6x1wmacn",
+    "result": "supports",
+    "ref": "https://www.postgresql.org/about/",
+    "note": "The project documents open-source SQL, transactions and extensibility through custom types, functions and extensions. Object-relational is the project’s more specific classification; relational is accurate at this level."
+  }
+]

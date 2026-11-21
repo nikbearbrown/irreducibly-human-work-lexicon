@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Nationwide Multistate Licensing System provides infrastructure for managing licenses and registrations in participating financial services jurisdictions.",
+  "entry_text": "The Nationwide Multistate Licensing System provides infrastructure for managing licenses and registrations in participating financial services jurisdictions.",
+  "entry_text_kind": "definition",
+  "example": "A mortgage company submits an application and tracks required filings through the system.",
+  "id": "e8vb2pds5k",
+  "key": "nationwide-multistate-licensing-system",
+  "label": "Nationwide Multistate Licensing System",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

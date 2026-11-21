@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "irtfh3ohap",
+    "key": "oclc-connexion",
+    "label": "OCLC Connexion",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kar823op4q",
+    "key": "ocunit",
+    "label": "OCUnit",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "laj0x3ly5s",
+    "key": "office-365",
+    "label": "Office 365",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "irfesqk54c",
+    "key": "office-and-productivity-software",
+    "label": "Office and productivity software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u2eflwksth",
+    "key": "omniorb",
+    "label": "omniORB",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wpr4u9kwwe",
+    "key": "on1",
+    "label": "ON1",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q57gehopyn",
+    "key": "onboarding",
+    "label": "Onboarding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nef5zcgpal",
+    "key": "oncology-sales",
+    "label": "Oncology sales",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "linm739g4u",
+    "key": "onetrust",
+    "label": "OneTrust",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x4z2f6ku0u",
+    "key": "online-demonstration",
+    "label": "Online demonstration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d0tkhctyzs",
+    "key": "onshape",
+    "label": "Onshape",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "smc60649db",
+    "key": "open-shortest-path-first",
+    "label": "Open Shortest Path First",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u301ax2wc3",
+    "key": "openapi-specification",
+    "label": "OpenAPI Specification",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h78dt70dh7",
+    "key": "opencart",
+    "label": "OpenCart",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ubsss849kl",
+    "key": "opendaylight",
+    "label": "OpenDaylight",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u5bccdfqq7",
+    "key": "openni",
+    "label": "OpenNI",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qk6veojyxg",
+    "key": "openstreetmap",
+    "label": "OpenStreetMap",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ej5umhxvn3",
+    "key": "opentok",
+    "label": "OpenTok",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u2u4n7azpr",
+    "key": "opentsdb",
+    "label": "OpenTSDB",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jq9pnw9x8r",
+    "key": "operational-risk-mitigation",
+    "label": "Operational risk mitigation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "taiw4yzkww",
+    "key": "operationalizing-ai",
+    "label": "Operationalizing AI",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y2ac1u5au7",
+    "key": "operations-analytics",
+    "label": "Operations analytics",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s5x2ee25w1",
+    "key": "ophthalmic-surgical-assisting",
+    "label": "Ophthalmic surgical assisting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zgpnyz7ovy",
+    "key": "optical-power-meter",
+    "label": "Optical power meter",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dc8i8zjfh6",
+    "key": "optimization-software",
+    "label": "Optimization software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dsdxprkja5",
+    "key": "optitex",
+    "label": "Optitex",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n0orcd73zf",
+    "key": "oracle-advanced-queuing",
+    "label": "Oracle Advanced Queuing",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b16607shyo",
+    "key": "oracle-application-framework",
+    "label": "Oracle Application Framework",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dy5sokpl37",
+    "key": "oracle-application-integration-architecture",
+    "label": "Oracle Application Integration Architecture",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "udwrwe8lcv",
+    "key": "oracle-autonomous-database",
+    "label": "Oracle Autonomous Database",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "umdr4omocc",
+    "key": "oracle-bi-answers",
+    "label": "Oracle BI Answers",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gmljzz3xfe",
+    "key": "oracle-business-activity-monitoring",
+    "label": "Oracle Business Activity Monitoring",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ttuunjpl3o",
+    "key": "oracle-clinical",
+    "label": "Oracle Clinical",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "csn6j85j5r",
+    "key": "oracle-cloud",
+    "label": "Oracle Cloud",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p4ka2pamq6",
+    "key": "oracle-eu-sovereign-cloud",
+    "label": "Oracle EU Sovereign Cloud",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k183yku86c",
+    "key": "oracle-fixed-assets",
+    "label": "Oracle Fixed Assets",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w7c7jyyh5v",
+    "key": "oracle-goldengate",
+    "label": "Oracle GoldenGate",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zlbi0on717",
+    "key": "oracle-hrms",
+    "label": "Oracle HRMS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gpy3o9v8ox",
+    "key": "oracle-olap",
+    "label": "Oracle OLAP",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v5s33r7jux",
+    "key": "oracle-primavera",
+    "label": "Oracle Primavera",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

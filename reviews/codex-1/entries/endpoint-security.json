@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Protecting endpoint devices and their data against unauthorized access and harmful activity.",
+  "entry_text": "Protecting endpoint devices and their data against unauthorized access and harmful activity.",
+  "entry_text_kind": "definition",
+  "example": "An IT team requires disk encryption and reviews endpoint protection alerts.",
+  "id": "sshjgtnr54",
+  "key": "endpoint-security",
+  "label": "Endpoint security",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

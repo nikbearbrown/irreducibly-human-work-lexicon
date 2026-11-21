@@ -1,0 +1,31 @@
+{
+  "batch": "language-008.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Walloon (ISO 639-3: wln) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Walloon",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "wall1255",
+    "iso639_3": "wln",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/wall1255"
+  },
+  "definition": "A Romance language used in oral and written communication, distinct from French.",
+  "entry_text": "A Romance language used in oral and written communication, distinct from French.",
+  "entry_text_kind": "definition",
+  "example": "An editor checks a Walloon dialogue for a language lesson.",
+  "id": "gk2xuq5g9g",
+  "key": "walloon",
+  "label": "Walloon",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

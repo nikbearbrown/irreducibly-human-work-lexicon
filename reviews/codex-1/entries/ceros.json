@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Ceros is a platform for creating and publishing interactive digital content through visual authoring tools.",
+  "entry_text": "Ceros is a platform for creating and publishing interactive digital content through visual authoring tools.",
+  "entry_text_kind": "definition",
+  "example": "A design team publishes a web report with interactive illustrations and animated sections.",
+  "id": "tplmkvcg50",
+  "key": "ceros",
+  "label": "Ceros",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

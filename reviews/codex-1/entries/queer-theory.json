@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-011.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Queer theory examines how norms and institutions shape categories of sexuality and gender and how those categories are challenged.",
+  "entry_text": "Queer theory examines how norms and institutions shape categories of sexuality and gender and how those categories are challenged.",
+  "entry_text_kind": "definition",
+  "example": "A scholar analyzes how a film presents some relationships as ordinary and others as departures from a norm.",
+  "id": "eo1aypur0p",
+  "key": "queer-theory",
+  "label": "Queer theory",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

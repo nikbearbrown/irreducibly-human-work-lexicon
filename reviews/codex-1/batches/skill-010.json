@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "nui4j6jtfw",
+    "key": "common-criteria",
+    "label": "Common Criteria",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x1qzxo9lhl",
+    "key": "common-language-specification",
+    "label": "Common Language Specification",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xffmlbo46l",
+    "key": "commonjs",
+    "label": "CommonJS",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "emumq0l8k3",
+    "key": "communication-software",
+    "label": "Communication software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gisypzf6gf",
+    "key": "communication",
+    "label": "Communication",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iaqjm89hh8",
+    "key": "community-advocacy",
+    "label": "Community advocacy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h2ucxi6cxx",
+    "key": "compiler-development",
+    "label": "Compiler development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x5fnpmr8pm",
+    "key": "complaint-investigation",
+    "label": "Complaint investigation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qbsb11tob5",
+    "key": "compliance-risk-management",
+    "label": "Compliance risk management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z7pthyhl09",
+    "key": "compliance-testing",
+    "label": "Compliance testing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ce7a1varzj",
+    "key": "componentone",
+    "label": "ComponentOne",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a280j1jdn5",
+    "key": "composite-pattern",
+    "label": "Composite pattern",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gy9xxt2ynh",
+    "key": "computational-design",
+    "label": "Computational design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gm2dej8qg7",
+    "key": "computer-assisted-audit-tools-and-techniques-caatts",
+    "label": "Computer-assisted audit tools and techniques (CAATTs)",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ymw59zes79",
+    "key": "computer-assisted-qualitative-data-analysis-software-caqdas",
+    "label": "Computer-assisted qualitative data analysis software (CAQDAS)",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y3qmoa1mq7",
+    "key": "computer-fraud-and-abuse-act",
+    "label": "Computer Fraud and Abuse Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wg711705d4",
+    "key": "computerized-system-validation",
+    "label": "Computerized system validation",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jakzhha1se",
+    "key": "computerrx",
+    "label": "ComputerRx",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y8wzz8ajez",
+    "key": "concision",
+    "label": "Concision",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lw1jzfzyrg",
+    "key": "concourse-ci",
+    "label": "Concourse CI",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kokyt30fzy",
+    "key": "concurrent-engineering",
+    "label": "Concurrent engineering",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hoqqec103u",
+    "key": "conducting-tours",
+    "label": "Conducting tours",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dgq5x6xu5o",
+    "key": "cone-penetration-testing",
+    "label": "Cone penetration testing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jdli0jm4dm",
+    "key": "confirmit",
+    "label": "Confirmit",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oklx1sjqa6",
+    "key": "conflict-catcher",
+    "label": "Conflict Catcher",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z18o5yhzlt",
+    "key": "confluent",
+    "label": "Confluent",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wxi91cbd19",
+    "key": "confocal-microscopy",
+    "label": "Confocal microscopy",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "od1b6mmloc",
+    "key": "consensus-decision-making",
+    "label": "Consensus decision-making",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yefg9c7faq",
+    "key": "constant-contact",
+    "label": "Constant Contact",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rr6mhwi027",
+    "key": "constituent-relationship-management",
+    "label": "Constituent relationship management",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wno5qba6p7",
+    "key": "constraintlayout",
+    "label": "ConstraintLayout",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mpcx38veci",
+    "key": "construct-game-engine",
+    "label": "Construct (game engine)",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hi05l4ukjq",
+    "key": "constructing-dental-study-casts",
+    "label": "Constructing dental study casts",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fhv5v1nste",
+    "key": "construction-management-software",
+    "label": "Construction management software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k2u2agjae6",
+    "key": "consumer-engagement",
+    "label": "Consumer engagement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "amwmjfk4wl",
+    "key": "contact-management-software",
+    "label": "Contact management software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hszza7p355",
+    "key": "contact-tracing",
+    "label": "Contact tracing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ipfsxmf9ys",
+    "key": "content-curation",
+    "label": "Content curation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eecearu52w",
+    "key": "contingency-planning",
+    "label": "Contingency planning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "czkj22lvig",
+    "key": "continued-process-verification",
+    "label": "Continued process verification",
+    "onet_codes": [],
+    "original_kind": "method"
+  }
+]

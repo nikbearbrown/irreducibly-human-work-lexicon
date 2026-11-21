@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An open-source web crawler designed to collect web content for preservation and archival use.",
+  "entry_text": "An open-source web crawler designed to collect web content for preservation and archival use.",
+  "entry_text_kind": "definition",
+  "example": "An archive uses Heritrix to preserve a public website within an approved collection scope.",
+  "id": "t9z644dgwl",
+  "key": "heritrix",
+  "label": "Heritrix",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

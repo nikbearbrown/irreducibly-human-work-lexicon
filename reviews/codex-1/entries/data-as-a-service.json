@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Data as a Service delivers datasets to consumers through a managed network interface or feed rather than requiring each consumer to collect and maintain the data.",
+  "entry_text": "Data as a Service delivers datasets to consumers through a managed network interface or feed rather than requiring each consumer to collect and maintain the data.",
+  "entry_text_kind": "definition",
+  "example": "A transit dashboard retrieves a provider's regularly updated ridership data through a subscription interface.",
+  "id": "xb17x3c064",
+  "key": "data-as-a-service",
+  "label": "Data as a Service",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

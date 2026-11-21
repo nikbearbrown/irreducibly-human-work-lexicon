@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "C-CURE is a physical security platform for access control and monitoring security events in buildings.",
+  "entry_text": "C-CURE is a physical security platform for access control and monitoring security events in buildings.",
+  "entry_text_kind": "definition",
+  "example": "A facilities operator adjusts authorized access for a restricted office area.",
+  "id": "fmcata2l10",
+  "key": "c-cure",
+  "label": "C-CURE",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The name can refer to several related product generations.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

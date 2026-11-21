@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A low-code development platform enables applications or workflows to be assembled using visual tools, reusable components and limited custom code.",
+  "entry_text": "A low-code development platform enables applications or workflows to be assembled using visual tools, reusable components and limited custom code.",
+  "entry_text_kind": "definition",
+  "example": "A business team uses a visual builder to create a request form and approval process.",
+  "id": "izg9ttrmk4",
+  "key": "low-code-development-platform",
+  "label": "Low-code development platform",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}
