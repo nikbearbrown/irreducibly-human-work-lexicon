@@ -1,0 +1,28 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "BACnet is a communication protocol for exchanging data among building automation and control systems.",
+  "entry_text": "BACnet is a communication protocol for exchanging data among building automation and control systems.",
+  "entry_text_kind": "definition",
+  "example": "A facilities dashboard reads room temperatures from compatible heating and ventilation controllers.",
+  "id": "pabpxn4ry1",
+  "key": "bacnet",
+  "label": "BACnet",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "pabpxn4ry1",
+      "note": "The ASHRAE committee describes the protocol’s data, command and status exchanges among building automation devices and explicitly includes HVAC.",
+      "packet": "worker-technical-skills.json",
+      "ref": "https://bacnet.org/about-bacnet-standard/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

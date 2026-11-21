@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Pathlore refers to learning management software used to administer training, enrollment and progress records.",
+  "entry_text": "Pathlore refers to learning management software used to administer training, enrollment and progress records.",
+  "entry_text_kind": "definition",
+  "example": "A training administrator assigns employees to a course and checks completion.",
+  "id": "r9w5fxlhk3",
+  "key": "pathlore",
+  "label": "Pathlore",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Legacy product label; confirm the exact edition before claiming features beyond learning management.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

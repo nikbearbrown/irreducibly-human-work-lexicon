@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A truck with a flat, open cargo platform suited to freight that may be loaded from the sides or above.",
+  "entry_text": "A truck with a flat, open cargo platform suited to freight that may be loaded from the sides or above.",
+  "entry_text_kind": "definition",
+  "example": "A carrier transports strapped construction materials on a flatbed truck.",
+  "id": "n6kpgpt2fz",
+  "key": "flatbed-truck",
+  "label": "Flatbed truck",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

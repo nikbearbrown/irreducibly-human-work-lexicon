@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apple Numbers is a spreadsheet application for working with tables, formulas, and charts on Apple platforms.",
+  "entry_text": "Apple Numbers is a spreadsheet application for working with tables, formulas, and charts on Apple platforms.",
+  "entry_text_kind": "definition",
+  "example": "A household builds a monthly spending sheet with a chart that updates as entries change.",
+  "id": "wpx23envkg",
+  "key": "apple-numbers",
+  "label": "Apple Numbers",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

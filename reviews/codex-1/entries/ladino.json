@@ -1,0 +1,41 @@
+{
+  "batch": "language-004.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Ladino (ISO 639-3: lad) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Ladino",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "ladi1251",
+    "iso639_3": "lad",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/ladi1251"
+  },
+  "definition": null,
+  "entry_text": "Catalog Ladino [lad] is the Judeo-Spanish candidate, not proof that a bare label refers to that sense.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "d848216rx6",
+  "key": "ladino",
+  "label": "Ladino",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm that Ladino means the Judeo-Spanish language rather than another sense.",
+  "sense_proposal": {
+    "ambiguity_note": "Catalog Ladino [lad] is the Judeo-Spanish candidate, not proof that a bare label refers to that sense.",
+    "id": "d848216rx6",
+    "label": "Ladino",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/ladi1251",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

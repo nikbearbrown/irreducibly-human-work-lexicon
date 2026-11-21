@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "CryEngine is a game engine and authoring environment for building and running interactive three-dimensional applications.",
+  "entry_text": "CryEngine is a game engine and authoring environment for building and running interactive three-dimensional applications.",
+  "entry_text_kind": "definition",
+  "example": "A game team assembles terrain, lighting, and gameplay objects in a test level.",
+  "id": "f4zabtnnc2",
+  "key": "cryengine",
+  "label": "CryEngine",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

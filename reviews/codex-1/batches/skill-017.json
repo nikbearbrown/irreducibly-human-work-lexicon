@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "j9h80du45m",
+    "key": "epinephrine-administration",
+    "label": "Epinephrine administration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j6lwkq5kwl",
+    "key": "equipment-design",
+    "label": "Equipment design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ctuf7ymnjc",
+    "key": "equipment-engineering",
+    "label": "Equipment engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oiowbvir6p",
+    "key": "ergonomic-assessment",
+    "label": "Ergonomic assessment",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t7wrep17u6",
+    "key": "erwin-data-modeler",
+    "label": "erwin Data Modeler",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nohrtfqkb7",
+    "key": "esg-analysis",
+    "label": "ESG analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "prkfpz7o8w",
+    "key": "esker",
+    "label": "Esker",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eg3xtq24wx",
+    "key": "esports-management",
+    "label": "Esports management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d5pgaqwsxl",
+    "key": "esports-marketing",
+    "label": "Esports marketing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eub20prvvq",
+    "key": "estate-valuation",
+    "label": "Estate valuation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pfrqi7iiw7",
+    "key": "event-sponsorship",
+    "label": "Event sponsorship",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zm7sxsrys1",
+    "key": "evidence-collection",
+    "label": "Evidence collection",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "veknequ9pu",
+    "key": "examination-of-legal-documents",
+    "label": "Examination of legal documents",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "shmkvde2bg",
+    "key": "excel-pivottables-and-pivotcharts",
+    "label": "Excel PivotTables and PivotCharts",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fzmto408su",
+    "key": "excel-pivottables",
+    "label": "Excel PivotTables",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jk0b68hkct",
+    "key": "excision-of-skin-lesions",
+    "label": "Excision of skin lesions",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uxc5mcnmd3",
+    "key": "executive-presentations",
+    "label": "Executive presentations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uqjw14p9ev",
+    "key": "executive-protection",
+    "label": "Executive protection",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qq55sjjp3e",
+    "key": "executive-relationship-management",
+    "label": "Executive relationship management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bdzgbz9dry",
+    "key": "executive-search",
+    "label": "Executive search",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jfngdt55mz",
+    "key": "experiential-marketing",
+    "label": "Experiential marketing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fdlki9ovdk",
+    "key": "explosive-detection",
+    "label": "Explosive detection",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ypam152p4c",
+    "key": "explosives-detection-and-disposal",
+    "label": "Explosives detection and disposal",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pl9ucmohz5",
+    "key": "express-js",
+    "label": "Express.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "quabg9izgu",
+    "key": "extensive-reading",
+    "label": "Extensive reading",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n8ihj4als1",
+    "key": "external-stakeholder-management",
+    "label": "External stakeholder management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d9sq04v2o1",
+    "key": "extract-transform-load",
+    "label": "Extract, transform, load",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lvlyhbur7j",
+    "key": "facebook-advertising",
+    "label": "Facebook advertising",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v313jsqx2s",
+    "key": "facebook-marketing",
+    "label": "Facebook marketing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zi1e5ob8r0",
+    "key": "facebook",
+    "label": "Facebook",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xghgcqr6jy",
+    "key": "facility-maintenance",
+    "label": "Facility maintenance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i5akb8g29i",
+    "key": "failure-mode-and-effects-analysis",
+    "label": "Failure mode and effects analysis",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g0mmhmhuoe",
+    "key": "fair-employment-and-housing-act",
+    "label": "Fair Employment and Housing Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wrzt29u98s",
+    "key": "family-engagement",
+    "label": "Family engagement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pu8rwr7u2b",
+    "key": "farm-implements",
+    "label": "Farm implements",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "varb8cbvw3",
+    "key": "farm-management",
+    "label": "Farm management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xt7cxxzjcc",
+    "key": "fas-109",
+    "label": "FAS 109",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cynf8kt39j",
+    "key": "fast-esp",
+    "label": "FAST ESP",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i740drj12f",
+    "key": "fastai",
+    "label": "fastai",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ojwz0qfs5f",
+    "key": "fgdc-standards",
+    "label": "FGDC Standards",
+    "onet_codes": [],
+    "original_kind": "standard"
+  }
+]

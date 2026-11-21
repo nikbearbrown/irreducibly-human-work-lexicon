@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Photo retouching makes targeted corrections or enhancements to a photograph while maintaining the desired appearance and fidelity.",
+  "entry_text": "Photo retouching makes targeted corrections or enhancements to a photograph while maintaining the desired appearance and fidelity.",
+  "entry_text_kind": "definition",
+  "example": "An editor removes scanner dust without altering the image's subject.",
+  "id": "sul2js0p68",
+  "key": "photo-retouching",
+  "label": "Photo retouching",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

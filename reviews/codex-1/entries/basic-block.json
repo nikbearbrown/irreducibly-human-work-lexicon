@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A basic block is a maximal sequence of machine or intermediate instructions entered at the beginning and executed in order until control leaves at the end.",
+  "entry_text": "A basic block is a maximal sequence of machine or intermediate instructions entered at the beginning and executed in order until control leaves at the end.",
+  "entry_text_kind": "definition",
+  "example": "A compiler treats the instructions between a branch target and a conditional jump as a unit during optimization.",
+  "id": "u8jwh1zpt8",
+  "key": "basic-block",
+  "label": "Basic block",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

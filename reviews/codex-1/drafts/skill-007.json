@@ -1,0 +1,242 @@
+[
+  {
+    "id": "iglalrig47",
+    "definition": "Box Backup is software for backing up files to a remote server and restoring them later.",
+    "example": "An administrator uses a test restoration to confirm that archived files can be recovered.",
+    "sense_note": "This is the backup tool named Box Backup, not a general reference to backups in the Box cloud platform."
+  },
+  {
+    "id": "ii8017l1zt",
+    "definition": "Brand communication expresses a brand’s identity and promises through messages and interactions across channels.",
+    "example": "A service organization uses the same promise and tone in its website and customer emails.",
+    "sense_note": null
+  },
+  {
+    "id": "li5t3yuk17",
+    "definition": "Brand strategy defines the audience, positioning, and priorities that guide how an organization builds and manages its brand.",
+    "example": "A company chooses to emphasize reliability rather than low price in its product and communications decisions.",
+    "sense_note": null
+  },
+  {
+    "id": "gxe2qfkmua",
+    "definition": "Branding creates and maintains a recognizable identity and a coherent set of associations for an offering or organization.",
+    "example": "A nonprofit applies consistent naming, visuals, and language across materials and events.",
+    "sense_note": null
+  },
+  {
+    "id": "oz39xhtj91",
+    "definition": "Brand positioning defines the distinctive place a brand seeks to hold in a target audience’s mind relative to alternatives.",
+    "example": "A bicycle maker positions its commuter model around easy maintenance instead of racing speed.",
+    "sense_note": null
+  },
+  {
+    "id": "ip67ypemwd",
+    "definition": "Breeze.js is a JavaScript library for managing client-side data entities, queries, caching, and tracked changes.",
+    "example": "A business application edits related customer records locally before saving them to a server.",
+    "sense_note": null
+  },
+  {
+    "id": "l39uixm3x0",
+    "definition": "Bridal consulting advises clients on wedding choices and can coordinate selected elements of planning and preparation.",
+    "example": "A consultant helps a couple choose among vendors within their budget.",
+    "sense_note": null
+  },
+  {
+    "id": "jbpt5fyziw",
+    "definition": "Brightway is an open-source framework for life-cycle assessment that models resource use and environmental impacts across supply chains.",
+    "example": "An analyst compares modeled emissions from two packaging systems using documented inventory datasets.",
+    "sense_note": null
+  },
+  {
+    "id": "kcp0rea4hd",
+    "definition": "Broadcast programming selects and schedules content for distribution through a television, radio, or comparable broadcast service.",
+    "example": "A scheduler places a local news program before a sports broadcast while meeting timing constraints.",
+    "sense_note": null
+  },
+  {
+    "id": "eakf49x3b5",
+    "definition": "Browzwear is a set of digital apparel tools for designing, simulating, and reviewing three-dimensional garments.",
+    "example": "A designer checks how a jacket pattern drapes on a virtual fit model before ordering a sample.",
+    "sense_note": null
+  },
+  {
+    "id": "gb10qwtibo",
+    "definition": "Brute-force search systematically checks candidate solutions without relying on a problem-specific shortcut to restrict the search.",
+    "example": "A small puzzle solver tests every permitted arrangement to confirm whether one satisfies the clues.",
+    "sense_note": null
+  },
+  {
+    "id": "r9xjud7e04",
+    "definition": "Btrieve is an indexed record-management system that lets software store and retrieve records through keys.",
+    "example": "A maintainer retrieves an invoice directly using its index key in a legacy application.",
+    "sense_note": null
+  },
+  {
+    "id": "tqx9jexzw3",
+    "definition": "Budtending is customer service in regulated cannabis retail, including explaining products and following sales controls.",
+    "example": "A retail worker explains label information and checks the purchaser’s eligibility under store procedures.",
+    "sense_note": null
+  },
+  {
+    "id": "ve6il0e4wg",
+    "definition": "Bug tracking systems record, prioritize, assign, and track software defects through investigation and resolution.",
+    "example": "A tester files a reproducible defect and links it to the fix and verification result.",
+    "sense_note": null
+  },
+  {
+    "id": "l0jwqadljy",
+    "definition": "Building crates and skids constructs protective or load-bearing shipping structures suited to the weight and dimensions of goods.",
+    "example": "A shop assembles a supported shipping base and crate for a fragile machine.",
+    "sense_note": null
+  },
+  {
+    "id": "m5flp85x9u",
+    "definition": "Bullet Physics is a library for simulating collisions and physical motion of objects in three-dimensional scenes.",
+    "example": "A game developer uses it to make fallen crates collide and settle on a floor.",
+    "sense_note": null
+  },
+  {
+    "id": "vousuoqkg0",
+    "definition": "Bulma is a CSS framework that supplies reusable classes for responsive layouts and interface components.",
+    "example": "A developer makes a row of cards stack vertically on narrow displays.",
+    "sense_note": null
+  },
+  {
+    "id": "riykr0t033",
+    "definition": "A burndown chart plots remaining planned work against time to show how completion is progressing.",
+    "example": "A team spots that several tasks remain unchanged as the iteration deadline approaches.",
+    "sense_note": null
+  },
+  {
+    "id": "wyr81cjqol",
+    "definition": "Business excellence is a management approach to improving performance through systematic assessment, feedback, and sustained improvement.",
+    "example": "An organization assesses its service quality and selects process changes based on the findings.",
+    "sense_note": null
+  },
+  {
+    "id": "ynlpt6x7jh",
+    "definition": "Business integration software connects applications or data sources to exchange information and coordinate processes.",
+    "example": "An integration passes completed orders from an online store to a warehouse system.",
+    "sense_note": null
+  },
+  {
+    "id": "b2n6djrqyw",
+    "definition": "Business process analysis studies how work currently flows and identifies sources of delay, error, cost, or duplication.",
+    "example": "An analyst maps a purchase approval process and finds where requests are entered twice.",
+    "sense_note": null
+  },
+  {
+    "id": "uoxx4n4fl1",
+    "definition": "Butchering prepares meat by breaking it down, trimming it, and portioning it into usable cuts.",
+    "example": "A butcher portions a larger cut to meet a store’s weight and quality specifications.",
+    "sense_note": null
+  },
+  {
+    "id": "m9p6unthvm",
+    "definition": "Butter Knife is an Android library that generates binding code from annotations connecting views and callbacks to application code.",
+    "example": "A maintainer traces how a legacy screen binds its save button to a handler.",
+    "sense_note": null
+  },
+  {
+    "id": "lf4govmv8z",
+    "definition": "bzip2 is a lossless compression utility and format for reducing the size of files.",
+    "example": "An archivist compresses a plain-text log and later recovers the original bytes.",
+    "sense_note": null
+  },
+  {
+    "id": "fmcata2l10",
+    "definition": "C-CURE is a physical security platform for access control and monitoring security events in buildings.",
+    "example": "A facilities operator adjusts authorized access for a restricted office area.",
+    "sense_note": "The name can refer to several related product generations."
+  },
+  {
+    "id": "mxeo9yp33x",
+    "definition": "C3.js is a JavaScript library that builds interactive charts on top of D3.",
+    "example": "A developer displays monthly sales as a line chart with hover labels.",
+    "sense_note": null
+  },
+  {
+    "id": "tc9h7860sa",
+    "definition": "Cable splicing joins compatible electrical or fiber-optic conductors while maintaining their required insulation, protection, and signal continuity.",
+    "example": "A qualified technician joins two fiber sections and checks the resulting signal loss.",
+    "sense_note": null
+  },
+  {
+    "id": "rzrebn0fyg",
+    "definition": "cAdvisor collects resource usage and performance statistics from running containers.",
+    "example": "An operator compares CPU and memory usage across containers on a host.",
+    "sense_note": null
+  },
+  {
+    "id": "ewrib5426u",
+    "definition": "A caesarean section is a surgical procedure for delivering a baby through incisions in the abdomen and uterus.",
+    "example": "A qualified care team plans a caesarean delivery when a vaginal delivery would pose unacceptable risks.",
+    "sense_note": null
+  },
+  {
+    "id": "ghio6iv10b",
+    "definition": "Caffe is a deep-learning framework for defining, training, and running neural-network models.",
+    "example": "A researcher reproduces an older image-classification experiment from its Caffe model definition.",
+    "sense_note": null
+  },
+  {
+    "id": "eybhkh58b4",
+    "definition": "Caffe2 is a deep-learning framework designed to run neural-network training or inference workloads across different deployment environments.",
+    "example": "An engineer inspects an archived mobile inference workflow built with Caffe2.",
+    "sense_note": "This is a separate framework from the original Caffe."
+  },
+  {
+    "id": "ewju5724wx",
+    "definition": "Cairngorm was an application architecture framework for structuring software written in Adobe Flex.",
+    "example": "A maintainer traces how a legacy Flex app dispatches commands in response to interface events.",
+    "sense_note": null
+  },
+  {
+    "id": "q6fnn8m7no",
+    "definition": "Cakewalk is a digital audio workstation lineage for recording, arranging, editing, and mixing music.",
+    "example": "A musician edits MIDI notes and balances recorded tracks in a mix.",
+    "sense_note": "The label could also refer to a software publisher or historical products under that name."
+  },
+  {
+    "id": "fr456cdv5u",
+    "definition": "Probability calibration measures or adjusts whether predicted probabilities correspond to observed outcome frequencies.",
+    "example": "A model evaluator checks whether events forecast at roughly 70 percent actually occur about 70 percent of the time.",
+    "sense_note": null
+  },
+  {
+    "id": "nz84281zw5",
+    "definition": "Call admission control protects service quality by deciding whether the network can accept a new call with its available capacity.",
+    "example": "A network declines a new voice session when it would exceed the bandwidth budget.",
+    "sense_note": null
+  },
+  {
+    "id": "q3yppj692g",
+    "definition": "Calyx Point is mortgage loan origination software for recording applications and managing related workflow and documentation.",
+    "example": "A loan processor checks the completion status of an applicant’s required documents.",
+    "sense_note": null
+  },
+  {
+    "id": "z2efy6mlnz",
+    "definition": "Camera calibration estimates how a camera projects real-world points into images, including parameters such as focal length and lens distortion.",
+    "example": "A vision engineer uses images of known reference points to estimate distortion before measuring parts.",
+    "sense_note": null
+  },
+  {
+    "id": "y4l5qyufug",
+    "definition": "CANape is Vector software for measuring and calibrating the behavior of electronic control units.",
+    "example": "A validation engineer logs controller readings and compares them with reference measurements.",
+    "sense_note": null
+  },
+  {
+    "id": "cjf4u4r4e1",
+    "definition": "CanCan was a Ruby on Rails authorization library for defining what actions users may perform on application resources.",
+    "example": "A developer allows ordinary users to read records but reserves editing for authorized staff.",
+    "sense_note": "The later maintained fork is CanCanCan; do not assume the label refers to that fork."
+  },
+  {
+    "id": "bh53jfisdj",
+    "definition": "Candidate sourcing identifies and engages people who may be suitable for an open or anticipated role.",
+    "example": "A recruiter builds a shortlist of potential candidates using the role’s required skills and experience.",
+    "sense_note": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Allyship is the practice of using one’s position and actions to support people facing exclusion or unequal treatment.",
+  "entry_text": "Allyship is the practice of using one’s position and actions to support people facing exclusion or unequal treatment.",
+  "entry_text_kind": "definition",
+  "example": "A meeting facilitator credits an overlooked colleague’s proposal and makes space for them to explain it.",
+  "id": "q9sf1w77ej",
+  "key": "allyship",
+  "label": "Allyship",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Website optimization improves measured website performance or outcomes by diagnosing issues and testing changes.",
+  "entry_text": "Website optimization improves measured website performance or outcomes by diagnosing issues and testing changes.",
+  "entry_text_kind": "definition",
+  "example": "A team compresses large images to reduce page load time.",
+  "id": "i8582a4ibj",
+  "key": "website-optimization",
+  "label": "Website optimization",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The goal may be speed, accessibility, conversion or another measurable outcome.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

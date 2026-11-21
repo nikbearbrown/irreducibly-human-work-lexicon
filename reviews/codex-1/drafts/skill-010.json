@@ -1,0 +1,242 @@
+[
+  {
+    "id": "nui4j6jtfw",
+    "definition": "Common Criteria is a framework for specifying security requirements and evaluating information technology products against them.",
+    "example": "A procurement team reads a product’s evaluation report to understand the assessed configuration and scope.",
+    "sense_note": null
+  },
+  {
+    "id": "x1qzxo9lhl",
+    "definition": "The Common Language Specification defines a subset of .NET language features that libraries can follow to interoperate across supported languages.",
+    "example": "A library author avoids exporting a type signature that another supported language cannot consume.",
+    "sense_note": null
+  },
+  {
+    "id": "xffmlbo46l",
+    "definition": "CommonJS defines conventions for JavaScript modules that expose exports and import dependencies through a require function.",
+    "example": "A maintainer separates reusable logic into a module consumed by an older Node.js application.",
+    "sense_note": null
+  },
+  {
+    "id": "emumq0l8k3",
+    "definition": "Communication software enables people or systems to exchange messages, audio, video, or other information.",
+    "example": "A remote team uses a conferencing application to discuss a release decision.",
+    "sense_note": null
+  },
+  {
+    "id": "gisypzf6gf",
+    "definition": "Communication conveys and interprets information among people through spoken, written, visual, or other signals.",
+    "example": "A technician summarizes a handoff and asks the next shift to confirm the outstanding steps.",
+    "sense_note": null
+  },
+  {
+    "id": "iaqjm89hh8",
+    "definition": "Community advocacy represents or supports community priorities in decisions about services, resources, or policy.",
+    "example": "Residents and an organizer present documented accessibility barriers to a transit board.",
+    "sense_note": null
+  },
+  {
+    "id": "h2ucxi6cxx",
+    "definition": "Compiler development designs and implements software that translates source programs into another representation while checking and preserving their meaning.",
+    "example": "A developer implements and tests a diagnostic for invalid expressions in a programming language.",
+    "sense_note": null
+  },
+  {
+    "id": "x5fnpmr8pm",
+    "definition": "Complaint investigation gathers and evaluates evidence to determine the facts behind a reported problem and recommend an appropriate response.",
+    "example": "An investigator interviews both parties and compares their accounts with relevant records.",
+    "sense_note": null
+  },
+  {
+    "id": "qbsb11tob5",
+    "definition": "Compliance risk management identifies, evaluates, and addresses exposures arising from failures to meet applicable obligations.",
+    "example": "A company assigns owners to controls intended to prevent missed reporting deadlines.",
+    "sense_note": null
+  },
+  {
+    "id": "z7pthyhl09",
+    "definition": "Compliance testing checks a system, product, or process against explicit standards, requirements, or policies.",
+    "example": "A reviewer samples whether access requests were approved and documented according to policy.",
+    "sense_note": null
+  },
+  {
+    "id": "ce7a1varzj",
+    "definition": "ComponentOne is a suite of reusable software components for building application interfaces, commonly in .NET environments.",
+    "example": "A .NET developer uses a ComponentOne data grid to display editable records.",
+    "sense_note": null
+  },
+  {
+    "id": "a280j1jdn5",
+    "definition": "The composite design pattern organizes individual and grouped objects in a tree so clients can operate on them through a common interface.",
+    "example": "A drawing program moves a single shape or a group of shapes using the same command.",
+    "sense_note": null
+  },
+  {
+    "id": "gy9xxt2ynh",
+    "definition": "Computational design uses rules, algorithms, or simulations to generate, evaluate, and refine design alternatives.",
+    "example": "An architect compares many façade layouts against a daylight criterion.",
+    "sense_note": null
+  },
+  {
+    "id": "gm2dej8qg7",
+    "definition": "Computer-assisted audit tools and techniques use software to gather, test, and analyze records for audit evidence.",
+    "example": "An auditor tests a full transaction ledger for duplicate invoice identifiers.",
+    "sense_note": null
+  },
+  {
+    "id": "ymw59zes79",
+    "definition": "Computer-assisted qualitative data analysis software helps researchers organize, code, retrieve, and compare qualitative evidence.",
+    "example": "A researcher labels interview passages with themes and retrieves passages assigned to a specific theme.",
+    "sense_note": null
+  },
+  {
+    "id": "y3qmoa1mq7",
+    "definition": "The U.S. Computer Fraud and Abuse Act addresses specified unauthorized computer access and related conduct through federal law.",
+    "example": "A compliance team consults counsel about the authorized scope of a security assessment.",
+    "sense_note": null
+  },
+  {
+    "id": "wg711705d4",
+    "definition": "Computerized system validation documents evidence that a computerized system reliably fulfills its intended requirements in a defined use context.",
+    "example": "A quality team verifies that an inventory system preserves audit records and correctly enforces approved access roles.",
+    "sense_note": null
+  },
+  {
+    "id": "jakzhha1se",
+    "definition": "ComputerRx is pharmacy management software used to organize prescription processing and pharmacy operations.",
+    "example": "An authorized pharmacy technician checks a prescription’s workflow status in the system.",
+    "sense_note": "Confirm the exact module or product generation when those distinctions matter."
+  },
+  {
+    "id": "y8wzz8ajez",
+    "definition": "Concision communicates the necessary meaning with few unnecessary words or details.",
+    "example": "An editor shortens an incident update while keeping the impact and next action clear.",
+    "sense_note": null
+  },
+  {
+    "id": "lw1jzfzyrg",
+    "definition": "Concourse CI is an automation system for defining repeatable build, test, and delivery pipelines from tasks and resources.",
+    "example": "A team runs the same test task whenever a source resource reports a new revision.",
+    "sense_note": null
+  },
+  {
+    "id": "kokyt30fzy",
+    "definition": "Concurrent engineering coordinates design, manufacturing, and other lifecycle work in parallel to identify trade-offs earlier.",
+    "example": "A manufacturing engineer reviews tooling constraints while a design team is still revising a component.",
+    "sense_note": null
+  },
+  {
+    "id": "hoqqec103u",
+    "definition": "Conducting tours guides visitors through a site or collection while explaining relevant features and managing the group’s movement.",
+    "example": "A docent adjusts the route so all visitors can reach the selected exhibits.",
+    "sense_note": null
+  },
+  {
+    "id": "dgq5x6xu5o",
+    "definition": "Cone penetration testing evaluates subsurface conditions by measuring resistance and other responses as an instrumented cone is pushed into the ground.",
+    "example": "A geotechnical engineer uses a cone penetration profile to infer changes in soil layers.",
+    "sense_note": null
+  },
+  {
+    "id": "jdli0jm4dm",
+    "definition": "Confirmit was a survey research and feedback platform for preparing questionnaires, collecting responses, and analyzing results.",
+    "example": "A research team programs branching logic for a customer survey.",
+    "sense_note": null
+  },
+  {
+    "id": "oklx1sjqa6",
+    "definition": "Conflict Catcher was a classic Mac OS utility for managing startup components and diagnosing conflicts among them.",
+    "example": "A technician isolates a set of incompatible extensions in a legacy system.",
+    "sense_note": null
+  },
+  {
+    "id": "z18o5yhzlt",
+    "definition": "Confluent is a data-streaming platform built around Apache Kafka that supports publishing, processing, and managing event streams.",
+    "example": "An engineering team uses event streams to make inventory changes available to several services.",
+    "sense_note": null
+  },
+  {
+    "id": "wxi91cbd19",
+    "definition": "Confocal microscopy improves optical sectioning by rejecting out-of-focus light through a spatial aperture or equivalent optical arrangement.",
+    "example": "A researcher builds a depth-resolved image stack from fluorescent material.",
+    "sense_note": null
+  },
+  {
+    "id": "od1b6mmloc",
+    "definition": "Consensus decision-making seeks a decision participants can support or accept after considering and addressing objections.",
+    "example": "A committee revises a proposal to resolve objections before checking whether members can live with it.",
+    "sense_note": null
+  },
+  {
+    "id": "yefg9c7faq",
+    "definition": "Constant Contact is a digital marketing platform for managing contacts, sending campaigns, and collecting engagement data.",
+    "example": "A nonprofit sends an event newsletter to a subscribed list and reviews link activity.",
+    "sense_note": null
+  },
+  {
+    "id": "rr6mhwi027",
+    "definition": "Constituent relationship management organizes interactions and records for people connected to a nonprofit, public institution, or similar organization.",
+    "example": "A charity tracks donor communication preferences and volunteer involvement in one system.",
+    "sense_note": null
+  },
+  {
+    "id": "wno5qba6p7",
+    "definition": "ConstraintLayout is an Android layout container that positions and sizes child views according to relationships and constraints.",
+    "example": "A developer anchors a button beneath a text field while keeping it centered on screens of different widths.",
+    "sense_note": null
+  },
+  {
+    "id": "mpcx38veci",
+    "definition": "Construct is a game creation system for building and deploying games with visual event logic and interactive scene editing.",
+    "example": "A creator defines an event that increases the displayed score when a player collects an item.",
+    "sense_note": null
+  },
+  {
+    "id": "hi05l4ukjq",
+    "definition": "Constructing dental study casts creates physical replicas of teeth and adjacent structures for examination, planning, or documentation.",
+    "example": "A dental technician prepares a model so a clinician can examine how the patient’s upper and lower teeth fit together.",
+    "sense_note": null
+  },
+  {
+    "id": "fhv5v1nste",
+    "definition": "Construction management software coordinates project information such as schedules, costs, drawings, and field records.",
+    "example": "A superintendent checks revised drawings and records the day’s work from a job-site device.",
+    "sense_note": null
+  },
+  {
+    "id": "k2u2agjae6",
+    "definition": "Consumer engagement builds and measures consumers’ active interactions with a brand, product, or service.",
+    "example": "A marketer assesses whether people who receive a tutorial return to use the product.",
+    "sense_note": null
+  },
+  {
+    "id": "amwmjfk4wl",
+    "definition": "Contact management software stores and organizes information about people or organizations and their prior interactions.",
+    "example": "A business records a contact’s preferred communication channel and recent correspondence.",
+    "sense_note": null
+  },
+  {
+    "id": "hszza7p355",
+    "definition": "Contact tracing identifies and communicates with people who may have been exposed to an infectious disease so appropriate public-health action can be considered.",
+    "example": "A public-health team confidentially informs a person of a documented exposure and gives approved guidance.",
+    "sense_note": null
+  },
+  {
+    "id": "ipfsxmf9ys",
+    "definition": "Content curation finds, evaluates, selects, and organizes existing material for a particular audience or purpose.",
+    "example": "An instructor assembles readings from several sources and explains why each is included.",
+    "sense_note": null
+  },
+  {
+    "id": "eecearu52w",
+    "definition": "Contingency planning prepares actions and responsibilities for plausible disruptions or changes in conditions.",
+    "example": "A logistics team identifies alternate suppliers before a likely shipping interruption.",
+    "sense_note": null
+  },
+  {
+    "id": "czkj22lvig",
+    "definition": "Continued process verification uses ongoing manufacturing data to check that an established process remains in a state of control.",
+    "example": "A quality team monitors production measurements for trends after the process enters routine operation.",
+    "sense_note": null
+  }
+]

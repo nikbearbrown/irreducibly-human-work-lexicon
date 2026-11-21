@@ -1,0 +1,242 @@
+[
+  {
+    "id": "b2xq589i0g",
+    "definition": "Private banking offers tailored banking and wealth services to clients with substantial assets.",
+    "example": "A private banker coordinates investment reporting and credit services for a client.",
+    "sense_note": null
+  },
+  {
+    "id": "z6wanimd2s",
+    "definition": "Process management is the operating system's creation, scheduling, coordination and termination of running programs.",
+    "example": "An operating system suspends a process awaiting disk input and schedules another to use the CPU.",
+    "sense_note": null
+  },
+  {
+    "id": "glrrnzyzf0",
+    "definition": "A process state describes where a running program is in its execution lifecycle, such as ready, running or waiting.",
+    "example": "A process moves from waiting to ready when an input operation completes.",
+    "sense_note": null
+  },
+  {
+    "id": "j7et6lzq8c",
+    "definition": "Professional negligence in English law concerns a professional's failure to meet a legally required standard of care, causing actionable loss.",
+    "example": "A court considers whether an adviser acted with the care reasonably expected of someone in that profession.",
+    "sense_note": null
+  },
+  {
+    "id": "ryaou42crn",
+    "definition": "Prosthetic devices replace or compensate for a missing body part or function.",
+    "example": "A prosthetist fits a lower-limb prosthesis to support walking.",
+    "sense_note": null
+  },
+  {
+    "id": "obcy8kghk7",
+    "definition": "A protein-protein interaction is a physical association between proteins that can affect their activity, location or stability.",
+    "example": "A cell signaling study investigates whether two proteins form a complex after stimulation.",
+    "sense_note": null
+  },
+  {
+    "id": "zomp6sei1p",
+    "definition": "A PTAS reduction transforms an optimization problem to another so that a polynomial-time approximation scheme for the latter yields one for the former.",
+    "example": "A researcher uses a PTAS reduction to transfer evidence of approximation difficulty between optimization problems.",
+    "sense_note": "Formal definitions and notation vary; the key property is preservation of approximation-scheme existence."
+  },
+  {
+    "id": "g75wabftn6",
+    "definition": "Public history interprets and presents historical evidence with or for audiences outside specialist scholarship.",
+    "example": "A museum works with local residents to create an exhibit from oral histories and archival records.",
+    "sense_note": null
+  },
+  {
+    "id": "rxof9ifz2b",
+    "definition": "Public-key cryptography uses paired public and private keys for functions such as encryption, digital signatures or secure key establishment.",
+    "example": "A recipient verifies a software publisher's digital signature using the publisher's public key.",
+    "sense_note": null
+  },
+  {
+    "id": "aqa8dgmx72",
+    "definition": "Public policy comprises choices and rules made by public institutions to address collective problems or pursue public goals.",
+    "example": "A city evaluates a fare policy designed to make public transit more affordable.",
+    "sense_note": null
+  },
+  {
+    "id": "uoqoozw98l",
+    "definition": "Quantitative models of the action potential use mathematical equations to describe how membrane voltage changes as ions move across an excitable cell membrane.",
+    "example": "A simulation illustrates how voltage-dependent currents give rise to a spike.",
+    "sense_note": null
+  },
+  {
+    "id": "i8ccn7r16p",
+    "definition": "A quantum dot is a nanoscale material structure in which charge carriers are confined in all three spatial dimensions, yielding discrete energy levels.",
+    "example": "A display uses quantum dots of different sizes to produce distinct colors.",
+    "sense_note": null
+  },
+  {
+    "id": "wbdhb63fpc",
+    "definition": "Quantum Merlin Arthur is a complexity class for decision problems whose yes instances have a quantum witness accepted with bounded error by an efficient quantum verifier, while no instances do not.",
+    "example": "Researchers classify the local Hamiltonian problem by asking what a quantum verifier can establish from a supplied quantum state.",
+    "sense_note": null
+  },
+  {
+    "id": "b8k8bf3qsh",
+    "definition": "The quantum spin Hall effect is a topological phase with an insulating bulk and conducting edge states linked to electron spin and protected by time-reversal symmetry.",
+    "example": "In a suitable two-dimensional material, researchers look for conduction along the sample's edges while its interior is insulating.",
+    "sense_note": null
+  },
+  {
+    "id": "al1g4o1hr9",
+    "definition": "A quartile is one of three cut points dividing ordered data into four parts based on cumulative proportion.",
+    "example": "A salary summary reports the median, or second quartile, together with the first and third quartiles.",
+    "sense_note": "Sample calculation conventions differ."
+  },
+  {
+    "id": "eo1aypur0p",
+    "definition": "Queer theory examines how norms and institutions shape categories of sexuality and gender and how those categories are challenged.",
+    "example": "A scholar analyzes how a film presents some relationships as ordinary and others as departures from a norm.",
+    "sense_note": null
+  },
+  {
+    "id": "re6fzrz83p",
+    "definition": "Question answering is the computational task of producing a response to a question using available information.",
+    "example": "A support system retrieves a policy passage and uses it to answer a question about returns.",
+    "sense_note": null
+  },
+  {
+    "id": "xse7gmd16k",
+    "definition": "Rail safety comprises rules, engineering controls and operating practices that reduce harm in rail transport.",
+    "example": "A railway investigates near misses at crossings to improve warning systems.",
+    "sense_note": null
+  },
+  {
+    "id": "gvcy23bd7y",
+    "definition": "Railway signalling uses signals and control systems to authorize train movements and maintain safe separation.",
+    "example": "An interlocking prevents incompatible routes from being set through the same junction.",
+    "sense_note": null
+  },
+  {
+    "id": "jzoa74uapk",
+    "definition": "A random variable assigns a numerical value to each outcome of a random experiment according to a specified rule.",
+    "example": "A random variable counts the number of heads in three coin flips.",
+    "sense_note": null
+  },
+  {
+    "id": "iapgb1wud2",
+    "definition": "The Rankine cycle is a vapor power cycle in which a working fluid is pumped, heated, expanded to produce work and condensed for reuse.",
+    "example": "An engineer uses the cycle to model a steam power plant's conversion of heat into shaft work.",
+    "sense_note": null
+  },
+  {
+    "id": "lkcvbyy23k",
+    "definition": "Real estate contracts are agreements creating obligations around property transactions such as sale, purchase or leasing.",
+    "example": "A purchase contract identifies the property, price and conditions that must be met before closing.",
+    "sense_note": null
+  },
+  {
+    "id": "cgf7ur1s02",
+    "definition": "Real estate owned typically refers to property held by a lender after foreclosure or another transfer following borrower default.",
+    "example": "A lender lists a foreclosed property in its real estate owned inventory.",
+    "sense_note": null
+  },
+  {
+    "id": "yeanq8udmx",
+    "definition": "Real estate is land and generally the permanent structures or improvements attached to it.",
+    "example": "A valuation considers both the parcel and the building on it.",
+    "sense_note": null
+  },
+  {
+    "id": "zg79euxsva",
+    "definition": "Real-time payments are electronic transfers designed to make funds available to recipients within seconds or nearly so, typically around the clock.",
+    "example": "A customer sends a payment that appears in the recipient's bank balance moments later.",
+    "sense_note": null
+  },
+  {
+    "id": "yqcn8qvr58",
+    "definition": "Receptive language is the ability to understand language, while expressive language is the ability to communicate meaning through language.",
+    "example": "A clinician separately assesses whether a child follows spoken directions and can describe an event.",
+    "sense_note": null
+  },
+  {
+    "id": "gt17x9dtjr",
+    "definition": "A reference range is an interval of laboratory values established for a defined reference population using a specified test method.",
+    "example": "A laboratory reports which reference interval was used to interpret a blood test.",
+    "sense_note": "A reference range is not necessarily a diagnostic or treatment threshold."
+  },
+  {
+    "id": "amaofka1yj",
+    "definition": "A refrigeration compressor raises the pressure of refrigerant vapor and moves it through the vapor-compression cycle.",
+    "example": "A heat pump’s compressor sends high-pressure refrigerant vapor toward the condenser.",
+    "sense_note": null
+  },
+  {
+    "id": "jio8nmyohw",
+    "definition": "Refrigeration removes heat from a space or substance and transfers it elsewhere to lower or maintain its temperature.",
+    "example": "A cold room moves heat outdoors to keep stored produce cool.",
+    "sense_note": null
+  },
+  {
+    "id": "yjyj9s94qv",
+    "definition": "Refugee issues concern displacement, protection and access to services or long-term solutions for people who flee their countries.",
+    "example": "A policy team examines barriers refugees face when enrolling in local schools.",
+    "sense_note": null
+  },
+  {
+    "id": "gkyfwnguc9",
+    "definition": "A Registered Education Savings Plan is a Canadian registered savings arrangement for education expenses, potentially eligible for government grants or bonds.",
+    "example": "A family opens an RESP to save for a beneficiary's postsecondary education.",
+    "sense_note": null
+  },
+  {
+    "id": "yi5wth4bnj",
+    "definition": "Regulation SHO is a U.S. securities regulation governing short-sale practices, including locating securities and addressing failures to deliver.",
+    "example": "A broker reviews its short-sale procedures against applicable locate and close-out requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "dpym5atjbx",
+    "definition": "Rehabilitation supports people in improving or maintaining function and participation after injury, illness or another change in capacity.",
+    "example": "A therapist helps a person practice daily tasks after a stroke.",
+    "sense_note": "The label can also refer to legal, social or environmental restoration; the health sense is used here."
+  },
+  {
+    "id": "o63wn5eub5",
+    "definition": "Reinforced masonry uses embedded steel or other reinforcement to help masonry carry loads it cannot readily resist on its own.",
+    "example": "An engineer specifies reinforced concrete-block walls to resist lateral loads.",
+    "sense_note": null
+  },
+  {
+    "id": "wrn21idyay",
+    "definition": "A relational database management system stores data in related tables and provides mechanisms to query, update and enforce constraints on them.",
+    "example": "A retail database connects orders to customer records using a foreign key.",
+    "sense_note": null
+  },
+  {
+    "id": "oodx1gxbvc",
+    "definition": "Renal nutrition concerns dietary needs and dietary management associated with kidney disease or impaired kidney function.",
+    "example": "A renal dietitian tailors a meal plan to a patient's lab results and treatment stage.",
+    "sense_note": null
+  },
+  {
+    "id": "b0lmdyh8po",
+    "definition": "Renewable energy comes from sources naturally replenished on human timescales, such as sunlight, wind or flowing water.",
+    "example": "A community generates electricity from wind turbines.",
+    "sense_note": null
+  },
+  {
+    "id": "qp1x2nazlg",
+    "definition": "Reproductive health care includes services that support reproductive well-being and informed decisions about contraception, fertility, pregnancy and related needs.",
+    "example": "A clinic provides counseling to help patients compare contraceptive options.",
+    "sense_note": null
+  },
+  {
+    "id": "b504pbeqhu",
+    "definition": "Research methodology is the rationale and design for how evidence will be collected, analyzed and interpreted to answer a research question.",
+    "example": "A researcher explains why interviews are suitable for studying how participants understand a policy.",
+    "sense_note": null
+  },
+  {
+    "id": "cd19a0euqf",
+    "definition": "Residential construction is the work of building, altering or repairing structures intended for people to live in.",
+    "example": "A contractor coordinates framing and inspection for a new house.",
+    "sense_note": null
+  }
+]

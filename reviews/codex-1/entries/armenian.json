@@ -1,0 +1,20 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A human language written in the Armenian alphabet.",
+  "entry_text": "A human language written in the Armenian alphabet.",
+  "entry_text_kind": "definition",
+  "example": "An editor proofreads an Armenian translation.",
+  "id": "lc66pgzr2o",
+  "key": "armenian",
+  "label": "Armenian",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specify the standard or variety when important.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

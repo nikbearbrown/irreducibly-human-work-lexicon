@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g32rgj6uc5",
+    "result": "supports",
+    "ref": "https://www.energy.gov/sites/prod/files/2015/06/f23/DOE_Competency_Dictionary_FINAL.pdf",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. DOE accountability associates setting priorities and objectives with measuring outcomes; supports the work behavior, not a measured innate ability."
+  },
+  {
+    "id": "rrzqh6zhic",
+    "result": "supports",
+    "ref": "https://doi.org/10.1080/17439760.2012.697185",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Schnitker’s construct centers on calm waiting despite frustration; the mentor example illustrates that rather than merely delaying."
+  },
+  {
+    "id": "hq2g370jgj",
+    "result": "supports",
+    "ref": "https://doi.org/10.1016/S0191-3085(01)23005-6",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Frese and Fay’s personal-initiative work supports the self-starting behavior; not a claim that the example measures aptitude."
+  },
+  {
+    "id": "id244h1e6v",
+    "result": "supports",
+    "ref": "https://www.energy.gov/sites/prod/files/2015/06/f23/DOE_Competency_Dictionary_FINAL.pdf",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. DOE Results Driven competency explicitly measures attainment of outcomes; repeat questions illustrate an outcome rather than output volume."
+  },
+  {
+    "id": "o1ffghl5pu",
+    "result": "supports",
+    "ref": "https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tab=2&tid=13193",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. VA technology catalog identifies the historical PDA and smartphone web/file synchronization service; not a currently available service claim."
+  },
+  {
+    "id": "r15eo3tf6w",
+    "result": "supports",
+    "ref": "https://cam.start.canon/en/A014/manual/html/UG-03_Setting_Flash_0020.html",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Canon documents compatible EOS control of Speedlite firing and flash exposure; the example is a plausible application, not measured performance."
+  },
+  {
+    "id": "u5dz59qduc",
+    "result": "supports",
+    "ref": "https://www.nedgraphics.com/nedgraphics-for-adobe/",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Vendor documents print, woven, and knit design tools, repeat generation, and live previews."
+  },
+  {
+    "id": "j4u2uvtmvj",
+    "result": "supports",
+    "ref": "https://support.smartbear.com/readyapi/docs/en/test-apis-with-readyapi/verifying-results.html",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Vendor confirms response-body validation with assertions on specific JSON or XML fields."
+  },
+  {
+    "id": "rvsvd49up9",
+    "result": "supports",
+    "ref": "https://engineering.ucsc.edu/departments/biomolecular-engineering/frequently-asked-questions/",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Department explains engineering design of biomolecules and molecular systems; the material example is illustrative only."
+  },
+  {
+    "id": "yzj1md842p",
+    "result": "supports",
+    "ref": "https://www.ru.nl/en/education/masters/borders-migration-and-justice/why-this-programme",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Radboud’s program documents political bordering, mobility, and unequal consequences. The commute is an illustrative research question."
+  },
+  {
+    "id": "j7et6lzq8c",
+    "result": "supports",
+    "ref": "https://supremecourt.uk/uploads/uksc_2019_0040_judgment_2b04c84658.pdf",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Judgment distinguishes breach, causation, and scope of duty. Draft’s actionable loss captures the high-level concept; a breach and any loss alone are insufficient."
+  },
+  {
+    "id": "oia7a9p9lz",
+    "result": "partial",
+    "ref": "https://www.oecd.org/en/topics/behavioural-science.html",
+    "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. OECD supports the interdisciplinary human behavior scope and application; this source does not verify draft’s broader claim about other organisms."
+  }
+]

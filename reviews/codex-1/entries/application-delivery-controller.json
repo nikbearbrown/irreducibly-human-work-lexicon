@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An application delivery controller manages network traffic to applications and commonly provides load balancing, health checks, and protocol termination.",
+  "entry_text": "An application delivery controller manages network traffic to applications and commonly provides load balancing, health checks, and protocol termination.",
+  "entry_text_kind": "definition",
+  "example": "A controller stops routing requests to an application server that fails its health checks.",
+  "id": "hv8rs0nfn8",
+  "key": "application-delivery-controller",
+  "label": "Application delivery controller",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

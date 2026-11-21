@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Systematically monitoring external trends, events, and conditions that could affect organizational decisions.",
+  "entry_text": "Systematically monitoring external trends, events, and conditions that could affect organizational decisions.",
+  "entry_text_kind": "definition",
+  "example": "A planning team tracks policy changes and emerging technologies before revising its strategy.",
+  "id": "x67m4fgi71",
+  "key": "environmental-scanning",
+  "label": "Environmental scanning",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The business-planning sense is likely; the label can also mean a physical survey.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

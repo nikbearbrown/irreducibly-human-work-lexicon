@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Pattern Lab is a tool for developing and previewing reusable interface patterns and their composition into pages.",
+  "entry_text": "Pattern Lab is a tool for developing and previewing reusable interface patterns and their composition into pages.",
+  "entry_text_kind": "definition",
+  "example": "A front-end team checks how a card component works in multiple layouts.",
+  "id": "yc622hn2at",
+  "key": "pattern-lab",
+  "label": "Pattern Lab",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

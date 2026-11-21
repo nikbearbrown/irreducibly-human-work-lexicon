@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "iglalrig47",
+    "key": "box-backup",
+    "label": "Box Backup",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ii8017l1zt",
+    "key": "brand-communication",
+    "label": "Brand communication",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "li5t3yuk17",
+    "key": "brand-strategy",
+    "label": "Brand strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gxe2qfkmua",
+    "key": "branding-2",
+    "label": "Branding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oz39xhtj91",
+    "key": "branding",
+    "label": "Brand positioning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ip67ypemwd",
+    "key": "breeze-js",
+    "label": "Breeze.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l39uixm3x0",
+    "key": "bridal-consulting",
+    "label": "Bridal consulting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jbpt5fyziw",
+    "key": "brightway",
+    "label": "Brightway",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kcp0rea4hd",
+    "key": "broadcast-programming",
+    "label": "Broadcast programming",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eakf49x3b5",
+    "key": "browzwear",
+    "label": "Browzwear",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gb10qwtibo",
+    "key": "brute-force-search",
+    "label": "Brute-force search",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r9xjud7e04",
+    "key": "btrieve",
+    "label": "Btrieve",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tqx9jexzw3",
+    "key": "budtending",
+    "label": "Budtending",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ve6il0e4wg",
+    "key": "bug-tracking-systems",
+    "label": "Bug tracking systems",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l0jwqadljy",
+    "key": "building-crates-and-skids",
+    "label": "Building crates and skids",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m5flp85x9u",
+    "key": "bullet-physics",
+    "label": "Bullet Physics",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vousuoqkg0",
+    "key": "bulma",
+    "label": "Bulma",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "riykr0t033",
+    "key": "burndown-chart",
+    "label": "Burndown chart",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wyr81cjqol",
+    "key": "business-excellence",
+    "label": "Business excellence",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ynlpt6x7jh",
+    "key": "business-integration-software",
+    "label": "Business integration software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b2n6djrqyw",
+    "key": "business-process-analysis",
+    "label": "Business process analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uoxx4n4fl1",
+    "key": "butchering",
+    "label": "Butchering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m9p6unthvm",
+    "key": "butter-knife",
+    "label": "Butter Knife",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lf4govmv8z",
+    "key": "bzip2",
+    "label": "bzip2",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fmcata2l10",
+    "key": "c-cure",
+    "label": "C-CURE",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mxeo9yp33x",
+    "key": "c3-js",
+    "label": "C3.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tc9h7860sa",
+    "key": "cable-splicing",
+    "label": "Cable splicing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rzrebn0fyg",
+    "key": "cadvisor",
+    "label": "cAdvisor",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ewrib5426u",
+    "key": "caesarean-section",
+    "label": "Caesarean section",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ghio6iv10b",
+    "key": "caffe",
+    "label": "Caffe",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eybhkh58b4",
+    "key": "caffe2",
+    "label": "Caffe2",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ewju5724wx",
+    "key": "cairngorm",
+    "label": "Cairngorm",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q6fnn8m7no",
+    "key": "cakewalk",
+    "label": "Cakewalk",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fr456cdv5u",
+    "key": "calibration",
+    "label": "Probability calibration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nz84281zw5",
+    "key": "call-admission-control",
+    "label": "Call admission control",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q3yppj692g",
+    "key": "calyx-point",
+    "label": "Calyx Point",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z2efy6mlnz",
+    "key": "camera-calibration",
+    "label": "Camera calibration",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y4l5qyufug",
+    "key": "canape",
+    "label": "CANape",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cjf4u4r4e1",
+    "key": "cancan",
+    "label": "CanCan",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bh53jfisdj",
+    "key": "candidate-sourcing",
+    "label": "Candidate sourcing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

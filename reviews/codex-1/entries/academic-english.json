@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Academic English is the register used to read, discuss, and present arguments and evidence in educational or scholarly contexts.",
+  "entry_text": "Academic English is the register used to read, discuss, and present arguments and evidence in educational or scholarly contexts.",
+  "entry_text_kind": "definition",
+  "example": "A student qualifies a research conclusion and cites the evidence that supports it.",
+  "id": "q79kcfioa9",
+  "key": "academic-english",
+  "label": "Academic English",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

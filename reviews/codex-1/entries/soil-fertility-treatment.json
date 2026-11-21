@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Soil fertility treatment adjusts nutrient availability or soil conditions to support plant growth based on the crop and soil's needs.",
+  "entry_text": "Soil fertility treatment adjusts nutrient availability or soil conditions to support plant growth based on the crop and soil's needs.",
+  "entry_text_kind": "definition",
+  "example": "A grower uses soil test findings to select an appropriate nutrient or pH amendment.",
+  "id": "xdzjh8o7c2",
+  "key": "soil-fertility-treatment",
+  "label": "Soil fertility treatment",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Likely agronomic soil management; not medical fertility treatment.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

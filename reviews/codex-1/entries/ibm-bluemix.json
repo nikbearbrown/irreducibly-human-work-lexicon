@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The former branding for IBM's cloud application and services platform, later incorporated into IBM Cloud.",
+  "entry_text": "The former branding for IBM's cloud application and services platform, later incorporated into IBM Cloud.",
+  "entry_text_kind": "definition",
+  "example": "A team previously deployed an application to the Bluemix cloud.",
+  "id": "jjws8r6d9o",
+  "key": "ibm-bluemix",
+  "label": "IBM Bluemix",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

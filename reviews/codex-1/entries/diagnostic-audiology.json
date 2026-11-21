@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Diagnostic audiology uses tests of hearing and auditory function to characterize hearing differences and help determine their nature or possible source.",
+  "entry_text": "Diagnostic audiology uses tests of hearing and auditory function to characterize hearing differences and help determine their nature or possible source.",
+  "entry_text_kind": "definition",
+  "example": "An audiologist compares air- and bone-conduction thresholds to investigate whether sound conduction is contributing to a hearing loss.",
+  "id": "lcn148zblw",
+  "key": "diagnostic-audiology",
+  "label": "Diagnostic audiology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

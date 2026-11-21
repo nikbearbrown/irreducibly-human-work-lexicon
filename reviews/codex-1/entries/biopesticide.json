@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A biopesticide is a pest-control agent based on a living organism, a naturally derived substance, or a pesticidal substance produced by a plant, subject to how the term is defined by the regulator.",
+  "entry_text": "A biopesticide is a pest-control agent based on a living organism, a naturally derived substance, or a pesticidal substance produced by a plant, subject to how the term is defined by the regulator.",
+  "entry_text_kind": "definition",
+  "example": "A grower checks whether a registered insect-control product is classified as a biopesticide.",
+  "id": "xu0azmubfo",
+  "key": "biopesticide",
+  "label": "Biopesticide",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

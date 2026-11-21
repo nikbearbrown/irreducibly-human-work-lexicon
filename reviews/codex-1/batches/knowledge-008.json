@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "t49r7wk7u5",
+    "key": "logistics-engineering",
+    "label": "Logistics engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s0jgh1zbri",
+    "key": "lookup-table",
+    "label": "Lookup table",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "y960uicmf7",
+    "key": "machining-technology",
+    "label": "Machining technology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s3rg9vaczo",
+    "key": "mainframe-storage",
+    "label": "Mainframe storage",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "z79armevpb",
+    "key": "margin-lending",
+    "label": "Margin lending",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ib7s2w06na",
+    "key": "market-capitalization",
+    "label": "Market capitalization",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "sh7axh4ck4",
+    "key": "market-depth",
+    "label": "Market depth",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i9pfxulhzp",
+    "key": "mass-media",
+    "label": "Mass media",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "eh47l78bpt",
+    "key": "master-production-records",
+    "label": "Master production records",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wp92dm6esb",
+    "key": "material-flow",
+    "label": "Material flow",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dk47qkxodh",
+    "key": "mechanic-s-lien",
+    "label": "Mechanic's lien",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ini9hiun24",
+    "key": "mechanical-drawings",
+    "label": "Mechanical drawings",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "artpsp4ao2",
+    "key": "mechanical-electrical-and-plumbing-systems",
+    "label": "Mechanical, electrical and plumbing systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "uu17w6c03r",
+    "key": "media-ethics",
+    "label": "Media ethics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i7hneu52i6",
+    "key": "medical-devices",
+    "label": "Medical devices",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fxag0yh7o6",
+    "key": "medical-equipment",
+    "label": "Medical equipment",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yn4il9n9p6",
+    "key": "meta-tag",
+    "label": "Meta tag",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vr3htpg6gb",
+    "key": "metaverse",
+    "label": "Metaverse",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yv63nnf7b5",
+    "key": "metric-system",
+    "label": "Metric system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "heekgmf53y",
+    "key": "microcontrollers",
+    "label": "Microcontrollers",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dx4466r7ac",
+    "key": "microscopic-anatomy",
+    "label": "Microscopic anatomy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "m5ehoxv5hq",
+    "key": "microsite",
+    "label": "Microsite",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "m93rwlykrf",
+    "key": "microstrategy-metrics",
+    "label": "MicroStrategy metrics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qw40ev8cj4",
+    "key": "mill-test-report",
+    "label": "Mill test report",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "a7dp0jiyay",
+    "key": "millimeter-waves",
+    "label": "Millimeter waves",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "egg15jc6qd",
+    "key": "mineralogy",
+    "label": "Mineralogy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "sfte4xs6zx",
+    "key": "mixed-reality",
+    "label": "Mixed reality",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j99w42yktq",
+    "key": "mobile-computing",
+    "label": "Mobile computing",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d0sdezje4m",
+    "key": "models-for-life-contingencies",
+    "label": "Models for life contingencies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "pvzx15szxf",
+    "key": "molecular-engineering",
+    "label": "Molecular engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "bo7vfugy2w",
+    "key": "motor-control-firmware",
+    "label": "Motor control firmware",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "u3mnyqrb8i",
+    "key": "motor-control-software",
+    "label": "Motor control software",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vuj6oiflxx",
+    "key": "multi-agent-systems",
+    "label": "Multi-agent systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i53ufef076",
+    "key": "multi-core-processors",
+    "label": "Multi-core processors",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ikj5ftub8s",
+    "key": "multi-core-smp",
+    "label": "Multi-core SMP",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yjt8ek1ys1",
+    "key": "multi-core-software",
+    "label": "Multi-core software",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "e7w5wq1r3n",
+    "key": "multi-touch",
+    "label": "Multi-touch",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "aagb58wtxo",
+    "key": "multicultural-education",
+    "label": "Multicultural education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "g5m5upqdxb",
+    "key": "multitenancy",
+    "label": "Multitenancy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "y3ojit3m1g",
+    "key": "music-theory",
+    "label": "Music theory",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

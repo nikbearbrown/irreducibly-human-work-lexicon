@@ -1,0 +1,28 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Allergen labelling flags ingredients or cross-contact risks that may cause allergic reactions.",
+  "entry_text": "Allergen labelling flags ingredients or cross-contact risks that may cause allergic reactions.",
+  "entry_text_kind": "definition",
+  "example": "A food manufacturer checks that a product label identifies the relevant allergens in its recipe.",
+  "id": "eb0wn0y0au",
+  "key": "allergen-labelling",
+  "label": "Allergen labelling",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "eb0wn0y0au",
+      "note": "The FDA distinguishes required declarations of major allergen ingredients from optional truthful advisory statements about unavoidable cross-contact. The broad definition is plausible, but should distinguish these two concepts rather than suggest equal disclosure requirements; this source is U.S.-specific.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

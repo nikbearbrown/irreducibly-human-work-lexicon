@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "CRUD stands for create, read, update, and delete, the four basic operations for managing stored records.",
+  "entry_text": "CRUD stands for create, read, update, and delete, the four basic operations for managing stored records.",
+  "entry_text_kind": "definition",
+  "example": "A contact manager lets users add, view, edit, or remove a contact.",
+  "id": "v5oizwc96o",
+  "key": "crud",
+  "label": "CRUD",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

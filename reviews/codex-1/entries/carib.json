@@ -1,0 +1,30 @@
+{
+  "batch": "language-002.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": null,
+  "entry_text": "Galibi Carib [car] is a candidate language sense, not the entire Cariban family; confirm scope.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "qlaxx8o2dm",
+  "key": "carib",
+  "label": "Carib",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm whether Carib means the Kali'na language or a broader grouping.",
+  "sense_proposal": {
+    "ambiguity_note": "Galibi Carib [car] is a candidate language sense, not the entire Cariban family; confirm scope.",
+    "id": "qlaxx8o2dm",
+    "label": "Carib",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/gali1262",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

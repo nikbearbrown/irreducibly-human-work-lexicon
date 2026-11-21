@@ -1,0 +1,20 @@
+{
+  "batch": "language-005.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An XML-based declarative language for describing interfaces in Apache Flex.",
+  "entry_text": "An XML-based declarative language for describing interfaces in Apache Flex.",
+  "entry_text_kind": "definition",
+  "example": "A developer declares a data-bound list in a Flex interface.",
+  "id": "i3i5khm667",
+  "key": "mxml",
+  "label": "MXML",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "markup-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

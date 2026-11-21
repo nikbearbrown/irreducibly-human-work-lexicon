@@ -1,0 +1,20 @@
+{
+  "batch": "skill-049.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Word processing is the creation, editing and formatting of text documents using software.",
+  "entry_text": "Word processing is the creation, editing and formatting of text documents using software.",
+  "entry_text_kind": "definition",
+  "example": "An author applies heading styles and reviews tracked edits before exporting a report.",
+  "id": "db9b71y3ro",
+  "key": "word-processing",
+  "label": "Word processing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

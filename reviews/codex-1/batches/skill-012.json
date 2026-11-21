@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "cvw7k70io9",
+    "key": "culture-transformation",
+    "label": "Culture transformation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nhvetwz8hq",
+    "key": "cunit",
+    "label": "CUnit",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wbkfp77uy9",
+    "key": "cured-in-place-pipe",
+    "label": "Cured-in-place pipe",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g2b0hvsib5",
+    "key": "curl",
+    "label": "cURL",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nna0x6ic9d",
+    "key": "curriculum-evaluation",
+    "label": "Curriculum evaluation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k0358zebce",
+    "key": "curriculum-planning",
+    "label": "Curriculum planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "it7tqv4mdp",
+    "key": "customer-engagement-planning",
+    "label": "Customer engagement planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "im4b8pvk0p",
+    "key": "customer-engagement-strategy",
+    "label": "Customer engagement strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v059qbltq4",
+    "key": "customer-experience-strategy",
+    "label": "Customer experience strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jxqim6aqgq",
+    "key": "customer-insight",
+    "label": "Customer insight",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s00v9m81ez",
+    "key": "customer-success",
+    "label": "Customer success",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rzn1t3msf7",
+    "key": "cutover-planning-and-management",
+    "label": "Cutover planning and management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mfwynfkp4j",
+    "key": "cyara",
+    "label": "Cyara",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tmdu8fhxhg",
+    "key": "cyber-defense",
+    "label": "Cyber defense",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t3qtfcj4cl",
+    "key": "cyber-engineering",
+    "label": "Cyber engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rutsjj1twb",
+    "key": "cyber-kill-chain",
+    "label": "Cyber Kill Chain",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xa9fefssz7",
+    "key": "cyber-threat-hunting",
+    "label": "Cyber threat hunting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ajeetx04pv",
+    "key": "cyber-threat-intelligence",
+    "label": "Cyber threat intelligence",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n43rtz8a5l",
+    "key": "cybersecurity-compliance",
+    "label": "Cybersecurity compliance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lwggdeyan2",
+    "key": "d3-js",
+    "label": "D3.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bgv8aoglzh",
+    "key": "dagger-2",
+    "label": "Dagger 2",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pudsxgof73",
+    "key": "dall-e",
+    "label": "DALL·E",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sqqun2bafg",
+    "key": "darik-s-boot-and-nuke",
+    "label": "Darik's Boot and Nuke",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rakialu2l1",
+    "key": "dashdb",
+    "label": "dashDB",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fcn0sg2ytx",
+    "key": "data-center-cooling",
+    "label": "Data center cooling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "znkj1vnxbh",
+    "key": "data-center-design",
+    "label": "Data center design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zx75pipfs3",
+    "key": "data-center-facility-management",
+    "label": "Data center facility management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e5k66q2jzl",
+    "key": "data-center-operations",
+    "label": "Data center operations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m2b1i9wyd7",
+    "key": "data-classification",
+    "label": "Data classification",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kqkr9op0ue",
+    "key": "data-deduplication",
+    "label": "Data deduplication",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dz5xjcq45r",
+    "key": "data-driven-decision-making",
+    "label": "Data-driven decision-making",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h13obge925",
+    "key": "data-driven-instruction",
+    "label": "Data-driven instruction",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mygpu0dj8r",
+    "key": "data-driven-manufacturing",
+    "label": "Data-driven manufacturing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mtmkw6b12m",
+    "key": "data-engineering",
+    "label": "Data engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "isgys6o9f0",
+    "key": "data-entry-alphanumeric",
+    "label": "Data entry (alphanumeric)",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ct5cj0dk4m",
+    "key": "data-entry-numeric",
+    "label": "Data entry (numeric)",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pgwo2h5tp6",
+    "key": "data-modeling",
+    "label": "Data modeling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "afiw0lkbic",
+    "key": "data-pipeline",
+    "label": "Data pipeline",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cz92k14w56",
+    "key": "data-vault-modeling",
+    "label": "Data Vault modeling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "amuzox4pgm",
+    "key": "data-visualization",
+    "label": "Data visualization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

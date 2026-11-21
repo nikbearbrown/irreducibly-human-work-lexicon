@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "3DMark is a suite of standardized benchmarks for evaluating graphics and gaming performance.",
+  "entry_text": "3DMark is a suite of standardized benchmarks for evaluating graphics and gaming performance.",
+  "entry_text_kind": "definition",
+  "example": "A reviewer compares two graphics cards with the same 3DMark test and settings.",
+  "id": "ie5zqb9lez",
+  "key": "3dmark",
+  "label": "3DMark",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

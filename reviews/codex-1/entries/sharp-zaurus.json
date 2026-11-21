@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sharp Zaurus was a family of handheld personal digital assistants, including models capable of running Linux.",
+  "entry_text": "Sharp Zaurus was a family of handheld personal digital assistants, including models capable of running Linux.",
+  "entry_text_kind": "definition",
+  "example": "A collector identifies which archived application format works with a particular Zaurus model.",
+  "id": "a6vlrfokws",
+  "key": "sharp-zaurus",
+  "label": "Sharp Zaurus",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical product family; operating system varies by model.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

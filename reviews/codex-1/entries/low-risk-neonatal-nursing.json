@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Low-risk neonatal nursing provides routine assessment, monitoring and care for newborns who do not require intensive or high-acuity care.",
+  "entry_text": "Low-risk neonatal nursing provides routine assessment, monitoring and care for newborns who do not require intensive or high-acuity care.",
+  "entry_text_kind": "definition",
+  "example": "A nurse monitors feeding, temperature and weight in a healthy newborn transition setting.",
+  "id": "k5tlhu5agn",
+  "key": "low-risk-neonatal-nursing",
+  "label": "Low risk neonatal nursing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

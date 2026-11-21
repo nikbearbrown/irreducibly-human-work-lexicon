@@ -1,0 +1,31 @@
+{
+  "batch": "language-003.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Gujarati (ISO 639-3: guj) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Gujarati",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "guja1252",
+    "iso639_3": "guj",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/guja1252"
+  },
+  "definition": "A human language written using the Gujarati script.",
+  "entry_text": "A human language written using the Gujarati script.",
+  "entry_text_kind": "definition",
+  "example": "A reviewer checks a Gujarati enrollment form.",
+  "id": "hth5eczuzx",
+  "key": "gujarati",
+  "label": "Gujarati",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

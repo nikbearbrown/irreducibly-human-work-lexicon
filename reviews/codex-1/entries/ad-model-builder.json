@@ -1,0 +1,28 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "AD Model Builder is a framework that uses automatic differentiation to fit complex statistical models by numerical optimization.",
+  "entry_text": "AD Model Builder is a framework that uses automatic differentiation to fit complex statistical models by numerical optimization.",
+  "entry_text_kind": "definition",
+  "example": "A fisheries scientist fits a population model and evaluates uncertainty in its fitted parameters.",
+  "id": "sordsd3iq2",
+  "key": "ad-model-builder",
+  "label": "AD Model Builder",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "sordsd3iq2",
+      "note": "The project connects automatic differentiation to nonlinear statistical modeling and optimization and describes ADMB as a statistical application implementing automatic differentiation.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://www.admb-project.org/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

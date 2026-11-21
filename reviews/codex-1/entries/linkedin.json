@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "LinkedIn is an online professional network for maintaining career profiles, connecting with contacts, and discovering jobs or professional content.",
+  "entry_text": "LinkedIn is an online professional network for maintaining career profiles, connecting with contacts, and discovering jobs or professional content.",
+  "entry_text_kind": "definition",
+  "example": "A recruiter posts a vacancy and reviews profiles of people interested in the role.",
+  "id": "nmv4icsuk2",
+  "key": "linkedin",
+  "label": "LinkedIn",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

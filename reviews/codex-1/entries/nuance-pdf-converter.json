@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Nuance PDF Converter refers to a family of PDF utilities for creating, editing or converting PDF documents.",
+  "entry_text": "Nuance PDF Converter refers to a family of PDF utilities for creating, editing or converting PDF documents.",
+  "entry_text_kind": "definition",
+  "example": "A user converts a PDF table into an editable document for correction.",
+  "id": "vthu2az0u2",
+  "key": "nuance-pdf-converter",
+  "label": "Nuance PDF Converter",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Product name and feature set vary by edition.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

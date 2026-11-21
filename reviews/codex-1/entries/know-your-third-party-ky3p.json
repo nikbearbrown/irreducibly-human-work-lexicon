@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Know Your Third Party is a third-party risk management platform for exchanging and evaluating due-diligence information.",
+  "entry_text": "Know Your Third Party is a third-party risk management platform for exchanging and evaluating due-diligence information.",
+  "entry_text_kind": "definition",
+  "example": "A compliance team collects supplier assessment responses in a shared workflow.",
+  "id": "grn5gsyx43",
+  "key": "know-your-third-party-ky3p",
+  "label": "Know Your Third Party (KY3P)",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The abbreviation may also refer to a generic due-diligence practice.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

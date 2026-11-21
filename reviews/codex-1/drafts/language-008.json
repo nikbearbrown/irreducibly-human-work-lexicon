@@ -1,0 +1,62 @@
+[
+  {
+    "id": "j6hwlijvij",
+    "definition": "A Visual Basic programming language for the .NET platform with object-oriented features.",
+    "example": "A developer writes a class that validates input from a desktop form.",
+    "sense_note": null
+  },
+  {
+    "id": "wnkvy1dp2p",
+    "definition": "A human language used in spoken communication and language documentation.",
+    "example": "A researcher transcribes a Wagdi oral account.",
+    "sense_note": null
+  },
+  {
+    "id": "gk2xuq5g9g",
+    "definition": "A Romance language used in oral and written communication, distinct from French.",
+    "example": "An editor checks a Walloon dialogue for a language lesson.",
+    "sense_note": null
+  },
+  {
+    "id": "hwxvod3yzt",
+    "definition": "A standardized format for describing interactive three-dimensional scenes.",
+    "example": "A developer defines a scene containing geometry, lights, and a viewpoint.",
+    "sense_note": null
+  },
+  {
+    "id": "n2v8jnsgj0",
+    "definition": "A structured reporting standard for tagging business and financial facts with taxonomy concepts.",
+    "example": "A preparer tags annual revenue with its reporting period and currency.",
+    "sense_note": null
+  },
+  {
+    "id": "w9vogijhb2",
+    "definition": "A human language also known as isiXhosa.",
+    "example": "A translator checks isiXhosa captions for a school video.",
+    "sense_note": null
+  },
+  {
+    "id": "php2tc9p7y",
+    "definition": "A text markup language for representing structured documents with nested elements and attributes.",
+    "example": "An application reads the title and author fields of an XML book record.",
+    "sense_note": null
+  },
+  {
+    "id": "ygzm0k4brw",
+    "definition": "An XML-based markup language formerly used for Mozilla application interfaces.",
+    "example": "A maintainer reads a XUL definition for a toolbar in legacy software.",
+    "sense_note": null
+  },
+  {
+    "id": "nc4fkjb896",
+    "definition": "A human language whose written forms can mark tone using diacritics.",
+    "example": "An editor checks tone marks in a Yoruba reading exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "wozti9mkk0",
+    "definition": "A human language also known as isiZulu.",
+    "example": "An interpreter explains booking instructions in isiZulu.",
+    "sense_note": null
+  }
+]

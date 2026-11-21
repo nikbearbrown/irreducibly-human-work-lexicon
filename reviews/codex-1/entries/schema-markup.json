@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Schema markup expresses facts about page content using structured data vocabulary such as Schema.org so software can interpret the fields.",
+  "entry_text": "Schema markup expresses facts about page content using structured data vocabulary such as Schema.org so software can interpret the fields.",
+  "entry_text_kind": "definition",
+  "example": "A publisher marks up a recipe's ingredients and cooking time using structured data.",
+  "id": "tt9rapd3jw",
+  "key": "schema-markup",
+  "label": "Schema markup",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

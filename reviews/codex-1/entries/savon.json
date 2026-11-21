@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Savon is a Ruby library for using web services that expose a SOAP interface.",
+  "entry_text": "Savon is a Ruby library for using web services that expose a SOAP interface.",
+  "entry_text_kind": "definition",
+  "example": "A Ruby application uses Savon to send a structured request to a legacy order service.",
+  "id": "ucciwb5dse",
+  "key": "savon",
+  "label": "Savon",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as the Ruby library based on the technical label.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

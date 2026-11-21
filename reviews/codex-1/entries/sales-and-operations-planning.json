@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sales and operations planning is a recurring cross-functional process that aligns expected demand, operational capacity, inventory, and financial plans.",
+  "entry_text": "Sales and operations planning is a recurring cross-functional process that aligns expected demand, operational capacity, inventory, and financial plans.",
+  "entry_text_kind": "definition",
+  "example": "Sales and production teams agree on a feasible volume forecast before materials are ordered.",
+  "id": "wa0o3efjz9",
+  "key": "sales-and-operations-planning",
+  "label": "Sales and operations planning",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

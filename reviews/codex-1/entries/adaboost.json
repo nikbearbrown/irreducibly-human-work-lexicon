@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "AdaBoost is an ensemble method that trains successive weak learners while increasing emphasis on examples earlier learners misclassified.",
+  "entry_text": "AdaBoost is an ensemble method that trains successive weak learners while increasing emphasis on examples earlier learners misclassified.",
+  "entry_text_kind": "definition",
+  "example": "A classifier combines multiple shallow decision trees to reduce mistakes on difficult observations.",
+  "id": "ydp6a13kjq",
+  "key": "adaboost",
+  "label": "AdaBoost",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

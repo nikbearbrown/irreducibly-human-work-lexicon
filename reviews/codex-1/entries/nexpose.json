@@ -1,0 +1,28 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Nexpose is a vulnerability assessment tool that scans authorized assets and reports identified weaknesses for remediation.",
+  "entry_text": "Nexpose is a vulnerability assessment tool that scans authorized assets and reports identified weaknesses for remediation.",
+  "entry_text_kind": "definition",
+  "example": "A security team reviews a scan report to prioritize missing security updates.",
+  "id": "hzp4toom8p",
+  "key": "nexpose",
+  "label": "Nexpose",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "hzp4toom8p",
+      "note": "Rapid7 describes the on-premises Security Console's vulnerability scanning and management role. The example stays within defensive review and remediation.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://docs.rapid7.com/nexpose/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

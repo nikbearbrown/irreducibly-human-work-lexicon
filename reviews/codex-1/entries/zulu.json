@@ -1,0 +1,31 @@
+{
+  "batch": "language-008.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Zulu (ISO 639-3: zul) as a language under the Atlantic-Congo grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Atlantic-Congo",
+    "catalog_name": "Zulu",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "zulu1248",
+    "iso639_3": "zul",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/zulu1248"
+  },
+  "definition": "A human language also known as isiZulu.",
+  "entry_text": "A human language also known as isiZulu.",
+  "entry_text_kind": "definition",
+  "example": "An interpreter explains booking instructions in isiZulu.",
+  "id": "wozti9mkk0",
+  "key": "zulu",
+  "label": "Zulu",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

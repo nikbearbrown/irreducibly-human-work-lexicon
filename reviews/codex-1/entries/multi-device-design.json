@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Multi-device design makes an experience usable across device types by adapting layout, controls and workflow to their capabilities.",
+  "entry_text": "Multi-device design makes an experience usable across device types by adapting layout, controls and workflow to their capabilities.",
+  "entry_text_kind": "definition",
+  "example": "A designer reworks a dense desktop table into a compact touch-friendly view for phones.",
+  "id": "d585rvfjpc",
+  "key": "multi-device-design",
+  "label": "Multi-device design",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

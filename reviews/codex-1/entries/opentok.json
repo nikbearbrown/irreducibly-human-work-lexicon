@@ -1,0 +1,28 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "OpenTok is technology for building real-time video and audio communications into applications.",
+  "entry_text": "OpenTok is technology for building real-time video and audio communications into applications.",
+  "entry_text_kind": "definition",
+  "example": "A developer adds a video consultation room to an appointment service.",
+  "id": "ej5umhxvn3",
+  "key": "opentok",
+  "label": "OpenTok",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label may occur as a legacy brand; verify applicable product documentation.",
+  "sources": [
+    {
+      "id": "ej5umhxvn3",
+      "note": "The operator documents OpenTok as an embeddable realtime communications Video API with audio/video and other collaboration features.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://developer.vonage.com/en/opentok/overview",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

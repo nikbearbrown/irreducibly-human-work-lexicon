@@ -1,0 +1,28 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "LightTools is optical design and simulation software for modeling illumination systems and light propagation.",
+  "entry_text": "LightTools is optical design and simulation software for modeling illumination systems and light propagation.",
+  "entry_text_kind": "definition",
+  "example": "An optical engineer simulates how evenly a light guide illuminates a display.",
+  "id": "hnlyt1jz4b",
+  "key": "lighttools",
+  "label": "LightTools",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "hnlyt1jz4b",
+      "note": "The developer's product brochure covers illumination modeling and design, optical ray tracing, and light-guide applications.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://www.synopsys.com/content/dam/synopsys/optical-solutions/documents/brochures/lighttools_brochure.pdf",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

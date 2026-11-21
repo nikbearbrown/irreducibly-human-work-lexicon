@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Operating large powered machinery safely and effectively for work such as construction, extraction, or material movement.",
+  "entry_text": "Operating large powered machinery safely and effectively for work such as construction, extraction, or material movement.",
+  "entry_text_kind": "definition",
+  "example": "A trained operator uses an excavator to move material within an approved work zone.",
+  "id": "k9f0ahmyf1",
+  "key": "heavy-equipment-operation",
+  "label": "Heavy equipment operation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

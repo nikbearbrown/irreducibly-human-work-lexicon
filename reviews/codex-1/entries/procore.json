@@ -1,0 +1,20 @@
+{
+  "batch": "skill-036.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Procore is a construction management platform for coordinating project information, work and participants.",
+  "entry_text": "Procore is a construction management platform for coordinating project information, work and participants.",
+  "entry_text_kind": "definition",
+  "example": "A contractor uses it to track requests for information and project documents.",
+  "id": "sslld0gt0n",
+  "key": "procore",
+  "label": "Procore",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

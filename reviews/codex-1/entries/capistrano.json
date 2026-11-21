@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Capistrano automates remote execution and deployment tasks for software applications.",
+  "entry_text": "Capistrano automates remote execution and deployment tasks for software applications.",
+  "entry_text_kind": "definition",
+  "example": "A team runs a consistent release sequence across several authorized application servers.",
+  "id": "q8zepjtla7",
+  "key": "capistrano",
+  "label": "Capistrano",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

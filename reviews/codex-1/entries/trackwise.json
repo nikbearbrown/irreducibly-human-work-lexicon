@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "TrackWise is quality management software used to manage regulated or controlled processes such as deviations, audits, and corrective actions.",
+  "entry_text": "TrackWise is quality management software used to manage regulated or controlled processes such as deviations, audits, and corrective actions.",
+  "entry_text_kind": "definition",
+  "example": "A manufacturer logs a deviation and links it to a corrective action and effectiveness check.",
+  "id": "jzhusdqwl4",
+  "key": "trackwise",
+  "label": "TrackWise",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Verify edition where cloud and legacy implementations differ.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

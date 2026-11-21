@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Shaping a piece of wood by applying heat and bending it to a form.",
+  "entry_text": "Shaping a piece of wood by applying heat and bending it to a form.",
+  "entry_text_kind": "definition",
+  "example": "A furniture maker produces a curved wooden component for a chair.",
+  "id": "c4tsd6o757",
+  "key": "heat-bending-of-wood",
+  "label": "Heat bending of wood",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

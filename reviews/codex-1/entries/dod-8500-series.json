@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A family of United States Department of Defense directives and instructions concerning information assurance and cybersecurity.",
+  "entry_text": "A family of United States Department of Defense directives and instructions concerning information assurance and cybersecurity.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "n0qt1tfnn4",
+  "key": "dod-8500-series",
+  "label": "DoD 8500 series",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the particular documents and historical version because the series has evolved.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

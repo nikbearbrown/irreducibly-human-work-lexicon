@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-010.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The parasympathetic nervous system is the autonomic division that supports functions such as slowing the heart and promoting digestion.",
+  "entry_text": "The parasympathetic nervous system is the autonomic division that supports functions such as slowing the heart and promoting digestion.",
+  "entry_text_kind": "definition",
+  "example": "A physiology student explains how parasympathetic activity helps reduce heart rate during rest.",
+  "id": "q2d0ow3z6i",
+  "key": "parasympathetic-nervous-system",
+  "label": "Parasympathetic nervous system",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A historical test automation platform that supported running and reporting tests across multiple .NET frameworks.",
+  "entry_text": "A historical test automation platform that supported running and reporting tests across multiple .NET frameworks.",
+  "entry_text_kind": "definition",
+  "example": "A team runs tests from two supported .NET test frameworks and collects their results together.",
+  "id": "zr7jfsxep8",
+  "key": "gallio",
+  "label": "Gallio",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

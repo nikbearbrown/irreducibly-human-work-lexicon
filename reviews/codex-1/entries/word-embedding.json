@@ -1,0 +1,20 @@
+{
+  "batch": "skill-049.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A word embedding is a numerical vector that places a word in a space where distances or directions can reflect learned patterns in its usage.",
+  "entry_text": "A word embedding is a numerical vector that places a word in a space where distances or directions can reflect learned patterns in its usage.",
+  "entry_text_kind": "definition",
+  "example": "A search system uses nearby vectors to find terms used in similar contexts.",
+  "id": "zblaq7zuuy",
+  "key": "word-embedding",
+  "label": "Word embedding",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

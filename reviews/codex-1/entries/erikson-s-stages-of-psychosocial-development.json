@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-005.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Erikson's theory divides psychosocial development into eight life stages, each organized around a characteristic conflict.",
+  "entry_text": "Erikson's theory divides psychosocial development into eight life stages, each organized around a characteristic conflict.",
+  "entry_text_kind": "definition",
+  "example": "A developmental psychology class discusses identity versus role confusion in adolescence.",
+  "id": "c8dynexvh1",
+  "key": "erikson-s-stages-of-psychosocial-development",
+  "label": "Erikson's stages of psychosocial development",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

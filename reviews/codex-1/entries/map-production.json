@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Map production combines geographic data, cartographic design and publishing to create maps for an intended use.",
+  "entry_text": "Map production combines geographic data, cartographic design and publishing to create maps for an intended use.",
+  "entry_text_kind": "definition",
+  "example": "A planner produces a printed map that distinguishes flood zones from roads and building footprints.",
+  "id": "k99ngi7x73",
+  "key": "map-production",
+  "label": "Map production",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

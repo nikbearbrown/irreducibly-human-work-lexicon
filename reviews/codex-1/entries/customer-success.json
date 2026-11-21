@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Customer success helps customers achieve the outcomes they intended to obtain from a product or service.",
+  "entry_text": "Customer success helps customers achieve the outcomes they intended to obtain from a product or service.",
+  "entry_text_kind": "definition",
+  "example": "A customer success manager agrees on adoption goals and checks whether the customer can now complete the targeted workflow.",
+  "id": "s00v9m81ez",
+  "key": "customer-success",
+  "label": "Customer success",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

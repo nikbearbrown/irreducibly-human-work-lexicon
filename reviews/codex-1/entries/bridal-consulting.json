@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Bridal consulting advises clients on wedding choices and can coordinate selected elements of planning and preparation.",
+  "entry_text": "Bridal consulting advises clients on wedding choices and can coordinate selected elements of planning and preparation.",
+  "entry_text_kind": "definition",
+  "example": "A consultant helps a couple choose among vendors within their budget.",
+  "id": "l39uixm3x0",
+  "key": "bridal-consulting",
+  "label": "Bridal consulting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

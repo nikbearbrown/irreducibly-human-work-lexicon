@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An autoregressive integrated moving-average model forecasts a univariate time series through differencing and terms based on prior values and forecast errors.",
+  "entry_text": "An autoregressive integrated moving-average model forecasts a univariate time series through differencing and terms based on prior values and forecast errors.",
+  "entry_text_kind": "definition",
+  "example": "An analyst models weekly demand and checks whether its residuals retain time dependence.",
+  "id": "jqsu0gbi1u",
+  "key": "autoregressive-integrated-moving-average",
+  "label": "Autoregressive integrated moving average",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

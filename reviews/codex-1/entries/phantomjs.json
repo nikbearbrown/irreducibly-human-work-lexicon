@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PhantomJS was a scriptable headless browser based on WebKit and used for automated page interactions.",
+  "entry_text": "PhantomJS was a scriptable headless browser based on WebKit and used for automated page interactions.",
+  "entry_text_kind": "definition",
+  "example": "A team used it to render test pages without a visible browser window.",
+  "id": "w77qwg3nqc",
+  "key": "phantomjs",
+  "label": "PhantomJS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical tool; do not imply current support or browser compatibility.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

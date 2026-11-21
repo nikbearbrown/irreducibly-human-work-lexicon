@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Bariatric surgery encompasses operations that alter the digestive system to treat obesity and associated metabolic conditions.",
+  "entry_text": "Bariatric surgery encompasses operations that alter the digestive system to treat obesity and associated metabolic conditions.",
+  "entry_text_kind": "definition",
+  "example": "A care team compares the expected benefits and long-term follow-up needs of different bariatric operations.",
+  "id": "dfc9xr7d51",
+  "key": "bariatric-surgery",
+  "label": "Bariatric surgery",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

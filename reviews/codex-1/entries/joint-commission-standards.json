@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Joint Commission standards set accreditation requirements for health care organizations' quality, safety and operational practices.",
+  "entry_text": "Joint Commission standards set accreditation requirements for health care organizations' quality, safety and operational practices.",
+  "entry_text_kind": "definition",
+  "example": "A hospital reviews medication management practices against the requirements that apply to its accreditation program.",
+  "id": "epds2yvzsk",
+  "key": "joint-commission-standards",
+  "label": "Joint Commission standards",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

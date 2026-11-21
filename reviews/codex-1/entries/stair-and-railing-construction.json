@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Stair and railing construction builds stairways and protective or graspable rails to meet design, structural, and safety requirements.",
+  "entry_text": "Stair and railing construction builds stairways and protective or graspable rails to meet design, structural, and safety requirements.",
+  "entry_text_kind": "definition",
+  "example": "A carpenter checks that completed stairs have consistent rise heights and secure handrail attachments.",
+  "id": "zcduq1duac",
+  "key": "stair-and-railing-construction",
+  "label": "Stair and railing construction",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

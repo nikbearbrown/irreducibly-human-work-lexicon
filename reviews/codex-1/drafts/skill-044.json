@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c2c1jv92du",
+    "definition": "Swedish massage is a style of manual massage using gliding strokes, kneading, and other soft-tissue techniques commonly associated with relaxation.",
+    "example": "A massage therapist tailors the pressure and pace of a relaxation session to a client's preferences.",
+    "sense_note": null
+  },
+  {
+    "id": "wroqa3tbb6",
+    "definition": "The SWIFT network carries standardized, authenticated financial messages between participating institutions without itself moving the underlying funds.",
+    "example": "A bank sends a payment instruction through SWIFT while settlement occurs through separate accounts or systems.",
+    "sense_note": null
+  },
+  {
+    "id": "c2hvl2fprf",
+    "definition": "Sybase Unwired Platform was middleware for developing and managing enterprise mobile applications connected to back-end systems.",
+    "example": "A maintenance team traces how a legacy offline field application synchronized records with its enterprise database.",
+    "sense_note": "Historical name later associated with SAP Mobile Platform; verify version for specific capabilities."
+  },
+  {
+    "id": "cuus4vfi89",
+    "definition": "Synthesizing information combines evidence and ideas across sources into an integrated account while preserving important disagreements, limitations, and context.",
+    "example": "An analyst combines interviews and service records to explain where their findings agree and where more evidence is needed.",
+    "sense_note": null
+  },
+  {
+    "id": "ou1594vcv2",
+    "definition": "Syskey was a legacy Windows utility for configuring additional protection of account database keys at system startup.",
+    "example": "A Windows migration specialist recognizes Syskey in historical documentation and checks which replacement security controls apply.",
+    "sense_note": "Retired feature; not a recommendation to use it."
+  },
+  {
+    "id": "clq0n7n3rj",
+    "definition": "Sysomos was a social media analysis and management platform used to track mentions, trends, and audience activity.",
+    "example": "An analyst examines archived reports on public mentions of a campaign across social channels.",
+    "sense_note": "Historical branding and capabilities may differ by module."
+  },
+  {
+    "id": "lkcv1ec2gi",
+    "definition": "System.Data is the .NET namespace that provides ADO.NET abstractions and in-memory structures for working with data sources.",
+    "example": "A developer uses a DataTable to hold structured query results for a desktop application.",
+    "sense_note": null
+  },
+  {
+    "id": "tou8ocnk8g",
+    "definition": "System implementation brings a designed system into operation by configuring, integrating, testing, deploying, and transitioning it into use.",
+    "example": "A team migrates stock records, verifies them against the old system, and trains warehouse staff before switching over.",
+    "sense_note": null
+  },
+  {
+    "id": "v2qchw97mc",
+    "definition": "System recovery restores a failed or disrupted system and its data to a usable condition based on recovery objectives and verified procedures.",
+    "example": "A team restores a known backup and checks that critical transactions can be read before resuming service.",
+    "sense_note": null
+  },
+  {
+    "id": "hkky8htw9n",
+    "definition": "SystemJS is a JavaScript module loader that resolves and loads supported module formats at runtime, including System.register modules.",
+    "example": "A web application loads an independently deployed UI module without bundling it into the host application.",
+    "sense_note": null
+  },
+  {
+    "id": "dwli80bqlh",
+    "definition": "Systems management administers and monitors computing infrastructure, including configuration, updates, inventory, and availability.",
+    "example": "An IT team stages operating system updates and tracks which managed devices still need them.",
+    "sense_note": "Interpreted as IT infrastructure management."
+  },
+  {
+    "id": "hc5hip223s",
+    "definition": "A table data gateway is an application design pattern that centralizes access to the rows of a database table or view in a single gateway object.",
+    "example": "An application sends customer insert and lookup operations through one gateway instead of scattering SQL throughout the code.",
+    "sense_note": null
+  },
+  {
+    "id": "g0juzcckj3",
+    "definition": "Table etiquette is the set of context-dependent social conventions for behavior, consideration, and communication during shared meals.",
+    "example": "A guest checks with the host before following an unfamiliar custom at a formal meal.",
+    "sense_note": null
+  },
+  {
+    "id": "enjwt6y9ws",
+    "definition": "Tableau is a visual analytics platform for connecting to data and creating interactive charts, dashboards, and reports.",
+    "example": "An analyst builds a dashboard that lets viewers filter service delays by month and region.",
+    "sense_note": "Interpreted as the software, not a staged picture or arrangement."
+  },
+  {
+    "id": "b1dxizkqhf",
+    "definition": "Tabular Data Stream is a wire protocol used by SQL Server and related database systems to exchange requests and tabular results with clients.",
+    "example": "A driver developer checks how metadata and result rows are represented in a database response.",
+    "sense_note": null
+  },
+  {
+    "id": "lbwvejax9o",
+    "definition": "Taking messages means recording and relaying a caller's or visitor's information accurately, completely, and to the appropriate recipient.",
+    "example": "A receptionist records a callback number and repeats it to confirm accuracy before forwarding the message.",
+    "sense_note": null
+  },
+  {
+    "id": "akpvn12n13",
+    "definition": "Talent management coordinates how an organization attracts, develops, deploys, and retains people with the capabilities it needs.",
+    "example": "A manager reviews skills gaps and assigns development opportunities before filling a future leadership role.",
+    "sense_note": null
+  },
+  {
+    "id": "gh7hw40ihw",
+    "definition": "Tanium is an endpoint management and security platform for obtaining device visibility and carrying out authorized management actions.",
+    "example": "An administrator checks managed computers for an approved software update and follows up on missing installations.",
+    "sense_note": null
+  },
+  {
+    "id": "ihyv0gip0q",
+    "definition": "A tank truck is a road vehicle fitted with a tank to transport bulk liquids, gases, or certain dry materials.",
+    "example": "A carrier chooses a food-grade tank truck for transporting milk between a dairy and a processing facility.",
+    "sense_note": null
+  },
+  {
+    "id": "waape7li6p",
+    "definition": "A tape measure is a flexible graduated strip used to measure lengths, distances, or circumferences.",
+    "example": "A carpenter measures the clear width of an opening before cutting a shelf.",
+    "sense_note": null
+  },
+  {
+    "id": "xeek87269i",
+    "definition": "A tape recorder captures audio by magnetically recording it on moving tape and can reproduce the recorded signal during playback.",
+    "example": "An archivist plays a recorded interview on compatible equipment for digitization.",
+    "sense_note": "Interpreted as audio tape recording; magnetic tape also supports data or video recording."
+  },
+  {
+    "id": "a2ymv23g4x",
+    "definition": "Team leadership guides a group toward shared goals by clarifying priorities, coordinating work, supporting members, and making decisions.",
+    "example": "A team lead resolves conflicting assignments and agrees on a sequence that frees a blocked colleague.",
+    "sense_note": null
+  },
+  {
+    "id": "tz7ipk5s96",
+    "definition": "Teamwork is the coordinated contribution of people who share information, divide responsibilities, and support one another toward a common goal.",
+    "example": "Editors and designers share drafts early so each can address changes before the publication deadline.",
+    "sense_note": null
+  },
+  {
+    "id": "ysg81p4vz1",
+    "definition": "Technical leadership uses expertise and judgment to set technical direction, resolve tradeoffs, guide contributors, and maintain standards.",
+    "example": "An engineering lead compares designs with the team and records why one meets the reliability constraints better.",
+    "sense_note": null
+  },
+  {
+    "id": "p1mepec0j1",
+    "definition": "Technical record-keeping creates and maintains traceable records of technical actions, observations, decisions, and changes.",
+    "example": "A maintenance technician records the equipment identifier, work performed, and post-service check results.",
+    "sense_note": null
+  },
+  {
+    "id": "k8wsre0m9r",
+    "definition": "Technical writing explains specialized information or procedures accurately and clearly for the intended audience and task.",
+    "example": "A writer turns engineering notes into troubleshooting instructions with expected outcomes and escalation points.",
+    "sense_note": null
+  },
+  {
+    "id": "mrgdddo3z6",
+    "definition": "A technology roadmap relates capability needs and planned technical changes over time to goals, dependencies, and decision points.",
+    "example": "A team sequences a database upgrade before a feature that depends on a newer capability.",
+    "sense_note": null
+  },
+  {
+    "id": "pta76g7wnz",
+    "definition": "Tekla is Trimble's family of structural design, analysis, modeling, and detailing applications.",
+    "example": "A steel detailer uses Tekla Structures to prepare a model that includes fabrication connections.",
+    "sense_note": "Product-family label; verify intended application."
+  },
+  {
+    "id": "fgb46izjlv",
+    "definition": "Telecommunications equipment installation places, connects, configures, and verifies hardware used to carry communications signals.",
+    "example": "A technician installs approved fiber equipment and documents test results before service handoff.",
+    "sense_note": null
+  },
+  {
+    "id": "dlzr4a50wm",
+    "definition": "Telegraphy is the long-distance transmission of messages encoded as discrete signals, historically including electrical pulses over wires.",
+    "example": "A museum demonstration shows how a receiver interprets timed signals as letters in Morse code.",
+    "sense_note": null
+  },
+  {
+    "id": "btb285ynqv",
+    "definition": "Telephone etiquette is the practice of speaking, listening, and handling calls with clarity, courtesy, and respect for privacy.",
+    "example": "A receptionist asks permission before placing a caller on hold and returns with an update.",
+    "sense_note": null
+  },
+  {
+    "id": "tkskro5w3t",
+    "definition": "A telescoping gauge transfers an internal dimension from a hole or opening to an external measuring instrument.",
+    "example": "A machinist captures the diameter of a bore with a telescoping gauge and reads it with a micrometer.",
+    "sense_note": null
+  },
+  {
+    "id": "ttvro9fv4i",
+    "definition": "Television programming selects, schedules, or commissions content for a television channel or service to meet audience and operational goals.",
+    "example": "A scheduler places a weekly documentary in a time slot where its intended audience is likely to watch.",
+    "sense_note": "Could also denote the television content itself; interpreted as the work of organizing it."
+  },
+  {
+    "id": "xc837yeme5",
+    "definition": "Temporal is a platform for durable application workflows that records execution history and coordinates work, retries, and recovery across failures.",
+    "example": "An order workflow resumes after a worker restarts without restarting its completed sequence from the beginning.",
+    "sense_note": "Temporal.io is the project and vendor website naming."
+  },
+  {
+    "id": "gjwmms3bhr",
+    "definition": "TensorFlow is an open-source machine learning platform for representing tensor computations and building, training, or deploying models.",
+    "example": "A researcher trains an image classifier and evaluates it on held-out examples using TensorFlow.",
+    "sense_note": null
+  },
+  {
+    "id": "ss273uzint",
+    "definition": "Software testing evaluates software behavior against expectations by examining or exercising it under defined conditions.",
+    "example": "A tester checks that an expired reset link is rejected and a valid test link produces the expected screen.",
+    "sense_note": null
+  },
+  {
+    "id": "ziz4wwoccd",
+    "definition": "TestNG is a Java testing framework that supports annotated tests, configuration methods, parameterization, and grouping.",
+    "example": "A developer runs a parameterized checkout test with several input combinations.",
+    "sense_note": null
+  },
+  {
+    "id": "dua32jm4h0",
+    "definition": "Theano was an open-source Python library for defining and optimizing mathematical expressions on multidimensional arrays, including automatic differentiation.",
+    "example": "A researcher examining older neural network code identifies how Theano created the gradient used to update parameters.",
+    "sense_note": "Historical project; do not infer maintenance status of forks."
+  },
+  {
+    "id": "wyuz035oqf",
+    "definition": "A theory of change explains how and why activities are expected to contribute to intended outcomes, including intermediate steps and assumptions.",
+    "example": "A nonprofit maps how coaching might improve interview performance and states the conditions needed for it to improve hiring outcomes.",
+    "sense_note": null
+  },
+  {
+    "id": "i77a6xif9h",
+    "definition": "Therapeutic interventions are planned actions intended to alleviate symptoms, improve functioning, or support recovery in a care context.",
+    "example": "A clinician selects a supervised exercise program to help a patient regain functional mobility.",
+    "sense_note": "Broad label spans physical health, mental health, and other therapeutic contexts."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cisco Intersight is an infrastructure management platform for monitoring and operating supported systems from a shared control interface.",
+  "entry_text": "Cisco Intersight is an infrastructure management platform for monitoring and operating supported systems from a shared control interface.",
+  "entry_text_kind": "definition",
+  "example": "An infrastructure team reviews firmware compliance for enrolled systems.",
+  "id": "ek5du86681",
+  "key": "cisco-intersight",
+  "label": "Cisco Intersight",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

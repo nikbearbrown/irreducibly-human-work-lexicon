@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Seliwanoff's test is a qualitative chemical assay that distinguishes certain ketose sugars from aldose sugars chiefly by the timing of their color response.",
+  "entry_text": "Seliwanoff's test is a qualitative chemical assay that distinguishes certain ketose sugars from aldose sugars chiefly by the timing of their color response.",
+  "entry_text_kind": "definition",
+  "example": "A chemistry student interprets an archived test result by distinguishing a rapid response from a delayed one.",
+  "id": "oec4f8pb0z",
+  "key": "seliwanoff-s-test",
+  "label": "Seliwanoff's test",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

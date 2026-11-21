@@ -1,0 +1,31 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Sundanese (ISO 639-3: sun) as a language under the Austronesian grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Austronesian",
+    "catalog_name": "Sundanese",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "sund1252",
+    "iso639_3": "sun",
+    "macroarea": "Papunesia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/sund1252"
+  },
+  "definition": "A human language used in speech and writing.",
+  "entry_text": "A human language used in speech and writing.",
+  "entry_text_kind": "definition",
+  "example": "A translator checks a Sundanese community notice.",
+  "id": "wmeomhwzf1",
+  "key": "sundanese",
+  "label": "Sundanese",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Tools and machinery used to carry out farm operations such as soil preparation, planting, or harvesting.",
+  "entry_text": "Tools and machinery used to carry out farm operations such as soil preparation, planting, or harvesting.",
+  "entry_text_kind": "definition",
+  "example": "A farmer selects an implement suited to preparing a field for planting.",
+  "id": "pu8rwr7u2b",
+  "key": "farm-implements",
+  "label": "Farm implements",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

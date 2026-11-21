@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An automotive loan is credit used to purchase a vehicle, which typically serves as collateral for repayment.",
+  "entry_text": "An automotive loan is credit used to purchase a vehicle, which typically serves as collateral for repayment.",
+  "entry_text_kind": "definition",
+  "example": "A borrower compares monthly payments and total interest for the same car under two loan terms.",
+  "id": "gar91e3y2c",
+  "key": "automotive-loans",
+  "label": "Automotive loans",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

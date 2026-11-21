@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Temporal is a platform for durable application workflows that records execution history and coordinates work, retries, and recovery across failures.",
+  "entry_text": "Temporal is a platform for durable application workflows that records execution history and coordinates work, retries, and recovery across failures.",
+  "entry_text_kind": "definition",
+  "example": "An order workflow resumes after a worker restarts without restarting its completed sequence from the beginning.",
+  "id": "xc837yeme5",
+  "key": "temporal-io",
+  "label": "Temporal.io",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Temporal.io is the project and vendor website naming.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

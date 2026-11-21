@@ -1,0 +1,20 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A logic programming language that answers queries using facts, rules, unification, and search.",
+  "entry_text": "A logic programming language that answers queries using facts, rules, unification, and search.",
+  "entry_text_kind": "definition",
+  "example": "A developer queries a family relation derived from recorded parent facts.",
+  "id": "j7d05adqgg",
+  "key": "prolog",
+  "label": "Prolog",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

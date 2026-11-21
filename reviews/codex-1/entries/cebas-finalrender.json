@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "cebas finalRender is a rendering engine for producing images from 3D scenes with simulated lighting and materials.",
+  "entry_text": "cebas finalRender is a rendering engine for producing images from 3D scenes with simulated lighting and materials.",
+  "entry_text_kind": "definition",
+  "example": "A visual effects artist renders a scene to review its reflections and shadows.",
+  "id": "j3q3yhad2u",
+  "key": "cebas-finalrender",
+  "label": "cebas finalRender",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

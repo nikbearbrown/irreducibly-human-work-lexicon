@@ -1,0 +1,20 @@
+{
+  "batch": "skill-024.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A historical Angular-based version of the Ionic framework for building hybrid mobile applications using web technologies.",
+  "entry_text": "A historical Angular-based version of the Ionic framework for building hybrid mobile applications using web technologies.",
+  "entry_text_kind": "definition",
+  "example": "A team uses Ionic 2 components to build application screens for both Android and iOS.",
+  "id": "ynl2bq90h0",
+  "key": "ionic-2",
+  "label": "Ionic 2",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The entry is version-specific; do not assume current Ionic conventions.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

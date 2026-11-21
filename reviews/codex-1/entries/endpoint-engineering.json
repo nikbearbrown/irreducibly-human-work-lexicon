@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Designing, configuring, and maintaining standardized computing environments for endpoint devices.",
+  "entry_text": "Designing, configuring, and maintaining standardized computing environments for endpoint devices.",
+  "entry_text_kind": "definition",
+  "example": "An engineer develops a supported workstation configuration for new employees.",
+  "id": "yaztpt8bej",
+  "key": "endpoint-engineering",
+  "label": "Endpoint engineering",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

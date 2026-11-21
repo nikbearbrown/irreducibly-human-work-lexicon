@@ -1,0 +1,28 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "JD Edwards CNC is the administration discipline for installing, configuring and operating the JD Edwards EnterpriseOne technical environment.",
+  "entry_text": "JD Edwards CNC is the administration discipline for installing, configuring and operating the JD Edwards EnterpriseOne technical environment.",
+  "entry_text_kind": "definition",
+  "example": "An administrator builds and deploys an EnterpriseOne application package to a test environment.",
+  "id": "siozurm3lm",
+  "key": "jd-edwards-cnc",
+  "label": "JD Edwards CNC",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "siozurm3lm",
+      "note": "Oracle names CNC the EnterpriseOne application architecture, while the draft defines the associated administrative discipline. Define the architecture first or explicitly name the skill as CNC administration; the deployment example is a plausible use.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://docs.oracle.com/cd/E24705_01/doc.91/e24220/getting_started.htm",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

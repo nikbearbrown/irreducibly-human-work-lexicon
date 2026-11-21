@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Pilates is a method of controlled exercise emphasizing coordination, breathing and muscular control.",
+  "entry_text": "Pilates is a method of controlled exercise emphasizing coordination, breathing and muscular control.",
+  "entry_text_kind": "definition",
+  "example": "An instructor guides a participant through a controlled movement while cueing breathing.",
+  "id": "gwnsslbe3u",
+  "key": "pilates",
+  "label": "Pilates",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "LLM observability is the practice of collecting and inspecting signals about a language-model application's execution and output quality.",
+  "entry_text": "LLM observability is the practice of collecting and inspecting signals about a language-model application's execution and output quality.",
+  "entry_text_kind": "definition",
+  "example": "An engineer uses traces to see whether slow answers originate in retrieval or model generation.",
+  "id": "foom4y38p0",
+  "key": "llm-observability",
+  "label": "LLM observability",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

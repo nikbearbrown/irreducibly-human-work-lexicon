@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "LiveData is an Android Jetpack observable data holder that delivers updates with awareness of an observer's lifecycle.",
+  "entry_text": "LiveData is an Android Jetpack observable data holder that delivers updates with awareness of an observer's lifecycle.",
+  "entry_text_kind": "definition",
+  "example": "An Android screen observes a view model's LiveData to display changes when the screen is active.",
+  "id": "cmdbpnjrr6",
+  "key": "livedata",
+  "label": "LiveData",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

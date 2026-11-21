@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Social-emotional learning develops competencies for recognizing emotions, managing behavior, building relationships, and making responsible decisions.",
+  "entry_text": "Social-emotional learning develops competencies for recognizing emotions, managing behavior, building relationships, and making responsible decisions.",
+  "entry_text_kind": "definition",
+  "example": "Students practice distinguishing their own feelings from a classmate's perspective during a group conflict exercise.",
+  "id": "ot4pymzomt",
+  "key": "social-emotional-learning",
+  "label": "Social-emotional learning",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

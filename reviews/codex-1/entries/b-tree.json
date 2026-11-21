@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A B-tree is a balanced multiway search tree that keeps keys sorted and limits the number of nodes visited for lookups and updates.",
+  "entry_text": "A B-tree is a balanced multiway search tree that keeps keys sorted and limits the number of nodes visited for lookups and updates.",
+  "entry_text_kind": "definition",
+  "example": "A database uses a B-tree index to find a range of invoice dates without scanning every invoice.",
+  "id": "w9n8sme4x4",
+  "key": "b-tree",
+  "label": "B-tree",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

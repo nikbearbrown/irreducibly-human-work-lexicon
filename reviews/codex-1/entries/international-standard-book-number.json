@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A standardized identifier assigned to a particular edition and format of a book or similar monographic publication.",
+  "entry_text": "A standardized identifier assigned to a particular edition and format of a book or similar monographic publication.",
+  "entry_text_kind": "definition",
+  "example": "A bookseller matches a hardcover edition to its ISBN.",
+  "id": "rscqfs498r",
+  "key": "international-standard-book-number",
+  "label": "International Standard Book Number",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

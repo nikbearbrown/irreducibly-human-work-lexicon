@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "i7ho5g8jhr",
+    "key": "thin-film-coating",
+    "label": "Thin film coating",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e2co6cr2s0",
+    "key": "third-party-risk-management",
+    "label": "Third party risk management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gk4ii6y37r",
+    "key": "threading-manufacturing",
+    "label": "Threading (manufacturing)",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wkbsvthe6e",
+    "key": "threat-modeling",
+    "label": "Threat modeling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g2h5hej63u",
+    "key": "three-js",
+    "label": "Three.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tkhv6cm0yg",
+    "key": "thyroid-biopsy",
+    "label": "Thyroid biopsy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y8avl54v9o",
+    "key": "thyroid-ultrasound",
+    "label": "Thyroid ultrasound",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g73ql8iyda",
+    "key": "tibco-activematrix",
+    "label": "TIBCO ActiveMatrix",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fki4wx2hnj",
+    "key": "tibco-designer",
+    "label": "TIBCO Designer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ghalca0lm7",
+    "key": "tibco-enterprise-message-service",
+    "label": "TIBCO Enterprise Message Service",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wwmgynppq0",
+    "key": "tibco-iprocess-suite",
+    "label": "TIBCO iProcess Suite",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bdi5yd5igv",
+    "key": "tibco-spotfire",
+    "label": "TIBCO Spotfire",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ufo7ksvhuf",
+    "key": "time-protocol",
+    "label": "Time Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ixpjy58qxp",
+    "key": "tinydb",
+    "label": "TinyDB",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qp9g31370v",
+    "key": "tire-balancing-and-rotation",
+    "label": "Tire balancing and rotation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pld1fraqcc",
+    "key": "togaf",
+    "label": "TOGAF",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n5lzhqjkhv",
+    "key": "tokudb",
+    "label": "TokuDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "irydpvx389",
+    "key": "tool-use",
+    "label": "Agent tool use",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u3nn7jymhc",
+    "key": "toon-boom",
+    "label": "Toon Boom",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "epler56qiy",
+    "key": "topsolid",
+    "label": "TopSolid",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wng5g0t68d",
+    "key": "torch-machine-learning",
+    "label": "Torch (machine learning)",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tccw7yyw7f",
+    "key": "tourism-management",
+    "label": "Tourism management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h4el20olb5",
+    "key": "track-and-trace",
+    "label": "Track and trace",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jzhusdqwl4",
+    "key": "trackwise",
+    "label": "TrackWise",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n9pcxl6m5e",
+    "key": "traffic-alert-and-collision-avoidance-system",
+    "label": "Traffic Alert and Collision Avoidance System",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "leu6zjs1w7",
+    "key": "traffic-collision-reconstruction",
+    "label": "Traffic collision reconstruction",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yeo5zlg9b0",
+    "key": "training-and-development-needs-assessment",
+    "label": "Training and development needs assessment",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a2jaki06vt",
+    "key": "training-material-development",
+    "label": "Training material development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jrjgi5l08q",
+    "key": "trans-proteomic-pipeline",
+    "label": "Trans-Proteomic Pipeline",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tmgkousng8",
+    "key": "transaction-monitoring",
+    "label": "Transaction monitoring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "drsw0y6l0f",
+    "key": "transient-expression",
+    "label": "Transient expression",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s2ue9ge4us",
+    "key": "trauma-focused-cognitive-behavioral-therapy",
+    "label": "Trauma-focused cognitive behavioral therapy",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qq7az5jyor",
+    "key": "travel-coordination",
+    "label": "Travel coordination",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zeqzu6mpby",
+    "key": "treatment-planning",
+    "label": "Treatment planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n13ccjbhiu",
+    "key": "treemap",
+    "label": "Treemap",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lq3c55zbbn",
+    "key": "trendline",
+    "label": "Trendline",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bc9knehyg2",
+    "key": "tv-production",
+    "label": "TV production",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cztrri0hmh",
+    "key": "twitch",
+    "label": "Twitch",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t04g06uxlu",
+    "key": "twitter-advertising",
+    "label": "Twitter advertising",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "om33zxs7ew",
+    "key": "twitter-marketing",
+    "label": "Twitter marketing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

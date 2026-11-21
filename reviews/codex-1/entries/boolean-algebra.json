@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Boolean algebra is a formal system for combining and simplifying true-or-false values using operations such as AND, OR, and NOT.",
+  "entry_text": "Boolean algebra is a formal system for combining and simplifying true-or-false values using operations such as AND, OR, and NOT.",
+  "entry_text_kind": "definition",
+  "example": "A designer uses Boolean algebra to simplify the logic determining whether a warning light turns on.",
+  "id": "njv3f0ufws",
+  "key": "boolean-algebra",
+  "label": "Boolean algebra",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

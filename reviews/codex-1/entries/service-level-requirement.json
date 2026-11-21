@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A service level requirement states a needed performance, availability, or support level for a service before or alongside agreement on measurable commitments.",
+  "entry_text": "A service level requirement states a needed performance, availability, or support level for a service before or alongside agreement on measurable commitments.",
+  "entry_text_kind": "definition",
+  "example": "A client specifies that critical support incidents need an initial response within 30 minutes.",
+  "id": "vb3ht42xuh",
+  "key": "service-level-requirement",
+  "label": "Service level requirement",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

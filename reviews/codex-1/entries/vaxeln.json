@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "VAXELN was a Digital Equipment Corporation environment for developing and running real-time applications on supported processors, notably VAX systems.",
+  "entry_text": "VAXELN was a Digital Equipment Corporation environment for developing and running real-time applications on supported processors, notably VAX systems.",
+  "entry_text_kind": "definition",
+  "example": "A preservation team reviews VAXELN task documentation to understand a legacy industrial controller.",
+  "id": "vrt18mc88e",
+  "key": "vaxeln",
+  "label": "VAXELN",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical environment; verify exact version and target hardware.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

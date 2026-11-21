@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Kahoot! is a learning platform for running interactive quizzes and activities on participants' devices.",
+  "entry_text": "Kahoot! is a learning platform for running interactive quizzes and activities on participants' devices.",
+  "entry_text_kind": "definition",
+  "example": "A teacher runs a live review quiz and discusses the questions many students missed.",
+  "id": "b7bxzv86i3",
+  "key": "kahoot",
+  "label": "Kahoot!",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

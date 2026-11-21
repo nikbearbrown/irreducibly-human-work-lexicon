@@ -1,0 +1,242 @@
+[
+  {
+    "id": "vjw6nn9z7a",
+    "definition": "CanJS is a JavaScript framework and toolkit for building reactive web user interfaces with observable data and templating.",
+    "example": "An application updates a customer list when records change without manually redrawing the entire page.",
+    "sense_note": null
+  },
+  {
+    "id": "jjtseh98ty",
+    "definition": "Cannabis and hemp extraction is the regulated processing of plant material to separate its chemical constituents from the plant matrix.",
+    "example": "A quality reviewer checks the analytical results and traceability records for an extract batch.",
+    "sense_note": null
+  },
+  {
+    "id": "ur7un4m2hl",
+    "definition": "Cannabis cultivation is the production and care of cannabis plants under established growing and applicable regulatory requirements.",
+    "example": "A compliance reviewer examines records showing how a permitted crop was tracked.",
+    "sense_note": null
+  },
+  {
+    "id": "r15eo3tf6w",
+    "definition": "Canon EOS flash systems are compatible camera and flash components for controlling artificial light during exposure.",
+    "example": "A photographer uses a compatible flash to balance a subject’s illumination against a bright background.",
+    "sense_note": null
+  },
+  {
+    "id": "ez7dggsvnr",
+    "definition": "Canva is a visual design platform for creating graphics, presentations, and related media with editable layouts and templates.",
+    "example": "A community group adapts a shared event flyer for print and social media.",
+    "sense_note": null
+  },
+  {
+    "id": "qbc9d7ejht",
+    "definition": "Canvas LMS is a learning management system for organizing courses, assignments, assessment, and communication.",
+    "example": "An instructor publishes a module and collects assignments through Canvas.",
+    "sense_note": null
+  },
+  {
+    "id": "rnblhw89i9",
+    "definition": "CanvasJS is a JavaScript charting library for rendering interactive data visualizations in web applications.",
+    "example": "A developer builds an online chart that lets users examine a specific week’s readings.",
+    "sense_note": null
+  },
+  {
+    "id": "iez1uaa2ih",
+    "definition": "Capacity management aligns available resources with current and anticipated demand to maintain service performance.",
+    "example": "A technology team estimates when storage demand will outgrow available capacity.",
+    "sense_note": null
+  },
+  {
+    "id": "q8zepjtla7",
+    "definition": "Capistrano automates remote execution and deployment tasks for software applications.",
+    "example": "A team runs a consistent release sequence across several authorized application servers.",
+    "sense_note": null
+  },
+  {
+    "id": "z1o0ffyerj",
+    "definition": "Capture One is photography software for processing raw files, organizing images, and tethered capture.",
+    "example": "A studio checks exposure and focus as images arrive from a connected camera.",
+    "sense_note": null
+  },
+  {
+    "id": "vks3m5ucke",
+    "definition": "Capybara is a Ruby web-testing library that simulates user interactions in a web application.",
+    "example": "An acceptance test fills in a sign-up form and checks that a confirmation appears.",
+    "sense_note": null
+  },
+  {
+    "id": "j4z1cx6ndx",
+    "definition": "Cardiac stress testing evaluates heart function under exercise or a pharmacological challenge using monitored measurements.",
+    "example": "A clinician reviews the recorded response to a supervised stress test.",
+    "sense_note": null
+  },
+  {
+    "id": "v2lrywem7h",
+    "definition": "Cardiac valve repair uses clinical interventions to restore function in an existing heart valve without fully replacing it.",
+    "example": "A heart team evaluates whether a leaking valve can be repaired and explains the options to a patient.",
+    "sense_note": null
+  },
+  {
+    "id": "mlkbn5wox3",
+    "definition": "Cardiopulmonary resuscitation is an emergency response that uses chest compressions and, where appropriate, ventilation to support circulation during cardiac arrest.",
+    "example": "A trainee demonstrates resuscitation on a manikin under an instructor’s supervision.",
+    "sense_note": null
+  },
+  {
+    "id": "v0acf8nnh1",
+    "definition": "Cardiovascular coding translates documented heart and vascular diagnoses and procedures into standardized healthcare codes.",
+    "example": "A coder checks that the codes used for a vascular intervention match the clinical record.",
+    "sense_note": null
+  },
+  {
+    "id": "z4lqfruwis",
+    "definition": "Care coordination organizes treatment, communication, and follow-up among patients, caregivers, and service providers.",
+    "example": "A coordinator confirms that a hospital discharge plan reaches the patient’s primary care practice.",
+    "sense_note": null
+  },
+  {
+    "id": "atpcz521nq",
+    "definition": "Carrot2 is a software library for clustering collections of text or search results into labeled groups.",
+    "example": "A search interface groups articles under automatically inferred topics.",
+    "sense_note": null
+  },
+  {
+    "id": "pm9d1jffs9",
+    "definition": "CARTO is a geospatial analytics platform for analyzing location data and creating map-based applications.",
+    "example": "A transport analyst visualizes areas served by existing transit routes.",
+    "sense_note": null
+  },
+  {
+    "id": "ao8aj57ya9",
+    "definition": "Cartographic design selects and arranges geographic information and visual symbols so a map communicates clearly.",
+    "example": "A designer emphasizes public transit lines while de-emphasizing minor streets.",
+    "sense_note": null
+  },
+  {
+    "id": "nr9nocn8r3",
+    "definition": "Case analysis examines the facts, context, and alternatives in a specific situation to support an interpretation or decision.",
+    "example": "A business student compares possible responses to a supplier failure using a detailed written case.",
+    "sense_note": null
+  },
+  {
+    "id": "u33zg3sop2",
+    "definition": "The case method teaches through discussion and analysis of concrete situations rather than exclusively through lectures or abstract exercises.",
+    "example": "An instructor asks students to defend different decisions as if they were the manager in a case.",
+    "sense_note": null
+  },
+  {
+    "id": "wlvg42fqif",
+    "definition": "CasperJS was a scripting and testing utility for automating browser interactions through PhantomJS or SlimerJS.",
+    "example": "A maintainer reads a historical browser test that verifies a site’s registration flow.",
+    "sense_note": null
+  },
+  {
+    "id": "e9497o6o3v",
+    "definition": "Casualty movement is the organized relocation or transport of an injured person to safety or appropriate care while accounting for their condition.",
+    "example": "A first-aid drill evaluates whether participants coordinate a simulated handoff safely.",
+    "sense_note": null
+  },
+  {
+    "id": "bpi2rb7akn",
+    "definition": "CatBoost is a gradient boosting library that trains tree ensembles and includes specialized handling of categorical features.",
+    "example": "An analyst trains a classification model using both transaction amounts and merchant categories.",
+    "sense_note": null
+  },
+  {
+    "id": "ieb2kta6jv",
+    "definition": "CCH ProSystem fx Engagement is software for organizing audit and accounting engagement documents, workpapers, and trial balances.",
+    "example": "An auditor links supporting schedules to a workpaper and routes it for review.",
+    "sense_note": null
+  },
+  {
+    "id": "mjyk2ua8d3",
+    "definition": "CDC Cyber was a family of large computer systems manufactured by Control Data Corporation.",
+    "example": "A computing historian investigates how a university scheduled programs on a CDC Cyber system.",
+    "sense_note": null
+  },
+  {
+    "id": "j3q3yhad2u",
+    "definition": "cebas finalRender is a rendering engine for producing images from 3D scenes with simulated lighting and materials.",
+    "example": "A visual effects artist renders a scene to review its reflections and shadows.",
+    "sense_note": null
+  },
+  {
+    "id": "fu8jc58vkx",
+    "definition": "Celoxis is project portfolio management software for planning work, tracking delivery, and allocating resources.",
+    "example": "A manager checks staffing conflicts across several projects.",
+    "sense_note": null
+  },
+  {
+    "id": "kneszztm3p",
+    "definition": "CentiLeo is a GPU-accelerated renderer for producing images from 3D scenes.",
+    "example": "A visualization artist renders a scene with complex lighting using a compatible graphics processor.",
+    "sense_note": null
+  },
+  {
+    "id": "vanjr7jvuv",
+    "definition": "Cerner refers to a family of healthcare information systems, including electronic health record products.",
+    "example": "A clinician retrieves documented laboratory results through a hospital’s Cerner system.",
+    "sense_note": "The name can refer to the vendor or different products, so a specific application may need clarification."
+  },
+  {
+    "id": "tplmkvcg50",
+    "definition": "Ceros is a platform for creating and publishing interactive digital content through visual authoring tools.",
+    "example": "A design team publishes a web report with interactive illustrations and animated sections.",
+    "sense_note": null
+  },
+  {
+    "id": "qc8vzv71vx",
+    "definition": "CFWheels is a CFML web framework that structures applications with model-view-controller conventions.",
+    "example": "A developer adds a controller action and view to display an order record.",
+    "sense_note": null
+  },
+  {
+    "id": "k4asujsweb",
+    "definition": "Chai.js is a JavaScript assertion library for expressing and checking expected conditions in tests.",
+    "example": "A unit test checks that a returned record has the required properties and values.",
+    "sense_note": null
+  },
+  {
+    "id": "lgdf0oiq2g",
+    "definition": "A chain conveyor moves materials or products using one or more driven chains, sometimes with attached carriers.",
+    "example": "A production line uses a chain conveyor to carry heavy fixtures between workstations.",
+    "sense_note": null
+  },
+  {
+    "id": "zilduzyei4",
+    "definition": "Chain of custody documents who collected, handled, stored, or transferred an item and when each event occurred.",
+    "example": "A laboratory records each transfer of a sealed specimen so its integrity can be evaluated.",
+    "sense_note": null
+  },
+  {
+    "id": "aulk2avg4s",
+    "definition": "Chainer was a Python deep-learning framework that constructed computation graphs dynamically during execution.",
+    "example": "A researcher studies how a legacy Chainer model branches based on input.",
+    "sense_note": null
+  },
+  {
+    "id": "bc99msc7oz",
+    "definition": "Challenge-Handshake Authentication Protocol authenticates a peer through a challenge and a response computed from a shared secret, without transmitting the secret directly.",
+    "example": "A network administrator recognizes CHAP as the authentication method in a legacy link configuration.",
+    "sense_note": null
+  },
+  {
+    "id": "c4t9cpgtn7",
+    "definition": "Change agility is the ability of a person or organization to adjust effectively as conditions, priorities, or practices change.",
+    "example": "A team reallocates work after a supplier delay and tests a new delivery sequence.",
+    "sense_note": null
+  },
+  {
+    "id": "qvfxi4tty4",
+    "definition": "Change management planning determines how a transition will be communicated, supported, implemented, and evaluated.",
+    "example": "A manager prepares training and feedback channels before rolling out a new process.",
+    "sense_note": null
+  },
+  {
+    "id": "lq0kalzltd",
+    "definition": "Changing oil removes used engine or machinery lubricant and replaces it with oil that meets the equipment’s requirements.",
+    "example": "A mechanic records the oil and filter replacement in a vehicle’s service history.",
+    "sense_note": null
+  }
+]

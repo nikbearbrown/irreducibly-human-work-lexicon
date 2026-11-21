@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sustainability risk management identifies, evaluates, and responds to environmental and social uncertainties that could affect operations, stakeholders, or long-term goals.",
+  "entry_text": "Sustainability risk management identifies, evaluates, and responds to environmental and social uncertainties that could affect operations, stakeholders, or long-term goals.",
+  "entry_text_kind": "definition",
+  "example": "A company assesses whether water scarcity at key suppliers could disrupt production and harm local communities.",
+  "id": "psgmej2f93",
+  "key": "sustainability-risk-management",
+  "label": "Sustainability risk management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

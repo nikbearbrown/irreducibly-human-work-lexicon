@@ -1,0 +1,20 @@
+{
+  "batch": "skill-049.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "z/OS is IBM’s operating system for mainframes, designed to support enterprise workloads such as transactions and batch processing.",
+  "entry_text": "z/OS is IBM’s operating system for mainframes, designed to support enterprise workloads such as transactions and batch processing.",
+  "entry_text_kind": "definition",
+  "example": "An operator checks the results of an overnight batch job on a z/OS system.",
+  "id": "z31by6og0u",
+  "key": "z-os",
+  "label": "z/OS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

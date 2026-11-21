@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Oracle EU Sovereign Cloud is an Oracle cloud offering designed for workloads subject to European data residency and operational sovereignty requirements.",
+  "entry_text": "Oracle EU Sovereign Cloud is an Oracle cloud offering designed for workloads subject to European data residency and operational sovereignty requirements.",
+  "entry_text_kind": "definition",
+  "example": "An organization evaluates whether its hosting arrangement satisfies internal European residency requirements.",
+  "id": "p4ka2pamq6",
+  "key": "oracle-eu-sovereign-cloud",
+  "label": "Oracle EU Sovereign Cloud",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "No particular regulatory compliance is guaranteed solely by using the offering.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

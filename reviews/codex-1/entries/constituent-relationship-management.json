@@ -1,0 +1,20 @@
+{
+  "batch": "skill-010.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Constituent relationship management organizes interactions and records for people connected to a nonprofit, public institution, or similar organization.",
+  "entry_text": "Constituent relationship management organizes interactions and records for people connected to a nonprofit, public institution, or similar organization.",
+  "entry_text_kind": "definition",
+  "example": "A charity tracks donor communication preferences and volunteer involvement in one system.",
+  "id": "rr6mhwi027",
+  "key": "constituent-relationship-management",
+  "label": "Constituent relationship management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

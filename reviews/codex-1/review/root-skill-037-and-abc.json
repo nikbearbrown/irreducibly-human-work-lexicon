@@ -1,0 +1,32 @@
+[
+  {
+    "id": "nozav31cgp",
+    "result": "supports",
+    "ref": "https://www.w3.org/TR/prov-overview/",
+    "note": "W3C defines provenance around entities, activities, and people involved in producing data. The draft covers origin and processing; broader agents and attribution could be added."
+  },
+  {
+    "id": "wpe22ejvkt",
+    "result": "supports",
+    "ref": "https://pugjs.org/api/getting-started.html",
+    "note": "Project documentation demonstrates indented templates compiled to functions rendering HTML with supplied data."
+  },
+  {
+    "id": "aoyn4kei0h",
+    "result": "supports",
+    "ref": "https://pptr.dev/docs/",
+    "note": "Official introduction explicitly describes JavaScript browser control and screenshot support."
+  },
+  {
+    "id": "ipe556x4k6",
+    "result": "supports",
+    "ref": "https://docs.pytorch.org/docs/main/notes/autograd.html",
+    "note": "Official documentation describes tensor operations and automatic differentiation during model training."
+  },
+  {
+    "id": "xuaqr3xw13",
+    "result": "unconfirmed",
+    "ref": "https://www.abcjs.net/",
+    "note": "abcjs is a plausible match: the project describes rendering ABC text music notation in JavaScript. This does not establish the source label refers only to that project."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A network-based project analysis method that represents uncertain activity paths and durations, including alternatives and loops.",
+  "entry_text": "A network-based project analysis method that represents uncertain activity paths and durations, including alternatives and loops.",
+  "entry_text_kind": "definition",
+  "example": "A planner models a process in which an unsuccessful test may send a task back for rework.",
+  "id": "xmvmbpscz8",
+  "key": "graphical-evaluation-and-review-technique",
+  "label": "Graphical Evaluation and Review Technique",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

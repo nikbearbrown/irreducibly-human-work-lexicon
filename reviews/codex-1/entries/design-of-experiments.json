@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A statistical approach for planning controlled experiments that estimate how selected factors affect a response.",
+  "entry_text": "A statistical approach for planning controlled experiments that estimate how selected factors affect a response.",
+  "entry_text_kind": "definition",
+  "example": "A team varies two packaging settings to determine their effects on defect rates.",
+  "id": "kokxhnhui7",
+  "key": "design-of-experiments",
+  "label": "Design of experiments",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

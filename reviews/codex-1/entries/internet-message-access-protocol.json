@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A mail access protocol for retrieving and managing messages and folders while keeping mailbox state on a server.",
+  "entry_text": "A mail access protocol for retrieving and managing messages and folders while keeping mailbox state on a server.",
+  "entry_text_kind": "definition",
+  "example": "A user reads mail on a laptop and later sees the same read status on a phone.",
+  "id": "v1edze49tk",
+  "key": "internet-message-access-protocol",
+  "label": "Internet Message Access Protocol",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

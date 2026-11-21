@@ -1,0 +1,20 @@
+{
+  "batch": "skill-047.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Video.js is a web video player library that provides a customizable browser playback interface.",
+  "entry_text": "Video.js is a web video player library that provides a customizable browser playback interface.",
+  "entry_text_kind": "definition",
+  "example": "A publisher displays an interview with captions.",
+  "id": "dy97p0gnng",
+  "key": "video-js",
+  "label": "Video.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Wi-Fi Direct lets compatible devices establish a direct Wi-Fi connection without joining an existing access point.",
+  "entry_text": "Wi-Fi Direct lets compatible devices establish a direct Wi-Fi connection without joining an existing access point.",
+  "entry_text_kind": "definition",
+  "example": "A phone sends a document to a nearby compatible printer without joining the office network.",
+  "id": "uzzliw7qg0",
+  "key": "wi-fi-direct",
+  "label": "Wi-Fi Direct",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

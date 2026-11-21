@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SAP Sovereign Cloud denotes SAP deployment offerings designed to satisfy jurisdiction-specific requirements for data location, operations, or control.",
+  "entry_text": "SAP Sovereign Cloud denotes SAP deployment offerings designed to satisfy jurisdiction-specific requirements for data location, operations, or control.",
+  "entry_text_kind": "definition",
+  "example": "A public-sector team checks whether a proposed SAP deployment meets its contractual data and operator-location requirements.",
+  "id": "x6e2sp6oyn",
+  "key": "sap-sovereign-cloud",
+  "label": "SAP Sovereign Cloud",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Offerings vary by country; the label does not establish compliance with any particular regime.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

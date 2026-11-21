@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache Karaf is a modular Java runtime for deploying and managing OSGi applications and related components.",
+  "entry_text": "Apache Karaf is a modular Java runtime for deploying and managing OSGi applications and related components.",
+  "entry_text_kind": "definition",
+  "example": "An operator enables a packaged feature without rebuilding the surrounding application runtime.",
+  "id": "zksf32dtwb",
+  "key": "apache-karaf",
+  "label": "Apache Karaf",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

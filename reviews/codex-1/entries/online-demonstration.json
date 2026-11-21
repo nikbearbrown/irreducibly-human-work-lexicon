@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Online demonstration presents and explains a product, process or technique to remote viewers using digital tools.",
+  "entry_text": "Online demonstration presents and explains a product, process or technique to remote viewers using digital tools.",
+  "entry_text_kind": "definition",
+  "example": "A trainer shares a screen and shows a participant how to complete a form.",
+  "id": "x4z2f6ku0u",
+  "key": "online-demonstration",
+  "label": "Online demonstration",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

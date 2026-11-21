@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "IT security documentation is the creation and maintenance of written records that describe security requirements, controls, procedures and decisions.",
+  "entry_text": "IT security documentation is the creation and maintenance of written records that describe security requirements, controls, procedures and decisions.",
+  "entry_text_kind": "definition",
+  "example": "A team documents who approves privileged access and how the approvals are recorded.",
+  "id": "y3zi3hsdf6",
+  "key": "it-security-documentation",
+  "label": "IT security documentation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

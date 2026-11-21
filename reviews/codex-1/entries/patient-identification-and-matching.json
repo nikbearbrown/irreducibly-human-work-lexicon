@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-010.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Patient identification and matching links records and care events to the correct individual using identifying attributes and verification procedures.",
+  "entry_text": "Patient identification and matching links records and care events to the correct individual using identifying attributes and verification procedures.",
+  "entry_text_kind": "definition",
+  "example": "A clinic checks for duplicate records when two entries have similar names and dates of birth.",
+  "id": "k0ly5hwdcx",
+  "key": "patient-identification-and-matching",
+  "label": "Patient identification and matching",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

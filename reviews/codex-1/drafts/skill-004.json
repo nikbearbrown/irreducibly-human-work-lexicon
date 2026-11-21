@@ -1,0 +1,242 @@
+[
+  {
+    "id": "wpx23envkg",
+    "definition": "Apple Numbers is a spreadsheet application for working with tables, formulas, and charts on Apple platforms.",
+    "example": "A household builds a monthly spending sheet with a chart that updates as entries change.",
+    "sense_note": null
+  },
+  {
+    "id": "g7k7y7s5u0",
+    "definition": "appletviewer was a Java development tool for running and testing Java applets without opening a browser.",
+    "example": "A maintainer tests an archived applet in an isolated legacy Java environment.",
+    "sense_note": null
+  },
+  {
+    "id": "hv8rs0nfn8",
+    "definition": "An application delivery controller manages network traffic to applications and commonly provides load balancing, health checks, and protocol termination.",
+    "example": "A controller stops routing requests to an application server that fails its health checks.",
+    "sense_note": null
+  },
+  {
+    "id": "znthr4xllx",
+    "definition": "Application monitoring collects signals about software performance, availability, and errors to detect and investigate failures.",
+    "example": "An operator traces rising response times to one slow database call.",
+    "sense_note": null
+  },
+  {
+    "id": "y45smq6bl7",
+    "definition": "The applied element method represents a structure as elements connected by springs to model deformation, separation, and collapse.",
+    "example": "An engineer uses the method to examine how a damaged frame redistributes loads.",
+    "sense_note": null
+  },
+  {
+    "id": "itd4de3ff8",
+    "definition": "Applixware was an office suite for Unix-like systems that included document, spreadsheet, and presentation tools.",
+    "example": "An archivist opens an old Applixware spreadsheet in a compatible environment to recover its data.",
+    "sense_note": null
+  },
+  {
+    "id": "xuj4hv0l1m",
+    "definition": "AppsFlyer is a marketing measurement platform that relates app installations and events to acquisition campaigns.",
+    "example": "A marketing team compares the reported installs attributed to two ad campaigns.",
+    "sense_note": null
+  },
+  {
+    "id": "yd07y07och",
+    "definition": "AppSheet is a low-code platform for building applications and automations over existing data sources.",
+    "example": "A maintenance team turns a spreadsheet of inspection records into a mobile form.",
+    "sense_note": null
+  },
+  {
+    "id": "y2ee17jenh",
+    "definition": "Apptio provides business-management software for analyzing technology costs and relating spending to services and organizational units.",
+    "example": "A finance partner allocates cloud spending across product teams for review.",
+    "sense_note": null
+  },
+  {
+    "id": "aivu2hknkc",
+    "definition": "apxs is an Apache HTTP Server tool for compiling and installing extension modules as shared objects.",
+    "example": "A server maintainer rebuilds an existing module for a compatible Apache installation.",
+    "sense_note": null
+  },
+  {
+    "id": "hiyfl41ph4",
+    "definition": "Arachnophilia is a text-based web authoring editor with tools for writing and editing HTML.",
+    "example": "A site maintainer updates hand-written markup in an archived page.",
+    "sense_note": null
+  },
+  {
+    "id": "lg0qdldvdp",
+    "definition": "ArangoDB is a multi-model database that supports documents, key-value access, and graphs in one system.",
+    "example": "A service stores customer profiles as documents and queries links between related accounts.",
+    "sense_note": null
+  },
+  {
+    "id": "mekaq2nicb",
+    "definition": "Araxis Merge is a visual tool for comparing and merging files or directory trees.",
+    "example": "A developer reconciles conflicting edits to a configuration file.",
+    "sense_note": null
+  },
+  {
+    "id": "zu90aejpyi",
+    "definition": "Architectural rendering creates a visual depiction of a building or space from drawings or a digital model.",
+    "example": "A designer produces a view showing how an interior would look in afternoon light.",
+    "sense_note": null
+  },
+  {
+    "id": "pzftsisr6a",
+    "definition": "Architectural visualization communicates built-environment designs through representations such as images, diagrams, walkthroughs, or interactive models.",
+    "example": "A design team uses a walkthrough to help clients understand movement through a proposed library.",
+    "sense_note": "This broader practice includes rendering rather than being identical to it."
+  },
+  {
+    "id": "bdhhzc4c1h",
+    "definition": "ArcSight Enterprise Security Manager collects and correlates security events to support monitoring and incident investigation.",
+    "example": "A security analyst reviews correlated authentication events across several approved systems.",
+    "sense_note": null
+  },
+  {
+    "id": "f11mw129kl",
+    "definition": "Areca Backup is a file backup tool that manages backup sets and restoration across supported storage destinations.",
+    "example": "A user restores an older version of an accidentally overwritten project file.",
+    "sense_note": null
+  },
+  {
+    "id": "xccww42w5y",
+    "definition": "Argo CD is a GitOps delivery tool that compares Kubernetes deployments with declared configuration and synchronizes differences.",
+    "example": "A team reviews a configuration change in Git before Argo CD applies it to a cluster.",
+    "sense_note": null
+  },
+  {
+    "id": "tkak2r7a31",
+    "definition": "ARKit is Apple’s framework for integrating digitally rendered objects with a device’s view of the physical world.",
+    "example": "A furniture app anchors a virtual table to a floor visible through the camera.",
+    "sense_note": null
+  },
+  {
+    "id": "mvoe26r3z8",
+    "definition": "The Armed Forces Health Longitudinal Technology Application was an electronic health record system for U.S. military healthcare.",
+    "example": "A clinician reviews an eligible patient’s documented outpatient visits across military facilities.",
+    "sense_note": null
+  },
+  {
+    "id": "smjlca92kq",
+    "definition": "Arquillian is a Java testing framework that runs integration tests within or against application containers.",
+    "example": "A developer tests whether a dependency-injected service behaves correctly in its container.",
+    "sense_note": null
+  },
+  {
+    "id": "tyrb602g6y",
+    "definition": "Arranging catering coordinates food service, menu requirements, logistics, and timing for an event.",
+    "example": "An organizer confirms dietary needs and delivery times with a caterer before a workshop.",
+    "sense_note": null
+  },
+  {
+    "id": "vo3gm200qd",
+    "definition": "Arranging conferences coordinates venues, schedules, speakers, participants, and event operations.",
+    "example": "An organizer prepares an accessible venue and resolves timetable conflicts between sessions.",
+    "sense_note": null
+  },
+  {
+    "id": "oha0yq6osg",
+    "definition": "ArtStation is an online portfolio and community platform for visual artists working in fields such as games, film, and illustration.",
+    "example": "A character artist publishes a portfolio piece with supporting design sketches and model views.",
+    "sense_note": null
+  },
+  {
+    "id": "we8v3g23ch",
+    "definition": "As-built drawings document the locations and details of work as actually constructed rather than only as originally planned.",
+    "example": "A facilities team checks an as-built drawing before opening a wall to locate an installed conduit.",
+    "sense_note": null
+  },
+  {
+    "id": "cepsdwz3fu",
+    "definition": "Ashampoo Burning Studio is software for creating, copying, and managing supported optical discs.",
+    "example": "A user writes a verified set of archived photos to a disc supported by the drive.",
+    "sense_note": null
+  },
+  {
+    "id": "rpn2bwtxnp",
+    "definition": "ASP.NET Core MVC is a .NET web framework for organizing application logic into models, views, and controllers.",
+    "example": "A controller retrieves product data and passes it to a view that renders a product page.",
+    "sense_note": null
+  },
+  {
+    "id": "wjy1358i16",
+    "definition": "ASP.NET Identity is a Microsoft framework for adding user accounts, authentication, and related identity features to ASP.NET applications.",
+    "example": "A developer integrates password reset and role-based access into a web application.",
+    "sense_note": "Clarify whether the historical ASP.NET or ASP.NET Core identity implementation is required."
+  },
+  {
+    "id": "vroxc5a0gz",
+    "definition": "ASP.NET Web API is a .NET framework for building HTTP services, especially APIs accessed by clients beyond web browsers.",
+    "example": "A developer exposes product inventory through an endpoint used by a mobile application.",
+    "sense_note": "The label can refer specifically to the earlier framework rather than ASP.NET Core web APIs."
+  },
+  {
+    "id": "wq364p98ht",
+    "definition": "An asphalt batch mix plant produces asphalt in discrete batches by weighing and mixing heated aggregates and binder.",
+    "example": "An operator checks that a production batch matches the specified mixture.",
+    "sense_note": null
+  },
+  {
+    "id": "hpc0bjl1lu",
+    "definition": "An assembly drawing shows how components fit together in a product or system and may identify parts or their relationships.",
+    "example": "A technician uses an exploded assembly view to locate a spacer among several fasteners.",
+    "sense_note": null
+  },
+  {
+    "id": "bnylef8og4",
+    "definition": "Assessing patient needs gathers and interprets information about a patient’s health, functioning, preferences, and support requirements.",
+    "example": "A care team documents mobility limitations before planning discharge support.",
+    "sense_note": null
+  },
+  {
+    "id": "mhz7f3lsy1",
+    "definition": "Asthma education helps patients and caregivers understand asthma, recognize warning signs, and follow a clinician-approved management plan.",
+    "example": "An educator checks that a patient can explain when to follow their written action plan.",
+    "sense_note": null
+  },
+  {
+    "id": "v0q12e8xmx",
+    "definition": "Async and await are language constructs that express asynchronous operations in a sequential-looking form without necessarily blocking the executing thread.",
+    "example": "A client application waits for a server response while allowing its interface to remain responsive.",
+    "sense_note": null
+  },
+  {
+    "id": "mhzupvwlx4",
+    "definition": "Atlassian Confluence is a collaboration platform for creating and organizing shared pages, documentation, and project knowledge.",
+    "example": "A team documents design decisions on a shared page and maintains its revision history.",
+    "sense_note": null
+  },
+  {
+    "id": "w53hiak9py",
+    "definition": "Atlassian Crucible is a tool for collaborative code review and discussion of changes.",
+    "example": "Reviewers annotate specific lines and track issues before accepting a change.",
+    "sense_note": null
+  },
+  {
+    "id": "vjmnqrkb3s",
+    "definition": "Atomic layer deposition deposits thin films through repeated, self-limiting surface reactions.",
+    "example": "A fabrication team uses the process to specify a uniform film thickness over a patterned surface.",
+    "sense_note": null
+  },
+  {
+    "id": "gtxd0h0n8y",
+    "definition": "AtScale provides a semantic layer that lets analytics tools use shared business metrics over underlying data platforms.",
+    "example": "A company defines revenue once and uses the definition across multiple dashboards.",
+    "sense_note": null
+  },
+  {
+    "id": "nh8hf9mit9",
+    "definition": "auditd is a Linux userspace daemon that records events supplied by the Linux Audit subsystem.",
+    "example": "An administrator reviews records of changes to a monitored configuration file.",
+    "sense_note": null
+  },
+  {
+    "id": "b3ponnfgfv",
+    "definition": "Auditing inpatient coding checks that diagnoses and procedures recorded for admitted patients are consistently supported by clinical documentation and applicable coding rules.",
+    "example": "An auditor compares an assigned procedure code with the operative report and records any discrepancy.",
+    "sense_note": null
+  }
+]

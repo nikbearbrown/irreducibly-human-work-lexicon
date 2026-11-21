@@ -1,0 +1,38 @@
+[
+  {
+    "id": "hj8i6mh3zz",
+    "result": "partial",
+    "ref": "https://www.loc.gov/standards/iso639-2/faq.html",
+    "note": "Questions 23 and 24 distinguish the Chinese macrolanguage (zho), Mandarin (cmn), and Yue (yue), and discuss common written context. Traditional/Simplified is a separate script distinction. Do not infer one variety from an umbrella label. This verifies the macrolanguage scope, not every boundary in the broader Sinitic grouping."
+  },
+  {
+    "id": "vphlc8dpfb",
+    "result": "supports",
+    "ref": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/what-is-mandarin-the-social-project-of-language-standardization-in-early-republican-china/7AAA7A1CB930C41E850E515EFE89DF14",
+    "note": "Original historical research distinguishes regional Mandarin varieties from the codified standard, explaining northern dialect and Beijing pronunciation inputs. Do not treat Mandarin as synonymous with all Chinese."
+  },
+  {
+    "id": "ez2j813g66",
+    "result": "supports",
+    "ref": "https://sprakradet.no/spraklova/norsk-sprak/norsk-er-bade-bokmal-og-nynorsk/",
+    "note": "The Norwegian Language Council explicitly identifies Bokmål and Nynorsk as the two Norwegian written standards."
+  },
+  {
+    "id": "zrvz05z4iv",
+    "result": "supports",
+    "ref": "https://www.loc.gov/aba/pcc/scs/documents/ISO-639-3-guidelines.pdf",
+    "note": "PCC guidance distinguishes the Serbo-Croatian macrolanguage code and the separate standard-language codes for Bosnian, Croatian, Montenegrin, and Serbian. This supports scope, not synonymy."
+  },
+  {
+    "id": "t86zp83kn8",
+    "result": "partial",
+    "ref": "https://www.loc.gov/aba/pcc/scs/documents/ISO-639-3-guidelines.pdf",
+    "note": "PCC confirms Bosnian as a distinct standard-language identifier (bos) and its use in written records. The draft is generic and spoken usage was not checked here."
+  },
+  {
+    "id": "va052jqj8q",
+    "result": "supports",
+    "ref": "https://www.omg.org/uml/",
+    "note": "OMG identifies UML as a standard for visualizing and documenting software and systems, including structure and behavior. The actual draft describes the language, not the skill of using it."
+  }
+]

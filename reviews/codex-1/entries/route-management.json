@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Route management plans, monitors, and adjusts routes to meet delivery or service commitments under constraints such as time, capacity, and access.",
+  "entry_text": "Route management plans, monitors, and adjusts routes to meet delivery or service commitments under constraints such as time, capacity, and access.",
+  "entry_text_kind": "definition",
+  "example": "A dispatcher reassigns two deliveries when a road closure puts one truck behind schedule.",
+  "id": "ty8an2d5rc",
+  "key": "route-management",
+  "label": "Route management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Likely transport sense; routing in networks or software is also possible.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

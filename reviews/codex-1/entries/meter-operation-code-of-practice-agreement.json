@@ -1,0 +1,28 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Meter Operation Code of Practice Agreement governs agreed practices for appointing and operating electricity metering services in a defined market.",
+  "entry_text": "The Meter Operation Code of Practice Agreement governs agreed practices for appointing and operating electricity metering services in a defined market.",
+  "entry_text_kind": "definition",
+  "example": "A metering operator checks its obligations when transferring responsibility for a meter.",
+  "id": "dm5iivuzvs",
+  "key": "meter-operation-code-of-practice-agreement",
+  "label": "Meter Operation Code of Practice Agreement",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Verify jurisdiction and applicable revision before citing specific requirements.",
+  "sources": [
+    {
+      "id": "dm5iivuzvs",
+      "note": "Elexon's historical assessment identifies the parties as electricity distributors and meter operator agents in Great Britain and describes the agreement's safety, technical, and business interface requirements. The draft is broadly relevant but vague about jurisdiction and conflates the agreement's scope with the separate BSC appointment and qualification process.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://assets.elexon.co.uk/wp-content/uploads/2017/10/28160931/22_ISG202_04_CP1498_Assessment-Report-v1.0.pdf",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

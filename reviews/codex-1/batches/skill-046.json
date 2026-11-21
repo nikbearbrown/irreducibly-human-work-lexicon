@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "dv3hmet76q",
+    "key": "typography",
+    "label": "Typography",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cy0s5erjre",
+    "key": "ubersuggest",
+    "label": "Ubersuggest",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d47v9bvb4w",
+    "key": "uglifyjs",
+    "label": "UglifyJS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hr1hgxsm07",
+    "key": "ui-patterns",
+    "label": "UI patterns",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yeivh58gux",
+    "key": "uikit-web-framework",
+    "label": "UIkit (web framework)",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "avwr5t78gz",
+    "key": "uikit",
+    "label": "UIKit",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "as9j0cdn2w",
+    "key": "uipath",
+    "label": "UiPath",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m22mxmr88h",
+    "key": "ultratax-cs",
+    "label": "UltraTax CS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qpaummw5j4",
+    "key": "ultraviolet-visible-spectroscopy",
+    "label": "Ultraviolet-visible spectroscopy",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cd5nqyg3vq",
+    "key": "unbounce",
+    "label": "Unbounce",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gw4ebsr0ko",
+    "key": "underscore-js",
+    "label": "Underscore.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x7gx7a49pz",
+    "key": "unified-endpoint-management",
+    "label": "Unified endpoint management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i2id84nuwe",
+    "key": "unisys-mapper",
+    "label": "Unisys MAPPER",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qj82yj78o4",
+    "key": "unity-game-engine",
+    "label": "Unity (game engine)",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gilmqbw6w6",
+    "key": "unreal-editor",
+    "label": "Unreal Editor",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pyjngz1vpq",
+    "key": "usability-testing",
+    "label": "Usability testing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xlpmtpyg5y",
+    "key": "usabilityhub",
+    "label": "UsabilityHub",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h9ukmahwf4",
+    "key": "use-case-diagram",
+    "label": "Use case diagram",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "btqj1jnr2i",
+    "key": "user-datagram-protocol",
+    "label": "User Datagram Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sixghka9vw",
+    "key": "user-experience-design",
+    "label": "User experience design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xrhig81x22",
+    "key": "user-interface-design",
+    "label": "User interface design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v5e453zaql",
+    "key": "user-provisioning-software",
+    "label": "User provisioning software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "enec00k7dc",
+    "key": "user-research",
+    "label": "User research",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rqhxwxpej4",
+    "key": "ux-writing",
+    "label": "UX writing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d7urfz2hhb",
+    "key": "validation-protocols",
+    "label": "Validation protocols",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uclexd8uv3",
+    "key": "validation",
+    "label": "Data validation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ibcb5hcegy",
+    "key": "valuation-of-options",
+    "label": "Valuation of options",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w2wz06zqsr",
+    "key": "value-proposition",
+    "label": "Value proposition",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eq2ind69e6",
+    "key": "value-stream-analysis",
+    "label": "Value stream analysis",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tw1qr97tuv",
+    "key": "variable-frequency-drive",
+    "label": "Variable-frequency drive",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ud1kx8zgr6",
+    "key": "variance-analysis",
+    "label": "Variance analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bjkz9f7zwj",
+    "key": "varnish-cache",
+    "label": "Varnish Cache",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g93q87yjy7",
+    "key": "vax-4000",
+    "label": "VAX 4000",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cdkw6bhtjt",
+    "key": "vax-8000",
+    "label": "VAX 8000",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vrt18mc88e",
+    "key": "vaxeln",
+    "label": "VAXELN",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vw3ut9lcco",
+    "key": "vector-search",
+    "label": "Vector search",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "px3qo1l9t8",
+    "key": "vectorwise",
+    "label": "VectorWise",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kw9fh6vj31",
+    "key": "veeva",
+    "label": "Veeva",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dcu238b2o0",
+    "key": "vehicle-inspection",
+    "label": "Vehicle inspection",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yj7kld6kci",
+    "key": "vehicle-maintenance",
+    "label": "Vehicle maintenance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

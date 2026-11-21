@@ -1,0 +1,43 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Batak (ISO 639-3: bya) as a language under the Austronesian grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Austronesian",
+    "catalog_name": "Batak",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "bata1301",
+    "iso639_3": "bya",
+    "macroarea": "Papunesia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/bata1301"
+  },
+  "definition": null,
+  "entry_text": "Exact catalog name Batak [bya] is separate from Batakic and Batak Toba [bbc]; do not use the exact label match alone to infer intended scope.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "xbe5epb1r9",
+  "key": "batak",
+  "label": "Batak",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "This may be an umbrella label or refer to a particular Batak language; confirm scope before drafting.",
+  "sense_proposal": {
+    "ambiguity_note": "Exact catalog name Batak [bya] is separate from Batakic and Batak Toba [bbc]; do not use the exact label match alone to infer intended scope.",
+    "id": "xbe5epb1r9",
+    "label": "Batak",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/bata1301",
+      "https://glottolog.org/resource/languoid/id/toba1265",
+      "https://glottolog.org/resource/languoid/id/bata1289",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

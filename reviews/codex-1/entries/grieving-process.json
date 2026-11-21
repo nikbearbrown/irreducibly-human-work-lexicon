@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-006.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The grieving process comprises the varied emotional and practical responses through which people adapt to loss.",
+  "entry_text": "The grieving process comprises the varied emotional and practical responses through which people adapt to loss.",
+  "entry_text_kind": "definition",
+  "example": "A bereaved person may alternate between confronting the loss and attending to everyday responsibilities.",
+  "id": "k8ghvpnr52",
+  "key": "grieving-process",
+  "label": "Grieving process",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

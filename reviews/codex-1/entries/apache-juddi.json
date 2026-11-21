@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache jUDDI is a Java implementation of the UDDI registry standard for publishing and discovering web services.",
+  "entry_text": "Apache jUDDI is a Java implementation of the UDDI registry standard for publishing and discovering web services.",
+  "entry_text_kind": "definition",
+  "example": "An enterprise maintains a searchable registry of service descriptions for internal applications.",
+  "id": "tt4q0v7blz",
+  "key": "apache-juddi",
+  "label": "Apache jUDDI",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

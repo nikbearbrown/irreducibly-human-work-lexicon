@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Salesforce Social Studio was a social media management application for publishing, listening, and engaging across connected channels.",
+  "entry_text": "Salesforce Social Studio was a social media management application for publishing, listening, and engaging across connected channels.",
+  "entry_text_kind": "definition",
+  "example": "A marketing analyst reviewing historical records checks how brand mentions were categorized in Social Studio.",
+  "id": "rvakw702hv",
+  "key": "salesforce-social-studio",
+  "label": "Salesforce Social Studio",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Retired product.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

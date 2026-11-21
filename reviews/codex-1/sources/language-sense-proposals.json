@@ -1,0 +1,195 @@
+[
+  {
+    "id": "tfv49p04re",
+    "label": "Algebraic Logic Functional",
+    "proposed_definition": "ALF is a programming language combining evaluable functions with logic programming rules.",
+    "refs": [
+      "https://www.michaelhanus.de/systems/ALF/manual.pdf"
+    ],
+    "ambiguity_note": "Exact expanded name in the author’s manual, not a generic paradigm."
+  },
+  {
+    "id": "bzhvu8qe7g",
+    "label": "Bassa",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/nucl1418",
+      "https://glottolog.org/resource/languoid/id/bass1259",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3",
+      "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry",
+      "https://glottolog.org/resource/languoid/id/basa1284"
+    ],
+    "ambiguity_note": "Bassa [bsq] is the exact catalog-name candidate. Bassa-Kontagora [bsr] is distinct, and Glottolog 5.4 lists Bassa as a German alternative name for Basa (Cameroon) [bas]. Confirm the intended code."
+  },
+  {
+    "id": "xbe5epb1r9",
+    "label": "Batak",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/bata1301",
+      "https://glottolog.org/resource/languoid/id/toba1265",
+      "https://glottolog.org/resource/languoid/id/bata1289",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Exact catalog name Batak [bya] is separate from Batakic and Batak Toba [bbc]; do not use the exact label match alone to infer intended scope."
+  },
+  {
+    "id": "qlaxx8o2dm",
+    "label": "Carib",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/gali1262",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Galibi Carib [car] is a candidate language sense, not the entire Cariban family; confirm scope."
+  },
+  {
+    "id": "q0vx2lgkj8",
+    "label": "Fali",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/fali1285",
+      "https://glottolog.org/resource/languoid/id/nort2770",
+      "https://glottolog.org/resource/languoid/id/sout2782",
+      "https://glottolog.org/resource/languoid/id/bais1242",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3",
+      "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"
+    ],
+    "ambiguity_note": "Fali [fli] is the exact catalog-name candidate. North Fali [fll], South Fali [fal], and Baissa Fali [fah] have separate codes; metadata does not establish which identity was intended."
+  },
+  {
+    "id": "goirkloj73",
+    "label": "Gaelic",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/scot1245",
+      "https://glottolog.org/resource/languoid/id/iris1253",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "May refer to Scottish Gaelic, Irish, or a wider label; do not map to one code without context."
+  },
+  {
+    "id": "pjem268xhe",
+    "label": "Jiba",
+    "proposed_definition": "Jiba is a human language cataloged as ISO 639-3 juo.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/jiba1237",
+      "https://glottolog.org/resource/languoid/id/jibu1239",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Exact catalog match; Jibu [jib] is a separate language, not an alias."
+  },
+  {
+    "id": "dy0cjdom8i",
+    "label": "Kachin",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/jing1260",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "May refer to a Jinghpaw language sense or a broader identity; a Jingpho family record alone does not settle scope."
+  },
+  {
+    "id": "d458icsqdz",
+    "label": "Korwa",
+    "proposed_definition": "Korwa is a human language cataloged as ISO 639-3 kfp.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/korw1242",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Exact label and language-level match in the local linkage; no alias inferred."
+  },
+  {
+    "id": "d848216rx6",
+    "label": "Ladino",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/ladi1251",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Catalog Ladino [lad] is the Judeo-Spanish candidate, not proof that a bare label refers to that sense."
+  },
+  {
+    "id": "lkx73u6d8t",
+    "label": "Lango",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/lang1324",
+      "https://glottolog.org/resource/languoid/id/lang1343",
+      "https://glottolog.org/resource/languoid/id/lang1322",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3",
+      "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"
+    ],
+    "ambiguity_note": "Confirm Lango (Uganda) [laj] or Lango (South Sudan) [lgo]. The broader legacy code [lno] was deprecated on 2022-02-25; the IANA registry lists four successor candidates without a single preferred replacement."
+  },
+  {
+    "id": "p3jpn4fdtu",
+    "label": "Lawa",
+    "proposed_definition": "Lawa is a grouping that includes Eastern Lawa and Western Lawa.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/lawa1256",
+      "https://glottolog.org/resource/languoid/id/east2330",
+      "https://glottolog.org/resource/languoid/id/west2396",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Umbrella proposal only; Eastern [lwl] and Western [lcp] are separately cataloged languages."
+  },
+  {
+    "id": "txklu9fpkw",
+    "label": "Ndebele",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/nort2795",
+      "https://glottolog.org/resource/languoid/id/sout3270",
+      "https://glottolog.org/resource/languoid/id/sout2808",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3",
+      "https://www.loc.gov/standards/iso639-2/php/code_list.php"
+    ],
+    "ambiguity_note": "Confirm North Ndebele [nde] or South Ndebele [nbl]. They have separate code entries; the unqualified label does not select one."
+  },
+  {
+    "id": "yb2gcevjk0",
+    "label": "Ovambo",
+    "proposed_definition": "As a language label, Ovambo can refer collectively to Wambo varieties such as Ndonga and Kuanyama.",
+    "refs": [
+      "https://glottolog.org/resource/reference/id/100795",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Umbrella proposal only; distinguish the collective language use from a specific variety or community label."
+  },
+  {
+    "id": "u1r1jfnmnz",
+    "label": "Silesian",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/sile1253",
+      "https://glottolog.org/resource/languoid/id/lowe1388",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "The exact Silesian [szl] record differs from the Lower Silesian [sli] German-language record; confirm the intended sense."
+  },
+  {
+    "id": "un0apigqro",
+    "label": "Tatar",
+    "proposed_definition": "Tatar is a Turkic language cataloged as ISO 639-3 tat.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/tata1255",
+      "https://glottolog.org/resource/languoid/id/crim1257",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Exact catalog match supports this standalone sense, not conflation with Crimean Tatar [crh]."
+  },
+  {
+    "id": "gdng6a4nxd",
+    "label": "Tharu",
+    "proposed_definition": "Tharu is an umbrella label used for multiple languages, including Rana Tharu and Dangaura Tharu.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/rana1246",
+      "https://glottolog.org/resource/languoid/id/dang1260",
+      "https://glottolog.org/resource/languoid/id/chit1274",
+      "https://glottolog.org/resource/languoid/id/koch1247",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ],
+    "ambiguity_note": "Umbrella proposal only; do not assign a single code, or infer that all Tharu entries form one family."
+  }
+]

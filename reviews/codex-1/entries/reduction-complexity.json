@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A reduction transforms instances of one computational problem into instances of another under stated resource constraints so a solution to the latter helps solve the former.",
+  "entry_text": "A reduction transforms instances of one computational problem into instances of another under stated resource constraints so a solution to the latter helps solve the former.",
+  "entry_text_kind": "definition",
+  "example": "A proof establishes hardness by transforming instances of a known hard problem into cases of a scheduling problem.",
+  "id": "nsadh0t31u",
+  "key": "reduction-complexity",
+  "label": "Reduction (complexity)",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

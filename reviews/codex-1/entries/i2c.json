@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A two-wire serial communication specification for exchanging data between integrated circuits on a shared bus.",
+  "entry_text": "A two-wire serial communication specification for exchanging data between integrated circuits on a shared bus.",
+  "entry_text_kind": "definition",
+  "example": "A microcontroller communicates with a temperature sensor over an I²C bus.",
+  "id": "hbm2c56yvw",
+  "key": "i2c",
+  "label": "I2C",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

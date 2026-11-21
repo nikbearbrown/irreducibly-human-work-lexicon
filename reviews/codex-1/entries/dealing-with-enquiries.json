@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Receiving, interpreting, and responding to requests for information or assistance.",
+  "entry_text": "Receiving, interpreting, and responding to requests for information or assistance.",
+  "entry_text_kind": "definition",
+  "example": "A service representative clarifies a caller's question and routes a request they cannot resolve.",
+  "id": "f247pyw2ly",
+  "key": "dealing-with-enquiries",
+  "label": "Dealing with enquiries",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

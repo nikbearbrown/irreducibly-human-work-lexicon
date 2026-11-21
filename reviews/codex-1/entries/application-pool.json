@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An application pool groups web applications under shared worker-process settings and isolates their execution from applications in separate pools.",
+  "entry_text": "An application pool groups web applications under shared worker-process settings and isolates their execution from applications in separate pools.",
+  "entry_text_kind": "definition",
+  "example": "An IIS administrator places a billing site in its own application pool so recycling its worker does not restart the document portal.",
+  "id": "wjdoqpvi1k",
+  "key": "application-pool",
+  "label": "Application pool",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The usual sense is Microsoft's IIS hosting concept.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

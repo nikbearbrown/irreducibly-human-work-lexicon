@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A historical enterprise search platform for indexing and retrieving content across organizational sources.",
+  "entry_text": "A historical enterprise search platform for indexing and retrieving content across organizational sources.",
+  "entry_text_kind": "definition",
+  "example": "A company uses an enterprise search index to find internal documents across repositories.",
+  "id": "cynf8kt39j",
+  "key": "fast-esp",
+  "label": "FAST ESP",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the intended FAST Enterprise Search Platform generation and status.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

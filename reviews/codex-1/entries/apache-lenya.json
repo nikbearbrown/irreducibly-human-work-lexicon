@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache Lenya is a web content-management system built around XML documents and publication workflows.",
+  "entry_text": "Apache Lenya is a web content-management system built around XML documents and publication workflows.",
+  "entry_text_kind": "definition",
+  "example": "An editor reviews and publishes a structured article through the site’s approval process.",
+  "id": "uztz53wb8d",
+  "key": "apache-lenya",
+  "label": "Apache Lenya",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

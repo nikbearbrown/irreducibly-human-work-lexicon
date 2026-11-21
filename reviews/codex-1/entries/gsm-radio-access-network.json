@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-006.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A GSM radio access network provides the radio link between GSM mobile devices and the mobile core network.",
+  "entry_text": "A GSM radio access network provides the radio link between GSM mobile devices and the mobile core network.",
+  "entry_text_kind": "definition",
+  "example": "The network coordinates a phone's connection as it moves from one coverage cell to another.",
+  "id": "j0wsqjq182",
+  "key": "gsm-radio-access-network",
+  "label": "GSM radio access network",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Analysis of variance is a statistical method that compares sources of variability to test hypotheses about differences in group means.",
+  "entry_text": "Analysis of variance is a statistical method that compares sources of variability to test hypotheses about differences in group means.",
+  "entry_text_kind": "definition",
+  "example": "A researcher tests whether mean yield differs across several treatments.",
+  "id": "z09tq03hir",
+  "key": "analysis-of-variance",
+  "label": "Analysis of variance",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

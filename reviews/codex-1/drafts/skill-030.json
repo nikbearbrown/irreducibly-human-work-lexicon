@@ -1,0 +1,242 @@
+[
+  {
+    "id": "m2d5d0743r",
+    "definition": "Molecular docking computationally estimates how two molecules might fit together and ranks plausible binding arrangements.",
+    "example": "A researcher compares simulated poses of candidate compounds in a known protein binding site.",
+    "sense_note": null
+  },
+  {
+    "id": "lyvcnj21am",
+    "definition": "Molecular modelling uses computational representations of molecules to study their structure, interactions or properties.",
+    "example": "A chemist compares predicted conformations of a small molecule.",
+    "sense_note": null
+  },
+  {
+    "id": "wck3opdy5d",
+    "definition": "Molisch's test is a qualitative chemistry assay that indicates the possible presence of carbohydrates by a characteristic color reaction.",
+    "example": "A laboratory instructor uses it to distinguish a carbohydrate-containing sample from a negative control.",
+    "sense_note": null
+  },
+  {
+    "id": "e877q80t32",
+    "definition": "Moment.js is a JavaScript library for parsing, formatting, comparing and manipulating dates and times.",
+    "example": "A developer formats a stored date for display in a report.",
+    "sense_note": null
+  },
+  {
+    "id": "l0340qjhfp",
+    "definition": "MonetDB is a column-oriented database management system designed for analytical workloads.",
+    "example": "An analyst runs aggregates over selected columns of a large transaction table.",
+    "sense_note": null
+  },
+  {
+    "id": "fjma3u3f19",
+    "definition": "MongoEngine is a Python object-document mapper for defining and working with MongoDB documents as Python objects.",
+    "example": "A developer defines fields and validation rules for a customer document class.",
+    "sense_note": null
+  },
+  {
+    "id": "urb8bix86y",
+    "definition": "Mongoose is a JavaScript object data modeling library for MongoDB that provides schemas, validation and database operations.",
+    "example": "A Node.js application uses a Mongoose schema to validate order records before saving them.",
+    "sense_note": null
+  },
+  {
+    "id": "ujd32t22iy",
+    "definition": "MongoVue was a graphical desktop client for browsing and querying MongoDB databases.",
+    "example": "A developer used its interface to inspect documents in a test collection.",
+    "sense_note": null
+  },
+  {
+    "id": "mwc6g16twz",
+    "definition": "The Mortgage Electronic Registration System is a U.S. registry for tracking specified mortgage interests and servicing rights electronically.",
+    "example": "A mortgage servicer checks the registry to identify the servicer recorded for a loan.",
+    "sense_note": null
+  },
+  {
+    "id": "i6hs4i5v7l",
+    "definition": "Mosaic art creates images or patterns by arranging small pieces of material such as tile, glass or stone.",
+    "example": "An artist arranges colored tile fragments to make a decorative wall panel.",
+    "sense_note": null
+  },
+  {
+    "id": "tu4rs5w9ul",
+    "definition": "Motion graphics software creates and composites animated visual elements such as text, shapes and illustrations.",
+    "example": "An editor animates a lower-third graphic over an interview clip.",
+    "sense_note": null
+  },
+  {
+    "id": "fl0mme2six",
+    "definition": "Motion graphics design communicates information or mood by animating designed visual elements over time.",
+    "example": "A designer animates a sequence of icons to explain the stages of a service.",
+    "sense_note": null
+  },
+  {
+    "id": "ypoy7kwjyw",
+    "definition": "Motor control algorithms determine drive commands that make an electric motor meet targets such as position, speed or torque.",
+    "example": "A controller adjusts drive commands to maintain a conveyor's requested speed when its load changes.",
+    "sense_note": "This is the engineering sense, not computational models of biological motor control."
+  },
+  {
+    "id": "sdaw9r1pvj",
+    "definition": "Movable Type is a content management and publishing platform used to manage blogs and websites.",
+    "example": "An editor schedules an article and publishes it using a site template.",
+    "sense_note": "Here the name denotes the software, not physically movable printing type."
+  },
+  {
+    "id": "kc4y604tiy",
+    "definition": "Moz Pro is a suite of search engine optimization tools for tasks such as keyword research, site auditing and rank tracking.",
+    "example": "An analyst identifies pages with broken internal links during a site audit.",
+    "sense_note": null
+  },
+  {
+    "id": "a80qfhw79g",
+    "definition": "MP/M was a multiuser, multitasking operating system in the CP/M family.",
+    "example": "Several terminal users could run compatible programs on a shared system using MP/M.",
+    "sense_note": null
+  },
+  {
+    "id": "abvr1rryof",
+    "definition": "MRI Software provides software for managing real estate operations such as leasing, property accounting and portfolio administration.",
+    "example": "A property manager tracks lease expirations across several buildings.",
+    "sense_note": "The name refers to real estate software, not medical imaging."
+  },
+  {
+    "id": "uacnrdn102",
+    "definition": "MSTest is Microsoft's framework for defining and running automated unit tests in .NET applications.",
+    "example": "A developer marks a method as a test and asserts the expected value of a calculation.",
+    "sense_note": null
+  },
+  {
+    "id": "i2li0qyuwf",
+    "definition": "A mud pump circulates drilling fluid through a drilling system under pressure.",
+    "example": "A drilling crew uses the pump to send fluid through the drill string during a borehole operation.",
+    "sense_note": null
+  },
+  {
+    "id": "jp5f35cnyj",
+    "definition": "MuleSoft is an integration platform for connecting applications and data through APIs and integration workflows.",
+    "example": "An installer links a sales application to an order system so the two can exchange records.",
+    "sense_note": null
+  },
+  {
+    "id": "jr2nlrschs",
+    "definition": "Multi-core programming structures work to run correctly and efficiently across multiple processor cores.",
+    "example": "A developer splits image processing into independent tasks that run on separate cores.",
+    "sense_note": null
+  },
+  {
+    "id": "d585rvfjpc",
+    "definition": "Multi-device design makes an experience usable across device types by adapting layout, controls and workflow to their capabilities.",
+    "example": "A designer reworks a dense desktop table into a compact touch-friendly view for phones.",
+    "sense_note": null
+  },
+  {
+    "id": "flcu1xych1",
+    "definition": "Multichannel marketing coordinates campaigns across multiple ways of reaching an audience.",
+    "example": "A retailer launches a product through email, paid search and in-store displays.",
+    "sense_note": null
+  },
+  {
+    "id": "r1y15eavgh",
+    "definition": "Music instruction teaches musical knowledge and skills through demonstrations, guided practice and feedback.",
+    "example": "A teacher helps a beginner count rhythms before playing a piece.",
+    "sense_note": null
+  },
+  {
+    "id": "om7xg83nw7",
+    "definition": "Nagle's algorithm reduces the number of small TCP segments by buffering small writes while earlier data remains unacknowledged, unless enough data accumulate to fill a segment.",
+    "example": "An application sends several short messages that TCP combines into a larger segment rather than transmitting each immediately.",
+    "sense_note": null
+  },
+  {
+    "id": "m39ohmnxq1",
+    "definition": "Naive Bayes is a probabilistic classification method that applies Bayes' rule while treating features as conditionally independent given each class.",
+    "example": "A spam filter combines evidence from terms in a message to estimate its class.",
+    "sense_note": null
+  },
+  {
+    "id": "qzzi26hkh7",
+    "definition": "A NameNode is the Hadoop Distributed File System service that maintains the filesystem namespace and manages metadata about data blocks.",
+    "example": "A client asks the NameNode where to find the blocks of a requested file.",
+    "sense_note": null
+  },
+  {
+    "id": "i31i4j847r",
+    "definition": "NAnt is a build automation tool that runs XML-defined tasks, commonly for .NET projects.",
+    "example": "A legacy build uses NAnt to compile software and package the resulting artifacts.",
+    "sense_note": null
+  },
+  {
+    "id": "wbk6o1s30r",
+    "definition": "Nasotracheal suctioning is a clinical procedure that removes airway secretions using suction through a catheter passed via the nose.",
+    "example": "A trained clinician performs it when clinically indicated for a patient unable to clear secretions.",
+    "sense_note": null
+  },
+  {
+    "id": "nvcrix34g7",
+    "definition": "The National Geothermal Data System was a U.S. data-sharing initiative providing discoverable information relevant to geothermal resources.",
+    "example": "A researcher locates mapped well and temperature records for a preliminary resource assessment.",
+    "sense_note": "Current service availability is not implied."
+  },
+  {
+    "id": "e8vb2pds5k",
+    "definition": "The Nationwide Multistate Licensing System provides infrastructure for managing licenses and registrations in participating financial services jurisdictions.",
+    "example": "A mortgage company submits an application and tracks required filings through the system.",
+    "sense_note": null
+  },
+  {
+    "id": "ff38barlkn",
+    "definition": "NativeScript is a framework for building native mobile applications with JavaScript or TypeScript and access to native platform APIs.",
+    "example": "An app developer builds a mobile interface using native controls from a shared codebase.",
+    "sense_note": null
+  },
+  {
+    "id": "d168utcmjy",
+    "definition": "Natural language processing develops computational methods to analyze, interpret or generate human language.",
+    "example": "A system extracts organization names from a set of news articles.",
+    "sense_note": null
+  },
+  {
+    "id": "z0p46eqsxu",
+    "definition": "A navigational aid is a device, signal or reference that helps a navigator determine position or follow a safe route.",
+    "example": "A mariner checks a channel marker against the chart before turning.",
+    "sense_note": null
+  },
+  {
+    "id": "gowylqqu55",
+    "definition": "Navisworks is building and infrastructure project review software for combining models, visualizing designs and identifying coordination conflicts.",
+    "example": "A coordinator checks where a planned duct intersects a structural beam.",
+    "sense_note": null
+  },
+  {
+    "id": "u5dz59qduc",
+    "definition": "NedGraphics provides design software for textile workflows such as creating patterns and preparing woven, printed or knitted designs.",
+    "example": "A textile designer previews how a repeat pattern will look across a length of fabric.",
+    "sense_note": null
+  },
+  {
+    "id": "ewf1nb7uzl",
+    "definition": "Needle localization is a clinical technique that uses imaging and a needle-guided marker or wire to identify a target for a subsequent procedure.",
+    "example": "A specialist marks a nonpalpable breast lesion for the surgical team.",
+    "sense_note": "Distinguish preoperative localization from diagnostic biopsy."
+  },
+  {
+    "id": "cwe2s6tnyg",
+    "definition": "Neonatal intensive care nursing provides specialized assessment, monitoring and treatment support for critically ill or premature newborns.",
+    "example": "A nurse monitors an infant's response to respiratory support in a neonatal intensive care unit.",
+    "sense_note": null
+  },
+  {
+    "id": "rgmb82njzm",
+    "definition": ".NET development builds and maintains applications using the .NET runtime, libraries and language ecosystem.",
+    "example": "A developer builds a C# web API and tests the behavior of its endpoints.",
+    "sense_note": null
+  },
+  {
+    "id": "it4ad3hs7q",
+    "definition": "Net Promoter Score is the percentage of survey respondents rating likelihood to recommend at 9 or 10 minus the percentage rating it 0 through 6 on a 0–10 scale.",
+    "example": "A service team computes NPS from a survey and examines the comments behind the ratings.",
+    "sense_note": null
+  }
+]

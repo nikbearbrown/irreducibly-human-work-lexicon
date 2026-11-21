@@ -1,0 +1,242 @@
+[
+  {
+    "id": "voxmwb8ban",
+    "definition": "Building mobile apps that combine web technologies with a native container or platform integrations.",
+    "example": "A team packages a shared HTML and JavaScript interface as installable apps with access to native notifications.",
+    "sense_note": null
+  },
+  {
+    "id": "wfzg0h1u35",
+    "definition": "An oilfield well-intervention method using hydraulic equipment to move pipe into or out of a pressurized well.",
+    "example": "A specialist team evaluates whether controlled well intervention requires a snubbing unit.",
+    "sense_note": "The oilfield sense is intended; confirm against hydraulic damping or restraint in other domains."
+  },
+  {
+    "id": "v4z52o4053",
+    "definition": "Representing water movement and storage in a catchment or other hydrologic system with a model.",
+    "example": "A hydrologist estimates river discharge resulting from a rainfall event.",
+    "sense_note": null
+  },
+  {
+    "id": "nqclhy4oqs",
+    "definition": "Welding performed in a pressurized environment, commonly for underwater construction or repair.",
+    "example": "A qualified team evaluates whether an offshore repair requires welding in a pressurized chamber.",
+    "sense_note": null
+  },
+  {
+    "id": "hbm2c56yvw",
+    "definition": "A two-wire serial communication specification for exchanging data between integrated circuits on a shared bus.",
+    "example": "A microcontroller communicates with a temperature sensor over an I²C bus.",
+    "sense_note": null
+  },
+  {
+    "id": "zmnv3c76qo",
+    "definition": "A discontinued Apple mobile advertising platform for reaching users within applications.",
+    "example": "An app publisher historically included an iAd placement to display advertising.",
+    "sense_note": null
+  },
+  {
+    "id": "rf1t7hc1e3",
+    "definition": "An integrated development environment and toolchain for building and debugging software for embedded processors.",
+    "example": "A firmware engineer compiles and debugs a program for a supported microcontroller.",
+    "sense_note": null
+  },
+  {
+    "id": "qz19nh82dh",
+    "definition": "An Apple-specified Bluetooth Low Energy beacon format that lets compatible devices identify nearby transmitters.",
+    "example": "A museum app detects a nearby beacon and offers information about an exhibit.",
+    "sense_note": "The label is better understood as a protocol and ecosystem than a standalone platform."
+  },
+  {
+    "id": "jjws8r6d9o",
+    "definition": "The former branding for IBM's cloud application and services platform, later incorporated into IBM Cloud.",
+    "example": "A team previously deployed an application to the Bluemix cloud.",
+    "sense_note": null
+  },
+  {
+    "id": "kqgsngz45v",
+    "definition": "An enterprise software platform for modeling, automating, and monitoring business processes.",
+    "example": "A team builds an approval workflow that routes requests to the appropriate reviewers.",
+    "sense_note": null
+  },
+  {
+    "id": "vol7cmmy3l",
+    "definition": "An IBM mainframe session management tool for organizing access to multiple host applications.",
+    "example": "An operator uses a menu to switch among authorized mainframe applications.",
+    "sense_note": null
+  },
+  {
+    "id": "f4mh2r0h0g",
+    "definition": "An IBM database administration and development tool for working with supported databases, including Db2.",
+    "example": "A developer tests an SQL query against a Db2 database in the workbench.",
+    "sense_note": null
+  },
+  {
+    "id": "z56mohhtsh",
+    "definition": "A historical IBM brand spanning several server product lines.",
+    "example": "An organization ran a business application on a server sold under the eServer brand.",
+    "sense_note": "Identify the particular eServer family if a technical capability is relevant."
+  },
+  {
+    "id": "zj1neae89l",
+    "definition": "An enterprise content management product family for capturing, managing, and retrieving documents and records.",
+    "example": "An organization stores and routes policy documents in a managed content repository.",
+    "sense_note": null
+  },
+  {
+    "id": "cqlp6occgg",
+    "definition": "An IBM relational database management system for storing and querying operational data.",
+    "example": "A business application reads inventory information from an Informix database.",
+    "sense_note": null
+  },
+  {
+    "id": "rem7cfer6b",
+    "definition": "A historical IBM office software family for messaging, document handling, and related collaboration on IBM systems.",
+    "example": "Office staff previously used OfficeVision to exchange internal messages on supported systems.",
+    "sense_note": null
+  },
+  {
+    "id": "zh8dyj880g",
+    "definition": "The IBM POWER processor generation that followed POWER9 and powers associated enterprise servers.",
+    "example": "An enterprise runs workloads on a Power system built around POWER10 processors.",
+    "sense_note": null
+  },
+  {
+    "id": "ztfqr0o2n3",
+    "definition": "The IBM POWER processor generation that followed POWER6 and powers associated enterprise servers.",
+    "example": "A historical IBM Power server uses POWER7 processors to run several workloads.",
+    "sense_note": null
+  },
+  {
+    "id": "k6ns4jdo7n",
+    "definition": "The IBM POWER processor generation that followed POWER7 and powers associated enterprise servers.",
+    "example": "A data center hosts enterprise applications on servers using POWER8 processors.",
+    "sense_note": null
+  },
+  {
+    "id": "gohjwxc1ev",
+    "definition": "The IBM POWER processor generation that followed POWER8 and powers associated enterprise servers.",
+    "example": "A research computing system uses POWER9 processors alongside accelerators.",
+    "sense_note": null
+  },
+  {
+    "id": "gxsy4ozai7",
+    "definition": "A security information and event management platform that collects and correlates activity records to support investigation.",
+    "example": "A security team reviews related authentication and network events attached to an alert.",
+    "sense_note": "The QRadar product family spans more than one security capability; confirm exact product."
+  },
+  {
+    "id": "bz134aih1f",
+    "definition": "An IBM integrated development environment for developing, testing, and deploying Java enterprise applications.",
+    "example": "A developer uses the environment to test a Java application for WebSphere.",
+    "sense_note": null
+  },
+  {
+    "id": "zghrwejt65",
+    "definition": "A historical enterprise event management system for collecting, correlating, and acting on infrastructure events.",
+    "example": "An operations console consolidates alarms from several managed systems.",
+    "sense_note": null
+  },
+  {
+    "id": "sgnyk2ryn0",
+    "definition": "An IBM enterprise application server for deploying and running Java-based applications and services.",
+    "example": "A team deploys a business application in a WebSphere server environment.",
+    "sense_note": null
+  },
+  {
+    "id": "ev74bf3h3g",
+    "definition": "Assigning standardized diagnostic or procedural codes from the applicable ICD system based on documented information.",
+    "example": "A medical coder reviews the encounter documentation to assign an appropriate diagnosis code.",
+    "sense_note": "Procedure coding availability and applicable rules depend on the edition and jurisdiction."
+  },
+  {
+    "id": "kqjbnw5tmx",
+    "definition": "Guidelines from the International Council for Harmonisation addressing scientific and technical requirements for human pharmaceuticals.",
+    "example": "A regulatory team consults the relevant ICH guidance when planning a study submission.",
+    "sense_note": null
+  },
+  {
+    "id": "ff2sy7qrjo",
+    "definition": "A core IPv6 protocol carrying error reports, diagnostic messages, and control messages used by functions such as neighbor discovery.",
+    "example": "An administrator checks IPv6 connectivity using an ICMPv6 echo exchange.",
+    "sense_note": null
+  },
+  {
+    "id": "dxkq536gow",
+    "definition": "An interactive disassembler and reverse-engineering environment for examining compiled software.",
+    "example": "An analyst uses the tool in an authorized examination to understand an executable's structure.",
+    "sense_note": null
+  },
+  {
+    "id": "f2phqfe4e5",
+    "definition": "Generating and developing candidate ideas in response to a problem, opportunity, or goal.",
+    "example": "A product team creates several concepts before choosing which to prototype.",
+    "sense_note": null
+  },
+  {
+    "id": "j0ybg3llnc",
+    "definition": "Administering digital identities and their lifecycle, including identity records, credentials, and access assignments.",
+    "example": "An organization updates employee access and identity records when staff change roles.",
+    "sense_note": null
+  },
+  {
+    "id": "nu5e6kxo1b",
+    "definition": "A software product for managing equipment leases and asset finance portfolios.",
+    "example": "A finance team tracks lease schedules and billed amounts in InfoLease.",
+    "sense_note": "Confirm the historical IDS branding or relevant product edition."
+  },
+  {
+    "id": "p0gghnb84i",
+    "definition": "A family of standards for high-speed serial data communication also marketed as FireWire.",
+    "example": "A historical digital video camera transfers footage over an IEEE 1394 connection.",
+    "sense_note": null
+  },
+  {
+    "id": "ctjpk6qa7z",
+    "definition": "A family of IEEE standards for interconnecting distributed energy resources with electric power systems.",
+    "example": "An engineer consults an applicable IEEE 1547 edition for an inverter interconnection review.",
+    "sense_note": null
+  },
+  {
+    "id": "g9mmd5pvdg",
+    "definition": "An enterprise business software suite covering functions such as resource planning, asset management, and service operations.",
+    "example": "A manufacturer coordinates maintenance work orders and spare parts in an IFS system.",
+    "sense_note": "Confirm the historical IFS Applications name versus newer product branding."
+  },
+  {
+    "id": "rgbts5kl0x",
+    "definition": "A Windows graphical management tool for configuring and administering Internet Information Services web servers.",
+    "example": "An administrator inspects which sites and bindings are configured for an IIS server.",
+    "sense_note": null
+  },
+  {
+    "id": "z61wlp9lki",
+    "definition": "A historical Apple all-in-one desktop computer based on a PowerPC G4 processor, with a flat-panel display mounted on a movable arm.",
+    "example": "A museum identifies an iMac G4 by its movable screen and rounded base.",
+    "sense_note": null
+  },
+  {
+    "id": "iti6qwphys",
+    "definition": "A historical Apple all-in-one desktop computer based on a PowerPC G5 processor, with its computer components housed behind the display.",
+    "example": "A museum compares the display-integrated iMac G5 with its predecessor.",
+    "sense_note": null
+  },
+  {
+    "id": "q8atqsmjrm",
+    "definition": "Producing images through a chosen generative process and selecting or refining results for the intended use.",
+    "example": "A designer generates several visual concepts from a brief and revises the selected image.",
+    "sense_note": "The method could be generative AI, rendering, or another computational image creation process."
+  },
+  {
+    "id": "gem70slfnb",
+    "definition": "Dividing an image into regions or labeling its pixels according to meaningful categories or instances.",
+    "example": "A vision system separates the pixels of each detected vehicle from the surrounding scene.",
+    "sense_note": null
+  },
+  {
+    "id": "a74793xzn5",
+    "definition": "A JavaScript library that provides persistent immutable data structures and operations for deriving modified versions.",
+    "example": "An application updates a collection while preserving the previous version for comparison.",
+    "sense_note": null
+  }
+]

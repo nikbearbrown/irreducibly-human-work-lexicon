@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Supplementary regulatory requirements designed to limit financial risks at covered banking organizations.",
+  "entry_text": "Supplementary regulatory requirements designed to limit financial risks at covered banking organizations.",
+  "entry_text_kind": "definition",
+  "example": "A compliance team checks which risk management and reporting requirements apply to its institution.",
+  "id": "bw6hhm83w9",
+  "key": "enhanced-prudential-standards",
+  "label": "Enhanced prudential standards",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Jurisdiction, thresholds, and provisions require source confirmation; the common United States sense is intended.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,33 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": null,
+  "entry_text": "Tharu is an umbrella label used for multiple languages, including Rana Tharu and Dangaura Tharu.",
+  "entry_text_kind": "source-proposed-definition",
+  "example": null,
+  "id": "gdng6a4nxd",
+  "key": "tharu",
+  "label": "Tharu",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specify the Tharu language or variety rather than assuming a single standardized target.",
+  "sense_proposal": {
+    "ambiguity_note": "Umbrella proposal only; do not assign a single code, or infer that all Tharu entries form one family.",
+    "id": "gdng6a4nxd",
+    "label": "Tharu",
+    "proposed_definition": "Tharu is an umbrella label used for multiple languages, including Rana Tharu and Dangaura Tharu.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/rana1246",
+      "https://glottolog.org/resource/languoid/id/dang1260",
+      "https://glottolog.org/resource/languoid/id/chit1274",
+      "https://glottolog.org/resource/languoid/id/koch1247",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

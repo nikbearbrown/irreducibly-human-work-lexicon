@@ -1,0 +1,242 @@
+[
+  {
+    "id": "nmv4icsuk2",
+    "definition": "LinkedIn is an online professional network for maintaining career profiles, connecting with contacts, and discovering jobs or professional content.",
+    "example": "A recruiter posts a vacancy and reviews profiles of people interested in the role.",
+    "sense_note": null
+  },
+  {
+    "id": "ihoes4l8q2",
+    "definition": "Linux systems administration involves operating and maintaining Linux hosts, including users, packages, storage, services and monitoring.",
+    "example": "An administrator updates packages on a host and verifies that its scheduled services still run.",
+    "sense_note": null
+  },
+  {
+    "id": "h6mztjfv7b",
+    "definition": "Liquidity forecasting estimates when funds become available and when payments are due to anticipate cash shortfalls or surpluses.",
+    "example": "A treasury team forecasts whether upcoming payroll will require a short-term transfer.",
+    "sense_note": null
+  },
+  {
+    "id": "rd2umyeqn5",
+    "definition": "Listwise deletion removes an entire observation from an analysis when any required variable is missing for that observation.",
+    "example": "A regression omits survey responses missing either the outcome or a selected predictor.",
+    "sense_note": null
+  },
+  {
+    "id": "cmdbpnjrr6",
+    "definition": "LiveData is an Android Jetpack observable data holder that delivers updates with awareness of an observer's lifecycle.",
+    "example": "An Android screen observes a view model's LiveData to display changes when the screen is active.",
+    "sense_note": null
+  },
+  {
+    "id": "pe7v46ydhy",
+    "definition": "Livestreaming transmits audio, video or both to viewers with only a short delay while the event takes place.",
+    "example": "A producer streams a conference talk and monitors audio and video quality during the broadcast.",
+    "sense_note": null
+  },
+  {
+    "id": "foom4y38p0",
+    "definition": "LLM observability is the practice of collecting and inspecting signals about a language-model application's execution and output quality.",
+    "example": "An engineer uses traces to see whether slow answers originate in retrieval or model generation.",
+    "sense_note": null
+  },
+  {
+    "id": "l507rs9zfn",
+    "definition": "Load securement is the process of restraining transported cargo to prevent shifting or loss during transit.",
+    "example": "A driver checks that approved restraints hold the pallets in place before departure.",
+    "sense_note": null
+  },
+  {
+    "id": "ayfys0y242",
+    "definition": "Loan administration manages the records, disbursements, payments, notices and servicing requirements of approved loans.",
+    "example": "A servicing team reconciles received payments with the balances in its loan records.",
+    "sense_note": null
+  },
+  {
+    "id": "pnzuc15c5j",
+    "definition": "Loan structuring designs financing terms such as amount, maturity, repayment schedule, collateral and covenants to fit the transaction's needs and risks.",
+    "example": "A lender proposes seasonal payment dates based on the borrower's cash flow.",
+    "sense_note": null
+  },
+  {
+    "id": "rtmy2yzpq1",
+    "definition": "Loan syndication arranges financing in which several lenders participate under coordinated terms for one borrower.",
+    "example": "A lead bank organizes a group of lenders to share a loan larger than any wants to hold alone.",
+    "sense_note": null
+  },
+  {
+    "id": "csb2nac37h",
+    "definition": "Log management collects, stores, organizes and evaluates records of events from systems and applications.",
+    "example": "An operations team searches centralized logs to determine which service first reported an outage.",
+    "sense_note": null
+  },
+  {
+    "id": "i701aamqht",
+    "definition": "Logic diagrams represent logical relationships or decision conditions using symbols and connections.",
+    "example": "An engineer diagrams how two input signals determine an interlock status.",
+    "sense_note": "May refer to circuit logic or formal decision diagrams, depending on context."
+  },
+  {
+    "id": "jb38910wps",
+    "definition": "Logistics planning coordinates how goods and materials are stored, transported and delivered within time, capacity and cost constraints.",
+    "example": "A distributor combines small shipments into routes that meet delivery windows.",
+    "sense_note": null
+  },
+  {
+    "id": "sno6247mi1",
+    "definition": "Logo design creates a distinctive visual mark that represents an organization, product or brand.",
+    "example": "A designer checks that a new mark remains recognizable on both an app icon and a printed sign.",
+    "sense_note": null
+  },
+  {
+    "id": "ewgeg8njc2",
+    "definition": "Long short-term memory is a recurrent neural network architecture that uses gates to retain, update or discard information across sequence steps.",
+    "example": "A model uses an LSTM to incorporate earlier measurements while forecasting demand.",
+    "sense_note": null
+  },
+  {
+    "id": "izg9ttrmk4",
+    "definition": "A low-code development platform enables applications or workflows to be assembled using visual tools, reusable components and limited custom code.",
+    "example": "A business team uses a visual builder to create a request form and approval process.",
+    "sense_note": null
+  },
+  {
+    "id": "k5tlhu5agn",
+    "definition": "Low-risk neonatal nursing provides routine assessment, monitoring and care for newborns who do not require intensive or high-acuity care.",
+    "example": "A nurse monitors feeding, temperature and weight in a healthy newborn transition setting.",
+    "sense_note": null
+  },
+  {
+    "id": "la8381jctz",
+    "definition": "Low-voltage transistor-transistor logic defines digital signal-level conventions associated with TTL-compatible operation at reduced supply voltages.",
+    "example": "A board designer checks that a device's logic-high and logic-low thresholds match its receiving interface.",
+    "sense_note": null
+  },
+  {
+    "id": "tbo4o5jjmq",
+    "definition": "Luigi is a Python library for organizing batch data workflows as tasks with dependencies and tracked outputs.",
+    "example": "A pipeline runs a report-generation task only after producing its source dataset.",
+    "sense_note": null
+  },
+  {
+    "id": "p2oyrsnqqq",
+    "definition": "Lumion is architectural visualization software for turning design models into rendered images, animations and scenes.",
+    "example": "An architect renders a building model with lighting, landscaping and surrounding context.",
+    "sense_note": null
+  },
+  {
+    "id": "pcpzpx5lmm",
+    "definition": "Lymphedema management aims to control swelling caused by impaired lymph drainage and preserve function through assessment, ongoing care and appropriate treatment.",
+    "example": "A trained clinician monitors limb measurements and adjusts a prescribed compression plan.",
+    "sense_note": null
+  },
+  {
+    "id": "tndq8jtj6s",
+    "definition": "M2Crypto is a Python library that wraps OpenSSL functions for cryptography and secure communications.",
+    "example": "A developer uses the library to inspect the metadata of a digital certificate.",
+    "sense_note": null
+  },
+  {
+    "id": "flxbx98seh",
+    "definition": "Machine learning develops models that improve at a defined task by fitting patterns to data rather than relying solely on explicitly written rules.",
+    "example": "A team trains a classifier to categorize product reviews by topic.",
+    "sense_note": null
+  },
+  {
+    "id": "nprxj06a8r",
+    "definition": "Machine operation involves setting up, controlling and monitoring equipment to carry out its intended task safely.",
+    "example": "An operator selects the specified run settings and stops the machine when inspection reveals a fault.",
+    "sense_note": null
+  },
+  {
+    "id": "i78tmp36vt",
+    "definition": "Machine tools are powered machines for cutting, shaping or finishing workpieces through controlled movement.",
+    "example": "A machinist uses a lathe to turn a cylindrical part to the required diameter.",
+    "sense_note": null
+  },
+  {
+    "id": "jvd0jfbm1t",
+    "definition": "Macintosh Application Environment was software that allowed compatible classic Macintosh applications to run on certain Unix workstations.",
+    "example": "A user opens a classic Mac application on a supported workstation through MAE.",
+    "sense_note": null
+  },
+  {
+    "id": "yuymi2lr97",
+    "definition": "macOS is Apple's operating system for Mac computers, providing desktop, system and application services.",
+    "example": "An administrator configures user access and installs an application on a Mac.",
+    "sense_note": null
+  },
+  {
+    "id": "r24n38tdtv",
+    "definition": "Mail distribution routes incoming or outgoing mail to the appropriate recipients or delivery channels.",
+    "example": "A mailroom worker delivers sorted envelopes to the correct departments.",
+    "sense_note": null
+  },
+  {
+    "id": "bxl9tjsu5g",
+    "definition": "Mail processing prepares, checks, sorts or records mail and parcels before distribution or dispatch.",
+    "example": "A clerk verifies package labels and sorts items by destination.",
+    "sense_note": null
+  },
+  {
+    "id": "qh2ipycdo7",
+    "definition": "Malware analysis examines suspected malicious software to understand its behavior, effects and indicators so defenders can detect or contain it.",
+    "example": "A defender documents files changed by a suspected program in an isolated analysis environment.",
+    "sense_note": null
+  },
+  {
+    "id": "r95stg9m1m",
+    "definition": "Mammalian cell culture maintains or grows mammal-derived cells outside their organism for research or controlled production.",
+    "example": "A scientist uses cultured mammalian cells to study a cellular response to a candidate treatment.",
+    "sense_note": null
+  },
+  {
+    "id": "zstay5frm1",
+    "definition": "A manure spreader is farm equipment that applies animal manure to land as a nutrient source or soil amendment.",
+    "example": "A farmer uses the implement to distribute manure evenly across the area identified in a nutrient plan.",
+    "sense_note": null
+  },
+  {
+    "id": "k99ngi7x73",
+    "definition": "Map production combines geographic data, cartographic design and publishing to create maps for an intended use.",
+    "example": "A planner produces a printed map that distinguishes flood zones from roads and building footprints.",
+    "sense_note": null
+  },
+  {
+    "id": "nxgs7upiiv",
+    "definition": "Map reading interprets a map's symbols, scale, orientation and features to determine locations or relationships.",
+    "example": "A hiker uses contour lines to identify the steepest part of a planned route.",
+    "sense_note": null
+  },
+  {
+    "id": "fjun60qhx2",
+    "definition": "MapDB is a Java library for collections that can store data on disk or in memory.",
+    "example": "A Java application keeps a large key-value index on disk using a persistent map.",
+    "sense_note": null
+  },
+  {
+    "id": "gv5aomo77r",
+    "definition": "Marine navigation plans and monitors a vessel's movement using charts, positions, environmental conditions and navigational aids.",
+    "example": "A watch officer compares the vessel's position with its planned track before entering a channel.",
+    "sense_note": null
+  },
+  {
+    "id": "ebmtk7bt1s",
+    "definition": "Marine radar detects surrounding vessels, shorelines and other reflecting objects using radio waves.",
+    "example": "A watch officer checks radar contacts when visibility falls in fog.",
+    "sense_note": null
+  },
+  {
+    "id": "y2k2ntnll0",
+    "definition": "Marionette.js is a JavaScript framework that builds on Backbone to organize application views, regions and related interface behavior.",
+    "example": "A developer divides a dashboard into regions that display and replace their own views.",
+    "sense_note": null
+  },
+  {
+    "id": "s2hhggpxcw",
+    "definition": "Maritime law enforcement applies laws and regulations affecting vessels, waters or maritime activity within the agency's jurisdiction.",
+    "example": "A maritime officer checks a vessel's required safety documentation during an authorized inspection.",
+    "sense_note": null
+  }
+]

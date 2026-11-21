@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Shepard's Citations is a legal citator used to track later treatment and citations of cases and other authorities.",
+  "entry_text": "Shepard's Citations is a legal citator used to track later treatment and citations of cases and other authorities.",
+  "entry_text_kind": "definition",
+  "example": "A researcher checks whether a later court limited the holding in a case relied on in a brief.",
+  "id": "mcq19gzghr",
+  "key": "shepard-s-citations",
+  "label": "Shepard's Citations",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

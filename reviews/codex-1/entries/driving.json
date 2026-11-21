@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Operating a vehicle safely and lawfully while adjusting to traffic, road conditions, and its handling characteristics.",
+  "entry_text": "Operating a vehicle safely and lawfully while adjusting to traffic, road conditions, and its handling characteristics.",
+  "entry_text_kind": "definition",
+  "example": "A driver leaves additional following distance on a wet road.",
+  "id": "tnm02b9fyp",
+  "key": "driving",
+  "label": "Driving",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

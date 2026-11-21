@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Accelerated Mobile Pages is a web framework that uses constrained markup and optimized resource loading to build fast-loading pages.",
+  "entry_text": "Accelerated Mobile Pages is a web framework that uses constrained markup and optimized resource loading to build fast-loading pages.",
+  "entry_text_kind": "definition",
+  "example": "A publisher builds an AMP version of a news article using the framework’s supported components.",
+  "id": "n40b1v2pun",
+  "key": "accelerated-mobile-pages",
+  "label": "Accelerated Mobile Pages",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

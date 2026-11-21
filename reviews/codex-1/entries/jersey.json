@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Jersey is a Java framework that implements the JAX-RS API for developing RESTful services and clients.",
+  "entry_text": "Jersey is a Java framework that implements the JAX-RS API for developing RESTful services and clients.",
+  "entry_text_kind": "definition",
+  "example": "A Java service uses Jersey to route an HTTP GET request to an annotated resource method.",
+  "id": "o0l43yotxm",
+  "key": "jersey",
+  "label": "Jersey",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Direct digital control uses a digital controller to read process inputs, compute control decisions, and command actuators directly.",
+  "entry_text": "Direct digital control uses a digital controller to read process inputs, compute control decisions, and command actuators directly.",
+  "entry_text_kind": "definition",
+  "example": "A building controller uses a temperature reading to update an air damper position according to a programmed control rule.",
+  "id": "o0rsreqle5",
+  "key": "direct-digital-control",
+  "label": "Direct digital control",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

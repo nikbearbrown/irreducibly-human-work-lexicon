@@ -1,0 +1,27 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_identity_candidates": [
+    {
+      "code": "uzbe1247",
+      "level": "family",
+      "name": "Uzbek"
+    }
+  ],
+  "definition": "A human language written in Latin and Cyrillic conventions.",
+  "entry_text": "A human language written in Latin and Cyrillic conventions.",
+  "entry_text_kind": "definition",
+  "example": "A localization team confirms the expected Uzbek script for its audience.",
+  "id": "rxfjfx408i",
+  "key": "uzbek",
+  "label": "Uzbek",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Mixed reality combines digital content with a view of the physical surroundings so that virtual objects can be positioned in, and may respond to, the real environment.",
+  "entry_text": "Mixed reality combines digital content with a view of the physical surroundings so that virtual objects can be positioned in, and may respond to, the real environment.",
+  "entry_text_kind": "definition",
+  "example": "A maintenance trainee views a digital alignment marker anchored to a physical pump.",
+  "id": "sfte4xs6zx",
+  "key": "mixed-reality",
+  "label": "Mixed reality",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The boundary between mixed and augmented reality varies across sources.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

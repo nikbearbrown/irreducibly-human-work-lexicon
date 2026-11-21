@@ -1,0 +1,298 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "uenwcm412x",
+    "key": "technology-entrepreneurship",
+    "label": "Technology entrepreneurship",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "pdd9yj2zty",
+    "key": "theatrical-techniques",
+    "label": "Theatrical techniques",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "unrn5odgmo",
+    "key": "thyroid-cancer",
+    "label": "Thyroid cancer",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yoc5ttu7x5",
+    "key": "thyroid-diseases-and-disorders",
+    "label": "Thyroid diseases and disorders",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jqn7upjsc9",
+    "key": "tl-9000",
+    "label": "TL 9000",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "tp20480fph",
+    "key": "trace-linear-algebra",
+    "label": "Trace (linear algebra)",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "rlfy28fdse",
+    "key": "traumatic-brain-injury",
+    "label": "Traumatic brain injury",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "f6muvp3xj5",
+    "key": "twisted-pair",
+    "label": "Twisted pair",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mbsk7t3c4x",
+    "key": "urban-resilience",
+    "label": "Urban resilience",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "c42rvldoqe",
+    "key": "urban-sustainability",
+    "label": "Urban sustainability",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "p15rcscaig",
+    "key": "urological-disorders",
+    "label": "Urological disorders",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yitddfndv7",
+    "key": "use-of-force",
+    "label": "Use of force",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jxii97zqv9",
+    "key": "utility-engineering",
+    "label": "Utility engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d6idziotxr",
+    "key": "utility-frequency",
+    "label": "Utility frequency",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qeyll0q70q",
+    "key": "va-loans",
+    "label": "VA loans",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wtaw3e3le4",
+    "key": "virtual-health",
+    "label": "Virtual health",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "h4zzei58f1",
+    "key": "virtual-lan",
+    "label": "Virtual LAN",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "sdhlwiw8x3",
+    "key": "virtual-private-network",
+    "label": "Virtual private network",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "megl3qks4r",
+    "key": "virtual-reality",
+    "label": "Virtual reality",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "x2qabn3ytz",
+    "key": "visual-impairment-education",
+    "label": "Visual impairment education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "rrovomiqx5",
+    "key": "wage-and-hour-laws",
+    "label": "Wage and hour laws",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "spkfzhms3l",
+    "key": "warehouse-automation",
+    "label": "Warehouse automation",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dnv14a793e",
+    "key": "wave-phase",
+    "label": "Wave phase",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "n3fuzwj8q9",
+    "key": "waveguide",
+    "label": "Waveguide",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "hwct39vphp",
+    "key": "welding-symbols",
+    "label": "Welding symbols",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "im5xpmg2uo",
+    "key": "wi-fi-architecture",
+    "label": "Wi-Fi architecture",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ksjlonf3g4",
+    "key": "wi-fi-security",
+    "label": "Wi-Fi security",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zjr6axwd0x",
+    "key": "wide-area-network",
+    "label": "Wide area network",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "eflhvck49r",
+    "key": "windows-vista-startup-process",
+    "label": "Windows Vista startup process",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "pzkjosu7hf",
+    "key": "wine-education",
+    "label": "Wine education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "b6e6korqyu",
+    "key": "wireless-technologies",
+    "label": "Wireless technologies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "hxmbmq6l9a",
+    "key": "women-s-studies",
+    "label": "Women's studies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "r66mwsich6",
+    "key": "word-formation",
+    "label": "Word formation",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d9y2xs3t38",
+    "key": "workforce-trends",
+    "label": "Workforce trends",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "eqlrx15sti",
+    "key": "worship-ministry",
+    "label": "Worship ministry",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "bcopuqio9u",
+    "key": "yahoo-messenger-protocols",
+    "label": "Yahoo! Messenger protocols",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "e979uulsi9",
+    "key": "youth-ministry",
+    "label": "Youth ministry",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

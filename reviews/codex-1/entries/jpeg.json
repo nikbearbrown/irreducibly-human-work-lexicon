@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "JPEG is a set of coding standards for compressing continuous-tone digital images, most commonly used with lossy compression.",
+  "entry_text": "JPEG is a set of coding standards for compressing continuous-tone digital images, most commonly used with lossy compression.",
+  "entry_text_kind": "definition",
+  "example": "A photographer saves a smaller web copy of a camera image as a JPEG.",
+  "id": "gue4rsxccu",
+  "key": "jpeg",
+  "label": "JPEG",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

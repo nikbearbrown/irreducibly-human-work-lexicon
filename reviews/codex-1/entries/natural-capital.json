@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Natural capital is the stock of natural resources and ecosystems that supports flows of goods and services.",
+  "entry_text": "Natural capital is the stock of natural resources and ecosystems that supports flows of goods and services.",
+  "entry_text_kind": "definition",
+  "example": "An assessment counts a wetland's capacity to reduce flooding as a benefit from natural capital.",
+  "id": "d9zc6zsrlv",
+  "key": "natural-capital",
+  "label": "Natural capital",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

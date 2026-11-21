@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Corona SDK was a Lua-based development kit for creating and deploying primarily two-dimensional apps and games across platforms.",
+  "entry_text": "Corona SDK was a Lua-based development kit for creating and deploying primarily two-dimensional apps and games across platforms.",
+  "entry_text_kind": "definition",
+  "example": "A game developer writes a single Lua scene and runs it on several supported mobile devices.",
+  "id": "g5a9cit4x4",
+  "key": "corona-sdk",
+  "label": "Corona SDK",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "This is the app development toolkit associated with Solar2D, not a renderer with a similar name.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

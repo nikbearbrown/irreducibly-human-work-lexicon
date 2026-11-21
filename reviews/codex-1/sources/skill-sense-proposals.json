@@ -1,0 +1,25 @@
+[
+  {
+    "id": "xuaqr3xw13",
+    "label": "ABC JavaScript Renderer",
+    "proposed_definition": null,
+    "refs": [
+      "https://docs.abcjs.net/visual/render-abc-options.html",
+      "https://www.abcjs.net/abcjs-basic",
+      "https://github.com/moinejf/abc2svg/blob/master/package.json"
+    ],
+    "ambiguity_note": "Maintainer documentation supports abcjs as a strong candidate and identifies abc2svg as a separate JavaScript project for ABC music notation. No unique package, vendor, or original source is encoded in the label; do not assign one."
+  },
+  {
+    "id": "cqu9eobvep",
+    "label": "Seeder",
+    "proposed_definition": null,
+    "refs": [
+      "https://api.laravel.com/docs/11.x/Illuminate/Database/Seeder.html",
+      "https://www.deere.com/assets/pdfs/common/parts-and-service/parts/jd-parts-spring-2024.pdf",
+      "https://www.bittorrent.org/bittorrentecon.pdf",
+      "https://www.deere.com/en-us/products-and-solutions/seeding-equipment"
+    ],
+    "ambiguity_note": "Distinct candidates include a database initialization class or utility, agricultural machinery that places seed, and a peer sharing a complete file. The tool hint does not choose between software and machinery, and the peer sense names a role rather than a tool. Require source context or an identifiable product before defining."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Scientific computing uses numerical algorithms and computational systems to solve, simulate, and analyze scientific problems.",
+  "entry_text": "Scientific computing uses numerical algorithms and computational systems to solve, simulate, and analyze scientific problems.",
+  "entry_text_kind": "definition",
+  "example": "A researcher uses a numerical solver to estimate temperatures through a modeled material.",
+  "id": "xes1w8d3wv",
+  "key": "scientific-computing",
+  "label": "Scientific computing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

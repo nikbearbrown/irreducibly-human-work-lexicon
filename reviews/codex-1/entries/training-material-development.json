@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Training material development creates instructional content, practice opportunities, and assessment materials aligned with learning objectives and audience needs.",
+  "entry_text": "Training material development creates instructional content, practice opportunities, and assessment materials aligned with learning objectives and audience needs.",
+  "entry_text_kind": "definition",
+  "example": "A trainer builds a job aid, worked example, and exercise for a new warehouse receiving process.",
+  "id": "a2jaki06vt",
+  "key": "training-material-development",
+  "label": "Training material development",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

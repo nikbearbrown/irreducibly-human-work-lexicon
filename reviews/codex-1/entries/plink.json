@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PLINK is a command-line toolset for managing genotype data and running population genetics or association analyses.",
+  "entry_text": "PLINK is a command-line toolset for managing genotype data and running population genetics or association analyses.",
+  "entry_text_kind": "definition",
+  "example": "An analyst checks missing genotype calls before comparing cohorts.",
+  "id": "c7wxx3kgek",
+  "key": "plink",
+  "label": "PLINK",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The uppercase label suggests the genetics tool; distinguish PuTTY's Plink.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

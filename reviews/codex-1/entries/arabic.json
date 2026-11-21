@@ -1,0 +1,35 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_identity_candidates": [
+    {
+      "code": "arab1395",
+      "level": "family",
+      "name": "Arabic"
+    }
+  ],
+  "definition": "A human language label spanning a standard written form and diverse spoken varieties.",
+  "entry_text": "A human language label spanning a standard written form and diverse spoken varieties.",
+  "entry_text_kind": "definition",
+  "example": "A translator drafts an Arabic public notice.",
+  "id": "c6s0kc7cs8",
+  "key": "arabic",
+  "label": "Arabic",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specify the register or spoken variety when needed.",
+  "sources": [
+    {
+      "id": "c6s0kc7cs8",
+      "note": "Original corpus research differentiates Standard Arabic and several spoken varieties. This review concerns the definition, not any example.",
+      "packet": "root-language-001.json",
+      "ref": "https://aclanthology.org/L14-1435/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

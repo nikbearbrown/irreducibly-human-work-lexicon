@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ubbks6pmjn",
+    "definition": "Operating and maintaining a data warehouse so consolidated data stays available, reliable, and suitable for analysis.",
+    "example": "A manager tracks the overnight load and resolves a failed refresh before finance opens its dashboard.",
+    "sense_note": null
+  },
+  {
+    "id": "ie3ky4o9l0",
+    "definition": "Cleaning, reshaping, and combining raw data so it can be analyzed or used by another system.",
+    "example": "An analyst parses inconsistent timestamps and joins the resulting records to a lookup table.",
+    "sense_note": null
+  },
+  {
+    "id": "jqnx17j4zy",
+    "definition": "Maintaining database availability, security, integrity, and performance throughout its operation.",
+    "example": "An administrator tests a backup restore before upgrading the production database.",
+    "sense_note": null
+  },
+  {
+    "id": "kp84ig38m5",
+    "definition": "Defining a database's data structures, relationships, constraints, and access patterns to support intended uses.",
+    "example": "A designer separates orders from line items and specifies how they are linked.",
+    "sense_note": null
+  },
+  {
+    "id": "qwwzdu21ry",
+    "definition": "Keeping a secondary database copy synchronized with a primary to support recovery or failover.",
+    "example": "A standby copy receives changes and is available if the primary database fails.",
+    "sense_note": null
+  },
+  {
+    "id": "x4ws8p3zju",
+    "definition": "An interactive Informix utility for issuing SQL statements and working with database objects.",
+    "example": "A database operator uses DB-Access to inspect a table and run a report query.",
+    "sense_note": null
+  },
+  {
+    "id": "n8zkppxggv",
+    "definition": "IBM's relational database for the AS/400 platform, now known as Db2 for i.",
+    "example": "A reporting application queries customer records stored on an IBM i system.",
+    "sense_note": null
+  },
+  {
+    "id": "n6jajuq7xe",
+    "definition": "A family of Microsoft SQL Server commands used to check database integrity and inspect or maintain database structures.",
+    "example": "An administrator runs an integrity check against a restored database before returning it to service.",
+    "sense_note": null
+  },
+  {
+    "id": "d4twtmz0xj",
+    "definition": "A framework for expressing and running database acceptance tests in a tabular format.",
+    "example": "A tester documents sample rows and the expected result of a database query as an executable test.",
+    "sense_note": null
+  },
+  {
+    "id": "hqe3a6n58q",
+    "definition": "A linked-data project that extracts structured information from Wikipedia and makes it queryable.",
+    "example": "A researcher uses DBpedia to retrieve structured place information for entries in a catalogue.",
+    "sense_note": null
+  },
+  {
+    "id": "v9psjv5xcb",
+    "definition": "A public reference database of genetic variants that assigns identifiers to individual variant records.",
+    "example": "A scientist uses a variant's reference identifier to compare annotations across datasets.",
+    "sense_note": null
+  },
+  {
+    "id": "ey99gk851b",
+    "definition": "A Java library for testing database-dependent code with repeatable datasets and database-state assertions.",
+    "example": "A test suite loads known records before checking a repository method.",
+    "sense_note": null
+  },
+  {
+    "id": "ds71vj3zr1",
+    "definition": "A graphical database client for connecting to relational databases, browsing schemas, and running SQL.",
+    "example": "A developer inspects a table and exports the results of a query in DbVisualizer.",
+    "sense_note": null
+  },
+  {
+    "id": "tlgs5hgvnv",
+    "definition": "A JavaScript charting library for linked, interactive visualizations in which filtering one view can update others.",
+    "example": "Selecting a month in a bar chart updates a related category chart.",
+    "sense_note": null
+  },
+  {
+    "id": "k0i39m7973",
+    "definition": "A historical United States intelligence directive on protecting classified information handled by information systems.",
+    "example": null,
+    "sense_note": "Confirm the directive's edition and whether the entry refers to the directive or its implementation manual."
+  },
+  {
+    "id": "m8l9rs4net",
+    "definition": "Structuring a proposed transaction or agreement around the participants' objectives, risks, and negotiating constraints.",
+    "example": "A commercial lead adjusts payment milestones to balance the buyer's cash flow and the supplier's risk.",
+    "sense_note": null
+  },
+  {
+    "id": "f247pyw2ly",
+    "definition": "Receiving, interpreting, and responding to requests for information or assistance.",
+    "example": "A service representative clarifies a caller's question and routes a request they cannot resolve.",
+    "sense_note": null
+  },
+  {
+    "id": "x76mwrjain",
+    "definition": "Removing bones from meat, poultry, or fish while preserving the desired portions.",
+    "example": "A kitchen worker separates the bones from a fillet before dividing it into portions.",
+    "sense_note": null
+  },
+  {
+    "id": "zh5hk9g8gz",
+    "definition": "Removing burrs or sharp projections left by machining or cutting.",
+    "example": "A fabricator smooths the rim of a drilled hole before assembly.",
+    "sense_note": null
+  },
+  {
+    "id": "a4mmn4cmho",
+    "definition": "Software that organizes evidence, alternatives, and criteria to support comparison and selection.",
+    "example": "A procurement team compares proposals against weighted cost and service criteria.",
+    "sense_note": null
+  },
+  {
+    "id": "hcxk1prurk",
+    "definition": "Applying aesthetic choices to improve the appearance of an object, setting, or finished product.",
+    "example": "An event decorator arranges lighting and colors to suit the venue.",
+    "sense_note": "The broad label may refer to a narrower domain such as interiors, cakes, or product finishing."
+  },
+  {
+    "id": "g7ttwtxbej",
+    "definition": "An open-source geospatial software platform for delivering map and spatial data services.",
+    "example": "A mapping team publishes a map service for other applications to use.",
+    "sense_note": null
+  },
+  {
+    "id": "nw1oyk7q86",
+    "definition": "A machine-learning approach that uses neural networks with multiple processing layers to learn representations and make predictions.",
+    "example": "A layered vision model learns visual features that help distinguish photographed objects.",
+    "sense_note": null
+  },
+  {
+    "id": "ovrrog0mz2",
+    "definition": "The use of protective awareness, positioning, and response principles to reduce harm during a confrontation.",
+    "example": "A safety instructor assesses how trainees recognize and disengage from a threatening encounter.",
+    "sense_note": "Non-operational scope; organizational and legal context can affect the intended sense."
+  },
+  {
+    "id": "ri3r675sh1",
+    "definition": "Removing excess material, called flash, that escapes at a mold's joint during forming.",
+    "example": "A production worker trims thin excess plastic from a molded part.",
+    "sense_note": null
+  },
+  {
+    "id": "cjla0mq4dy",
+    "definition": "An ordered workflow for moving a change through verification and preparation for release.",
+    "example": "A pipeline builds a new version and passes it through automated checks before release approval.",
+    "sense_note": null
+  },
+  {
+    "id": "n77gq847cg",
+    "definition": "A family of compact endpoint computers designed primarily to access centrally hosted desktops or applications.",
+    "example": "A staff member signs in from a thin client to a centrally managed virtual desktop.",
+    "sense_note": null
+  },
+  {
+    "id": "abl7u4xght",
+    "definition": "An enterprise resource planning platform for project-based organizations, particularly government contractors.",
+    "example": "A contractor uses Costpoint to track project hours and report costs.",
+    "sense_note": null
+  },
+  {
+    "id": "vt6xft6d62",
+    "definition": "Dismantling or removing existing structures as planned construction or site clearance work.",
+    "example": "A demolition team removes a building in accordance with the approved removal and safety plan.",
+    "sense_note": null
+  },
+  {
+    "id": "r988qdft8n",
+    "definition": "Removing bacterial plaque from tooth surfaces as part of oral hygiene or dental care.",
+    "example": "A hygienist checks plaque accumulation and records the surfaces cleaned during an appointment.",
+    "sense_note": null
+  },
+  {
+    "id": "c0kd1bmd4t",
+    "definition": "Documenting and maintaining information about a patient's dental condition, treatment, imaging, and follow-up.",
+    "example": "A dental assistant updates a patient's chart with today's findings and planned care.",
+    "sense_note": "The label also denotes the records themselves; this definition reflects the supplied skill classification."
+  },
+  {
+    "id": "bt632lzc9o",
+    "definition": "Advising clients on design objectives, constraints, and choices for a proposed product, service, or space.",
+    "example": "A consultant helps a client select a layout that meets accessibility and budget requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "roimjkavj1",
+    "definition": "Recording design requirements, decisions, specifications, and rationale so a design can be implemented or revised.",
+    "example": "An engineer documents an interface and the assumptions behind its dimensions.",
+    "sense_note": null
+  },
+  {
+    "id": "k0nsgux6t3",
+    "definition": "A design approach that adapts a product's features and materials to the capabilities and costs of its intended manufacturing processes.",
+    "example": "An engineer changes a part geometry to reduce the number of production operations.",
+    "sense_note": null
+  },
+  {
+    "id": "kokxhnhui7",
+    "definition": "A statistical approach for planning controlled experiments that estimate how selected factors affect a response.",
+    "example": "A team varies two packaging settings to determine their effects on defect rates.",
+    "sense_note": null
+  },
+  {
+    "id": "r8txrd6uj1",
+    "definition": "A structured assessment of a proposed or evolving design by relevant stakeholders before further development or release.",
+    "example": "Reviewers inspect an enclosure design against requirements and record unresolved concerns.",
+    "sense_note": null
+  },
+  {
+    "id": "p2k4yt3ls3",
+    "definition": "Evaluating whether a design fulfills its intended use and meets user needs under representative conditions.",
+    "example": "A team checks whether intended operators can complete a real task with the prototype.",
+    "sense_note": null
+  },
+  {
+    "id": "vd34jqks0j",
+    "definition": "Managing desktop computers and their operating systems, applications, updates, and settings across an organization.",
+    "example": "An IT team deploys a security update to staff workstations and verifies installation.",
+    "sense_note": null
+  },
+  {
+    "id": "hp26l3foe2",
+    "definition": "An interactive mathematics platform with tools for graphing functions and exploring mathematical relationships.",
+    "example": "A student changes a coefficient with a slider and observes how the plotted curve shifts.",
+    "sense_note": null
+  },
+  {
+    "id": "d4tfwk03xy",
+    "definition": "A machine that separates stones or other dense contaminants from a bulk material stream.",
+    "example": "A grain processor removes small stones before milling.",
+    "sense_note": null
+  }
+]

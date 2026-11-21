@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-013.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A virtual private network extends private connectivity over a shared network using logical tunnels, commonly protected by encryption.",
+  "entry_text": "A virtual private network extends private connectivity over a shared network using logical tunnels, commonly protected by encryption.",
+  "entry_text_kind": "definition",
+  "example": "A worker uses a VPN to access internal company resources from a remote location.",
+  "id": "sdhlwiw8x3",
+  "key": "virtual-private-network",
+  "label": "Virtual private network",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An instructional approach in which learners encounter introductory material before class and use class time for active practice or discussion.",
+  "entry_text": "An instructional approach in which learners encounter introductory material before class and use class time for active practice or discussion.",
+  "entry_text_kind": "definition",
+  "example": "Students watch an explanation before class and solve related problems with instructor support in class.",
+  "id": "u554ug560m",
+  "key": "flipped-classroom",
+  "label": "Flipped classroom",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Nuxt is a web application framework built on Vue with routing and rendering features for client-side and server-side applications.",
+  "entry_text": "Nuxt is a web application framework built on Vue with routing and rendering features for client-side and server-side applications.",
+  "entry_text_kind": "definition",
+  "example": "A developer builds a product page whose initial content can be rendered on the server.",
+  "id": "f0mg2qvhta",
+  "key": "nuxt",
+  "label": "Nuxt",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

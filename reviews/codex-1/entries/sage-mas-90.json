@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sage MAS 90 is a legacy business management system for accounting, inventory, and operational workflows that became part of the Sage 100 product line.",
+  "entry_text": "Sage MAS 90 is a legacy business management system for accounting, inventory, and operational workflows that became part of the Sage 100 product line.",
+  "entry_text_kind": "definition",
+  "example": "A migration specialist maps accounts from a MAS 90 ledger to a replacement system.",
+  "id": "dvsxgd6jgp",
+  "key": "sage-mas-90",
+  "label": "Sage MAS 90",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Legacy brand; verify exact edition when relevant.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

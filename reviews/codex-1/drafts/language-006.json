@@ -1,0 +1,242 @@
+[
+  {
+    "id": "o92byobbda",
+    "definition": "Oracle's procedural extension to SQL, used for blocks, stored routines, and triggers.",
+    "example": "A developer defines a stored routine that validates a row before saving it.",
+    "sense_note": null
+  },
+  {
+    "id": "onzi0v8hlf",
+    "definition": "PostgreSQL's procedural language for implementing server-side functions and triggers.",
+    "example": "A developer writes a trigger function that records a timestamp.",
+    "sense_note": null
+  },
+  {
+    "id": "vicv7ha84e",
+    "definition": "A human language used in oral and written communication.",
+    "example": "An editor reviews a Polish exhibition guide.",
+    "sense_note": null
+  },
+  {
+    "id": "e6d3w0bi1i",
+    "definition": "A human language with multiple regional standards used in speech and writing.",
+    "example": "A localization team chooses the appropriate Portuguese standard for its interface.",
+    "sense_note": null
+  },
+  {
+    "id": "ty7glckkcx",
+    "definition": "A programming language for describing text and graphics on a printed or rendered page.",
+    "example": "A print workflow positions vector shapes on a page before printing.",
+    "sense_note": null
+  },
+  {
+    "id": "kfyctm5kde",
+    "definition": "A low-code formula language used in Microsoft's Power Platform.",
+    "example": "A developer uses a formula to filter records shown in a gallery.",
+    "sense_note": null
+  },
+  {
+    "id": "ded0nfrja6",
+    "definition": "A shell and scripting language that passes structured objects through pipelines.",
+    "example": "An administrator filters a list of running processes by memory usage.",
+    "sense_note": null
+  },
+  {
+    "id": "j7d05adqgg",
+    "definition": "A logic programming language that answers queries using facts, rules, unification, and search.",
+    "example": "A developer queries a family relation derived from recorded parent facts.",
+    "sense_note": null
+  },
+  {
+    "id": "cimstj8zi6",
+    "definition": "A human language used in spoken and written communication with multiple writing conventions.",
+    "example": "A publisher specifies Gurmukhi for a Punjabi edition.",
+    "sense_note": null
+  },
+  {
+    "id": "nnn6b9rv8c",
+    "definition": "A statically typed, purely functional programming language that commonly compiles to JavaScript.",
+    "example": "A developer represents an optional form field with an explicit type.",
+    "sense_note": null
+  },
+  {
+    "id": "pk7cebmtg6",
+    "definition": "A general-purpose programming language with dynamic typing and an extensive standard library.",
+    "example": "An analyst reads a CSV file and summarizes counts by category.",
+    "sense_note": null
+  },
+  {
+    "id": "ub71msqw4l",
+    "definition": "A programming language designed to express quantum operations and algorithms.",
+    "example": "A developer prepares and measures a qubit in a simulator.",
+    "sense_note": null
+  },
+  {
+    "id": "z2qq76c1yj",
+    "definition": "A family of related human languages or varieties known collectively as Quechua.",
+    "example": "An interpreter asks which Quechua variety a speaker uses.",
+    "sense_note": null
+  },
+  {
+    "id": "oeixkjthc3",
+    "definition": "A programming language and environment for statistical computing and graphics.",
+    "example": "A researcher fits a regression and plots its residuals.",
+    "sense_note": null
+  },
+  {
+    "id": "pc6p0jwvif",
+    "definition": "A Scheme-derived programming language and platform for building other languages.",
+    "example": "A developer uses a macro to define notation for a tiny expression language.",
+    "sense_note": null
+  },
+  {
+    "id": "goiz44dwnb",
+    "definition": "A human language used in speech and writing.",
+    "example": "A translator checks a Romanian software manual.",
+    "sense_note": null
+  },
+  {
+    "id": "s3rdirqwq6",
+    "definition": "A dynamic, object-oriented programming language with support for blocks and iterators.",
+    "example": "A developer groups records using a Ruby block.",
+    "sense_note": null
+  },
+  {
+    "id": "c33qxaphm7",
+    "definition": "A human language normally written in the Cyrillic script.",
+    "example": "An editor proofreads Russian captions for a video.",
+    "sense_note": null
+  },
+  {
+    "id": "e0p0dbx59q",
+    "definition": "A compiled systems language whose ownership and borrowing rules help enforce memory safety.",
+    "example": "A developer passes a borrowed slice to a parser without copying its contents.",
+    "sense_note": null
+  },
+  {
+    "id": "hs6rwa4dqv",
+    "definition": "A human language also known as Yakut.",
+    "example": "A teacher records a Sakha pronunciation exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "ejc1plwt0s",
+    "definition": "A human language used for spoken and written communication.",
+    "example": "A translator reviews a Samoan visitor guide.",
+    "sense_note": null
+  },
+  {
+    "id": "dupsfn56g9",
+    "definition": "A human language used in spoken and written communication.",
+    "example": "An interpreter explains an appointment notice in Sango.",
+    "sense_note": null
+  },
+  {
+    "id": "bak08047ud",
+    "definition": "A human language that can be written in Ol Chiki and other scripts.",
+    "example": "An editor reviews a Santali reading lesson in Ol Chiki.",
+    "sense_note": null
+  },
+  {
+    "id": "efqdzpzw1v",
+    "definition": "A human language used for oral and written communication.",
+    "example": "A broadcaster prepares a Saraiki public announcement.",
+    "sense_note": null
+  },
+  {
+    "id": "pr56rj4a6x",
+    "definition": "A text-generation language for parameterizing and generating SAS code.",
+    "example": "An analyst uses a macro parameter to generate the same report for several years.",
+    "sense_note": null
+  },
+  {
+    "id": "d7zsm83o61",
+    "definition": "A programming language and software environment for managing data and conducting statistical analyses.",
+    "example": "An analyst summarizes survey responses with a SAS procedure.",
+    "sense_note": "Clarify language versus the larger platform if needed."
+  },
+  {
+    "id": "aofnj17vp2",
+    "definition": "A stylesheet language that compiles to CSS and supports variables, modules, and reusable rules.",
+    "example": "A developer uses a mixin to share a typography rule across components.",
+    "sense_note": null
+  },
+  {
+    "id": "ztt7xizgr8",
+    "definition": "A statically typed language combining object-oriented and functional programming.",
+    "example": "A developer maps a transformation over an immutable collection.",
+    "sense_note": null
+  },
+  {
+    "id": "esk7959e8m",
+    "definition": "A Lisp dialect characterized by lexical scope and first-class procedures.",
+    "example": "A student passes a comparison procedure into a sorting function.",
+    "sense_note": null
+  },
+  {
+    "id": "pjhm4fma0a",
+    "definition": "A block-based programming language used to build interactive projects.",
+    "example": "A learner connects an event block to movement blocks for a sprite.",
+    "sense_note": null
+  },
+  {
+    "id": "zrvz05z4iv",
+    "definition": "A broad language label that can group Bosnian, Croatian, Montenegrin, and Serbian standards.",
+    "example": "A cataloger records the specific standard for each edition rather than merging titles.",
+    "sense_note": "Use specific standards where the distinction matters."
+  },
+  {
+    "id": "et1r4lfw6l",
+    "definition": "An XML-based specification for exchanging provisioning requests between systems.",
+    "example": "An identity client sends a standardized request to create a user record.",
+    "sense_note": null
+  },
+  {
+    "id": "codtvk9302",
+    "definition": "A human language also known as Southern Sotho.",
+    "example": "An editor reviews a Sesotho version of a community bulletin.",
+    "sense_note": null
+  },
+  {
+    "id": "wfw1x8wd7f",
+    "definition": "A human language used for spoken and written communication.",
+    "example": "A teacher prepares a Shan reading exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "fu99i0fje4",
+    "definition": "Writing command sequences for execution by a shell interpreter.",
+    "example": "An operator uses a shell script to count files in each directory.",
+    "sense_note": "Specify shell when the syntax matters."
+  },
+  {
+    "id": "moolbswjw7",
+    "definition": "A human language used in speech and writing.",
+    "example": "A reviewer edits Shona subtitles for a training video.",
+    "sense_note": null
+  },
+  {
+    "id": "u1r1jfnmnz",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm the intended language sense, especially whether the label refers to the Slavic variety or a historical German one."
+  },
+  {
+    "id": "qou8ag13js",
+    "definition": "An early object-oriented programming language designed in part for simulation.",
+    "example": "A programmer represents each customer in a queue simulation as an object.",
+    "sense_note": null
+  },
+  {
+    "id": "nsuvujp7pw",
+    "definition": "A human language with more than one writing convention.",
+    "example": "A publisher specifies the script for a Sindhi edition.",
+    "sense_note": null
+  },
+  {
+    "id": "wcgrarya9l",
+    "definition": "A human language written in the Sinhala script.",
+    "example": "A translator reviews Sinhala instructions on a public kiosk.",
+    "sense_note": null
+  }
+]

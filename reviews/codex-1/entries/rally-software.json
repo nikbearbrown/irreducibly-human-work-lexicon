@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Rally Software is an agile delivery management platform for planning and tracking work across teams.",
+  "entry_text": "Rally Software is an agile delivery management platform for planning and tracking work across teams.",
+  "entry_text_kind": "definition",
+  "example": "A product team tracks stories and dependencies across iterations.",
+  "id": "a18n6zcx8m",
+  "key": "rally-software",
+  "label": "Rally Software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

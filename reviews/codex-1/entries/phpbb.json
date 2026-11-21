@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "phpBB is web forum software for hosting threaded discussions and managing users, categories and moderation.",
+  "entry_text": "phpBB is web forum software for hosting threaded discussions and managing users, categories and moderation.",
+  "entry_text_kind": "definition",
+  "example": "A moderator creates a support category and manages posts reported by members.",
+  "id": "v3obh6w5hq",
+  "key": "phpbb",
+  "label": "phpBB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

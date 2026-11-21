@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "UglifyJS is a JavaScript parser, compressor, and mangler used to shrink source files while preserving intended behavior.",
+  "entry_text": "UglifyJS is a JavaScript parser, compressor, and mangler used to shrink source files while preserving intended behavior.",
+  "entry_text_kind": "definition",
+  "example": "A build process produces a smaller script by removing unnecessary whitespace and shortening local variable names.",
+  "id": "d47v9bvb4w",
+  "key": "uglifyjs",
+  "label": "UglifyJS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

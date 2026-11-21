@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A manure spreader is farm equipment that applies animal manure to land as a nutrient source or soil amendment.",
+  "entry_text": "A manure spreader is farm equipment that applies animal manure to land as a nutrient source or soil amendment.",
+  "entry_text_kind": "definition",
+  "example": "A farmer uses the implement to distribute manure evenly across the area identified in a nutrient plan.",
+  "id": "zstay5frm1",
+  "key": "manure-spreader",
+  "label": "Manure spreader",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

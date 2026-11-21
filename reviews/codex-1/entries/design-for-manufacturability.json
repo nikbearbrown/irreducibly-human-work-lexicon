@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A design approach that adapts a product's features and materials to the capabilities and costs of its intended manufacturing processes.",
+  "entry_text": "A design approach that adapts a product's features and materials to the capabilities and costs of its intended manufacturing processes.",
+  "entry_text_kind": "definition",
+  "example": "An engineer changes a part geometry to reduce the number of production operations.",
+  "id": "k0nsgux6t3",
+  "key": "design-for-manufacturability",
+  "label": "Design for manufacturability",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Tableau is a visual analytics platform for connecting to data and creating interactive charts, dashboards, and reports.",
+  "entry_text": "Tableau is a visual analytics platform for connecting to data and creating interactive charts, dashboards, and reports.",
+  "entry_text_kind": "definition",
+  "example": "An analyst builds a dashboard that lets viewers filter service delays by month and region.",
+  "id": "enjwt6y9ws",
+  "key": "tableau",
+  "label": "Tableau",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as the software, not a staged picture or arrangement.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

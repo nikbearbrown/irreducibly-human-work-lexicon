@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Creating or operating three-dimensional digital content that responds to user actions in real time.",
+  "entry_text": "Creating or operating three-dimensional digital content that responds to user actions in real time.",
+  "entry_text_kind": "definition",
+  "example": "A designer builds a model that visitors can rotate and inspect from different viewpoints.",
+  "id": "m9s424jy6t",
+  "key": "interactive-3d",
+  "label": "Interactive 3D",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

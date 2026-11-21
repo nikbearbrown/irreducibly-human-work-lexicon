@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An object-oriented data model represents data as objects with identities, properties and relationships, often organized into classes.",
+  "entry_text": "An object-oriented data model represents data as objects with identities, properties and relationships, often organized into classes.",
+  "entry_text_kind": "definition",
+  "example": "A design system represents a geometric shape and its dimensions as an object in a class hierarchy.",
+  "id": "uokmv489cy",
+  "key": "object-oriented-data-model",
+  "label": "Object-oriented data model",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

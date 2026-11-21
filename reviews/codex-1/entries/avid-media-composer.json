@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Avid Media Composer is a nonlinear video editing application for organizing media and assembling edited productions.",
+  "entry_text": "Avid Media Composer is a nonlinear video editing application for organizing media and assembling edited productions.",
+  "entry_text_kind": "definition",
+  "example": "An editor synchronizes recorded audio to camera footage and revises a sequence.",
+  "id": "l8ekx0fzub",
+  "key": "avid-media-composer",
+  "label": "Avid Media Composer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

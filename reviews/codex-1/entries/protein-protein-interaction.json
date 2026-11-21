@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-011.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A protein-protein interaction is a physical association between proteins that can affect their activity, location or stability.",
+  "entry_text": "A protein-protein interaction is a physical association between proteins that can affect their activity, location or stability.",
+  "entry_text_kind": "definition",
+  "example": "A cell signaling study investigates whether two proteins form a complex after stimulation.",
+  "id": "obcy8kghk7",
+  "key": "protein-protein-interaction",
+  "label": "Protein-protein interaction",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

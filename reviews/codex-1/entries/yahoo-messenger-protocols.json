@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-013.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Yahoo! Messenger protocols were communication formats and rules used by the Yahoo! Messenger service to exchange messages and status information.",
+  "entry_text": "Yahoo! Messenger protocols were communication formats and rules used by the Yahoo! Messenger service to exchange messages and status information.",
+  "entry_text_kind": "definition",
+  "example": "A computing historian examines how clients represented whether a contact was available.",
+  "id": "bcopuqio9u",
+  "key": "yahoo-messenger-protocols",
+  "label": "Yahoo! Messenger protocols",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical implementations differed by client and protocol version.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

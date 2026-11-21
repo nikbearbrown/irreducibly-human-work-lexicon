@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "hg1pgsuuhk",
+    "key": "azure-policy",
+    "label": "Azure Policy",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dtlvf3ey43",
+    "key": "azure-security",
+    "label": "Azure Security",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n225fen24i",
+    "key": "babylon-js",
+    "label": "Babylon.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hty63xrb26",
+    "key": "back-end-development",
+    "label": "Back-end development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fvywboh27m",
+    "key": "backbone-js",
+    "label": "Backbone.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pabpxn4ry1",
+    "key": "bacnet",
+    "label": "BACnet",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hxclrzb8sy",
+    "key": "bacon-js",
+    "label": "Bacon.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rqqx99ehke",
+    "key": "bacterial-culture",
+    "label": "Bacterial culture",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z3g31q33r8",
+    "key": "balafon",
+    "label": "Balafon",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sa8c6ibu44",
+    "key": "balloon-modelling",
+    "label": "Balloon modelling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kt2njukdr4",
+    "key": "banner-advertising",
+    "label": "Banner advertising",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nx4r7bqcht",
+    "key": "banyan-vines",
+    "label": "Banyan VINES",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pe4jav8s6k",
+    "key": "baseline-personnel-security-standard",
+    "label": "Baseline Personnel Security Standard",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a7qvbb5y4u",
+    "key": "basex",
+    "label": "BaseX",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ppl4zfnufj",
+    "key": "batman-js",
+    "label": "Batman.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bt8p5jsa0c",
+    "key": "battle-management",
+    "label": "Battle management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h8992wzklv",
+    "key": "bed-mobility",
+    "label": "Bed mobility",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jctieiwib0",
+    "key": "behavior-change-communication",
+    "label": "Behavior change communication",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r2s2a082xj",
+    "key": "benefits-realisation-management",
+    "label": "Benefits realisation management",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cv3d24xm4v",
+    "key": "bereavement-care",
+    "label": "Bereavement care",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "chxsoqxi2v",
+    "key": "berkeley-data-analytics-stack",
+    "label": "Berkeley Data Analytics Stack",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kqpe0qcysy",
+    "key": "bidirectional-streams-over-synchronous-http",
+    "label": "Bidirectional-streams Over Synchronous HTTP",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yapu6om8hs",
+    "key": "bigfix",
+    "label": "BigFix",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tdp9wsve0r",
+    "key": "binary-ninja",
+    "label": "Binary Ninja",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bzg3r9ulfm",
+    "key": "bind",
+    "label": "BIND",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "of69xfk012",
+    "key": "bioconductor",
+    "label": "Bioconductor",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "swfjde2n0t",
+    "key": "biopython",
+    "label": "Biopython",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pk4hydl0w5",
+    "key": "bitly",
+    "label": "Bitly",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gojjwsv7zx",
+    "key": "blackline",
+    "label": "BlackLine",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jfqj25il68",
+    "key": "blast-radius",
+    "label": "Blast radius analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w1blu9iu00",
+    "key": "blended-learning",
+    "label": "Blended learning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p5xwz73srr",
+    "key": "blender-game-engine",
+    "label": "Blender Game Engine",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a55fzbayyn",
+    "key": "boa-constructor",
+    "label": "Boa Constructor",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ljshci25ww",
+    "key": "board-support-package",
+    "label": "Board support package",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r87rnj12pg",
+    "key": "body-contouring",
+    "label": "Body contouring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qynnjedz1c",
+    "key": "bodyattack",
+    "label": "BODYATTACK",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g24dhd0nzf",
+    "key": "bodypump",
+    "label": "BODYPUMP",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bjp3i8vngr",
+    "key": "bonjour",
+    "label": "Bonjour",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zvd4xk1u3p",
+    "key": "boolean-search",
+    "label": "Boolean search",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zwm9kkpnld",
+    "key": "box-api",
+    "label": "Box API",
+    "onet_codes": [],
+    "original_kind": "platform"
+  }
+]

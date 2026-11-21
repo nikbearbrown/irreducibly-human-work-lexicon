@@ -1,0 +1,31 @@
+{
+  "batch": "language-004.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Kannada (ISO 639-3: kan) as a language under the Dravidian grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Dravidian",
+    "catalog_name": "Kannada",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "nucl1305",
+    "iso639_3": "kan",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/nucl1305"
+  },
+  "definition": "A human language written using the Kannada script.",
+  "entry_text": "A human language written using the Kannada script.",
+  "entry_text_kind": "definition",
+  "example": "An editor checks a Kannada education handout.",
+  "id": "u9xvb4f062",
+  "key": "kannada",
+  "label": "Kannada",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

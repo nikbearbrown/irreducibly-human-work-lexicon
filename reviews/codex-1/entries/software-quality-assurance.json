@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Software quality assurance establishes and evaluates practices that give confidence software and its development processes meet quality requirements.",
+  "entry_text": "Software quality assurance establishes and evaluates practices that give confidence software and its development processes meet quality requirements.",
+  "entry_text_kind": "definition",
+  "example": "A release reviewer audits whether required tests and independent approvals were completed before deployment.",
+  "id": "o1bclljhfa",
+  "key": "software-quality-assurance",
+  "label": "Software quality assurance",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

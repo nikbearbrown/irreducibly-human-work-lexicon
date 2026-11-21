@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Simple Mail Transfer Protocol is the standard protocol used to submit and relay email between mail clients and servers or among servers.",
+  "entry_text": "Simple Mail Transfer Protocol is the standard protocol used to submit and relay email between mail clients and servers or among servers.",
+  "entry_text_kind": "definition",
+  "example": "A mail server uses SMTP to forward a queued message to the recipient domain's mail server.",
+  "id": "rw1rf4xx4r",
+  "key": "simple-mail-transfer-protocol",
+  "label": "Simple Mail Transfer Protocol",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

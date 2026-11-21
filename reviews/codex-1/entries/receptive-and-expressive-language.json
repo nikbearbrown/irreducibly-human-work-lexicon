@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-011.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Receptive language is the ability to understand language, while expressive language is the ability to communicate meaning through language.",
+  "entry_text": "Receptive language is the ability to understand language, while expressive language is the ability to communicate meaning through language.",
+  "entry_text_kind": "definition",
+  "example": "A clinician separately assesses whether a child follows spoken directions and can describe an event.",
+  "id": "yqcn8qvr58",
+  "key": "receptive-and-expressive-language",
+  "label": "Receptive and expressive language",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

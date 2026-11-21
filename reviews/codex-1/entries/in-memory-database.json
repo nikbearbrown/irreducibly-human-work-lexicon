@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An in-memory database stores its working data primarily in RAM to make reads and writes fast.",
+  "entry_text": "An in-memory database stores its working data primarily in RAM to make reads and writes fast.",
+  "entry_text_kind": "definition",
+  "example": "A scoreboard uses an in-memory database to retrieve recently updated rankings.",
+  "id": "cj5rjuoa37",
+  "key": "in-memory-database",
+  "label": "In-memory database",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

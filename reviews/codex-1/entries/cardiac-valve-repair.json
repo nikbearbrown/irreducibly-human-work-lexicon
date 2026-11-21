@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cardiac valve repair uses clinical interventions to restore function in an existing heart valve without fully replacing it.",
+  "entry_text": "Cardiac valve repair uses clinical interventions to restore function in an existing heart valve without fully replacing it.",
+  "entry_text_kind": "definition",
+  "example": "A heart team evaluates whether a leaking valve can be repaired and explains the options to a patient.",
+  "id": "v2lrywem7h",
+  "key": "cardiac-valve-repair",
+  "label": "Cardiac valve repair",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

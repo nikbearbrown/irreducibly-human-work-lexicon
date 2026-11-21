@@ -1,0 +1,20 @@
+{
+  "batch": "language-004.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A template language that renders text by applying variables, filters, and tags to supplied data.",
+  "entry_text": "A template language that renders text by applying variables, filters, and tags to supplied data.",
+  "entry_text_kind": "definition",
+  "example": "A storefront loops over products to render a listing.",
+  "id": "gon731b20n",
+  "key": "liquid-template-language",
+  "label": "Liquid template language",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

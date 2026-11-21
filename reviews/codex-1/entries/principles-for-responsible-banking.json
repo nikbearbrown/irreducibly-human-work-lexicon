@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Principles for Responsible Banking provide a framework for aligning banking strategy and practice with sustainable development and tracking impacts.",
+  "entry_text": "The Principles for Responsible Banking provide a framework for aligning banking strategy and practice with sustainable development and tracking impacts.",
+  "entry_text_kind": "definition",
+  "example": "A participating bank assesses its major impacts and sets targets for areas it can influence.",
+  "id": "c4wv6yb2o3",
+  "key": "principles-for-responsible-banking",
+  "label": "Principles for Responsible Banking",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

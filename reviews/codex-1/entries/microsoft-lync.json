@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Microsoft Lync was a business communication application for instant messaging, presence, calling and meetings.",
+  "entry_text": "Microsoft Lync was a business communication application for instant messaging, presence, calling and meetings.",
+  "entry_text_kind": "definition",
+  "example": "A user checked a colleague's presence before starting an online call.",
+  "id": "mn8o7lhdzz",
+  "key": "microsoft-lync",
+  "label": "Microsoft Lync",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

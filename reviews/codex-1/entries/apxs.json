@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "apxs is an Apache HTTP Server tool for compiling and installing extension modules as shared objects.",
+  "entry_text": "apxs is an Apache HTTP Server tool for compiling and installing extension modules as shared objects.",
+  "entry_text_kind": "definition",
+  "example": "A server maintainer rebuilds an existing module for a compatible Apache installation.",
+  "id": "aivu2hknkc",
+  "key": "apxs",
+  "label": "apxs",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

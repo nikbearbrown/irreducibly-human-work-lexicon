@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-006.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A geographic coordinate system locates positions on a reference surface using angular coordinates, typically latitude and longitude tied to a datum.",
+  "entry_text": "A geographic coordinate system locates positions on a reference surface using angular coordinates, typically latitude and longitude tied to a datum.",
+  "entry_text_kind": "definition",
+  "example": "A map layer uses geographic coordinates to show wildlife observations across several states.",
+  "id": "opfd8lyv8w",
+  "key": "geographic-coordinate-system",
+  "label": "Geographic coordinate system",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Risk management planning defines how risks will be identified, evaluated, tracked, treated, and escalated for a particular undertaking.",
+  "entry_text": "Risk management planning defines how risks will be identified, evaluated, tracked, treated, and escalated for a particular undertaking.",
+  "entry_text_kind": "definition",
+  "example": "A project plan assigns risk owners and sets a review schedule and escalation threshold.",
+  "id": "e4v06p95c7",
+  "key": "risk-management-planning",
+  "label": "Risk management planning",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

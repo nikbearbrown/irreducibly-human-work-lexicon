@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Python Server Pages are a server-side templating approach that embeds Python logic in pages rendered into HTML.",
+  "entry_text": "Python Server Pages are a server-side templating approach that embeds Python logic in pages rendered into HTML.",
+  "entry_text_kind": "definition",
+  "example": "A historical web application inserts a record into a generated HTML page.",
+  "id": "hpj10pgto9",
+  "key": "python-server-pages",
+  "label": "Python Server Pages",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Multiple implementations share this label. This definition describes the general technique.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

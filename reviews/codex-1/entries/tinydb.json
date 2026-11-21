@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "TinyDB is a lightweight Python document database that commonly stores records in a local JSON file.",
+  "entry_text": "TinyDB is a lightweight Python document database that commonly stores records in a local JSON file.",
+  "entry_text_kind": "definition",
+  "example": "A small command-line utility keeps a local set of bookmarked items and queries their tags.",
+  "id": "ixpjy58qxp",
+  "key": "tinydb",
+  "label": "TinyDB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as the Python library; TinyDB also names a wireless sensor network query system.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

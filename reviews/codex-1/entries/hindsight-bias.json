@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-006.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Hindsight bias is the tendency to see an outcome as more predictable after learning that it occurred.",
+  "entry_text": "Hindsight bias is the tendency to see an outcome as more predictable after learning that it occurred.",
+  "entry_text_kind": "definition",
+  "example": "After an outage, a reviewer overestimates how obvious its warning signs were at the time.",
+  "id": "la6wh4y4dz",
+  "key": "hindsight-bias",
+  "label": "Hindsight bias",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

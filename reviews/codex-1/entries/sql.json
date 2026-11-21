@@ -1,0 +1,28 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A declarative language for querying and managing relational data.",
+  "entry_text": "A declarative language for querying and managing relational data.",
+  "entry_text_kind": "definition",
+  "example": "An analyst selects sales totals grouped by month.",
+  "id": "f69xny35zm",
+  "key": "sql",
+  "label": "SQL",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "f69xny35zm",
+      "note": "PostgreSQL's official SQL tutorial identifies SQL as the relational query language and covers creating and maintaining tables and accessing stored data.",
+      "packet": "root-technical-languages.json",
+      "ref": "https://www.postgresql.org/docs/current/tutorial-sql-intro.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

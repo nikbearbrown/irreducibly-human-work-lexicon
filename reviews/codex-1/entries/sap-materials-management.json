@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SAP Materials Management supports procurement and inventory processes, including purchasing, goods movement, and material records.",
+  "entry_text": "SAP Materials Management supports procurement and inventory processes, including purchasing, goods movement, and material records.",
+  "entry_text_kind": "definition",
+  "example": "A buyer creates a purchase order and later checks whether the goods receipt matches it.",
+  "id": "clelgs9q2c",
+  "key": "sap-materials-management",
+  "label": "SAP Materials Management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

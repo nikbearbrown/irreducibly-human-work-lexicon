@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "SPServices is a legacy jQuery library for calling SharePoint SOAP web services from browser scripts.",
+  "entry_text": "SPServices is a legacy jQuery library for calling SharePoint SOAP web services from browser scripts.",
+  "entry_text_kind": "definition",
+  "example": "A maintainer reads an older SharePoint page to identify a list query made through SPServices.",
+  "id": "qs93b71k93",
+  "key": "spservices",
+  "label": "SPServices",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Legacy library; verify product context.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

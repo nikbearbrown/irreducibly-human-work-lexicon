@@ -1,0 +1,242 @@
+[
+  {
+    "id": "i5gs33auro",
+    "definition": "Gas meter systems measure and record the quantity of gas flowing to a customer or through a process.",
+    "example": "A utility uses meter readings to calculate monthly consumption.",
+    "sense_note": null
+  },
+  {
+    "id": "ad8n7dckkb",
+    "definition": "Gastric bypass surgery alters the digestive tract to reduce stomach capacity and reroute food past part of the small intestine.",
+    "example": "A bariatric care team monitors nutritional status after gastric bypass.",
+    "sense_note": null
+  },
+  {
+    "id": "i8sdf9t01b",
+    "definition": "Gemology is the study and identification of gemstones and their properties.",
+    "example": "A gemologist distinguishes a natural stone from an imitation by examining its optical properties.",
+    "sense_note": null
+  },
+  {
+    "id": "m5kr7zz3ad",
+    "definition": "General finance concerns how individuals and organizations raise, allocate and manage money and financial risk.",
+    "example": "A finance team weighs the cost and timing of funding a new facility.",
+    "sense_note": null
+  },
+  {
+    "id": "d738sbe7ch",
+    "definition": "General sciences encompasses foundational knowledge from several scientific disciplines and their methods.",
+    "example": "A survey course uses chemistry and biology to explain how pond ecosystems function.",
+    "sense_note": null
+  },
+  {
+    "id": "vxpeg21e33",
+    "definition": "Generative AI uses learned patterns to produce new content such as text, images, audio or code.",
+    "example": "A designer creates draft layout ideas from a text description.",
+    "sense_note": null
+  },
+  {
+    "id": "opfd8lyv8w",
+    "definition": "A geographic coordinate system locates positions on a reference surface using angular coordinates, typically latitude and longitude tied to a datum.",
+    "example": "A map layer uses geographic coordinates to show wildlife observations across several states.",
+    "sense_note": null
+  },
+  {
+    "id": "cioc9w5x9t",
+    "definition": "Geospatial data describes objects or phenomena with information about their location or spatial extent.",
+    "example": "A file records flood zones as boundary shapes with estimated risk levels.",
+    "sense_note": null
+  },
+  {
+    "id": "oeuvk8p1c3",
+    "definition": "Geospatial databases store and query data with geographic or geometric properties.",
+    "example": "A transit planner queries a database for stops within walking distance of a clinic.",
+    "sense_note": null
+  },
+  {
+    "id": "fwmyaf5wxw",
+    "definition": "Geospatial information technology comprises tools and methods for collecting, managing, analyzing and displaying geographically referenced information.",
+    "example": "An emergency management team combines satellite imagery, mapping software and field observations to track flooding.",
+    "sense_note": null
+  },
+  {
+    "id": "jxvm3c5xy3",
+    "definition": "Government finance studies how governments raise revenue, manage debt and budget public spending.",
+    "example": "A city compares tax revenue and bond proceeds when budgeting a transit extension.",
+    "sense_note": null
+  },
+  {
+    "id": "cbij5yuozv",
+    "definition": "A graph database represents and queries data as entities and relationships, typically expressed as nodes and edges.",
+    "example": "A travel app finds transfers by following connections among station nodes.",
+    "sense_note": null
+  },
+  {
+    "id": "dp6y03hiq5",
+    "definition": "A graphics API defines programming interfaces for using graphics hardware or a rendering system to create images.",
+    "example": "A game engine submits commands through Vulkan to render its current scene.",
+    "sense_note": null
+  },
+  {
+    "id": "sylnic6fz3",
+    "definition": "A great circle is the intersection of a sphere with a plane passing through its center.",
+    "example": "A navigator uses a great-circle arc to estimate the shortest surface route between two airports on a spherical Earth model.",
+    "sense_note": null
+  },
+  {
+    "id": "jzl6qyfnik",
+    "definition": "The Greeks are sensitivity measures for how an option or derivatives portfolio changes with variables such as underlying price, volatility and time.",
+    "example": "A risk analyst uses delta to estimate a price change from a small move in the underlying asset.",
+    "sense_note": null
+  },
+  {
+    "id": "y8gv2lcb5t",
+    "definition": "A green bond is debt issued to finance eligible projects with designated environmental benefits.",
+    "example": "A city allocates green bond proceeds to an energy-efficient transit project.",
+    "sense_note": null
+  },
+  {
+    "id": "k8ghvpnr52",
+    "definition": "The grieving process comprises the varied emotional and practical responses through which people adapt to loss.",
+    "example": "A bereaved person may alternate between confronting the loss and attending to everyday responsibilities.",
+    "sense_note": null
+  },
+  {
+    "id": "j0wsqjq182",
+    "definition": "A GSM radio access network provides the radio link between GSM mobile devices and the mobile core network.",
+    "example": "The network coordinates a phone's connection as it moves from one coverage cell to another.",
+    "sense_note": null
+  },
+  {
+    "id": "u5nenctwv5",
+    "definition": "Gynaecology is the medical specialty concerned with the health and disorders of the female reproductive system.",
+    "example": "A gynaecologist evaluates the cause of persistent pelvic pain.",
+    "sense_note": null
+  },
+  {
+    "id": "aif3w1201z",
+    "definition": "Hadron physics studies particles made of quarks and gluons and the strong interaction that governs them.",
+    "example": "Researchers compare measured properties of mesons with predictions about quark interactions.",
+    "sense_note": null
+  },
+  {
+    "id": "edvlkh9fg7",
+    "definition": "Health economics and outcomes research examines the costs, effects and patient outcomes of healthcare interventions and systems.",
+    "example": "A team compares the costs and quality-of-life outcomes of two treatment approaches.",
+    "sense_note": null
+  },
+  {
+    "id": "ywxc0sqcep",
+    "definition": "Health, safety and environment is an organizational discipline for managing occupational health, workplace safety and environmental impacts.",
+    "example": "A manufacturing site reviews worker exposure risks and wastewater controls through its HSE program.",
+    "sense_note": null
+  },
+  {
+    "id": "sddk3r5ix2",
+    "definition": "Healthcare delivery science studies how care is organized and provided and how delivery can improve patient outcomes and system performance.",
+    "example": "A health system compares follow-up scheduling models to reduce missed visits.",
+    "sense_note": null
+  },
+  {
+    "id": "j39p08vk9c",
+    "definition": "Healthcare industry knowledge includes how healthcare providers, insurers, suppliers and regulators interact to deliver and pay for care.",
+    "example": "A project lead anticipates how insurer reimbursement rules affect a clinic's adoption of a new service.",
+    "sense_note": null
+  },
+  {
+    "id": "fku3gmvia1",
+    "definition": "Healthcare quality concerns how well services increase the likelihood of desired health outcomes and meet accepted standards of care.",
+    "example": "A hospital tracks preventable readmissions to assess a discharge improvement program.",
+    "sense_note": null
+  },
+  {
+    "id": "vn76t3q8hr",
+    "definition": "Higher education law concerns legal rules that govern colleges, universities and their relationships with students, staff and regulators.",
+    "example": "A university attorney reviews how a disciplinary procedure meets legal obligations.",
+    "sense_note": null
+  },
+  {
+    "id": "r9vet0xvr5",
+    "definition": "Higher education policy concerns decisions and rules that shape the goals, funding and operation of colleges and universities.",
+    "example": "An analyst considers who gains access under a systemwide change to admissions policy.",
+    "sense_note": null
+  },
+  {
+    "id": "la6wh4y4dz",
+    "definition": "Hindsight bias is the tendency to see an outcome as more predictable after learning that it occurred.",
+    "example": "After an outage, a reviewer overestimates how obvious its warning signs were at the time.",
+    "sense_note": null
+  },
+  {
+    "id": "c08b08bwgx",
+    "definition": "Historic preservation is the identification, protection and conservation of buildings, sites and landscapes with historic significance.",
+    "example": "A preservation team repairs original masonry while adapting a historic building for public use.",
+    "sense_note": null
+  },
+  {
+    "id": "v4ci156yl4",
+    "definition": "Historical linguistics studies how languages change over time and how related languages can be traced to common ancestors.",
+    "example": "A linguist compares systematic sound correspondences across related languages.",
+    "sense_note": null
+  },
+  {
+    "id": "p0xczo9z6e",
+    "definition": "The history of education studies how teaching, schools and access to learning have changed over time.",
+    "example": "A historian examines who attended newly established public schools and what they were taught.",
+    "sense_note": null
+  },
+  {
+    "id": "nylesy75ab",
+    "definition": "The history of medicine studies changes in understandings of health, medical practices and healthcare institutions over time.",
+    "example": "A researcher traces how hospital sanitation practices changed as infection theories developed.",
+    "sense_note": null
+  },
+  {
+    "id": "i2ggquy268",
+    "definition": "The history of philosophy studies philosophical ideas, arguments and schools in their historical development and context.",
+    "example": "A seminar compares how ancient and modern philosophers understand the source of moral obligation.",
+    "sense_note": null
+  },
+  {
+    "id": "lr3xvaxegv",
+    "definition": "The history of science studies how scientific knowledge and practices develop within changing institutional and cultural contexts.",
+    "example": "A historian examines how access to new instruments changed what astronomers could measure.",
+    "sense_note": null
+  },
+  {
+    "id": "gzxjpx7ejy",
+    "definition": "Hockett's design features are proposed properties used to describe human language and compare it with other communication systems.",
+    "example": "A class uses displacement to discuss how speakers can refer to events that are not present.",
+    "sense_note": null
+  },
+  {
+    "id": "c0jc22ifx0",
+    "definition": "Human factors studies how human capabilities and limitations interact with tasks, tools and environments to inform design.",
+    "example": "A team changes a control panel layout to reduce confusion during time-critical operations.",
+    "sense_note": null
+  },
+  {
+    "id": "a613u39dhj",
+    "definition": "A human-machine interface is the set of controls and displays through which people exchange information with a machine.",
+    "example": "A pump operator adjusts the flow setpoint and reads the measured flow on a touchscreen.",
+    "sense_note": null
+  },
+  {
+    "id": "w6ne25ate1",
+    "definition": "The human musculoskeletal system consists of bones, muscles, joints and connective tissues that support the body and enable movement.",
+    "example": "A therapist explains how the quadriceps and knee joint work together when climbing stairs.",
+    "sense_note": null
+  },
+  {
+    "id": "ksf96s9ogr",
+    "definition": "Human rights law concerns legal protections for fundamental rights and freedoms, including the obligations of states to uphold them.",
+    "example": "A legal researcher compares protections for freedom of expression under national law and international treaties.",
+    "sense_note": null
+  },
+  {
+    "id": "e6pxu63w41",
+    "definition": "HVAC automation systems use sensors, controllers and programmed rules to regulate heating, ventilation and air conditioning.",
+    "example": "A building controller adjusts airflow based on occupancy and room temperature.",
+    "sense_note": null
+  }
+]

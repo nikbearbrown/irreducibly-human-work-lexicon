@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Mammalian cell culture maintains or grows mammal-derived cells outside their organism for research or controlled production.",
+  "entry_text": "Mammalian cell culture maintains or grows mammal-derived cells outside their organism for research or controlled production.",
+  "entry_text_kind": "definition",
+  "example": "A scientist uses cultured mammalian cells to study a cellular response to a candidate treatment.",
+  "id": "r95stg9m1m",
+  "key": "mammalian-cell-culture",
+  "label": "Mammalian cell culture",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

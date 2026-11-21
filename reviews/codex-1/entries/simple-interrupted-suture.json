@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A simple interrupted suture is a separately tied stitch used with other independent stitches to approximate tissue edges.",
+  "entry_text": "A simple interrupted suture is a separately tied stitch used with other independent stitches to approximate tissue edges.",
+  "entry_text_kind": "definition",
+  "example": "A student reviewing a training diagram identifies that one stitch can loosen without loosening all adjacent stitches.",
+  "id": "pdqd1zdbm6",
+  "key": "simple-interrupted-suture",
+  "label": "Simple interrupted suture",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

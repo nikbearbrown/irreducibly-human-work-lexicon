@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Identifying, measuring, and managing exposure to financial loss or volatility.",
+  "entry_text": "Identifying, measuring, and managing exposure to financial loss or volatility.",
+  "entry_text_kind": "definition",
+  "example": "A risk team tests how interest rate changes would affect the value of a portfolio.",
+  "id": "vivxc5g99i",
+  "key": "financial-risk-management",
+  "label": "Financial risk management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

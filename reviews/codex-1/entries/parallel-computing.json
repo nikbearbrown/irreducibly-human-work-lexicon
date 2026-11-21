@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Parallel computing executes multiple parts of a computation at the same time using multiple processing resources.",
+  "entry_text": "Parallel computing executes multiple parts of a computation at the same time using multiple processing resources.",
+  "entry_text_kind": "definition",
+  "example": "A scientific program distributes independent simulations across available processors.",
+  "id": "e7ceq63cnu",
+  "key": "parallel-computing",
+  "label": "Parallel computing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

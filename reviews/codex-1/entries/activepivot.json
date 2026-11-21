@@ -1,0 +1,28 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ActivePivot is an in-memory analytical database for aggregating and exploring large datasets interactively.",
+  "entry_text": "ActivePivot is an in-memory analytical database for aggregating and exploring large datasets interactively.",
+  "entry_text_kind": "definition",
+  "example": "A risk analyst changes portfolio groupings and recomputes exposure totals in a dashboard.",
+  "id": "nv1m32nwsp",
+  "key": "activepivot",
+  "label": "ActivePivot",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "nv1m32nwsp",
+      "note": "The vendor calls it an object-based OLAP tool and in-memory aggregation and calculation framework that consolidates and incrementally aggregates data. Prefer OLAP engine or framework over the less precise database. Document checked in the indexed source excerpt because the direct fetch was unavailable.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://assets.activeviam.com/products/atoti/server/6.0.7/docs/start/ap_in_a_nutshell/",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

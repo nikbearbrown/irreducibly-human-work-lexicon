@@ -1,0 +1,242 @@
+[
+  {
+    "id": "xiiyhhzd8l",
+    "definition": "SAP programming language for implementing business logic and reports.",
+    "example": "A developer validates purchase order fields in SAP.",
+    "sense_note": null
+  },
+  {
+    "id": "ayuiek7so7",
+    "definition": "An ECMAScript-derived language for interactive Flash and AIR applications.",
+    "example": "A button click starts an animation in a legacy Flash project.",
+    "sense_note": null
+  },
+  {
+    "id": "k8pcmxo14a",
+    "definition": "The 1995 Ada revision that added tagged types and protected objects.",
+    "example": "A developer uses a protected object to synchronize task access.",
+    "sense_note": null
+  },
+  {
+    "id": "x80b957frq",
+    "definition": "A strongly typed general-purpose language with built-in support for concurrent tasks.",
+    "example": "An embedded controller uses separate tasks for sensor reads and status reporting.",
+    "sense_note": null
+  },
+  {
+    "id": "wrombjtyy8",
+    "definition": "A human language usable in spoken and written communication.",
+    "example": "A librarian answers a patron's question in Afrikaans.",
+    "sense_note": null
+  },
+  {
+    "id": "vks1qiiz57",
+    "definition": "A human language that can be documented through speech and written transcriptions.",
+    "example": "A learner practices a greeting from an Ainu language recording.",
+    "sense_note": null
+  },
+  {
+    "id": "de1c4bnci7",
+    "definition": "A label for closely related speech varieties used in oral and written communication.",
+    "example": "A translator prepares an Akan audio message.",
+    "sense_note": "Specify the target variety when relevant."
+  },
+  {
+    "id": "p7j275wpwg",
+    "definition": "A human language used for conversation, writing, and translation.",
+    "example": "A translator prepares an Albanian version of a school notice.",
+    "sense_note": null
+  },
+  {
+    "id": "tfv49p04re",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm whether this names the ALF programming language rather than a generic programming paradigm."
+  },
+  {
+    "id": "k29flhnozy",
+    "definition": "A family of programming languages that helped establish block structure and lexical scope.",
+    "example": "A programmer expresses a numerical procedure with local variables in ALGOL 60.",
+    "sense_note": "Confirm the revision if implementation details matter."
+  },
+  {
+    "id": "l2yggbg9hw",
+    "definition": "A natural visual language that uses handshape, movement, location, and nonmanual signals.",
+    "example": "An interpreter signs a classroom question in ASL.",
+    "sense_note": null
+  },
+  {
+    "id": "eembc96hrl",
+    "definition": "A human language written using the Ethiopic script.",
+    "example": "A reviewer checks an Amharic translation of an appointment notice.",
+    "sense_note": null
+  },
+  {
+    "id": "tl1644tlhi",
+    "definition": "A scripting language for personalizing content in Salesforce Marketing Cloud.",
+    "example": "An email template chooses a greeting from a subscriber field.",
+    "sense_note": null
+  },
+  {
+    "id": "ed3v3ccr0e",
+    "definition": "A programming language for Salesforce platform business logic.",
+    "example": "A developer applies a validation rule when a Salesforce record changes.",
+    "sense_note": "Assumes Salesforce Apex."
+  },
+  {
+    "id": "c6s0kc7cs8",
+    "definition": "A human language label spanning a standard written form and diverse spoken varieties.",
+    "example": "A translator drafts an Arabic public notice.",
+    "sense_note": "Specify the register or spoken variety when needed."
+  },
+  {
+    "id": "z3mgfsdb46",
+    "definition": "A modeling language for describing relationships among enterprise architecture elements.",
+    "example": "An architect links a business process to the application that supports it.",
+    "sense_note": null
+  },
+  {
+    "id": "lc66pgzr2o",
+    "definition": "A human language written in the Armenian alphabet.",
+    "example": "An editor proofreads an Armenian translation.",
+    "sense_note": "Specify the standard or variety when important."
+  },
+  {
+    "id": "thlaos2081",
+    "definition": "A template syntax that combines HTML with server-side .NET expressions.",
+    "example": "A Razor view renders a row for each item in a list.",
+    "sense_note": null
+  },
+  {
+    "id": "nprk9hwd27",
+    "definition": "A human language used in writing and conversation.",
+    "example": "A presenter records an Assamese explanation of a public notice.",
+    "sense_note": null
+  },
+  {
+    "id": "dwchdo7ntf",
+    "definition": "A processor-specific symbolic notation for low-level machine instructions and related directives.",
+    "example": "A programmer reads an instruction that copies data into a register.",
+    "sense_note": null
+  },
+  {
+    "id": "znqe62lhes",
+    "definition": "A pattern-action language for processing text records and fields.",
+    "example": "An analyst sums the amounts in a whitespace-delimited report.",
+    "sense_note": null
+  },
+  {
+    "id": "r46ots78g8",
+    "definition": "A human language used for speaking, writing, and translation.",
+    "example": "An educator reviews a bilingual worksheet with Aymara text.",
+    "sense_note": null
+  },
+  {
+    "id": "vg1j943h99",
+    "definition": "A human language used for conversation and written communication.",
+    "example": "A reviewer checks Azerbaijani interface labels.",
+    "sense_note": null
+  },
+  {
+    "id": "soe310iks3",
+    "definition": "A programming language with constructs for network services and data integration.",
+    "example": "A developer maps the response from one service to another service's schema.",
+    "sense_note": null
+  },
+  {
+    "id": "zam3lqxfdr",
+    "definition": "The core SAS environment and programming facilities for managing and analyzing data.",
+    "example": "An analyst uses a DATA step to recode values.",
+    "sense_note": "Product and language scope may need separate treatment."
+  },
+  {
+    "id": "op6iieveb7",
+    "definition": "A command shell and scripting language that implements the Bourne shell tradition.",
+    "example": "A script loops over images and records their filenames.",
+    "sense_note": null
+  },
+  {
+    "id": "gk12ir4ef9",
+    "definition": "A family of programming languages originally designed to make computer programming easier to learn.",
+    "example": "A student writes a BASIC loop that prints a multiplication table.",
+    "sense_note": null
+  },
+  {
+    "id": "bzhvu8qe7g",
+    "definition": null,
+    "example": null,
+    "sense_note": "The label identifies multiple languages; confirm the intended language or code before drafting."
+  },
+  {
+    "id": "xbe5epb1r9",
+    "definition": null,
+    "example": null,
+    "sense_note": "This may be an umbrella label or refer to a particular Batak language; confirm scope before drafting."
+  },
+  {
+    "id": "kq6noua17o",
+    "definition": "A lightweight scripting language that interprets Java-like syntax in a Java environment.",
+    "example": "A test harness uses BeanShell to exercise a Java object interactively.",
+    "sense_note": null
+  },
+  {
+    "id": "h0wn66qxrk",
+    "definition": "A human language used for conversation and written communication.",
+    "example": "A translator checks Bemba dialogue in an educational recording.",
+    "sense_note": null
+  },
+  {
+    "id": "ynw7yrzobc",
+    "definition": "A human language that can be represented through recorded speech and transcription.",
+    "example": "A researcher annotates a Benga language recording.",
+    "sense_note": null
+  },
+  {
+    "id": "k87r3b7xk8",
+    "definition": "A human language written in the Bengali script.",
+    "example": "A reviewer proofreads a Bengali health-information leaflet.",
+    "sense_note": null
+  },
+  {
+    "id": "wyc8jqdxhm",
+    "definition": "An umbrella term for a group of Amazigh languages.",
+    "example": "A translation team confirms which Amazigh language its audience uses.",
+    "sense_note": "Identify the specific language before using it as a proficiency label."
+  },
+  {
+    "id": "kv7ufmoq1h",
+    "definition": "A human language used in conversation and writing, including public communication in Vanuatu.",
+    "example": "A presenter reads a weather bulletin in Bislama.",
+    "sense_note": null
+  },
+  {
+    "id": "oyo6sqevit",
+    "definition": "A BASIC-derived programming language with facilities for graphics and multimedia.",
+    "example": "A developer draws sprites and reads keyboard input in a simple game.",
+    "sense_note": null
+  },
+  {
+    "id": "qfyv8hdypt",
+    "definition": "A statically typed programming language for .NET with Python-influenced syntax.",
+    "example": "A developer writes a Boo class that calls a .NET library.",
+    "sense_note": null
+  },
+  {
+    "id": "t86zp83kn8",
+    "definition": "A human language used in conversation and written communication.",
+    "example": "An interpreter explains application instructions in Bosnian.",
+    "sense_note": null
+  },
+  {
+    "id": "xzacqgvx93",
+    "definition": "A human language written in the Burmese script.",
+    "example": "A translator checks Burmese subtitles for an educational film.",
+    "sense_note": null
+  },
+  {
+    "id": "a0h79b66kq",
+    "definition": "A compiled general-purpose language with low-level memory access through pointers.",
+    "example": "A developer writes a C function to read a device buffer.",
+    "sense_note": null
+  }
+]

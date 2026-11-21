@@ -1,0 +1,242 @@
+[
+  {
+    "id": "im9mjynl0i",
+    "definition": "Oracle Reports is a toolset for designing and publishing formatted reports from database data.",
+    "example": "A developer creates a report template that renders a monthly transaction summary.",
+    "sense_note": null
+  },
+  {
+    "id": "ggqx2z6hek",
+    "definition": "Oracle Workflow provides facilities for defining, routing and tracking business processes and notifications.",
+    "example": "A purchase request is routed to the approvers defined in its workflow.",
+    "sense_note": null
+  },
+  {
+    "id": "ra5xiodpbn",
+    "definition": "Oral cancer screening looks for signs that warrant further evaluation through visual or tactile examination of the mouth and surrounding areas.",
+    "example": "A dental clinician refers a patient for evaluation of an unexplained oral lesion.",
+    "sense_note": null
+  },
+  {
+    "id": "so9a2ryg3c",
+    "definition": "Organizational culture change works to shift shared norms and everyday behaviors through consistent leadership, incentives and practices.",
+    "example": "A department reinforces a new safety culture by rewarding reports of near misses.",
+    "sense_note": null
+  },
+  {
+    "id": "n5btboalij",
+    "definition": "Organizational leadership guides people and decisions toward shared goals while managing resources, alignment and accountability.",
+    "example": "A leader clarifies priorities when two teams compete for the same resources.",
+    "sense_note": null
+  },
+  {
+    "id": "z3d8t5kt64",
+    "definition": "OrientDB is a database engine that supports document and graph data models.",
+    "example": "A developer stores customer records and traverses relationships between related accounts.",
+    "sense_note": null
+  },
+  {
+    "id": "zpv7859rnp",
+    "definition": "Orthopaedic nursing provides care for people with musculoskeletal injuries, conditions or procedures.",
+    "example": "A nurse monitors comfort and mobility goals after a patient's joint surgery.",
+    "sense_note": null
+  },
+  {
+    "id": "h9kgpt71mt",
+    "definition": "OpenTelemetry is a set of open specifications and libraries for generating, collecting and exporting telemetry such as traces, metrics and logs.",
+    "example": "An engineer instruments a service to export request traces to an observability backend.",
+    "sense_note": "OpenTelemetry is instrumentation and transport infrastructure, not itself an analytics backend."
+  },
+  {
+    "id": "z5bkl6uo0o",
+    "definition": "OutSystems is a low-code platform for building, deploying and maintaining enterprise applications.",
+    "example": "A developer uses visual tools to assemble an approval app and connect it to business data.",
+    "sense_note": null
+  },
+  {
+    "id": "j00qlfnypq",
+    "definition": "Over-the-road driving operates commercial vehicles over extended routes while managing schedules, cargo, vehicle condition and driving requirements.",
+    "example": "A driver plans stops for a multistate delivery and completes the required vehicle checks.",
+    "sense_note": null
+  },
+  {
+    "id": "tso1wtx8qe",
+    "definition": "Overhead cost analysis identifies and evaluates indirect costs and how they are allocated across activities, products or departments.",
+    "example": "An accountant compares production support costs when revising allocation rates.",
+    "sense_note": null
+  },
+  {
+    "id": "djno840jsm",
+    "definition": "Overhead crane operation uses a bridge, gantry or similar overhead crane to lift and move loads within operating limits.",
+    "example": "A trained operator follows an approved lift plan to place a component at a workstation.",
+    "sense_note": null
+  },
+  {
+    "id": "nle9on566u",
+    "definition": "A package.json file is a JSON manifest that describes a JavaScript project or package and may declare dependencies, scripts and entry points.",
+    "example": "A maintainer adds a test script and declares project dependencies in its manifest.",
+    "sense_note": "It is a configuration format, not an executable tool."
+  },
+  {
+    "id": "su5wnn7gne",
+    "definition": "Packaging machine operation sets up and monitors equipment that fills, wraps, seals or labels goods for distribution.",
+    "example": "An operator checks that package seals and labels meet specifications during a run.",
+    "sense_note": null
+  },
+  {
+    "id": "ynifxe6cme",
+    "definition": "Padrino is a Ruby web application framework built on Sinatra that adds project organization and application components.",
+    "example": "A developer adds admin routes and templates to a small web application.",
+    "sense_note": null
+  },
+  {
+    "id": "wvu9e4r2lk",
+    "definition": "Page layout arranges text, images and white space on a printed or digital page to support readability and intent.",
+    "example": "A designer positions headlines and columns to create a clear reading order.",
+    "sense_note": null
+  },
+  {
+    "id": "l15oar8hr9",
+    "definition": "Pallet building arranges and secures goods on a pallet for stable storage, handling or shipment.",
+    "example": "A warehouse worker stacks cartons within load limits and secures them before dispatch.",
+    "sense_note": null
+  },
+  {
+    "id": "oqcww7kiiv",
+    "definition": "Palm OS was an operating system for handheld devices such as Palm organizers and some early smartphones.",
+    "example": "A user synchronized appointments between a Palm OS organizer and a desktop computer.",
+    "sense_note": null
+  },
+  {
+    "id": "n3e2gcdwp6",
+    "definition": "Pandas is a Python library for manipulating labeled tabular and time-series data.",
+    "example": "An analyst joins two tables by customer identifier and calculates totals by month.",
+    "sense_note": null
+  },
+  {
+    "id": "aah9ap0pat",
+    "definition": "The Paperwork Reduction Act is a U.S. federal law governing many agency information collections and their burden on the public.",
+    "example": "An agency estimates respondent burden when preparing an information collection for review.",
+    "sense_note": null
+  },
+  {
+    "id": "e7ceq63cnu",
+    "definition": "Parallel computing executes multiple parts of a computation at the same time using multiple processing resources.",
+    "example": "A scientific program distributes independent simulations across available processors.",
+    "sense_note": null
+  },
+  {
+    "id": "haj4l71a2q",
+    "definition": "PARI/GP is a computational mathematics system focused on number theory, with a C library and an interactive GP interface.",
+    "example": "A mathematician factors an integer and experiments with number-theoretic functions in GP.",
+    "sense_note": null
+  },
+  {
+    "id": "wfxpoy5alt",
+    "definition": "Parrot AR.Drone was a small remotely operated quadcopter with onboard cameras and networked controls.",
+    "example": "A robotics student used its camera to observe a marked indoor test course.",
+    "sense_note": null
+  },
+  {
+    "id": "k1tpukilm8",
+    "definition": "Passport.js is authentication middleware for Node.js applications that supports different login mechanisms through strategies.",
+    "example": "A web service uses a strategy to handle sign-in through an approved identity provider.",
+    "sense_note": null
+  },
+  {
+    "id": "r9w5fxlhk3",
+    "definition": "Pathlore refers to learning management software used to administer training, enrollment and progress records.",
+    "example": "A training administrator assigns employees to a course and checks completion.",
+    "sense_note": "Legacy product label; confirm the exact edition before claiming features beyond learning management."
+  },
+  {
+    "id": "vvi21j5xkg",
+    "definition": "Patient coordination organizes appointments, referrals, communications and care transitions among patients and providers.",
+    "example": "A coordinator ensures a specialist has the referral documents and confirms the appointment with the patient.",
+    "sense_note": null
+  },
+  {
+    "id": "jh0k0hbu0d",
+    "definition": "Patient education helps people understand health information and participate in decisions or self-care appropriate to their needs.",
+    "example": "A clinician uses teach-back to check whether a patient understands follow-up instructions.",
+    "sense_note": null
+  },
+  {
+    "id": "jd46qygwob",
+    "definition": "Patient transfer moves a patient safely between positions, surfaces or care locations while managing mobility and continuity of care.",
+    "example": "A care team uses the appropriate equipment to move a patient from a bed to a chair.",
+    "sense_note": "May refer to physical movement or transfer of care between facilities; document the intended sense."
+  },
+  {
+    "id": "yc622hn2at",
+    "definition": "Pattern Lab is a tool for developing and previewing reusable interface patterns and their composition into pages.",
+    "example": "A front-end team checks how a card component works in multiple layouts.",
+    "sense_note": null
+  },
+  {
+    "id": "unhpezic97",
+    "definition": "The Payment Card Industry Data Security Standard defines security requirements for protecting payment card data in applicable environments.",
+    "example": "A merchant documents controls around the systems that handle cardholder data.",
+    "sense_note": null
+  },
+  {
+    "id": "wpao4gtt54",
+    "definition": "PDF conversion changes a file to PDF or transforms a PDF into another format while managing formatting and data fidelity.",
+    "example": "A user converts a text-based PDF to an editable document and checks table alignment.",
+    "sense_note": null
+  },
+  {
+    "id": "rceefsac3b",
+    "definition": "PDF generation creates a PDF document from source content, templates or application data.",
+    "example": "A billing service renders a PDF invoice from order and payment records.",
+    "sense_note": null
+  },
+  {
+    "id": "xspx57iq85",
+    "definition": "PDF.js is a JavaScript library for parsing and rendering PDF documents in a web environment.",
+    "example": "A browser application uses PDF.js to display document pages without a separate viewer plug-in.",
+    "sense_note": null
+  },
+  {
+    "id": "maaj5ybrby",
+    "definition": "A PDF viewer renders PDF content for reading, navigation and related tasks such as searching or annotation where supported.",
+    "example": "A reviewer searches a PDF manual for a part number.",
+    "sense_note": null
+  },
+  {
+    "id": "g98khwp7bb",
+    "definition": "PDFlib is a programming library for generating and processing PDF documents.",
+    "example": "An application uses PDFlib to create reports that embed fonts and charts.",
+    "sense_note": null
+  },
+  {
+    "id": "euiop3hzmk",
+    "definition": "PDFNet is a software development kit for adding PDF viewing, editing, conversion or processing capabilities to applications.",
+    "example": "A document application uses the SDK to add comments to PDF pages.",
+    "sense_note": null
+  },
+  {
+    "id": "ucwlc4uvb0",
+    "definition": "PDFtk is a tool for manipulating PDF files, including combining, splitting and rotating pages.",
+    "example": "A user assembles several separate scans into a single multi-page PDF.",
+    "sense_note": null
+  },
+  {
+    "id": "pt4t1q8cxq",
+    "definition": "Peachtree Accounting was desktop accounting software for small-business bookkeeping, invoicing and financial reporting.",
+    "example": "A bookkeeper recorded customer invoices and produced a balance sheet.",
+    "sense_note": "Legacy brand; do not infer capabilities of current Sage products."
+  },
+  {
+    "id": "z5kqswzgmy",
+    "definition": "Pelvic floor rehabilitation assesses and treats pelvic floor muscle dysfunction to improve symptoms and function.",
+    "example": "A qualified clinician develops an individualized plan based on an assessment of movement and symptoms.",
+    "sense_note": null
+  },
+  {
+    "id": "b74v8abm52",
+    "definition": "Percona XtraDB was an enhanced InnoDB-compatible storage engine developed for MySQL-family database servers.",
+    "example": "A database administrator evaluated XtraDB when tuning a legacy transactional workload.",
+    "sense_note": "Do not confuse the storage engine with the Percona XtraDB Cluster product."
+  }
+]

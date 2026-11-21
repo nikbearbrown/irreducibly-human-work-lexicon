@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A network intrusion detection system monitors network traffic for signs of suspicious or prohibited activity and generates alerts.",
+  "entry_text": "A network intrusion detection system monitors network traffic for signs of suspicious or prohibited activity and generates alerts.",
+  "entry_text_kind": "definition",
+  "example": "A defender reviews an alert for an unusual pattern of connection attempts.",
+  "id": "uuer0jxuof",
+  "key": "network-intrusion-detection-system",
+  "label": "Network intrusion detection system",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

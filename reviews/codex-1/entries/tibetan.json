@@ -1,0 +1,31 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Tibetan (ISO 639-3: bod) as a language under the Sino-Tibetan grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Sino-Tibetan",
+    "catalog_name": "Tibetan",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "tibe1272",
+    "iso639_3": "bod",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/tibe1272"
+  },
+  "definition": "A language label covering classical written Tibetan and multiple modern spoken varieties.",
+  "entry_text": "A language label covering classical written Tibetan and multiple modern spoken varieties.",
+  "entry_text_kind": "definition",
+  "example": "A translator specifies the intended register for a Tibetan edition.",
+  "id": "uybjs4bc0k",
+  "key": "tibetan",
+  "label": "Tibetan",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

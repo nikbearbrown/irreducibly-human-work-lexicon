@@ -1,0 +1,20 @@
+{
+  "batch": "skill-010.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The composite design pattern organizes individual and grouped objects in a tree so clients can operate on them through a common interface.",
+  "entry_text": "The composite design pattern organizes individual and grouped objects in a tree so clients can operate on them through a common interface.",
+  "entry_text_kind": "definition",
+  "example": "A drawing program moves a single shape or a group of shapes using the same command.",
+  "id": "a280j1jdn5",
+  "key": "composite-pattern",
+  "label": "Composite pattern",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

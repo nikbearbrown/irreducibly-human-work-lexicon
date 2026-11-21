@@ -1,0 +1,20 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Pharmaceutical batch documentation records the materials, processing steps, checks, deviations and approvals for a specific pharmaceutical production batch.",
+  "entry_text": "Pharmaceutical batch documentation records the materials, processing steps, checks, deviations and approvals for a specific pharmaceutical production batch.",
+  "entry_text_kind": "definition",
+  "example": "A quality reviewer checks that the reported lot numbers match the approved material records.",
+  "id": "r7lpnxmxrl",
+  "key": "pharmaceutical-batch-documentation",
+  "label": "Pharmaceutical batch documentation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

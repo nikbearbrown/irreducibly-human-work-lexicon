@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ub1zd0d7ve",
+    "result": "supports",
+    "ref": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
+    "note": "NIST sections 1.1 and 3.2 connect potential harms and their likelihood and severity to lifecycle decisions and contexts of use. The draft describes the negative-risk sense, not the framework’s separate opportunities."
+  },
+  {
+    "id": "cbij5yuozv",
+    "result": "supports",
+    "ref": "https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/",
+    "note": "The implementer describes property-graph entities and relationships as nodes and edges and explains traversal queries. ISO/IEC 39075:2024 independently confirms property-graph data structures and query operations: https://www.iso.org/standard/76120.html."
+  },
+  {
+    "id": "oeuvk8p1c3",
+    "result": "supports",
+    "ref": "https://postgis.net/docs/en/using_postgis_dbmanagement.html",
+    "note": "Maintainer documentation sections 4.2 to 4.4 document storing and querying geographic coordinates and geometry in a spatially enabled database."
+  },
+  {
+    "id": "sh75mx00wm",
+    "result": "supports",
+    "ref": "https://mandates.un.org/mandate/A/RES/68/261",
+    "note": "UN General Assembly principles 1, 2, and 9 cover official statistical agencies, public access, and professional and international statistical standards."
+  },
+  {
+    "id": "mwcmyvh54c",
+    "result": "supports",
+    "ref": "https://www.itl.nist.gov/div898/handbook/stoc.htm",
+    "note": "NIST/SEMATECH applies experimental design, process monitoring, product/process comparison, and reliability statistics to production and industrial decisions."
+  },
+  {
+    "id": "tp20480fph",
+    "result": "supports",
+    "ref": "https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/04b0570b349e84d74129eef504498472_MIT8_05F13_Chap_03.pdf",
+    "note": "MIT course notes equations 2.33 and 2.47 explicitly sum the diagonal of a square operator matrix."
+  }
+]

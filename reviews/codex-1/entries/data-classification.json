@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Data classification assigns data to categories according to its content, sensitivity, or business and handling requirements.",
+  "entry_text": "Data classification assigns data to categories according to its content, sensitivity, or business and handling requirements.",
+  "entry_text_kind": "definition",
+  "example": "A records team marks payment records as restricted so additional handling controls apply.",
+  "id": "m2b1i9wyd7",
+  "key": "data-classification",
+  "label": "Data classification",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

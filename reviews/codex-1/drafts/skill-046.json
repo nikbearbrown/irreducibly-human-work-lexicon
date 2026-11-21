@@ -1,0 +1,242 @@
+[
+  {
+    "id": "dv3hmet76q",
+    "definition": "Typography arranges type through choices such as typeface, size, spacing, and line length to support reading and convey hierarchy or character.",
+    "example": "A designer increases line spacing and distinguishes heading weights to make a long article easier to scan.",
+    "sense_note": null
+  },
+  {
+    "id": "cy0s5erjre",
+    "definition": "Ubersuggest is an SEO research application for exploring search keywords, ranking estimates, competitors, and site issues.",
+    "example": "A content strategist compares estimated demand for several candidate search phrases before planning an article.",
+    "sense_note": null
+  },
+  {
+    "id": "d47v9bvb4w",
+    "definition": "UglifyJS is a JavaScript parser, compressor, and mangler used to shrink source files while preserving intended behavior.",
+    "example": "A build process produces a smaller script by removing unnecessary whitespace and shortening local variable names.",
+    "sense_note": null
+  },
+  {
+    "id": "hr1hgxsm07",
+    "definition": "UI patterns are reusable solutions to recurring interaction and interface design problems.",
+    "example": "A designer uses progressive disclosure to keep optional invoice controls out of the default form.",
+    "sense_note": null
+  },
+  {
+    "id": "yeivh58gux",
+    "definition": "UIkit is a front-end web framework that supplies CSS and JavaScript components for building interfaces.",
+    "example": "A developer combines UIkit grid and navigation components to lay out a responsive page.",
+    "sense_note": "Distinct from Apple's UIKit."
+  },
+  {
+    "id": "avwr5t78gz",
+    "definition": "UIKit is Apple's framework for constructing interfaces and handling user interaction and application events on supported platforms such as iOS and iPadOS.",
+    "example": "An iOS developer uses a view controller to present a list and handle selection.",
+    "sense_note": "Distinct from the UIkit front-end web framework."
+  },
+  {
+    "id": "as9j0cdn2w",
+    "definition": "UiPath is an automation platform for designing, running, and managing software workflows, including robotic process automation.",
+    "example": "A team builds an approved workflow that copies validated invoice data between existing business applications.",
+    "sense_note": null
+  },
+  {
+    "id": "m22mxmr88h",
+    "definition": "UltraTax CS is tax preparation software used by tax professionals to prepare and electronically file supported returns.",
+    "example": "A preparer imports client information and reviews diagnostics before submitting an authorized return.",
+    "sense_note": null
+  },
+  {
+    "id": "qpaummw5j4",
+    "definition": "Ultraviolet-visible spectroscopy measures how a sample absorbs or transmits ultraviolet and visible light as a function of wavelength.",
+    "example": "An analyst compares a sample's absorbance against calibration standards to estimate concentration.",
+    "sense_note": null
+  },
+  {
+    "id": "cd5nqyg3vq",
+    "definition": "Unbounce is a web platform for creating and testing landing pages used in marketing campaigns.",
+    "example": "A campaign team compares conversion rates for two approved versions of a registration page.",
+    "sense_note": null
+  },
+  {
+    "id": "gw4ebsr0ko",
+    "definition": "Underscore.js is a JavaScript utility library with functions for working with collections, objects, functions, and templates.",
+    "example": "A developer uses its grouping function to organize records by a shared category.",
+    "sense_note": null
+  },
+  {
+    "id": "x7gx7a49pz",
+    "definition": "Unified endpoint management administers computers, mobile devices, and other endpoints through a common platform for configuration, policies, updates, and inventory.",
+    "example": "An IT team checks laptop and phone compliance with organization policy from a shared console.",
+    "sense_note": null
+  },
+  {
+    "id": "i2id84nuwe",
+    "definition": "Unisys MAPPER is a legacy data management and application development environment for interactive reporting and business applications.",
+    "example": "A modernization team maps a historical MAPPER report to the equivalent fields in a replacement application.",
+    "sense_note": "Historical product naming may vary; verify the installation."
+  },
+  {
+    "id": "qj82yj78o4",
+    "definition": "Unity is a game engine and editor for building and deploying interactive two-dimensional and three-dimensional applications.",
+    "example": "A developer attaches a C# script and collider to a character object and tests its movement in a scene.",
+    "sense_note": null
+  },
+  {
+    "id": "gilmqbw6w6",
+    "definition": "Unreal Editor is the graphical authoring environment for Unreal Engine, used to construct levels, set up assets, and configure gameplay.",
+    "example": "A level designer places lights and collision geometry and previews a playable route in the editor.",
+    "sense_note": null
+  },
+  {
+    "id": "pyjngz1vpq",
+    "definition": "Usability testing observes people attempting representative tasks to identify where an interface or service helps or hinders their work.",
+    "example": "A researcher watches participants attempt to update a delivery address and notes where they hesitate or fail.",
+    "sense_note": null
+  },
+  {
+    "id": "xlpmtpyg5y",
+    "definition": "UsabilityHub was the name of a remote design research platform, later branded Lyssna, for collecting feedback through tasks such as first-click and preference tests.",
+    "example": "A designer compares where participants initially click on two proposed navigation layouts.",
+    "sense_note": "Legacy name."
+  },
+  {
+    "id": "h9ukmahwf4",
+    "definition": "A use case diagram represents external actors and the goal-oriented interactions they have with a system, without detailing the steps inside each interaction.",
+    "example": "A diagram shows that customers can request refunds while only managers can approve certain requests.",
+    "sense_note": null
+  },
+  {
+    "id": "btqj1jnr2i",
+    "definition": "User Datagram Protocol is a connectionless transport protocol that sends discrete datagrams without guaranteeing delivery, ordering, or duplicate suppression.",
+    "example": "A voice application uses UDP for audio frames because it can tolerate occasional missing frames.",
+    "sense_note": null
+  },
+  {
+    "id": "sixghka9vw",
+    "definition": "User experience design shapes how a person understands, uses, and feels about a product or service across interactions and contexts.",
+    "example": "A team redesigns an appointment journey from finding availability through changing a booking after confirmation.",
+    "sense_note": null
+  },
+  {
+    "id": "xrhig81x22",
+    "definition": "User interface design defines the presentation and behavior of the controls, content, and feedback through which a person interacts with a system.",
+    "example": "A designer specifies the labels, focus states, and error messages for a payment form.",
+    "sense_note": null
+  },
+  {
+    "id": "v5e453zaql",
+    "definition": "User provisioning software creates, updates, and deactivates accounts and assigned access in response to authorized identity lifecycle changes.",
+    "example": "An organization removes departing workers' access to connected applications when their accounts are deactivated.",
+    "sense_note": null
+  },
+  {
+    "id": "enec00k7dc",
+    "definition": "User research systematically studies people's needs, behaviors, contexts, and experiences to inform design and product decisions.",
+    "example": "Researchers interview appointment schedulers and observe their work before proposing changes to the booking workflow.",
+    "sense_note": null
+  },
+  {
+    "id": "rqhxwxpej4",
+    "definition": "UX writing creates the words in a product or service interface that help people understand options, complete tasks, and recover from errors.",
+    "example": "A writer changes a vague error into a message that explains which field needs correction and preserves entered information.",
+    "sense_note": null
+  },
+  {
+    "id": "d7urfz2hhb",
+    "definition": "A validation protocol is a documented plan that specifies how evidence will be gathered to show that a system, process, or method meets requirements for its intended use.",
+    "example": "A manufacturing team defines test cases and acceptance limits before assessing a new inspection system.",
+    "sense_note": "Broad quality or compliance sense; the domain and governing standard are unspecified."
+  },
+  {
+    "id": "uclexd8uv3",
+    "definition": "Data validation checks whether data conforms to rules for type, format, range, consistency, or other intended-use requirements.",
+    "example": "An import rejects a record with an invalid date and reports which field failed the check.",
+    "sense_note": null
+  },
+  {
+    "id": "ibcb5hcegy",
+    "definition": "Valuation of options estimates the value of contingent rights to transact under specified terms by modeling factors such as underlying price, volatility, time, and exercise rules.",
+    "example": "An analyst compares model prices of otherwise similar options with different expiration dates.",
+    "sense_note": "Financial derivative sense; other contexts can refer to real options or comparing alternatives."
+  },
+  {
+    "id": "w2wz06zqsr",
+    "definition": "A value proposition states the benefit an offering promises to a defined audience and why it is worth choosing over alternatives.",
+    "example": "A scheduling tool's proposition explains how clinic staff can reduce missed calls without adding another shift.",
+    "sense_note": null
+  },
+  {
+    "id": "eq2ind69e6",
+    "definition": "Value stream analysis examines the end-to-end flow of work and information needed to deliver a result to identify delay, waste, or opportunities for improvement.",
+    "example": "A clinic maps the steps from referral to appointment and finds that requests sit in an unreviewed queue between teams.",
+    "sense_note": null
+  },
+  {
+    "id": "tw1qr97tuv",
+    "definition": "A variable-frequency drive controls the speed or torque of a compatible AC motor by varying the frequency and voltage of its electrical supply.",
+    "example": "A facility varies pump speed to match demand rather than running the pump at a single speed.",
+    "sense_note": null
+  },
+  {
+    "id": "ud1kx8zgr6",
+    "definition": "Variance analysis compares actual results with planned or standard values and investigates reasons for material differences.",
+    "example": "An accountant separates a materials cost overrun into differences attributable to purchase prices and quantities used.",
+    "sense_note": "Interpreted as managerial accounting; distinguish from statistical analysis of variance."
+  },
+  {
+    "id": "bjkz9f7zwj",
+    "definition": "Varnish Cache is a reverse proxy that caches eligible HTTP responses and serves them without contacting the origin on every request.",
+    "example": "A publisher uses it to serve cached copies of public article pages during a surge.",
+    "sense_note": null
+  },
+  {
+    "id": "g93q87yjy7",
+    "definition": "The VAX 4000 is a family of Digital Equipment Corporation computer systems based on the VAX instruction set architecture.",
+    "example": "A systems historian identifies peripherals compatible with an archived VAX 4000 configuration.",
+    "sense_note": "Historical product family; configurations vary by model."
+  },
+  {
+    "id": "cdkw6bhtjt",
+    "definition": "The VAX 8000 is a series of higher-end Digital Equipment Corporation systems implementing the VAX instruction set architecture.",
+    "example": "A computer archivist identifies a VAX 8800 system from its model documentation.",
+    "sense_note": "Historical product series; not a single configuration."
+  },
+  {
+    "id": "vrt18mc88e",
+    "definition": "VAXELN was a Digital Equipment Corporation environment for developing and running real-time applications on supported processors, notably VAX systems.",
+    "example": "A preservation team reviews VAXELN task documentation to understand a legacy industrial controller.",
+    "sense_note": "Historical environment; verify exact version and target hardware."
+  },
+  {
+    "id": "vw3ut9lcco",
+    "definition": "Vector search retrieves items by comparing numerical vector representations using a distance or similarity measure, often with an approximate nearest-neighbor index.",
+    "example": "A document search system retrieves paragraphs whose embeddings are close to the embedding of a question.",
+    "sense_note": null
+  },
+  {
+    "id": "px3qo1l9t8",
+    "definition": "VectorWise is a former name associated with the Actian Vector analytical database, a column-oriented system using vectorized query execution.",
+    "example": "An analyst runs aggregations over selected columns in a large fact table.",
+    "sense_note": "Historical product naming; distinguish vectorized SQL execution from embedding similarity search."
+  },
+  {
+    "id": "kw9fh6vj31",
+    "definition": "Veeva provides cloud software for life sciences operations such as clinical, regulatory, quality, and commercial workflows.",
+    "example": "A regulatory team manages approved document versions in a Veeva Vault application.",
+    "sense_note": "Vendor and product-family label; exact Veeva application is not specified."
+  },
+  {
+    "id": "dcu238b2o0",
+    "definition": "Vehicle inspection examines a vehicle against specified safety, condition, emissions, or other criteria and records findings.",
+    "example": "An inspector documents tread condition and verifies that required exterior lights work.",
+    "sense_note": null
+  },
+  {
+    "id": "yj7kld6kci",
+    "definition": "Vehicle maintenance preserves safe and reliable operation through scheduled service and correction of identified faults.",
+    "example": "A fleet technician replaces worn brake components and records the repair for future service planning.",
+    "sense_note": null
+  }
+]

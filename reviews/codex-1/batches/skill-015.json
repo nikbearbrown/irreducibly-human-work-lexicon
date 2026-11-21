@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "bw6z24sazd",
+    "key": "doubleclick-for-publishers",
+    "label": "DoubleClick for Publishers",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cae75hpys3",
+    "key": "dried-blood-spot",
+    "label": "Dried blood spot",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cpjs09hqoa",
+    "key": "driver-s-vision-enhancer",
+    "label": "Driver's Vision Enhancer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tnm02b9fyp",
+    "key": "driving",
+    "label": "Driving",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ekr8peg0af",
+    "key": "drug-quality-and-security-act",
+    "label": "Drug Quality and Security Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g8g5ssiics",
+    "key": "dry-needling",
+    "label": "Dry needling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nvodwxcih5",
+    "key": "drywall-installation-and-repair",
+    "label": "Drywall installation and repair",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "foawpj2j0j",
+    "key": "duck-creek-platform",
+    "label": "Duck Creek Platform",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q04p0u98h5",
+    "key": "durable-medical-equipment",
+    "label": "Durable medical equipment",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pg1d5j8bxe",
+    "key": "dust-js",
+    "label": "Dust.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zomymgt82i",
+    "key": "dynamic-cycle-counting",
+    "label": "Dynamic cycle counting",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "db9tzh4vwb",
+    "key": "dynamic-host-configuration-protocol",
+    "label": "Dynamic Host Configuration Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w5477vqzut",
+    "key": "dynamics-365-field-service",
+    "label": "Dynamics 365 Field Service",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dv5vi280tf",
+    "key": "e-marketing",
+    "label": "E-marketing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "umfv8wb6dp",
+    "key": "earlgrey",
+    "label": "EarlGrey",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n7z8knzo4j",
+    "key": "earned-value-management-system",
+    "label": "Earned value management system",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i6g7p06d2d",
+    "key": "earth-leakage-circuit-breaker",
+    "label": "Earth leakage circuit breaker",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gcir84drj6",
+    "key": "easeljs",
+    "label": "EaselJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bnjsc5i3bq",
+    "key": "ebay-api",
+    "label": "eBay API",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ky7jwfnwru",
+    "key": "eclinicalworks",
+    "label": "eClinicalWorks",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sbmj2blmdn",
+    "key": "ecological-study",
+    "label": "Ecological study",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w7xonuv7bc",
+    "key": "econometric-model",
+    "label": "Econometric model",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pzkbjaeg8u",
+    "key": "eddystone",
+    "label": "Eddystone",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sps2jl4lnt",
+    "key": "edius",
+    "label": "EDIUS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fuaxn5v1v7",
+    "key": "educational-therapy",
+    "label": "Educational therapy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ji0fbvi6e3",
+    "key": "eight-disciplines-problem-solving",
+    "label": "Eight Disciplines problem solving",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "my7m7yrsab",
+    "key": "einstein-analytics",
+    "label": "Einstein Analytics",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lq2nmnnqa8",
+    "key": "elastic-stack",
+    "label": "Elastic Stack",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "je3fcav7k1",
+    "key": "electric-meters",
+    "label": "Electric meters",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gmm5f3ssho",
+    "key": "electric-vehicle",
+    "label": "Electric vehicle",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a29bj9y2xt",
+    "key": "electrical-diagnostics-and-repair",
+    "label": "Electrical diagnostics and repair",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xq6qu2qcae",
+    "key": "electrical-wiring",
+    "label": "Electrical wiring",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b4hi4ko6px",
+    "key": "electron-microscope",
+    "label": "Electron microscope",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zt8mhiw2a3",
+    "key": "electronic-data-capture",
+    "label": "Electronic data capture",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u3kq2ln0y0",
+    "key": "electronic-prescribing",
+    "label": "Electronic prescribing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mqvz3eew6h",
+    "key": "electronic-publishing",
+    "label": "Electronic publishing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "euymx83iu8",
+    "key": "electrosurgery",
+    "label": "Electrosurgery",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jnut7g5uci",
+    "key": "email-etiquette",
+    "label": "Email etiquette",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vlx37w32ol",
+    "key": "email-on-acid",
+    "label": "Email on Acid",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d16ja1jgfx",
+    "key": "email-service-providers",
+    "label": "Email service providers",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

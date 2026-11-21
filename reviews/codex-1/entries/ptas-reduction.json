@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-011.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A PTAS reduction transforms an optimization problem to another so that a polynomial-time approximation scheme for the latter yields one for the former.",
+  "entry_text": "A PTAS reduction transforms an optimization problem to another so that a polynomial-time approximation scheme for the latter yields one for the former.",
+  "entry_text_kind": "definition",
+  "example": "A researcher uses a PTAS reduction to transfer evidence of approximation difficulty between optimization problems.",
+  "id": "zomp6sei1p",
+  "key": "ptas-reduction",
+  "label": "PTAS reduction",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Formal definitions and notation vary; the key property is preservation of approximation-scheme existence.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

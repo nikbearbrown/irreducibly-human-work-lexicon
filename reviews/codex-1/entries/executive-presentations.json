@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Preparing and delivering concise, decision-focused presentations for senior leaders.",
+  "entry_text": "Preparing and delivering concise, decision-focused presentations for senior leaders.",
+  "entry_text_kind": "definition",
+  "example": "A project lead presents an investment recommendation, the alternatives, and the major risks.",
+  "id": "uxc5mcnmd3",
+  "key": "executive-presentations",
+  "label": "Executive presentations",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

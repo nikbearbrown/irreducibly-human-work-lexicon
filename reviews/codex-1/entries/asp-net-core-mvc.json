@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ASP.NET Core MVC is a .NET web framework for organizing application logic into models, views, and controllers.",
+  "entry_text": "ASP.NET Core MVC is a .NET web framework for organizing application logic into models, views, and controllers.",
+  "entry_text_kind": "definition",
+  "example": "A controller retrieves product data and passes it to a view that renders a product page.",
+  "id": "rpn2bwtxnp",
+  "key": "asp-net-core-mvc",
+  "label": "ASP.NET Core MVC",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

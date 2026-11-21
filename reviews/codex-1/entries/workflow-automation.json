@@ -1,0 +1,20 @@
+{
+  "batch": "skill-049.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Workflow automation uses software to carry out predefined steps or transitions with reduced manual intervention.",
+  "entry_text": "Workflow automation uses software to carry out predefined steps or transitions with reduced manual intervention.",
+  "entry_text_kind": "definition",
+  "example": "A completed form automatically routes to the appropriate reviewer.",
+  "id": "qrp6flp31z",
+  "key": "workflow-automation",
+  "label": "Workflow automation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

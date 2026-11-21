@@ -1,0 +1,28 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Puppeteer is a JavaScript library for controlling web browsers programmatically.",
+  "entry_text": "Puppeteer is a JavaScript library for controlling web browsers programmatically.",
+  "entry_text_kind": "definition",
+  "example": "A developer captures a screenshot after a test page loads.",
+  "id": "aoyn4kei0h",
+  "key": "puppeteer",
+  "label": "Puppeteer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "aoyn4kei0h",
+      "note": "Official introduction explicitly describes JavaScript browser control and screenshot support.",
+      "packet": "root-skill-037-and-abc.json",
+      "ref": "https://pptr.dev/docs/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

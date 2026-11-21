@@ -1,0 +1,31 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Swati (ISO 639-3: ssw) as a language under the Atlantic-Congo grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Atlantic-Congo",
+    "catalog_name": "Swati",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "swat1243",
+    "iso639_3": "ssw",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/swat1243"
+  },
+  "definition": "A human language also known as siSwati.",
+  "entry_text": "A human language also known as siSwati.",
+  "entry_text_kind": "definition",
+  "example": "An editor proofreads Swati subtitles.",
+  "id": "mhqs5zfa2v",
+  "key": "swati",
+  "label": "Swati",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

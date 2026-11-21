@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Risk exposure assessment identifies the assets, activities, and populations subject to a risk and estimates their potential loss or impact under stated assumptions.",
+  "entry_text": "Risk exposure assessment identifies the assets, activities, and populations subject to a risk and estimates their potential loss or impact under stated assumptions.",
+  "entry_text_kind": "definition",
+  "example": "A site manager estimates how much inventory could be damaged if floodwater enters the lowest storage level.",
+  "id": "eqjxogag29",
+  "key": "risk-exposure-assessment",
+  "label": "Risk exposure assessment",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

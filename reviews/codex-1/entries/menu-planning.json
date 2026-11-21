@@ -1,0 +1,20 @@
+{
+  "batch": "skill-028.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Menu planning designs a selection of dishes for a service or period while balancing nutrition, budget, availability and customer needs.",
+  "entry_text": "Menu planning designs a selection of dishes for a service or period while balancing nutrition, budget, availability and customer needs.",
+  "entry_text_kind": "definition",
+  "example": "A school food service team rotates main dishes and includes options for documented dietary restrictions.",
+  "id": "paspq84cye",
+  "key": "menu-planning",
+  "label": "Menu planning",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

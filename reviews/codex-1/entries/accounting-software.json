@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Accounting software records financial transactions and produces ledger, reconciliation, or reporting outputs.",
+  "entry_text": "Accounting software records financial transactions and produces ledger, reconciliation, or reporting outputs.",
+  "entry_text_kind": "definition",
+  "example": "A small business reconciles its bank statement against transactions recorded in the software.",
+  "id": "a0cpzx7lc1",
+  "key": "accounting-software",
+  "label": "Accounting software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

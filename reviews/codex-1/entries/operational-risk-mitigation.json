@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Operational risk mitigation identifies and reduces potential losses arising from failures in people, processes, systems or external events.",
+  "entry_text": "Operational risk mitigation identifies and reduces potential losses arising from failures in people, processes, systems or external events.",
+  "entry_text_kind": "definition",
+  "example": "A finance team adds independent approval to a payment workflow to reduce processing errors.",
+  "id": "jq9pnw9x8r",
+  "key": "operational-risk-mitigation",
+  "label": "Operational risk mitigation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

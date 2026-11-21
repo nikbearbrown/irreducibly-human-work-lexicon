@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "k9120963t9",
+    "key": "watchkeeping",
+    "label": "Watchkeeping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qphpy2zo7v",
+    "key": "watchos",
+    "label": "watchOS",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ob5x7cidzc",
+    "key": "watcom-sql",
+    "label": "Watcom SQL",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vyqnnqyzs1",
+    "key": "water-based-pipe-coating",
+    "label": "Water-based pipe coating",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nge92ycu3m",
+    "key": "water-quality-modelling",
+    "label": "Water quality modelling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ocy9gvs6bk",
+    "key": "web-crawling",
+    "label": "Web crawling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qg4095ukub",
+    "key": "web-development",
+    "label": "Web development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n0cqs70yvv",
+    "key": "web-filtering",
+    "label": "Web filtering",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mv3crbqr7k",
+    "key": "webct",
+    "label": "WebCT",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ubbk8mnwmv",
+    "key": "webctrl",
+    "label": "WebCTRL",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zbffxmp8sd",
+    "key": "webdriver",
+    "label": "WebDriver",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j24v0pklgn",
+    "key": "webdriverjs",
+    "label": "WebDriverJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i8582a4ibj",
+    "key": "website-optimization",
+    "label": "Website optimization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "acn72xigji",
+    "key": "website-wireframing",
+    "label": "Website wireframing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r8rztyovbw",
+    "key": "webvr",
+    "label": "WebVR",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s36txc7rzo",
+    "key": "weed-control",
+    "label": "Weed control",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wcg32yijfo",
+    "key": "whatsapp",
+    "label": "WhatsApp",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n54edboexh",
+    "key": "wi-fi-6",
+    "label": "Wi-Fi 6",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uzzliw7qg0",
+    "key": "wi-fi-direct",
+    "label": "Wi-Fi Direct",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p8qmykc9gw",
+    "key": "wi-fi-test-engineering",
+    "label": "Wi-Fi test engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yrn0spxwt7",
+    "key": "wildlife-observation",
+    "label": "Wildlife observation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gejo2dg8b2",
+    "key": "will-and-testament-preparation",
+    "label": "Will and testament preparation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w73i1r9yha",
+    "key": "windows-10",
+    "label": "Windows 10",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ffp4uu3fn4",
+    "key": "windows-7",
+    "label": "Windows 7",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uh144fpdpv",
+    "key": "windows-8",
+    "label": "Windows 8",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m36f36uc8b",
+    "key": "windows-meeting-space",
+    "label": "Windows Meeting Space",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jfr592yy2c",
+    "key": "windows-performance-analyzer",
+    "label": "Windows Performance Analyzer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zkzxham5am",
+    "key": "windows-performance-recorder",
+    "label": "Windows Performance Recorder",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r0gomtww7e",
+    "key": "windows-performance-toolkit",
+    "label": "Windows Performance Toolkit",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ohwq8eavw4",
+    "key": "windows-software-development",
+    "label": "Windows software development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "indwviyy46",
+    "key": "windows-software-trace-preprocessor",
+    "label": "Windows software trace preprocessor",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vg9kmdhvg3",
+    "key": "windows-support",
+    "label": "Windows support",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b3xoj87ea0",
+    "key": "windows-systems-administration",
+    "label": "Windows systems administration",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tprscmn40a",
+    "key": "windows-vista",
+    "label": "Windows Vista",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iqxlv5j0s0",
+    "key": "windows-xp-media-center-edition",
+    "label": "Windows XP Media Center Edition",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iucmf6wwrt",
+    "key": "windows-xp-professional-x64-edition",
+    "label": "Windows XP Professional x64 Edition",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bbgdn40n5c",
+    "key": "winemaking",
+    "label": "Winemaking",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jkc0zoht0i",
+    "key": "winjs",
+    "label": "WinJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rdvoal04bc",
+    "key": "wkwebview",
+    "label": "WKWebView",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g5w0hghcgk",
+    "key": "women-s-health-and-cancer-rights-act",
+    "label": "Women's Health and Cancer Rights Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  }
+]

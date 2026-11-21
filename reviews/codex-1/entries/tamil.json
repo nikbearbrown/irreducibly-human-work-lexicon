@@ -1,0 +1,31 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Tamil (ISO 639-3: tam) as a language under the Dravidian grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Dravidian",
+    "catalog_name": "Tamil",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "tami1289",
+    "iso639_3": "tam",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/tami1289"
+  },
+  "definition": "A human language written with the Tamil script.",
+  "entry_text": "A human language written with the Tamil script.",
+  "entry_text_kind": "definition",
+  "example": "A translator prepares Tamil captions for a tutorial.",
+  "id": "y21520l3cr",
+  "key": "tamil",
+  "label": "Tamil",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

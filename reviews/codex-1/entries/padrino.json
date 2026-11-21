@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Padrino is a Ruby web application framework built on Sinatra that adds project organization and application components.",
+  "entry_text": "Padrino is a Ruby web application framework built on Sinatra that adds project organization and application components.",
+  "entry_text_kind": "definition",
+  "example": "A developer adds admin routes and templates to a small web application.",
+  "id": "ynifxe6cme",
+  "key": "padrino",
+  "label": "Padrino",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-012.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sustainable insurance incorporates environmental, social and governance considerations into insurance activities such as underwriting, products or investment decisions.",
+  "entry_text": "Sustainable insurance incorporates environmental, social and governance considerations into insurance activities such as underwriting, products or investment decisions.",
+  "entry_text_kind": "definition",
+  "example": "An insurer evaluates how future flood conditions could affect property risk and access to coverage.",
+  "id": "lp4bwp30dh",
+  "key": "sustainable-insurance",
+  "label": "Sustainable insurance",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

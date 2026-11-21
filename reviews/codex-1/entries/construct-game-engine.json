@@ -1,0 +1,20 @@
+{
+  "batch": "skill-010.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Construct is a game creation system for building and deploying games with visual event logic and interactive scene editing.",
+  "entry_text": "Construct is a game creation system for building and deploying games with visual event logic and interactive scene editing.",
+  "entry_text_kind": "definition",
+  "example": "A creator defines an event that increases the displayed score when a player collects an item.",
+  "id": "mpcx38veci",
+  "key": "construct-game-engine",
+  "label": "Construct (game engine)",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

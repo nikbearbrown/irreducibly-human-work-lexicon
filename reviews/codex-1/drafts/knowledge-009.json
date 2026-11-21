@@ -1,0 +1,242 @@
+[
+  {
+    "id": "t0ziw5ujhv",
+    "definition": "Mutual exclusion allows at most one participant at a time to enter a critical section or use a protected resource.",
+    "example": "A mutex prevents two threads from updating a shared counter at the same time.",
+    "sense_note": null
+  },
+  {
+    "id": "vbfwnlv4u6",
+    "definition": "A mutual fund pools investors' money to hold a portfolio managed according to a common investment objective.",
+    "example": "An index mutual fund buys securities to track a stock-market benchmark.",
+    "sense_note": null
+  },
+  {
+    "id": "e51h9xxt7e",
+    "definition": "Naked short selling is selling a security short without first borrowing it or arranging to borrow it for delivery.",
+    "example": "A compliance officer checks whether a short sale had the required borrowing arrangement before execution.",
+    "sense_note": "Legal definitions and exceptions vary by jurisdiction."
+  },
+  {
+    "id": "cicx2jr1by",
+    "definition": "Nanobiotechnology studies or applies interactions between biological systems and structures at the nanoscale.",
+    "example": "Researchers examine whether a nanoscale coating can improve the sensitivity of a diagnostic sensor.",
+    "sense_note": null
+  },
+  {
+    "id": "w6k4uq5j1x",
+    "definition": "Nanocomposites combine a base material with a distinct component that has at least one nanoscale dimension to alter material properties.",
+    "example": "An engineer compares the stiffness of a polymer with and without nanoscale clay particles.",
+    "sense_note": null
+  },
+  {
+    "id": "j6nvy18p2k",
+    "definition": "Nanolithography creates patterns with nanoscale features on a surface.",
+    "example": "A fabrication laboratory patterns nanoscale lines on a semiconductor wafer.",
+    "sense_note": null
+  },
+  {
+    "id": "ffqc6qyff0",
+    "definition": "The National Airspace System is the integrated U.S. network of airspace, air navigation facilities, air traffic services, airports and operating procedures.",
+    "example": "Air traffic managers coordinate alternate routes when severe weather closes a flight corridor.",
+    "sense_note": null
+  },
+  {
+    "id": "uims2c9qir",
+    "definition": "Native American studies examines the histories, cultures, politics and contemporary lives of Indigenous peoples of North America, especially within the United States.",
+    "example": "A course examines how tribal sovereignty shapes relationships with federal and state governments.",
+    "sense_note": null
+  },
+  {
+    "id": "d9zc6zsrlv",
+    "definition": "Natural capital is the stock of natural resources and ecosystems that supports flows of goods and services.",
+    "example": "An assessment counts a wetland's capacity to reduce flooding as a benefit from natural capital.",
+    "sense_note": null
+  },
+  {
+    "id": "fuem89o2r4",
+    "definition": "Natural gas pipelines carry natural gas through networks for gathering, transmission or distribution.",
+    "example": "A distribution pipeline delivers gas from a regulated supply point to neighborhoods.",
+    "sense_note": null
+  },
+  {
+    "id": "gvwuv6xjpu",
+    "definition": "Natural language generation produces text or speech from data, representations or user instructions.",
+    "example": "An application converts weekly rainfall measurements into a plain-language weather summary.",
+    "sense_note": null
+  },
+  {
+    "id": "erag95km1k",
+    "definition": "Natural language processing systems analyze, transform or generate human language using computational methods.",
+    "example": "A service classifies customer messages by topic so they can be routed for review.",
+    "sense_note": null
+  },
+  {
+    "id": "ivx36sezid",
+    "definition": "Natural language understanding interprets meaning or intent from human language in context.",
+    "example": "A virtual assistant identifies that a user asking about the next train wants a departure time.",
+    "sense_note": null
+  },
+  {
+    "id": "b3su978cm7",
+    "definition": "Nautical charts depict navigable waters, depths, hazards and aids used to plan and conduct voyages.",
+    "example": "A navigator uses charted depths to check whether a vessel can safely enter a harbor.",
+    "sense_note": null
+  },
+  {
+    "id": "duizwpkp0n",
+    "definition": "Net zero describes a balance between greenhouse gas emissions and removals within specified boundaries and a defined period.",
+    "example": "A climate inventory separates remaining emissions from credited removals when assessing a net-zero claim.",
+    "sense_note": "Some targets cover carbon dioxide alone rather than all greenhouse gases."
+  },
+  {
+    "id": "w522rsvq3h",
+    "definition": "Network peering lets independent networks exchange traffic directly under a mutual arrangement rather than routing that traffic through transit providers.",
+    "example": "Two internet providers exchange customer traffic at an internet exchange.",
+    "sense_note": null
+  },
+  {
+    "id": "ndsl6ipwe5",
+    "definition": "Network performance describes how efficiently and reliably a network delivers traffic, using measures such as throughput, latency and loss.",
+    "example": "An engineer tracks latency and packet loss during video calls.",
+    "sense_note": null
+  },
+  {
+    "id": "d2m3gb8qfu",
+    "definition": "Network topology describes the physical or logical arrangement of network nodes and the links between them.",
+    "example": "A designer compares a star layout with a ring for connecting office switches.",
+    "sense_note": null
+  },
+  {
+    "id": "tx96mffcus",
+    "definition": "Neural networks are computational models made of connected units whose parameters are commonly learned from data.",
+    "example": "An image classifier learns weights that help distinguish handwritten digits.",
+    "sense_note": null
+  },
+  {
+    "id": "zy2gfm3r1p",
+    "definition": "Neurobiology studies the cells, circuits and processes that underlie nervous-system function.",
+    "example": "A scientist investigates how synaptic signaling changes during learning.",
+    "sense_note": null
+  },
+  {
+    "id": "c2qx3zxwm1",
+    "definition": "Neuromuscular medicine is a specialty concerned with diagnosis and management of conditions affecting peripheral nerves, muscles and their connections.",
+    "example": "A specialist evaluates a patient with persistent weakness of unclear origin.",
+    "sense_note": null
+  },
+  {
+    "id": "wpklrxp0cx",
+    "definition": "Neuromuscular system and disorders covers how nerves activate muscles and what happens when the relevant nerves, junctions or muscles fail to work normally.",
+    "example": "A student compares weakness from muscle disease with weakness from impaired nerve signaling.",
+    "sense_note": null
+  },
+  {
+    "id": "amcqd093mz",
+    "definition": "Neurosurgery is the medical specialty concerned with surgical care of disorders affecting the brain, spine and peripheral nerves.",
+    "example": "A neurosurgical team evaluates whether a spinal disorder is appropriate for surgery.",
+    "sense_note": null
+  },
+  {
+    "id": "e77t10tbmi",
+    "definition": "NFPA 70E is a U.S. consensus standard for electrical safety practices in workplaces.",
+    "example": "A safety team uses NFPA 70E when reviewing how workers are protected from electrical hazards.",
+    "sense_note": null
+  },
+  {
+    "id": "ipet40zcu8",
+    "definition": "Non-Facility Associated Signalling lets one signaling channel control multiple digital telephony interfaces instead of requiring a separate signaling channel on each one.",
+    "example": "A carrier uses a shared signaling channel for several ISDN primary-rate spans.",
+    "sense_note": null
+  },
+  {
+    "id": "oge4mk4z9q",
+    "definition": "A non-fungible token is a uniquely identified digital token recorded on a ledger rather than treated as interchangeable with another token of the same type.",
+    "example": "A gallery issues distinct tokens associated with items in an edition.",
+    "sense_note": "A token does not automatically confer ownership of a referenced work or its copyright."
+  },
+  {
+    "id": "pmy0yp0e50",
+    "definition": "A NoSQL database stores and queries data using models such as documents, key-value pairs, columns or graphs rather than relying chiefly on relational tables.",
+    "example": "A product catalog stores items with different attribute sets as documents.",
+    "sense_note": null
+  },
+  {
+    "id": "xspaa6enyw",
+    "definition": "Nutraceuticals are foods, food components or related products promoted for health benefits beyond basic nutrition.",
+    "example": "A researcher evaluates the evidence for a product marketed as a concentrated source of plant compounds.",
+    "sense_note": "The term is not a uniform regulatory category and does not establish efficacy."
+  },
+  {
+    "id": "uokmv489cy",
+    "definition": "An object-oriented data model represents data as objects with identities, properties and relationships, often organized into classes.",
+    "example": "A design system represents a geometric shape and its dimensions as an object in a class hierarchy.",
+    "sense_note": null
+  },
+  {
+    "id": "ncjktk06jk",
+    "definition": "Ocular pathology studies diseases of the eye and related structures through examination of tissues and other diagnostic evidence.",
+    "example": "A specialist examines an eye tissue sample to characterize abnormal cells.",
+    "sense_note": null
+  },
+  {
+    "id": "at31legxns",
+    "definition": "Odor control aims to prevent or reduce objectionable smells by addressing their sources, transport or perception.",
+    "example": "A facility encloses a waste-handling area and treats its exhaust to reduce off-site odor.",
+    "sense_note": null
+  },
+  {
+    "id": "sh75mx00wm",
+    "definition": "Official statistics are figures produced or designated by public authorities under established standards for public use.",
+    "example": "A statistics agency publishes a monthly unemployment rate based on a household survey.",
+    "sense_note": null
+  },
+  {
+    "id": "s3v0meeja8",
+    "definition": "Ohm's law relates voltage, current and resistance as voltage equals current times resistance for an ohmic conductor under stable conditions.",
+    "example": "A technician calculates the current through a known resistor at a specified voltage.",
+    "sense_note": null
+  },
+  {
+    "id": "kxyef6lpo4",
+    "definition": "Oil pipelines transport crude oil or refined petroleum products through connected pipes and pumping facilities.",
+    "example": "A pipeline moves crude oil from a storage terminal to a refinery.",
+    "sense_note": null
+  },
+  {
+    "id": "v13u3ohdg8",
+    "definition": "Oncogenomics studies genomic changes associated with cancer and their effects on disease behavior and treatment response.",
+    "example": "A research team compares tumor genomes to identify changes recurring in one cancer subtype.",
+    "sense_note": null
+  },
+  {
+    "id": "r78jn0y5p6",
+    "definition": "Open banking allows authorized third parties to access banking data or initiate supported services through secure, customer-consented interfaces.",
+    "example": "A customer permits a budgeting app to read transactions from two bank accounts.",
+    "sense_note": "The permitted services and consent requirements depend on the framework."
+  },
+  {
+    "id": "c4hb6dz587",
+    "definition": "Open Network Computing refers to a suite of distributed computing technologies that includes remote procedure calls and the Network File System.",
+    "example": "A client uses ONC remote procedure calls to request a file operation from a server.",
+    "sense_note": null
+  },
+  {
+    "id": "zvnr5iuxil",
+    "definition": "An operating system manages hardware and shared resources and provides services for applications.",
+    "example": "A computer's operating system schedules tasks and controls access to memory and files.",
+    "sense_note": null
+  },
+  {
+    "id": "fxsw7mji1f",
+    "definition": "Operations, administration, maintenance and provisioning comprises functions that monitor, manage, repair and configure a telecommunications network or service.",
+    "example": "An operator monitors service alarms and provisions access for a new subscriber.",
+    "sense_note": null
+  },
+  {
+    "id": "n2dzi99ark",
+    "definition": "An optical fiber cable contains protected strands that carry light signals for communication or sensing.",
+    "example": "A campus network connects buildings with fiber to transmit data over long runs.",
+    "sense_note": null
+  }
+]

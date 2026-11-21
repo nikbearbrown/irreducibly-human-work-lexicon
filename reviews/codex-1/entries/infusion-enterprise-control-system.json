@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An industrial control platform associated with Invensys for integrating process control and plant information.",
+  "entry_text": "An industrial control platform associated with Invensys for integrating process control and plant information.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "lc2rcp825q",
+  "key": "infusion-enterprise-control-system",
+  "label": "InFusion Enterprise Control System",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the historical product edition and architecture before describing specific components.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

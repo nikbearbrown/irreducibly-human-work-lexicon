@@ -1,0 +1,33 @@
+{
+  "batch": "language-005.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": null,
+  "entry_text": "Confirm North Ndebele [nde] or South Ndebele [nbl]. They have separate code entries; the unqualified label does not select one.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "txklu9fpkw",
+  "key": "ndebele",
+  "label": "Ndebele",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm whether the label refers to Northern Ndebele or Southern Ndebele.",
+  "sense_proposal": {
+    "ambiguity_note": "Confirm North Ndebele [nde] or South Ndebele [nbl]. They have separate code entries; the unqualified label does not select one.",
+    "id": "txklu9fpkw",
+    "label": "Ndebele",
+    "proposed_definition": null,
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/nort2795",
+      "https://glottolog.org/resource/languoid/id/sout3270",
+      "https://glottolog.org/resource/languoid/id/sout2808",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3",
+      "https://www.loc.gov/standards/iso639-2/php/code_list.php"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

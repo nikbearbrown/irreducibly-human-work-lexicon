@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Composing or arranging music to accompany a film and support its narrative, mood, or timing.",
+  "entry_text": "Composing or arranging music to accompany a film and support its narrative, mood, or timing.",
+  "entry_text_kind": "definition",
+  "example": "A composer synchronizes a rising musical phrase with the reveal in a scene.",
+  "id": "lmnl567ljy",
+  "key": "film-scoring",
+  "label": "Film scoring",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

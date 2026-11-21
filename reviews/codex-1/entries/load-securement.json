@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Load securement is the process of restraining transported cargo to prevent shifting or loss during transit.",
+  "entry_text": "Load securement is the process of restraining transported cargo to prevent shifting or loss during transit.",
+  "entry_text_kind": "definition",
+  "example": "A driver checks that approved restraints hold the pallets in place before departure.",
+  "id": "l507rs9zfn",
+  "key": "load-securement",
+  "label": "Load securement",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

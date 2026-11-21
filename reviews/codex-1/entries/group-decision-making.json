@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A process for making a decision using the input and judgment of multiple participants.",
+  "entry_text": "A process for making a decision using the input and judgment of multiple participants.",
+  "entry_text_kind": "definition",
+  "example": "A committee compares proposals against shared criteria and votes on a recommendation.",
+  "id": "q4anc8fb3e",
+  "key": "group-decision-making",
+  "label": "Group decision-making",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

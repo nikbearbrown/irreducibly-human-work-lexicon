@@ -1,0 +1,27 @@
+{
+  "batch": "language-003.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_identity_candidates": [
+    {
+      "code": "gree1276",
+      "level": "family",
+      "name": "Greek"
+    }
+  ],
+  "definition": "A human language label covering modern usage and historical forms written with the Greek alphabet.",
+  "entry_text": "A human language label covering modern usage and historical forms written with the Greek alphabet.",
+  "entry_text_kind": "definition",
+  "example": "An editor checks a Modern Greek product description.",
+  "id": "eon43rmtrr",
+  "key": "greek",
+  "label": "Greek",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specify the historical stage if relevant.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

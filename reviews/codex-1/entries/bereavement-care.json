@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Bereavement care provides practical, emotional, and, when appropriate, clinical support to people grieving a death.",
+  "entry_text": "Bereavement care provides practical, emotional, and, when appropriate, clinical support to people grieving a death.",
+  "entry_text_kind": "definition",
+  "example": "A care team offers a family information about local grief support and follows up after the funeral.",
+  "id": "cv3d24xm4v",
+  "key": "bereavement-care",
+  "label": "Bereavement care",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

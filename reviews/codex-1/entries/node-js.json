@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Node.js is a JavaScript runtime for executing programs outside the browser, commonly used for server and command-line applications.",
+  "entry_text": "Node.js is a JavaScript runtime for executing programs outside the browser, commonly used for server and command-line applications.",
+  "entry_text_kind": "definition",
+  "example": "A developer writes a JavaScript service that handles HTTP requests and reads database records.",
+  "id": "q89d2f20gq",
+  "key": "node-js",
+  "label": "Node.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

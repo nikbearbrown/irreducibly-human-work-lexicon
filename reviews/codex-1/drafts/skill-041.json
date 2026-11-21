@@ -1,0 +1,242 @@
+[
+  {
+    "id": "y7oiw2a8nf",
+    "definition": "SCORM is a collection of specifications for packaging web learning content and exchanging progress and performance information with a compatible learning management system.",
+    "example": "A training team packages a quiz so its completion status is recorded after import into the LMS.",
+    "sense_note": null
+  },
+  {
+    "id": "f2brdjikmg",
+    "definition": "Shared Vision Planning combines participation, collaborative computer modeling, and water resources planning to help stakeholders compare management alternatives.",
+    "example": "River basin stakeholders jointly inspect how proposed reservoir rules affect water supply and flood outcomes.",
+    "sense_note": "Capitalized label suggests the water resources method, not generic planning around a shared vision."
+  },
+  {
+    "id": "yq4iixbank",
+    "definition": "ShareFile is a file-sharing and collaboration platform for transferring, storing, and controlling access to documents.",
+    "example": "An accounting firm gives a client access to a restricted folder for submitting records.",
+    "sense_note": null
+  },
+  {
+    "id": "a6vlrfokws",
+    "definition": "Sharp Zaurus was a family of handheld personal digital assistants, including models capable of running Linux.",
+    "example": "A collector identifies which archived application format works with a particular Zaurus model.",
+    "sense_note": "Historical product family; operating system varies by model."
+  },
+  {
+    "id": "mcq19gzghr",
+    "definition": "Shepard's Citations is a legal citator used to track later treatment and citations of cases and other authorities.",
+    "example": "A researcher checks whether a later court limited the holding in a case relied on in a brief.",
+    "sense_note": null
+  },
+  {
+    "id": "ul70j17833",
+    "definition": "Ship handling is the practice of controlling a vessel's motion under constraints such as wind, current, water depth, maneuvering response, and nearby traffic.",
+    "example": "A captain accounts for a crosswind and available tug support when planning a harbor berth approach.",
+    "sense_note": null
+  },
+  {
+    "id": "lttufyejs0",
+    "definition": "Shipping and receiving processes outgoing and incoming goods, including recording, verifying, handling, and documenting shipments.",
+    "example": "A receiving clerk compares delivered quantities with the purchase order and records a shortage.",
+    "sense_note": null
+  },
+  {
+    "id": "lpcilh3rqk",
+    "definition": "Shipping management plans and oversees the movement of goods, including scheduling, documentation, carriers, costs, and service performance.",
+    "example": "A manager compares carriers against delivery requirements and monitors repeated late shipments.",
+    "sense_note": null
+  },
+  {
+    "id": "aeainj02qw",
+    "definition": "Shoulder surgery encompasses operations on the shoulder joint and related soft tissues to address injury, disease, or loss of function.",
+    "example": "A surgical team evaluates whether to repair a torn tendon in a patient's shoulder.",
+    "sense_note": null
+  },
+  {
+    "id": "gjzaap79p3",
+    "definition": "Shower installation fits and connects a shower assembly while addressing drainage, water supply, sealing, and applicable requirements.",
+    "example": "An installer checks that a completed enclosure drains without leaking before handing it over.",
+    "sense_note": null
+  },
+  {
+    "id": "opqo30ewyl",
+    "definition": "Shrink wrapping encloses objects in film that contracts around them when heated.",
+    "example": "A packaging line shrink-wraps a multi-pack so its units stay together during handling.",
+    "sense_note": null
+  },
+  {
+    "id": "y6nnymqmh6",
+    "definition": "Shuttle car operation is the controlled use of a mobile underground mining vehicle that carries material between extraction and transfer points.",
+    "example": "An operator transports material from a mining machine to a designated discharge point under the site's safety procedures.",
+    "sense_note": "Likely underground mining sense; confirm vehicle type if another industry is intended."
+  },
+  {
+    "id": "jfc94x3rg1",
+    "definition": "Signalling Connection Control Part is an SS7 protocol layer that provides addressing and connectionless or connection-oriented transport services for signaling applications.",
+    "example": "A telecom engineer reads a signaling diagram to see where global title translation selects a destination.",
+    "sense_note": null
+  },
+  {
+    "id": "tub5zvto3r",
+    "definition": "Signalling System No. 7 is a family of telecom signaling protocols used to exchange control information separately from bearer traffic.",
+    "example": "A telecom engineer identifies which signaling messages support establishing and releasing a phone call.",
+    "sense_note": null
+  },
+  {
+    "id": "m6qn2ni0mx",
+    "definition": "Silk Test is a functional test automation product for scripting and checking behavior of supported application interfaces.",
+    "example": "A QA engineer automates a regression check that an application displays the expected confirmation after a test transaction.",
+    "sense_note": null
+  },
+  {
+    "id": "pdqd1zdbm6",
+    "definition": "A simple interrupted suture is a separately tied stitch used with other independent stitches to approximate tissue edges.",
+    "example": "A student reviewing a training diagram identifies that one stitch can loosen without loosening all adjacent stitches.",
+    "sense_note": null
+  },
+  {
+    "id": "rw1rf4xx4r",
+    "definition": "Simple Mail Transfer Protocol is the standard protocol used to submit and relay email between mail clients and servers or among servers.",
+    "example": "A mail server uses SMTP to forward a queued message to the recipient domain's mail server.",
+    "sense_note": null
+  },
+  {
+    "id": "em3svulww1",
+    "definition": "Simple Public Key Infrastructure is an authorization-oriented public-key certificate architecture that can grant rights to keys or defined principals rather than relying on a global identity hierarchy.",
+    "example": "In a design exercise, a certificate gives a key authorization to read a specific resource.",
+    "sense_note": null
+  },
+  {
+    "id": "vidnq2l1rz",
+    "definition": "SimpleLegal is legal operations software for managing matters, outside counsel expenses, and electronic billing.",
+    "example": "A legal operations specialist reviews an outside counsel invoice against a matter's billing requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "kmd4pupkyx",
+    "definition": "The Simputer was a low-cost handheld computing design created in India to make computing more accessible through features such as shared use and support for local-language interfaces.",
+    "example": "A museum exhibit uses a Simputer to illustrate early handheld computing designed for community access.",
+    "sense_note": "Historical product; features may vary by implementation."
+  },
+  {
+    "id": "mnh4oeocnq",
+    "definition": "A single in-line memory module is a legacy memory circuit board whose edge contacts on opposing sides are electrically connected.",
+    "example": "A technician restoring an older computer identifies the installed memory board as a SIMM rather than a DIMM.",
+    "sense_note": null
+  },
+  {
+    "id": "abnhhao29t",
+    "definition": "Single sign-on lets a user authenticate once and access multiple participating applications without separately signing in to each during the relevant session.",
+    "example": "An employee signs in through the organization identity provider and then opens both payroll and service desk applications.",
+    "sense_note": null
+  },
+  {
+    "id": "qcse7xh7on",
+    "definition": "Site reliability engineering applies software engineering to operating services and managing reliability through measurable objectives and automation.",
+    "example": "An SRE team uses an error budget to decide whether reliability work should take priority over a new release.",
+    "sense_note": null
+  },
+  {
+    "id": "v3cuopv3ef",
+    "definition": "Skip tracing is the lawful search for a person's current location or contact information when previously available information no longer reaches them.",
+    "example": "An authorized investigator documents that an address on file is no longer current and checks approved public records.",
+    "sense_note": "Use is subject to applicable privacy and authorization requirements."
+  },
+  {
+    "id": "qfv4bypfec",
+    "definition": "A sluice gate is a movable barrier that regulates or stops water flow through an opening in a channel or structure.",
+    "example": "A water operator adjusts a gate to regulate the flow into an irrigation channel.",
+    "sense_note": null
+  },
+  {
+    "id": "mu97mah0vn",
+    "definition": "Slurm is a workload manager that queues jobs and allocates compute resources on shared clusters.",
+    "example": "A researcher requests compute nodes for a simulation and reviews its position in the job queue.",
+    "sense_note": null
+  },
+  {
+    "id": "m82jna0f8h",
+    "definition": "A smart pig is an instrumented device that travels through a pipeline to collect inspection data about its internal condition or geometry.",
+    "example": "A pipeline integrity team reviews inline inspection findings for possible wall thinning.",
+    "sense_note": "Here pig refers to a pipeline inspection device."
+  },
+  {
+    "id": "bv0zy9wr0n",
+    "definition": "SmartBidNet is construction bid-management software for distributing invitations, managing subcontractor contacts, and tracking bids.",
+    "example": "A general contractor uses it to see which subcontractors have responded to a bid invitation.",
+    "sense_note": "Verify historical and current product naming."
+  },
+  {
+    "id": "h2cjyjeoa7",
+    "definition": "Smartphone operation is the use of a mobile phone's interface and settings to communicate, manage data, and carry out tasks securely.",
+    "example": "A user connects to a known Wi-Fi network and adjusts an app's permission settings.",
+    "sense_note": null
+  },
+  {
+    "id": "r9mdk24kix",
+    "definition": "Snort is a network intrusion detection and prevention system that analyzes traffic against configured rules and protocol information.",
+    "example": "A defender reviews an alert Snort generated while monitoring an authorized network.",
+    "sense_note": null
+  },
+  {
+    "id": "k9446vt92g",
+    "definition": "Snow Software provides tools for software asset and technology management, including inventory, license reconciliation, and usage reporting.",
+    "example": "An asset manager compares installed software with purchased entitlements to identify a license shortfall.",
+    "sense_note": "Label can identify vendor or broader product portfolio."
+  },
+  {
+    "id": "jh5x3kr85t",
+    "definition": "Social and behavior change communication uses audience research and communication strategies to support individual behaviors and changes in social norms or conditions.",
+    "example": "A health program co-designs radio messages and community discussions to address barriers to attending routine checkups.",
+    "sense_note": null
+  },
+  {
+    "id": "ot4pymzomt",
+    "definition": "Social-emotional learning develops competencies for recognizing emotions, managing behavior, building relationships, and making responsible decisions.",
+    "example": "Students practice distinguishing their own feelings from a classmate's perspective during a group conflict exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "ztbqyvr0s2",
+    "definition": "Social media advertising is the paid placement and management of promotional messages on social platforms for specified audiences and objectives.",
+    "example": "A campaign team compares conversion costs for two approved creative variations.",
+    "sense_note": null
+  },
+  {
+    "id": "oozzdioit7",
+    "definition": "Social media analytics collects and interprets social platform data to understand audience behavior, engagement, or campaign outcomes.",
+    "example": "A nonprofit compares which posts led visitors to its volunteer registration page rather than counting reactions alone.",
+    "sense_note": null
+  },
+  {
+    "id": "z2atmy7yji",
+    "definition": "Social media content creation develops platform-appropriate copy, images, audio, or video for a defined audience and purpose.",
+    "example": "An editor produces a captioned 30-second explanation for a mobile-first feed.",
+    "sense_note": null
+  },
+  {
+    "id": "bkbalm9r73",
+    "definition": "Social media content management organizes, schedules, approves, publishes, and maintains social posts and assets.",
+    "example": "A coordinator tracks approved captions and images in an editorial calendar before publication.",
+    "sense_note": null
+  },
+  {
+    "id": "f1qxsirpfn",
+    "definition": "Social media management oversees an organization's social presence through planning, publishing, community response, and performance review.",
+    "example": "A manager schedules campaign posts, assigns comment moderation, and reviews results each week.",
+    "sense_note": null
+  },
+  {
+    "id": "zobx6cbtk7",
+    "definition": "Social media optimization adjusts content and account practices to improve discovery, engagement, or another measurable outcome on social platforms.",
+    "example": "An editor tests posting schedules and compares the qualified traffic generated by each.",
+    "sense_note": null
+  },
+  {
+    "id": "m2lagknaw0",
+    "definition": "Socket 478 is a 478-contact Intel processor socket used by certain older desktop Pentium 4 and Celeron processors.",
+    "example": "A technician checks the motherboard socket before selecting a compatible processor for a legacy computer.",
+    "sense_note": null
+  }
+]

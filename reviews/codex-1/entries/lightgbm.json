@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "LightGBM is a library for training gradient-boosted decision tree models for classification, regression and ranking.",
+  "entry_text": "LightGBM is a library for training gradient-boosted decision tree models for classification, regression and ranking.",
+  "entry_text_kind": "definition",
+  "example": "An analyst trains a model to predict customer churn from account data.",
+  "id": "cx81zzbvil",
+  "key": "lightgbm",
+  "label": "LightGBM",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

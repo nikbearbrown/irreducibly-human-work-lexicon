@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "REDCap is a web platform for building and managing structured data collection instruments, especially for research studies.",
+  "entry_text": "REDCap is a web platform for building and managing structured data collection instruments, especially for research studies.",
+  "entry_text_kind": "definition",
+  "example": "A research coordinator builds a validated baseline survey with fields for consent and participant identifiers.",
+  "id": "ov31uuzu8o",
+  "key": "redcap",
+  "label": "REDCap",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

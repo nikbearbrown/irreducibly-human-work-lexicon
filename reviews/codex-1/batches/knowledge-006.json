@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "i5gs33auro",
+    "key": "gas-meter-systems",
+    "label": "Gas meter systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ad8n7dckkb",
+    "key": "gastric-bypass-surgery",
+    "label": "Gastric bypass surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i8sdf9t01b",
+    "key": "gemology",
+    "label": "Gemology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "m5kr7zz3ad",
+    "key": "general-finance",
+    "label": "General finance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d738sbe7ch",
+    "key": "general-sciences",
+    "label": "General sciences",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vxpeg21e33",
+    "key": "generative-ai",
+    "label": "Generative AI",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "opfd8lyv8w",
+    "key": "geographic-coordinate-system",
+    "label": "Geographic coordinate system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cioc9w5x9t",
+    "key": "geospatial-data",
+    "label": "Geospatial data",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "oeuvk8p1c3",
+    "key": "geospatial-databases",
+    "label": "Geospatial databases",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fwmyaf5wxw",
+    "key": "geospatial-information-technology",
+    "label": "Geospatial information technology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jxvm3c5xy3",
+    "key": "government-finance",
+    "label": "Government finance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cbij5yuozv",
+    "key": "graph-databases",
+    "label": "Graph databases",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dp6y03hiq5",
+    "key": "graphics-api",
+    "label": "Graphics API",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "sylnic6fz3",
+    "key": "great-circle",
+    "label": "Great circle",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "jzl6qyfnik",
+    "key": "greeks-finance",
+    "label": "Greeks (finance)",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "y8gv2lcb5t",
+    "key": "green-bond",
+    "label": "Green bond",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "k8ghvpnr52",
+    "key": "grieving-process",
+    "label": "Grieving process",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j0wsqjq182",
+    "key": "gsm-radio-access-network",
+    "label": "GSM radio access network",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "u5nenctwv5",
+    "key": "gynaecology",
+    "label": "Gynaecology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "aif3w1201z",
+    "key": "hadron-physics",
+    "label": "Hadron physics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "edvlkh9fg7",
+    "key": "health-economics-and-outcomes-research",
+    "label": "Health economics and outcomes research",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ywxc0sqcep",
+    "key": "health-safety-and-environment",
+    "label": "Health, safety and environment",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "sddk3r5ix2",
+    "key": "healthcare-delivery-science",
+    "label": "Healthcare delivery science",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j39p08vk9c",
+    "key": "healthcare-industry-knowledge",
+    "label": "Healthcare industry knowledge",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fku3gmvia1",
+    "key": "healthcare-quality",
+    "label": "Healthcare quality",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vn76t3q8hr",
+    "key": "higher-education-law",
+    "label": "Higher education law",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "r9vet0xvr5",
+    "key": "higher-education-policy",
+    "label": "Higher education policy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "la6wh4y4dz",
+    "key": "hindsight-bias",
+    "label": "Hindsight bias",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "c08b08bwgx",
+    "key": "historic-preservation",
+    "label": "Historic preservation",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "v4ci156yl4",
+    "key": "historical-linguistics",
+    "label": "Historical linguistics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "p0xczo9z6e",
+    "key": "history-of-education",
+    "label": "History of education",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "nylesy75ab",
+    "key": "history-of-medicine",
+    "label": "History of medicine",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "i2ggquy268",
+    "key": "history-of-philosophy",
+    "label": "History of philosophy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "lr3xvaxegv",
+    "key": "history-of-science",
+    "label": "History of science",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gzxjpx7ejy",
+    "key": "hockett-s-design-features",
+    "label": "Hockett's design features",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "c0jc22ifx0",
+    "key": "human-factors",
+    "label": "Human factors",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "a613u39dhj",
+    "key": "human-machine-interface",
+    "label": "Human-machine interface",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "w6ne25ate1",
+    "key": "human-musculoskeletal-system",
+    "label": "Human musculoskeletal system",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ksf96s9ogr",
+    "key": "human-rights-law",
+    "label": "Human rights law",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "e6pxu63w41",
+    "key": "hvac-automation-systems",
+    "label": "HVAC automation systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

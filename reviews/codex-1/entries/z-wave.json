@@ -1,0 +1,20 @@
+{
+  "batch": "skill-049.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Z-Wave is a low-power wireless communications technology used to connect compatible automation devices.",
+  "entry_text": "Z-Wave is a low-power wireless communications technology used to connect compatible automation devices.",
+  "entry_text_kind": "definition",
+  "example": "A home automation controller receives status updates from a compatible door sensor.",
+  "id": "wrnhvdt1hx",
+  "key": "z-wave",
+  "label": "Z-Wave",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

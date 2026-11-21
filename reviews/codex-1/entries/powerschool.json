@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PowerSchool provides software for managing student information and other school administration processes.",
+  "entry_text": "PowerSchool provides software for managing student information and other school administration processes.",
+  "entry_text_kind": "definition",
+  "example": "A school office records student enrollment and checks attendance.",
+  "id": "afnmlmdol3",
+  "key": "powerschool",
+  "label": "PowerSchool",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Social media analytics collects and interprets social platform data to understand audience behavior, engagement, or campaign outcomes.",
+  "entry_text": "Social media analytics collects and interprets social platform data to understand audience behavior, engagement, or campaign outcomes.",
+  "entry_text_kind": "definition",
+  "example": "A nonprofit compares which posts led visitors to its volunteer registration page rather than counting reactions alone.",
+  "id": "oozzdioit7",
+  "key": "social-media-analytics",
+  "label": "Social media analytics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

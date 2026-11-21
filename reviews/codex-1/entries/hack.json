@@ -1,0 +1,20 @@
+{
+  "batch": "language-003.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A statically checked programming language derived from PHP and used with HHVM.",
+  "entry_text": "A statically checked programming language derived from PHP and used with HHVM.",
+  "entry_text_kind": "definition",
+  "example": "A developer adds type annotations to a collection-processing function.",
+  "id": "ybdv7l9ewb",
+  "key": "hack",
+  "label": "Hack",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Assumes the programming language, not the general verb.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-005.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Eye surgery comprises operations on the eye or its supporting structures to treat disease, injury or visual problems.",
+  "entry_text": "Eye surgery comprises operations on the eye or its supporting structures to treat disease, injury or visual problems.",
+  "entry_text_kind": "definition",
+  "example": "An ophthalmologist replaces a clouded lens during cataract surgery.",
+  "id": "v7d85yap3i",
+  "key": "eye-surgery",
+  "label": "Eye surgery",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sysomos was a social media analysis and management platform used to track mentions, trends, and audience activity.",
+  "entry_text": "Sysomos was a social media analysis and management platform used to track mentions, trends, and audience activity.",
+  "entry_text_kind": "definition",
+  "example": "An analyst examines archived reports on public mentions of a campaign across social channels.",
+  "id": "clq0n7n3rj",
+  "key": "sysomos",
+  "label": "Sysomos",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical branding and capabilities may differ by module.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

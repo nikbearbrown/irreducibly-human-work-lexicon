@@ -1,0 +1,20 @@
+{
+  "batch": "skill-048.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Windows 8 is a Microsoft desktop operating system that introduced a touch-oriented Start screen alongside the desktop.",
+  "entry_text": "Windows 8 is a Microsoft desktop operating system that introduced a touch-oriented Start screen alongside the desktop.",
+  "entry_text_kind": "definition",
+  "example": "A support specialist helps a user switch between the Start screen and a desktop program.",
+  "id": "uh144fpdpv",
+  "key": "windows-8",
+  "label": "Windows 8",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

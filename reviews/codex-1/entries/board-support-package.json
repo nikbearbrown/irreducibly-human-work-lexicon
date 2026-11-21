@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A board support package contains the code and configuration needed to run an operating system on a particular hardware board.",
+  "entry_text": "A board support package contains the code and configuration needed to run an operating system on a particular hardware board.",
+  "entry_text_kind": "definition",
+  "example": "An embedded developer uses the package to initialize a board’s supported peripherals at boot.",
+  "id": "ljshci25ww",
+  "key": "board-support-package",
+  "label": "Board support package",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

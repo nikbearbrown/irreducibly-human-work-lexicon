@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Building representations of underground geology from observations, interpretations, and geological constraints.",
+  "entry_text": "Building representations of underground geology from observations, interpretations, and geological constraints.",
+  "entry_text_kind": "definition",
+  "example": "A geologist combines borehole and survey information to model the depth of a rock layer.",
+  "id": "ft7fc37o2d",
+  "key": "geologic-modelling",
+  "label": "Geologic modelling",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

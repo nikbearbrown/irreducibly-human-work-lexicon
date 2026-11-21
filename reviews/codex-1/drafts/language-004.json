@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ciqcmsfd1o",
+    "definition": "A human language used in speech and writing.",
+    "example": "An editor checks Hungarian labels for a ticketing kiosk.",
+    "sense_note": null
+  },
+  {
+    "id": "vypg5ki3gp",
+    "definition": "A human language used in spoken communication and documentation.",
+    "example": "A researcher transcribes a Hup oral narrative.",
+    "sense_note": null
+  },
+  {
+    "id": "b30v30rgue",
+    "definition": "A human language used in oral and written communication.",
+    "example": "A reviewer proofreads an Igbo health leaflet.",
+    "sense_note": null
+  },
+  {
+    "id": "iryd1t5hx3",
+    "definition": "A standardized human language used in conversation and writing.",
+    "example": "A translator prepares Indonesian game dialogue.",
+    "sense_note": null
+  },
+  {
+    "id": "y8idko4c9n",
+    "definition": "A human language used for spoken and written communication.",
+    "example": "An editor revises Italian subtitles.",
+    "sense_note": null
+  },
+  {
+    "id": "xkyic5vgkn",
+    "definition": "A Microsoft language and toolchain for compiling Java-like source for .NET.",
+    "example": "A maintainer reads a legacy J# desktop application.",
+    "sense_note": null
+  },
+  {
+    "id": "xzbzidj6js",
+    "definition": "A human language normally written with a mix of kanji and kana.",
+    "example": "A translator checks the register of Japanese game dialogue.",
+    "sense_note": null
+  },
+  {
+    "id": "ls6hrpynv0",
+    "definition": "A statically typed language commonly compiled to bytecode for the Java virtual machine.",
+    "example": "A developer writes a Java service that loads records from a file.",
+    "sense_note": null
+  },
+  {
+    "id": "h60l8olauw",
+    "definition": "An ECMAScript-based programming language used in browsers and other runtimes.",
+    "example": "A web developer responds to a button click by updating a count.",
+    "sense_note": null
+  },
+  {
+    "id": "hxl6oldmhj",
+    "definition": "A query language for selecting persistent objects through Java Data Objects.",
+    "example": "A program retrieves only orders whose totals exceed a given threshold.",
+    "sense_note": null
+  },
+  {
+    "id": "wzkjcw38s8",
+    "definition": "A Java-based hardware description system for modeling digital circuits.",
+    "example": "An engineer models connections between logic elements for simulation.",
+    "sense_note": null
+  },
+  {
+    "id": "pjem268xhe",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm whether this denotes the language also called Jibu or another label."
+  },
+  {
+    "id": "svqokai4ji",
+    "definition": "A Microsoft ECMAScript-derived language targeting the .NET runtime.",
+    "example": "A maintainer inspects typed declarations in a legacy .NET script.",
+    "sense_note": null
+  },
+  {
+    "id": "xg6thfg29w",
+    "definition": "Microsoft's implementation of ECMAScript for legacy scripting environments.",
+    "example": "A maintainer reads a JScript routine that handled a webpage event.",
+    "sense_note": null
+  },
+  {
+    "id": "t5qatususg",
+    "definition": "A dynamic programming language with multiple dispatch and emphasis on numerical computing.",
+    "example": "A researcher defines a method specialized for matrix inputs.",
+    "sense_note": null
+  },
+  {
+    "id": "dy0cjdom8i",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm whether the label denotes Jinghpaw specifically or a broader language grouping."
+  },
+  {
+    "id": "c32hcf7j71",
+    "definition": "An umbrella label for related language varieties.",
+    "example": "A localization team identifies which Kalenjin variety its audience uses.",
+    "sense_note": "Do not infer one standardized form from the umbrella label."
+  },
+  {
+    "id": "u9xvb4f062",
+    "definition": "A human language written using the Kannada script.",
+    "example": "An editor checks a Kannada education handout.",
+    "sense_note": null
+  },
+  {
+    "id": "p1wfqcq8a8",
+    "definition": "A human language used in spoken and written communication.",
+    "example": "A translator checks the expected script for a Kazakh edition.",
+    "sense_note": null
+  },
+  {
+    "id": "oezvmtjgl6",
+    "definition": "An XML-based format for describing geographic features and their presentation.",
+    "example": "A map maker encodes points and paths for a map viewer.",
+    "sense_note": null
+  },
+  {
+    "id": "eili48vgqq",
+    "definition": "A human language written with the Khmer script.",
+    "example": "An editor reviews Khmer signs for a museum exhibit.",
+    "sense_note": null
+  },
+  {
+    "id": "tt4tv9smzy",
+    "definition": "A human language used for communication in speech and writing.",
+    "example": "A radio producer prepares a Kinyarwanda announcement.",
+    "sense_note": null
+  },
+  {
+    "id": "rfn2ahijci",
+    "definition": "A human language used for spoken and written communication.",
+    "example": "A translator revises a Kirundi clinic leaflet.",
+    "sense_note": null
+  },
+  {
+    "id": "hs38odazxz",
+    "definition": "A human language used in oral and written communication.",
+    "example": "A language educator records a Kokborok conversation exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "k2e2feirg4",
+    "definition": "A human language commonly written in Hangul.",
+    "example": "A translator checks Korean in-app prompts for register.",
+    "sense_note": null
+  },
+  {
+    "id": "d458icsqdz",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm the language identifier and intended distinction from similar labels."
+  },
+  {
+    "id": "a9vdp0px7b",
+    "definition": "A statically typed programming language with null-safety features and Java interoperability on the JVM.",
+    "example": "A developer handles a nullable response field in an Android app.",
+    "sense_note": null
+  },
+  {
+    "id": "cionmp7u62",
+    "definition": "A broad label for multiple related language varieties used in speech and writing.",
+    "example": "A broadcaster specifies Kurmanji or Sorani for separate recordings.",
+    "sense_note": "Specify variety and writing convention."
+  },
+  {
+    "id": "tdxy4vo005",
+    "definition": "A human language used in spoken and written communication.",
+    "example": "An archivist annotates a Kurukh oral history.",
+    "sense_note": null
+  },
+  {
+    "id": "pxs2n3nuzb",
+    "definition": "A human language used for communication in speech and writing.",
+    "example": "A translator checks a Kyrgyz community bulletin.",
+    "sense_note": null
+  },
+  {
+    "id": "j0bdoceeet",
+    "definition": "A graphical programming notation for programmable logic controllers that represents conditions and outputs as rungs.",
+    "example": "A technician models a conveyor start condition using contacts and a coil.",
+    "sense_note": null
+  },
+  {
+    "id": "d848216rx6",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm that Ladino means the Judeo-Spanish language rather than another sense."
+  },
+  {
+    "id": "lkx73u6d8t",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm the target language identifier; Lango can refer to different languages."
+  },
+  {
+    "id": "jgx1oq2stu",
+    "definition": "A human language commonly written in the Lao script.",
+    "example": "A translator checks a Lao wayfinding sign.",
+    "sense_note": null
+  },
+  {
+    "id": "p3jpn4fdtu",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm the intended language or variety instead of merging similarly labeled entries."
+  },
+  {
+    "id": "mdcx7ximpo",
+    "definition": "A stylesheet preprocessor language that adds constructs such as variables and mixins before compiling to CSS.",
+    "example": "A developer shares a color variable across several stylesheet rules.",
+    "sense_note": "Assumes the Less stylesheet language."
+  },
+  {
+    "id": "b2291n6joq",
+    "definition": "A human language used in speech and writing.",
+    "example": "An interpreter explains appointment instructions in Lingala.",
+    "sense_note": null
+  },
+  {
+    "id": "zc8shpqdop",
+    "definition": "A scripting language used to control interactive media in Adobe Director.",
+    "example": "A maintainer inspects a Lingo handler triggered by a mouse click.",
+    "sense_note": "Assumes the Adobe Director language."
+  },
+  {
+    "id": "gon731b20n",
+    "definition": "A template language that renders text by applying variables, filters, and tags to supplied data.",
+    "example": "A storefront loops over products to render a listing.",
+    "sense_note": null
+  },
+  {
+    "id": "zb709ig3an",
+    "definition": "A family of programming languages known for representing code and data with list-like forms.",
+    "example": "A developer constructs a macro that rewrites an expression before evaluation.",
+    "sense_note": "Identify a dialect for implementation-specific claims."
+  }
+]

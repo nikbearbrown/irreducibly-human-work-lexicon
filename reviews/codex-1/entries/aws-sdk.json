@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An AWS Software Development Kit exposes programming interfaces for calling AWS services from application code.",
+  "entry_text": "An AWS Software Development Kit exposes programming interfaces for calling AWS services from application code.",
+  "entry_text_kind": "definition",
+  "example": "A developer uploads a file to object storage through the SDK for the application’s language.",
+  "id": "lem0uww05d",
+  "key": "aws-sdk",
+  "label": "AWS SDK",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

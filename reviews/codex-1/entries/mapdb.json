@@ -1,0 +1,28 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "MapDB is a Java library for collections that can store data on disk or in memory.",
+  "entry_text": "MapDB is a Java library for collections that can store data on disk or in memory.",
+  "entry_text_kind": "definition",
+  "example": "A Java application keeps a large key-value index on disk using a persistent map.",
+  "id": "fjun60qhx2",
+  "key": "mapdb",
+  "label": "MapDB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "fjun60qhx2",
+      "note": "The project identifies MapDB as both an embedded Java database engine and a collections library with off-heap and on-disk storage.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://mapdb.org/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

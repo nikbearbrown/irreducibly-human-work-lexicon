@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "AWS Elastic Beanstalk deploys applications while managing much of the supporting AWS infrastructure.",
+  "entry_text": "AWS Elastic Beanstalk deploys applications while managing much of the supporting AWS infrastructure.",
+  "entry_text_kind": "definition",
+  "example": "A team uploads a web application and lets the platform manage its deployment environment.",
+  "id": "e7v9azv69k",
+  "key": "aws-elastic-beanstalk",
+  "label": "AWS Elastic Beanstalk",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

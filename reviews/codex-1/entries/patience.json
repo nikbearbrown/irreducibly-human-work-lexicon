@@ -1,0 +1,28 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Patience is the capacity to tolerate delay, repetition, or frustration while continuing to act deliberately.",
+  "entry_text": "Patience is the capacity to tolerate delay, repetition, or frustration while continuing to act deliberately.",
+  "entry_text_kind": "definition",
+  "example": "A mentor lets a learner work through several attempts before offering another hint.",
+  "id": "rrzqh6zhic",
+  "key": "patience",
+  "label": "Patience",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "rrzqh6zhic",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Schnitker’s construct centers on calm waiting despite frustration; the mentor example illustrates that rather than merely delaying.",
+      "packet": "worker-stratified.json",
+      "ref": "https://doi.org/10.1080/17439760.2012.697185",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Time Protocol is a simple network protocol that returns a binary count of seconds since the beginning of 1900 for time retrieval.",
+  "entry_text": "The Time Protocol is a simple network protocol that returns a binary count of seconds since the beginning of 1900 for time retrieval.",
+  "entry_text_kind": "definition",
+  "example": "A network historian identifies the Time Protocol in an archived system and distinguishes it from NTP.",
+  "id": "ufo7ksvhuf",
+  "key": "time-protocol",
+  "label": "Time Protocol",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as the specific RFC 868 protocol, not network time protocols in general.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,31 @@
+{
+  "batch": "language-008.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Wagdi (ISO 639-3: wbr) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Wagdi",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "wagd1238",
+    "iso639_3": "wbr",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/wagd1238"
+  },
+  "definition": "A human language used in spoken communication and language documentation.",
+  "entry_text": "A human language used in spoken communication and language documentation.",
+  "entry_text_kind": "definition",
+  "example": "A researcher transcribes a Wagdi oral account.",
+  "id": "wnkvy1dp2p",
+  "key": "wagdi",
+  "label": "Wagdi",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,1166 @@
+{
+  "ambiguous_or_nonlanguage": {
+    "c32hcf7j71": [
+      {
+        "code": "kale1246",
+        "level": "family",
+        "name": "Kalenjin"
+      }
+    ],
+    "c6s0kc7cs8": [
+      {
+        "code": "arab1395",
+        "level": "family",
+        "name": "Arabic"
+      }
+    ],
+    "cionmp7u62": [
+      {
+        "code": "kurd1259",
+        "level": "family",
+        "name": "Kurdish"
+      }
+    ],
+    "eon43rmtrr": [
+      {
+        "code": "gree1276",
+        "level": "family",
+        "name": "Greek"
+      }
+    ],
+    "p3jpn4fdtu": [
+      {
+        "code": "lawa1256",
+        "level": "family",
+        "name": "Lawa"
+      }
+    ],
+    "p7j275wpwg": [
+      {
+        "code": "alba1267",
+        "level": "family",
+        "name": "Albanian"
+      }
+    ],
+    "pak2r3gski": [
+      {
+        "code": "dink1262",
+        "level": "family",
+        "name": "Dinka"
+      }
+    ],
+    "qgyuathae3": [
+      {
+        "code": "pash1269",
+        "level": "family",
+        "name": "Pashto"
+      }
+    ],
+    "rec5tl6jmm": [
+      {
+        "code": "mong1331",
+        "level": "family",
+        "name": "Mongolian"
+      }
+    ],
+    "rxfjfx408i": [
+      {
+        "code": "uzbe1247",
+        "level": "family",
+        "name": "Uzbek"
+      }
+    ],
+    "satap7pcf3": [
+      {
+        "code": "havy1234",
+        "level": "dialect",
+        "name": "Havyaka Kannada"
+      }
+    ],
+    "uj60c4yrr3": [
+      {
+        "code": "fris1239",
+        "level": "family",
+        "name": "Frisian"
+      }
+    ],
+    "vks1qiiz57": [
+      {
+        "code": "ainu1252",
+        "level": "family",
+        "name": "Ainu"
+      }
+    ],
+    "wyc8jqdxhm": [
+      {
+        "code": "berb1260",
+        "level": "family",
+        "name": "Berber"
+      }
+    ],
+    "z199mo1bdd": [
+      {
+        "code": "fula1264",
+        "level": "family",
+        "name": "Fula"
+      }
+    ]
+  },
+  "author": "Harald Hammarström, Robert Forkel, Martin Haspelmath, and Sebastian Bank (2026)",
+  "license": "CC BY 4.0",
+  "matches": {
+    "ahff7lh1ul": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Swahili",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "swah1253",
+      "iso639_3": "swh",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/swah1253"
+    },
+    "ar6o7kobv7": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Dari",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "dari1249",
+      "iso639_3": "prs",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/dari1249"
+    },
+    "b0xfrvtumm": {
+      "catalog_family": "Tai-Kadai",
+      "catalog_name": "Thai",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "thai1261",
+      "iso639_3": "tha",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/thai1261"
+    },
+    "b30v30rgue": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Igbo",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "nucl1417",
+      "iso639_3": "ibo",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/nucl1417"
+    },
+    "b53t6y9iys": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Catalan",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "stan1289",
+      "iso639_3": "cat",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/stan1289"
+    },
+    "bak08047ud": {
+      "catalog_family": "Austroasiatic",
+      "catalog_name": "Santali",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sant1410",
+      "iso639_3": "sat",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sant1410"
+    },
+    "bnonpsk48o": {
+      "catalog_family": "Turkic",
+      "catalog_name": "Turkmen",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "turk1304",
+      "iso639_3": "tuk",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/turk1304"
+    },
+    "bzhvu8qe7g": {
+      "catalog_family": "Kru",
+      "catalog_name": "Bassa",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "nucl1418",
+      "iso639_3": "bsq",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/nucl1418"
+    },
+    "c2b26cho4f": {
+      "catalog_family": "Uto-Aztecan",
+      "catalog_name": "Hopi",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "hopi1249",
+      "iso639_3": "hop",
+      "macroarea": "North America",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/hopi1249"
+    },
+    "c33qxaphm7": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Russian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "russ1263",
+      "iso639_3": "rus",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/russ1263"
+    },
+    "c34c0nwfxj": {
+      "catalog_family": "Sino-Tibetan",
+      "catalog_name": "Galo",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "galo1242",
+      "iso639_3": "adl",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/galo1242"
+    },
+    "ciqcmsfd1o": {
+      "catalog_family": "Uralic",
+      "catalog_name": "Hungarian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "hung1274",
+      "iso639_3": "hun",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/hung1274"
+    },
+    "d0ken0jrsa": {
+      "catalog_family": "Afro-Asiatic",
+      "catalog_name": "Tigrinya",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "tigr1271",
+      "iso639_3": "tir",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/tigr1271"
+    },
+    "d458icsqdz": {
+      "catalog_family": "Austroasiatic",
+      "catalog_name": "Korwa",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "korw1242",
+      "iso639_3": "kfp",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/korw1242"
+    },
+    "d848216rx6": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Ladino",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "ladi1251",
+      "iso639_3": "lad",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/ladi1251"
+    },
+    "de1c4bnci7": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Akan",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "akan1250",
+      "iso639_3": "aka",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/akan1250"
+    },
+    "de8aeltv9z": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Spanish",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "stan1288",
+      "iso639_3": "spa",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/stan1288"
+    },
+    "dn5iveu53x": {
+      "catalog_family": "Austronesian",
+      "catalog_name": "Filipino",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "fili1244",
+      "iso639_3": "fil",
+      "macroarea": "Papunesia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/fili1244"
+    },
+    "dupsfn56g9": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Sango",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sang1328",
+      "iso639_3": "sag",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sang1328"
+    },
+    "e6d3w0bi1i": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Portuguese",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "port1283",
+      "iso639_3": "por",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/port1283"
+    },
+    "ec0588lyxr": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Slovak",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "slov1269",
+      "iso639_3": "slk",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/slov1269"
+    },
+    "eembc96hrl": {
+      "catalog_family": "Afro-Asiatic",
+      "catalog_name": "Amharic",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "amha1245",
+      "iso639_3": "amh",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/amha1245"
+    },
+    "efqdzpzw1v": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Saraiki",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sera1259",
+      "iso639_3": "skr",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sera1259"
+    },
+    "ejc1plwt0s": {
+      "catalog_family": "Austronesian",
+      "catalog_name": "Samoan",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "samo1305",
+      "iso639_3": "smo",
+      "macroarea": "Papunesia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/samo1305"
+    },
+    "ez2j813g66": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Norwegian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "norw1258",
+      "iso639_3": "nor",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/norw1258"
+    },
+    "fn33kjvbkv": {
+      "catalog_family": "Austroasiatic",
+      "catalog_name": "Vietnamese",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "viet1252",
+      "iso639_3": "vie",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/viet1252"
+    },
+    "fu6nbpzwxr": {
+      "catalog_family": "Sino-Tibetan",
+      "catalog_name": "Mizo",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "lush1249",
+      "iso639_3": "lus",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/lush1249"
+    },
+    "gk2xuq5g9g": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Walloon",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "wall1255",
+      "iso639_3": "wln",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/wall1255"
+    },
+    "goiz44dwnb": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Romanian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "roma1327",
+      "iso639_3": "ron",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/roma1327"
+    },
+    "hfschl129h": {
+      "catalog_family": "Dravidian",
+      "catalog_name": "Tulu",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "tulu1258",
+      "iso639_3": "tcy",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/tulu1258"
+    },
+    "hhvk7sb8r1": {
+      "catalog_family": "Turkic",
+      "catalog_name": "Turkish",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "nucl1301",
+      "iso639_3": "tur",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/nucl1301"
+    },
+    "hs6rwa4dqv": {
+      "catalog_family": "Turkic",
+      "catalog_name": "Sakha",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "yaku1245",
+      "iso639_3": "sah",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/yaku1245"
+    },
+    "hte4e69ldf": {
+      "catalog_family": "Afro-Asiatic",
+      "catalog_name": "Maltese",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "malt1254",
+      "iso639_3": "mlt",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/malt1254"
+    },
+    "hth5eczuzx": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Gujarati",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "guja1252",
+      "iso639_3": "guj",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/guja1252"
+    },
+    "jeai1j8uhz": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "French",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "stan1290",
+      "iso639_3": "fra",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/stan1290"
+    },
+    "jgx1oq2stu": {
+      "catalog_family": "Tai-Kadai",
+      "catalog_name": "Lao",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "laoo1244",
+      "iso639_3": "lao",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/laoo1244"
+    },
+    "jozc69fgpa": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Czech",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "czec1258",
+      "iso639_3": "ces",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/czec1258"
+    },
+    "k2e2feirg4": {
+      "catalog_family": "Koreanic",
+      "catalog_name": "Korean",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "kore1280",
+      "iso639_3": "kor",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/kore1280"
+    },
+    "k87r3b7xk8": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Bengali",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "beng1280",
+      "iso639_3": "ben",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/beng1280"
+    },
+    "koxe79qvy3": {
+      "catalog_family": "Dravidian",
+      "catalog_name": "Malayalam",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "mala1464",
+      "iso639_3": "mal",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/mala1464"
+    },
+    "kv7ufmoq1h": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Bislama",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "bisl1239",
+      "iso639_3": "bis",
+      "macroarea": "Papunesia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/bisl1239"
+    },
+    "kxge7c4n0p": {
+      "catalog_family": null,
+      "catalog_name": "Sumerian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sume1241",
+      "iso639_3": "sux",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sume1241"
+    },
+    "l2yggbg9hw": {
+      "catalog_family": "Sign Language",
+      "catalog_name": "American Sign Language",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "amer1248",
+      "iso639_3": "ase",
+      "macroarea": "Africa;North America",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/amer1248"
+    },
+    "l6le846miv": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Duala",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "dual1243",
+      "iso639_3": "dua",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/dual1243"
+    },
+    "lcec6ryumx": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Tajik",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "taji1245",
+      "iso639_3": "tgk",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/taji1245"
+    },
+    "lr6v3jj0ke": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Swedish",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "swed1254",
+      "iso639_3": "swe",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/swed1254"
+    },
+    "m8tdyuqv91": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Sogdian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sogd1245",
+      "iso639_3": "sog",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sogd1245"
+    },
+    "mhqs5zfa2v": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Swati",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "swat1243",
+      "iso639_3": "ssw",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/swat1243"
+    },
+    "moolbswjw7": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Shona",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "shon1251",
+      "iso639_3": "sna",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/shon1251"
+    },
+    "mrfo4d84xg": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Chakma",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "chak1266",
+      "iso639_3": "ccp",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/chak1266"
+    },
+    "ms42m7io2w": {
+      "catalog_family": "Austronesian",
+      "catalog_name": "Cebuano",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "cebu1242",
+      "iso639_3": "ceb",
+      "macroarea": "Papunesia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/cebu1242"
+    },
+    "msc664vu47": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Nepali",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "nepa1254",
+      "iso639_3": "npi",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/nepa1254"
+    },
+    "n5gmv1hla7": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Tswana",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "tswa1253",
+      "iso639_3": "tsn",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/tswa1253"
+    },
+    "nc4fkjb896": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Yoruba",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "yoru1245",
+      "iso639_3": "yor",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/yoru1245"
+    },
+    "ne1htbc2ex": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Maithili",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "mait1250",
+      "iso639_3": "mai",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/mait1250"
+    },
+    "nprk9hwd27": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Assamese",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "assa1263",
+      "iso639_3": "asm",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/assa1263"
+    },
+    "nsuvujp7pw": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Sindhi",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sind1272",
+      "iso639_3": "snd",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sind1272"
+    },
+    "o7rmvt0viw": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Marathi",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "mara1378",
+      "iso639_3": "mar",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/mara1378"
+    },
+    "ol3tcjafkq": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Dutch",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "dutc1256",
+      "iso639_3": "nld",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/dutc1256"
+    },
+    "os4bq6o3n0": {
+      "catalog_family": "Arawakan",
+      "catalog_name": "Garifuna",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "gari1256",
+      "iso639_3": "cab",
+      "macroarea": "North America",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/gari1256"
+    },
+    "p1wfqcq8a8": {
+      "catalog_family": "Turkic",
+      "catalog_name": "Kazakh",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "kaza1248",
+      "iso639_3": "kaz",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/kaza1248"
+    },
+    "pjem268xhe": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Jiba",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "jiba1237",
+      "iso639_3": "juo",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/jiba1237"
+    },
+    "q0vx2lgkj8": {
+      "catalog_family": "Afro-Asiatic",
+      "catalog_name": "Fali",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "fali1285",
+      "iso639_3": "fli",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/fali1285"
+    },
+    "q98sd6zk57": {
+      "catalog_family": "Uralic",
+      "catalog_name": "Finnish",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "finn1318",
+      "iso639_3": "fin",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/finn1318"
+    },
+    "r5qkbzvx25": {
+      "catalog_family": "Austronesian",
+      "catalog_name": "Chamorro",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "cham1312",
+      "iso639_3": "cha",
+      "macroarea": "Papunesia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/cham1312"
+    },
+    "rawbtq2err": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Urdu",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "urdu1245",
+      "iso639_3": "urd",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/urdu1245"
+    },
+    "rifkoqyo50": {
+      "catalog_family": "Dravidian",
+      "catalog_name": "Telugu",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "telu1262",
+      "iso639_3": "tel",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/telu1262"
+    },
+    "s7rg5fey2w": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Dhivehi",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "dhiv1236",
+      "iso639_3": "div",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/dhiv1236"
+    },
+    "saanweu4mx": {
+      "catalog_family": "Austronesian",
+      "catalog_name": "Hawaiian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "hawa1245",
+      "iso639_3": "haw",
+      "macroarea": "Papunesia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/hawa1245"
+    },
+    "sixeo41sa3": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Ukrainian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "ukra1253",
+      "iso639_3": "ukr",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/ukra1253"
+    },
+    "tdxy4vo005": {
+      "catalog_family": "Dravidian",
+      "catalog_name": "Kurukh",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "kuru1301",
+      "iso639_3": "kru",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/kuru1301"
+    },
+    "tsdlbd9gt0": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "English",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "stan1293",
+      "iso639_3": "eng",
+      "macroarea": "Africa;Eurasia;South America",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/stan1293"
+    },
+    "tt4tv9smzy": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Kinyarwanda",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "kiny1244",
+      "iso639_3": "kin",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/kiny1244"
+    },
+    "u1r1jfnmnz": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Silesian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sile1253",
+      "iso639_3": "szl",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sile1253"
+    },
+    "u42in8da9c": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Hindi",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "hind1269",
+      "iso639_3": "hin",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/hind1269"
+    },
+    "u9xvb4f062": {
+      "catalog_family": "Dravidian",
+      "catalog_name": "Kannada",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "nucl1305",
+      "iso639_3": "kan",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/nucl1305"
+    },
+    "un0apigqro": {
+      "catalog_family": "Turkic",
+      "catalog_name": "Tatar",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "tata1255",
+      "iso639_3": "tat",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/tata1255"
+    },
+    "uybjs4bc0k": {
+      "catalog_family": "Sino-Tibetan",
+      "catalog_name": "Tibetan",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "tibe1272",
+      "iso639_3": "bod",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/tibe1272"
+    },
+    "v5s8v3c7qh": {
+      "catalog_family": "Afro-Asiatic",
+      "catalog_name": "Hausa",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "haus1257",
+      "iso639_3": "hau",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/haus1257"
+    },
+    "vfbvb6cbta": {
+      "catalog_family": "Afro-Asiatic",
+      "catalog_name": "Somali",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "soma1255",
+      "iso639_3": "som",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/soma1255"
+    },
+    "vicv7ha84e": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Polish",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "poli1260",
+      "iso639_3": "pol",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/poli1260"
+    },
+    "vptguf1rtv": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Macedonian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "mace1250",
+      "iso639_3": "mkd",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/mace1250"
+    },
+    "vypg5ki3gp": {
+      "catalog_family": "Naduhup",
+      "catalog_name": "Hup",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "hupd1244",
+      "iso639_3": "jup",
+      "macroarea": "South America",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/hupd1244"
+    },
+    "w8wmeqph17": {
+      "catalog_family": "Sino-Tibetan",
+      "catalog_name": "Manipuri",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "mani1292",
+      "iso639_3": "mni",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/mani1292"
+    },
+    "w9vogijhb2": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Xhosa",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "xhos1239",
+      "iso639_3": "xho",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/xhos1239"
+    },
+    "wcgrarya9l": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Sinhala",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sinh1246",
+      "iso639_3": "sin",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sinh1246"
+    },
+    "wfw1x8wd7f": {
+      "catalog_family": "Tai-Kadai",
+      "catalog_name": "Shan",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "shan1277",
+      "iso639_3": "shn",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/shan1277"
+    },
+    "wmeomhwzf1": {
+      "catalog_family": "Austronesian",
+      "catalog_name": "Sundanese",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "sund1252",
+      "iso639_3": "sun",
+      "macroarea": "Papunesia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/sund1252"
+    },
+    "wnkvy1dp2p": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Wagdi",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "wagd1238",
+      "iso639_3": "wbr",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/wagd1238"
+    },
+    "wozti9mkk0": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Zulu",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "zulu1248",
+      "iso639_3": "zul",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/zulu1248"
+    },
+    "wrombjtyy8": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Afrikaans",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "afri1274",
+      "iso639_3": "afr",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/afri1274"
+    },
+    "ww6z5fppct": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "German",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "stan1295",
+      "iso639_3": "deu",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/stan1295"
+    },
+    "wxuml71bfu": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Ewondo",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "ewon1239",
+      "iso639_3": "ewo",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/ewon1239"
+    },
+    "x09au1cwqd": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Danish",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "dani1285",
+      "iso639_3": "dan",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/dani1285"
+    },
+    "x2oth8jb5y": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Odia",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "oriy1255",
+      "iso639_3": "ory",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/oriy1255"
+    },
+    "xbe5epb1r9": {
+      "catalog_family": "Austronesian",
+      "catalog_name": "Batak",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "bata1301",
+      "iso639_3": "bya",
+      "macroarea": "Papunesia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/bata1301"
+    },
+    "xlftnwk7c1": {
+      "catalog_family": "Afro-Asiatic",
+      "catalog_name": "Phoenician",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "phoe1239",
+      "iso639_3": "phn",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/phoe1239"
+    },
+    "xny3fc9cpc": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Manx",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "manx1243",
+      "iso639_3": "glv",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/manx1243"
+    },
+    "xzacqgvx93": {
+      "catalog_family": "Sino-Tibetan",
+      "catalog_name": "Burmese",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "nucl1310",
+      "iso639_3": "mya",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/nucl1310"
+    },
+    "xzbzidj6js": {
+      "catalog_family": "Japonic",
+      "catalog_name": "Japanese",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "nucl1643",
+      "iso639_3": "jpn",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/nucl1643"
+    },
+    "y21520l3cr": {
+      "catalog_family": "Dravidian",
+      "catalog_name": "Tamil",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "tami1289",
+      "iso639_3": "tam",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/tami1289"
+    },
+    "y8idko4c9n": {
+      "catalog_family": "Indo-European",
+      "catalog_name": "Italian",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "ital1282",
+      "iso639_3": "ita",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/ital1282"
+    },
+    "ynw7yrzobc": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Benga",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "beng1282",
+      "iso639_3": "bng",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/beng1282"
+    },
+    "zkm3kvmgrn": {
+      "catalog_family": "Atlantic-Congo",
+      "catalog_name": "Haya",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "haya1250",
+      "iso639_3": "hay",
+      "macroarea": "Africa",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/haya1250"
+    },
+    "zx3or51hr1": {
+      "catalog_family": "Sino-Tibetan",
+      "catalog_name": "Dzongkha",
+      "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+      "glottocode": "dzon1239",
+      "iso639_3": "dzo",
+      "macroarea": "Eurasia",
+      "match": "unique-exact-label-type",
+      "ref": "https://glottolog.org/resource/languoid/id/dzon1239"
+    }
+  },
+  "sha256": "1a50a393bc81568b656f9522be18aa4f80f38e94309ba6c863d583234adfbb89",
+  "source": "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3",
+  "version": "5.3"
+}

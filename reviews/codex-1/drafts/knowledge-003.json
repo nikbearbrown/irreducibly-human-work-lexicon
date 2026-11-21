@@ -1,0 +1,242 @@
+[
+  {
+    "id": "n760j93js9",
+    "definition": "A circular economy aims to reduce waste and demand for new resources by keeping products, components, and materials in use through design, reuse, repair, remanufacturing, or recycling.",
+    "example": "An appliance company replaces worn components in returned machines and sells the refurbished units instead of scrapping them.",
+    "sense_note": null
+  },
+  {
+    "id": "dhc19wwc9q",
+    "definition": "The circulatory system is the heart, blood, and blood vessels working together to distribute oxygen and nutrients and carry wastes away from tissues.",
+    "example": "Blood travels from the heart to the lungs to take up oxygen before returning to be pumped through the body.",
+    "sense_note": null
+  },
+  {
+    "id": "d7q5p3nh9m",
+    "definition": "A client access license grants a specified user or device the right to access licensed server software under a vendor's terms.",
+    "example": "An organization compares per-user and per-device licenses for staff who share workstations.",
+    "sense_note": null
+  },
+  {
+    "id": "cbcufd4kbq",
+    "definition": "Climate variability and change concern fluctuations around expected climate conditions and persistent shifts in their distributions over longer periods, respectively.",
+    "example": "A climatologist distinguishes a cluster of unusually dry years from a multidecade shift in rainfall.",
+    "sense_note": null
+  },
+  {
+    "id": "tc5ngv6fmu",
+    "definition": "Clinical informatics applies information science and computing to improve clinical workflows, patient care, and the use of health data.",
+    "example": "A clinical informatics team redesigns medication alerts so high-priority safety warnings reach the prescribing clinician.",
+    "sense_note": null
+  },
+  {
+    "id": "ao1t61ccgp",
+    "definition": "Clinical medical ethics applies ethical principles to decisions and relationships arising in patient care.",
+    "example": "An ethics consultant helps a care team assess how to honor an incapacitated patient's previously expressed wishes.",
+    "sense_note": null
+  },
+  {
+    "id": "n98y0v2qy7",
+    "definition": "Clinical pastoral education trains spiritual care providers through supervised practice, reflection, and feedback in clinical or other care settings.",
+    "example": "A chaplain trainee reviews a conversation with a patient alongside a supervisor to understand what support the patient wanted.",
+    "sense_note": null
+  },
+  {
+    "id": "lsxf83lrq4",
+    "definition": "Cloud computing security protects data, applications, identities, and infrastructure in cloud environments according to the responsibilities of providers and customers.",
+    "example": "An organization restricts access to a cloud storage bucket and audits which identities may read its records.",
+    "sense_note": null
+  },
+  {
+    "id": "lpsnz8mgp5",
+    "definition": "Cloud computing delivers on-demand computing resources over a network from a shared pool that can be provisioned and released as needed.",
+    "example": "A research group rents temporary computing capacity for a data analysis instead of buying a server.",
+    "sense_note": null
+  },
+  {
+    "id": "ag7qptfyr6",
+    "definition": "Coastal engineering studies and designs interventions for waves, currents, sediment transport, erosion, and flooding along shores.",
+    "example": "An engineer models how a proposed breakwater might change beach erosion and harbor wave conditions.",
+    "sense_note": null
+  },
+  {
+    "id": "s3b1vsg6g5",
+    "definition": "Cognitive computing is a broad label for computer systems designed to support or approximate human capabilities such as interpreting language, recognizing patterns, and reasoning from evidence.",
+    "example": "A system highlights relevant passages from documents for a reviewer answering a question.",
+    "sense_note": "The label is used inconsistently and does not imply consciousness or a single technical architecture."
+  },
+  {
+    "id": "pe7jh92y5e",
+    "definition": "Cognitive load is the mental effort a task places on limited working-memory resources.",
+    "example": "A teacher puts diagram labels next to the parts they name so students do not have to remember a separate key.",
+    "sense_note": null
+  },
+  {
+    "id": "s3bllcrvqd",
+    "definition": "The color rendering index rates how faithfully a light source renders specified sample colors relative to a reference illuminant under a standardized method.",
+    "example": "A museum compares lamp CRI ratings before testing how textiles actually look under each light.",
+    "sense_note": null
+  },
+  {
+    "id": "a7nv41b5e4",
+    "definition": "Commercial off-the-shelf products are commercially available in standard form and used without being developed specifically for a particular buyer.",
+    "example": "A lab purchases an existing meter from a vendor's catalog rather than commissioning a custom instrument.",
+    "sense_note": null
+  },
+  {
+    "id": "drhdme1yln",
+    "definition": "Commons-based peer production is distributed collaboration in which participants contribute to a shared resource under rules that permit collective use or improvement.",
+    "example": "Volunteers maintain an openly licensed encyclopedia by writing, reviewing, and revising one another's entries.",
+    "sense_note": null
+  },
+  {
+    "id": "i96jrqh2vb",
+    "definition": "Communication theories explain how people or systems create, transmit, interpret, and respond to messages in different contexts.",
+    "example": "A researcher applies framing theory to examine how two headlines lead readers to interpret the same event differently.",
+    "sense_note": null
+  },
+  {
+    "id": "t80fs65far",
+    "definition": "Community nutrition addresses the food access, dietary patterns, and nutritional health of populations through assessment, education, and local interventions.",
+    "example": "A public health department uses neighborhood survey data to decide where to open a subsidized produce market.",
+    "sense_note": null
+  },
+  {
+    "id": "tjjqny4fk5",
+    "definition": "Community resilience is the capacity of a community to maintain essential functions, adapt, and recover when exposed to disturbances or sustained stress.",
+    "example": "A neighborhood organizes transportation and communications so residents can reach cooling centers during a power outage.",
+    "sense_note": null
+  },
+  {
+    "id": "ndjje4dqb6",
+    "definition": "Computer architecture concerns how processors, memory, input and output, and their interfaces are organized to execute programs.",
+    "example": "A designer weighs cache size and memory latency when comparing processor designs for a data-intensive workload.",
+    "sense_note": null
+  },
+  {
+    "id": "fnhev4v1dn",
+    "definition": "Computer networking concerns connecting devices and coordinating how they address, transmit, route, and receive data.",
+    "example": "A network engineer configures office devices to exchange data across two buildings through a routed connection.",
+    "sense_note": null
+  },
+  {
+    "id": "oxu0hc83pv",
+    "definition": "Computer science studies computation, including algorithms, data representation, programming languages, software, and the systems that execute them.",
+    "example": "A researcher compares algorithms for finding the shortest route through a large graph.",
+    "sense_note": null
+  },
+  {
+    "id": "tw2hqmerzk",
+    "definition": "A control loop measures a system's behavior and feeds the result back to a controller that adjusts an input toward a desired condition.",
+    "example": "A thermostat senses room temperature and turns heating on when the temperature falls below the set threshold.",
+    "sense_note": null
+  },
+  {
+    "id": "wtbeydaxk8",
+    "definition": "Control valves adjust fluid flow, and their flow characteristics describe how flow capacity changes with valve travel under specified conditions.",
+    "example": "An engineer compares linear and equal-percentage valve characteristics before selecting a valve for a varying demand range.",
+    "sense_note": null
+  },
+  {
+    "id": "jneeg255g4",
+    "definition": "Conversational AI comprises systems that use written or spoken dialogue to interpret input and generate responses or take actions.",
+    "example": "A service bot asks a caller for an appointment date and then confirms which available slot they want.",
+    "sense_note": null
+  },
+  {
+    "id": "hu5gpjlq33",
+    "definition": "Convolutional neural networks use learned filters with shared weights across local regions to process spatially or sequentially structured data.",
+    "example": "An image classifier learns filters that respond to edges in different parts of a photograph.",
+    "sense_note": null
+  },
+  {
+    "id": "m1z1sscsk1",
+    "definition": "Corporate finance concerns how firms invest, raise funds, manage financial risk, and allocate returns to owners.",
+    "example": "A company compares the expected cash flows of two expansion projects before deciding where to invest.",
+    "sense_note": null
+  },
+  {
+    "id": "oramfb6to9",
+    "definition": "Correspondent banking is an arrangement in which one bank provides services such as payments or account access to another bank.",
+    "example": "A smaller bank sends an international payment through a correspondent with access to the receiving currency's payment system.",
+    "sense_note": null
+  },
+  {
+    "id": "j3jkhkredm",
+    "definition": "Cosmetic dermatology addresses the appearance of skin and related structures using dermatologic evaluation and treatments.",
+    "example": "A dermatologist evaluates whether a patient's uneven skin pigmentation is a suitable concern for cosmetic treatment.",
+    "sense_note": null
+  },
+  {
+    "id": "vf02rn80se",
+    "definition": "Cost accounting identifies, assigns, and analyzes costs to understand the resources consumed by products, services, processes, or operations.",
+    "example": "A manufacturer estimates production cost per unit by combining materials, labor, and allocated factory overhead.",
+    "sense_note": null
+  },
+  {
+    "id": "uuq4bsfz4g",
+    "definition": "Counterparty risk is the possibility of loss if another party fails to perform its obligations under a financial transaction or contract.",
+    "example": "A bank reviews whether another institution could fail to make required payments under a currency swap.",
+    "sense_note": null
+  },
+  {
+    "id": "kuq1oz5bcv",
+    "definition": "Craniofacial surgery treats congenital, acquired, or traumatic conditions involving the skull and facial structures.",
+    "example": "A multidisciplinary team plans a staged reconstruction for a child with a congenital skull and facial difference.",
+    "sense_note": null
+  },
+  {
+    "id": "ilwjbw0ewo",
+    "definition": "Criminal intelligence is systematically collected and analyzed information used to understand suspected criminal activity and inform lawful prevention or investigation.",
+    "example": "Analysts look for patterns in reported incidents and document uncertainty before sharing an assessment with investigators.",
+    "sense_note": null
+  },
+  {
+    "id": "su3wyoeytb",
+    "definition": "Crop farming is the cultivation of plants for food, fiber, feed, or other products, including planning, planting, care, and harvest.",
+    "example": "A grower rotates legumes with grain crops to help manage soil fertility and pest pressure.",
+    "sense_note": null
+  },
+  {
+    "id": "s0o9pw5dhe",
+    "definition": "Cross-domain solutions control authorized information access or transfer between security domains with different trust levels or policies.",
+    "example": "An agency uses an approved gateway to review what information may be shared between separately protected networks.",
+    "sense_note": "Interpreted as the information-security term; outside that context the phrase can mean any solution spanning disciplines."
+  },
+  {
+    "id": "cjkn9h9pnh",
+    "definition": "The cross product of two vectors in three-dimensional Euclidean space is a vector perpendicular to both, oriented by the right-hand rule and with magnitude equal to the area they span.",
+    "example": "A graphics program takes the cross product of two triangle edges to calculate a surface normal.",
+    "sense_note": "Interpreted as the vector operation; some fields use the phrase informally for a Cartesian product."
+  },
+  {
+    "id": "v5oizwc96o",
+    "definition": "CRUD stands for create, read, update, and delete, the four basic operations for managing stored records.",
+    "example": "A contact manager lets users add, view, edit, or remove a contact.",
+    "sense_note": null
+  },
+  {
+    "id": "s9ux6raw0k",
+    "definition": "A cryptocurrency is a digitally represented asset whose transfers or issuance are secured by cryptography, usually through a distributed ledger.",
+    "example": "A wallet signs a transfer request that the associated network can validate against its ledger.",
+    "sense_note": null
+  },
+  {
+    "id": "f83jvlwbfo",
+    "definition": "Custom post types are developer-defined WordPress content categories with their own names and configured editing, display, or routing behavior.",
+    "example": "A museum stores its exhibitions as a distinct post type instead of mixing them into blog posts.",
+    "sense_note": "The phrase is specifically associated with WordPress; a post type is not the same as a taxonomy term."
+  },
+  {
+    "id": "q3kisw0y71",
+    "definition": "Cyber resilience is the capacity to maintain or restore essential digital functions when cyber incidents disrupt systems despite preventive controls.",
+    "example": "An organization rehearses restoring its records and switching to a fallback process after simulated downtime.",
+    "sense_note": null
+  },
+  {
+    "id": "norpz7ekiw",
+    "definition": "Cybersecurity is the protection of computer systems, networks, and data against unauthorized access, misuse, damage, or disruption.",
+    "example": "A university combines access controls, security monitoring, and incident response procedures to protect student records.",
+    "sense_note": null
+  }
+]

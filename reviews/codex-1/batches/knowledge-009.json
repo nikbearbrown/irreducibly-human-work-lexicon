@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "t0ziw5ujhv",
+    "key": "mutual-exclusion",
+    "label": "Mutual exclusion",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vbfwnlv4u6",
+    "key": "mutual-funds",
+    "label": "Mutual funds",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "e51h9xxt7e",
+    "key": "naked-short-selling",
+    "label": "Naked short selling",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cicx2jr1by",
+    "key": "nanobiotechnology",
+    "label": "Nanobiotechnology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "w6k4uq5j1x",
+    "key": "nanocomposites",
+    "label": "Nanocomposites",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "j6nvy18p2k",
+    "key": "nanolithography",
+    "label": "Nanolithography",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ffqc6qyff0",
+    "key": "national-airspace-system",
+    "label": "National Airspace System",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "uims2c9qir",
+    "key": "native-american-studies",
+    "label": "Native American studies",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d9zc6zsrlv",
+    "key": "natural-capital",
+    "label": "Natural capital",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fuem89o2r4",
+    "key": "natural-gas-pipelines",
+    "label": "Natural gas pipelines",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "gvwuv6xjpu",
+    "key": "natural-language-generation",
+    "label": "Natural language generation",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "erag95km1k",
+    "key": "natural-language-processing-systems",
+    "label": "Natural language processing systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ivx36sezid",
+    "key": "natural-language-understanding",
+    "label": "Natural language understanding",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "b3su978cm7",
+    "key": "nautical-charts",
+    "label": "Nautical charts",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "duizwpkp0n",
+    "key": "net-zero",
+    "label": "Net zero",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "w522rsvq3h",
+    "key": "network-peering",
+    "label": "Network peering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ndsl6ipwe5",
+    "key": "network-performance",
+    "label": "Network performance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d2m3gb8qfu",
+    "key": "network-topology",
+    "label": "Network topology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "tx96mffcus",
+    "key": "neural-networks",
+    "label": "Neural networks",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zy2gfm3r1p",
+    "key": "neurobiology",
+    "label": "Neurobiology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "c2qx3zxwm1",
+    "key": "neuromuscular-medicine",
+    "label": "Neuromuscular medicine",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "wpklrxp0cx",
+    "key": "neuromuscular-system-and-disorders",
+    "label": "Neuromuscular system and disorders",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "amcqd093mz",
+    "key": "neurosurgery",
+    "label": "Neurosurgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "e77t10tbmi",
+    "key": "nfpa-70e",
+    "label": "NFPA 70E",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ipet40zcu8",
+    "key": "non-facility-associated-signalling",
+    "label": "Non-Facility Associated Signalling",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "oge4mk4z9q",
+    "key": "non-fungible-tokens",
+    "label": "Non-fungible tokens",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "pmy0yp0e50",
+    "key": "nosql",
+    "label": "NoSQL database",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xspaa6enyw",
+    "key": "nutraceuticals",
+    "label": "Nutraceuticals",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "uokmv489cy",
+    "key": "object-oriented-data-model",
+    "label": "Object-oriented data model",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ncjktk06jk",
+    "key": "ocular-pathology",
+    "label": "Ocular pathology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "at31legxns",
+    "key": "odor-control",
+    "label": "Odor control",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "sh75mx00wm",
+    "key": "official-statistics",
+    "label": "Official statistics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "s3v0meeja8",
+    "key": "ohm-s-law",
+    "label": "Ohm's law",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "kxyef6lpo4",
+    "key": "oil-pipelines",
+    "label": "Oil pipelines",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "v13u3ohdg8",
+    "key": "oncogenomics",
+    "label": "Oncogenomics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "r78jn0y5p6",
+    "key": "open-banking",
+    "label": "Open banking",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "c4hb6dz587",
+    "key": "open-network-computing",
+    "label": "Open Network Computing",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "zvnr5iuxil",
+    "key": "operating-systems",
+    "label": "Operating systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fxsw7mji1f",
+    "key": "operations-administration-maintenance-and-provisioning",
+    "label": "Operations, administration, maintenance and provisioning",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "n2dzi99ark",
+    "key": "optical-fiber-cable",
+    "label": "Optical fiber cable",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

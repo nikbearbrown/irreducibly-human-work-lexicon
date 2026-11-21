@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "UsabilityHub was the name of a remote design research platform, later branded Lyssna, for collecting feedback through tasks such as first-click and preference tests.",
+  "entry_text": "UsabilityHub was the name of a remote design research platform, later branded Lyssna, for collecting feedback through tasks such as first-click and preference tests.",
+  "entry_text_kind": "definition",
+  "example": "A designer compares where participants initially click on two proposed navigation layouts.",
+  "id": "xlpmtpyg5y",
+  "key": "usabilityhub",
+  "label": "UsabilityHub",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Legacy name.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

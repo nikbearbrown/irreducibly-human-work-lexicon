@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Molisch's test is a qualitative chemistry assay that indicates the possible presence of carbohydrates by a characteristic color reaction.",
+  "entry_text": "Molisch's test is a qualitative chemistry assay that indicates the possible presence of carbohydrates by a characteristic color reaction.",
+  "entry_text_kind": "definition",
+  "example": "A laboratory instructor uses it to distinguish a carbohydrate-containing sample from a negative control.",
+  "id": "wck3opdy5d",
+  "key": "molisch-s-test",
+  "label": "Molisch's test",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

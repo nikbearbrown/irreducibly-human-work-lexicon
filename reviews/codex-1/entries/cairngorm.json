@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cairngorm was an application architecture framework for structuring software written in Adobe Flex.",
+  "entry_text": "Cairngorm was an application architecture framework for structuring software written in Adobe Flex.",
+  "entry_text_kind": "definition",
+  "example": "A maintainer traces how a legacy Flex app dispatches commands in response to interface events.",
+  "id": "ewju5724wx",
+  "key": "cairngorm",
+  "label": "Cairngorm",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

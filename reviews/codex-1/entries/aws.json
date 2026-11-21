@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Amazon Web Services is a cloud platform providing on-demand computing, storage, networking, and other managed services.",
+  "entry_text": "Amazon Web Services is a cloud platform providing on-demand computing, storage, networking, and other managed services.",
+  "entry_text_kind": "definition",
+  "example": "A company hosts a web application using cloud compute and a managed database.",
+  "id": "h00skqgqmn",
+  "key": "aws",
+  "label": "Amazon Web Services",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "im9mjynl0i",
+    "key": "oracle-reports",
+    "label": "Oracle Reports",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ggqx2z6hek",
+    "key": "oracle-workflow",
+    "label": "Oracle Workflow",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ra5xiodpbn",
+    "key": "oral-cancer-screening",
+    "label": "Oral cancer screening",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "so9a2ryg3c",
+    "key": "organizational-culture-change",
+    "label": "Organizational culture change",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n5btboalij",
+    "key": "organizational-leadership",
+    "label": "Organizational leadership",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z3d8t5kt64",
+    "key": "orientdb",
+    "label": "OrientDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zpv7859rnp",
+    "key": "orthopaedic-nursing",
+    "label": "Orthopaedic nursing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h9kgpt71mt",
+    "key": "otel",
+    "label": "OpenTelemetry",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z5bkl6uo0o",
+    "key": "outsystems",
+    "label": "OutSystems",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j00qlfnypq",
+    "key": "over-the-road-driving",
+    "label": "Over-the-road driving",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tso1wtx8qe",
+    "key": "overhead-cost-analysis",
+    "label": "Overhead cost analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "djno840jsm",
+    "key": "overhead-crane-operation",
+    "label": "Overhead crane operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nle9on566u",
+    "key": "package-json",
+    "label": "package.json",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "su5wnn7gne",
+    "key": "packaging-machine-operation",
+    "label": "Packaging machine operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ynifxe6cme",
+    "key": "padrino",
+    "label": "Padrino",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wvu9e4r2lk",
+    "key": "page-layout",
+    "label": "Page layout",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l15oar8hr9",
+    "key": "pallet-building",
+    "label": "Pallet building",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oqcww7kiiv",
+    "key": "palm-os",
+    "label": "Palm OS",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n3e2gcdwp6",
+    "key": "pandas",
+    "label": "pandas",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "aah9ap0pat",
+    "key": "paperwork-reduction-act",
+    "label": "Paperwork Reduction Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e7ceq63cnu",
+    "key": "parallel-computing",
+    "label": "Parallel computing",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "haj4l71a2q",
+    "key": "pari-gp",
+    "label": "PARI/GP",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wfxpoy5alt",
+    "key": "parrot-ar-drone",
+    "label": "Parrot AR.Drone",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k1tpukilm8",
+    "key": "passport-js",
+    "label": "Passport.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r9w5fxlhk3",
+    "key": "pathlore",
+    "label": "Pathlore",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vvi21j5xkg",
+    "key": "patient-coordination",
+    "label": "Patient coordination",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jh0k0hbu0d",
+    "key": "patient-education",
+    "label": "Patient education",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jd46qygwob",
+    "key": "patient-transfer",
+    "label": "Patient transfer",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yc622hn2at",
+    "key": "pattern-lab",
+    "label": "Pattern Lab",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "unhpezic97",
+    "key": "payment-card-industry-data-security-standard",
+    "label": "Payment Card Industry Data Security Standard",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wpao4gtt54",
+    "key": "pdf-conversion",
+    "label": "PDF conversion",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rceefsac3b",
+    "key": "pdf-generation",
+    "label": "PDF generation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xspx57iq85",
+    "key": "pdf-js",
+    "label": "PDF.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "maaj5ybrby",
+    "key": "pdf-viewer",
+    "label": "PDF viewer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g98khwp7bb",
+    "key": "pdflib",
+    "label": "PDFlib",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "euiop3hzmk",
+    "key": "pdfnet",
+    "label": "PDFNet",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ucwlc4uvb0",
+    "key": "pdftk",
+    "label": "PDFtk",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pt4t1q8cxq",
+    "key": "peachtree-accounting",
+    "label": "Peachtree Accounting",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z5kqswzgmy",
+    "key": "pelvic-floor-rehabilitation",
+    "label": "Pelvic floor rehabilitation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b74v8abm52",
+    "key": "percona-xtradb",
+    "label": "Percona XtraDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

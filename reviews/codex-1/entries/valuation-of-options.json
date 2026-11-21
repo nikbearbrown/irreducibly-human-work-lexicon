@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Valuation of options estimates the value of contingent rights to transact under specified terms by modeling factors such as underlying price, volatility, time, and exercise rules.",
+  "entry_text": "Valuation of options estimates the value of contingent rights to transact under specified terms by modeling factors such as underlying price, volatility, time, and exercise rules.",
+  "entry_text_kind": "definition",
+  "example": "An analyst compares model prices of otherwise similar options with different expiration dates.",
+  "id": "ibcb5hcegy",
+  "key": "valuation-of-options",
+  "label": "Valuation of options",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Financial derivative sense; other contexts can refer to real options or comparing alternatives.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

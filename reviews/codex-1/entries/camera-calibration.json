@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Camera calibration estimates how a camera projects real-world points into images, including parameters such as focal length and lens distortion.",
+  "entry_text": "Camera calibration estimates how a camera projects real-world points into images, including parameters such as focal length and lens distortion.",
+  "entry_text_kind": "definition",
+  "example": "A vision engineer uses images of known reference points to estimate distortion before measuring parts.",
+  "id": "z2efy6mlnz",
+  "key": "camera-calibration",
+  "label": "Camera calibration",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

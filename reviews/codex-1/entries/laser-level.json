@@ -1,0 +1,20 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A laser level projects a beam or line to establish reference points for level, plumb or alignment work.",
+  "entry_text": "A laser level projects a beam or line to establish reference points for level, plumb or alignment work.",
+  "entry_text_kind": "definition",
+  "example": "An installer uses a horizontal beam to align wall-mounted cabinets.",
+  "id": "v0i8j5lzc6",
+  "key": "laser-level",
+  "label": "Laser level",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

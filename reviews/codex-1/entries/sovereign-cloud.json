@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-012.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A sovereign cloud is a cloud offering designed to satisfy specified sovereignty constraints on data, operations and legal jurisdiction.",
+  "entry_text": "A sovereign cloud is a cloud offering designed to satisfy specified sovereignty constraints on data, operations and legal jurisdiction.",
+  "entry_text_kind": "definition",
+  "example": "A public agency evaluates where data is stored and who can administer the cloud services it uses.",
+  "id": "riw8xkpt0u",
+  "key": "sovereign-cloud",
+  "label": "Sovereign cloud",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Requirements differ by jurisdiction and procurement context.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

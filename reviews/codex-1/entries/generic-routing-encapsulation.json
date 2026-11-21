@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A protocol that encapsulates network packets so they can be carried through a logical tunnel over another network.",
+  "entry_text": "A protocol that encapsulates network packets so they can be carried through a logical tunnel over another network.",
+  "entry_text_kind": "definition",
+  "example": "A network engineer uses GRE to carry selected traffic between sites, with separate protections where required.",
+  "id": "r808a9m04r",
+  "key": "generic-routing-encapsulation",
+  "label": "Generic Routing Encapsulation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

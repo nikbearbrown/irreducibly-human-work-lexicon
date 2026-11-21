@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "System implementation brings a designed system into operation by configuring, integrating, testing, deploying, and transitioning it into use.",
+  "entry_text": "System implementation brings a designed system into operation by configuring, integrating, testing, deploying, and transitioning it into use.",
+  "entry_text_kind": "definition",
+  "example": "A team migrates stock records, verifies them against the old system, and trains warehouse staff before switching over.",
+  "id": "tou8ocnk8g",
+  "key": "system-implementation",
+  "label": "System implementation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

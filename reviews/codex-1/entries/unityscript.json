@@ -1,0 +1,20 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A discontinued JavaScript-like language formerly supported by the Unity game engine.",
+  "entry_text": "A discontinued JavaScript-like language formerly supported by the Unity game engine.",
+  "entry_text_kind": "definition",
+  "example": "A maintainer migrates a legacy UnityScript component to C#.",
+  "id": "vef8tboltu",
+  "key": "unityscript",
+  "label": "UnityScript",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

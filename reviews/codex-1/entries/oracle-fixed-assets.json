@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Oracle Fixed Assets is an enterprise accounting module for recording, depreciating, transferring and retiring fixed assets.",
+  "entry_text": "Oracle Fixed Assets is an enterprise accounting module for recording, depreciating, transferring and retiring fixed assets.",
+  "entry_text_kind": "definition",
+  "example": "A controller records the acquisition of equipment and runs its periodic depreciation calculation.",
+  "id": "k183yku86c",
+  "key": "oracle-fixed-assets",
+  "label": "Oracle Fixed Assets",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

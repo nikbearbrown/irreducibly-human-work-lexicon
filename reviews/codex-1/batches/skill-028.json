@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "sw8c3qk1m2",
+    "key": "marketing-management",
+    "label": "Marketing management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f4r9a2sogw",
+    "key": "marketing-strategy",
+    "label": "Marketing strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nrksbh186s",
+    "key": "masonry",
+    "label": "Masonry",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jdzffpay1e",
+    "key": "massage",
+    "label": "Massage",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tws2xkl10q",
+    "key": "materials-testing",
+    "label": "Materials testing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wvycqv51z7",
+    "key": "mathematica",
+    "label": "Mathematica",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dnco8uza64",
+    "key": "matplotlib",
+    "label": "Matplotlib",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qij7l9wbz8",
+    "key": "mcafee-personal-firewall-plus",
+    "label": "McAfee Personal Firewall Plus",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ivqbujumn8",
+    "key": "mcollective",
+    "label": "MCollective",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "no3tp66b0r",
+    "key": "meal-planning-and-preparation",
+    "label": "Meal planning and preparation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cf2acgxwct",
+    "key": "mean-js",
+    "label": "MEAN.JS",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s9b2klic4m",
+    "key": "meat-cutting",
+    "label": "Meat cutting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d86tb3zsu0",
+    "key": "mechanical-drafting",
+    "label": "Mechanical drafting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jbotgr5hal",
+    "key": "mechanical-seal",
+    "label": "Mechanical seal",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qhvqe6edu5",
+    "key": "media-buying",
+    "label": "Media buying",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r4rp67mbb0",
+    "key": "media-production",
+    "label": "Media production",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rwmcsu5aze",
+    "key": "media-relations",
+    "label": "Media relations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ndmd2a7z2m",
+    "key": "media-transfer-protocol",
+    "label": "Media Transfer Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fo3x072gil",
+    "key": "mediatr",
+    "label": "MediatR",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hqymi9wcca",
+    "key": "medical-billing-and-coding",
+    "label": "Medical billing and coding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jqwk9m8qss",
+    "key": "medical-device-development",
+    "label": "Medical device development",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fl8a6jfvsu",
+    "key": "medical-device-sales",
+    "label": "Medical device sales",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l2t1b5hgd3",
+    "key": "medical-office-skills",
+    "label": "Medical office skills",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e103dsfem0",
+    "key": "medical-photography",
+    "label": "Medical photography",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "eu7pzt8yc7",
+    "key": "medical-record-formatting",
+    "label": "Medical record formatting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s3rphwj2ud",
+    "key": "medical-records-release",
+    "label": "Medical records release",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ps84lr8vqx",
+    "key": "medical-ventilator",
+    "label": "Medical ventilator",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j1u1gihs5z",
+    "key": "mental-health-assessments",
+    "label": "Mental health assessments",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "paspq84cye",
+    "key": "menu-planning",
+    "label": "Menu planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hkrxfoq04k",
+    "key": "mep-design-software",
+    "label": "MEP design software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fpiu9689bi",
+    "key": "merchandise-management",
+    "label": "Merchandise management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ww0gm8s6qt",
+    "key": "metadata-management",
+    "label": "Metadata management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zgsi8tvrhg",
+    "key": "metal-detector",
+    "label": "Metal detector",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xpcuy21jio",
+    "key": "meteor-js",
+    "label": "Meteor.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w0dzpselbw",
+    "key": "meter-data-management",
+    "label": "Meter data management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dm5iivuzvs",
+    "key": "meter-operation-code-of-practice-agreement",
+    "label": "Meter Operation Code of Practice Agreement",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xtfanztaf3",
+    "key": "microblaze",
+    "label": "MicroBlaze",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n5ny10lu9r",
+    "key": "microchipping",
+    "label": "Microchipping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bpexleutl2",
+    "key": "microsoft-365",
+    "label": "Microsoft 365",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iv91vx1c9i",
+    "key": "microsoft-bookings",
+    "label": "Microsoft Bookings",
+    "onet_codes": [],
+    "original_kind": "tool"
+  }
+]

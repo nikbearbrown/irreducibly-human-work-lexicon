@@ -1,0 +1,242 @@
+[
+  {
+    "id": "tchcnxjts2",
+    "definition": "PerformanceAnalytics is an R package for analyzing financial returns, investment performance and portfolio risk.",
+    "example": "An analyst plots the drawdown history of a set of monthly returns.",
+    "sense_note": null
+  },
+  {
+    "id": "f4azaunkfi",
+    "definition": "Periscope Data was a business intelligence platform for querying data and sharing dashboards and analyses.",
+    "example": "An analyst publishes a dashboard driven by SQL queries against a data warehouse.",
+    "sense_note": null
+  },
+  {
+    "id": "tozta7hksp",
+    "definition": "Periscope was a social video platform for broadcasting live video and interacting with viewers.",
+    "example": "A presenter streamed a live event and responded to comments during the broadcast.",
+    "sense_note": "The platform hint suggests the discontinued streaming service; distinguish an optical periscope and Periscope Data."
+  },
+  {
+    "id": "vq49rs5iwp",
+    "definition": "Permit to work is a formal safety control that authorizes specified work only under documented conditions, responsibilities and precautions.",
+    "example": "A site supervisor reviews and authorizes a permit before a contractor begins covered work.",
+    "sense_note": null
+  },
+  {
+    "id": "iyrl5xu43f",
+    "definition": "Personal Printer Data Stream is an IBM printer command language for describing page content and controlling compatible printers.",
+    "example": "A legacy application sends PPDS commands to format text on a supported printer.",
+    "sense_note": null
+  },
+  {
+    "id": "zcdt1cpt15",
+    "definition": "Personal protective equipment consists of items worn to reduce exposure to hazards that remain after other controls are applied.",
+    "example": "A worker uses appropriate eye protection during a designated workshop task.",
+    "sense_note": null
+  },
+  {
+    "id": "tpzgmg30qp",
+    "definition": "Personalization adapts content, products or interactions to an individual's context, behavior or stated preferences.",
+    "example": "A news service lets readers prioritize stories from topics they choose.",
+    "sense_note": null
+  },
+  {
+    "id": "e7mhl48ny3",
+    "definition": "PEST analysis examines political, economic, social and technological factors in an organization's external environment.",
+    "example": "A strategy team evaluates how changing consumer habits and new technology could affect a market entry.",
+    "sense_note": null
+  },
+  {
+    "id": "benjtuhjh1",
+    "definition": "Pet insurance sales explain animal insurance products, terms and exclusions and assist customers with purchases under applicable rules.",
+    "example": "A representative explains waiting periods and coverage limits for a prospective policy.",
+    "sense_note": null
+  },
+  {
+    "id": "sc4h9yyxxk",
+    "definition": "Phalcon is a PHP web framework implemented in part as a native extension.",
+    "example": "A developer uses its routing and model components to build a database-backed web application.",
+    "sense_note": null
+  },
+  {
+    "id": "w77qwg3nqc",
+    "definition": "PhantomJS was a scriptable headless browser based on WebKit and used for automated page interactions.",
+    "example": "A team used it to render test pages without a visible browser window.",
+    "sense_note": "Historical tool; do not imply current support or browser compatibility."
+  },
+  {
+    "id": "r7lpnxmxrl",
+    "definition": "Pharmaceutical batch documentation records the materials, processing steps, checks, deviations and approvals for a specific pharmaceutical production batch.",
+    "example": "A quality reviewer checks that the reported lot numbers match the approved material records.",
+    "sense_note": null
+  },
+  {
+    "id": "fkzcbz8lh3",
+    "definition": "Pharmacy operations coordinate the workflow, inventory, staffing and quality controls that support dispensing and related services.",
+    "example": "A pharmacy manager monitors order queues and verifies that stock records reflect received items.",
+    "sense_note": null
+  },
+  {
+    "id": "sul2js0p68",
+    "definition": "Photo retouching makes targeted corrections or enhancements to a photograph while maintaining the desired appearance and fidelity.",
+    "example": "An editor removes scanner dust without altering the image's subject.",
+    "sense_note": null
+  },
+  {
+    "id": "v3obh6w5hq",
+    "definition": "phpBB is web forum software for hosting threaded discussions and managing users, categories and moderation.",
+    "example": "A moderator creates a support category and manages posts reported by members.",
+    "sense_note": null
+  },
+  {
+    "id": "h9w77rp6zb",
+    "definition": "phpDesigner is a development environment for writing, editing and debugging PHP and related web code.",
+    "example": "A developer uses the editor to trace an error in a PHP page.",
+    "sense_note": null
+  },
+  {
+    "id": "o7uu89ka5g",
+    "definition": "phpdocx is a PHP library for generating and modifying Microsoft Word documents in DOCX format.",
+    "example": "A service creates personalized reports from a reusable document template.",
+    "sense_note": null
+  },
+  {
+    "id": "ieoqhwib8d",
+    "definition": "PhpED is an integrated development environment for developing and debugging PHP applications.",
+    "example": "A programmer sets a breakpoint to inspect a variable during local execution.",
+    "sense_note": null
+  },
+  {
+    "id": "osdmq2u9ue",
+    "definition": "PHPExcel was a PHP library for reading, writing and manipulating spreadsheet files.",
+    "example": "A legacy application used PHPExcel to export a workbook with a summary worksheet.",
+    "sense_note": "Distinguish this historical project from its successor PhpSpreadsheet."
+  },
+  {
+    "id": "tlkmz0vxje",
+    "definition": "phpFox is software for building online communities and social networking websites.",
+    "example": "An organization creates a community site with member profiles and groups.",
+    "sense_note": null
+  },
+  {
+    "id": "b8w93an4bo",
+    "definition": "phpGroupWare was a web-based collaboration suite providing shared tools such as calendars and contacts.",
+    "example": "A team used its shared calendar to coordinate meeting times.",
+    "sense_note": "Historical product label."
+  },
+  {
+    "id": "b1phw8p0rp",
+    "definition": "phpLDAPadmin is a web interface for browsing and administering LDAP directories.",
+    "example": "An administrator reviews directory entries through its browser interface.",
+    "sense_note": null
+  },
+  {
+    "id": "qcaa98rbm1",
+    "definition": "phpList is software for managing mailing lists and sending email campaigns to their subscribers.",
+    "example": "A nonprofit sends a newsletter to an opted-in mailing list.",
+    "sense_note": null
+  },
+  {
+    "id": "u1ju3kcd2b",
+    "definition": "PHPMailer is a PHP library for composing and sending email, with support for SMTP and multipart messages.",
+    "example": "A web application sends a receipt email with a plain-text version and a PDF attachment.",
+    "sense_note": null
+  },
+  {
+    "id": "jxw7ck50wo",
+    "definition": "phpPgAdmin is a web-based administration tool for PostgreSQL databases.",
+    "example": "A database administrator inspects the columns and constraints in a test database.",
+    "sense_note": null
+  },
+  {
+    "id": "qwaw1go6tv",
+    "definition": "PHPUnit is a PHP testing framework for writing and running automated tests and assertions.",
+    "example": "A developer tests whether a price calculation rounds correctly for a sample order.",
+    "sense_note": null
+  },
+  {
+    "id": "gtfp6pi8ps",
+    "definition": "phpWebSite was a content management system for creating and administering websites with modular components.",
+    "example": "A site editor used it to publish a news article and a calendar entry.",
+    "sense_note": "Historical product label."
+  },
+  {
+    "id": "neq83pc35x",
+    "definition": "PhpWiki is wiki software written in PHP that allows users to create and collaboratively edit pages.",
+    "example": "A team maintains a set of linked reference pages for recurring procedures.",
+    "sense_note": null
+  },
+  {
+    "id": "xsr9lchl77",
+    "definition": "Physical modelling synthesis generates sound by simulating the behavior of a sound-producing physical system.",
+    "example": "A synthesizer models how a plucked string vibrates and loses energy over time.",
+    "sense_note": "The label is interpreted in its audio-synthesis sense."
+  },
+  {
+    "id": "u2cju90m1j",
+    "definition": "Physical vapor deposition applies a thin coating by vaporizing material and depositing it onto a surface in a controlled environment.",
+    "example": "A manufacturer coats a component with a thin wear-resistant layer.",
+    "sense_note": null
+  },
+  {
+    "id": "wbofx399g8",
+    "definition": "Piano playing uses keyboard technique, musical interpretation and coordination to perform music on a piano.",
+    "example": "A pianist balances the loudness of accompaniment and melody while playing a piece.",
+    "sense_note": null
+  },
+  {
+    "id": "gwnsslbe3u",
+    "definition": "Pilates is a method of controlled exercise emphasizing coordination, breathing and muscular control.",
+    "example": "An instructor guides a participant through a controlled movement while cueing breathing.",
+    "sense_note": null
+  },
+  {
+    "id": "ja1oge4jc3",
+    "definition": "Pinterest is a visual discovery platform where users find, save and organize images and linked ideas into collections.",
+    "example": "A designer collects reference images in a project board.",
+    "sense_note": null
+  },
+  {
+    "id": "i9o9dtfo9o",
+    "definition": "Pipeline pigging sends an internal device through a pipeline to clean, separate materials or inspect its condition.",
+    "example": "An operator reviews the inspection records from a pig run to plan maintenance.",
+    "sense_note": null
+  },
+  {
+    "id": "ofsxzlj2y4",
+    "definition": "Pivotal Tracker was an agile project management tool that organized software work into stories, backlogs and iterations.",
+    "example": "A team used its backlog to prioritize features for a forthcoming iteration.",
+    "sense_note": null
+  },
+  {
+    "id": "jpze7pqj3g",
+    "definition": "Pixel art creates digital images by deliberately arranging and coloring individual pixels or small pixel clusters.",
+    "example": "A game artist creates a character sprite that remains readable at a low resolution.",
+    "sense_note": null
+  },
+  {
+    "id": "lfc8pxbfib",
+    "definition": "PixiJS is a JavaScript rendering library for displaying high-performance two-dimensional graphics on the web.",
+    "example": "A developer uses animated sprites to display a game scene in a web page.",
+    "sense_note": null
+  },
+  {
+    "id": "y67hoezmp0",
+    "definition": "The Plant Design Management System was a three-dimensional computer-aided design system for industrial plant layouts and equipment models.",
+    "example": "An engineer coordinates piping routes with structural components in a shared plant model.",
+    "sense_note": "The generic label is interpreted as the product commonly abbreviated PDMS."
+  },
+  {
+    "id": "afgwin6zn7",
+    "definition": "Plant design plans the layout, equipment and supporting systems of a facility to meet process, safety and operating requirements.",
+    "example": "An engineering team positions equipment to allow maintenance access and efficient material flow.",
+    "sense_note": "The likely sense is industrial facility design, not arranging plants in a landscape."
+  },
+  {
+    "id": "fevw1yj6of",
+    "definition": "PlateSpin Migrate is software for transferring server workloads between supported physical, virtual or cloud environments.",
+    "example": "An administrator migrates an existing server workload to a virtual environment and validates its operation.",
+    "sense_note": null
+  }
+]

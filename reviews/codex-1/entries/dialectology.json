@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Dialectology studies systematic variation in language across regional or social groups, drawing on features such as pronunciation, grammar, and vocabulary.",
+  "entry_text": "Dialectology studies systematic variation in language across regional or social groups, drawing on features such as pronunciation, grammar, and vocabulary.",
+  "entry_text_kind": "definition",
+  "example": "A researcher maps where speakers use different words for the same household object without ranking one variety above another.",
+  "id": "k7yr930923",
+  "key": "dialectology",
+  "label": "Dialectology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

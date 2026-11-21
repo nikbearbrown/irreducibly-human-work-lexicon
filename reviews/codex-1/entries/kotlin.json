@@ -1,0 +1,20 @@
+{
+  "batch": "language-004.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A statically typed programming language with null-safety features and Java interoperability on the JVM.",
+  "entry_text": "A statically typed programming language with null-safety features and Java interoperability on the JVM.",
+  "entry_text_kind": "definition",
+  "example": "A developer handles a nullable response field in an Android app.",
+  "id": "a9vdp0px7b",
+  "key": "kotlin",
+  "label": "Kotlin",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "API management governs the publication, access, monitoring, and evolution of APIs across their lifecycle.",
+  "entry_text": "API management governs the publication, access, monitoring, and evolution of APIs across their lifecycle.",
+  "entry_text_kind": "definition",
+  "example": "A platform team tracks usage and communicates the retirement date of an old API version.",
+  "id": "ogt8lrbjfc",
+  "key": "api-management",
+  "label": "API management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

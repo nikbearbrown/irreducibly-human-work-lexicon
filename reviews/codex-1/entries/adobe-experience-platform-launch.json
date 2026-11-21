@@ -1,0 +1,28 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Adobe Experience Platform Launch is a tag-management system for deploying and governing scripts and data collection rules across digital properties.",
+  "entry_text": "Adobe Experience Platform Launch is a tag-management system for deploying and governing scripts and data collection rules across digital properties.",
+  "entry_text_kind": "definition",
+  "example": "A measurement team updates an approved analytics rule without editing each page individually.",
+  "id": "vmr98s77kp",
+  "key": "adobe-experience-platform-launch",
+  "label": "Adobe Experience Platform Launch",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "vmr98s77kp",
+      "note": "Adobe identifies Launch with Tags in Adobe Experience Platform, used to deploy scripts for data collection and personalization. Preserve Launch as a legacy name rather than present it as the current feature name. This refers to web data-collection tags, not administrative metadata tags.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-tags",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

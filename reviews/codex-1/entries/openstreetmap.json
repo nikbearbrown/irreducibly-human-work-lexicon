@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "OpenStreetMap is a collaborative geographic database that contributors can edit and users can reuse under its license.",
+  "entry_text": "OpenStreetMap is a collaborative geographic database that contributors can edit and users can reuse under its license.",
+  "entry_text_kind": "definition",
+  "example": "A community mapper adds a missing footpath so it appears in downstream maps.",
+  "id": "qk6veojyxg",
+  "key": "openstreetmap",
+  "label": "OpenStreetMap",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

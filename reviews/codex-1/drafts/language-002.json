@@ -1,0 +1,242 @@
+[
+  {
+    "id": "qb4qnsutxp",
+    "definition": "A compiled general-purpose language supporting value types, generic programming, and deterministic resource management.",
+    "example": "A game engine uses a standard-library vector to store active entities.",
+    "sense_note": null
+  },
+  {
+    "id": "qlaxx8o2dm",
+    "definition": null,
+    "example": null,
+    "sense_note": "Confirm whether Carib means the Kali'na language or a broader grouping."
+  },
+  {
+    "id": "n2zf1jjewl",
+    "definition": "A term used for Spanish, sometimes specifically for varieties associated with Spain.",
+    "example": "A voice director specifies Castilian Spanish for a localization recording.",
+    "sense_note": "Clarify standard Spanish versus a distinct regional scope."
+  },
+  {
+    "id": "b53t6y9iys",
+    "definition": "A human language used for spoken and written communication.",
+    "example": "A translator prepares a Catalan museum guide.",
+    "sense_note": null
+  },
+  {
+    "id": "ms42m7io2w",
+    "definition": "A human language used in conversation and written communication.",
+    "example": "An editor checks Cebuano subtitles for a training film.",
+    "sense_note": null
+  },
+  {
+    "id": "gvutm225wm",
+    "definition": "A server-side language for producing dynamic web responses and accessing application data.",
+    "example": "A template queries a database and renders the results.",
+    "sense_note": null
+  },
+  {
+    "id": "mrfo4d84xg",
+    "definition": "A human language used in speech and writing, including in the Chakma script.",
+    "example": "An editor checks a Chakma reading exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "r5qkbzvx25",
+    "definition": "A human language used in oral and written communication.",
+    "example": "An educator records a short dialogue in Chamorro.",
+    "sense_note": null
+  },
+  {
+    "id": "nbdd2ehtfg",
+    "definition": "A human language also known as Chewa or Nyanja in some naming contexts.",
+    "example": "An interpreter explains clinic instructions in Chichewa.",
+    "sense_note": null
+  },
+  {
+    "id": "hj8i6mh3zz",
+    "definition": "A broad label covering Sinitic language varieties and contexts of standard written communication.",
+    "example": "A localization manager specifies both the target spoken variety and writing convention.",
+    "sense_note": "Do not substitute Mandarin for the entire label."
+  },
+  {
+    "id": "emsn9xnsir",
+    "definition": "A BASIC interpreter and dialect for writing and running simple programs.",
+    "example": "A learner runs a numerical loop in Chipmunk Basic.",
+    "sense_note": null
+  },
+  {
+    "id": "r9tfnc7x3j",
+    "definition": "A scripting language for running command sequences in IBM TSO/E.",
+    "example": "An operator groups several routine TSO commands into a reusable procedure.",
+    "sense_note": null
+  },
+  {
+    "id": "hwas4qmror",
+    "definition": "A Lisp dialect oriented toward immutable data and commonly run on the JVM.",
+    "example": "A developer transforms a collection without modifying the original values.",
+    "sense_note": null
+  },
+  {
+    "id": "rw1cn65xyv",
+    "definition": "A programming language designed for business records, reports, and transaction processing.",
+    "example": "A payroll program totals amounts using decimal fields.",
+    "sense_note": null
+  },
+  {
+    "id": "piarz4pc6x",
+    "definition": "A language with concise syntax that compiles to JavaScript.",
+    "example": "A developer compiles a CoffeeScript function into browser-compatible code.",
+    "sense_note": null
+  },
+  {
+    "id": "hhw3e2lfwh",
+    "definition": "An early programming language for manipulating strings and symbolic patterns.",
+    "example": "A researcher tests a rule that replaces a matching sequence of characters.",
+    "sense_note": null
+  },
+  {
+    "id": "gwr1azxj60",
+    "definition": "A standardized Lisp dialect with macros, generic functions, and interactive development facilities.",
+    "example": "A developer defines a macro that expands repeated validation syntax.",
+    "sense_note": null
+  },
+  {
+    "id": "njqn7yrch4",
+    "definition": "A modular language in the Oberon tradition designed for component-oriented software.",
+    "example": "A developer exposes selected types through a module interface.",
+    "sense_note": null
+  },
+  {
+    "id": "sh4sf1nwm1",
+    "definition": "A statically typed compiled language whose syntax is influenced by Ruby.",
+    "example": "A developer builds a command-line tool that parses a file.",
+    "sense_note": null
+  },
+  {
+    "id": "dbxqhrpv38",
+    "definition": "A statically typed general-purpose language commonly used with the .NET platform.",
+    "example": "A developer defines a class that handles Unity game events.",
+    "sense_note": null
+  },
+  {
+    "id": "x4397709dt",
+    "definition": "A stylesheet language for controlling the presentation of structured documents.",
+    "example": "A designer uses a media query to change layout for a narrow screen.",
+    "sense_note": null
+  },
+  {
+    "id": "e6wzlsvhig",
+    "definition": "A Python-oriented language and compiler that can generate extension modules and call C code.",
+    "example": "A developer adds C types to a frequently executed numerical loop.",
+    "sense_note": null
+  },
+  {
+    "id": "jozc69fgpa",
+    "definition": "A human language used for speaking, writing, and translation.",
+    "example": "A translator checks a Czech software help page.",
+    "sense_note": null
+  },
+  {
+    "id": "eaovn4ljeo",
+    "definition": "A compiled systems programming language with support for both low-level programming and high-level abstractions.",
+    "example": "A developer uses ranges to process a sequence of records.",
+    "sense_note": null
+  },
+  {
+    "id": "x09au1cwqd",
+    "definition": "A human language used in conversation and writing.",
+    "example": "An editor reviews a Danish museum caption.",
+    "sense_note": null
+  },
+  {
+    "id": "ar6o7kobv7",
+    "definition": "A variety of Persian used for communication in Afghanistan.",
+    "example": "An interpreter explains a school enrollment form in Dari.",
+    "sense_note": null
+  },
+  {
+    "id": "vp6szkok86",
+    "definition": "A general-purpose programming language commonly used to build Flutter applications.",
+    "example": "A developer writes a Dart widget that updates when a user selects an item.",
+    "sense_note": null
+  },
+  {
+    "id": "ly6jzdmqwz",
+    "definition": "An Object Pascal-based language and development environment for building applications.",
+    "example": "A developer attaches a button handler to a desktop form.",
+    "sense_note": "Distinguish the language from the IDE and product when needed."
+  },
+  {
+    "id": "s7rg5fey2w",
+    "definition": "A human language commonly written using the Thaana script.",
+    "example": "An editor proofreads a Dhivehi flyer.",
+    "sense_note": null
+  },
+  {
+    "id": "y1sl47tp8c",
+    "definition": "The OpenVMS command language for interactive commands and automated procedures.",
+    "example": "An operator writes a procedure that checks for an output file after a batch job.",
+    "sense_note": null
+  },
+  {
+    "id": "pak2r3gski",
+    "definition": "A name used for related speech varieties used in oral and written communication.",
+    "example": "A translation team confirms which Dinka variety a recording should use.",
+    "sense_note": null
+  },
+  {
+    "id": "l6le846miv",
+    "definition": "A human language used in spoken and written communication.",
+    "example": "A researcher transcribes an oral narrative in Duala.",
+    "sense_note": null
+  },
+  {
+    "id": "ol3tcjafkq",
+    "definition": "A human language used in speech, writing, and translation.",
+    "example": "An editor reviews Dutch instructions on a product label.",
+    "sense_note": null
+  },
+  {
+    "id": "ec5sjzxk6h",
+    "definition": "A programming language combining object orientation, multiple dispatch, and functional techniques.",
+    "example": "A developer defines different methods for pairs of argument types.",
+    "sense_note": null
+  },
+  {
+    "id": "zx3or51hr1",
+    "definition": "A human language used in Bhutan and written in the Tibetan script.",
+    "example": "A reviewer checks a Dzongkha version of a public notice.",
+    "sense_note": null
+  },
+  {
+    "id": "jvqv4lupvf",
+    "definition": "The sixth edition of the ECMAScript standard, adding features such as modules, classes, and block-scoped declarations.",
+    "example": "A developer replaces a variable declaration with block-scoped let.",
+    "sense_note": null
+  },
+  {
+    "id": "kcu5dpjinp",
+    "definition": "An object-oriented programming language that makes contracts such as preconditions and postconditions explicit.",
+    "example": "A developer specifies that a withdrawal must not exceed the current balance.",
+    "sense_note": null
+  },
+  {
+    "id": "gmnxfnk0xv",
+    "definition": "A functional programming language running on the Erlang virtual machine.",
+    "example": "A developer supervises a process that handles incoming requests.",
+    "sense_note": null
+  },
+  {
+    "id": "rh3gh6e9pn",
+    "definition": "A statically typed functional language for building browser interfaces.",
+    "example": "A developer defines how a click message changes the interface model.",
+    "sense_note": null
+  },
+  {
+    "id": "tsdlbd9gt0",
+    "definition": "A human language used in written and spoken communication in many varieties.",
+    "example": "An editor revises an English report for a general audience.",
+    "sense_note": null
+  }
+]

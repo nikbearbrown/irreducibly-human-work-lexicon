@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "k4stuct7vk",
+    "key": "fraud-prevention-and-detection",
+    "label": "Fraud prevention and detection",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "clqf1bf58h",
+    "key": "fraud-risk-assessment",
+    "label": "Fraud risk assessment",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x352fxyh45",
+    "key": "fraud-risk-management",
+    "label": "Fraud risk management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k03kjgprvl",
+    "key": "free-body-diagrams",
+    "label": "Free body diagrams",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mi2t4wx6vw",
+    "key": "free-lossless-audio-codec",
+    "label": "Free Lossless Audio Codec",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cuphtv0iqh",
+    "key": "freight-handling-equipment",
+    "label": "Freight handling equipment",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n753kuxhfv",
+    "key": "freight-handling",
+    "label": "Freight handling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ya453qelec",
+    "key": "freight-inspection",
+    "label": "Freight inspection",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qg3os2kfq1",
+    "key": "freshchat",
+    "label": "Freshchat",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w6wpkte1cm",
+    "key": "frisby-js",
+    "label": "Frisby.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lgo87hx7fp",
+    "key": "frontify",
+    "label": "Frontify",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xq9g4ouati",
+    "key": "full-cycle-sales",
+    "label": "Full-cycle sales",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w1aq63na2m",
+    "key": "full-stack-observability",
+    "label": "Full-stack observability",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kbm35o1ym2",
+    "key": "full-stack-software-engineering",
+    "label": "Full-stack software engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t0b61v3qrz",
+    "key": "functional-independence-measure",
+    "label": "Functional Independence Measure",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kuqc26vh3g",
+    "key": "fuse-esb",
+    "label": "Fuse ESB",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ibphs8fgxr",
+    "key": "gait-training",
+    "label": "Gait training",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zr7jfsxep8",
+    "key": "gallio",
+    "label": "Gallio",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xu2crck16y",
+    "key": "game-art",
+    "label": "Game art",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r8kn0vxljj",
+    "key": "game-design",
+    "label": "Game design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jj1y0opj8n",
+    "key": "garment-alterations",
+    "label": "Garment alterations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dalckzat01",
+    "key": "gatsby",
+    "label": "Gatsby",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zglmbe1k9b",
+    "key": "gel-electrophoresis-of-nucleic-acids",
+    "label": "Gel electrophoresis of nucleic acids",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ali865tohc",
+    "key": "general-administrative-and-clerical-tasks",
+    "label": "General administrative and clerical tasks",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h9x8yk1sy1",
+    "key": "general-anaesthesia",
+    "label": "General anaesthesia",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "izrkso47in",
+    "key": "general-packet-radio-service",
+    "label": "General Packet Radio Service",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a1x6lergu6",
+    "key": "generalized-linear-model",
+    "label": "Generalized linear model",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r808a9m04r",
+    "key": "generic-routing-encapsulation",
+    "label": "Generic Routing Encapsulation",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f9ith6u17j",
+    "key": "gensim",
+    "label": "Gensim",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o2f6fps51b",
+    "key": "geodjango",
+    "label": "GeoDjango",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ft7fc37o2d",
+    "key": "geologic-modelling",
+    "label": "Geologic modelling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zhyr681875",
+    "key": "ghidra",
+    "label": "Ghidra",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mrowqrn1dp",
+    "key": "gis-mapping",
+    "label": "GIS mapping",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "awiyv5ych6",
+    "key": "glass-installation",
+    "label": "Glass installation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "aswbsv8sty",
+    "key": "global-mapper",
+    "label": "Global Mapper",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "tm4ow78j6a",
+    "key": "glpi",
+    "label": "GLPI",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fijvbfas62",
+    "key": "gmp-self-inspection",
+    "label": "GMP self-inspection",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pb9jup7p6r",
+    "key": "go-to-market-strategy",
+    "label": "Go-to-market strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m1nnmfjsv0",
+    "key": "goal-setting",
+    "label": "Goal setting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "he4tfuedsk",
+    "key": "gold-panning",
+    "label": "Gold panning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

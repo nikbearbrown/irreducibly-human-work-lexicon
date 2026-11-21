@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "TokuDB was a MySQL-compatible storage engine designed for high insertion rates using fractal tree indexes and compression.",
+  "entry_text": "TokuDB was a MySQL-compatible storage engine designed for high insertion rates using fractal tree indexes and compression.",
+  "entry_text_kind": "definition",
+  "example": "A database engineer plans a migration away from TokuDB while checking how its indexes and compression affect the workload.",
+  "id": "n5lzhqjkhv",
+  "key": "tokudb",
+  "label": "TokuDB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical storage engine; availability varies by product version.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

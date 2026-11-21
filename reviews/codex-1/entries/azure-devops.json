@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Azure DevOps provides tools for software project tracking, source control, build pipelines, and release workflows.",
+  "entry_text": "Azure DevOps provides tools for software project tracking, source control, build pipelines, and release workflows.",
+  "entry_text_kind": "definition",
+  "example": "A team links a work item to the pull request and build that implement it.",
+  "id": "bum8cg3i92",
+  "key": "azure-devops",
+  "label": "Azure DevOps",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

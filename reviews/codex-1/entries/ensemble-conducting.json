@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Leading a group of musicians through rehearsal or performance using cues, timing, and interpretive direction.",
+  "entry_text": "Leading a group of musicians through rehearsal or performance using cues, timing, and interpretive direction.",
+  "entry_text_kind": "definition",
+  "example": "A conductor signals a choir's entry and adjusts its balance by section.",
+  "id": "gx2ytxtkrx",
+  "key": "ensemble-conducting",
+  "label": "Ensemble conducting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

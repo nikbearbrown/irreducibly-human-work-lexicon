@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "OpenTelemetry is a set of open specifications and libraries for generating, collecting and exporting telemetry such as traces, metrics and logs.",
+  "entry_text": "OpenTelemetry is a set of open specifications and libraries for generating, collecting and exporting telemetry such as traces, metrics and logs.",
+  "entry_text_kind": "definition",
+  "example": "An engineer instruments a service to export request traces to an observability backend.",
+  "id": "h9kgpt71mt",
+  "key": "otel",
+  "label": "OpenTelemetry",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "OpenTelemetry is instrumentation and transport infrastructure, not itself an analytics backend.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

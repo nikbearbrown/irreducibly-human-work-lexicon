@@ -1,0 +1,42 @@
+{
+  "batch": "language-004.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Jiba (ISO 639-3: juo) as a language under the Atlantic-Congo grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Atlantic-Congo",
+    "catalog_name": "Jiba",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "jiba1237",
+    "iso639_3": "juo",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/jiba1237"
+  },
+  "definition": null,
+  "entry_text": "Jiba is a human language cataloged as ISO 639-3 juo.",
+  "entry_text_kind": "source-proposed-definition",
+  "example": null,
+  "id": "pjem268xhe",
+  "key": "jiba",
+  "label": "Jiba",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm whether this denotes the language also called Jibu or another label.",
+  "sense_proposal": {
+    "ambiguity_note": "Exact catalog match; Jibu [jib] is a separate language, not an alias.",
+    "id": "pjem268xhe",
+    "label": "Jiba",
+    "proposed_definition": "Jiba is a human language cataloged as ISO 639-3 juo.",
+    "refs": [
+      "https://glottolog.org/resource/languoid/id/jiba1237",
+      "https://glottolog.org/resource/languoid/id/jibu1239",
+      "https://github.com/glottolog/glottolog-cldf/releases/tag/v5.3"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

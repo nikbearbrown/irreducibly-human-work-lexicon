@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Applications for composing, sending, receiving, and organizing electronic mail.",
+  "entry_text": "Applications for composing, sending, receiving, and organizing electronic mail.",
+  "entry_text_kind": "definition",
+  "example": "A worker uses an email client to file related correspondence by project.",
+  "id": "ihcdms58ev",
+  "key": "email-software",
+  "label": "Email software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

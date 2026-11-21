@@ -1,0 +1,28 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache NiFi designs and operates data flows for moving, routing, and transforming data between systems.",
+  "entry_text": "Apache NiFi designs and operates data flows for moving, routing, and transforming data between systems.",
+  "entry_text_kind": "definition",
+  "example": "A team routes incoming sensor records to different destinations according to their source.",
+  "id": "xf20rnp68i",
+  "key": "apache-nifi",
+  "label": "Apache NiFi",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "xf20rnp68i",
+      "note": "The project describes automated data flows across systems, a web-based command and control interface, and processors that handle routing or transformation.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://nifi.apache.org/docs/nifi-docs/html/overview.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

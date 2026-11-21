@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A JavaScript task runner that automates configured development operations such as builds, tests, and file processing.",
+  "entry_text": "A JavaScript task runner that automates configured development operations such as builds, tests, and file processing.",
+  "entry_text_kind": "definition",
+  "example": "A developer runs a Grunt task to prepare assets for distribution.",
+  "id": "kx6hq4bfym",
+  "key": "grunt-js",
+  "label": "Grunt.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

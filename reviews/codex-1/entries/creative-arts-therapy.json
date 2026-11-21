@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Creative arts therapy uses structured engagement with artistic media as part of a therapeutic relationship and defined clinical goals.",
+  "entry_text": "Creative arts therapy uses structured engagement with artistic media as part of a therapeutic relationship and defined clinical goals.",
+  "entry_text_kind": "definition",
+  "example": "A qualified art therapist incorporates drawing into a session designed around a client’s communication goals.",
+  "id": "syt4e7l62v",
+  "key": "creative-arts-therapy",
+  "label": "Creative arts therapy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

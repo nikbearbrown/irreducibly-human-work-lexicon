@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ihcdms58ev",
+    "definition": "Applications for composing, sending, receiving, and organizing electronic mail.",
+    "example": "A worker uses an email client to file related correspondence by project.",
+    "sense_note": null
+  },
+  {
+    "id": "rvb4xaqyno",
+    "definition": "Preparing human remains for temporary preservation and viewing in accordance with professional and legal requirements.",
+    "example": "A licensed practitioner prepares remains for an arranged viewing.",
+    "sense_note": null
+  },
+  {
+    "id": "o5aj12ezze",
+    "definition": "A JavaScript framework for building browser applications with conventions for components, routing, and data handling.",
+    "example": "A developer organizes a customer portal into Ember routes and components.",
+    "sense_note": null
+  },
+  {
+    "id": "l4yp5azrbp",
+    "definition": "Running and monitoring equipment that stitches programmed designs into fabric or other compatible materials.",
+    "example": "An operator loads a logo design and checks a sample before producing a batch.",
+    "sense_note": null
+  },
+  {
+    "id": "kblgtvd61c",
+    "definition": "Operating emergency response vehicles under applicable safety rules and service procedures.",
+    "example": "An ambulance driver adjusts speed and positioning to preserve safe control on a response.",
+    "sense_note": null
+  },
+  {
+    "id": "vvrl1yaqdd",
+    "definition": "Estimating pollutants released from an activity using measurements, emission factors, or documented models.",
+    "example": "An analyst combines fuel consumption and emission factors to report facility greenhouse gas emissions.",
+    "sense_note": null
+  },
+  {
+    "id": "jrbj7k9am7",
+    "definition": "Fact-finding and documentation in response to workplace conduct complaints or policy concerns.",
+    "example": "An investigator interviews involved employees and records findings against the applicable policy.",
+    "sense_note": null
+  },
+  {
+    "id": "rlkshw2yiw",
+    "definition": "Managing workplace relationships, concerns, and conflicts between employees and their organization.",
+    "example": "An HR adviser helps a manager address a recurring grievance fairly and consistently.",
+    "sense_note": null
+  },
+  {
+    "id": "qdp11s2pja",
+    "definition": "Shaping how current and prospective employees perceive an organization as a place to work.",
+    "example": "A recruiting team presents staff experiences and career development opportunities in hiring materials.",
+    "sense_note": null
+  },
+  {
+    "id": "k4il6d3l0u",
+    "definition": "Applying employment laws, contracts, and organizational policies to workplace practices.",
+    "example": "An HR team reviews hiring records for compliance with required procedures.",
+    "sense_note": null
+  },
+  {
+    "id": "x5se053uo6",
+    "definition": "Receiving requests for emergency medical care, prioritizing them, and coordinating appropriate response resources.",
+    "example": "A dispatcher gathers location and incident details and directs an available ambulance to the scene.",
+    "sense_note": null
+  },
+  {
+    "id": "or91a4q1dx",
+    "definition": "Collecting, checking, and maintaining records of individual service encounters, commonly in healthcare.",
+    "example": "A health plan reconciles its encounter submissions against provider records.",
+    "sense_note": "Confirm the domain if the source does not refer to healthcare encounters."
+  },
+  {
+    "id": "nh1ta76214",
+    "definition": "A mainframe software change management tool for controlling source changes, builds, and promotion between environments.",
+    "example": "A release engineer promotes approved mainframe components through controlled stages.",
+    "sense_note": null
+  },
+  {
+    "id": "mkkre3uwga",
+    "definition": "Removing secretions through an endotracheal tube to help maintain an open airway under clinical care.",
+    "example": "A qualified clinician clears secretions from a ventilated patient's airway when clinically indicated.",
+    "sense_note": null
+  },
+  {
+    "id": "isam351nfh",
+    "definition": "A minimally invasive procedure that treats an aneurysm by placing a graft inside the affected blood vessel.",
+    "example": "A vascular team assesses whether a patient's anatomy is suitable for endovascular repair.",
+    "sense_note": null
+  },
+  {
+    "id": "qd1x4xiu5o",
+    "definition": "A class of security tools that monitors endpoint activity, detects suspicious behavior, and supports investigation and coordinated response.",
+    "example": "An analyst reviews a workstation alert and uses the tool to investigate related events.",
+    "sense_note": null
+  },
+  {
+    "id": "yaztpt8bej",
+    "definition": "Designing, configuring, and maintaining standardized computing environments for endpoint devices.",
+    "example": "An engineer develops a supported workstation configuration for new employees.",
+    "sense_note": null
+  },
+  {
+    "id": "e61znnqfwb",
+    "definition": "Administering the inventory, configuration, updates, and policies of managed devices.",
+    "example": "An IT team checks that employee laptops have received required operating-system updates.",
+    "sense_note": null
+  },
+  {
+    "id": "sshjgtnr54",
+    "definition": "Protecting endpoint devices and their data against unauthorized access and harmful activity.",
+    "example": "An IT team requires disk encryption and reviews endpoint protection alerts.",
+    "sense_note": null
+  },
+  {
+    "id": "is6rdg2nb3",
+    "definition": "Administering a prescribed liquid into the rectum for a clinical purpose under applicable care procedures.",
+    "example": "A clinician records a patient's response to an ordered enema.",
+    "sense_note": null
+  },
+  {
+    "id": "x6ouzz71v2",
+    "definition": "Workplace procedures for controlling hazardous energy before and during servicing or maintenance.",
+    "example": "A maintenance lead verifies that equipment is safely isolated before work begins.",
+    "sense_note": null
+  },
+  {
+    "id": "fbmyyojcj3",
+    "definition": "Creating and interpreting technical drawings that specify geometry, dimensions, tolerances, and assembly details.",
+    "example": "A technician reads the tolerances on a drawing before inspecting a manufactured part.",
+    "sense_note": null
+  },
+  {
+    "id": "cbl1f2h14n",
+    "definition": "A mobile data technology that improves transmission rates over earlier GSM packet data services.",
+    "example": "A compatible handset transfers data using an EDGE-capable GSM network.",
+    "sense_note": null
+  },
+  {
+    "id": "bw6hhm83w9",
+    "definition": "Supplementary regulatory requirements designed to limit financial risks at covered banking organizations.",
+    "example": "A compliance team checks which risk management and reporting requirements apply to its institution.",
+    "sense_note": "Jurisdiction, thresholds, and provisions require source confirmation; the common United States sense is intended."
+  },
+  {
+    "id": "l193wio43x",
+    "definition": "A real-time architectural rendering and visualization tool integrated with design and modeling software.",
+    "example": "An architect generates a walkthrough from an architectural model for a client presentation.",
+    "sense_note": null
+  },
+  {
+    "id": "gx2ytxtkrx",
+    "definition": "Leading a group of musicians through rehearsal or performance using cues, timing, and interpretive direction.",
+    "example": "A conductor signals a choir's entry and adjusts its balance by section.",
+    "sense_note": null
+  },
+  {
+    "id": "i23d7safuf",
+    "definition": "Methods that combine multiple models or learners into a single prediction or decision.",
+    "example": "A classifier averages predictions from several separately trained models.",
+    "sense_note": null
+  },
+  {
+    "id": "zhx1j34swl",
+    "definition": "Connecting applications, data, and workflows so information can move reliably among enterprise systems.",
+    "example": "An integration engineer connects order management and warehouse systems so shipment updates stay synchronized.",
+    "sense_note": null
+  },
+  {
+    "id": "rd3adykyyr",
+    "definition": "Designing and operating safeguards that protect an organization's networks, services, and traffic.",
+    "example": "A security team separates sensitive systems from general office networks and monitors authorized connections.",
+    "sense_note": null
+  },
+  {
+    "id": "zhzug46cnu",
+    "definition": "A coordinated approach to planning, budgeting, forecasting, and measuring organizational performance.",
+    "example": "A finance team compares business unit results with targets and revises its forecast.",
+    "sense_note": null
+  },
+  {
+    "id": "sj66h6hvfz",
+    "definition": "A vendor and family of commercially supported database products and services centered on PostgreSQL.",
+    "example": "An organization uses an EDB distribution to operate a supported relational database.",
+    "sense_note": "The label can refer to the vendor or to a particular product."
+  },
+  {
+    "id": "ryt8m9iu1m",
+    "definition": "A structured business management system that aligns organizational goals, accountability, and operating routines.",
+    "example": "A leadership team reviews quarterly priorities and uses a recurring meeting to resolve blockers.",
+    "sense_note": null
+  },
+  {
+    "id": "n97b7f7wad",
+    "definition": "Preparing a formal assessment of a proposed action's environmental effects, alternatives, and mitigation measures.",
+    "example": "A planner documents potential habitat impacts and compares project alternatives in a draft statement.",
+    "sense_note": null
+  },
+  {
+    "id": "qyidg7zbc0",
+    "definition": "Reporting and verifying stories about environmental conditions, policy, and their effects on people and ecosystems.",
+    "example": "A reporter compares monitoring data with residents' accounts before publishing a river pollution story.",
+    "sense_note": null
+  },
+  {
+    "id": "x67m4fgi71",
+    "definition": "Systematically monitoring external trends, events, and conditions that could affect organizational decisions.",
+    "example": "A planning team tracks policy changes and emerging technologies before revising its strategy.",
+    "sense_note": "The business-planning sense is likely; the label can also mean a physical survey."
+  },
+  {
+    "id": "ky1xl14a44",
+    "definition": "Assessing the presence, properties, or activity of enzymes in a sample with suitable analytical measurements.",
+    "example": "A laboratory compares enzyme activity across quality-control samples.",
+    "sense_note": null
+  },
+  {
+    "id": "b4wc6manaz",
+    "definition": "A laboratory assay that uses enzyme-linked detection and antibody binding to measure a specific target in a sample.",
+    "example": "A laboratory uses an ELISA to compare target levels against a validated calibration series.",
+    "sense_note": null
+  },
+  {
+    "id": "su6pqtkxed",
+    "definition": "An Epic electronic health record application for emergency department workflows.",
+    "example": "Emergency department staff track patients and document care in Epic ASAP.",
+    "sense_note": null
+  },
+  {
+    "id": "lfl8vfghrk",
+    "definition": "An Epic electronic health record application for oncology workflows and treatment planning.",
+    "example": "An oncology team reviews a patient's treatment plan in Epic Beacon.",
+    "sense_note": null
+  },
+  {
+    "id": "djn4rto36i",
+    "definition": "An Epic electronic health record application family for pharmacy operations and medication workflows.",
+    "example": "Hospital pharmacy staff use Epic Willow to manage and verify medication orders.",
+    "sense_note": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Systematically documenting publicly available characteristics or an observable profile of a subject.",
+  "entry_text": "Systematically documenting publicly available characteristics or an observable profile of a subject.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "nhdkvgjim2",
+  "key": "footprinting",
+  "label": "Footprinting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "May mean environmental footprint measurement or authorized security reconnaissance; confirm intended sense and scope.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

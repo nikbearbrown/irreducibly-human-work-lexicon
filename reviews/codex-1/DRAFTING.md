@@ -1,0 +1,9 @@
+# Codex 1: independent generation instructions
+
+Inputs are batches/*.json. Draft independently from each stable ID, label, pre-existing kind (a hint), slug, and O*NET code if any. Do not read previous model entries, definitions, reviews, or output from other runs. Do not rewrite the canonical repository. Broad scope: skills, abilities, knowledge, languages, 2,895 canonical concepts on main at 91312fec. 859 credential IDs inventoried separately. Exact matching O*NET rows are routed to a public source direct pass, not these batches.
+
+Each completed batch goes under drafts/ with the same filename as the input. Prefer writing atomically, after generating all rows. Output a JSON array, one record per input in order:
+{"id":"same exact id","definition":"a concise, specific one-sentence definition in your own words","example":"one concrete sentence showing what the concept does or enables, if confident, else null","sense_note":null}
+Optional sense_note flags ambiguity, mistaken kind, labels needing clarification or source confirmation, and alternative likely sense; don't silently fix IDs or invent missing facts. If defensible interpretation is unavailable, use definition:null and a specific sense_note; this is an entry packet but unresolved, not a completed definition. Preserve exact technical distinctions. Human languages: avoid speculative linguistic geography, dialect, genealogy, or status. Credentials are not in supplied batches. No false aliases or relations. Do not add invented sources; these are draft claims pending a separate pass. For harmless broad definitions of high-risk science or cybersecurity topics, use non-operational overview only.
+
+Draft from the batches, not from the old repo. Use no third-party model, no job submission, no publication. Report completed batch filenames and any unresolved counts. If working multiple batches, save each before starting the next. Prefer meaningful definitions over template boilerplate.

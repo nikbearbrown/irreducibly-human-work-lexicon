@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Services that send, receive, host, or manage electronic email for users or organizations.",
+  "entry_text": "Services that send, receive, host, or manage electronic email for users or organizations.",
+  "entry_text_kind": "definition",
+  "example": "A marketing team selects a provider to send newsletters and track delivery.",
+  "id": "d16ja1jgfx",
+  "key": "email-service-providers",
+  "label": "Email service providers",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "May refer to mailbox hosting or bulk and transactional delivery platforms depending on context.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

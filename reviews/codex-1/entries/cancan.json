@@ -1,0 +1,20 @@
+{
+  "batch": "skill-007.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "CanCan was a Ruby on Rails authorization library for defining what actions users may perform on application resources.",
+  "entry_text": "CanCan was a Ruby on Rails authorization library for defining what actions users may perform on application resources.",
+  "entry_text_kind": "definition",
+  "example": "A developer allows ordinary users to read records but reserves editing for authorized staff.",
+  "id": "cjf4u4r4e1",
+  "key": "cancan",
+  "label": "CanCan",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The later maintained fork is CanCanCan; do not assume the label refers to that fork.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

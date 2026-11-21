@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "System recovery restores a failed or disrupted system and its data to a usable condition based on recovery objectives and verified procedures.",
+  "entry_text": "System recovery restores a failed or disrupted system and its data to a usable condition based on recovery objectives and verified procedures.",
+  "entry_text_kind": "definition",
+  "example": "A team restores a known backup and checks that critical transactions can be read before resuming service.",
+  "id": "v2qchw97mc",
+  "key": "system-recovery",
+  "label": "System recovery",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

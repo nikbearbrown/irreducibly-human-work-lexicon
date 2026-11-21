@@ -1,0 +1,242 @@
+[
+  {
+    "id": "y6729eqjad",
+    "definition": "Red teaming is a structured, authorized challenge to an organization's assumptions, controls, or system behavior from an adversarial perspective.",
+    "example": "A review team independently challenges the assumptions in an incident response plan before leadership approves it.",
+    "sense_note": null
+  },
+  {
+    "id": "ov31uuzu8o",
+    "definition": "REDCap is a web platform for building and managing structured data collection instruments, especially for research studies.",
+    "example": "A research coordinator builds a validated baseline survey with fields for consent and participant identifiers.",
+    "sense_note": null
+  },
+  {
+    "id": "nsadh0t31u",
+    "definition": "A reduction transforms instances of one computational problem into instances of another under stated resource constraints so a solution to the latter helps solve the former.",
+    "example": "A proof establishes hardness by transforming instances of a known hard problem into cases of a scheduling problem.",
+    "sense_note": null
+  },
+  {
+    "id": "zkolcng2pi",
+    "definition": "Refrigerated transport maintains a controlled temperature range for goods while they move between locations.",
+    "example": "A carrier records temperature readings across a shipment of perishable food to document whether the cold chain held.",
+    "sense_note": null
+  },
+  {
+    "id": "ax65pgi63u",
+    "definition": "Regulatory CMC is the preparation and maintenance of chemistry, manufacturing, and controls information for a regulated medicinal product.",
+    "example": "A regulatory specialist prepares documentation showing how a manufacturer verifies the quality of each released lot.",
+    "sense_note": null
+  },
+  {
+    "id": "r5kwam4bm9",
+    "definition": "Reinforcement learning develops policies for sequential decisions from experience and rewards, with the goal of maximizing expected cumulative reward.",
+    "example": "A simulated agent learns when to recharge by comparing the long-term rewards of different decisions.",
+    "sense_note": null
+  },
+  {
+    "id": "n3q48ginr2",
+    "definition": "Reltio is a cloud master data platform for reconciling and managing records about shared business entities across sources.",
+    "example": "A data steward reviews whether two customer records from different systems represent the same organization.",
+    "sense_note": null
+  },
+  {
+    "id": "rtsyeenys6",
+    "definition": "Renewable energy sales involves matching buyers' energy needs with renewable systems or supply arrangements and explaining their costs and terms.",
+    "example": "A salesperson compares rooftop solar quotes for a customer using the building's electricity bills.",
+    "sense_note": null
+  },
+  {
+    "id": "hllkkrms0o",
+    "definition": "Reporting gathers, checks, and presents findings or status information for a defined audience and purpose.",
+    "example": "An operations analyst summarizes the week's service delays and identifies the largest changes from the prior week.",
+    "sense_note": "Broad interpretation; label alone does not distinguish business, regulatory, or journalistic reporting."
+  },
+  {
+    "id": "uhwnqf48he",
+    "definition": "Representational State Transfer is an architectural style for distributed systems that uses a uniform interface to exchange resource representations under constraints including stateless interactions.",
+    "example": "A client requests a representation of an order using its resource identifier without relying on the server to remember an earlier request.",
+    "sense_note": null
+  },
+  {
+    "id": "j8m25rqleq",
+    "definition": "RequireJS is a JavaScript module loader that resolves and loads modules and their dependencies using the Asynchronous Module Definition format.",
+    "example": "A maintainer declares a chart module's dependencies so they load before the chart module is initialized.",
+    "sense_note": null
+  },
+  {
+    "id": "tbtzl802aq",
+    "definition": "ReSharper is a JetBrains extension for Visual Studio providing code analysis, navigation, and automated refactoring for supported languages.",
+    "example": "A developer uses it to rename a C# method and update references across a solution.",
+    "sense_note": null
+  },
+  {
+    "id": "z65i1huof4",
+    "definition": "Resilience planning identifies disruptions, critical functions, and measures for maintaining service or recovering after a disturbance.",
+    "example": "A utility assigns backup staffing and identifies alternate suppliers before storm season.",
+    "sense_note": null
+  },
+  {
+    "id": "sp5rc8npa7",
+    "definition": "Resolving guest concerns involves listening to a guest's problem, assessing options, and taking or escalating an appropriate corrective action.",
+    "example": "A hotel employee documents a broken room heater and arranges a room move within the property's policies.",
+    "sense_note": null
+  },
+  {
+    "id": "pwau7gon42",
+    "definition": "Resorcerer is a resource editor for classic Macintosh software that can inspect and modify structured resources stored with applications and files.",
+    "example": "A preservation specialist examines the menu and icon resources of an archived Macintosh application.",
+    "sense_note": "Verify intended legacy tool and spelling."
+  },
+  {
+    "id": "d9otmo55ix",
+    "definition": "Resource mobilization is the work of identifying and securing funding, people, materials, or partnerships to support an objective.",
+    "example": "A nonprofit assembles volunteer instructors, donated laptops, and a venue for a community workshop.",
+    "sense_note": null
+  },
+  {
+    "id": "ulrodzi19v",
+    "definition": "A responsibility assignment matrix maps work items to roles to show who performs, owns, or contributes to each item.",
+    "example": "A project manager uses a RACI matrix to designate who is accountable for approving a release.",
+    "sense_note": null
+  },
+  {
+    "id": "v046w359dh",
+    "definition": "Responsive teaching adjusts instruction to learners' demonstrated understanding, needs, and circumstances instead of rigidly following a preset plan.",
+    "example": "A teacher notices a common misconception in exit responses and opens the next class with a contrasting example.",
+    "sense_note": "Culturally responsive teaching is a more specific possible intended sense."
+  },
+  {
+    "id": "xodwbue4v1",
+    "definition": "REST API security protects resource access and interactions with a REST-style interface through controls such as authentication, authorization, and data protection.",
+    "example": "A review verifies that an authenticated account can view only records it is authorized to access.",
+    "sense_note": null
+  },
+  {
+    "id": "w1jmbwuvdp",
+    "definition": "Restaurant management coordinates staff, service, food safety, inventory, and finances to run a food-service operation.",
+    "example": "A manager adjusts shift coverage and ingredient orders for a night with a known reservation surge.",
+    "sense_note": null
+  },
+  {
+    "id": "nccdsjj4uv",
+    "definition": "Restorative justice is an approach to addressing harm that centers affected people and seeks accountability and repair through voluntary, supported participation.",
+    "example": "A trained facilitator helps consenting participants discuss how a harmful incident affected them and agree on steps for repair.",
+    "sense_note": null
+  },
+  {
+    "id": "ywsbnez7wv",
+    "definition": "RethinkDB is a document database with changefeeds that let applications subscribe to updates in query results.",
+    "example": "A dashboard subscribes to an order query so its list refreshes when an order status changes.",
+    "sense_note": null
+  },
+  {
+    "id": "tq6vfkwyq9",
+    "definition": "Retirement administration manages retirement plan records, contributions, eligibility, distributions, and communications under applicable plan rules.",
+    "example": "An administrator reconciles employee contributions before preparing a plan report.",
+    "sense_note": null
+  },
+  {
+    "id": "zoh6kna5kw",
+    "definition": "Retrieval-augmented generation supplies a generative model with information retrieved for a request so the model can use it when producing its answer.",
+    "example": "A support assistant retrieves current refund-policy passages before drafting an answer to a customer.",
+    "sense_note": null
+  },
+  {
+    "id": "iar9iwxac2",
+    "definition": "Return-to-work management coordinates a worker's safe, supported return after an illness, injury, or absence.",
+    "example": "A coordinator agrees on adjusted shifts and temporary duties with a worker and supervisor.",
+    "sense_note": null
+  },
+  {
+    "id": "gomxwo1cp5",
+    "definition": "Revising legal documents involves updating text to reflect instructions, preserve legal meaning, and maintain consistency across clauses and references.",
+    "example": "A reviewer updates an agreement's payment date and checks that defined terms and cross-references still work.",
+    "sense_note": null
+  },
+  {
+    "id": "zaf4cp0v71",
+    "definition": "Rhinoceros 3D is a computer-aided design application for modeling curves, surfaces, solids, and meshes, known for NURBS-based geometry.",
+    "example": "A designer models a curved product housing and exports its geometry for fabrication.",
+    "sense_note": null
+  },
+  {
+    "id": "h3rgr8cl42",
+    "definition": "Ribosomal intergenic spacer analysis examines variation in DNA between ribosomal RNA genes to characterize microbial communities or distinguish organisms.",
+    "example": "An environmental study interprets differences in previously collected community profiles across two sampling sites.",
+    "sense_note": null
+  },
+  {
+    "id": "mli7805zvm",
+    "definition": "Rigging creates a controllable structure of joints, constraints, deformers, or other controls that animators use to pose a digital asset.",
+    "example": "A rigger sets up leg controls so an animator can place a character's foot while the knee bends appropriately.",
+    "sense_note": null
+  },
+  {
+    "id": "brtkhngp2g",
+    "definition": "The Right to Financial Privacy Act restricts certain U.S. federal government access to customers' financial records and specifies procedures and exceptions.",
+    "example": "A federal investigator checks with counsel which process applies before requesting covered account records.",
+    "sense_note": null
+  },
+  {
+    "id": "u39qcl6iyj",
+    "definition": "RightNow CRM is a customer service software product associated with Oracle Service Cloud for managing support cases, knowledge, and customer interactions.",
+    "example": "A support agent opens a service case and consults the integrated knowledge base while replying.",
+    "sense_note": "Legacy branding; verify product name and edition."
+  },
+  {
+    "id": "ty5fbrdgox",
+    "definition": "Riot.js is a JavaScript UI library for defining and rendering reusable web components.",
+    "example": "A developer creates an order-status component that updates when its input changes.",
+    "sense_note": null
+  },
+  {
+    "id": "fq4f1o6rvq",
+    "definition": "RISA-3D is structural engineering software for three-dimensional analysis and design of structures under defined loads and support conditions.",
+    "example": "An engineer models a building frame and reviews member forces under a load combination.",
+    "sense_note": null
+  },
+  {
+    "id": "c8wpsdiotb",
+    "definition": "Risk adjustment coding documents supported diagnosis codes used by a particular health program to estimate patient risk for payment or analysis.",
+    "example": "A coder checks that a diagnosis submitted for a risk model is supported in the clinician's record.",
+    "sense_note": null
+  },
+  {
+    "id": "wg63b9wswc",
+    "definition": "Risk aggregation combines exposures across units, activities, or positions to estimate overall risk while accounting for dependencies where relevant.",
+    "example": "A bank consolidates several portfolios' exposures to the same counterparty before comparing against its credit limit.",
+    "sense_note": null
+  },
+  {
+    "id": "kdkvzqst2k",
+    "definition": "Risk awareness is the capacity to recognize uncertainties and warning signs that could affect an objective and communicate them before harm or loss occurs.",
+    "example": "A project team flags a supplier delay early because it threatens a dependent milestone.",
+    "sense_note": null
+  },
+  {
+    "id": "eqjxogag29",
+    "definition": "Risk exposure assessment identifies the assets, activities, and populations subject to a risk and estimates their potential loss or impact under stated assumptions.",
+    "example": "A site manager estimates how much inventory could be damaged if floodwater enters the lowest storage level.",
+    "sense_note": null
+  },
+  {
+    "id": "e4v06p95c7",
+    "definition": "Risk management planning defines how risks will be identified, evaluated, tracked, treated, and escalated for a particular undertaking.",
+    "example": "A project plan assigns risk owners and sets a review schedule and escalation threshold.",
+    "sense_note": null
+  },
+  {
+    "id": "xf09syrc3y",
+    "definition": "Risk management is the ongoing identification, assessment, treatment, and monitoring of uncertainty that affects objectives.",
+    "example": "A hospital records equipment failures, prioritizes their severity, and monitors whether maintenance changes reduce recurrence.",
+    "sense_note": null
+  },
+  {
+    "id": "ph4yuxrwsd",
+    "definition": "Robomongo is a graphical desktop client for browsing and querying MongoDB databases, later branded as Robo 3T.",
+    "example": "A developer uses the client to inspect a document in a test collection.",
+    "sense_note": "Legacy product name."
+  }
+]

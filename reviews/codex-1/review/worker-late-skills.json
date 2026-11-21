@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c0kc6xcx90",
+    "result": "supports",
+    "ref": "https://www.jacorb.org/releases/3.5/ProgrammingGuide.pdf",
+    "note": "The project guide describes a Java CORBA object request broker for distributed object communication."
+  },
+  {
+    "id": "rqi69qjjr4",
+    "result": "supports",
+    "ref": "https://www.oracle.com/java/technologies/java-communications-api.html",
+    "note": "Oracle confirms serial access and IEEE 1284 parallel access, with the latter explicitly limited to SPP mode; note that scope when expanding the definition."
+  },
+  {
+    "id": "siozurm3lm",
+    "result": "partial",
+    "ref": "https://docs.oracle.com/cd/E24705_01/doc.91/e24220/getting_started.htm",
+    "note": "Oracle names CNC the EnterpriseOne application architecture, while the draft defines the associated administrative discipline. Define the architecture first or explicitly name the skill as CNC administration; the deployment example is a plausible use."
+  },
+  {
+    "id": "lmao37vzxc",
+    "result": "supports",
+    "ref": "https://kairosdb.github.io/docs/",
+    "note": "The project documentation covers ingesting and querying timestamped metrics. A Cassandra-only description would be too narrow because the getting-started guide also documents an H2 backend."
+  },
+  {
+    "id": "ys7x7wgt47",
+    "result": "supports",
+    "ref": "https://ldra.com/products/ldra-testbed-tbvision/",
+    "note": "LDRA identifies Testbed as the static and dynamic analysis engines and describes coding-standard, quality-metric, and coverage analysis for the Testbed and TBvision combination."
+  },
+  {
+    "id": "hnlyt1jz4b",
+    "result": "supports",
+    "ref": "https://www.synopsys.com/content/dam/synopsys/optical-solutions/documents/brochures/lighttools_brochure.pdf",
+    "note": "The developer's product brochure covers illumination modeling and design, optical ray tracing, and light-guide applications."
+  },
+  {
+    "id": "fjun60qhx2",
+    "result": "supports",
+    "ref": "https://mapdb.org/",
+    "note": "The project identifies MapDB as both an embedded Java database engine and a collections library with off-heap and on-disk storage."
+  },
+  {
+    "id": "ivqbujumn8",
+    "result": "supports",
+    "ref": "https://forge.puppet.com/modules/puppet/mcollective",
+    "note": "The first-party module documentation describes MCollective clients, agents, middleware, and groups of managed nodes, consistent with the distributed orchestration definition."
+  },
+  {
+    "id": "dm5iivuzvs",
+    "result": "partial",
+    "ref": "https://assets.elexon.co.uk/wp-content/uploads/2017/10/28160931/22_ISG202_04_CP1498_Assessment-Report-v1.0.pdf",
+    "note": "Elexon's historical assessment identifies the parties as electricity distributors and meter operator agents in Great Britain and describes the agreement's safety, technical, and business interface requirements. The draft is broadly relevant but vague about jurisdiction and conflates the agreement's scope with the separate BSC appointment and qualification process."
+  },
+  {
+    "id": "w1w7p7ynd9",
+    "result": "supports",
+    "ref": "https://devblogs.microsoft.com/oldnewthing/20161227-00/?p=95025",
+    "note": "Microsoft illustrates partial interface localization over a base or parent language for Windows Language Interface Packs; this is not equivalent to a fully localized language pack."
+  },
+  {
+    "id": "o5nqf6k2ww",
+    "result": "supports",
+    "ref": "https://resources.sw.siemens.com/en-GB/fact-sheet-modelsim-cost-effective-simulation-fact-sheet/",
+    "note": "The vendor identifies ModelSim as an HDL simulator used to verify hardware descriptions."
+  },
+  {
+    "id": "hzp4toom8p",
+    "result": "supports",
+    "ref": "https://docs.rapid7.com/nexpose/",
+    "note": "Rapid7 describes the on-premises Security Console's vulnerability scanning and management role. The example stays within defensive review and remediation."
+  },
+  {
+    "id": "ras83mtjf6",
+    "result": "supports",
+    "ref": "https://www.nutanix.com/products/cloud-manager/self-service",
+    "note": "Nutanix names Calm as the previous name of NCM Self-Service and describes blueprint-based provisioning and application lifecycle orchestration across hybrid clouds."
+  },
+  {
+    "id": "ej5umhxvn3",
+    "result": "supports",
+    "ref": "https://developer.vonage.com/en/opentok/overview",
+    "note": "The operator documents OpenTok as an embeddable realtime communications Video API with audio/video and other collaboration features."
+  },
+  {
+    "id": "dy5sokpl37",
+    "result": "supports",
+    "ref": "https://docs.oracle.com/middleware/11119/fp/concepts/chapter01.htm",
+    "note": "Oracle documents enterprise integration through reference process models, shared service inventory, and service artifacts."
+  },
+  {
+    "id": "ttuunjpl3o",
+    "result": "supports",
+    "ref": "https://docs.oracle.com/en/industries/health-sciences/clinical-remote-capture/index.html",
+    "note": "Oracle explicitly identifies Clinical as a clinical data management system and describes entry, validation, and discrepancy management."
+  },
+  {
+    "id": "euiop3hzmk",
+    "result": "supports",
+    "ref": "https://sdk.apryse.com/api/PDFTronSDK/java/com/pdftron/pdf/package-summary.html",
+    "note": "Apryse's Java reference lists PDF rendering, conversion, editing, and annotation classes in the PDFNet-associated package, including support for document comments and annotations."
+  },
+  {
+    "id": "sc4h9yyxxk",
+    "result": "supports",
+    "ref": "https://github.com/phalcon/cphalcon",
+    "note": "The official project identifies Phalcon as a full-stack PHP web framework distributed as a native C extension; this is more precise than the draft's in-part implementation wording."
+  },
+  {
+    "id": "oltduslyt6",
+    "result": "supports",
+    "ref": "https://www.microfocus.com/media/flyer/platespin_protect_flyer.pdf",
+    "note": "The product owner describes workload replication, disaster recovery, and failover testing. This is Protect, not the separate migration product."
+  },
+  {
+    "id": "ggtzg87xae",
+    "result": "supports",
+    "ref": "https://github.com/processing-js/processing-js/",
+    "note": "The original repository describes the JavaScript port of the Processing visualization language and marks it archived since 2018. It is distinct from p5.js."
+  }
+]

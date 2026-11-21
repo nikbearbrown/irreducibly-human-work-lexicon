@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An application delivery network is a set of network services that distributes, accelerates, and protects access to applications.",
+  "entry_text": "An application delivery network is a set of network services that distributes, accelerates, and protects access to applications.",
+  "entry_text_kind": "definition",
+  "example": "An application delivery network sends users to healthy application instances and protects the public entry point from abusive traffic.",
+  "id": "shrj08s20e",
+  "key": "application-delivery-network",
+  "label": "Application delivery network",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

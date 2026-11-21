@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A JavaScript templating library for rendering text or markup from data, including asynchronously supplied data.",
+  "entry_text": "A JavaScript templating library for rendering text or markup from data, including asynchronously supplied data.",
+  "entry_text_kind": "definition",
+  "example": "A website renders a product list after its data service responds.",
+  "id": "pg1d5j8bxe",
+  "key": "dust-js",
+  "label": "Dust.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

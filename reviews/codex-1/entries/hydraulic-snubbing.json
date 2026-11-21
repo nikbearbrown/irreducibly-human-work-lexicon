@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An oilfield well-intervention method using hydraulic equipment to move pipe into or out of a pressurized well.",
+  "entry_text": "An oilfield well-intervention method using hydraulic equipment to move pipe into or out of a pressurized well.",
+  "entry_text_kind": "definition",
+  "example": "A specialist team evaluates whether controlled well intervention requires a snubbing unit.",
+  "id": "wfzg0h1u35",
+  "key": "hydraulic-snubbing",
+  "label": "Hydraulic snubbing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The oilfield sense is intended; confirm against hydraulic damping or restraint in other domains.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Endocrine disorders are conditions in which hormone production, signaling, or tissue response is impaired or excessive.",
+  "entry_text": "Endocrine disorders are conditions in which hormone production, signaling, or tissue response is impaired or excessive.",
+  "entry_text_kind": "definition",
+  "example": "An endocrinologist investigates whether abnormal thyroid hormone production explains a patient's symptoms.",
+  "id": "tz5vp5fotk",
+  "key": "endocrine-disorders",
+  "label": "Endocrine disorders",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

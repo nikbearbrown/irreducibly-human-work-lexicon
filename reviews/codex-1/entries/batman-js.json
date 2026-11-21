@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Batman.js was a JavaScript framework for building client-side web applications around models, bindings, and views.",
+  "entry_text": "Batman.js was a JavaScript framework for building client-side web applications around models, bindings, and views.",
+  "entry_text_kind": "definition",
+  "example": "A maintainer troubleshoots an obsolete application whose page automatically updates when its data changes.",
+  "id": "ppl4zfnufj",
+  "key": "batman-js",
+  "label": "Batman.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

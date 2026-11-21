@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Serial ATA is a serial interface standard for connecting compatible storage devices to a host computer.",
+  "entry_text": "Serial ATA is a serial interface standard for connecting compatible storage devices to a host computer.",
+  "entry_text_kind": "definition",
+  "example": "A technician identifies which drive bay supports a SATA solid-state drive.",
+  "id": "qgak16t1qb",
+  "key": "serial-ata",
+  "label": "Serial ATA",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

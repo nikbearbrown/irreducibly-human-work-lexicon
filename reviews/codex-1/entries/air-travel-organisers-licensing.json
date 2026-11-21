@@ -1,0 +1,28 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Air Travel Organisers’ Licensing is the United Kingdom’s licensing and consumer protection scheme for qualifying air travel arrangements.",
+  "entry_text": "Air Travel Organisers’ Licensing is the United Kingdom’s licensing and consumer protection scheme for qualifying air travel arrangements.",
+  "entry_text_kind": "definition",
+  "example": "A travel organizer checks whether a planned flight-inclusive package falls within the ATOL scheme.",
+  "id": "zyx43s2qb5",
+  "key": "air-travel-organisers-licensing",
+  "label": "Air Travel Organisers' Licensing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "zyx43s2qb5",
+      "note": "The UK regulator describes licensing for applicable flight-inclusive and flight-only arrangements and consumer financial protection when the organizer stops trading. Qualifying is an important scope qualifier.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://www.caa.co.uk/atol-protection/atol-requirements-for-the-travel-industry/do-i-need-an-atol/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

@@ -1,0 +1,28 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Being results-oriented is a tendency to judge work by its demonstrated outcomes rather than by activity alone.",
+  "entry_text": "Being results-oriented is a tendency to judge work by its demonstrated outcomes rather than by activity alone.",
+  "entry_text_kind": "definition",
+  "example": "A support lead checks whether a new help page reduced repeat questions, not just how many articles were published.",
+  "id": "id244h1e6v",
+  "key": "results-oriented",
+  "label": "Results-oriented",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The adjectival label describes a work orientation.",
+  "sources": [
+    {
+      "id": "id244h1e6v",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. DOE Results Driven competency explicitly measures attainment of outcomes; repeat questions illustrate an outcome rather than output volume.",
+      "packet": "worker-stratified.json",
+      "ref": "https://www.energy.gov/sites/prod/files/2015/06/f23/DOE_Competency_Dictionary_FINAL.pdf",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

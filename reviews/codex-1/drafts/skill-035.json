@@ -1,0 +1,242 @@
+[
+  {
+    "id": "oltduslyt6",
+    "definition": "PlateSpin Protect replicates server workloads and supports their recovery after service disruption.",
+    "example": "A team tests failover for a protected workload in a recovery environment.",
+    "sense_note": null
+  },
+  {
+    "id": "d04egvyo8m",
+    "definition": "Play therapy uses play within a therapeutic relationship to help children express experiences and develop coping skills.",
+    "example": "A trained therapist observes themes as a child uses figures to tell a story.",
+    "sense_note": null
+  },
+  {
+    "id": "c7wxx3kgek",
+    "definition": "PLINK is a command-line toolset for managing genotype data and running population genetics or association analyses.",
+    "example": "An analyst checks missing genotype calls before comparing cohorts.",
+    "sense_note": "The uppercase label suggests the genetics tool; distinguish PuTTY's Plink."
+  },
+  {
+    "id": "rbg0r9t749",
+    "definition": "Plumbing drawing documents pipe routes, fixtures and connections for plumbing systems.",
+    "example": "A drafter marks fixtures and drainage routes on a floor plan.",
+    "sense_note": null
+  },
+  {
+    "id": "wvrwtap8yd",
+    "definition": "Plumbing plans examination reviews plumbing drawings and supporting documents against applicable requirements for approval.",
+    "example": "An examiner requests a missing drainage layout detail.",
+    "sense_note": null
+  },
+  {
+    "id": "s5h0wygs8h",
+    "definition": "Point-to-Point Tunneling Protocol tunnels PPP traffic over an IP network and was historically used for virtual private networks.",
+    "example": "An administrator identifies it in legacy remote-access documentation.",
+    "sense_note": "Identifying this legacy protocol is not an endorsement for new deployments."
+  },
+  {
+    "id": "q8azue8nbj",
+    "definition": "A police baton is a handheld impact weapon issued in some law-enforcement settings under agency policy and legal controls.",
+    "example": null,
+    "sense_note": null
+  },
+  {
+    "id": "q0idp0h02o",
+    "definition": "Policy analysis evaluates policy options, effects and tradeoffs to inform decisions.",
+    "example": "An analyst compares the distributional effects of two transit funding proposals.",
+    "sense_note": null
+  },
+  {
+    "id": "q60gtmjw9s",
+    "definition": "Policy research and analysis gathers evidence about a public or institutional issue and evaluates how it informs policy choices.",
+    "example": "A researcher synthesizes evaluations to compare alternative housing policies.",
+    "sense_note": null
+  },
+  {
+    "id": "u70zjxun8w",
+    "definition": "Poll Everywhere collects and displays audience responses during presentations or events.",
+    "example": "An instructor displays anonymous responses to a concept check.",
+    "sense_note": null
+  },
+  {
+    "id": "ms1ijh6bgm",
+    "definition": "Polycom refers to a product family for business voice and video communication.",
+    "example": "A company equips a conference room with an audio and video device.",
+    "sense_note": "Could also name the company or a particular model."
+  },
+  {
+    "id": "cou13tvs4x",
+    "definition": "Positive airway pressure uses pressurized airflow to help maintain an open airway or support breathing.",
+    "example": "A clinician checks whether a patient can comfortably use a prescribed device.",
+    "sense_note": "The technique includes multiple modes."
+  },
+  {
+    "id": "i9qx5qqteg",
+    "definition": "POSIX is a family of standards specifying portable operating-system interfaces, including APIs and shell utilities for Unix-like environments.",
+    "example": "A developer uses a standardized interface to build software for multiple compatible operating systems.",
+    "sense_note": null
+  },
+  {
+    "id": "zrxnvhd90b",
+    "definition": "Post Office Protocol retrieves email from a server and is commonly used in its POP3 version.",
+    "example": "An email client downloads messages from a configured POP3 mailbox.",
+    "sense_note": null
+  },
+  {
+    "id": "setvh9dhil",
+    "definition": "PostCSS lets JavaScript plugins analyze or transform CSS.",
+    "example": "A build uses a plugin to add selected browser prefixes before publishing stylesheets.",
+    "sense_note": null
+  },
+  {
+    "id": "sh6x1wmacn",
+    "definition": "PostgreSQL is an open-source relational database system supporting SQL, transactions and extensible data features.",
+    "example": "A service stores orders and queries them using joins and aggregates.",
+    "sense_note": null
+  },
+  {
+    "id": "gst84p2xvt",
+    "definition": "Postman designs, sends, documents and tests API requests.",
+    "example": "A developer checks a response body and status code from an internal test endpoint.",
+    "sense_note": null
+  },
+  {
+    "id": "evzc8xqwgr",
+    "definition": "Postorder traversal visits a node's children before the node itself, conventionally visiting left before right for a binary tree.",
+    "example": "A program calculates a directory's total size after calculating the sizes of its subdirectories.",
+    "sense_note": null
+  },
+  {
+    "id": "l9ibjlrcxx",
+    "definition": "PouchDB is a JavaScript database library for storing documents locally and synchronizing with compatible remote services.",
+    "example": "A form saves entries offline and synchronizes them when connectivity returns.",
+    "sense_note": null
+  },
+  {
+    "id": "ubxuka0jkc",
+    "definition": "Power Automate is a Microsoft tool for automating tasks and workflows across applications and services.",
+    "example": "A workflow requests manager approval whenever a form is submitted.",
+    "sense_note": null
+  },
+  {
+    "id": "k2fcjv8nsw",
+    "definition": "A power flow study calculates operating conditions in an electrical network under specified load and generation assumptions.",
+    "example": "An engineer checks line loading and bus voltages for a proposed expansion.",
+    "sense_note": null
+  },
+  {
+    "id": "ch3dy4qykj",
+    "definition": "Power tool operation uses electrically, pneumatically or otherwise powered tools to perform work under appropriate controls.",
+    "example": "A trained worker uses a powered drill to prepare holes for a fixture.",
+    "sense_note": null
+  },
+  {
+    "id": "bbof3wb8ob",
+    "definition": "Powered industrial truck operation controls forklifts and similar workplace equipment for moving materials within safe operating limits.",
+    "example": "A trained operator moves a palletized load to an approved storage location.",
+    "sense_note": null
+  },
+  {
+    "id": "afnmlmdol3",
+    "definition": "PowerSchool provides software for managing student information and other school administration processes.",
+    "example": "A school office records student enrollment and checks attendance.",
+    "sense_note": null
+  },
+  {
+    "id": "ovqzr0d4p1",
+    "definition": "Pre-sales engineering uses technical expertise to determine whether a proposed solution meets a prospective customer's requirements.",
+    "example": "An engineer builds a proof of concept for a requested integration.",
+    "sense_note": null
+  },
+  {
+    "id": "j209yv97kq",
+    "definition": "Predictive analytics software builds, evaluates or applies statistical and machine learning models to forecast outcomes from data.",
+    "example": "An analyst uses software to estimate demand from past sales.",
+    "sense_note": null
+  },
+  {
+    "id": "pgi48gvql4",
+    "definition": "Predictive modelling fits a model to estimate unknown outcomes using available inputs.",
+    "example": "A team predicts delivery times from past orders and evaluates errors on new data.",
+    "sense_note": null
+  },
+  {
+    "id": "v1596zg3wx",
+    "definition": "Presentation design organizes a message into clear visual material suited to its audience and setting.",
+    "example": "A designer replaces a dense slide with a labeled chart and an explanatory sentence.",
+    "sense_note": null
+  },
+  {
+    "id": "dwu4oonl43",
+    "definition": "Presentation software creates and delivers structured visual presentations, typically as sequences of slides.",
+    "example": "A trainer prepares slides with diagrams and presenter notes.",
+    "sense_note": null
+  },
+  {
+    "id": "cyqnkah16t",
+    "definition": "PrestoDB is a distributed SQL query engine for running analytical queries across data sources without requiring the engine to own the storage.",
+    "example": "An analyst uses connected sources to combine data-lake events with information from a database.",
+    "sense_note": null
+  },
+  {
+    "id": "r3o7e1rj3e",
+    "definition": "Preventive dental care reduces the risk or progression of oral disease through routine care, monitoring and education.",
+    "example": "A dental team provides preventive services and teaches the patient how to improve daily oral hygiene.",
+    "sense_note": null
+  },
+  {
+    "id": "s5ltk04rap",
+    "definition": "Prezi is presentation software that can arrange content on a visual canvas and navigate between areas through animated transitions.",
+    "example": "A presenter zooms from a project overview into each workstream.",
+    "sense_note": null
+  },
+  {
+    "id": "n5hfz8pq8g",
+    "definition": "Price negotiation seeks an agreed price and related terms through discussion of value, constraints and alternatives.",
+    "example": "A buyer offers a larger order in exchange for a volume discount.",
+    "sense_note": null
+  },
+  {
+    "id": "rpkyr53hjq",
+    "definition": "PrimeRx is pharmacy management software supporting prescription processing, inventory and dispensing workflows.",
+    "example": "A pharmacy records prescription status and monitors related inventory.",
+    "sense_note": null
+  },
+  {
+    "id": "w5i4dh2uc2",
+    "definition": "PRINCE2 is a structured project management method organizing governance, roles and work around controlled stages and business justification.",
+    "example": "A project board reviews the business case and next-stage plan before authorizing further work.",
+    "sense_note": null
+  },
+  {
+    "id": "c4wv6yb2o3",
+    "definition": "The Principles for Responsible Banking provide a framework for aligning banking strategy and practice with sustainable development and tracking impacts.",
+    "example": "A participating bank assesses its major impacts and sets targets for areas it can influence.",
+    "sense_note": null
+  },
+  {
+    "id": "zbpnwo0rf3",
+    "definition": "Print design prepares visual material for physical printing with attention to layout, typography, color and production constraints.",
+    "example": "A designer sets the bleed on a brochure to meet the printer's specifications.",
+    "sense_note": null
+  },
+  {
+    "id": "qx1zxjygen",
+    "definition": "Printed circuit board design arranges components and conductive traces while meeting electrical, mechanical and manufacturing requirements.",
+    "example": "An engineer checks that connectors and traces fit a sensor board and its enclosure.",
+    "sense_note": null
+  },
+  {
+    "id": "m8mcxzuysb",
+    "definition": "A privacy impact assessment identifies how an activity handles personal information, evaluates risks and documents safeguards.",
+    "example": "A team checks whether a service form collects more information than needed.",
+    "sense_note": null
+  },
+  {
+    "id": "mf5p7pdwkr",
+    "definition": "Privileged access management controls, monitors and limits the use of accounts or credentials with elevated permissions.",
+    "example": "An administrator receives approved temporary access that expires after a maintenance window.",
+    "sense_note": null
+  }
+]

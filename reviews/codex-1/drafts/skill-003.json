@@ -1,0 +1,242 @@
+[
+  {
+    "id": "fboqbigh6e",
+    "definition": "The Anglo-American Cataloguing Rules prescribe how to describe library materials and select access points in catalog records.",
+    "example": "A cataloguer prepares a record that makes a book discoverable under its author and title.",
+    "sense_note": null
+  },
+  {
+    "id": "swlrwigph5",
+    "definition": "Angular CLI is a command-line tool for generating, building, testing, and maintaining Angular projects.",
+    "example": "A developer generates an Angular component with a matching test file.",
+    "sense_note": null
+  },
+  {
+    "id": "fcadn3ihwg",
+    "definition": "Angular is a TypeScript-based framework for building web applications with components, declarative templates, and dependency injection.",
+    "example": "A development team creates a dashboard whose components share a data service.",
+    "sense_note": null
+  },
+  {
+    "id": "mnlgauzi32",
+    "definition": "AngularJS is the original JavaScript-based Angular framework that links HTML templates to application data and behavior through directives and binding.",
+    "example": "A maintainer updates a form in a legacy AngularJS application.",
+    "sense_note": "This is the earlier 1.x framework, not Angular 2 or later."
+  },
+  {
+    "id": "r6e29dwqn6",
+    "definition": "Anim8or is a desktop application for polygonal 3D modeling and character animation.",
+    "example": "An animator creates a simple model and poses it across keyframes.",
+    "sense_note": null
+  },
+  {
+    "id": "ecqh2a4ca4",
+    "definition": "Animated explainer video production uses scripted narration and moving visuals to teach or explain a topic.",
+    "example": "An instructional team animates a parcel’s route to explain a warehouse’s fulfillment process.",
+    "sense_note": null
+  },
+  {
+    "id": "x8xjrkaqqf",
+    "definition": "Anma is a Japanese massage tradition using manual pressure, kneading, and related bodywork techniques.",
+    "example": "A practitioner explains what an Anma session involves before agreeing on areas to address.",
+    "sense_note": null
+  },
+  {
+    "id": "raz4etcdn4",
+    "definition": "Antics3D was a 3D animation and previsualization application for staging scenes with characters, sets, and camera moves.",
+    "example": "A film planner blocks a scene and checks the planned camera framing before shooting.",
+    "sense_note": null
+  },
+  {
+    "id": "cs0zix8jdm",
+    "definition": "Antivirus software identifies and helps contain malicious programs or files through scanning and monitoring.",
+    "example": "An endpoint agent quarantines a flagged attachment so a security team can review it.",
+    "sense_note": null
+  },
+  {
+    "id": "sadiccf9ey",
+    "definition": "Apache Airflow orchestrates scheduled or triggered workflows whose tasks and dependencies are defined as directed acyclic graphs.",
+    "example": "A data engineer makes a reporting task wait for two source extracts to complete.",
+    "sense_note": null
+  },
+  {
+    "id": "z2kard8rzx",
+    "definition": "Apache Ambari is a tool for provisioning, managing, and monitoring Hadoop cluster services.",
+    "example": "An administrator checks the health of distributed storage services across cluster nodes.",
+    "sense_note": null
+  },
+  {
+    "id": "lbok5jfq45",
+    "definition": "Apache Ant is a Java-based build automation tool that executes targets and tasks commonly declared in XML.",
+    "example": "A maintainer builds an application and packages the result using its existing Ant build file.",
+    "sense_note": null
+  },
+  {
+    "id": "ni2i5wg786",
+    "definition": "Apache Archiva manages repositories of software build artifacts, particularly for Maven-based projects.",
+    "example": "A build team serves approved dependency versions from an internal repository.",
+    "sense_note": null
+  },
+  {
+    "id": "odz2egqfxy",
+    "definition": "Apache Beam defines batch and streaming data pipelines through a unified model that runs on supported processing back ends.",
+    "example": "An engineer uses the same transformation logic for historical records and newly arriving events.",
+    "sense_note": null
+  },
+  {
+    "id": "f2p6p58eru",
+    "definition": "Apache Cassandra is a distributed wide-column database designed to store and serve large datasets across multiple nodes.",
+    "example": "A service stores device readings by device identifier and time window.",
+    "sense_note": null
+  },
+  {
+    "id": "ub4dw76yra",
+    "definition": "Apache Cocoon is a web application framework that processes and transforms content through pipelines, historically centered on XML.",
+    "example": "A publisher transforms structured documents into web pages using a series of content-processing stages.",
+    "sense_note": null
+  },
+  {
+    "id": "j6btwxoob1",
+    "definition": "Apache Giraph is a distributed graph-processing framework that runs iterative computations over graph vertices and edges.",
+    "example": "An analyst computes connected components in a large relationship network.",
+    "sense_note": null
+  },
+  {
+    "id": "bj4a613kbk",
+    "definition": "Apache Gump is a continuous integration system that builds related open-source projects to detect dependency and compatibility problems.",
+    "example": "A project maintainer sees that a change in an upstream library breaks a downstream build.",
+    "sense_note": null
+  },
+  {
+    "id": "byo5hfwztp",
+    "definition": "Apache Jena is a Java framework for RDF data, SPARQL queries, and semantic-web applications.",
+    "example": "A research team queries a graph of collections and the people connected to them.",
+    "sense_note": null
+  },
+  {
+    "id": "tt4q0v7blz",
+    "definition": "Apache jUDDI is a Java implementation of the UDDI registry standard for publishing and discovering web services.",
+    "example": "An enterprise maintains a searchable registry of service descriptions for internal applications.",
+    "sense_note": null
+  },
+  {
+    "id": "zksf32dtwb",
+    "definition": "Apache Karaf is a modular Java runtime for deploying and managing OSGi applications and related components.",
+    "example": "An operator enables a packaged feature without rebuilding the surrounding application runtime.",
+    "sense_note": null
+  },
+  {
+    "id": "uztz53wb8d",
+    "definition": "Apache Lenya is a web content-management system built around XML documents and publication workflows.",
+    "example": "An editor reviews and publishes a structured article through the site’s approval process.",
+    "sense_note": null
+  },
+  {
+    "id": "xrm90olzt9",
+    "definition": "Apache Mahout provides scalable mathematical and machine-learning tools for processing large datasets.",
+    "example": "An analyst applies distributed computation to a large feature matrix.",
+    "sense_note": null
+  },
+  {
+    "id": "y560uwo68d",
+    "definition": "Apache Mesos manages and allocates shared compute resources to distributed workload frameworks.",
+    "example": "A cluster operator runs multiple processing frameworks on a common pool of machines.",
+    "sense_note": null
+  },
+  {
+    "id": "xf20rnp68i",
+    "definition": "Apache NiFi designs and operates data flows for moving, routing, and transforming data between systems.",
+    "example": "A team routes incoming sensor records to different destinations according to their source.",
+    "sense_note": null
+  },
+  {
+    "id": "i551tg0cu0",
+    "definition": "Apache ObJectRelationalBridge is a Java object-relational mapping tool for persisting object data in relational databases.",
+    "example": "A maintainer maps an application’s order objects to tables without writing SQL for every save.",
+    "sense_note": null
+  },
+  {
+    "id": "n0qcfbikx2",
+    "definition": "Apache OFBiz is a framework and suite of enterprise applications for functions such as order management, accounting, and commerce.",
+    "example": "A retailer connects its product catalog and fulfillment records in a shared system.",
+    "sense_note": null
+  },
+  {
+    "id": "xka0j0r454",
+    "definition": "Apache OpenEJB is an implementation of the Enterprise JavaBeans container specification for running enterprise Java components.",
+    "example": "A developer runs transaction-aware application services in an embedded container during tests.",
+    "sense_note": null
+  },
+  {
+    "id": "k2fnt61kzq",
+    "definition": "Apache OpenNLP is a Java toolkit for common statistical natural language processing tasks such as tokenization and named entity recognition.",
+    "example": "A developer identifies person and organization names in a collection of articles.",
+    "sense_note": null
+  },
+  {
+    "id": "sf6d6x0h64",
+    "definition": "Apache PDFBox is a Java library for creating, reading, and manipulating PDF documents.",
+    "example": "A developer extracts searchable text from incoming PDF forms.",
+    "sense_note": null
+  },
+  {
+    "id": "r17ek70io4",
+    "definition": "Apache PredictionIO was a platform for building and deploying machine-learning prediction services.",
+    "example": "A team wraps a recommendation model as an application-facing prediction service.",
+    "sense_note": null
+  },
+  {
+    "id": "zl7ti25hhx",
+    "definition": "Apache Spark is a distributed computation engine for large-scale data processing and analytics.",
+    "example": "A team aggregates months of event records across a cluster.",
+    "sense_note": null
+  },
+  {
+    "id": "awczms31u7",
+    "definition": "Apache Tiles is a Java web presentation framework for composing pages from reusable layout fragments.",
+    "example": "A team shares navigation and footer fragments across several web pages.",
+    "sense_note": null
+  },
+  {
+    "id": "k3hb2jqpwb",
+    "definition": "Apache TinkerPop is a graph computing framework that defines common interfaces and the Gremlin traversal language.",
+    "example": "A developer uses Gremlin to find connections between people and projects.",
+    "sense_note": null
+  },
+  {
+    "id": "bzumolh62w",
+    "definition": "API design defines an interface’s operations, data contracts, and behavior so callers can use it reliably.",
+    "example": "A team specifies how an orders API responds to duplicate requests and invalid input.",
+    "sense_note": null
+  },
+  {
+    "id": "v7rwb3jmgy",
+    "definition": "An API gateway is an entry point that routes API requests and can apply common controls before forwarding them to back-end services.",
+    "example": "A gateway authenticates a request before routing it to the product service.",
+    "sense_note": null
+  },
+  {
+    "id": "ogt8lrbjfc",
+    "definition": "API management governs the publication, access, monitoring, and evolution of APIs across their lifecycle.",
+    "example": "A platform team tracks usage and communicates the retirement date of an old API version.",
+    "sense_note": null
+  },
+  {
+    "id": "nkt2stz7xu",
+    "definition": "Apollo GraphQL is a set of tools for building, consuming, and operating GraphQL APIs.",
+    "example": "A web app uses Apollo Client to fetch and cache data for its account page.",
+    "sense_note": null
+  },
+  {
+    "id": "ayizahk9u0",
+    "definition": "Appian is a low-code software platform for building workflow and process applications.",
+    "example": "An operations team creates a claims review workflow with different steps for intake and approval.",
+    "sense_note": null
+  },
+  {
+    "id": "q74bxk8hi6",
+    "definition": "Apple Device Enrollment Program was an Apple service for automating institutional enrollment of eligible devices into mobile device management.",
+    "example": "A school sets up new iPads to enroll automatically during initial setup.",
+    "sense_note": "The historical DEP label should not be used interchangeably with every current Apple device management service."
+  }
+]

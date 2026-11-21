@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "language",
+    "id": "o92byobbda",
+    "key": "pl-sql",
+    "label": "PL/SQL",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "onzi0v8hlf",
+    "key": "plpgsql",
+    "label": "PL/pgSQL",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "vicv7ha84e",
+    "key": "polish",
+    "label": "Polish",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "e6d3w0bi1i",
+    "key": "portuguese",
+    "label": "Portuguese",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ty7glckkcx",
+    "key": "postscript",
+    "label": "PostScript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "kfyctm5kde",
+    "key": "power-fx",
+    "label": "Power Fx",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ded0nfrja6",
+    "key": "powershell",
+    "label": "PowerShell",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "j7d05adqgg",
+    "key": "prolog",
+    "label": "Prolog",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "cimstj8zi6",
+    "key": "punjabi",
+    "label": "Punjabi",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "nnn6b9rv8c",
+    "key": "purescript",
+    "label": "PureScript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "pk7cebmtg6",
+    "key": "python",
+    "label": "Python",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ub71msqw4l",
+    "key": "q",
+    "label": "Q#",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "z2qq76c1yj",
+    "key": "quechua",
+    "label": "Quechua",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "oeixkjthc3",
+    "key": "r",
+    "label": "R",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "pc6p0jwvif",
+    "key": "racket",
+    "label": "Racket",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "goiz44dwnb",
+    "key": "romanian",
+    "label": "Romanian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "s3rdirqwq6",
+    "key": "ruby",
+    "label": "Ruby",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "c33qxaphm7",
+    "key": "russian",
+    "label": "Russian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "e0p0dbx59q",
+    "key": "rust",
+    "label": "Rust",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hs6rwa4dqv",
+    "key": "sakha",
+    "label": "Sakha",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ejc1plwt0s",
+    "key": "samoan",
+    "label": "Samoan",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "dupsfn56g9",
+    "key": "sango",
+    "label": "Sango",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "bak08047ud",
+    "key": "santali",
+    "label": "Santali",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "efqdzpzw1v",
+    "key": "saraiki",
+    "label": "Saraiki",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "pr56rj4a6x",
+    "key": "sas-macro-language",
+    "label": "SAS macro language",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "d7zsm83o61",
+    "key": "sas",
+    "label": "SAS",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "aofnj17vp2",
+    "key": "sass",
+    "label": "Sass",
+    "onet_codes": [],
+    "original_kind": "style-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ztt7xizgr8",
+    "key": "scala",
+    "label": "Scala",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "esk7959e8m",
+    "key": "scheme",
+    "label": "Scheme",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "pjhm4fma0a",
+    "key": "scratch",
+    "label": "Scratch",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "zrvz05z4iv",
+    "key": "serbo-croatian",
+    "label": "Serbo-Croatian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "et1r4lfw6l",
+    "key": "service-provisioning-markup-language",
+    "label": "Service Provisioning Markup Language",
+    "onet_codes": [],
+    "original_kind": "markup-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "codtvk9302",
+    "key": "sesotho",
+    "label": "Sesotho",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wfw1x8wd7f",
+    "key": "shan",
+    "label": "Shan",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "fu99i0fje4",
+    "key": "shell-scripting",
+    "label": "Shell scripting",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "moolbswjw7",
+    "key": "shona",
+    "label": "Shona",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "u1r1jfnmnz",
+    "key": "silesian",
+    "label": "Silesian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "qou8ag13js",
+    "key": "simula",
+    "label": "Simula",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "nsuvujp7pw",
+    "key": "sindhi",
+    "label": "Sindhi",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wcgrarya9l",
+    "key": "sinhala",
+    "label": "Sinhala",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  }
+]

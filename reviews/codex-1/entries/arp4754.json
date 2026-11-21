@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ARP4754 is an SAE aerospace recommended practice for developing civil aircraft and systems using structured requirements, validation, verification, and development assurance.",
+  "entry_text": "ARP4754 is an SAE aerospace recommended practice for developing civil aircraft and systems using structured requirements, validation, verification, and development assurance.",
+  "entry_text_kind": "definition",
+  "example": "An avionics program uses the guidance to trace a system safety requirement through allocation and verification.",
+  "id": "fkq839wai8",
+  "key": "arp4754",
+  "label": "ARP4754",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specific revisions have different designations; the label does not specify one.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

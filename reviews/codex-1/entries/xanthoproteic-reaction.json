@@ -1,0 +1,20 @@
+{
+  "batch": "skill-049.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The xanthoproteic reaction is a qualitative color reaction that indicates the presence of certain aromatic amino acid residues in a sample.",
+  "entry_text": "The xanthoproteic reaction is a qualitative color reaction that indicates the presence of certain aromatic amino acid residues in a sample.",
+  "entry_text_kind": "definition",
+  "example": "A chemistry class relates the observed qualitative color change to aromatic groups in proteins.",
+  "id": "ayo1hdf1sx",
+  "key": "xanthoproteic-reaction",
+  "label": "Xanthoproteic reaction",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Scalding is a Scala library for expressing distributed data processing jobs on infrastructure such as Hadoop, built on Cascading.",
+  "entry_text": "Scalding is a Scala library for expressing distributed data processing jobs on infrastructure such as Hadoop, built on Cascading.",
+  "entry_text_kind": "definition",
+  "example": "A data engineer defines a batch job that groups records by category and sums their values.",
+  "id": "kg3scy47l7",
+  "key": "scalding",
+  "label": "Scalding",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as the Scala library, not the thermal injury or processing technique.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

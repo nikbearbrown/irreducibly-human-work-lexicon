@@ -1,0 +1,28 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache Airflow orchestrates scheduled or triggered workflows whose tasks and dependencies are defined as directed acyclic graphs.",
+  "entry_text": "Apache Airflow orchestrates scheduled or triggered workflows whose tasks and dependencies are defined as directed acyclic graphs.",
+  "entry_text_kind": "definition",
+  "example": "A data engineer makes a reporting task wait for two source extracts to complete.",
+  "id": "sadiccf9ey",
+  "key": "apache-airflow",
+  "label": "Apache Airflow",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "sadiccf9ey",
+      "note": "The project guide documents schedule, explicit and asset-triggered runs, and acyclic task dependencies. Airflow coordinates task execution rather than prescribing what happens inside each task.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/dags.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

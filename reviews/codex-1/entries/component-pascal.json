@@ -1,0 +1,20 @@
+{
+  "batch": "language-002.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A modular language in the Oberon tradition designed for component-oriented software.",
+  "entry_text": "A modular language in the Oberon tradition designed for component-oriented software.",
+  "entry_text_kind": "definition",
+  "example": "A developer exposes selected types through a module interface.",
+  "id": "njqn7yrch4",
+  "key": "component-pascal",
+  "label": "Component Pascal",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

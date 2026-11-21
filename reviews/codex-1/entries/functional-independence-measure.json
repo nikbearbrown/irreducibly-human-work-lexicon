@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A standardized assessment instrument that rates how much assistance a person needs for selected daily activities and functions.",
+  "entry_text": "A standardized assessment instrument that rates how much assistance a person needs for selected daily activities and functions.",
+  "entry_text_kind": "definition",
+  "example": "A rehabilitation team records changes in a patient's independence during care.",
+  "id": "t0b61v3qrz",
+  "key": "functional-independence-measure",
+  "label": "Functional Independence Measure",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

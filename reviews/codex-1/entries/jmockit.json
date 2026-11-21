@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "JMockit is a Java testing library for substituting dependencies and verifying interactions in unit tests.",
+  "entry_text": "JMockit is a Java testing library for substituting dependencies and verifying interactions in unit tests.",
+  "entry_text_kind": "definition",
+  "example": "A test replaces a clock dependency so it can verify expiration behavior using a fixed time.",
+  "id": "l003adbeqa",
+  "key": "jmockit",
+  "label": "JMockit",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

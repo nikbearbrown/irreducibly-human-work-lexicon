@@ -1,0 +1,28 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache Cassandra is a distributed wide-column database designed to store and serve large datasets across multiple nodes.",
+  "entry_text": "Apache Cassandra is a distributed wide-column database designed to store and serve large datasets across multiple nodes.",
+  "entry_text_kind": "definition",
+  "example": "A service stores device readings by device identifier and time window.",
+  "id": "f2p6p58eru",
+  "key": "apache-cassandra",
+  "label": "Apache Cassandra",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "f2p6p58eru",
+      "note": "Cassandra documents a partitioned wide-column model deployed across cluster nodes, with architecture intended for large storage footprints and query workloads. This is a wide-column store, not a columnar analytics file format.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://cassandra.apache.org/doc/stable/cassandra/architecture/overview.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

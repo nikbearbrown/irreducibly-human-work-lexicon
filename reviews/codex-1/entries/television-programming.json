@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Television programming selects, schedules, or commissions content for a television channel or service to meet audience and operational goals.",
+  "entry_text": "Television programming selects, schedules, or commissions content for a television channel or service to meet audience and operational goals.",
+  "entry_text_kind": "definition",
+  "example": "A scheduler places a weekly documentary in a time slot where its intended audience is likely to watch.",
+  "id": "ttvro9fv4i",
+  "key": "television-programming",
+  "label": "Television programming",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Could also denote the television content itself; interpreted as the work of organizing it.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

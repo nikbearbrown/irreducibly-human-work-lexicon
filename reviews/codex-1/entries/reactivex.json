@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ReactiveX is a family of libraries and interfaces for composing and transforming asynchronous streams through observable sequences.",
+  "entry_text": "ReactiveX is a family of libraries and interfaces for composing and transforming asynchronous streams through observable sequences.",
+  "entry_text_kind": "definition",
+  "example": "An application filters and combines streams of interface events.",
+  "id": "isdz1w83kv",
+  "key": "reactivex",
+  "label": "ReactiveX",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

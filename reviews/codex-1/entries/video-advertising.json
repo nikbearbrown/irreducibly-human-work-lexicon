@@ -1,0 +1,20 @@
+{
+  "batch": "skill-047.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Video advertising uses paid video placements to deliver promotional messages.",
+  "entry_text": "Video advertising uses paid video placements to deliver promotional messages.",
+  "entry_text_kind": "definition",
+  "example": "A nonprofit sponsors a short event announcement.",
+  "id": "y5z1tl7euy",
+  "key": "video-advertising",
+  "label": "Video advertising",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Carrot2 is a software library for clustering collections of text or search results into labeled groups.",
+  "entry_text": "Carrot2 is a software library for clustering collections of text or search results into labeled groups.",
+  "entry_text_kind": "definition",
+  "example": "A search interface groups articles under automatically inferred topics.",
+  "id": "atpcz521nq",
+  "key": "carrot2",
+  "label": "Carrot2",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

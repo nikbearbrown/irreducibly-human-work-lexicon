@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Simputer was a low-cost handheld computing design created in India to make computing more accessible through features such as shared use and support for local-language interfaces.",
+  "entry_text": "The Simputer was a low-cost handheld computing design created in India to make computing more accessible through features such as shared use and support for local-language interfaces.",
+  "entry_text_kind": "definition",
+  "example": "A museum exhibit uses a Simputer to illustrate early handheld computing designed for community access.",
+  "id": "kmd4pupkyx",
+  "key": "simputer",
+  "label": "Simputer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical product; features may vary by implementation.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

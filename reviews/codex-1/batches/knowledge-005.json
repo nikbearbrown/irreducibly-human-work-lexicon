@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "knowledge",
+    "id": "kgaqqkj85g",
+    "key": "engineering-mathematics",
+    "label": "Engineering mathematics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yf5sbs8dj5",
+    "key": "engineering-statics",
+    "label": "Engineering statics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mcd36zu7px",
+    "key": "engineering-statistics",
+    "label": "Engineering statistics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "tr09cdaifq",
+    "key": "enodeb",
+    "label": "eNodeB",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "csly32ln8y",
+    "key": "environmental-anthropology",
+    "label": "Environmental anthropology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cxnx0quia8",
+    "key": "environmental-finance",
+    "label": "Environmental finance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ynz87l2wd8",
+    "key": "environmental-social-and-governance",
+    "label": "Environmental, social and governance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "has4hqzm9c",
+    "key": "equities",
+    "label": "Equities",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "c8dynexvh1",
+    "key": "erikson-s-stages-of-psychosocial-development",
+    "label": "Erikson's stages of psychosocial development",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cr5t68tqrq",
+    "key": "ethical-ai",
+    "label": "Ethical AI",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xscxa564ti",
+    "key": "etiology",
+    "label": "Etiology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "nlpp5heif9",
+    "key": "excess-return",
+    "label": "Excess return",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "st55lsvhfe",
+    "key": "expectancy-theory",
+    "label": "Expectancy theory",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "l3hn8e47ak",
+    "key": "extended-parallel-process-model",
+    "label": "Extended Parallel Process Model",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "afj4721k6w",
+    "key": "extended-reality",
+    "label": "Extended reality",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "d96cz68osz",
+    "key": "extended-validation-certificate",
+    "label": "Extended validation certificate",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "v7d85yap3i",
+    "key": "eye-surgery",
+    "label": "Eye surgery",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "bnirjna4h6",
+    "key": "factoring-finance",
+    "label": "Factoring (finance)",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "m9enm9l66f",
+    "key": "family-and-consumer-sciences",
+    "label": "Family and consumer sciences",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "b54kbh2h43",
+    "key": "family-ministry",
+    "label": "Family ministry",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ji21mv1q0v",
+    "key": "family-systems-theory",
+    "label": "Family systems theory",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "x67fsx1qco",
+    "key": "feminist-theory",
+    "label": "Feminist theory",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "oo03viu49k",
+    "key": "fibre-channel",
+    "label": "Fibre Channel",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ll3qkk2jdu",
+    "key": "field-programmable-gate-array",
+    "label": "Field-programmable gate array",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "qmvmif4a3i",
+    "key": "file-control-block",
+    "label": "File control block",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "yjhzrcmw7v",
+    "key": "final-expense-insurance",
+    "label": "Final expense insurance",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "hl9jtiahtk",
+    "key": "financial-privacy",
+    "label": "Financial privacy",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "nymhipg0hw",
+    "key": "flexible-single-master-operations",
+    "label": "Flexible Single Master Operations",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fa900jy3j1",
+    "key": "floating-point-arithmetic",
+    "label": "Floating-point arithmetic",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "fmr7msrro2",
+    "key": "fluid-statics",
+    "label": "Fluid statics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cdwflm7faa",
+    "key": "folk-music",
+    "label": "Folk music",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "cd4wpjcvoe",
+    "key": "food-economics",
+    "label": "Food economics",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "k3mym9larg",
+    "key": "food-microbiology",
+    "label": "Food microbiology",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "mcl9mvr4nx",
+    "key": "food-process-engineering",
+    "label": "Food process engineering",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "dd2h4imy46",
+    "key": "food-safety",
+    "label": "Food safety",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "x898wqqz2q",
+    "key": "food-science",
+    "label": "Food science",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "y6ccuo6c1l",
+    "key": "forced-draft-systems",
+    "label": "Forced draft systems",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "ojapzhs7kb",
+    "key": "forensic-dentistry",
+    "label": "Forensic dentistry",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "vpg63jqsjx",
+    "key": "forklift-safety",
+    "label": "Forklift safety",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  },
+  {
+    "broad_class": "knowledge",
+    "id": "xdi53hf5ry",
+    "key": "fuel-cell",
+    "label": "Fuel cell",
+    "onet_codes": [],
+    "original_kind": "knowledge"
+  }
+]

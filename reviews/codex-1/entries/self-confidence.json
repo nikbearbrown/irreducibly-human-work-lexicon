@@ -1,0 +1,28 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "classification_check": {
+    "element_id": "1.D.1.g",
+    "name": "Self-Confidence",
+    "note": "Exact label in a different source category. Check whether the intended sense is a work style or a distinct ability.",
+    "result": "alternate-category-in-source",
+    "source_category": "O*NET Work Styles",
+    "url": "https://www.onetcenter.org/dl_files/database/db_30_2_text/Content%20Model%20Reference.txt"
+  },
+  "definition": "Self-confidence is trust in one's capacity to act or exercise judgment in a situation, without implying that the judgment is correct.",
+  "entry_text": "Self-confidence is trust in one's capacity to act or exercise judgment in a situation, without implying that the judgment is correct.",
+  "entry_text_kind": "definition",
+  "example": "A junior designer explains a design choice to a review panel while remaining open to counterevidence.",
+  "id": "k2ayt41ale",
+  "key": "self-confidence",
+  "label": "Self-confidence",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Better understood as a disposition or belief than as a discrete cognitive ability.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

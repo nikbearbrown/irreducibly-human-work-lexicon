@@ -1,0 +1,28 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Data provenance records where data originated and how it was transformed or transferred.",
+  "entry_text": "Data provenance records where data originated and how it was transformed or transferred.",
+  "entry_text_kind": "definition",
+  "example": "A reviewer traces an aggregate back to the source records and transformation steps.",
+  "id": "nozav31cgp",
+  "key": "provenance",
+  "label": "Data provenance",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "nozav31cgp",
+      "note": "W3C defines provenance around entities, activities, and people involved in producing data. The draft covers origin and processing; broader agents and attribution could be added.",
+      "packet": "root-skill-037-and-abc.json",
+      "ref": "https://www.w3.org/TR/prov-overview/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

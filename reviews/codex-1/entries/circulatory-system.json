@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The circulatory system is the heart, blood, and blood vessels working together to distribute oxygen and nutrients and carry wastes away from tissues.",
+  "entry_text": "The circulatory system is the heart, blood, and blood vessels working together to distribute oxygen and nutrients and carry wastes away from tissues.",
+  "entry_text_kind": "definition",
+  "example": "Blood travels from the heart to the lungs to take up oxygen before returning to be pumped through the body.",
+  "id": "dhc19wwc9q",
+  "key": "circulatory-system",
+  "label": "Circulatory system",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

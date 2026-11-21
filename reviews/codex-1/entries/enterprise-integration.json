@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Connecting applications, data, and workflows so information can move reliably among enterprise systems.",
+  "entry_text": "Connecting applications, data, and workflows so information can move reliably among enterprise systems.",
+  "entry_text_kind": "definition",
+  "example": "An integration engineer connects order management and warehouse systems so shipment updates stay synchronized.",
+  "id": "zhx1j34swl",
+  "key": "enterprise-integration",
+  "label": "Enterprise integration",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "k9120963t9",
+    "definition": "Watchkeeping means maintaining an assigned lookout or operational watch and handing over relevant information when relieved.",
+    "example": "A ship’s watch officer records nearby traffic and passes the situation to the next officer.",
+    "sense_note": "The label can also refer to watches outside maritime work."
+  },
+  {
+    "id": "qphpy2zo7v",
+    "definition": "watchOS is Apple’s operating system for Apple Watch devices.",
+    "example": "A developer tests how a workout display behaves on a watch.",
+    "sense_note": null
+  },
+  {
+    "id": "ob5x7cidzc",
+    "definition": "Watcom SQL was a relational database product that preceded the SQL Anywhere line.",
+    "example": "A database specialist checks old Watcom SQL scripts before migrating a legacy application.",
+    "sense_note": null
+  },
+  {
+    "id": "vyqnnqyzs1",
+    "definition": "Water-based pipe coating uses a coating carried primarily in water to protect or finish a pipe surface.",
+    "example": "A technician evaluates adhesion on a coated pipe sample.",
+    "sense_note": null
+  },
+  {
+    "id": "nge92ycu3m",
+    "definition": "Water quality modelling uses mathematical or computational models to estimate how physical, chemical or biological conditions affect water quality.",
+    "example": "A watershed team compares modeled nutrient levels under different runoff scenarios.",
+    "sense_note": null
+  },
+  {
+    "id": "ocy9gvs6bk",
+    "definition": "Web crawling automatically discovers and retrieves accessible web pages, often by following links.",
+    "example": "A documentation team crawls its own website to find broken links.",
+    "sense_note": null
+  },
+  {
+    "id": "qg4095ukub",
+    "definition": "Web development creates and maintains websites and browser-based applications.",
+    "example": "A developer builds a contact form and verifies that it works on mobile devices.",
+    "sense_note": null
+  },
+  {
+    "id": "n0cqs70yvv",
+    "definition": "Web filtering controls which web requests or content users may access according to a policy.",
+    "example": "A school network blocks access to sites in categories disallowed by its policy.",
+    "sense_note": null
+  },
+  {
+    "id": "mv3crbqr7k",
+    "definition": "WebCT was a learning management system for delivering and administering online courses.",
+    "example": "An instructor posts course readings and reviews assignment submissions in a legacy WebCT course.",
+    "sense_note": null
+  },
+  {
+    "id": "ubbk8mnwmv",
+    "definition": "WebCTRL is a building automation platform for monitoring and controlling building equipment and conditions.",
+    "example": "An operator reviews ventilation alarms from several buildings in a common interface.",
+    "sense_note": null
+  },
+  {
+    "id": "zbffxmp8sd",
+    "definition": "WebDriver is a standardized interface for controlling browser behavior programmatically, commonly for automated testing.",
+    "example": "A test opens a page, clicks a button and checks the displayed confirmation.",
+    "sense_note": null
+  },
+  {
+    "id": "j24v0pklgn",
+    "definition": "WebDriverJS refers to JavaScript tooling for driving browsers through WebDriver, particularly Selenium’s JavaScript bindings.",
+    "example": "A tester writes a JavaScript check that verifies a modal can be closed.",
+    "sense_note": "The label has also been used for other JavaScript WebDriver clients."
+  },
+  {
+    "id": "i8582a4ibj",
+    "definition": "Website optimization improves measured website performance or outcomes by diagnosing issues and testing changes.",
+    "example": "A team compresses large images to reduce page load time.",
+    "sense_note": "The goal may be speed, accessibility, conversion or another measurable outcome."
+  },
+  {
+    "id": "acn72xigji",
+    "definition": "Website wireframing sketches the structure, layout and navigation of a website before detailed design or implementation.",
+    "example": "A designer maps the search results and filtering controls in a low-fidelity layout.",
+    "sense_note": null
+  },
+  {
+    "id": "r8rztyovbw",
+    "definition": "WebVR was an experimental browser API for accessing virtual reality devices and presenting virtual environments from web pages.",
+    "example": "An archivist examines a legacy browser demo that used WebVR to display a scene in a headset.",
+    "sense_note": "Distinct from its successor, WebXR."
+  },
+  {
+    "id": "s36txc7rzo",
+    "definition": "Weed control manages unwanted plants to reduce harm to crops, landscapes or ecosystems.",
+    "example": "A gardener uses mulch to reduce weed establishment in a planting bed.",
+    "sense_note": null
+  },
+  {
+    "id": "wcg32yijfo",
+    "definition": "WhatsApp is a messaging service that supports text, media and voice or video calls.",
+    "example": "A volunteer team uses a WhatsApp group to coordinate an event.",
+    "sense_note": null
+  },
+  {
+    "id": "n54edboexh",
+    "definition": "Wi-Fi 6 is the Wi-Fi generation based on IEEE 802.11ax, which improves efficiency and capacity in busy wireless networks.",
+    "example": "A campus equips a crowded classroom with Wi-Fi 6 access points for many simultaneous devices.",
+    "sense_note": null
+  },
+  {
+    "id": "uzzliw7qg0",
+    "definition": "Wi-Fi Direct lets compatible devices establish a direct Wi-Fi connection without joining an existing access point.",
+    "example": "A phone sends a document to a nearby compatible printer without joining the office network.",
+    "sense_note": null
+  },
+  {
+    "id": "p8qmykc9gw",
+    "definition": "Wi-Fi test engineering designs and runs tests for wireless behavior, compliance and interoperability.",
+    "example": "An engineer measures how well a device maintains connectivity while moving between access points.",
+    "sense_note": null
+  },
+  {
+    "id": "yrn0spxwt7",
+    "definition": "Wildlife observation records animal presence, behavior or habitat use through attentive field observation.",
+    "example": "A naturalist logs the time, habitat and behavior of birds seen along a survey route.",
+    "sense_note": null
+  },
+  {
+    "id": "gejo2dg8b2",
+    "definition": "Will and testament preparation documents a person’s directions for administering and distributing their estate after death.",
+    "example": "A legal professional records a client's instructions about beneficiaries and an executor.",
+    "sense_note": "Formal requirements vary by jurisdiction."
+  },
+  {
+    "id": "w73i1r9yha",
+    "definition": "Windows 10 is a Microsoft desktop operating system released after Windows 8.1 and before Windows 11.",
+    "example": "A technician checks whether a driver supports the installed Windows 10 edition.",
+    "sense_note": null
+  },
+  {
+    "id": "ffp4uu3fn4",
+    "definition": "Windows 7 is a Microsoft desktop operating system that succeeded Windows Vista.",
+    "example": "An archivist sets up Windows 7 to inspect the behavior of a legacy application.",
+    "sense_note": null
+  },
+  {
+    "id": "uh144fpdpv",
+    "definition": "Windows 8 is a Microsoft desktop operating system that introduced a touch-oriented Start screen alongside the desktop.",
+    "example": "A support specialist helps a user switch between the Start screen and a desktop program.",
+    "sense_note": null
+  },
+  {
+    "id": "m36f36uc8b",
+    "definition": "Windows Meeting Space was a Windows Vista application for local collaboration, sharing and presentation.",
+    "example": "A user shares a presentation with participants in a legacy Windows Vista session.",
+    "sense_note": null
+  },
+  {
+    "id": "jfr592yy2c",
+    "definition": "Windows Performance Analyzer examines recorded Windows performance traces using graphs and tables.",
+    "example": "An engineer inspects a trace to see whether CPU or disk activity coincides with a slow launch.",
+    "sense_note": null
+  },
+  {
+    "id": "zkzxham5am",
+    "definition": "Windows Performance Recorder collects tracing data about Windows system and application activity.",
+    "example": "A developer records a trace during an unusually slow program startup.",
+    "sense_note": null
+  },
+  {
+    "id": "r0gomtww7e",
+    "definition": "Windows Performance Toolkit is a Microsoft collection of tools for recording and analyzing Windows performance data.",
+    "example": "A team captures a startup trace with Windows Performance Recorder and analyzes it with Windows Performance Analyzer.",
+    "sense_note": null
+  },
+  {
+    "id": "ohwq8eavw4",
+    "definition": "Windows software development creates and maintains software intended to run on Microsoft Windows.",
+    "example": "A developer builds and tests a desktop application against supported Windows versions.",
+    "sense_note": null
+  },
+  {
+    "id": "indwviyy46",
+    "definition": "The Windows software trace preprocessor helps instrument source code for collecting diagnostic trace messages on Windows.",
+    "example": "A driver developer adds trace statements to distinguish startup events during troubleshooting.",
+    "sense_note": "Commonly abbreviated WPP."
+  },
+  {
+    "id": "vg9kmdhvg3",
+    "definition": "Windows support diagnoses and resolves issues encountered by users or systems running Windows.",
+    "example": "A technician investigates why a user’s application no longer starts after an update.",
+    "sense_note": null
+  },
+  {
+    "id": "b3xoj87ea0",
+    "definition": "Windows systems administration configures, maintains and monitors Windows-based computers and services.",
+    "example": "An administrator applies approved settings consistently to a group of managed workstations.",
+    "sense_note": null
+  },
+  {
+    "id": "tprscmn40a",
+    "definition": "Windows Vista is a Microsoft desktop operating system released between Windows XP and Windows 7.",
+    "example": "A compatibility specialist checks how a legacy installer behaves on Windows Vista.",
+    "sense_note": null
+  },
+  {
+    "id": "iqxlv5j0s0",
+    "definition": "Windows XP Media Center Edition was an edition of Windows XP designed for media playback and related home-entertainment functions.",
+    "example": "A user browses recorded television in a legacy Media Center setup.",
+    "sense_note": null
+  },
+  {
+    "id": "iucmf6wwrt",
+    "definition": "Windows XP Professional x64 Edition was Microsoft’s 64-bit x86-compatible edition of Windows XP Professional.",
+    "example": "A technician checks whether an older workstation has compatible 64-bit drivers.",
+    "sense_note": null
+  },
+  {
+    "id": "bbgdn40n5c",
+    "definition": "Winemaking is the production of wine through fermentation and related preparation, maturation and finishing steps.",
+    "example": "A producer compares how different maturation vessels influence a wine’s character.",
+    "sense_note": null
+  },
+  {
+    "id": "jkc0zoht0i",
+    "definition": "WinJS is a JavaScript library that supplies controls and utilities for building user interfaces, originally for Windows apps.",
+    "example": "A maintainer reviews a legacy app’s WinJS list control before replacing its interface.",
+    "sense_note": null
+  },
+  {
+    "id": "rdvoal04bc",
+    "definition": "WKWebView is Apple’s embeddable WebKit view for displaying web content in an application.",
+    "example": "A developer displays an HTML help page inside an iOS app.",
+    "sense_note": null
+  },
+  {
+    "id": "g5w0hghcgk",
+    "definition": "The Women's Health and Cancer Rights Act is a U.S. law that requires qualifying health coverage offering mastectomy benefits to cover specified related care.",
+    "example": "A benefits specialist reviews plan materials for required post-mastectomy reconstruction coverage.",
+    "sense_note": null
+  }
+]

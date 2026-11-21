@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Welding performed in a pressurized environment, commonly for underwater construction or repair.",
+  "entry_text": "Welding performed in a pressurized environment, commonly for underwater construction or repair.",
+  "entry_text_kind": "definition",
+  "example": "A qualified team evaluates whether an offshore repair requires welding in a pressurized chamber.",
+  "id": "nqclhy4oqs",
+  "key": "hyperbaric-welding",
+  "label": "Hyperbaric welding",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

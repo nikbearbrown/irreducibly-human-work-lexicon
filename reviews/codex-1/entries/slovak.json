@@ -1,0 +1,31 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Slovak (ISO 639-3: slk) as a language under the Indo-European grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Indo-European",
+    "catalog_name": "Slovak",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "slov1269",
+    "iso639_3": "slk",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/slov1269"
+  },
+  "definition": "A human language used for speaking and writing.",
+  "entry_text": "A human language used for speaking and writing.",
+  "entry_text_kind": "definition",
+  "example": "An editor checks a Slovak school announcement.",
+  "id": "ec0588lyxr",
+  "key": "slovak",
+  "label": "Slovak",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

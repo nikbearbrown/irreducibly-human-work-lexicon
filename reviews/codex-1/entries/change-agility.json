@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Change agility is the ability of a person or organization to adjust effectively as conditions, priorities, or practices change.",
+  "entry_text": "Change agility is the ability of a person or organization to adjust effectively as conditions, priorities, or practices change.",
+  "entry_text_kind": "definition",
+  "example": "A team reallocates work after a supplier delay and tests a new delivery sequence.",
+  "id": "c4t9cpgtn7",
+  "key": "change-agility",
+  "label": "Change agility",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "hecagq35qn",
+    "key": "nette",
+    "label": "Nette",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uuer0jxuof",
+    "key": "network-intrusion-detection-system",
+    "label": "Network intrusion detection system",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hzp4toom8p",
+    "key": "nexpose",
+    "label": "Nexpose",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "irmhl02qj4",
+    "key": "next-js",
+    "label": "Next.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f0c784bzd2",
+    "key": "nganimate",
+    "label": "ngAnimate",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qs3txxnnok",
+    "key": "nice-unix-utility",
+    "label": "nice (Unix utility)",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q7c6g06xkm",
+    "key": "nice-workforce-management",
+    "label": "NICE Workforce Management",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kmtjnv59dl",
+    "key": "nightwatch-js",
+    "label": "Nightwatch.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m79lmb0d1m",
+    "key": "nih-stroke-scale",
+    "label": "NIH Stroke Scale",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kopywf7m97",
+    "key": "nist-cybersecurity-framework",
+    "label": "NIST Cybersecurity Framework",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t2xmb2vh8p",
+    "key": "nist-sp-800-37",
+    "label": "NIST SP 800-37",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yvh5rd4eb4",
+    "key": "nist-sp-800-53",
+    "label": "NIST SP 800-53",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jxiyhx9zaw",
+    "key": "nist-sp-800-series",
+    "label": "NIST SP 800 series",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "egizoao1m5",
+    "key": "nitrogen-phosphorus-detector",
+    "label": "Nitrogen-phosphorus detector",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "duuh91o6z3",
+    "key": "nlog",
+    "label": "NLog",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p4z7mcyc0n",
+    "key": "no-child-left-behind-act",
+    "label": "No Child Left Behind Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q89d2f20gq",
+    "key": "node-js",
+    "label": "Node.js",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "aa2ix4mtc5",
+    "key": "nonverbal-communication",
+    "label": "Nonverbal communication",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v7niczl5ii",
+    "key": "nosetests",
+    "label": "nosetests",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z3b015y6sl",
+    "key": "notion-software",
+    "label": "Notion (software)",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gkq7vbv3ql",
+    "key": "npm",
+    "label": "npm",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vthu2az0u2",
+    "key": "nuance-pdf-converter",
+    "label": "Nuance PDF Converter",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n5ox69ek44",
+    "key": "numpy",
+    "label": "NumPy",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z0w7jys0vd",
+    "key": "nuodb",
+    "label": "NuoDB",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bazq0t6yjn",
+    "key": "nutanix-ahv",
+    "label": "Nutanix AHV",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ras83mtjf6",
+    "key": "nutanix-calm",
+    "label": "Nutanix Calm",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sqsqrh6ao7",
+    "key": "nutanix-prism",
+    "label": "Nutanix Prism",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hwy0lfpcha",
+    "key": "nutanix",
+    "label": "Nutanix",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "osw8xhiaxm",
+    "key": "nutrition-care-planning",
+    "label": "Nutrition care planning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mh47qupg6x",
+    "key": "nutrition-consulting",
+    "label": "Nutrition consulting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t31z5bfk2b",
+    "key": "nutrition-diagnosis",
+    "label": "Nutrition diagnosis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oh9hoamuts",
+    "key": "nutrition-intervention",
+    "label": "Nutrition intervention",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jc0wllogrr",
+    "key": "nutritional-assessment",
+    "label": "Nutritional assessment",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xramob4558",
+    "key": "nutritional-screening",
+    "label": "Nutritional screening",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f0mg2qvhta",
+    "key": "nuxt",
+    "label": "Nuxt",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xwrfu2zstu",
+    "key": "nw-js",
+    "label": "NW.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cy1eezxd7o",
+    "key": "obd-ii",
+    "label": "OBD-II",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y098fizl5l",
+    "key": "object-oriented-design",
+    "label": "Object-oriented design",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i0vpvmxbz0",
+    "key": "object-oriented-programming",
+    "label": "Object-oriented programming",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f4pwxnygi1",
+    "key": "observability",
+    "label": "Observability",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

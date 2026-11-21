@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Aural rehabilitation helps people with hearing loss improve communication through training, strategies, and appropriate assistive supports.",
+  "entry_text": "Aural rehabilitation helps people with hearing loss improve communication through training, strategies, and appropriate assistive supports.",
+  "entry_text_kind": "definition",
+  "example": "A clinician and client practice speech recognition and strategies for conversations in noisy spaces.",
+  "id": "zd8butfvut",
+  "key": "aural-rehabilitation",
+  "label": "Aural rehabilitation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

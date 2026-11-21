@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Security information and event management collects and correlates security telemetry to support detection, investigation, and reporting.",
+  "entry_text": "Security information and event management collects and correlates security telemetry to support detection, investigation, and reporting.",
+  "entry_text_kind": "definition",
+  "example": "A security analyst reviews correlated sign-in and access alerts from multiple authorized systems.",
+  "id": "w1g6x1sjoj",
+  "key": "security-information-and-event-management",
+  "label": "Security information and event management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

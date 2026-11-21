@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Neurobiology studies the cells, circuits and processes that underlie nervous-system function.",
+  "entry_text": "Neurobiology studies the cells, circuits and processes that underlie nervous-system function.",
+  "entry_text_kind": "definition",
+  "example": "A scientist investigates how synaptic signaling changes during learning.",
+  "id": "zy2gfm3r1p",
+  "key": "neurobiology",
+  "label": "Neurobiology",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

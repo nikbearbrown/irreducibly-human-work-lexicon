@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ns5jcxgd2h",
+    "definition": "Vendavo provides pricing, quoting and margin software for business-to-business sales.",
+    "example": "A team checks whether a proposed discount meets its margin target.",
+    "sense_note": null
+  },
+  {
+    "id": "gdfpw7vyrc",
+    "definition": "Vendor management oversees supplier selection, performance and relationships.",
+    "example": "A buyer reviews supplier delivery and quality records.",
+    "sense_note": null
+  },
+  {
+    "id": "lvhuz40oz5",
+    "definition": "Vendor payments are the verification, authorization and settlement of amounts owed to suppliers.",
+    "example": "An accounts-payable clerk matches an invoice to a purchase order before payment.",
+    "sense_note": null
+  },
+  {
+    "id": "oxcah7mzgz",
+    "definition": "Ventilator management is clinical oversight of mechanical breathing support and the patient’s response.",
+    "example": "A respiratory care team reviews whether a patient is ready for less support.",
+    "sense_note": null
+  },
+  {
+    "id": "ekmw83clz8",
+    "definition": "Verbal and physical intervention combines communication to de-escalate situations with authorized physical measures when needed for safety.",
+    "example": "A trained care worker uses calm communication to de-escalate a tense interaction.",
+    "sense_note": "Scope depends on training, setting and authorization."
+  },
+  {
+    "id": "j8bl0xzopw",
+    "definition": "Version control records changes to files so contributors can compare, recover and combine revisions.",
+    "example": "A developer identifies the change that introduced a bug.",
+    "sense_note": null
+  },
+  {
+    "id": "gi6gdo3gfz",
+    "definition": "Vestibular rehabilitation uses therapy to improve function affected by dizziness or balance disorders.",
+    "example": "A therapist tracks whether treatment improves a patient’s ability to walk while turning their head.",
+    "sense_note": null
+  },
+  {
+    "id": "y5z1tl7euy",
+    "definition": "Video advertising uses paid video placements to deliver promotional messages.",
+    "example": "A nonprofit sponsors a short event announcement.",
+    "sense_note": null
+  },
+  {
+    "id": "r4pk7tmtns",
+    "definition": "Video-assisted thoracoscopic surgery is chest surgery performed through small incisions with a video camera.",
+    "example": "A thoracic surgical team uses a camera to view an area of lung.",
+    "sense_note": null
+  },
+  {
+    "id": "dy97p0gnng",
+    "definition": "Video.js is a web video player library that provides a customizable browser playback interface.",
+    "example": "A publisher displays an interview with captions.",
+    "sense_note": null
+  },
+  {
+    "id": "vt6ixbkzqu",
+    "definition": "Video marketing uses video content to communicate with audiences and pursue marketing goals.",
+    "example": "A software company publishes a product walkthrough.",
+    "sense_note": null
+  },
+  {
+    "id": "t23fp45nbc",
+    "definition": "Video remote interpreting connects an interpreter and participants through video.",
+    "example": "A remote interpreter helps a patient communicate during a clinic visit.",
+    "sense_note": null
+  },
+  {
+    "id": "hyiokkty1d",
+    "definition": "Videoconferencing connects people in different locations through live audio and video.",
+    "example": "A distributed design team reviews a prototype on a call.",
+    "sense_note": null
+  },
+  {
+    "id": "am8hc8qvtj",
+    "definition": "Virtual design and construction uses digital models and coordinated workflows to plan and deliver built projects.",
+    "example": "A team identifies intersections between pipes and beams in a shared model.",
+    "sense_note": null
+  },
+  {
+    "id": "t2feabgvth",
+    "definition": "Virtual production combines digital environments or effects with live production workflows.",
+    "example": "A director frames actors against a digital backdrop on an LED wall.",
+    "sense_note": null
+  },
+  {
+    "id": "k1n9hqp5bs",
+    "definition": "Virus culture refers to growing viruses in living host systems in controlled settings.",
+    "example": "A virology team distinguishes evidence of infectious virus from a test that detects only genetic material.",
+    "sense_note": null
+  },
+  {
+    "id": "hzajs7800n",
+    "definition": "VISI is a CAD and CAM software suite used in manufacturing workflows such as mold and die design and machining.",
+    "example": "A tool designer models a mold component before manufacturing it.",
+    "sense_note": "Interpreted as the manufacturing software."
+  },
+  {
+    "id": "mov419oet2",
+    "definition": "VisiCalc was an early electronic spreadsheet for entering and calculating data in rows and columns.",
+    "example": "A planner changes an estimate and sees the revised budget totals.",
+    "sense_note": null
+  },
+  {
+    "id": "xwtp0t987r",
+    "definition": "Visier provides workforce analytics tools for examining employee and staffing data.",
+    "example": "An analyst compares turnover across departments.",
+    "sense_note": null
+  },
+  {
+    "id": "m3082r7eyv",
+    "definition": "Vision rehabilitation helps people with vision loss use strategies, tools and environmental adaptations to perform everyday activities.",
+    "example": "A specialist helps a reader choose magnification and adjust task lighting.",
+    "sense_note": null
+  },
+  {
+    "id": "s46ycd317l",
+    "definition": "Visme is a design platform for creating presentations, infographics and other visual content.",
+    "example": "A communications team makes an infographic from an annual report.",
+    "sense_note": null
+  },
+  {
+    "id": "utbu34q70d",
+    "definition": "VisSim is a block-diagram simulation tool for modeling dynamic systems.",
+    "example": "An engineer studies how a modeled controller responds to a changing input.",
+    "sense_note": "This is the VisSim simulation tool, not PTV Vissim traffic modeling."
+  },
+  {
+    "id": "nu3xguqip9",
+    "definition": "Visual odometry estimates a camera’s motion from successive images.",
+    "example": "A robot estimates motion by following image features across frames.",
+    "sense_note": null
+  },
+  {
+    "id": "be8z2gkvxc",
+    "definition": "Visual storytelling uses imagery and sequence to communicate events, relationships or a point of view.",
+    "example": "A film shows a character’s isolation through progressively wider shots.",
+    "sense_note": null
+  },
+  {
+    "id": "wjn4rrs3dy",
+    "definition": "VMware Aria Automation Orchestrator builds workflows that automate actions across connected systems.",
+    "example": "An administrator automates steps for an approved virtual machine request.",
+    "sense_note": null
+  },
+  {
+    "id": "tgfd1wjaby",
+    "definition": "VMware Aria Automation automates the delivery and management of cloud infrastructure and applications.",
+    "example": "An infrastructure team publishes a virtual machine template for developers to request.",
+    "sense_note": null
+  },
+  {
+    "id": "u8zpqdlt5w",
+    "definition": "VMware Aria Operations for Logs aggregates and analyzes log data for monitoring and troubleshooting.",
+    "example": "An operator compares error messages from several hosts during an outage.",
+    "sense_note": null
+  },
+  {
+    "id": "q598atkmi6",
+    "definition": "VMware Aria Operations monitors infrastructure and workload performance, capacity and health.",
+    "example": "An administrator checks which cluster is approaching its capacity limit.",
+    "sense_note": null
+  },
+  {
+    "id": "n1nbcb3tzd",
+    "definition": "VMware Aria Suite bundles tools for cloud infrastructure operations and automation.",
+    "example": "A team coordinates infrastructure provisioning with capacity tracking.",
+    "sense_note": "Packaging can differ by release."
+  },
+  {
+    "id": "fs6373xpc6",
+    "definition": "Vocational rehabilitation counseling helps people with disabilities pursue employment goals and locate relevant supports.",
+    "example": "A counselor helps a job seeker consider training and workplace accommodations.",
+    "sense_note": null
+  },
+  {
+    "id": "uufvn4ie3x",
+    "definition": "Voice UI design defines how users interact with systems through spoken input and responses.",
+    "example": "A designer adds a clarifying question for ambiguous spoken commands.",
+    "sense_note": null
+  },
+  {
+    "id": "ta8z97c7vx",
+    "definition": "VPython supports the creation of interactive three-dimensional visualizations with Python.",
+    "example": "An instructor visualizes a planet’s motion in a simulated orbit.",
+    "sense_note": null
+  },
+  {
+    "id": "updt57odw9",
+    "definition": "Vue.js is a JavaScript framework for building reactive, component-based interfaces.",
+    "example": "A Vue component updates a displayed list when its data changes.",
+    "sense_note": null
+  },
+  {
+    "id": "nedtcwz5ap",
+    "definition": "Vulkan is a cross-platform API for explicit control of graphics and compute work on compatible hardware.",
+    "example": "A renderer submits drawing commands to a GPU using Vulkan.",
+    "sense_note": null
+  },
+  {
+    "id": "yx51ztocqi",
+    "definition": "Vulnerability assessment identifies and prioritizes weaknesses in authorized systems according to risk.",
+    "example": "A security team checks component inventories to prioritize patching.",
+    "sense_note": null
+  },
+  {
+    "id": "r88fev79qd",
+    "definition": "Vyond is a platform for making animated videos with configurable characters, scenes and media assets.",
+    "example": "A training team creates an animated orientation video.",
+    "sense_note": null
+  },
+  {
+    "id": "umb2usakhd",
+    "definition": "Wainscot panelling covers the lower part of a wall with a protective or decorative finish.",
+    "example": "A carpenter fits panels below the rail in a hallway.",
+    "sense_note": null
+  },
+  {
+    "id": "lpxeil9yyg",
+    "definition": "WASAPI is the Windows Audio Session API for accessing playback and capture audio streams.",
+    "example": "An audio program sends sound to a selected endpoint.",
+    "sense_note": null
+  },
+  {
+    "id": "ez5yl3a053",
+    "definition": "Waste characterisation describes waste by attributes such as composition, amount and hazardous properties.",
+    "example": "A recycler estimates the share of recyclable packaging in a waste stream.",
+    "sense_note": null
+  },
+  {
+    "id": "z1kxrae19r",
+    "definition": "Waste minimisation reduces the quantity or harmfulness of waste generated.",
+    "example": "A workshop changes its cutting layout to produce fewer offcuts.",
+    "sense_note": null
+  }
+]

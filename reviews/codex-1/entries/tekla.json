@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Tekla is Trimble's family of structural design, analysis, modeling, and detailing applications.",
+  "entry_text": "Tekla is Trimble's family of structural design, analysis, modeling, and detailing applications.",
+  "entry_text_kind": "definition",
+  "example": "A steel detailer uses Tekla Structures to prepare a model that includes fabrication connections.",
+  "id": "pta76g7wnz",
+  "key": "tekla",
+  "label": "Tekla",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Product-family label; verify intended application.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

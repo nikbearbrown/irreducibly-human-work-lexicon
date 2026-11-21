@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Cutover planning and management coordinates the transition from an existing operational system to its replacement, including readiness checks and recovery arrangements.",
+  "entry_text": "Cutover planning and management coordinates the transition from an existing operational system to its replacement, including readiness checks and recovery arrangements.",
+  "entry_text_kind": "definition",
+  "example": "A release team rehearses the switch and defines when to return to the old system if checks fail.",
+  "id": "rzn1t3msf7",
+  "key": "cutover-planning-and-management",
+  "label": "Cutover planning and management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

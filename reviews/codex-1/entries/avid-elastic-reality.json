@@ -1,0 +1,20 @@
+{
+  "batch": "skill-005.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Avid Elastic Reality was a visual-effects application for morphing and warping images or video.",
+  "entry_text": "Avid Elastic Reality was a visual-effects application for morphing and warping images or video.",
+  "entry_text_kind": "definition",
+  "example": "A compositor uses shape-based morphing to transition between two images.",
+  "id": "xv37jo287i",
+  "key": "avid-elastic-reality",
+  "label": "Avid Elastic Reality",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Ophthalmic surgical assisting supports eye surgery by preparing equipment, maintaining sterile conditions and assisting the surgical team within assigned duties.",
+  "entry_text": "Ophthalmic surgical assisting supports eye surgery by preparing equipment, maintaining sterile conditions and assisting the surgical team within assigned duties.",
+  "entry_text_kind": "definition",
+  "example": "An assistant checks that the surgeon's specified instruments and supplies are ready before a procedure.",
+  "id": "s5x2ee25w1",
+  "key": "ophthalmic-surgical-assisting",
+  "label": "Ophthalmic surgical assisting",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

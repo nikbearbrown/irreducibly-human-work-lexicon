@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Motor control algorithms determine drive commands that make an electric motor meet targets such as position, speed or torque.",
+  "entry_text": "Motor control algorithms determine drive commands that make an electric motor meet targets such as position, speed or torque.",
+  "entry_text_kind": "definition",
+  "example": "A controller adjusts drive commands to maintain a conveyor's requested speed when its load changes.",
+  "id": "ypoy7kwjyw",
+  "key": "motor-control-algorithms",
+  "label": "Motor control algorithms",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "This is the engineering sense, not computational models of biological motor control.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

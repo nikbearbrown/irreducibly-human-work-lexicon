@@ -1,0 +1,28 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "classification_check": {
+    "element_id": "1.D.3.b",
+    "name": "Attention to Detail",
+    "note": "Exact label in a different source category. Check whether the intended sense is a work style or a distinct ability.",
+    "result": "alternate-category-in-source",
+    "source_category": "O*NET Work Styles",
+    "url": "https://www.onetcenter.org/dl_files/database/db_30_2_text/Content%20Model%20Reference.txt"
+  },
+  "definition": "Attention to detail is the capacity to notice and verify small elements whose omission or inconsistency could affect the result.",
+  "entry_text": "Attention to detail is the capacity to notice and verify small elements whose omission or inconsistency could affect the result.",
+  "entry_text_kind": "definition",
+  "example": "A payroll reviewer catches a transposed digit in an employee's recorded hours before the payment goes out.",
+  "id": "gdzh66chlx",
+  "key": "attention-to-detail",
+  "label": "Attention to detail",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

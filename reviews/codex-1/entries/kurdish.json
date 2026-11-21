@@ -1,0 +1,27 @@
+{
+  "batch": "language-004.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_identity_candidates": [
+    {
+      "code": "kurd1259",
+      "level": "family",
+      "name": "Kurdish"
+    }
+  ],
+  "definition": "A broad label for multiple related language varieties used in speech and writing.",
+  "entry_text": "A broad label for multiple related language varieties used in speech and writing.",
+  "entry_text_kind": "definition",
+  "example": "A broadcaster specifies Kurmanji or Sorani for separate recordings.",
+  "id": "cionmp7u62",
+  "key": "kurdish",
+  "label": "Kurdish",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specify variety and writing convention.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

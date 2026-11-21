@@ -1,0 +1,20 @@
+{
+  "batch": "skill-024.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Applying an appropriate fluid to flush a body site during authorized clinical care.",
+  "entry_text": "Applying an appropriate fluid to flush a body site during authorized clinical care.",
+  "entry_text_kind": "definition",
+  "example": "A clinician records irrigation performed as part of prescribed wound care.",
+  "id": "d46bq5u2my",
+  "key": "irrigation-health",
+  "label": "Irrigation (health)",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm the intended anatomical site if a more specific sense is needed.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

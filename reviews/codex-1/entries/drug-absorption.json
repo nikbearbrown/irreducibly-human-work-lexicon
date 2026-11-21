@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Drug absorption is the movement of a drug from its administration site into systemic circulation.",
+  "entry_text": "Drug absorption is the movement of a drug from its administration site into systemic circulation.",
+  "entry_text_kind": "definition",
+  "example": "A pharmacology class compares how two oral formulations differ in the rate at which the medicine appears in blood.",
+  "id": "swb70cmfee",
+  "key": "drug-absorption",
+  "label": "Drug absorption",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

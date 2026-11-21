@@ -1,0 +1,28 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apptio provides business-management software for analyzing technology costs and relating spending to services and organizational units.",
+  "entry_text": "Apptio provides business-management software for analyzing technology costs and relating spending to services and organizational units.",
+  "entry_text_kind": "definition",
+  "example": "A finance partner allocates cloud spending across product teams for review.",
+  "id": "y2ee17jenh",
+  "key": "apptio",
+  "label": "Apptio",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "y2ee17jenh",
+      "note": "IBM notes that Apptio TBM Studio models the relationship between IT costs and services and automates cost allocation; it identifies unit-level chargeback and service-level analysis as uses.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://www.ibm.com/docs/en/apptio-commercial/tbm-studio/saas?topic=fundementals-introduction-technology-business-management",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

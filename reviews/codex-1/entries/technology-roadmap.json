@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A technology roadmap relates capability needs and planned technical changes over time to goals, dependencies, and decision points.",
+  "entry_text": "A technology roadmap relates capability needs and planned technical changes over time to goals, dependencies, and decision points.",
+  "entry_text_kind": "definition",
+  "example": "A team sequences a database upgrade before a feature that depends on a newer capability.",
+  "id": "mrgdddo3z6",
+  "key": "technology-roadmap",
+  "label": "Technology roadmap",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

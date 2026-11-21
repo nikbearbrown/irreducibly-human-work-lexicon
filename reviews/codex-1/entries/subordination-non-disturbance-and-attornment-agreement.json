@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-012.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A Subordination, Non-Disturbance and Attornment Agreement sets the priority of a lease relative to a lender's interest and defines possession and tenancy obligations following foreclosure.",
+  "entry_text": "A Subordination, Non-Disturbance and Attornment Agreement sets the priority of a lease relative to a lender's interest and defines possession and tenancy obligations following foreclosure.",
+  "entry_text_kind": "definition",
+  "example": "A commercial tenant negotiates continued occupancy after foreclosure if it remains in compliance with its lease.",
+  "id": "o419jkkg4o",
+  "key": "subordination-non-disturbance-and-attornment-agreement",
+  "label": "Subordination, Non-Disturbance and Attornment Agreement",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

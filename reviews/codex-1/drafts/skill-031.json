@@ -1,0 +1,242 @@
+[
+  {
+    "id": "hecagq35qn",
+    "definition": "Nette is a PHP web application framework providing components for requests, templates, forms and dependency injection.",
+    "example": "A developer uses Nette forms to validate input and render errors to the user.",
+    "sense_note": null
+  },
+  {
+    "id": "uuer0jxuof",
+    "definition": "A network intrusion detection system monitors network traffic for signs of suspicious or prohibited activity and generates alerts.",
+    "example": "A defender reviews an alert for an unusual pattern of connection attempts.",
+    "sense_note": null
+  },
+  {
+    "id": "hzp4toom8p",
+    "definition": "Nexpose is a vulnerability assessment tool that scans authorized assets and reports identified weaknesses for remediation.",
+    "example": "A security team reviews a scan report to prioritize missing security updates.",
+    "sense_note": null
+  },
+  {
+    "id": "irmhl02qj4",
+    "definition": "Next.js is a React framework offering routing, rendering and server-side facilities for web applications.",
+    "example": "A developer builds a product page with server-rendered data and client-side controls.",
+    "sense_note": null
+  },
+  {
+    "id": "f0c784bzd2",
+    "definition": "ngAnimate is an AngularJS module for integrating animations with application directives and changes in the interface.",
+    "example": "An AngularJS list fades new rows in as they are inserted.",
+    "sense_note": null
+  },
+  {
+    "id": "qs3txxnnok",
+    "definition": "The Unix nice utility launches a command with an adjusted niceness value that influences CPU scheduling priority.",
+    "example": "An administrator starts a background batch job at lower CPU priority than interactive workloads.",
+    "sense_note": null
+  },
+  {
+    "id": "q7c6g06xkm",
+    "definition": "NICE Workforce Management supports staffing forecasts, scheduling and adherence monitoring, particularly in contact centers.",
+    "example": "A supervisor plans shifts using forecast call volumes.",
+    "sense_note": null
+  },
+  {
+    "id": "kmtjnv59dl",
+    "definition": "Nightwatch.js is a JavaScript framework for automating browser interactions and end-to-end tests.",
+    "example": "A test opens a product page, adds an item and checks that it appears in the cart.",
+    "sense_note": null
+  },
+  {
+    "id": "m79lmb0d1m",
+    "definition": "The NIH Stroke Scale is a standardized clinical assessment that scores neurological deficits associated with stroke.",
+    "example": "A trained clinician records a score to help track changes over time.",
+    "sense_note": null
+  },
+  {
+    "id": "kopywf7m97",
+    "definition": "The NIST Cybersecurity Framework organizes outcomes for managing and communicating organizational cybersecurity risk.",
+    "example": "A team compares its existing security practices with a target profile to identify gaps.",
+    "sense_note": null
+  },
+  {
+    "id": "t2xmb2vh8p",
+    "definition": "NIST SP 800-37 describes the Risk Management Framework for managing security and privacy risks across the system lifecycle.",
+    "example": "A system owner uses the framework's monitor step to plan ongoing review of controls.",
+    "sense_note": null
+  },
+  {
+    "id": "yvh5rd4eb4",
+    "definition": "NIST SP 800-53 catalogs security and privacy controls for information systems and organizations.",
+    "example": "A team selects relevant controls for managing account access and documenting related safeguards.",
+    "sense_note": null
+  },
+  {
+    "id": "jxiyhx9zaw",
+    "definition": "The NIST SP 800 series contains special publications providing guidance on information security and related privacy and risk topics.",
+    "example": "An engineer locates the publication applicable to an organization's security assessment.",
+    "sense_note": null
+  },
+  {
+    "id": "egizoao1m5",
+    "definition": "A nitrogen-phosphorus detector is a gas chromatography detector selectively responsive to compounds containing nitrogen or phosphorus.",
+    "example": "An analytical chemist uses it to detect relevant compounds in separated sample peaks.",
+    "sense_note": null
+  },
+  {
+    "id": "duuh91o6z3",
+    "definition": "NLog is a .NET logging library for recording application events to configurable destinations.",
+    "example": "A service sends error messages to a file with timestamps and request identifiers.",
+    "sense_note": null
+  },
+  {
+    "id": "p4z7mcyc0n",
+    "definition": "The No Child Left Behind Act was a U.S. education law that emphasized standards-based testing, accountability and reporting in federally supported elementary and secondary education.",
+    "example": "A district reported test results and subgroup performance under the law's accountability system.",
+    "sense_note": "Historical law; do not infer that its provisions still control."
+  },
+  {
+    "id": "q89d2f20gq",
+    "definition": "Node.js is a JavaScript runtime for executing programs outside the browser, commonly used for server and command-line applications.",
+    "example": "A developer writes a JavaScript service that handles HTTP requests and reads database records.",
+    "sense_note": null
+  },
+  {
+    "id": "aa2ix4mtc5",
+    "definition": "Nonverbal communication conveys information through cues other than spoken or written words, including facial expression, gesture, posture and gaze.",
+    "example": "A presenter uses hand gestures to indicate the order of items on a slide.",
+    "sense_note": null
+  },
+  {
+    "id": "v7niczl5ii",
+    "definition": "Nosetests is the command-line test runner for the historical Python nose testing framework.",
+    "example": "A developer runs nosetests to discover and execute tests in a legacy project.",
+    "sense_note": null
+  },
+  {
+    "id": "z3b015y6sl",
+    "definition": "Notion is a workspace application that combines documents, structured databases and collaboration features.",
+    "example": "A team links decision notes to tasks in a searchable project workspace.",
+    "sense_note": null
+  },
+  {
+    "id": "gkq7vbv3ql",
+    "definition": "npm is the package-management tool and associated registry ecosystem commonly used to distribute and manage JavaScript dependencies.",
+    "example": "A developer installs the dependency versions recorded in a project's lockfile.",
+    "sense_note": "May refer specifically to the command-line tool or the registry ecosystem."
+  },
+  {
+    "id": "vthu2az0u2",
+    "definition": "Nuance PDF Converter refers to a family of PDF utilities for creating, editing or converting PDF documents.",
+    "example": "A user converts a PDF table into an editable document for correction.",
+    "sense_note": "Product name and feature set vary by edition."
+  },
+  {
+    "id": "n5ox69ek44",
+    "definition": "NumPy is a Python library for multidimensional arrays and numerical operations on them.",
+    "example": "An analyst computes column means from a matrix without looping through each value in Python.",
+    "sense_note": null
+  },
+  {
+    "id": "z0w7jys0vd",
+    "definition": "NuoDB is a distributed relational database designed to scale SQL transaction processing across multiple nodes.",
+    "example": "An application uses SQL transactions against a database deployed on several machines.",
+    "sense_note": null
+  },
+  {
+    "id": "bazq0t6yjn",
+    "definition": "Nutanix AHV is a hypervisor used to run and manage virtual machines on Nutanix infrastructure.",
+    "example": "An administrator provisions a virtual machine and assigns compute resources to it.",
+    "sense_note": null
+  },
+  {
+    "id": "ras83mtjf6",
+    "definition": "Nutanix Calm is an application automation tool for modeling, deploying and managing applications across infrastructure environments.",
+    "example": "A team defines a blueprint for deploying application and database services together.",
+    "sense_note": null
+  },
+  {
+    "id": "sqsqrh6ao7",
+    "definition": "Nutanix Prism provides management and monitoring interfaces for Nutanix infrastructure and workloads.",
+    "example": "An administrator checks cluster capacity and reviews alerts in a management console.",
+    "sense_note": null
+  },
+  {
+    "id": "hwy0lfpcha",
+    "definition": "Nutanix is an infrastructure platform that integrates compute, storage and management for running virtualized or cloud workloads.",
+    "example": "An IT team operates virtual servers and shared storage on a managed Nutanix cluster.",
+    "sense_note": null
+  },
+  {
+    "id": "osw8xhiaxm",
+    "definition": "Nutrition care planning sets nutrition goals, interventions and monitoring based on an individual's assessed needs and circumstances.",
+    "example": "A dietitian develops a care plan that tracks whether a patient meets a documented intake goal.",
+    "sense_note": null
+  },
+  {
+    "id": "mh47qupg6x",
+    "definition": "Nutrition consulting provides individualized or organizational advice about food and nutrition using relevant evidence and context.",
+    "example": "A consultant helps a food service operator improve menu options for its client population.",
+    "sense_note": null
+  },
+  {
+    "id": "t31z5bfk2b",
+    "definition": "Nutrition diagnosis identifies a specific nutrition problem, its likely cause and supporting evidence from an assessment.",
+    "example": "A dietitian documents an intake problem and the factors contributing to it.",
+    "sense_note": "Distinct from a medical diagnosis."
+  },
+  {
+    "id": "oh9hoamuts",
+    "definition": "Nutrition intervention carries out a planned action, such as counseling or care coordination, to address an identified nutrition problem.",
+    "example": "A dietitian and patient agree on a practical change and a way to monitor it.",
+    "sense_note": null
+  },
+  {
+    "id": "jc0wllogrr",
+    "definition": "Nutritional assessment gathers and evaluates information such as intake, weight history and clinical findings to characterize nutritional status.",
+    "example": "A clinician compares diet records and recent weight changes to assess potential concerns.",
+    "sense_note": null
+  },
+  {
+    "id": "xramob4558",
+    "definition": "Nutritional screening uses a brief structured check to flag people who may need more complete nutritional assessment.",
+    "example": "A hospital asks about recent unexpected weight loss at intake.",
+    "sense_note": null
+  },
+  {
+    "id": "f0mg2qvhta",
+    "definition": "Nuxt is a web application framework built on Vue with routing and rendering features for client-side and server-side applications.",
+    "example": "A developer builds a product page whose initial content can be rendered on the server.",
+    "sense_note": null
+  },
+  {
+    "id": "xwrfu2zstu",
+    "definition": "NW.js is a runtime for desktop applications that combine browser-rendered interfaces with Node.js capabilities.",
+    "example": "A developer bundles a web-based editor as a desktop application that can open local files.",
+    "sense_note": null
+  },
+  {
+    "id": "cy1eezxd7o",
+    "definition": "OBD-II specifies a standardized automotive diagnostic interface for retrieving defined data and fault codes from compliant vehicles.",
+    "example": "A technician reads a stored diagnostic code with a compatible scan tool.",
+    "sense_note": null
+  },
+  {
+    "id": "y098fizl5l",
+    "definition": "Object-oriented design organizes software around objects and their responsibilities, interactions and interfaces.",
+    "example": "A designer separates account state from transaction processing while defining how objects communicate.",
+    "sense_note": null
+  },
+  {
+    "id": "i0vpvmxbz0",
+    "definition": "Object-oriented programming implements programs using objects that combine data and behavior, with mechanisms such as encapsulation and polymorphism.",
+    "example": "A graphics program calls the same draw method on different kinds of shapes.",
+    "sense_note": null
+  },
+  {
+    "id": "f4pwxnygi1",
+    "definition": "Observability is the ability to infer a system's internal behavior from emitted signals such as logs, metrics and traces.",
+    "example": "An engineer follows traces and latency metrics to identify which dependency slows a request.",
+    "sense_note": null
+  }
+]

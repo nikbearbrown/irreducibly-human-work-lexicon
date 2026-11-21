@@ -1,0 +1,20 @@
+{
+  "batch": "skill-046.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "UIKit is Apple's framework for constructing interfaces and handling user interaction and application events on supported platforms such as iOS and iPadOS.",
+  "entry_text": "UIKit is Apple's framework for constructing interfaces and handling user interaction and application events on supported platforms such as iOS and iPadOS.",
+  "entry_text_kind": "definition",
+  "example": "An iOS developer uses a view controller to present a list and handle selection.",
+  "id": "avwr5t78gz",
+  "key": "uikit",
+  "label": "UIKit",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Distinct from the UIkit front-end web framework.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

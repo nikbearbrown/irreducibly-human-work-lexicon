@@ -1,0 +1,20 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Being success-driven is a tendency to seek achievement and persist in pursuit of a high standard of performance.",
+  "entry_text": "Being success-driven is a tendency to seek achievement and persist in pursuit of a high standard of performance.",
+  "entry_text_kind": "definition",
+  "example": "After falling short of a benchmark, a runner adjusts training and works toward a measurable improvement.",
+  "id": "uvzu3z28qp",
+  "key": "success-driven",
+  "label": "Success-driven",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label describes motivation rather than a discrete ability.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

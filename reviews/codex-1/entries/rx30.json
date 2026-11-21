@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Rx30 is pharmacy management software for processing prescriptions and supporting workflow such as claims, inventory, and dispensing records.",
+  "entry_text": "Rx30 is pharmacy management software for processing prescriptions and supporting workflow such as claims, inventory, and dispensing records.",
+  "entry_text_kind": "definition",
+  "example": "A community pharmacy uses Rx30 to reconcile the inventory associated with dispensed prescriptions.",
+  "id": "lr0g99v968",
+  "key": "rx30",
+  "label": "Rx30",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

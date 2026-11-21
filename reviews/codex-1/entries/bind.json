@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "BIND is a software implementation of the Domain Name System used to serve authoritative DNS answers or resolve names.",
+  "entry_text": "BIND is a software implementation of the Domain Name System used to serve authoritative DNS answers or resolve names.",
+  "entry_text_kind": "definition",
+  "example": "An administrator validates a zone change before publishing it on a nameserver.",
+  "id": "bzg3r9ulfm",
+  "key": "bind",
+  "label": "BIND",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

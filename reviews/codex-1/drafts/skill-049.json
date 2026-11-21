@@ -1,0 +1,200 @@
+[
+  {
+    "id": "zblaq7zuuy",
+    "definition": "A word embedding is a numerical vector that places a word in a space where distances or directions can reflect learned patterns in its usage.",
+    "example": "A search system uses nearby vectors to find terms used in similar contexts.",
+    "sense_note": null
+  },
+  {
+    "id": "db9b71y3ro",
+    "definition": "Word processing is the creation, editing and formatting of text documents using software.",
+    "example": "An author applies heading styles and reviews tracked edits before exporting a report.",
+    "sense_note": null
+  },
+  {
+    "id": "t4shhq3mff",
+    "definition": "Word VBA uses Visual Basic for Applications within Microsoft Word to automate tasks and control document objects.",
+    "example": "An editor runs a macro that applies consistent formatting to recurring headings.",
+    "sense_note": null
+  },
+  {
+    "id": "zmd0lqh1v8",
+    "definition": "word2vec is a set of neural methods for learning word vectors by predicting words or their contexts from a corpus.",
+    "example": "An analyst trains word vectors on customer reviews to compare words used in similar contexts.",
+    "sense_note": null
+  },
+  {
+    "id": "on40gkkbwj",
+    "definition": "Workers’ compensation claims are requests for benefits under a program covering qualifying work-related injury or illness.",
+    "example": "A claims specialist documents an accident report and reviews the supporting records.",
+    "sense_note": "Eligibility and procedures vary by jurisdiction."
+  },
+  {
+    "id": "qrp6flp31z",
+    "definition": "Workflow automation uses software to carry out predefined steps or transitions with reduced manual intervention.",
+    "example": "A completed form automatically routes to the appropriate reviewer.",
+    "sense_note": null
+  },
+  {
+    "id": "injapalu4u",
+    "definition": "Workflow management designs, coordinates and monitors how work moves among people and systems.",
+    "example": "A manager tracks which approval step is delaying new requests.",
+    "sense_note": null
+  },
+  {
+    "id": "i71ujs2p1s",
+    "definition": "Workforce optimisation uses staffing data and practices to align schedules, skills and deployment with service demand and other constraints.",
+    "example": "A contact center adjusts shift coverage to match predicted peak call times.",
+    "sense_note": null
+  },
+  {
+    "id": "tmgks8isxz",
+    "definition": "Working with children aged 0–5 involves providing developmentally appropriate care and learning support for infants, toddlers and preschoolers.",
+    "example": "A caregiver adapts a group activity so toddlers can participate safely and independently.",
+    "sense_note": null
+  },
+  {
+    "id": "weh7we1w6p",
+    "definition": "Writing outlines organizes a proposed text into main points, supporting details and a logical sequence.",
+    "example": "A writer groups evidence under three section headings before drafting an essay.",
+    "sense_note": null
+  },
+  {
+    "id": "oxms4xxazw",
+    "definition": "WSDL2Java refers to tools that generate Java code or bindings from a Web Services Description Language document.",
+    "example": "A developer generates client bindings for an existing SOAP service.",
+    "sense_note": "The label can refer to similarly named commands from different toolkits, including Apache Axis and Apache CXF."
+  },
+  {
+    "id": "ffw2lu5zpa",
+    "definition": "wxGTK is the wxWidgets implementation for systems using the GTK graphical toolkit.",
+    "example": "A developer builds a wxWidgets desktop application with the GTK backend on Linux.",
+    "sense_note": null
+  },
+  {
+    "id": "f2jm5onupj",
+    "definition": "wxPerl provides Perl bindings for building graphical applications with wxWidgets.",
+    "example": "A maintainer updates the controls in a legacy Perl desktop application.",
+    "sense_note": null
+  },
+  {
+    "id": "wi51wbsa9k",
+    "definition": "wxPython provides Python bindings for the wxWidgets graphical user interface toolkit.",
+    "example": "A developer creates a desktop form with native-looking menus and buttons.",
+    "sense_note": null
+  },
+  {
+    "id": "kfzd0j02g5",
+    "definition": "Wyse Management Suite centrally configures and manages supported Dell endpoints such as thin clients.",
+    "example": "An administrator assigns a common configuration profile to a group of thin clients.",
+    "sense_note": null
+  },
+  {
+    "id": "ayo1hdf1sx",
+    "definition": "The xanthoproteic reaction is a qualitative color reaction that indicates the presence of certain aromatic amino acid residues in a sample.",
+    "example": "A chemistry class relates the observed qualitative color change to aromatic groups in proteins.",
+    "sense_note": null
+  },
+  {
+    "id": "fwqpdgm41j",
+    "definition": "Xbox Live Vision was a camera accessory for the Xbox 360 that supported compatible games and video features.",
+    "example": "A player uses the camera for video chat in a supported legacy Xbox experience.",
+    "sense_note": null
+  },
+  {
+    "id": "e0mbaqg3fb",
+    "definition": "Xcalibur is Thermo Scientific software for acquiring and processing data from compatible mass spectrometry instruments.",
+    "example": "An analyst reviews a recorded chromatogram and its associated mass spectra.",
+    "sense_note": "Interpreted as Thermo Scientific Xcalibur."
+  },
+  {
+    "id": "dbflhzs5on",
+    "definition": "XtraGrid is a DevExpress grid control for displaying and editing structured data in Windows Forms applications.",
+    "example": "A developer adds column filtering to an order table.",
+    "sense_note": "The older XtraGrid name is associated with the DevExpress WinForms Data Grid."
+  },
+  {
+    "id": "llq5laptmx",
+    "definition": "Yahoo Messenger was an instant messaging service that supported conversations and presence information.",
+    "example": "A user could see whether a contact was online before starting a chat.",
+    "sense_note": null
+  },
+  {
+    "id": "ncxhzvv61k",
+    "definition": "YARA describes and matches patterns in files or data for tasks such as identifying known types of suspicious content.",
+    "example": "A security analyst checks files gathered in an authorized investigation against reviewed detection rules.",
+    "sense_note": null
+  },
+  {
+    "id": "zfj2qiys3k",
+    "definition": "Yardi provides software for managing real estate operations, accounting and property records.",
+    "example": "A property manager uses a Yardi application to reconcile occupancy and rent records.",
+    "sense_note": "The label is a vendor and product family, not one specific application."
+  },
+  {
+    "id": "e41ytuzgd2",
+    "definition": "Yellow Dog Linux was a Linux distribution developed for systems including PowerPC hardware.",
+    "example": "An archivist boots a compatible older machine to inspect an application built on Yellow Dog Linux.",
+    "sense_note": null
+  },
+  {
+    "id": "vckpdr9vll",
+    "definition": "Youth mentoring is a supportive relationship in which a mentor helps a young person build skills, confidence and direction over time.",
+    "example": "A mentor helps a teen plan and reflect on a first community project.",
+    "sense_note": null
+  },
+  {
+    "id": "wrmfmtic1i",
+    "definition": "YunOS was an operating system developed by Alibaba for connected devices including smartphones.",
+    "example": "A mobile software archivist identifies a device that originally ran YunOS.",
+    "sense_note": "Names and product branding changed over time."
+  },
+  {
+    "id": "z31by6og0u",
+    "definition": "z/OS is IBM’s operating system for mainframes, designed to support enterprise workloads such as transactions and batch processing.",
+    "example": "An operator checks the results of an overnight batch job on a z/OS system.",
+    "sense_note": null
+  },
+  {
+    "id": "wrnhvdt1hx",
+    "definition": "Z-Wave is a low-power wireless communications technology used to connect compatible automation devices.",
+    "example": "A home automation controller receives status updates from a compatible door sensor.",
+    "sense_note": null
+  },
+  {
+    "id": "dmhun0l6s3",
+    "definition": "Zemax OpticStudio is software for designing and analyzing optical systems through modeling and ray tracing.",
+    "example": "An engineer compares lens designs to reduce image distortion.",
+    "sense_note": null
+  },
+  {
+    "id": "gxi8cntte5",
+    "definition": "ZENworks Asset Management inventories hardware and software and supports tracking software licenses and usage.",
+    "example": "An IT team compares installed applications with its license entitlements.",
+    "sense_note": null
+  },
+  {
+    "id": "dol9duyg3c",
+    "definition": "zeroheight is a platform for publishing and maintaining design-system documentation.",
+    "example": "A design systems team documents when to use a particular button component.",
+    "sense_note": null
+  },
+  {
+    "id": "zs4ghz3n1b",
+    "definition": "Zerto provides replication and orchestration tools for recovering workloads after disruptions or moving them between environments.",
+    "example": "An infrastructure team tests whether a replicated workload can be recovered in a designated environment.",
+    "sense_note": null
+  },
+  {
+    "id": "jz5tjsgtoi",
+    "definition": "Zetafax is a software platform for sending, receiving and managing faxes through a networked service.",
+    "example": "An office routes incoming faxes to an internal inbox.",
+    "sense_note": null
+  },
+  {
+    "id": "s3xo61f08o",
+    "definition": "ZFS integrates a filesystem and volume management, with features such as data checksums, snapshots and pooled storage.",
+    "example": "An administrator takes a read-only snapshot so a prior file version can be recovered.",
+    "sense_note": null
+  }
+]

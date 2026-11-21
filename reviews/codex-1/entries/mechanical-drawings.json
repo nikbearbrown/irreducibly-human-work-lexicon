@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Mechanical drawings communicate the geometry, dimensions and other requirements of parts, assemblies or mechanical installations.",
+  "entry_text": "Mechanical drawings communicate the geometry, dimensions and other requirements of parts, assemblies or mechanical installations.",
+  "entry_text_kind": "definition",
+  "example": "A fabricator uses a drawing to check the diameter and location of mounting holes.",
+  "id": "ini9hiun24",
+  "key": "mechanical-drawings",
+  "label": "Mechanical drawings",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

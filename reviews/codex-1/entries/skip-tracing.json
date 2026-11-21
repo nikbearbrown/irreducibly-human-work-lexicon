@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Skip tracing is the lawful search for a person's current location or contact information when previously available information no longer reaches them.",
+  "entry_text": "Skip tracing is the lawful search for a person's current location or contact information when previously available information no longer reaches them.",
+  "entry_text_kind": "definition",
+  "example": "An authorized investigator documents that an address on file is no longer current and checks approved public records.",
+  "id": "v3cuopv3ef",
+  "key": "skip-tracing",
+  "label": "Skip tracing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Use is subject to applicable privacy and authorization requirements.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Signalling System No. 7 is a family of telecom signaling protocols used to exchange control information separately from bearer traffic.",
+  "entry_text": "Signalling System No. 7 is a family of telecom signaling protocols used to exchange control information separately from bearer traffic.",
+  "entry_text_kind": "definition",
+  "example": "A telecom engineer identifies which signaling messages support establishing and releasing a phone call.",
+  "id": "tub5zvto3r",
+  "key": "signalling-system-no-7",
+  "label": "Signalling System No. 7",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

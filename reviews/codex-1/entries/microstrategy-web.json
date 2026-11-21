@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "MicroStrategy Web is a browser interface for accessing reports, dashboards and related business intelligence tools.",
+  "entry_text": "MicroStrategy Web is a browser interface for accessing reports, dashboards and related business intelligence tools.",
+  "entry_text_kind": "definition",
+  "example": "A manager opens a shared dashboard in a browser and filters it to their region.",
+  "id": "a8hfha4eox",
+  "key": "microstrategy-web",
+  "label": "MicroStrategy Web",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

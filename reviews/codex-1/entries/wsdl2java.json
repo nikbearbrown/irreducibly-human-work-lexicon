@@ -1,0 +1,20 @@
+{
+  "batch": "skill-049.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "WSDL2Java refers to tools that generate Java code or bindings from a Web Services Description Language document.",
+  "entry_text": "WSDL2Java refers to tools that generate Java code or bindings from a Web Services Description Language document.",
+  "entry_text_kind": "definition",
+  "example": "A developer generates client bindings for an existing SOAP service.",
+  "id": "oxms4xxazw",
+  "key": "wsdl2java",
+  "label": "WSDL2Java",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label can refer to similarly named commands from different toolkits, including Apache Axis and Apache CXF.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Ivalua is enterprise software that supports sourcing, supplier management, purchasing and other source-to-pay activities.",
+  "entry_text": "Ivalua is enterprise software that supports sourcing, supplier management, purchasing and other source-to-pay activities.",
+  "entry_text_kind": "definition",
+  "example": "A procurement team compares supplier bids before sending the selected contract for approval.",
+  "id": "ao9i14atpq",
+  "key": "ivalua",
+  "label": "Ivalua",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

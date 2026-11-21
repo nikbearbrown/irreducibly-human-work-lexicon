@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Designing or assessing digital content and interfaces so people with disabilities can use them.",
+  "entry_text": "Designing or assessing digital content and interfaces so people with disabilities can use them.",
+  "entry_text_kind": "definition",
+  "example": "A designer verifies that a registration form can be completed with a keyboard and a screen reader.",
+  "id": "mgli64p2b6",
+  "key": "digital-accessibility",
+  "label": "Digital accessibility",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

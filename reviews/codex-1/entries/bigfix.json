@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "BigFix is an endpoint-management platform for tracking device inventory, distributing software, and applying patches or configuration policies.",
+  "entry_text": "BigFix is an endpoint-management platform for tracking device inventory, distributing software, and applying patches or configuration policies.",
+  "entry_text_kind": "definition",
+  "example": "An administrator checks which managed devices still need an approved update.",
+  "id": "yapu6om8hs",
+  "key": "bigfix",
+  "label": "BigFix",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

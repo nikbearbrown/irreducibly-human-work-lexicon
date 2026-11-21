@@ -1,0 +1,31 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Sumerian (ISO 639-3: sux) as a language.",
+  "catalog_identity_evidence": {
+    "catalog_family": null,
+    "catalog_name": "Sumerian",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "sume1241",
+    "iso639_3": "sux",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/sume1241"
+  },
+  "definition": "An ancient human language attested in cuneiform texts.",
+  "entry_text": "An ancient human language attested in cuneiform texts.",
+  "entry_text_kind": "definition",
+  "example": "A scholar translates a Sumerian administrative tablet.",
+  "id": "kxge7c4n0p",
+  "key": "sumerian",
+  "label": "Sumerian",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

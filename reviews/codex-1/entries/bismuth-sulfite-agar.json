@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Bismuth sulfite agar is a selective and differential microbiological medium historically used in screening for certain Salmonella, including Salmonella Typhi.",
+  "entry_text": "Bismuth sulfite agar is a selective and differential microbiological medium historically used in screening for certain Salmonella, including Salmonella Typhi.",
+  "entry_text_kind": "definition",
+  "example": "A microbiology student identifies the medium in an archival laboratory report and distinguishes a presumptive screen from confirmation.",
+  "id": "m8gmr3txqk",
+  "key": "bismuth-sulfite-agar",
+  "label": "Bismuth sulfite agar",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

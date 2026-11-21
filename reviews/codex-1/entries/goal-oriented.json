@@ -1,0 +1,28 @@
+{
+  "batch": "ability-001.json",
+  "broad_class": "ability",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Being goal-oriented is a tendency to organize and prioritize work around a specified objective.",
+  "entry_text": "Being goal-oriented is a tendency to organize and prioritize work around a specified objective.",
+  "entry_text_kind": "definition",
+  "example": "A tutor uses the student's target reading level to choose exercises and measure progress each week.",
+  "id": "g32rgj6uc5",
+  "key": "goal-oriented",
+  "label": "Goal-oriented",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "ability",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The adjectival label describes a work orientation.",
+  "sources": [
+    {
+      "id": "g32rgj6uc5",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. DOE accountability associates setting priorities and objectives with measuring outcomes; supports the work behavior, not a measured innate ability.",
+      "packet": "worker-stratified.json",
+      "ref": "https://www.energy.gov/sites/prod/files/2015/06/f23/DOE_Competency_Dictionary_FINAL.pdf",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

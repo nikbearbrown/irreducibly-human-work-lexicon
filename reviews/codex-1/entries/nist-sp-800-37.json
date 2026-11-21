@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "NIST SP 800-37 describes the Risk Management Framework for managing security and privacy risks across the system lifecycle.",
+  "entry_text": "NIST SP 800-37 describes the Risk Management Framework for managing security and privacy risks across the system lifecycle.",
+  "entry_text_kind": "definition",
+  "example": "A system owner uses the framework's monitor step to plan ongoing review of controls.",
+  "id": "t2xmb2vh8p",
+  "key": "nist-sp-800-37",
+  "label": "NIST SP 800-37",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

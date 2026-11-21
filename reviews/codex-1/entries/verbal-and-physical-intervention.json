@@ -1,0 +1,20 @@
+{
+  "batch": "skill-047.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Verbal and physical intervention combines communication to de-escalate situations with authorized physical measures when needed for safety.",
+  "entry_text": "Verbal and physical intervention combines communication to de-escalate situations with authorized physical measures when needed for safety.",
+  "entry_text_kind": "definition",
+  "example": "A trained care worker uses calm communication to de-escalate a tense interaction.",
+  "id": "ekmw83clz8",
+  "key": "verbal-and-physical-intervention",
+  "label": "Verbal and physical intervention",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Scope depends on training, setting and authorization.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

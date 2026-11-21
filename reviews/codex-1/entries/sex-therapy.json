@@ -1,0 +1,20 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sex therapy is a clinical counseling specialty addressing sexual concerns, functioning, intimacy, and the psychological or relational factors that affect them.",
+  "entry_text": "Sex therapy is a clinical counseling specialty addressing sexual concerns, functioning, intimacy, and the psychological or relational factors that affect them.",
+  "entry_text_kind": "definition",
+  "example": "A therapist helps consenting adults discuss concerns and agree on communication goals.",
+  "id": "hhbtqq3c7x",
+  "key": "sex-therapy",
+  "label": "Sex therapy",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

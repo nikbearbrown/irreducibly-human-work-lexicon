@@ -1,0 +1,28 @@
+{
+  "batch": "skill-026.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "KairosDB is a database system for ingesting and querying time-series measurements.",
+  "entry_text": "KairosDB is a database system for ingesting and querying time-series measurements.",
+  "entry_text_kind": "definition",
+  "example": "An operations team queries hourly aggregates of sensor readings.",
+  "id": "lmao37vzxc",
+  "key": "kairosdb",
+  "label": "KairosDB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "lmao37vzxc",
+      "note": "The project documentation covers ingesting and querying timestamped metrics. A Cassandra-only description would be too narrow because the getting-started guide also documents an H2 backend.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://kairosdb.github.io/docs/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

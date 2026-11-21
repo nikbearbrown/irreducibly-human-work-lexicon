@@ -1,0 +1,20 @@
+{
+  "batch": "skill-044.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Theano was an open-source Python library for defining and optimizing mathematical expressions on multidimensional arrays, including automatic differentiation.",
+  "entry_text": "Theano was an open-source Python library for defining and optimizing mathematical expressions on multidimensional arrays, including automatic differentiation.",
+  "entry_text_kind": "definition",
+  "example": "A researcher examining older neural network code identifies how Theano created the gradient used to update parameters.",
+  "id": "dua32jm4h0",
+  "key": "theano",
+  "label": "Theano",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical project; do not infer maintenance status of forks.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

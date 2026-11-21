@@ -1,0 +1,28 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Nutanix Calm is an application automation tool for modeling, deploying and managing applications across infrastructure environments.",
+  "entry_text": "Nutanix Calm is an application automation tool for modeling, deploying and managing applications across infrastructure environments.",
+  "entry_text_kind": "definition",
+  "example": "A team defines a blueprint for deploying application and database services together.",
+  "id": "ras83mtjf6",
+  "key": "nutanix-calm",
+  "label": "Nutanix Calm",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "ras83mtjf6",
+      "note": "Nutanix names Calm as the previous name of NCM Self-Service and describes blueprint-based provisioning and application lifecycle orchestration across hybrid clouds.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://www.nutanix.com/products/cloud-manager/self-service",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

@@ -1,0 +1,28 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A family of standards governing data communications over cable television networks.",
+  "entry_text": "A family of standards governing data communications over cable television networks.",
+  "entry_text_kind": "definition",
+  "example": "A cable modem exchanges broadband data with the operator's network using a supported DOCSIS version.",
+  "id": "h6de3ztyj8",
+  "key": "docsis",
+  "label": "DOCSIS",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "h6de3ztyj8",
+      "note": "CableLabs identifies the document as a member of the DOCSIS high-speed data-over-cable specification family and depicts the cable modem linked to the operator’s broadband access network.",
+      "packet": "worker-technical-skills.json",
+      "ref": "https://account.cablelabs.com/server/alfresco/1519efdc-d9ae-4d0b-a017-9a1e457bcbcb",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

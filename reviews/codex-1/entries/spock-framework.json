@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Spock is a testing and specification framework for JVM software that uses Groovy syntax to express test conditions and expected outcomes.",
+  "entry_text": "Spock is a testing and specification framework for JVM software that uses Groovy syntax to express test conditions and expected outcomes.",
+  "entry_text_kind": "definition",
+  "example": "A developer supplies a table of inputs and expected prices for a discount function.",
+  "id": "z8kpukjtt0",
+  "key": "spock-framework",
+  "label": "Spock Framework",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

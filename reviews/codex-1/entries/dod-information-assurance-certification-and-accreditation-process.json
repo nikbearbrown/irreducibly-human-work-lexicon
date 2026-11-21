@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A former Department of Defense process for evaluating information system security controls and authorizing systems to operate.",
+  "entry_text": "A former Department of Defense process for evaluating information system security controls and authorizing systems to operate.",
+  "entry_text_kind": "definition",
+  "example": null,
+  "id": "kbwn2l59ne",
+  "key": "dod-information-assurance-certification-and-accreditation-process",
+  "label": "DoD Information Assurance Certification and Accreditation Process",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Historical process often abbreviated DIACAP; do not present as the current authorization workflow.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

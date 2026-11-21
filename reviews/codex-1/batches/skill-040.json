@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "tt9rapd3jw",
+    "key": "schema-markup",
+    "label": "Schema markup",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "p69ue6ggj9",
+    "key": "schematic-diagrams",
+    "label": "Schematic diagrams",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gz3ybd6jjz",
+    "key": "school-counseling",
+    "label": "School counseling",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rl31qhdfyv",
+    "key": "schoology",
+    "label": "Schoology",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xes1w8d3wv",
+    "key": "scientific-computing",
+    "label": "Scientific computing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sgi5y6yxmz",
+    "key": "scientific-modelling",
+    "label": "Scientific modelling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g9gfriy1ec",
+    "key": "scikit-learn",
+    "label": "scikit-learn",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t8vokn2xgs",
+    "key": "scope-statement",
+    "label": "Scope statement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k6v44yitma",
+    "key": "screen-design",
+    "label": "Screen design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cy4zuajv82",
+    "key": "screen-reader",
+    "label": "Screen reader",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pqt2ajoqzd",
+    "key": "screening-resumes",
+    "label": "Screening resumes",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gaycj932vl",
+    "key": "screw-conveyor",
+    "label": "Screw conveyor",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b0q75im0ta",
+    "key": "script-writing",
+    "label": "Script writing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "esx8bhcp74",
+    "key": "sd-card",
+    "label": "SD card",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "b06yv9nln6",
+    "key": "seamanship",
+    "label": "Seamanship",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x548j4bk91",
+    "key": "seating-guests",
+    "label": "Seating guests",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k13xxdj722",
+    "key": "section-drawings",
+    "label": "Section drawings",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nwq0qkktaq",
+    "key": "secure-coding",
+    "label": "Secure coding",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "elmt6ip5l7",
+    "key": "secure-shell",
+    "label": "Secure Shell",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w1g6x1sjoj",
+    "key": "security-information-and-event-management",
+    "label": "Security information and event management",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "js76dl80jf",
+    "key": "security-management",
+    "label": "Security management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ddfo4ab44g",
+    "key": "security-onion",
+    "label": "Security Onion",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ic97ot6pm9",
+    "key": "security-operations",
+    "label": "Security operations",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cqu9eobvep",
+    "key": "seeder",
+    "label": "Seeder",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iyt1a3x468",
+    "key": "seesaw-software",
+    "label": "Seesaw (software)",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vz5cl4b7vg",
+    "key": "segment-software",
+    "label": "Segment (software)",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e6qd4yyvje",
+    "key": "selenium",
+    "label": "Selenium",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oec4f8pb0z",
+    "key": "seliwanoff-s-test",
+    "label": "Seliwanoff's test",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sy9beg0m2g",
+    "key": "sequel-pro",
+    "label": "Sequel Pro",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yy71teg67n",
+    "key": "sequelize",
+    "label": "Sequelize",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qgak16t1qb",
+    "key": "serial-ata",
+    "label": "Serial ATA",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y13g58ujg8",
+    "key": "serial-line-internet-protocol",
+    "label": "Serial Line Internet Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vnsmbans4v",
+    "key": "service-desk",
+    "label": "Service desk",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vb3ht42xuh",
+    "key": "service-level-requirement",
+    "label": "Service level requirement",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "omo5ickcgd",
+    "key": "servicenow-discovery",
+    "label": "ServiceNow Discovery",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "whm91xdkg5",
+    "key": "servicenow",
+    "label": "ServiceNow",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hhbtqq3c7x",
+    "key": "sex-therapy",
+    "label": "Sex therapy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a3bqeyoo0e",
+    "key": "sha-256",
+    "label": "SHA-256",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "djgnjt4yvc",
+    "key": "sha-512",
+    "label": "SHA-512",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "joezeqt05u",
+    "key": "shaolin-kung-fu",
+    "label": "Shaolin kung fu",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

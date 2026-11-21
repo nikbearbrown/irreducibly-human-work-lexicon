@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The cross product of two vectors in three-dimensional Euclidean space is a vector perpendicular to both, oriented by the right-hand rule and with magnitude equal to the area they span.",
+  "entry_text": "The cross product of two vectors in three-dimensional Euclidean space is a vector perpendicular to both, oriented by the right-hand rule and with magnitude equal to the area they span.",
+  "entry_text_kind": "definition",
+  "example": "A graphics program takes the cross product of two triangle edges to calculate a surface normal.",
+  "id": "cjkn9h9pnh",
+  "key": "cross-product",
+  "label": "Cross product",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as the vector operation; some fields use the phrase informally for a Cartesian product.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

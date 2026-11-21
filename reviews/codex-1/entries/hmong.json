@@ -1,0 +1,20 @@
+{
+  "batch": "language-003.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A broad language label covering multiple varieties relevant to speech and translation.",
+  "entry_text": "A broad language label covering multiple varieties relevant to speech and translation.",
+  "entry_text_kind": "definition",
+  "example": "An interpreter checks which Hmong variety a caller prefers.",
+  "id": "x9khiljmo5",
+  "key": "hmong",
+  "label": "Hmong",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specify the variety where exact language matching matters.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

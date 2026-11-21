@@ -1,0 +1,28 @@
+{
+  "batch": "skill-002.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "AllJoyn was an open interoperability framework that allowed connected devices to discover and communicate with one another.",
+  "entry_text": "AllJoyn was an open interoperability framework that allowed connected devices to discover and communicate with one another.",
+  "entry_text_kind": "definition",
+  "example": "A home control app discovers a compatible device on a local network.",
+  "id": "cjqp8nwcn9",
+  "key": "alljoyn",
+  "label": "AllJoyn",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "cjqp8nwcn9",
+      "note": "The standards foundation describes AllJoyn as an open-source interoperability framework for device and app discovery and communication. It says downloads remain available and the project reached its final major release.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://openconnectivity.org/technology/reference-implementation/alljoyn/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "RethinkDB is a document database with changefeeds that let applications subscribe to updates in query results.",
+  "entry_text": "RethinkDB is a document database with changefeeds that let applications subscribe to updates in query results.",
+  "entry_text_kind": "definition",
+  "example": "A dashboard subscribes to an order query so its list refreshes when an order status changes.",
+  "id": "ywsbnez7wv",
+  "key": "rethinkdb",
+  "label": "RethinkDB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

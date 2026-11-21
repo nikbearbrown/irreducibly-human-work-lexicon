@@ -1,0 +1,20 @@
+{
+  "batch": "skill-047.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Virus culture refers to growing viruses in living host systems in controlled settings.",
+  "entry_text": "Virus culture refers to growing viruses in living host systems in controlled settings.",
+  "entry_text_kind": "definition",
+  "example": "A virology team distinguishes evidence of infectious virus from a test that detects only genetic material.",
+  "id": "k1n9hqp5bs",
+  "key": "virus-culture",
+  "label": "Virus culture",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

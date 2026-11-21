@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "AtScale provides a semantic layer that lets analytics tools use shared business metrics over underlying data platforms.",
+  "entry_text": "AtScale provides a semantic layer that lets analytics tools use shared business metrics over underlying data platforms.",
+  "entry_text_kind": "definition",
+  "example": "A company defines revenue once and uses the definition across multiple dashboards.",
+  "id": "gtxd0h0n8y",
+  "key": "atscale",
+  "label": "AtScale",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Reading to children is presenting a written text aloud in ways that help young listeners follow and engage with it.",
+  "entry_text": "Reading to children is presenting a written text aloud in ways that help young listeners follow and engage with it.",
+  "entry_text_kind": "definition",
+  "example": "An educator pauses after a picture-book page to ask what happened.",
+  "id": "vu3qxyu8ov",
+  "key": "reading-to-children",
+  "label": "Reading to children",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

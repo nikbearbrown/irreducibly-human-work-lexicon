@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Music theory studies how elements such as pitch, rhythm, harmony and form are organized in music.",
+  "entry_text": "Music theory studies how elements such as pitch, rhythm, harmony and form are organized in music.",
+  "entry_text_kind": "definition",
+  "example": "A student identifies the cadence that marks the end of a musical phrase.",
+  "id": "y3ojit3m1g",
+  "key": "music-theory",
+  "label": "Music theory",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

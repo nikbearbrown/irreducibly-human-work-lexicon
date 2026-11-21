@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Solid and surface modeling represent three-dimensional geometry as volumes or as bounding surfaces, respectively.",
+  "entry_text": "Solid and surface modeling represent three-dimensional geometry as volumes or as bounding surfaces, respectively.",
+  "entry_text_kind": "definition",
+  "example": "An engineer shapes a curved housing with surfaces and converts the closed form into a solid to check wall thickness.",
+  "id": "kwcwko7ozp",
+  "key": "3d-solid-and-surface-modeling",
+  "label": "3D solid and surface modeling",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

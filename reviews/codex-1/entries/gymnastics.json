@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Performing and developing coordinated movements that require strength, balance, flexibility, and body control.",
+  "entry_text": "Performing and developing coordinated movements that require strength, balance, flexibility, and body control.",
+  "entry_text_kind": "definition",
+  "example": "A gymnast practices a balanced routine on the beam with coaching.",
+  "id": "v9eefyu589",
+  "key": "gymnastics",
+  "label": "Gymnastics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

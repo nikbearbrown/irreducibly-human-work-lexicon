@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "NativeScript is a framework for building native mobile applications with JavaScript or TypeScript and access to native platform APIs.",
+  "entry_text": "NativeScript is a framework for building native mobile applications with JavaScript or TypeScript and access to native platform APIs.",
+  "entry_text_kind": "definition",
+  "example": "An app developer builds a mobile interface using native controls from a shared codebase.",
+  "id": "ff38barlkn",
+  "key": "nativescript",
+  "label": "NativeScript",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

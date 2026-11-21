@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Receiving requests for emergency medical care, prioritizing them, and coordinating appropriate response resources.",
+  "entry_text": "Receiving requests for emergency medical care, prioritizing them, and coordinating appropriate response resources.",
+  "entry_text_kind": "definition",
+  "example": "A dispatcher gathers location and incident details and directs an available ambulance to the scene.",
+  "id": "x5se053uo6",
+  "key": "ems-dispatch",
+  "label": "EMS dispatch",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

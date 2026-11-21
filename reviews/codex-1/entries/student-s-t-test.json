@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Student's t-test uses a t statistic to test a hypothesis about a mean or mean difference under specified assumptions.",
+  "entry_text": "Student's t-test uses a t statistic to test a hypothesis about a mean or mean difference under specified assumptions.",
+  "entry_text_kind": "definition",
+  "example": "A researcher uses a paired t-test to assess the average change between two measurements on the same participants.",
+  "id": "thnbnd3pir",
+  "key": "student-s-t-test",
+  "label": "Student's t-test",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Distinguish equal-variance two-sample Student tests from Welch's variant.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

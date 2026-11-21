@@ -1,0 +1,242 @@
+[
+  {
+    "id": "tt9rapd3jw",
+    "definition": "Schema markup expresses facts about page content using structured data vocabulary such as Schema.org so software can interpret the fields.",
+    "example": "A publisher marks up a recipe's ingredients and cooking time using structured data.",
+    "sense_note": null
+  },
+  {
+    "id": "p69ue6ggj9",
+    "definition": "A schematic diagram uses conventional symbols and connecting lines to represent how parts of a system functionally connect rather than their physical layout.",
+    "example": "A technician reads a circuit schematic to see which relays share a control signal.",
+    "sense_note": null
+  },
+  {
+    "id": "gz3ybd6jjz",
+    "definition": "School counseling supports students' academic progress, career planning, and social and emotional development within an educational setting.",
+    "example": "A counselor helps a student select classes that satisfy graduation and career-program requirements.",
+    "sense_note": null
+  },
+  {
+    "id": "rl31qhdfyv",
+    "definition": "Schoology is a learning management platform for organizing course materials, assignments, discussions, and assessment.",
+    "example": "A teacher shares lesson materials and collects student submissions in a Schoology course.",
+    "sense_note": null
+  },
+  {
+    "id": "xes1w8d3wv",
+    "definition": "Scientific computing uses numerical algorithms and computational systems to solve, simulate, and analyze scientific problems.",
+    "example": "A researcher uses a numerical solver to estimate temperatures through a modeled material.",
+    "sense_note": null
+  },
+  {
+    "id": "sgi5y6yxmz",
+    "definition": "Scientific modelling builds explicit representations of systems or processes to explain observations, explore hypotheses, or predict behavior under assumptions.",
+    "example": "An ecologist compares model predictions of population growth with measured census data.",
+    "sense_note": null
+  },
+  {
+    "id": "g9gfriy1ec",
+    "definition": "scikit-learn is a Python library for conventional machine learning, preprocessing, and model evaluation.",
+    "example": "An analyst fits a classifier and uses cross-validation to compare its performance with a baseline.",
+    "sense_note": null
+  },
+  {
+    "id": "t8vokn2xgs",
+    "definition": "A scope statement describes what a project includes and excludes, its deliverables, and relevant constraints or acceptance boundaries.",
+    "example": "A team records that a redesign covers checkout screens but not the inventory service.",
+    "sense_note": null
+  },
+  {
+    "id": "k6v44yitma",
+    "definition": "Screen design arranges information, controls, interaction states, and visual hierarchy on a digital display to support user tasks.",
+    "example": "A designer makes the primary payment button easy to find without obscuring the order summary.",
+    "sense_note": null
+  },
+  {
+    "id": "cy4zuajv82",
+    "definition": "A screen reader presents software and document content through synthesized speech or a refreshable braille display using accessible interface information.",
+    "example": "A visitor navigates a website by jumping between headings using a screen reader.",
+    "sense_note": "Assistive technology rather than an ability in itself."
+  },
+  {
+    "id": "pqt2ajoqzd",
+    "definition": "Screening resumes compares documented applicant evidence against relevant role requirements to determine who should advance.",
+    "example": "A recruiter uses a consistent checklist of required experience for applicants to the same job.",
+    "sense_note": null
+  },
+  {
+    "id": "gaycj932vl",
+    "definition": "A screw conveyor moves bulk material through a trough or tube using a rotating spiral element.",
+    "example": "A grain processor conveys material between a storage hopper and a packaging station.",
+    "sense_note": null
+  },
+  {
+    "id": "b0q75im0ta",
+    "definition": "Script writing creates the action, dialogue, narration, or instructions that guide a staged or recorded production.",
+    "example": "A writer sequences narration and demonstration cues for a short instructional video.",
+    "sense_note": "Could denote writing software scripts in a computing context; interpreted as media writing."
+  },
+  {
+    "id": "esx8bhcp74",
+    "definition": "An SD card is removable flash storage conforming to Secure Digital specifications for storing and transferring data.",
+    "example": "A photographer removes an SD card from a camera to copy image files to a computer.",
+    "sense_note": null
+  },
+  {
+    "id": "b06yv9nln6",
+    "definition": "Seamanship encompasses the practical knowledge and skill needed to operate, handle, and care for a vessel safely.",
+    "example": "A crew member secures a vessel alongside a dock and checks the mooring lines against changing tide.",
+    "sense_note": null
+  },
+  {
+    "id": "x548j4bk91",
+    "definition": "Seating guests assigns and guides patrons to suitable places while accommodating reservations, accessibility needs, and available capacity.",
+    "example": "A restaurant host directs a party to an accessible table without disrupting upcoming reservations.",
+    "sense_note": null
+  },
+  {
+    "id": "k13xxdj722",
+    "definition": "A section drawing shows features exposed by an imagined cut through a building, component, or assembly.",
+    "example": "An architect uses a section drawing to show the relationship between floor heights and the stair opening.",
+    "sense_note": null
+  },
+  {
+    "id": "nwq0qkktaq",
+    "definition": "Secure coding uses design and programming practices that prevent or reduce weaknesses that could compromise software and data.",
+    "example": "A developer uses parameterized database queries rather than concatenating user input into statements.",
+    "sense_note": null
+  },
+  {
+    "id": "elmt6ip5l7",
+    "definition": "Secure Shell is a network protocol for authenticated, encrypted communication used for purposes such as remote command sessions and file transfer.",
+    "example": "An administrator uses SSH to connect securely to an authorized server for maintenance.",
+    "sense_note": null
+  },
+  {
+    "id": "w1g6x1sjoj",
+    "definition": "Security information and event management collects and correlates security telemetry to support detection, investigation, and reporting.",
+    "example": "A security analyst reviews correlated sign-in and access alerts from multiple authorized systems.",
+    "sense_note": null
+  },
+  {
+    "id": "js76dl80jf",
+    "definition": "Security management establishes responsibilities, policies, and controls for protecting people, assets, or information against identified threats.",
+    "example": "A manager assigns owners to physical access reviews and schedules recurring verification.",
+    "sense_note": "Broad term with physical, organizational, and information security senses."
+  },
+  {
+    "id": "ddfo4ab44g",
+    "definition": "Security Onion is a security monitoring platform that aggregates and analyzes telemetry from networks and endpoints.",
+    "example": "A defender reviews network alerts and supporting flow records in a monitoring dashboard.",
+    "sense_note": null
+  },
+  {
+    "id": "ic97ot6pm9",
+    "definition": "Security operations maintains protective monitoring, investigates alerts, and coordinates response and recovery for an organization.",
+    "example": "An operations analyst triages a suspicious alert and escalates a confirmed incident to the response team.",
+    "sense_note": null
+  },
+  {
+    "id": "cqu9eobvep",
+    "definition": null,
+    "example": null,
+    "sense_note": "Ambiguous among agricultural planting equipment, software database seed utilities, peer-to-peer file uploaders, and other senses; identify the intended referent."
+  },
+  {
+    "id": "iyt1a3x468",
+    "definition": "Seesaw is an education platform for sharing assignments, documenting student work, and communicating with families.",
+    "example": "A student records an explanation of a math drawing and shares it with a teacher through Seesaw.",
+    "sense_note": null
+  },
+  {
+    "id": "vz5cl4b7vg",
+    "definition": "Segment is a customer data platform for collecting and routing event and profile data to other applications.",
+    "example": "A team routes sign-up events from its website to an authorized analytics destination.",
+    "sense_note": "Interpreted as the Segment customer data product."
+  },
+  {
+    "id": "e6qd4yyvje",
+    "definition": "Selenium is a collection of tools for automating web browser interactions, often for testing web applications.",
+    "example": "A test opens a page, submits an authorized test form, and checks that the expected confirmation appears.",
+    "sense_note": "Interpreted as browser automation software, not the element."
+  },
+  {
+    "id": "oec4f8pb0z",
+    "definition": "Seliwanoff's test is a qualitative chemical assay that distinguishes certain ketose sugars from aldose sugars chiefly by the timing of their color response.",
+    "example": "A chemistry student interprets an archived test result by distinguishing a rapid response from a delayed one.",
+    "sense_note": null
+  },
+  {
+    "id": "sy9beg0m2g",
+    "definition": "Sequel Pro is a macOS graphical client for managing and querying MySQL databases.",
+    "example": "A developer uses it to inspect a test table's schema and rows.",
+    "sense_note": "Legacy application; distinguish it from successor projects."
+  },
+  {
+    "id": "yy71teg67n",
+    "definition": "Sequelize is an object-relational mapping library that maps JavaScript or TypeScript models to relational database tables and queries.",
+    "example": "A developer defines an order model and uses it to retrieve orders with matching status.",
+    "sense_note": null
+  },
+  {
+    "id": "qgak16t1qb",
+    "definition": "Serial ATA is a serial interface standard for connecting compatible storage devices to a host computer.",
+    "example": "A technician identifies which drive bay supports a SATA solid-state drive.",
+    "sense_note": null
+  },
+  {
+    "id": "y13g58ujg8",
+    "definition": "Serial Line Internet Protocol frames IP datagrams for transmission over a serial connection.",
+    "example": "A network historian traces how an early dial-up system carried IP packets using SLIP.",
+    "sense_note": null
+  },
+  {
+    "id": "vnsmbans4v",
+    "definition": "A service desk is a designated point of contact for recording, resolving, and escalating service requests and incidents.",
+    "example": "An employee reports a broken laptop, and the service desk logs the case and arranges replacement.",
+    "sense_note": null
+  },
+  {
+    "id": "vb3ht42xuh",
+    "definition": "A service level requirement states a needed performance, availability, or support level for a service before or alongside agreement on measurable commitments.",
+    "example": "A client specifies that critical support incidents need an initial response within 30 minutes.",
+    "sense_note": null
+  },
+  {
+    "id": "omo5ickcgd",
+    "definition": "ServiceNow Discovery identifies devices, applications, and related attributes in authorized environments and populates a configuration management database.",
+    "example": "An IT team uses discovery results to reconcile server records against its expected inventory.",
+    "sense_note": null
+  },
+  {
+    "id": "whm91xdkg5",
+    "definition": "ServiceNow is a cloud software platform for managing workflows such as service requests, incidents, and organizational approvals.",
+    "example": "A help desk tracks incidents and assigns follow-up work in ServiceNow.",
+    "sense_note": "The label identifies a platform rather than a specific module."
+  },
+  {
+    "id": "hhbtqq3c7x",
+    "definition": "Sex therapy is a clinical counseling specialty addressing sexual concerns, functioning, intimacy, and the psychological or relational factors that affect them.",
+    "example": "A therapist helps consenting adults discuss concerns and agree on communication goals.",
+    "sense_note": null
+  },
+  {
+    "id": "a3bqeyoo0e",
+    "definition": "SHA-256 is a cryptographic hash function in the SHA-2 family that produces a 256-bit digest from input data.",
+    "example": "A release team compares a downloaded installer's SHA-256 digest with a trusted published digest to check file integrity.",
+    "sense_note": null
+  },
+  {
+    "id": "djgnjt4yvc",
+    "definition": "SHA-512 is a cryptographic hash function in the SHA-2 family that produces a 512-bit digest from input data.",
+    "example": "An archive records SHA-512 digests to check later whether stored files have changed.",
+    "sense_note": null
+  },
+  {
+    "id": "joezeqt05u",
+    "definition": "Shaolin kung fu refers to martial arts traditions associated with China's Shaolin Temple, encompassing structured forms, conditioning, and training practices.",
+    "example": "In a supervised class, learners practice a traditional form to improve balance and coordination.",
+    "sense_note": null
+  }
+]

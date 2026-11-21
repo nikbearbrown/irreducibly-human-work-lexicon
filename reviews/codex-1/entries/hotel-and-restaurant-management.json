@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Managing hospitality operations across lodging and food service, including staffing, service quality, and financial performance.",
+  "entry_text": "Managing hospitality operations across lodging and food service, including staffing, service quality, and financial performance.",
+  "entry_text_kind": "definition",
+  "example": "A manager coordinates hotel occupancy plans with restaurant staffing for a convention.",
+  "id": "t1845bgn6q",
+  "key": "hotel-and-restaurant-management",
+  "label": "Hotel and restaurant management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "cvw7k70io9",
+    "definition": "Culture transformation deliberately changes shared habits, expectations, and norms within an organization.",
+    "example": "Managers make post-incident review routine and track whether staff feel safer raising concerns.",
+    "sense_note": null
+  },
+  {
+    "id": "nhvetwz8hq",
+    "definition": "CUnit is a unit-testing framework for organizing and executing tests of C code.",
+    "example": "A developer runs a suite of tests for a small C library’s boundary cases.",
+    "sense_note": null
+  },
+  {
+    "id": "wbkfp77uy9",
+    "definition": "Cured-in-place pipe is a rehabilitation method that forms a hardened lining inside an existing pipe instead of excavating its entire length.",
+    "example": "A utility renews a deteriorated sewer segment from existing access points.",
+    "sense_note": null
+  },
+  {
+    "id": "g2b0hvsib5",
+    "definition": "curl is a command-line tool for transferring data to or from servers over supported network protocols.",
+    "example": "A developer downloads a public dataset and records the response status.",
+    "sense_note": "Distinguish the command-line program from libcurl, the underlying library."
+  },
+  {
+    "id": "nna0x6ic9d",
+    "definition": "Curriculum evaluation gathers and interprets evidence to judge how well an educational program meets its goals.",
+    "example": "An educator compares assessed student work with the program’s stated learning outcomes.",
+    "sense_note": null
+  },
+  {
+    "id": "k0358zebce",
+    "definition": "Curriculum planning designs the sequence of learning objectives, content, experiences, and assessments for a program or course.",
+    "example": "An instructor sequences prerequisite topics before assigning a capstone exercise.",
+    "sense_note": null
+  },
+  {
+    "id": "it7tqv4mdp",
+    "definition": "Customer engagement planning specifies the activities, channels, timing, and responsibilities for interacting with customers.",
+    "example": "A team schedules onboarding messages and assigns owners for follow-up calls.",
+    "sense_note": null
+  },
+  {
+    "id": "im4b8pvk0p",
+    "definition": "Customer engagement strategy defines why and how an organization will build meaningful customer interactions across the relationship.",
+    "example": "A business chooses to prioritize relevant support at adoption milestones over frequent generic promotions.",
+    "sense_note": null
+  },
+  {
+    "id": "v059qbltq4",
+    "definition": "Customer experience strategy defines the desired experience across a customer journey and coordinates changes to deliver it consistently.",
+    "example": "A company brings store, delivery, and support teams together to reduce customer effort after a missed delivery.",
+    "sense_note": null
+  },
+  {
+    "id": "jxqim6aqgq",
+    "definition": "A customer insight is an actionable understanding of customer needs or behavior grounded in evidence rather than an observation alone.",
+    "example": "A team learns from interviews and service data that customers abandon setup because they cannot locate required information.",
+    "sense_note": null
+  },
+  {
+    "id": "s00v9m81ez",
+    "definition": "Customer success helps customers achieve the outcomes they intended to obtain from a product or service.",
+    "example": "A customer success manager agrees on adoption goals and checks whether the customer can now complete the targeted workflow.",
+    "sense_note": null
+  },
+  {
+    "id": "rzn1t3msf7",
+    "definition": "Cutover planning and management coordinates the transition from an existing operational system to its replacement, including readiness checks and recovery arrangements.",
+    "example": "A release team rehearses the switch and defines when to return to the old system if checks fail.",
+    "sense_note": null
+  },
+  {
+    "id": "mfwynfkp4j",
+    "definition": "Cyara is a platform for automated testing and monitoring of customer interactions, especially contact center and voice workflows.",
+    "example": "A contact center verifies that an incoming call reaches the correct support queue.",
+    "sense_note": null
+  },
+  {
+    "id": "tmdu8fhxhg",
+    "definition": "Cyber defense protects digital systems and services by reducing exposure, detecting harmful activity, and coordinating response and recovery.",
+    "example": "A security team reviews access alerts and improves account protections after an incident.",
+    "sense_note": null
+  },
+  {
+    "id": "t3qtfcj4cl",
+    "definition": "Cyber engineering applies engineering principles to design, validate, and maintain digital systems with defined security and resilience properties.",
+    "example": "A team documents how a service isolates components and tests whether containment works under benign failure conditions.",
+    "sense_note": null
+  },
+  {
+    "id": "rutsjj1twb",
+    "definition": "The Cyber Kill Chain is a staged conceptual model that defenders use to organize observations about intrusion activity and potential opportunities to interrupt it.",
+    "example": "An incident reviewer organizes already-observed evidence by stage to identify where monitoring coverage was missing.",
+    "sense_note": null
+  },
+  {
+    "id": "xa9fefssz7",
+    "definition": "Cyber threat hunting is the proactive review of authorized telemetry for indications of malicious activity not already surfaced by routine alerts.",
+    "example": "A defender checks whether an anomalous pattern reported in one internal system also appears in other approved logs.",
+    "sense_note": null
+  },
+  {
+    "id": "ajeetx04pv",
+    "definition": "Cyber threat intelligence turns evidence about digital threats into context that informs defensive decisions.",
+    "example": "A security team assesses whether a reported threat is relevant to software the organization uses before updating priorities.",
+    "sense_note": null
+  },
+  {
+    "id": "n43rtz8a5l",
+    "definition": "Cybersecurity compliance documents and demonstrates that security controls satisfy applicable policies, regulations, or standards.",
+    "example": "A control owner collects evidence that restricted account access is regularly reviewed.",
+    "sense_note": null
+  },
+  {
+    "id": "lwggdeyan2",
+    "definition": "D3.js is a JavaScript library for binding data to web elements and building customized interactive visualizations.",
+    "example": "A developer binds incident counts to map features and updates colors as a filter changes.",
+    "sense_note": null
+  },
+  {
+    "id": "bgv8aoglzh",
+    "definition": "Dagger 2 is a compile-time dependency injection framework for Java applications, including Android projects.",
+    "example": "A build checks whether all objects required by a feature can be provided by its dependency graph.",
+    "sense_note": null
+  },
+  {
+    "id": "pudsxgof73",
+    "definition": "DALL·E is a family of generative image models that create visual outputs from text prompts or related inputs.",
+    "example": "An artist requests several conceptual images for preliminary composition review.",
+    "sense_note": null
+  },
+  {
+    "id": "sqqun2bafg",
+    "definition": "Darik’s Boot and Nuke was a bootable utility designed to overwrite supported computer storage media for data erasure.",
+    "example": "An asset-disposal reviewer checks a historical record of an authorized disk wipe and its verification.",
+    "sense_note": "Do not assume erasure suitability for other media, especially solid-state devices."
+  },
+  {
+    "id": "rakialu2l1",
+    "definition": "dashDB was IBM’s name for a database service oriented toward analytical workloads and data warehousing.",
+    "example": "A data analyst runs aggregate queries on a historical dashDB data warehouse.",
+    "sense_note": "Verify the exact legacy offering when present-day product identity matters."
+  },
+  {
+    "id": "fcn0sg2ytx",
+    "definition": "Data center cooling manages heat and environmental conditions so computing equipment operates within intended ranges.",
+    "example": "A facilities team compares inlet temperatures across racks to identify a cooling imbalance.",
+    "sense_note": null
+  },
+  {
+    "id": "znkj1vnxbh",
+    "definition": "Data center design plans the computing facility and its power, cooling, connectivity, physical layout, and resilience requirements.",
+    "example": "A design team evaluates whether a proposed equipment layout can meet both power and heat loads.",
+    "sense_note": null
+  },
+  {
+    "id": "zx75pipfs3",
+    "definition": "Data center facility management operates and maintains the building services that support a data center’s computing infrastructure.",
+    "example": "A facilities manager schedules preventive maintenance of backup power and cooling equipment.",
+    "sense_note": null
+  },
+  {
+    "id": "e5k66q2jzl",
+    "definition": "Data center operations keeps the facility’s computing and supporting systems running through monitoring, maintenance, incident response, and planned change.",
+    "example": "An operator coordinates hardware replacement with service owners to minimize downtime.",
+    "sense_note": null
+  },
+  {
+    "id": "m2b1i9wyd7",
+    "definition": "Data classification assigns data to categories according to its content, sensitivity, or business and handling requirements.",
+    "example": "A records team marks payment records as restricted so additional handling controls apply.",
+    "sense_note": null
+  },
+  {
+    "id": "kqkr9op0ue",
+    "definition": "Data deduplication identifies and removes or consolidates redundant copies of data while preserving needed information.",
+    "example": "A storage system records identical file blocks once and points multiple files to the stored copy.",
+    "sense_note": null
+  },
+  {
+    "id": "dz5xjcq45r",
+    "definition": "Data-driven decision-making uses relevant evidence and analysis to inform judgment about what action to take.",
+    "example": "A library compares attendance records and reader feedback before changing its opening hours.",
+    "sense_note": null
+  },
+  {
+    "id": "h13obge925",
+    "definition": "Data-driven instruction uses evidence of learner progress or difficulty to adjust what is taught and how it is taught.",
+    "example": "A teacher reteaches fractions after reviewing errors common across a class’s recent assessments.",
+    "sense_note": null
+  },
+  {
+    "id": "mygpu0dj8r",
+    "definition": "Data-driven manufacturing uses operational data and analysis to guide production, quality, or maintenance decisions.",
+    "example": "A plant investigates increasing scrap rates using measurements linked to production shifts.",
+    "sense_note": null
+  },
+  {
+    "id": "mtmkw6b12m",
+    "definition": "Data engineering designs and maintains systems that reliably ingest, transform, store, and serve data.",
+    "example": "An engineer builds a pipeline that checks incoming sales records and makes validated data available for reporting.",
+    "sense_note": null
+  },
+  {
+    "id": "isgys6o9f0",
+    "definition": "Alphanumeric data entry accurately inputs records containing letters, numbers, and sometimes symbols into a system.",
+    "example": "A clerk transcribes product identifiers containing both letters and digits and verifies each against the source.",
+    "sense_note": null
+  },
+  {
+    "id": "ct5cj0dk4m",
+    "definition": "Numeric data entry accurately inputs data such as amounts, counts, and measured values into a system.",
+    "example": "A clerk enters invoice amounts and checks that the decimal places match the source records.",
+    "sense_note": null
+  },
+  {
+    "id": "pgwo2h5tp6",
+    "definition": "Data modeling represents entities, attributes, and relationships or other structures that determine how information is organized and used.",
+    "example": "A designer models orders and line items separately so each order can contain multiple products.",
+    "sense_note": null
+  },
+  {
+    "id": "afiw0lkbic",
+    "definition": "A data pipeline is a sequence of connected processes that moves data between systems and may validate, transform, or enrich it along the way.",
+    "example": "A scheduled pipeline reads new records, standardizes dates, and writes validated data to an analytics table.",
+    "sense_note": null
+  },
+  {
+    "id": "cz92k14w56",
+    "definition": "Data Vault modeling structures a data warehouse around hubs for business keys, links for relationships, and satellites for descriptive history.",
+    "example": "A warehouse stores supplier identifiers in a hub and records changing supplier attributes in a satellite.",
+    "sense_note": null
+  },
+  {
+    "id": "amuzox4pgm",
+    "definition": "Data visualization represents data visually to help people inspect patterns, comparisons, distributions, or relationships.",
+    "example": "An analyst plots a distribution rather than showing only an average so readers can see outliers.",
+    "sense_note": null
+  }
+]

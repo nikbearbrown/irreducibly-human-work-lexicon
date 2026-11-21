@@ -1,0 +1,32 @@
+{
+  "batch": "skill-040.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": null,
+  "entry_text": "Distinct candidates include a database initialization class or utility, agricultural machinery that places seed, and a peer sharing a complete file. The tool hint does not choose between software and machinery, and the peer sense names a role rather than a tool. Require source context or an identifiable product before defining.",
+  "entry_text_kind": "disambiguation",
+  "example": null,
+  "id": "cqu9eobvep",
+  "key": "seeder",
+  "label": "Seeder",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Ambiguous among agricultural planting equipment, software database seed utilities, peer-to-peer file uploaders, and other senses; identify the intended referent.",
+  "sense_proposal": {
+    "ambiguity_note": "Distinct candidates include a database initialization class or utility, agricultural machinery that places seed, and a peer sharing a complete file. The tool hint does not choose between software and machinery, and the peer sense names a role rather than a tool. Require source context or an identifiable product before defining.",
+    "id": "cqu9eobvep",
+    "label": "Seeder",
+    "proposed_definition": null,
+    "refs": [
+      "https://api.laravel.com/docs/11.x/Illuminate/Database/Seeder.html",
+      "https://www.deere.com/assets/pdfs/common/parts-and-service/parts/jd-parts-spring-2024.pdf",
+      "https://www.bittorrent.org/bittorrentecon.pdf",
+      "https://www.deere.com/en-us/products-and-solutions/seeding-equipment"
+    ]
+  },
+  "sources": [],
+  "verification": "draft-unchecked"
+}

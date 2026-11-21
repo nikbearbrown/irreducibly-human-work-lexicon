@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "yikd65o35c",
+    "key": "socket-5",
+    "label": "Socket 5",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wmkik8ucw1",
+    "key": "sockjs",
+    "label": "SockJS",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sydpcel9cl",
+    "key": "softrax",
+    "label": "Softrax",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nxe5r570bd",
+    "key": "software-architecture",
+    "label": "Software architecture",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yw2egk4m94",
+    "key": "software-localization",
+    "label": "Software localization",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o1bclljhfa",
+    "key": "software-quality-assurance",
+    "label": "Software quality assurance",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f514s143d0",
+    "key": "software-quality-management",
+    "label": "Software quality management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "iopfdqljc7",
+    "key": "software-reliability-testing",
+    "label": "Software reliability testing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "daoszu8tvh",
+    "key": "software-testing-life-cycle",
+    "label": "Software testing life cycle",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xdzjh8o7c2",
+    "key": "soil-fertility-treatment",
+    "label": "Soil fertility treatment",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "upytq9e2xt",
+    "key": "solar-panel",
+    "label": "Solar panel",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ad3mkvvkr3",
+    "key": "solar-street-light",
+    "label": "Solar street light",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "stzgtpqqh9",
+    "key": "sonicstage",
+    "label": "SonicStage",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ztsbmjfbc3",
+    "key": "sonicwall",
+    "label": "SonicWall",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "t4wzn7vzqx",
+    "key": "soot-blower",
+    "label": "Soot blower",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fyp3kns8gb",
+    "key": "source-insight",
+    "label": "Source Insight",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v03rbybd9q",
+    "key": "sourcegear-vault",
+    "label": "SourceGear Vault",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n4go9oimdg",
+    "key": "spacy",
+    "label": "spaCy",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cifv2by5mk",
+    "key": "specimen-processing",
+    "label": "Specimen processing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k1agyun6gt",
+    "key": "speech-recognition-software",
+    "label": "Speech recognition software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fxyswjz96r",
+    "key": "speech-therapy",
+    "label": "Speech therapy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kbw8iffkxz",
+    "key": "sphygmomanometer",
+    "label": "Sphygmomanometer",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "irwzfq0j1x",
+    "key": "spidermonkey",
+    "label": "SpiderMonkey",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "uzlo7cd69m",
+    "key": "spine-js",
+    "label": "Spine.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "axe7jcxa6b",
+    "key": "spiritual-care",
+    "label": "Spiritual care",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rd9kj3ke0r",
+    "key": "splinting",
+    "label": "Splinting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z8kpukjtt0",
+    "key": "spock-framework",
+    "label": "Spock Framework",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dk62ws37y4",
+    "key": "sports-journalism",
+    "label": "Sports journalism",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kgw6ojmkno",
+    "key": "spray-gun",
+    "label": "Spray gun",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fub3ytd58x",
+    "key": "sprint-retrospective",
+    "label": "Sprint retrospective",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qs93b71k93",
+    "key": "spservices",
+    "label": "SPServices",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ki27he1gct",
+    "key": "sputter-deposition",
+    "label": "Sputter deposition",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "aegbvphut2",
+    "key": "spyder",
+    "label": "Spyder",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g1hfi5qy94",
+    "key": "sql-92",
+    "label": "SQL-92",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rldiu1tfvy",
+    "key": "sql-server-analysis-services",
+    "label": "SQL Server Analysis Services",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r9xdxpsdlc",
+    "key": "sql-server-express-localdb",
+    "label": "SQL Server Express LocalDB",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xd4rfzhfig",
+    "key": "sql-server-integration-services",
+    "label": "SQL Server Integration Services",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "z37uxoynx1",
+    "key": "sql-tuning",
+    "label": "SQL tuning",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mcliy0oofb",
+    "key": "squirrel-sql-client",
+    "label": "SQuirreL SQL Client",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "oqjr6z2wak",
+    "key": "ssl-tls-security",
+    "label": "SSL/TLS security",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

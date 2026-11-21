@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-005.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A field-programmable gate array is a chip whose digital logic circuitry can be configured after manufacture.",
+  "entry_text": "A field-programmable gate array is a chip whose digital logic circuitry can be configured after manufacture.",
+  "entry_text_kind": "definition",
+  "example": "An engineer configures an FPGA to filter multiple signal channels in parallel.",
+  "id": "ll3qkk2jdu",
+  "key": "field-programmable-gate-array",
+  "label": "Field-programmable gate array",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

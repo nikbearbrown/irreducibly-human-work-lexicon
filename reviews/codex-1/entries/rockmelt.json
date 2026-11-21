@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Rockmelt was a Chromium-based web browser designed to integrate social-network and content-sharing functions into browsing.",
+  "entry_text": "Rockmelt was a Chromium-based web browser designed to integrate social-network and content-sharing functions into browsing.",
+  "entry_text_kind": "definition",
+  "example": "A software historian compares how Rockmelt displayed social updates alongside a web page.",
+  "id": "e4ky74p3dr",
+  "key": "rockmelt",
+  "label": "Rockmelt",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Discontinued historical product; brand was also used for a later content-discovery product.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

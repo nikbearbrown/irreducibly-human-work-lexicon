@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "language",
+    "id": "xiiyhhzd8l",
+    "key": "abap",
+    "label": "ABAP",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ayuiek7so7",
+    "key": "actionscript",
+    "label": "ActionScript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "k8pcmxo14a",
+    "key": "ada-95",
+    "label": "Ada 95",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "x80b957frq",
+    "key": "ada",
+    "label": "Ada",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wrombjtyy8",
+    "key": "afrikaans",
+    "label": "Afrikaans",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "vks1qiiz57",
+    "key": "ainu",
+    "label": "Ainu",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "de1c4bnci7",
+    "key": "akan",
+    "label": "Akan",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "p7j275wpwg",
+    "key": "albanian",
+    "label": "Albanian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "tfv49p04re",
+    "key": "algebraic-logic-functional",
+    "label": "Algebraic Logic Functional",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "k29flhnozy",
+    "key": "algol",
+    "label": "ALGOL",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "l2yggbg9hw",
+    "key": "american-sign-language",
+    "label": "American Sign Language",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "eembc96hrl",
+    "key": "amharic",
+    "label": "Amharic",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "tl1644tlhi",
+    "key": "ampscript",
+    "label": "AMPscript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ed3v3ccr0e",
+    "key": "apex",
+    "label": "Apex",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "c6s0kc7cs8",
+    "key": "arabic",
+    "label": "Arabic",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "z3mgfsdb46",
+    "key": "archimate",
+    "label": "ArchiMate",
+    "onet_codes": [],
+    "original_kind": "modeling-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "lc66pgzr2o",
+    "key": "armenian",
+    "label": "Armenian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "thlaos2081",
+    "key": "asp-net-razor",
+    "label": "ASP.NET Razor",
+    "onet_codes": [],
+    "original_kind": "markup-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "nprk9hwd27",
+    "key": "assamese",
+    "label": "Assamese",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "dwchdo7ntf",
+    "key": "assembly-language",
+    "label": "Assembly language",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "znqe62lhes",
+    "key": "awk",
+    "label": "AWK",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "r46ots78g8",
+    "key": "aymara",
+    "label": "Aymara",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "vg1j943h99",
+    "key": "azerbaijani",
+    "label": "Azerbaijani",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "soe310iks3",
+    "key": "ballerina",
+    "label": "Ballerina",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "zam3lqxfdr",
+    "key": "base-sas",
+    "label": "Base SAS",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "op6iieveb7",
+    "key": "bash",
+    "label": "Bash",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "gk12ir4ef9",
+    "key": "basic",
+    "label": "BASIC",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "bzhvu8qe7g",
+    "key": "bassa",
+    "label": "Bassa",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "xbe5epb1r9",
+    "key": "batak",
+    "label": "Batak",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "kq6noua17o",
+    "key": "beanshell",
+    "label": "BeanShell",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "h0wn66qxrk",
+    "key": "bemba",
+    "label": "Bemba",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ynw7yrzobc",
+    "key": "benga",
+    "label": "Benga",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "k87r3b7xk8",
+    "key": "bengali",
+    "label": "Bengali",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wyc8jqdxhm",
+    "key": "berber",
+    "label": "Berber",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "kv7ufmoq1h",
+    "key": "bislama",
+    "label": "Bislama",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "oyo6sqevit",
+    "key": "blitzmax",
+    "label": "BlitzMax",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "qfyv8hdypt",
+    "key": "boo",
+    "label": "Boo",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "t86zp83kn8",
+    "key": "bosnian",
+    "label": "Bosnian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "xzacqgvx93",
+    "key": "burmese",
+    "label": "Burmese",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "a0h79b66kq",
+    "key": "c-2",
+    "label": "C",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An internal audit method for checking operations against applicable good manufacturing practice requirements and identifying corrective actions.",
+  "entry_text": "An internal audit method for checking operations against applicable good manufacturing practice requirements and identifying corrective actions.",
+  "entry_text_kind": "definition",
+  "example": "A quality team reviews production records during a scheduled self-inspection and tracks its findings.",
+  "id": "fijvbfas62",
+  "key": "gmp-self-inspection",
+  "label": "GMP self-inspection",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

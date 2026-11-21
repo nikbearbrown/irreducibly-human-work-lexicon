@@ -1,0 +1,20 @@
+{
+  "batch": "skill-031.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Nutritional assessment gathers and evaluates information such as intake, weight history and clinical findings to characterize nutritional status.",
+  "entry_text": "Nutritional assessment gathers and evaluates information such as intake, weight history and clinical findings to characterize nutritional status.",
+  "entry_text_kind": "definition",
+  "example": "A clinician compares diet records and recent weight changes to assess potential concerns.",
+  "id": "jc0wllogrr",
+  "key": "nutritional-assessment",
+  "label": "Nutritional assessment",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

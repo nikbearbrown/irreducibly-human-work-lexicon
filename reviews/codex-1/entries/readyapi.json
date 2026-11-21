@@ -1,0 +1,28 @@
+{
+  "batch": "skill-037.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ReadyAPI is a software suite for testing and validating application programming interfaces.",
+  "entry_text": "ReadyAPI is a software suite for testing and validating application programming interfaces.",
+  "entry_text_kind": "definition",
+  "example": "A quality engineer checks that a test API returns the expected response fields.",
+  "id": "j4u2uvtmvj",
+  "key": "readyapi",
+  "label": "ReadyAPI",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "j4u2uvtmvj",
+      "note": "Deterministic sample: first four SHA-256(\"worker-audit-v1:\" + id) per populated non-language class, excluding null definitions and root-reviewed IDs; this is not a corpus accuracy estimate. Vendor confirms response-body validation with assertions on specific JSON or XML fields.",
+      "packet": "worker-stratified.json",
+      "ref": "https://support.smartbear.com/readyapi/docs/en/test-apis-with-readyapi/verifying-results.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

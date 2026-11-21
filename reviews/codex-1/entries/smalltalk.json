@@ -1,0 +1,20 @@
+{
+  "batch": "language-007.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An object-oriented programming language built around objects and message sending.",
+  "entry_text": "An object-oriented programming language built around objects and message sending.",
+  "entry_text_kind": "definition",
+  "example": "A developer sends a filtering message to a collection.",
+  "id": "wt1hw5q5hk",
+  "key": "smalltalk",
+  "label": "Smalltalk",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

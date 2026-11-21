@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Luigi is a Python library for organizing batch data workflows as tasks with dependencies and tracked outputs.",
+  "entry_text": "Luigi is a Python library for organizing batch data workflows as tasks with dependencies and tracked outputs.",
+  "entry_text_kind": "definition",
+  "example": "A pipeline runs a report-generation task only after producing its source dataset.",
+  "id": "tbo4o5jjmq",
+  "key": "luigi",
+  "label": "Luigi",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

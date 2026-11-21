@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Sustainable investment management incorporates financially relevant sustainability factors or explicit sustainability objectives into investment research, decisions, ownership, and monitoring.",
+  "entry_text": "Sustainable investment management incorporates financially relevant sustainability factors or explicit sustainability objectives into investment research, decisions, ownership, and monitoring.",
+  "entry_text_kind": "definition",
+  "example": "A fund manager compares portfolio companies' transition risks against the fund's stated mandate.",
+  "id": "kf00e1n2od",
+  "key": "sustainable-investment-management",
+  "label": "Sustainable investment management",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

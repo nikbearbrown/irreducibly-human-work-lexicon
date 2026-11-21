@@ -1,0 +1,20 @@
+{
+  "batch": "skill-020.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Google's advertising platform for placing and measuring paid campaigns across search and other supported channels.",
+  "entry_text": "Google's advertising platform for placing and measuring paid campaigns across search and other supported channels.",
+  "entry_text_kind": "definition",
+  "example": "A retailer measures purchases attributed to a Google Ads search campaign.",
+  "id": "o0xh85dvg5",
+  "key": "google-ads",
+  "label": "Google Ads",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

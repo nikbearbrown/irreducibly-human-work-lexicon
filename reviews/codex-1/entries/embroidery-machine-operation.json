@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Running and monitoring equipment that stitches programmed designs into fabric or other compatible materials.",
+  "entry_text": "Running and monitoring equipment that stitches programmed designs into fabric or other compatible materials.",
+  "entry_text_kind": "definition",
+  "example": "An operator loads a logo design and checks a sample before producing a batch.",
+  "id": "l4yp5azrbp",
+  "key": "embroidery-machine-operation",
+  "label": "Embroidery machine operation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

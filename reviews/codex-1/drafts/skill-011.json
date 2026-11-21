@@ -1,0 +1,242 @@
+[
+  {
+    "id": "nlw2em4wy6",
+    "definition": "Continuous passive motion uses a motorized device to move a joint repeatedly through a prescribed range without active muscular effort from the patient.",
+    "example": "A clinician checks that a prescribed device moves the patient’s joint within the authorized range.",
+    "sense_note": null
+  },
+  {
+    "id": "srhmowmu6y",
+    "definition": "Contour plowing follows lines of similar elevation across a slope to reduce runoff and soil erosion.",
+    "example": "A grower aligns field passes with the hillside’s contours rather than straight down the slope.",
+    "sense_note": null
+  },
+  {
+    "id": "snkq2fzg6e",
+    "definition": "Contract review examines proposed or existing terms to identify obligations, ambiguities, risks, and deviations from intended arrangements.",
+    "example": "A project team compares a service agreement’s acceptance criteria with its negotiated scope.",
+    "sense_note": null
+  },
+  {
+    "id": "lt7wmuoa77",
+    "definition": "ControlLogix is a Rockwell Automation platform for programmable industrial controllers and associated modules.",
+    "example": "An automation engineer monitors whether an approved process sequence advances as specified.",
+    "sense_note": null
+  },
+  {
+    "id": "wiusuiqy2m",
+    "definition": "ControlUp provides software for monitoring and managing digital workspaces, endpoints, and virtual desktop environments.",
+    "example": "An administrator checks whether slow desktop sessions share the same infrastructure bottleneck.",
+    "sense_note": null
+  },
+  {
+    "id": "wbm3a667jj",
+    "definition": "Copier troubleshooting diagnoses copying equipment problems and checks whether corrective actions restore expected operation.",
+    "example": "A technician distinguishes a paper-feed fault from a print-quality problem before replacing parts.",
+    "sense_note": null
+  },
+  {
+    "id": "fmk4mr39gh",
+    "definition": "A coping saw is a hand saw with a narrow replaceable blade stretched in a frame for cutting curves and intricate shapes.",
+    "example": "A carpenter uses a coping saw to trim decorative molding to match an adjoining profile.",
+    "sense_note": null
+  },
+  {
+    "id": "cvxvhkki8b",
+    "definition": "Coppermine Photo Gallery is web software for publishing and managing albums, images, and related user interactions.",
+    "example": "A site administrator organizes a community’s uploaded photographs into albums with appropriate permissions.",
+    "sense_note": null
+  },
+  {
+    "id": "pjgqggil05",
+    "definition": "Copywriting creates text intended to inform, persuade, or prompt a specific response from an audience.",
+    "example": "A writer drafts a donation page that explains the cause and asks readers for a specific action.",
+    "sense_note": null
+  },
+  {
+    "id": "dmanxhx3ah",
+    "definition": "Core Spotlight is an Apple framework that lets applications index their content for search on the device.",
+    "example": "A notes app makes a saved note discoverable from the device’s search interface.",
+    "sense_note": null
+  },
+  {
+    "id": "eq1sto5sbz",
+    "definition": "CoreOS refers to a container-focused Linux operating system lineage and associated tooling for running workloads on clustered infrastructure.",
+    "example": "A maintainer reviews documentation for the specific CoreOS distribution in an archived cluster.",
+    "sense_note": "Clarify whether the label denotes historical Container Linux, Fedora CoreOS, or another related project."
+  },
+  {
+    "id": "g5a9cit4x4",
+    "definition": "Corona SDK was a Lua-based development kit for creating and deploying primarily two-dimensional apps and games across platforms.",
+    "example": "A game developer writes a single Lua scene and runs it on several supported mobile devices.",
+    "sense_note": "This is the app development toolkit associated with Solar2D, not a renderer with a similar name."
+  },
+  {
+    "id": "povysqyg4w",
+    "definition": "Coronal polishing removes superficial stains and plaque from the exposed surfaces of teeth using dental polishing methods.",
+    "example": "A qualified dental worker documents which accessible tooth surfaces were polished.",
+    "sense_note": null
+  },
+  {
+    "id": "d3zbc9cgeu",
+    "definition": "Corporate communications manages official messaging and relationships with an organization’s internal and external audiences.",
+    "example": "A communication team prepares consistent employee and press updates about a change in company leadership.",
+    "sense_note": null
+  },
+  {
+    "id": "kjyp8z5e06",
+    "definition": "The COSO Internal Control framework organizes the design and evaluation of organizational controls into complementary components and principles.",
+    "example": "An internal auditor uses the framework to map how risk assessment and monitoring contribute to a reporting control.",
+    "sense_note": "COSO also publishes an enterprise risk management framework; the label alone does not distinguish these."
+  },
+  {
+    "id": "y83erk8o1r",
+    "definition": "Cost estimating forecasts the resources and expenditures needed to complete a project or deliver an outcome.",
+    "example": "A construction estimator combines material quantities with labor and equipment rates to develop a budget.",
+    "sense_note": null
+  },
+  {
+    "id": "ix7gdpio0m",
+    "definition": "Cost to serve estimates the expense of fulfilling and supporting demand for a given customer, product, or channel.",
+    "example": "A distributor compares the fulfillment and support costs associated with bulk and small-volume customers.",
+    "sense_note": null
+  },
+  {
+    "id": "lkd0dh203l",
+    "definition": "CoStar Real Estate Manager is software for administering lease and property portfolio records and associated financial or operational workflows.",
+    "example": "A lease administrator checks renewal dates and reporting information for several sites.",
+    "sense_note": null
+  },
+  {
+    "id": "rtrc1foglt",
+    "definition": "CPython is the reference implementation of the Python language, written primarily in C.",
+    "example": "A package maintainer checks that a compiled extension works with the target CPython release.",
+    "sense_note": null
+  },
+  {
+    "id": "g351fd3uhq",
+    "definition": "Crane signaling communicates authorized directions between a signal person and a crane operator using agreed visual or voice signals.",
+    "example": "A lift team confirms its communication protocol during a supervised setup.",
+    "sense_note": null
+  },
+  {
+    "id": "coi0tfw3eq",
+    "definition": "Create React App is a toolkit for starting React projects with a preconfigured development and build environment.",
+    "example": "A maintainer locates the build scripts in an existing project scaffolded with Create React App.",
+    "sense_note": null
+  },
+  {
+    "id": "a6uxgvojco",
+    "definition": "CreateJS is a suite of JavaScript libraries for building interactive experiences with graphics, animation, sounds, and asset loading.",
+    "example": "A developer uses CreateJS to animate objects in a browser-based illustration.",
+    "sense_note": null
+  },
+  {
+    "id": "syt4e7l62v",
+    "definition": "Creative arts therapy uses structured engagement with artistic media as part of a therapeutic relationship and defined clinical goals.",
+    "example": "A qualified art therapist incorporates drawing into a session designed around a client’s communication goals.",
+    "sense_note": null
+  },
+  {
+    "id": "u9lvovjv7p",
+    "definition": "Creative problem-solving reframes a problem and generates and tests alternative approaches beyond familiar responses.",
+    "example": "A team develops several low-cost ways to reduce misplaced equipment and prototypes the most promising one.",
+    "sense_note": null
+  },
+  {
+    "id": "yfwv4lzspx",
+    "definition": "Credit risk analysis evaluates the likelihood and consequences of a borrower or counterparty failing to meet financial obligations.",
+    "example": "An analyst studies cash flows and existing debt before assessing a borrower’s ability to repay.",
+    "sense_note": null
+  },
+  {
+    "id": "x3v34yrjj2",
+    "definition": "Creo Elements/Pro was PTC’s parametric mechanical design software lineage for creating parts, assemblies, and engineering drawings.",
+    "example": "An engineer changes a controlling dimension and inspects the resulting assembly update.",
+    "sense_note": "Do not conflate the historical Pro product name with Creo Elements/Direct."
+  },
+  {
+    "id": "gkooziad4f",
+    "definition": "Crestron programming creates control logic and interfaces for Crestron room automation and audiovisual systems.",
+    "example": "An integrator programs a room interface to route an approved video source to its display.",
+    "sense_note": null
+  },
+  {
+    "id": "s71g30vi1m",
+    "definition": "Crestron provides hardware and software for controlling audiovisual equipment, room systems, and automation functions.",
+    "example": "A meeting room uses a Crestron controller to coordinate its display, lighting, and audio.",
+    "sense_note": "The label is a vendor and product family rather than one controller or programming language."
+  },
+  {
+    "id": "rhsdk9dz6z",
+    "definition": "Crime analysis examines incident and contextual data for patterns relevant to prevention, investigation, or resource planning.",
+    "example": "An analyst checks whether reported theft patterns changed after a public reporting campaign.",
+    "sense_note": null
+  },
+  {
+    "id": "dob6za2tys",
+    "definition": "Crime mapping uses geographic information to explore the locations and spatial patterns of reported incidents.",
+    "example": "An analyst maps incident counts by area and checks whether boundaries or reporting differences influence the pattern.",
+    "sense_note": null
+  },
+  {
+    "id": "dph0il9gp2",
+    "definition": "Crime scene investigation documents a scene and identifies and preserves potential evidence for later examination.",
+    "example": "An investigator records the location and handling history of collected evidence.",
+    "sense_note": null
+  },
+  {
+    "id": "plyin34jo8",
+    "definition": "The critical path method analyzes dependencies and duration estimates to identify the activity sequence that determines a project’s earliest completion.",
+    "example": "A scheduler identifies which installation delay would move the overall completion date.",
+    "sense_note": null
+  },
+  {
+    "id": "qayw96u2hz",
+    "definition": "Critical reflection examines experience, evidence, and assumptions to reconsider judgments and improve future action.",
+    "example": "A student compares a group decision with what happened and explains which assumption they would revise.",
+    "sense_note": null
+  },
+  {
+    "id": "pfm68oskn9",
+    "definition": "Critical test results management ensures that findings requiring urgent clinical attention are identified, communicated, and documented reliably.",
+    "example": "A laboratory team confirms receipt of a critical result by the responsible clinician according to its protocol.",
+    "sense_note": null
+  },
+  {
+    "id": "vaxzb7mo9m",
+    "definition": "Cross-platform app development builds applications intended to operate across multiple operating systems or device types, often sharing code or tooling.",
+    "example": "A team tests a shared mobile application on iOS and Android while adapting platform-specific accessibility behavior.",
+    "sense_note": null
+  },
+  {
+    "id": "f4zabtnnc2",
+    "definition": "CryEngine is a game engine and authoring environment for building and running interactive three-dimensional applications.",
+    "example": "A game team assembles terrain, lighting, and gameplay objects in a test level.",
+    "sense_note": null
+  },
+  {
+    "id": "i8wz6wg5v0",
+    "definition": "CU-SeeMe was an early Internet videoconferencing application that transmitted live video between networked participants.",
+    "example": "A digital archivist describes how an early remote classroom used CU-SeeMe to connect participants.",
+    "sense_note": null
+  },
+  {
+    "id": "zgnj6ebugu",
+    "definition": "Cucumber.js is the JavaScript implementation of Cucumber that runs behavior specifications against JavaScript step definitions.",
+    "example": "A test checks that a scenario describing checkout invokes the JavaScript code needed to verify the workflow.",
+    "sense_note": null
+  },
+  {
+    "id": "te8h97eiea",
+    "definition": "Cucumber is a behavior-driven development tool that executes scenarios written in a structured natural-language format against step definitions.",
+    "example": "A product team and developers use an executable scenario to verify what should happen after an invalid sign-in.",
+    "sense_note": "The family includes multiple language implementations; Cucumber.js is one of them."
+  },
+  {
+    "id": "fm6e3bf8o0",
+    "definition": "Cultural sensitivity recognizes that cultural practices and assumptions differ and responds respectfully without treating individuals as stereotypes.",
+    "example": "A facilitator asks participants how they prefer to be addressed instead of presuming a norm.",
+    "sense_note": null
+  }
+]

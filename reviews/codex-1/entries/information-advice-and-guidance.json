@@ -1,0 +1,20 @@
+{
+  "batch": "skill-023.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Providing accurate information and context-sensitive support so people can understand their options and make informed choices.",
+  "entry_text": "Providing accurate information and context-sensitive support so people can understand their options and make informed choices.",
+  "entry_text_kind": "definition",
+  "example": "An adviser explains course entry requirements and helps a learner compare possible pathways.",
+  "id": "seeljv809d",
+  "key": "information-advice-and-guidance",
+  "label": "Information, advice and guidance",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "May refer to the formal UK information, advice, and guidance service context.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

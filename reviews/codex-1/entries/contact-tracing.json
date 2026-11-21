@@ -1,0 +1,20 @@
+{
+  "batch": "skill-010.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Contact tracing identifies and communicates with people who may have been exposed to an infectious disease so appropriate public-health action can be considered.",
+  "entry_text": "Contact tracing identifies and communicates with people who may have been exposed to an infectious disease so appropriate public-health action can be considered.",
+  "entry_text_kind": "definition",
+  "example": "A public-health team confidentially informs a person of a documented exposure and gives approved guidance.",
+  "id": "hszza7p355",
+  "key": "contact-tracing",
+  "label": "Contact tracing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

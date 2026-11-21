@@ -1,0 +1,20 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Appian is a low-code software platform for building workflow and process applications.",
+  "entry_text": "Appian is a low-code software platform for building workflow and process applications.",
+  "entry_text_kind": "definition",
+  "example": "An operations team creates a claims review workflow with different steps for intake and approval.",
+  "id": "ayizahk9u0",
+  "key": "appian",
+  "label": "Appian",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

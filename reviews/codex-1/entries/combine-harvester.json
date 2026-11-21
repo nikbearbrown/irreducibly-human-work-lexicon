@@ -1,0 +1,20 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A combine harvester cuts a crop, threshes it, and separates the usable grain in one machine.",
+  "entry_text": "A combine harvester cuts a crop, threshes it, and separates the usable grain in one machine.",
+  "entry_text_kind": "definition",
+  "example": "An operator harvests wheat and monitors how much grain is lost behind the machine.",
+  "id": "p56jjjonfi",
+  "key": "combine-harvester",
+  "label": "Combine harvester",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-008.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Multi-core software is designed to use multiple processor cores to execute portions of work concurrently.",
+  "entry_text": "Multi-core software is designed to use multiple processor cores to execute portions of work concurrently.",
+  "entry_text_kind": "definition",
+  "example": "A simulation assigns independent regions of a grid to separate worker threads.",
+  "id": "yjt8ek1ys1",
+  "key": "multi-core-software",
+  "label": "Multi-core software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

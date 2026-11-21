@@ -1,0 +1,31 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Burmese (ISO 639-3: mya) as a language under the Sino-Tibetan grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Sino-Tibetan",
+    "catalog_name": "Burmese",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "nucl1310",
+    "iso639_3": "mya",
+    "macroarea": "Eurasia",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/nucl1310"
+  },
+  "definition": "A human language written in the Burmese script.",
+  "entry_text": "A human language written in the Burmese script.",
+  "entry_text_kind": "definition",
+  "example": "A translator checks Burmese subtitles for an educational film.",
+  "id": "xzacqgvx93",
+  "key": "burmese",
+  "label": "Burmese",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

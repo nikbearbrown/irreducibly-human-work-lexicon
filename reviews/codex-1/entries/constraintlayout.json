@@ -1,0 +1,20 @@
+{
+  "batch": "skill-010.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ConstraintLayout is an Android layout container that positions and sizes child views according to relationships and constraints.",
+  "entry_text": "ConstraintLayout is an Android layout container that positions and sizes child views according to relationships and constraints.",
+  "entry_text_kind": "definition",
+  "example": "A developer anchors a button beneath a text field while keeping it centered on screens of different widths.",
+  "id": "wno5qba6p7",
+  "key": "constraintlayout",
+  "label": "ConstraintLayout",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

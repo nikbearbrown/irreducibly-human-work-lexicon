@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Point-to-Point Tunneling Protocol tunnels PPP traffic over an IP network and was historically used for virtual private networks.",
+  "entry_text": "Point-to-Point Tunneling Protocol tunnels PPP traffic over an IP network and was historically used for virtual private networks.",
+  "entry_text_kind": "definition",
+  "example": "An administrator identifies it in legacy remote-access documentation.",
+  "id": "s5h0wygs8h",
+  "key": "point-to-point-tunneling-protocol",
+  "label": "Point-to-Point Tunneling Protocol",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Identifying this legacy protocol is not an endorsement for new deployments.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

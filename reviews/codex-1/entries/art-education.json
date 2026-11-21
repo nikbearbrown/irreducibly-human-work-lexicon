@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Art education studies and practices teaching people to create, interpret, and evaluate visual and other artistic work.",
+  "entry_text": "Art education studies and practices teaching people to create, interpret, and evaluate visual and other artistic work.",
+  "entry_text_kind": "definition",
+  "example": "A teacher has students compare how changing composition alters the focus of their photographs.",
+  "id": "xxc17ku210",
+  "key": "art-education",
+  "label": "Art education",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

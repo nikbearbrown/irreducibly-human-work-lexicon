@@ -1,0 +1,20 @@
+{
+  "batch": "skill-027.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Machine operation involves setting up, controlling and monitoring equipment to carry out its intended task safely.",
+  "entry_text": "Machine operation involves setting up, controlling and monitoring equipment to carry out its intended task safely.",
+  "entry_text_kind": "definition",
+  "example": "An operator selects the specified run settings and stops the machine when inspection reveals a fault.",
+  "id": "nprxj06a8r",
+  "key": "machine-operation",
+  "label": "Machine operation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

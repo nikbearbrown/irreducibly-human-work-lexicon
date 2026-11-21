@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An active pharmaceutical ingredient is a substance in a medicine intended to produce its pharmacological activity or another direct effect relevant to its intended use.",
+  "entry_text": "An active pharmaceutical ingredient is a substance in a medicine intended to produce its pharmacological activity or another direct effect relevant to its intended use.",
+  "entry_text_kind": "definition",
+  "example": "Acetaminophen is the active ingredient in a tablet whose other ingredients help hold the tablet together.",
+  "id": "kaq3khj4zt",
+  "key": "active-pharmaceutical-ingredient",
+  "label": "Active pharmaceutical ingredient",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

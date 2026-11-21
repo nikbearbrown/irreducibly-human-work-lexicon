@@ -1,0 +1,20 @@
+{
+  "batch": "skill-015.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A network protocol that automatically supplies devices with IP addresses and other network configuration settings.",
+  "entry_text": "A network protocol that automatically supplies devices with IP addresses and other network configuration settings.",
+  "entry_text_kind": "definition",
+  "example": "A laptop joins an office network and receives a temporary IP address.",
+  "id": "db9tzh4vwb",
+  "key": "dynamic-host-configuration-protocol",
+  "label": "Dynamic Host Configuration Protocol",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

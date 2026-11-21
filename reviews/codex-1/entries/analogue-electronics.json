@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-001.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Analogue electronics is the study and design of circuits that process continuously varying electrical signals.",
+  "entry_text": "Analogue electronics is the study and design of circuits that process continuously varying electrical signals.",
+  "entry_text_kind": "definition",
+  "example": "An engineer designs an amplifier to raise a microphone's small voltage signal to a usable level.",
+  "id": "l9skd3jhai",
+  "key": "analogue-electronics",
+  "label": "Analogue electronics",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

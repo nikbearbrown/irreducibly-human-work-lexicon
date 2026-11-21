@@ -1,0 +1,20 @@
+{
+  "batch": "skill-035.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "PrestoDB is a distributed SQL query engine for running analytical queries across data sources without requiring the engine to own the storage.",
+  "entry_text": "PrestoDB is a distributed SQL query engine for running analytical queries across data sources without requiring the engine to own the storage.",
+  "entry_text_kind": "definition",
+  "example": "An analyst uses connected sources to combine data-lake events with information from a database.",
+  "id": "cyqnkah16t",
+  "key": "prestodb",
+  "label": "PrestoDB",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

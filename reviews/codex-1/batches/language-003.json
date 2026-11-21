@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "language",
+    "id": "e4spqals97",
+    "key": "erlang",
+    "label": "Erlang",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wxuml71bfu",
+    "key": "ewondo",
+    "label": "Ewondo",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "np8jq1gkrj",
+    "key": "f-2",
+    "label": "F*",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wonwpe2z38",
+    "key": "f",
+    "label": "F#",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "q0vx2lgkj8",
+    "key": "fali",
+    "label": "Fali",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ipwny15jpy",
+    "key": "fantom",
+    "label": "Fantom",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "dn5iveu53x",
+    "key": "filipino",
+    "label": "Filipino",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "q98sd6zk57",
+    "key": "finnish",
+    "label": "Finnish",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "jzczt8njk2",
+    "key": "forth",
+    "label": "Forth",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "twiey8e4zm",
+    "key": "fortran",
+    "label": "Fortran",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "jeai1j8uhz",
+    "key": "french",
+    "label": "French",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "uj60c4yrr3",
+    "key": "frisian",
+    "label": "Frisian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "z199mo1bdd",
+    "key": "fula",
+    "label": "Fula",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "goirkloj73",
+    "key": "gaelic",
+    "label": "Gaelic",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "c34c0nwfxj",
+    "key": "galo",
+    "label": "Galo",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "t8i6f5zm8d",
+    "key": "gambas",
+    "label": "Gambas",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "os4bq6o3n0",
+    "key": "garifuna",
+    "label": "Garifuna",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ww6z5fppct",
+    "key": "german",
+    "label": "German",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "m0nxw9pywy",
+    "key": "gherkin",
+    "label": "Gherkin",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "o410b5qw7m",
+    "key": "gikuyu",
+    "label": "Gikuyu",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "n29960itit",
+    "key": "go",
+    "label": "Go",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "gqq3os57m4",
+    "key": "graphql",
+    "label": "GraphQL",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "eon43rmtrr",
+    "key": "greek",
+    "label": "Greek",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "e4tzaqhrc4",
+    "key": "groovy",
+    "label": "Groovy",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hth5eczuzx",
+    "key": "gujarati",
+    "label": "Gujarati",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ybdv7l9ewb",
+    "key": "hack",
+    "label": "Hack",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "z2kugvplb2",
+    "key": "haitian-creole",
+    "label": "Haitian Creole",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "qsaoj0vnxc",
+    "key": "hardware-description-language",
+    "label": "Hardware description language",
+    "onet_codes": [],
+    "original_kind": "modeling-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "zceu8ud0dw",
+    "key": "haskell",
+    "label": "Haskell",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "v5s8v3c7qh",
+    "key": "hausa",
+    "label": "Hausa",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "satap7pcf3",
+    "key": "havyaka-kannada",
+    "label": "Havyaka Kannada",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "saanweu4mx",
+    "key": "hawaiian",
+    "label": "Hawaiian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "k6hx88t7yt",
+    "key": "haxe",
+    "label": "Haxe",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "zkm3kvmgrn",
+    "key": "haya",
+    "label": "Haya",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "yawglvcqj8",
+    "key": "hebrew",
+    "label": "Hebrew",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "u42in8da9c",
+    "key": "hindi",
+    "label": "Hindi",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "x9khiljmo5",
+    "key": "hmong",
+    "label": "Hmong",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "t3hoz1q1jm",
+    "key": "hokkien",
+    "label": "Hokkien",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "c2b26cho4f",
+    "key": "hopi",
+    "label": "Hopi",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "twhbebct5l",
+    "key": "html",
+    "label": "HTML",
+    "onet_codes": [],
+    "original_kind": "markup-language"
+  }
+]

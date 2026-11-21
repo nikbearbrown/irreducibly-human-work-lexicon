@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Core Spotlight is an Apple framework that lets applications index their content for search on the device.",
+  "entry_text": "Core Spotlight is an Apple framework that lets applications index their content for search on the device.",
+  "entry_text_kind": "definition",
+  "example": "A notes app makes a saved note discoverable from the device’s search interface.",
+  "id": "dmanxhx3ah",
+  "key": "core-spotlight",
+  "label": "Core Spotlight",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

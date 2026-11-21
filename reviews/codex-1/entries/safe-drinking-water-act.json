@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Safe Drinking Water Act is the U.S. federal law authorizing protections for public drinking water, including standards, oversight, and monitoring requirements.",
+  "entry_text": "The Safe Drinking Water Act is the U.S. federal law authorizing protections for public drinking water, including standards, oversight, and monitoring requirements.",
+  "entry_text_kind": "definition",
+  "example": "A public water utility uses applicable standards to plan its sampling and reporting.",
+  "id": "gv3yol606d",
+  "key": "safe-drinking-water-act",
+  "label": "Safe Drinking Water Act",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

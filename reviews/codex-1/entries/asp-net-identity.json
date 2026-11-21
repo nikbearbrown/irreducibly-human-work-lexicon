@@ -1,0 +1,28 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "ASP.NET Identity is a Microsoft framework for adding user accounts, authentication, and related identity features to ASP.NET applications.",
+  "entry_text": "ASP.NET Identity is a Microsoft framework for adding user accounts, authentication, and related identity features to ASP.NET applications.",
+  "entry_text_kind": "definition",
+  "example": "A developer integrates password reset and role-based access into a web application.",
+  "id": "wjy1358i16",
+  "key": "asp-net-identity",
+  "label": "ASP.NET Identity",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Clarify whether the historical ASP.NET or ASP.NET Core identity implementation is required.",
+  "sources": [
+    {
+      "id": "wjy1358i16",
+      "note": "Microsoft labels this framework ASP.NET Identity for ASP.NET 4.x and documents membership, account confirmation, and password recovery. The functional claim is sound; retain the distinction from the separately named ASP.NET Core Identity rather than imply a product family.",
+      "packet": "worker-early-skills.json",
+      "ref": "https://learn.microsoft.com/en-us/aspnet/identity/index",
+      "result": "partial"
+    }
+  ],
+  "verification": "partially-supported"
+}

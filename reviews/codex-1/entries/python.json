@@ -1,0 +1,28 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A general-purpose programming language with dynamic typing and an extensive standard library.",
+  "entry_text": "A general-purpose programming language with dynamic typing and an extensive standard library.",
+  "entry_text_kind": "definition",
+  "example": "An analyst reads a CSV file and summarizes counts by category.",
+  "id": "pk7cebmtg6",
+  "key": "python",
+  "label": "Python",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "pk7cebmtg6",
+      "note": "The Python tutorial explicitly describes dynamic typing, application across many areas and an extensive standard library.",
+      "packet": "root-technical-languages.json",
+      "ref": "https://docs.python.org/3/tutorial/index.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

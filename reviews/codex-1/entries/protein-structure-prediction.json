@@ -1,0 +1,20 @@
+{
+  "batch": "skill-036.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Protein structure prediction estimates a protein's three-dimensional conformation from its sequence and other available information.",
+  "entry_text": "Protein structure prediction estimates a protein's three-dimensional conformation from its sequence and other available information.",
+  "entry_text_kind": "definition",
+  "example": "A researcher compares candidate structural models to interpret the shape of a protein domain.",
+  "id": "cz3drmvj0y",
+  "key": "protein-structure-prediction",
+  "label": "Protein structure prediction",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

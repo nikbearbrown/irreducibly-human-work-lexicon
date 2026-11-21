@@ -1,0 +1,20 @@
+{
+  "batch": "skill-024.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A core international standard describing quality management fundamentals and vocabulary, also commonly used to refer to the associated family of standards.",
+  "entry_text": "A core international standard describing quality management fundamentals and vocabulary, also commonly used to refer to the associated family of standards.",
+  "entry_text_kind": "definition",
+  "example": "A team consults ISO 9000 vocabulary when interpreting a quality management requirement.",
+  "id": "b7urnp1y80",
+  "key": "iso-9000",
+  "label": "ISO 9000",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "ISO 9000 is not the certifiable system requirements standard ISO 9001.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

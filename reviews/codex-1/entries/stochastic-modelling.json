@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Stochastic modelling represents uncertain system behavior using random variables or probability processes.",
+  "entry_text": "Stochastic modelling represents uncertain system behavior using random variables or probability processes.",
+  "entry_text_kind": "definition",
+  "example": "A planner models different passenger arrival times to estimate the distribution of queue lengths.",
+  "id": "kzqxoy5ali",
+  "key": "stochastic-modelling",
+  "label": "Stochastic modelling",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

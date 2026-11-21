@@ -1,0 +1,82 @@
+[
+  {
+    "broad_class": "language",
+    "id": "j6hwlijvij",
+    "key": "visual-basic-net",
+    "label": "Visual Basic .NET",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wnkvy1dp2p",
+    "key": "wagdi",
+    "label": "Wagdi",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "gk2xuq5g9g",
+    "key": "walloon",
+    "label": "Walloon",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hwxvod3yzt",
+    "key": "x3d",
+    "label": "X3D",
+    "onet_codes": [],
+    "original_kind": "markup-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "n2v8jnsgj0",
+    "key": "xbrl",
+    "label": "XBRL",
+    "onet_codes": [],
+    "original_kind": "markup-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "w9vogijhb2",
+    "key": "xhosa",
+    "label": "Xhosa",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "php2tc9p7y",
+    "key": "xml",
+    "label": "XML",
+    "onet_codes": [],
+    "original_kind": "markup-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ygzm0k4brw",
+    "key": "xul",
+    "label": "XUL",
+    "onet_codes": [],
+    "original_kind": "markup-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "nc4fkjb896",
+    "key": "yoruba",
+    "label": "Yoruba",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wozti9mkk0",
+    "key": "zulu",
+    "label": "Zulu",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  }
+]

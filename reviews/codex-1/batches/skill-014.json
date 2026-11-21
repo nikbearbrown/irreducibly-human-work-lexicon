@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "mgwpga1jmw",
+    "key": "deterministic-methods",
+    "label": "Deterministic methods",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d8bp52ogpj",
+    "key": "dethatcher",
+    "label": "Dethatcher",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fsvbd7mhjr",
+    "key": "developmentally-appropriate-practice",
+    "label": "Developmentally appropriate practice",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jun5boenwf",
+    "key": "devexpress",
+    "label": "DevExpress",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d8opmi1fio",
+    "key": "deviation-investigation",
+    "label": "Deviation investigation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "fvuxj1r6nn",
+    "key": "deviation-management",
+    "label": "Deviation management",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d4xxm6t88j",
+    "key": "devops",
+    "label": "DevOps",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rpc3fbgnib",
+    "key": "devsecops",
+    "label": "DevSecOps",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u7ui1qw5um",
+    "key": "diagnostic-analysis",
+    "label": "Diagnostic analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nnzs6rvsc6",
+    "key": "dialogflow",
+    "label": "Dialogflow",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r9lt5me4ha",
+    "key": "dictaphone",
+    "label": "Dictaphone",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pz26rmdqty",
+    "key": "dictation",
+    "label": "Dictation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mgli64p2b6",
+    "key": "digital-accessibility",
+    "label": "Digital accessibility",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a19c10mi46",
+    "key": "digital-advertising",
+    "label": "Digital advertising",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lcoae2rzwl",
+    "key": "digital-ai",
+    "label": "Digital.ai",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yzu8eoggb2",
+    "key": "digital-communications",
+    "label": "Digital communications",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "an5f1wkslh",
+    "key": "digital-customer-strategy",
+    "label": "Digital customer strategy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kns9ez1tsx",
+    "key": "digital-fluency",
+    "label": "Digital fluency",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h27ahjbfu2",
+    "key": "digital-journalism",
+    "label": "Digital journalism",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a9jtam6w1r",
+    "key": "digital-merchandising",
+    "label": "Digital merchandising",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m6uvjl465p",
+    "key": "digital-private-network-signalling-system",
+    "label": "Digital Private Network Signalling System",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hdbcz2nnh2",
+    "key": "digital-skills",
+    "label": "Digital skills",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "larjv4ascm",
+    "key": "digital-transformation",
+    "label": "Digital transformation",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hijioia4a4",
+    "key": "dijkstra-s-algorithm",
+    "label": "Dijkstra's algorithm",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "poo02d8zdk",
+    "key": "dimensions-cm",
+    "label": "Dimensions CM",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "jqfxxchd9n",
+    "key": "directx-video-acceleration",
+    "label": "DirectX Video Acceleration",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mt0t611gxy",
+    "key": "discipleship",
+    "label": "Discipleship",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o6zctkbed3",
+    "key": "dispute-management",
+    "label": "Dispute management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "op8cesvddr",
+    "key": "distance-learning",
+    "label": "Distance learning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wr4w7vpbsx",
+    "key": "divide-and-conquer",
+    "label": "Divide and conquer",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "xblbioz2d4",
+    "key": "do-178c",
+    "label": "DO-178C",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "g5lqkx80zn",
+    "key": "docker",
+    "label": "Docker",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "h6de3ztyj8",
+    "key": "docsis",
+    "label": "DOCSIS",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "a3xx71mj8w",
+    "key": "document-exploitation",
+    "label": "Document exploitation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x0tkgbv0x1",
+    "key": "docusign",
+    "label": "DocuSign",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n0qt1tfnn4",
+    "key": "dod-8500-series",
+    "label": "DoD 8500 series",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kbwn2l59ne",
+    "key": "dod-information-assurance-certification-and-accreditation-process",
+    "label": "DoD Information Assurance Certification and Accreditation Process",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o05z05mzxc",
+    "key": "dod-instruction-8510-01",
+    "label": "DoD Instruction 8510.01",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "o5gsg8nzid",
+    "key": "dodaf",
+    "label": "DoDAF",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mte089qu88",
+    "key": "dot-js",
+    "label": "doT.js",
+    "onet_codes": [],
+    "original_kind": "library"
+  }
+]

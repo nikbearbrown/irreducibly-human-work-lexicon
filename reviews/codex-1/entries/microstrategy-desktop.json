@@ -1,0 +1,20 @@
+{
+  "batch": "skill-029.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "MicroStrategy Desktop refers to a desktop business intelligence application for exploring data and building visual analyses.",
+  "entry_text": "MicroStrategy Desktop refers to a desktop business intelligence application for exploring data and building visual analyses.",
+  "entry_text_kind": "definition",
+  "example": "An analyst builds a dashboard from a sales spreadsheet.",
+  "id": "qss12gvh4s",
+  "key": "microstrategy-desktop",
+  "label": "MicroStrategy Desktop",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The product name has varied across releases; confirm the version before describing server integration.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

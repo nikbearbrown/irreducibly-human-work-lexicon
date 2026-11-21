@@ -1,0 +1,20 @@
+{
+  "batch": "skill-012.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Data-driven decision-making uses relevant evidence and analysis to inform judgment about what action to take.",
+  "entry_text": "Data-driven decision-making uses relevant evidence and analysis to inform judgment about what action to take.",
+  "entry_text_kind": "definition",
+  "example": "A library compares attendance records and reader feedback before changing its opening hours.",
+  "id": "dz5xjcq45r",
+  "key": "data-driven-decision-making",
+  "label": "Data-driven decision-making",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

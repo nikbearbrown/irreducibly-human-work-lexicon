@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Bacon.js is a JavaScript library for modeling changing values and asynchronous events with functional reactive streams.",
+  "entry_text": "Bacon.js is a JavaScript library for modeling changing values and asynchronous events with functional reactive streams.",
+  "entry_text_kind": "definition",
+  "example": "A web interface combines a filter selection stream with a search text stream.",
+  "id": "hxclrzb8sy",
+  "key": "bacon-js",
+  "label": "Bacon.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

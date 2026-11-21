@@ -1,0 +1,28 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache Spark is a distributed computation engine for large-scale data processing and analytics.",
+  "entry_text": "Apache Spark is a distributed computation engine for large-scale data processing and analytics.",
+  "entry_text_kind": "definition",
+  "example": "A team aggregates months of event records across a cluster.",
+  "id": "zl7ti25hhx",
+  "key": "apache-spark",
+  "label": "Apache Spark",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "zl7ti25hhx",
+      "note": "Spark lists batch and streaming processing, distributed SQL analytics, large-scale exploratory analysis, and cluster execution for machine-learning workloads. These substantiate the generic engine description without a performance guarantee.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://spark.apache.org/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "bw6z24sazd",
+    "definition": "Google's former name for its publisher ad-serving platform, subsequently incorporated into Google Ad Manager.",
+    "example": "A publisher uses the platform to allocate advertising inventory across campaigns.",
+    "sense_note": null
+  },
+  {
+    "id": "cae75hpys3",
+    "definition": "A specimen collection method in which drops of blood are dried on an absorbent card for later testing.",
+    "example": "A screening program sends dried specimens to a central laboratory for analysis.",
+    "sense_note": null
+  },
+  {
+    "id": "cpjs09hqoa",
+    "definition": "An imaging system that helps vehicle operators see when ordinary visibility is reduced.",
+    "example": "A vehicle operator uses the display to maintain awareness when visibility is poor.",
+    "sense_note": null
+  },
+  {
+    "id": "tnm02b9fyp",
+    "definition": "Operating a vehicle safely and lawfully while adjusting to traffic, road conditions, and its handling characteristics.",
+    "example": "A driver leaves additional following distance on a wet road.",
+    "sense_note": null
+  },
+  {
+    "id": "ekr8peg0af",
+    "definition": "A United States law addressing oversight of drug compounding and traceability in the prescription drug supply chain.",
+    "example": "A distributor reviews its product-tracing obligations under the law.",
+    "sense_note": null
+  },
+  {
+    "id": "g8g5ssiics",
+    "definition": "A clinical technique in which a trained practitioner uses fine needles without injecting a substance to address certain musculoskeletal symptoms.",
+    "example": "A credentialed clinician considers dry needling as one component of a patient's treatment plan.",
+    "sense_note": null
+  },
+  {
+    "id": "nvodwxcih5",
+    "definition": "Installing gypsum wallboard and restoring damaged areas to a sound, finish-ready surface.",
+    "example": "A contractor patches a damaged wall and finishes its seams.",
+    "sense_note": null
+  },
+  {
+    "id": "foawpj2j0j",
+    "definition": "A suite of enterprise software for property and casualty insurers' policy, billing, and claims operations.",
+    "example": "An insurer uses a Duck Creek application to administer claims and review their status.",
+    "sense_note": null
+  },
+  {
+    "id": "q04p0u98h5",
+    "definition": "Medical equipment intended for repeated use to support care or daily function.",
+    "example": "A patient uses a prescribed home wheelchair.",
+    "sense_note": "Reimbursement programs may apply additional eligibility criteria to this category."
+  },
+  {
+    "id": "pg1d5j8bxe",
+    "definition": "A JavaScript templating library for rendering text or markup from data, including asynchronously supplied data.",
+    "example": "A website renders a product list after its data service responds.",
+    "sense_note": null
+  },
+  {
+    "id": "zomymgt82i",
+    "definition": "An inventory auditing approach that adjusts count frequency or priorities as inventory conditions change.",
+    "example": "A warehouse increases the count frequency for items with recurring discrepancies.",
+    "sense_note": null
+  },
+  {
+    "id": "db9tzh4vwb",
+    "definition": "A network protocol that automatically supplies devices with IP addresses and other network configuration settings.",
+    "example": "A laptop joins an office network and receives a temporary IP address.",
+    "sense_note": null
+  },
+  {
+    "id": "w5477vqzut",
+    "definition": "A Microsoft business application for scheduling, dispatching, and tracking work performed at customer sites.",
+    "example": "A dispatcher assigns a repair work order to an available technician.",
+    "sense_note": null
+  },
+  {
+    "id": "dv5vi280tf",
+    "definition": "Promoting goods, services, or organizations through electronic channels and measuring the results.",
+    "example": "A marketer compares response rates from a newsletter and a paid search campaign.",
+    "sense_note": null
+  },
+  {
+    "id": "umfv8wb6dp",
+    "definition": "An iOS user-interface testing framework that synchronizes test interactions with application activity.",
+    "example": "A test taps a sign-in button and waits for the result before checking the next screen.",
+    "sense_note": null
+  },
+  {
+    "id": "n7z8knzo4j",
+    "definition": "A project control system that combines scope, schedule, and cost information to compare completed work with the baseline plan.",
+    "example": "A project controller compares the budgeted value of completed work with its actual cost.",
+    "sense_note": null
+  },
+  {
+    "id": "i6g7p06d2d",
+    "definition": "A protective device that disconnects electrical power when it detects leakage to earth beyond its specified limit.",
+    "example": "A protective breaker interrupts a circuit after an insulation fault causes leakage.",
+    "sense_note": "The label can refer to historical voltage-operated devices or modern current-sensing devices."
+  },
+  {
+    "id": "gcir84drj6",
+    "definition": "A JavaScript library for drawing and interacting with graphics on an HTML canvas.",
+    "example": "A developer uses EaselJS to display interactive sprites in a browser game.",
+    "sense_note": null
+  },
+  {
+    "id": "bnjsc5i3bq",
+    "definition": "The collection of eBay service interfaces that lets authorized software access marketplace functions and data.",
+    "example": "A seller's inventory application updates permitted listing details through the interface.",
+    "sense_note": null
+  },
+  {
+    "id": "ky7jwfnwru",
+    "definition": "An electronic health record and practice management system used by healthcare providers.",
+    "example": "A clinic documents an encounter and schedules follow-up in its system.",
+    "sense_note": null
+  },
+  {
+    "id": "sbmj2blmdn",
+    "definition": "A population-level study design that relates exposures and outcomes measured for groups rather than individuals.",
+    "example": "A researcher compares neighborhood-level air quality and asthma rates without inferring individual exposure.",
+    "sense_note": null
+  },
+  {
+    "id": "w7xonuv7bc",
+    "definition": "A statistical representation of economic relationships used to estimate effects, test hypotheses, or make forecasts.",
+    "example": "An analyst uses observed prices and sales to estimate how demand changes with price.",
+    "sense_note": null
+  },
+  {
+    "id": "pzkbjaeg8u",
+    "definition": "A specification for broadcasting defined data formats from Bluetooth Low Energy beacons.",
+    "example": "A receiver interprets an Eddystone frame sent by a nearby beacon.",
+    "sense_note": "Do not assume support for any discontinued Google beacon service."
+  },
+  {
+    "id": "sps2jl4lnt",
+    "definition": "A nonlinear video editing application for assembling, processing, and exporting footage.",
+    "example": "An editor combines clips from several cameras into a finished interview.",
+    "sense_note": null
+  },
+  {
+    "id": "fuaxn5v1v7",
+    "definition": "Specialized instruction and support that addresses barriers to learning and develops adaptive learning strategies.",
+    "example": "An educational therapist teaches a learner to organize multistep reading tasks.",
+    "sense_note": null
+  },
+  {
+    "id": "ji0fbvi6e3",
+    "definition": "A structured team method for containing a problem, identifying its root causes, and implementing verified corrective actions.",
+    "example": "A manufacturer uses an 8D report to investigate and prevent recurring assembly defects.",
+    "sense_note": null
+  },
+  {
+    "id": "my7m7yrsab",
+    "definition": "Salesforce's former branding for an embedded business analytics platform associated with CRM Analytics.",
+    "example": "A sales manager uses an embedded dashboard to examine changes in pipeline conversion.",
+    "sense_note": null
+  },
+  {
+    "id": "lq2nmnnqa8",
+    "definition": "A collection of tools for ingesting, searching, analyzing, and visualizing data around Elasticsearch.",
+    "example": "An operations team searches centralized logs and visualizes service errors over time.",
+    "sense_note": null
+  },
+  {
+    "id": "je3fcav7k1",
+    "definition": "Instruments that measure electrical quantities such as energy use, current, or voltage.",
+    "example": "A utility uses an energy meter to record electricity consumption for billing.",
+    "sense_note": null
+  },
+  {
+    "id": "gmm5f3ssho",
+    "definition": "A vehicle whose propulsion uses one or more electric motors powered by electrical energy.",
+    "example": "A delivery operator recharges a battery-electric van between shifts.",
+    "sense_note": null
+  },
+  {
+    "id": "a29bj9y2xt",
+    "definition": "Identifying faults in electrical equipment or circuits and restoring operation through appropriate repairs.",
+    "example": "A qualified technician traces a recurring equipment failure to a damaged connection.",
+    "sense_note": null
+  },
+  {
+    "id": "xq6qu2qcae",
+    "definition": "Installing and connecting electrical conductors and related components to meet design and safety requirements.",
+    "example": "A qualified electrician installs wiring for a new lighting circuit according to the approved plan.",
+    "sense_note": null
+  },
+  {
+    "id": "b4hi4ko6px",
+    "definition": "An instrument that uses a beam of electrons rather than visible light to produce highly magnified images.",
+    "example": "A materials scientist uses an electron microscope to examine a fracture surface.",
+    "sense_note": null
+  },
+  {
+    "id": "zt8mhiw2a3",
+    "definition": "A digital system for collecting, validating, and managing structured data, commonly in clinical studies.",
+    "example": "A research coordinator enters scheduled visit observations into an electronic case report form.",
+    "sense_note": null
+  },
+  {
+    "id": "u3kq2ln0y0",
+    "definition": "Creating and transmitting prescriptions electronically through an authorized clinical system.",
+    "example": "A clinician sends an approved prescription directly to the patient's chosen pharmacy.",
+    "sense_note": null
+  },
+  {
+    "id": "mqvz3eew6h",
+    "definition": "Preparing and distributing written or multimedia publications in digital formats.",
+    "example": "A publisher exports an accessible electronic edition for distribution through a digital storefront.",
+    "sense_note": null
+  },
+  {
+    "id": "euymx83iu8",
+    "definition": "A medical technique that uses high-frequency electrical current to cut tissue or control bleeding.",
+    "example": "A trained surgeon uses an electrosurgical instrument during an operation.",
+    "sense_note": null
+  },
+  {
+    "id": "jnut7g5uci",
+    "definition": "Applying professional norms of clarity, tone, privacy, and responsiveness in electronic correspondence.",
+    "example": "An employee uses a descriptive subject and moves sensitive details to an approved private channel.",
+    "sense_note": null
+  },
+  {
+    "id": "vlx37w32ol",
+    "definition": "An email quality assurance tool for previewing messages and checking compatibility across email clients.",
+    "example": "A designer previews a campaign in several inbox layouts to catch rendering errors.",
+    "sense_note": null
+  },
+  {
+    "id": "d16ja1jgfx",
+    "definition": "Services that send, receive, host, or manage electronic email for users or organizations.",
+    "example": "A marketing team selects a provider to send newsletters and track delivery.",
+    "sense_note": "May refer to mailbox hosting or bulk and transactional delivery platforms depending on context."
+  }
+]

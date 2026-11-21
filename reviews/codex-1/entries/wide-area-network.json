@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-013.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A wide area network connects devices or local networks across geographically separated locations.",
+  "entry_text": "A wide area network connects devices or local networks across geographically separated locations.",
+  "entry_text_kind": "definition",
+  "example": "A company links offices in different cities through its wide area network.",
+  "id": "zjr6axwd0x",
+  "key": "wide-area-network",
+  "label": "Wide area network",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-045.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Twitter marketing uses content, community interaction, and sometimes paid promotion to achieve communication goals on the service historically named Twitter.",
+  "entry_text": "Twitter marketing uses content, community interaction, and sometimes paid promotion to achieve communication goals on the service historically named Twitter.",
+  "entry_text_kind": "definition",
+  "example": "A nonprofit schedules public updates and tracks which posts lead to event signups.",
+  "id": "om33zxs7ew",
+  "key": "twitter-marketing",
+  "label": "Twitter marketing",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Platform later branded X; the label does not imply paid advertising only.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

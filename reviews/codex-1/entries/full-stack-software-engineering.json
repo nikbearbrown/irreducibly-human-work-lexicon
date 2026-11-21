@@ -1,0 +1,20 @@
+{
+  "batch": "skill-019.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Designing, building, testing, and maintaining both client-facing and server-side application components.",
+  "entry_text": "Designing, building, testing, and maintaining both client-facing and server-side application components.",
+  "entry_text_kind": "definition",
+  "example": "A developer connects a web form to an API and adds validation on both sides.",
+  "id": "kbm35o1ym2",
+  "key": "full-stack-software-engineering",
+  "label": "Full-stack software engineering",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

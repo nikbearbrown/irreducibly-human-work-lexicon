@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "language",
+    "id": "ec0588lyxr",
+    "key": "slovak",
+    "label": "Slovak",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "unurfua1et",
+    "key": "slovene",
+    "label": "Slovene",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wt1hw5q5hk",
+    "key": "smalltalk",
+    "label": "Smalltalk",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "m8tdyuqv91",
+    "key": "sogdian",
+    "label": "Sogdian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "vfbvb6cbta",
+    "key": "somali",
+    "label": "Somali",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "de8aeltv9z",
+    "key": "spanish",
+    "label": "Spanish",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "f69xny35zm",
+    "key": "sql",
+    "label": "SQL",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "kxge7c4n0p",
+    "key": "sumerian",
+    "label": "Sumerian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wmeomhwzf1",
+    "key": "sundanese",
+    "label": "Sundanese",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "dwt6p5kqud",
+    "key": "swabian-german",
+    "label": "Swabian German",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "ahff7lh1ul",
+    "key": "swahili",
+    "label": "Swahili",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "mhqs5zfa2v",
+    "key": "swati",
+    "label": "Swati",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "lr6v3jj0ke",
+    "key": "swedish",
+    "label": "Swedish",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "p1pplzvq0f",
+    "key": "swift-language",
+    "label": "Swift",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "imyseyihm7",
+    "key": "systemverilog",
+    "label": "SystemVerilog",
+    "onet_codes": [],
+    "original_kind": "modeling-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "lcec6ryumx",
+    "key": "tajik",
+    "label": "Tajik",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "y21520l3cr",
+    "key": "tamil",
+    "label": "Tamil",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "un0apigqro",
+    "key": "tatar",
+    "label": "Tatar",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "uct8ix3rbg",
+    "key": "tcl",
+    "label": "Tcl",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "rifkoqyo50",
+    "key": "telugu",
+    "label": "Telugu",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "b0xfrvtumm",
+    "key": "thai",
+    "label": "Thai",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "gdng6a4nxd",
+    "key": "tharu",
+    "label": "Tharu",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "uybjs4bc0k",
+    "key": "tibetan",
+    "label": "Tibetan",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "d0ken0jrsa",
+    "key": "tigrinya",
+    "label": "Tigrinya",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "n5gmv1hla7",
+    "key": "tswana",
+    "label": "Tswana",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hfschl129h",
+    "key": "tulu",
+    "label": "Tulu",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "hhvk7sb8r1",
+    "key": "turkish",
+    "label": "Turkish",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "bnonpsk48o",
+    "key": "turkmen",
+    "label": "Turkmen",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "y37j4kl3jo",
+    "key": "typescript",
+    "label": "TypeScript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "wkoox3i8b0",
+    "key": "u-sql",
+    "label": "U-SQL",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "sixeo41sa3",
+    "key": "ukrainian",
+    "label": "Ukrainian",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "va052jqj8q",
+    "key": "uml",
+    "label": "UML",
+    "onet_codes": [],
+    "original_kind": "modeling-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "vef8tboltu",
+    "key": "unityscript",
+    "label": "UnityScript",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "rawbtq2err",
+    "key": "urdu",
+    "label": "Urdu",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "x00w15fusw",
+    "key": "uyghur",
+    "label": "Uyghur",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "rxfjfx408i",
+    "key": "uzbek",
+    "label": "Uzbek",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "bf44rq4z0z",
+    "key": "verilog",
+    "label": "Verilog",
+    "onet_codes": [],
+    "original_kind": "modeling-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "y5tixyhegu",
+    "key": "vhdl",
+    "label": "VHDL",
+    "onet_codes": [],
+    "original_kind": "modeling-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "fn33kjvbkv",
+    "key": "vietnamese",
+    "label": "Vietnamese",
+    "onet_codes": [],
+    "original_kind": "human-language"
+  },
+  {
+    "broad_class": "language",
+    "id": "yl4tfx5kdt",
+    "key": "visual-basic-for-applications",
+    "label": "Visual Basic for Applications",
+    "onet_codes": [],
+    "original_kind": "programming-language"
+  }
+]

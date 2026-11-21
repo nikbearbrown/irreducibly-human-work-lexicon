@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-004.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A dynamic-link library contains code or other resources that a program can link to or load at runtime rather than incorporating them into its own executable at build time.",
+  "entry_text": "A dynamic-link library contains code or other resources that a program can link to or load at runtime rather than incorporating them into its own executable at build time.",
+  "entry_text_kind": "definition",
+  "example": "Two Windows programs load a shared DLL to use the same image-decoding routines.",
+  "id": "fdc0mivhcr",
+  "key": "dynamic-link-library",
+  "label": "Dynamic-link library",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The term DLL is especially associated with Windows; shared libraries serve similar purposes on other platforms.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

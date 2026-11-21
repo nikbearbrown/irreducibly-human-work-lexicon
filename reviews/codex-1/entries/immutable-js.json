@@ -1,0 +1,20 @@
+{
+  "batch": "skill-022.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A JavaScript library that provides persistent immutable data structures and operations for deriving modified versions.",
+  "entry_text": "A JavaScript library that provides persistent immutable data structures and operations for deriving modified versions.",
+  "entry_text_kind": "definition",
+  "example": "An application updates a collection while preserving the previous version for comparison.",
+  "id": "a74793xzn5",
+  "key": "immutable-js",
+  "label": "Immutable.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

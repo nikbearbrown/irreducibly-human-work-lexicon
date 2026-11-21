@@ -1,0 +1,20 @@
+{
+  "batch": "skill-008.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Chainer was a Python deep-learning framework that constructed computation graphs dynamically during execution.",
+  "entry_text": "Chainer was a Python deep-learning framework that constructed computation graphs dynamically during execution.",
+  "entry_text_kind": "definition",
+  "example": "A researcher studies how a legacy Chainer model branches based on input.",
+  "id": "aulk2avg4s",
+  "key": "chainer",
+  "label": "Chainer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

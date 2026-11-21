@@ -1,0 +1,20 @@
+{
+  "batch": "skill-036.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Product benchmarking compares a product against other offerings or defined standards using consistent criteria.",
+  "entry_text": "Product benchmarking compares a product against other offerings or defined standards using consistent criteria.",
+  "entry_text_kind": "definition",
+  "example": "A reviewer measures battery life across comparable devices using the same test conditions.",
+  "id": "a0o6usqgsr",
+  "key": "product-benchmarking",
+  "label": "Product benchmarking",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

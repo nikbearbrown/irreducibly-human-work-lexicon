@@ -1,0 +1,20 @@
+{
+  "batch": "skill-025.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Jury instructions are the court's directions explaining the law, issues and legal standards jurors must apply in deciding a case.",
+  "entry_text": "Jury instructions are the court's directions explaining the law, issues and legal standards jurors must apply in deciding a case.",
+  "entry_text_kind": "definition",
+  "example": "A judge explains the applicable burden of proof to jurors before deliberations.",
+  "id": "v2xhut8qdl",
+  "key": "jury-instructions",
+  "label": "Jury instructions",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The skill interpretation is preparing or communicating the instructions; the label itself names the instructions.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-030.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Navisworks is building and infrastructure project review software for combining models, visualizing designs and identifying coordination conflicts.",
+  "entry_text": "Navisworks is building and infrastructure project review software for combining models, visualizing designs and identifying coordination conflicts.",
+  "entry_text_kind": "definition",
+  "example": "A coordinator checks where a planned duct intersects a structural beam.",
+  "id": "gowylqqu55",
+  "key": "navisworks",
+  "label": "Navisworks",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

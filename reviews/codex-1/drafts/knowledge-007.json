@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c0src1lras",
+    "definition": "HVAC controls are devices and logic that regulate heating, ventilation and cooling equipment to meet specified conditions.",
+    "example": "A thermostat signals the heating system when room temperature falls below its setpoint.",
+    "sense_note": null
+  },
+  {
+    "id": "kwz7uq4aje",
+    "definition": "Hypercompact stellar systems are hypothesized groups of stars that remain tightly bound to a black hole displaced from its original galactic center.",
+    "example": "An astronomer looks for unusual stellar velocities to distinguish a candidate from an ordinary compact star cluster.",
+    "sense_note": null
+  },
+  {
+    "id": "eqs79srrpm",
+    "definition": "Image and video compression encodes visual data in fewer bits by reducing redundancy, optionally discarding some detail.",
+    "example": "A streaming service compresses a video so it can play over a slower connection.",
+    "sense_note": null
+  },
+  {
+    "id": "ramrv3b9a1",
+    "definition": "Imaging informatics concerns the collection, storage, exchange and use of medical images and their associated information.",
+    "example": "A hospital links radiology images to the correct patient record for clinical review.",
+    "sense_note": null
+  },
+  {
+    "id": "bprelfo6pk",
+    "definition": "Immunization is the process of acquiring protection against an infectious disease, commonly by vaccination.",
+    "example": "A public health program monitors immunization coverage to identify populations lacking protection.",
+    "sense_note": null
+  },
+  {
+    "id": "d8xh9h0m0q",
+    "definition": "Immunohaematology studies immune responses to blood cell antigens, especially in transfusion medicine.",
+    "example": "A blood bank checks compatibility between a patient's blood and potential donor units.",
+    "sense_note": null
+  },
+  {
+    "id": "cj5rjuoa37",
+    "definition": "An in-memory database stores its working data primarily in RAM to make reads and writes fast.",
+    "example": "A scoreboard uses an in-memory database to retrieve recently updated rankings.",
+    "sense_note": null
+  },
+  {
+    "id": "voqokiy3af",
+    "definition": "Inbound logistics manages the movement and receipt of supplies or materials into an organization.",
+    "example": "A factory schedules inbound deliveries to keep ingredients available without overloading storage.",
+    "sense_note": null
+  },
+  {
+    "id": "da5idct9o6",
+    "definition": "Incurred but not reported describes insurance losses that have already occurred but are not yet known to the insurer.",
+    "example": "An actuary estimates reserves for claims likely to arrive after the reporting date.",
+    "sense_note": null
+  },
+  {
+    "id": "j18ihca7b5",
+    "definition": "Indentation hardness measures resistance to permanent deformation produced by pressing an indenter into a material.",
+    "example": "A laboratory uses the size of an impression to compare two treated metal samples.",
+    "sense_note": null
+  },
+  {
+    "id": "a2nphi3heq",
+    "definition": "Individual life insurance is coverage issued under an individual policy rather than obtained through a group plan.",
+    "example": "A policyholder names family members as beneficiaries of their own policy.",
+    "sense_note": null
+  },
+  {
+    "id": "a4cpgp9pfi",
+    "definition": "An Individualized Education Program is a written U.S. special-education plan specifying a qualifying student's goals, services and supports.",
+    "example": "A school team documents a learning goal and how progress will be measured.",
+    "sense_note": null
+  },
+  {
+    "id": "jtnu7fnqvl",
+    "definition": "An Individualized Family Service Plan documents U.S. early-intervention outcomes and services for an eligible infant or toddler and the family.",
+    "example": "A family and service coordinator agree on support for communication during everyday routines.",
+    "sense_note": null
+  },
+  {
+    "id": "h65kyjr4ub",
+    "definition": "The Industrial Internet of Things connects industrial equipment, sensors and software to exchange data and support monitoring or control.",
+    "example": "A plant tracks vibration readings from connected motors to schedule maintenance.",
+    "sense_note": null
+  },
+  {
+    "id": "mwcmyvh54c",
+    "definition": "Industrial statistics applies statistical methods to manufacturing, process improvement and other industrial decisions.",
+    "example": "A quality engineer uses a control chart to distinguish routine variation from an unusual change.",
+    "sense_note": null
+  },
+  {
+    "id": "mu8pgevr8j",
+    "definition": "Infant development concerns physical, cognitive, communicative and social changes during infancy.",
+    "example": "A researcher observes changes in how infants respond to familiar voices.",
+    "sense_note": null
+  },
+  {
+    "id": "ydzwl9wfab",
+    "definition": "Ingredient functionality concerns how an ingredient contributes to a food's properties or processing behavior.",
+    "example": "A formulation team uses a starch's thickening properties to improve sauce consistency.",
+    "sense_note": null
+  },
+  {
+    "id": "ncdmib9pd8",
+    "definition": "Integrative biology combines evidence or methods across biological disciplines and scales to explain living systems.",
+    "example": "A team combines biomechanics and ecology to explain how animals move across different habitats.",
+    "sense_note": null
+  },
+  {
+    "id": "gycnd1oe8v",
+    "definition": "Intellectual property concerns legal rights in certain creations, inventions, identifying marks and protected information.",
+    "example": "A publishing team checks which rights it needs to reproduce an illustration.",
+    "sense_note": null
+  },
+  {
+    "id": "g2o5zhkc75",
+    "definition": "Intended Nationally Determined Contributions were climate commitments proposed by countries before or in connection with joining the Paris Agreement.",
+    "example": "A policy analyst compares a country's initial intended contribution with its later formally submitted contribution.",
+    "sense_note": null
+  },
+  {
+    "id": "ipdzyw63rq",
+    "definition": "The ISS Environmental Control and Life Support System maintains conditions needed for crew survival aboard the International Space Station.",
+    "example": "The system manages cabin air quality and recovers reusable water.",
+    "sense_note": null
+  },
+  {
+    "id": "cl8qm37sfr",
+    "definition": "IT governance assigns decision rights and accountability for directing and overseeing an organization's information technology.",
+    "example": "A board defines who can approve major technology investments and how results will be monitored.",
+    "sense_note": null
+  },
+  {
+    "id": "ud3xd0snz8",
+    "definition": "Itô's lemma gives the differential of a function of an Itô process, accounting for the second-order contribution of stochastic variation.",
+    "example": "An analyst derives the dynamics of the logarithm of a modeled asset price.",
+    "sense_note": null
+  },
+  {
+    "id": "hd1530gaoe",
+    "definition": "A knowledge graph organizes entities, attributes and relationships into a graph with explicit meanings for its connections.",
+    "example": "A museum links artists to their works so researchers can trace shared exhibitions.",
+    "sense_note": null
+  },
+  {
+    "id": "nj7ggxlzyt",
+    "definition": "Labor market trends are changes over time in indicators such as employment, wages, vacancies or participation.",
+    "example": "A workforce planner compares several years of vacancy rates across occupations.",
+    "sense_note": null
+  },
+  {
+    "id": "knzx0n9lzt",
+    "definition": "Labour economics studies how workers and employers interact and how wages, employment and working conditions are determined.",
+    "example": "An economist models how access to training affects wages and job mobility.",
+    "sense_note": null
+  },
+  {
+    "id": "k7zdlmxxst",
+    "definition": "Labour law concerns legal rules governing employment relationships, working conditions and collective worker rights.",
+    "example": "A legal team reviews how a collective bargaining provision applies to a shift change.",
+    "sense_note": null
+  },
+  {
+    "id": "ptrm1ihsdz",
+    "definition": "Land-atmosphere interactions are exchanges of energy, water and other materials between the land surface and the air above it.",
+    "example": "A climate model uses soil moisture to estimate how much surface energy goes into evaporation.",
+    "sense_note": null
+  },
+  {
+    "id": "ag0hpcesx8",
+    "definition": "Large language models are large machine-learning models trained to learn patterns in language and perform tasks such as generating or transforming text.",
+    "example": "An assistant turns a long project update into a short summary for review.",
+    "sense_note": null
+  },
+  {
+    "id": "v5qd3g817l",
+    "definition": "Laser engineering applies optical and engineering principles to the design and integration of lasers and laser-based systems.",
+    "example": "An engineer matches a laser's wavelength and beam properties to an optical measurement task.",
+    "sense_note": null
+  },
+  {
+    "id": "qlsxg8d6i9",
+    "definition": "Laser printing uses a laser to form an electrostatic image on a photosensitive surface so toner can be transferred and fused to paper.",
+    "example": "An office printer produces sharp text by depositing toner only where the page image requires it.",
+    "sense_note": null
+  },
+  {
+    "id": "ev1tagfici",
+    "definition": "Latin American and Latino studies examines histories, cultures and societies of Latin America and Latino communities, often including cross-border connections.",
+    "example": "A course compares migration narratives in Latin American and U.S. Latino literature.",
+    "sense_note": null
+  },
+  {
+    "id": "i3hhtsx5w7",
+    "definition": "Law enforcement operations concerns how agencies coordinate personnel, procedures and resources to carry out public-safety duties.",
+    "example": "An agency coordinates call dispatch and traffic diversion during a road closure.",
+    "sense_note": null
+  },
+  {
+    "id": "o7831ig0bi",
+    "definition": "Law enforcement practices are the methods and professional procedures used to carry out, document and review law enforcement work.",
+    "example": "A supervisor reviews whether officers documented incident decisions consistently.",
+    "sense_note": null
+  },
+  {
+    "id": "jpejvd4f2s",
+    "definition": "Lawful interception is the legally authorized collection of specified communications or related data, subject to defined procedures and oversight.",
+    "example": "A compliance team reviews whether an authorization covers the requested records.",
+    "sense_note": null
+  },
+  {
+    "id": "u2aqbj190k",
+    "definition": "Leisure education helps people develop the knowledge and skills to choose and participate in personally meaningful leisure activities.",
+    "example": "A community program teaches participants how to identify accessible recreational options.",
+    "sense_note": null
+  },
+  {
+    "id": "u5ee5ubtkw",
+    "definition": "Letterforms are the designed visual shapes of written letters.",
+    "example": "A type designer adjusts the curve of a lowercase a to improve readability.",
+    "sense_note": null
+  },
+  {
+    "id": "k5la1dxosl",
+    "definition": "Librarianship is the profession of organizing information resources and helping people find, evaluate and use them.",
+    "example": "A librarian catalogs a collection and teaches patrons to search it efficiently.",
+    "sense_note": null
+  },
+  {
+    "id": "m0xr2zu744",
+    "definition": "Linguistic morphology studies how meaningful units combine within words and how word forms express grammatical distinctions.",
+    "example": "A linguist analyzes how a plural suffix changes a noun's number.",
+    "sense_note": null
+  },
+  {
+    "id": "qmf4ku6cqj",
+    "definition": "Loan agreements are contracts that define the amount borrowed, repayment terms and obligations of the borrower and lender.",
+    "example": "A business reviews a loan agreement to identify its repayment schedule and collateral obligations.",
+    "sense_note": null
+  }
+]

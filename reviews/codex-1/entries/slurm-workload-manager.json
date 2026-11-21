@@ -1,0 +1,20 @@
+{
+  "batch": "skill-041.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Slurm is a workload manager that queues jobs and allocates compute resources on shared clusters.",
+  "entry_text": "Slurm is a workload manager that queues jobs and allocates compute resources on shared clusters.",
+  "entry_text_kind": "definition",
+  "example": "A researcher requests compute nodes for a simulation and reviews its position in the job queue.",
+  "id": "mu97mah0vn",
+  "key": "slurm-workload-manager",
+  "label": "Slurm Workload Manager",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

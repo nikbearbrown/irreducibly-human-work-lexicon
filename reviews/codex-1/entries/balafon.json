@@ -1,0 +1,20 @@
+{
+  "batch": "skill-006.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The balafon is a wooden-key percussion instrument, usually with resonators beneath its keys, used in West African musical traditions.",
+  "entry_text": "The balafon is a wooden-key percussion instrument, usually with resonators beneath its keys, used in West African musical traditions.",
+  "entry_text_kind": "definition",
+  "example": "An ensemble player performs a repeating melodic pattern on a balafon.",
+  "id": "z3g31q33r8",
+  "key": "balafon",
+  "label": "Balafon",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

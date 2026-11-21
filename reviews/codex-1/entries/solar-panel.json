@@ -1,0 +1,20 @@
+{
+  "batch": "skill-042.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A solar panel is an assembly that collects solar energy, commonly using photovoltaic cells to produce electricity or a thermal collector to provide heat.",
+  "entry_text": "A solar panel is an assembly that collects solar energy, commonly using photovoltaic cells to produce electricity or a thermal collector to provide heat.",
+  "entry_text_kind": "definition",
+  "example": "A photovoltaic array supplies electricity to a building during daylight.",
+  "id": "upytq9e2xt",
+  "key": "solar-panel",
+  "label": "Solar panel",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Label commonly means a photovoltaic module but can also refer to solar thermal collectors.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

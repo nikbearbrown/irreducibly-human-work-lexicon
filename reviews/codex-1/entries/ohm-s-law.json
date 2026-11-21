@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-009.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Ohm's law relates voltage, current and resistance as voltage equals current times resistance for an ohmic conductor under stable conditions.",
+  "entry_text": "Ohm's law relates voltage, current and resistance as voltage equals current times resistance for an ohmic conductor under stable conditions.",
+  "entry_text_kind": "definition",
+  "example": "A technician calculates the current through a known resistor at a specified voltage.",
+  "id": "s3v0meeja8",
+  "key": "ohm-s-law",
+  "label": "Ohm's law",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

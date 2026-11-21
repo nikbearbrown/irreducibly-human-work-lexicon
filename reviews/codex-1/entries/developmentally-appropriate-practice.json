@@ -1,0 +1,20 @@
+{
+  "batch": "skill-014.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "An approach to education that adapts teaching to learners' developmental stage, individual needs, and cultural context.",
+  "entry_text": "An approach to education that adapts teaching to learners' developmental stage, individual needs, and cultural context.",
+  "entry_text_kind": "definition",
+  "example": "An early childhood teacher uses manipulatives and play to introduce counting.",
+  "id": "fsvbd7mhjr",
+  "key": "developmentally-appropriate-practice",
+  "label": "Developmentally appropriate practice",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

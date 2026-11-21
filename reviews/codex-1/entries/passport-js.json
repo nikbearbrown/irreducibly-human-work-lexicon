@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Passport.js is authentication middleware for Node.js applications that supports different login mechanisms through strategies.",
+  "entry_text": "Passport.js is authentication middleware for Node.js applications that supports different login mechanisms through strategies.",
+  "entry_text_kind": "definition",
+  "example": "A web service uses a strategy to handle sign-in through an approved identity provider.",
+  "id": "k1tpukilm8",
+  "key": "passport-js",
+  "label": "Passport.js",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "library",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

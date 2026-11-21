@@ -1,0 +1,224 @@
+[
+  {
+    "id": "uenwcm412x",
+    "definition": "Technology entrepreneurship identifies commercial or social opportunities and builds ventures around technically enabled products or services.",
+    "example": "A founding team tests whether clinics need its scheduling prototype before committing to a product launch.",
+    "sense_note": null
+  },
+  {
+    "id": "pdd9yj2zty",
+    "definition": "Theatrical techniques are methods performers and production teams use to convey a story, direct attention or shape an audience's experience on stage.",
+    "example": "A director uses a freeze in movement to draw attention to a key line.",
+    "sense_note": null
+  },
+  {
+    "id": "unrn5odgmo",
+    "definition": "Thyroid cancer is a malignant growth originating in thyroid tissue.",
+    "example": "A cancer registry classifies a tumor arising from thyroid follicular cells as a thyroid cancer.",
+    "sense_note": null
+  },
+  {
+    "id": "yoc5ttu7x5",
+    "definition": "Thyroid diseases and disorders affect the thyroid gland's structure or its production of hormones that regulate metabolism.",
+    "example": "A clinician investigates whether a patient's symptoms reflect inadequate thyroid hormone production.",
+    "sense_note": null
+  },
+  {
+    "id": "jqn7upjsc9",
+    "definition": "TL 9000 is a quality management framework for the information and communications technology industry that adds sector-specific requirements and performance measurements to ISO 9001.",
+    "example": "A telecommunications equipment supplier tracks defect and reliability indicators as part of its TL 9000 quality program.",
+    "sense_note": null
+  },
+  {
+    "id": "tp20480fph",
+    "definition": "In linear algebra, the trace of a square matrix is the sum of its main diagonal entries.",
+    "example": "The trace of a diagonal matrix with entries two and five is seven.",
+    "sense_note": null
+  },
+  {
+    "id": "rlfy28fdse",
+    "definition": "A traumatic brain injury is a disruption of brain function or structural injury to the brain caused by an external force.",
+    "example": "A clinician evaluates a person for a brain injury after a fall followed by confusion.",
+    "sense_note": null
+  },
+  {
+    "id": "f6muvp3xj5",
+    "definition": "Twisted pair is a cable construction in which two insulated conductors are wound around each other to reduce electromagnetic interference.",
+    "example": "An Ethernet installation uses twisted pairs to transmit signals between devices.",
+    "sense_note": null
+  },
+  {
+    "id": "mbsk7t3c4x",
+    "definition": "Urban resilience is the capacity of a city and its communities to anticipate, withstand, adapt to and recover from disruptions.",
+    "example": "A coastal city designs alternate routes and emergency services to remain functional during floods.",
+    "sense_note": null
+  },
+  {
+    "id": "c42rvldoqe",
+    "definition": "Urban sustainability concerns meeting a city's social and economic needs while limiting long-term environmental harm and resource depletion.",
+    "example": "A city pairs transit investment with affordable housing near stations to reduce dependence on private cars.",
+    "sense_note": null
+  },
+  {
+    "id": "p15rcscaig",
+    "definition": "Urological disorders affect the urinary tract or the male reproductive organs.",
+    "example": "A urology service evaluates a patient with recurring kidney stones.",
+    "sense_note": null
+  },
+  {
+    "id": "yitddfndv7",
+    "definition": "Use of force concerns the application of physical compulsion and the legal, ethical and organizational standards that govern it.",
+    "example": "An oversight team assesses whether the force documented in an incident complied with policy.",
+    "sense_note": "The relevant standards depend on the setting and jurisdiction."
+  },
+  {
+    "id": "jxii97zqv9",
+    "definition": "Utility engineering concerns the design, construction and operation of infrastructure that provides services such as power, water, gas or communications.",
+    "example": "Engineers coordinate water and electrical routes before a street reconstruction.",
+    "sense_note": null
+  },
+  {
+    "id": "d6idziotxr",
+    "definition": "Utility frequency is the nominal rate at which alternating current cycles in an electrical power grid.",
+    "example": "A motor specification identifies whether it is intended for a 50-hertz or 60-hertz supply.",
+    "sense_note": null
+  },
+  {
+    "id": "qeyll0q70q",
+    "definition": "VA loans are mortgages that eligible borrowers can obtain with backing from the U.S. Department of Veterans Affairs.",
+    "example": "A lender checks whether a prospective homeowner qualifies under the VA home loan program.",
+    "sense_note": null
+  },
+  {
+    "id": "wtaw3e3le4",
+    "definition": "Virtual health provides healthcare services or support remotely through digital communication and monitoring technologies.",
+    "example": "A patient meets a clinician by video for a follow-up appointment.",
+    "sense_note": null
+  },
+  {
+    "id": "h4zzei58f1",
+    "definition": "A virtual LAN logically segments devices into separate data-link networks even when they share physical switching equipment.",
+    "example": "An office places guest devices and employee computers in different VLANs on the same switch infrastructure.",
+    "sense_note": null
+  },
+  {
+    "id": "sdhlwiw8x3",
+    "definition": "A virtual private network extends private connectivity over a shared network using logical tunnels, commonly protected by encryption.",
+    "example": "A worker uses a VPN to access internal company resources from a remote location.",
+    "sense_note": null
+  },
+  {
+    "id": "megl3qks4r",
+    "definition": "Virtual reality presents an immersive computer-generated environment that can respond to a user's viewpoint or actions.",
+    "example": "A trainee uses a headset to practice navigating a simulated facility.",
+    "sense_note": null
+  },
+  {
+    "id": "x2qabn3ytz",
+    "definition": "Visual impairment education adapts instruction and materials for learners who are blind or have low vision.",
+    "example": "A teacher provides tactile diagrams and accessible text for a geometry lesson.",
+    "sense_note": null
+  },
+  {
+    "id": "rrovomiqx5",
+    "definition": "Wage and hour laws govern matters such as minimum wages, compensable time, overtime and recordkeeping.",
+    "example": "A payroll team checks whether a work schedule generates overtime under the applicable rules.",
+    "sense_note": null
+  },
+  {
+    "id": "spkfzhms3l",
+    "definition": "Warehouse automation uses machines and software to perform or coordinate warehouse tasks with less manual intervention.",
+    "example": "An automated storage system retrieves a tote and delivers it to a packing station.",
+    "sense_note": null
+  },
+  {
+    "id": "dnv14a793e",
+    "definition": "Wave phase specifies a position in a repeating wave cycle relative to a reference, typically as an angle.",
+    "example": "Two signals with the same frequency are in phase when corresponding peaks occur together.",
+    "sense_note": null
+  },
+  {
+    "id": "n3fuzwj8q9",
+    "definition": "A waveguide confines and directs the propagation of waves along a path.",
+    "example": "A microwave waveguide carries electromagnetic energy between a transmitter and an antenna.",
+    "sense_note": null
+  },
+  {
+    "id": "hwct39vphp",
+    "definition": "Welding symbols are standardized drawing annotations that specify weld locations, types, dimensions and related requirements.",
+    "example": "A fabricator reads a drawing symbol to identify which side of a joint requires a fillet weld.",
+    "sense_note": null
+  },
+  {
+    "id": "im5xpmg2uo",
+    "definition": "Wi-Fi architecture describes how wireless local-area networks organize stations, access points and connections to other networks.",
+    "example": "A campus plans several access points to let devices connect across its buildings.",
+    "sense_note": null
+  },
+  {
+    "id": "ksjlonf3g4",
+    "definition": "Wi-Fi security uses controls such as authentication and encryption to protect wireless networks and their communications.",
+    "example": "An organization gives staff and guests separate authenticated access to its wireless service.",
+    "sense_note": null
+  },
+  {
+    "id": "zjr6axwd0x",
+    "definition": "A wide area network connects devices or local networks across geographically separated locations.",
+    "example": "A company links offices in different cities through its wide area network.",
+    "sense_note": null
+  },
+  {
+    "id": "eflhvck49r",
+    "definition": "The Windows Vista startup process is the sequence through which firmware and boot components locate and load Windows before it starts system services and presents sign-in.",
+    "example": "A technician distinguishes a boot-manager error from a failure that occurs after Windows begins loading.",
+    "sense_note": null
+  },
+  {
+    "id": "pzkjosu7hf",
+    "definition": "Wine education develops knowledge and judgment about wine production, regions, styles, tasting and service.",
+    "example": "A class compares how two fermentation choices affect a wine's flavor and texture.",
+    "sense_note": null
+  },
+  {
+    "id": "b6e6korqyu",
+    "definition": "Wireless technologies transmit information without a physical cable between communicating endpoints, most commonly by radio waves.",
+    "example": "A sensor sends measurements to a nearby gateway by a low-power radio link.",
+    "sense_note": null
+  },
+  {
+    "id": "hxmbmq6l9a",
+    "definition": "Women's studies examines women's lives and experiences and the ways gender shapes social, political and cultural institutions.",
+    "example": "A researcher studies how women's labor was documented during a period of industrialization.",
+    "sense_note": null
+  },
+  {
+    "id": "r66mwsich6",
+    "definition": "Word formation examines processes that create new words or lexemes, such as compounding, derivation and blending.",
+    "example": "A linguist explains how snow and ball combine to form snowball.",
+    "sense_note": null
+  },
+  {
+    "id": "d9y2xs3t38",
+    "definition": "Workforce trends are changes over time in the size, composition, skills or work arrangements of a workforce.",
+    "example": "A planner compares the age distribution of employees over several years to estimate retirement exposure.",
+    "sense_note": null
+  },
+  {
+    "id": "eqlrx15sti",
+    "definition": "Worship ministry is organized religious service supporting the planning and conduct of communal worship.",
+    "example": "A worship coordinator prepares music and readings for a congregation's service.",
+    "sense_note": null
+  },
+  {
+    "id": "bcopuqio9u",
+    "definition": "Yahoo! Messenger protocols were communication formats and rules used by the Yahoo! Messenger service to exchange messages and status information.",
+    "example": "A computing historian examines how clients represented whether a contact was available.",
+    "sense_note": "Historical implementations differed by client and protocol version."
+  },
+  {
+    "id": "e979uulsi9",
+    "definition": "Youth ministry is organized religious work that supports young people's spiritual development and participation in a faith community.",
+    "example": "A youth leader organizes age-appropriate discussions and volunteer activities.",
+    "sense_note": null
+  }
+]

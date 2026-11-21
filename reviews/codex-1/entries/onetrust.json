@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "OneTrust provides software for managing work such as privacy compliance, consent and governance, risk and compliance.",
+  "entry_text": "OneTrust provides software for managing work such as privacy compliance, consent and governance, risk and compliance.",
+  "entry_text_kind": "definition",
+  "example": "A privacy team tracks requests to access personal information and their resolution status.",
+  "id": "linm739g4u",
+  "key": "onetrust",
+  "label": "OneTrust",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "platform",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

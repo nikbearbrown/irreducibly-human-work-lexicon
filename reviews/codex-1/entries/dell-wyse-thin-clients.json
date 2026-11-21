@@ -1,0 +1,20 @@
+{
+  "batch": "skill-013.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A family of compact endpoint computers designed primarily to access centrally hosted desktops or applications.",
+  "entry_text": "A family of compact endpoint computers designed primarily to access centrally hosted desktops or applications.",
+  "entry_text_kind": "definition",
+  "example": "A staff member signs in from a thin client to a centrally managed virtual desktop.",
+  "id": "n77gq847cg",
+  "key": "dell-wyse-thin-clients",
+  "label": "Dell Wyse thin clients",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

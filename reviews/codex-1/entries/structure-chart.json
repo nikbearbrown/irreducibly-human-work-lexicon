@@ -1,0 +1,20 @@
+{
+  "batch": "skill-043.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A structure chart diagrams the hierarchy of software modules and their calling or data relationships.",
+  "entry_text": "A structure chart diagrams the hierarchy of software modules and their calling or data relationships.",
+  "entry_text_kind": "definition",
+  "example": "A designer diagrams how an invoice routine calls separate modules to compute taxes and format totals.",
+  "id": "nottch9bpm",
+  "key": "structure-chart",
+  "label": "Structure chart",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Interpreted as structured software design, not an organizational chart.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

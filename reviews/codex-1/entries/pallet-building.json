@@ -1,0 +1,20 @@
+{
+  "batch": "skill-033.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Pallet building arranges and secures goods on a pallet for stable storage, handling or shipment.",
+  "entry_text": "Pallet building arranges and secures goods on a pallet for stable storage, handling or shipment.",
+  "entry_text_kind": "definition",
+  "example": "A warehouse worker stacks cartons within load limits and secures them before dispatch.",
+  "id": "l15oar8hr9",
+  "key": "pallet-building",
+  "label": "Pallet building",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

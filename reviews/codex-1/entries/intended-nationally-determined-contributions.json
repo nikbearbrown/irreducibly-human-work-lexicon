@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-007.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Intended Nationally Determined Contributions were climate commitments proposed by countries before or in connection with joining the Paris Agreement.",
+  "entry_text": "Intended Nationally Determined Contributions were climate commitments proposed by countries before or in connection with joining the Paris Agreement.",
+  "entry_text_kind": "definition",
+  "example": "A policy analyst compares a country's initial intended contribution with its later formally submitted contribution.",
+  "id": "g2o5zhkc75",
+  "key": "intended-nationally-determined-contributions",
+  "label": "Intended Nationally Determined Contributions",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

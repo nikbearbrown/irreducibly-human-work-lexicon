@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The color rendering index rates how faithfully a light source renders specified sample colors relative to a reference illuminant under a standardized method.",
+  "entry_text": "The color rendering index rates how faithfully a light source renders specified sample colors relative to a reference illuminant under a standardized method.",
+  "entry_text_kind": "definition",
+  "example": "A museum compares lamp CRI ratings before testing how textiles actually look under each light.",
+  "id": "s3bllcrvqd",
+  "key": "color-rendering-index",
+  "label": "Color rendering index",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-038.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Resorcerer is a resource editor for classic Macintosh software that can inspect and modify structured resources stored with applications and files.",
+  "entry_text": "Resorcerer is a resource editor for classic Macintosh software that can inspect and modify structured resources stored with applications and files.",
+  "entry_text_kind": "definition",
+  "example": "A preservation specialist examines the menu and icon resources of an archived Macintosh application.",
+  "id": "pwau7gon42",
+  "key": "resorcerer",
+  "label": "Resorcerer",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Verify intended legacy tool and spelling.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

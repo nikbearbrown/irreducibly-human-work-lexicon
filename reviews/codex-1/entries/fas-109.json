@@ -1,0 +1,20 @@
+{
+  "batch": "skill-017.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A historical U.S. accounting standard specifying how entities account for current and deferred income taxes.",
+  "entry_text": "A historical U.S. accounting standard specifying how entities account for current and deferred income taxes.",
+  "entry_text_kind": "definition",
+  "example": "An accountant consults the historical standard when interpreting older financial statements.",
+  "id": "xt7cxxzjcc",
+  "key": "fas-109",
+  "label": "FAS 109",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Confirm reference to Financial Accounting Standard 109 rather than current codification.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

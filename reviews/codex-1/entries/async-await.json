@@ -1,0 +1,20 @@
+{
+  "batch": "skill-004.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Async and await are language constructs that express asynchronous operations in a sequential-looking form without necessarily blocking the executing thread.",
+  "entry_text": "Async and await are language constructs that express asynchronous operations in a sequential-looking form without necessarily blocking the executing thread.",
+  "entry_text_kind": "definition",
+  "example": "A client application waits for a server response while allowing its interface to remain responsive.",
+  "id": "v0q12e8xmx",
+  "key": "async-await",
+  "label": "Async/await",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "e4ky74p3dr",
+    "key": "rockmelt",
+    "label": "Rockmelt",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "hlqq8yiyj2",
+    "key": "rockwell-factorytalk",
+    "label": "Rockwell FactoryTalk",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u057dkd9xn",
+    "key": "role-based-access-control",
+    "label": "Role-based access control",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f8yrj15jmk",
+    "key": "roof-bolting",
+    "label": "Roof bolting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ty8an2d5rc",
+    "key": "route-management",
+    "label": "Route management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "yunl331qp4",
+    "key": "routing-table-maintenance-protocol",
+    "label": "Routing Table Maintenance Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zxff4du3c6",
+    "key": "rsa-archer",
+    "label": "RSA Archer",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "lr0g99v968",
+    "key": "rx30",
+    "label": "Rx30",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "y13h71ry03",
+    "key": "rxkotlin",
+    "label": "RxKotlin",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gv3yol606d",
+    "key": "safe-drinking-water-act",
+    "label": "Safe Drinking Water Act",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "e23xcwkh9v",
+    "key": "safety-audits",
+    "label": "Safety audits",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mwe27ckha8",
+    "key": "sage-intacct",
+    "label": "Sage Intacct",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dvsxgd6jgp",
+    "key": "sage-mas-90",
+    "label": "Sage MAS 90",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "axnlkb7htl",
+    "key": "sailing-instruction",
+    "label": "Sailing instruction",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nq2y7jjqri",
+    "key": "sailpoint-identityiq",
+    "label": "SailPoint IdentityIQ",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cvjjttyqe3",
+    "key": "sails-js",
+    "label": "Sails.js",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wa0o3efjz9",
+    "key": "sales-and-operations-planning",
+    "label": "Sales and operations planning",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n1iikcimhd",
+    "key": "sales-presentation",
+    "label": "Sales presentation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mhqjaq3kyx",
+    "key": "salesforce-datorama",
+    "label": "Salesforce Datorama",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rvakw702hv",
+    "key": "salesforce-social-studio",
+    "label": "Salesforce Social Studio",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "url3hq4jid",
+    "key": "salesforce",
+    "label": "Salesforce",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qzxtep4gcy",
+    "key": "sap-adaptive-server-enterprise",
+    "label": "SAP Adaptive Server Enterprise",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ym6s3kvy3v",
+    "key": "sap-businessobjects",
+    "label": "SAP BusinessObjects",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mvrzxgwe6c",
+    "key": "sap-crystal-reports",
+    "label": "SAP Crystal Reports",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f1mc7yrkqz",
+    "key": "sap-fiori",
+    "label": "SAP Fiori",
+    "onet_codes": [],
+    "original_kind": "framework"
+  },
+  {
+    "broad_class": "skill",
+    "id": "re91tiyz00",
+    "key": "sap-gui",
+    "label": "SAP GUI",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "f9jm6pwe2p",
+    "key": "sap-iot",
+    "label": "SAP IoT",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "af0ihpcnom",
+    "key": "sap-is-retail",
+    "label": "SAP IS-Retail",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pcy2k2al3q",
+    "key": "sap-lumira",
+    "label": "SAP Lumira",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "clelgs9q2c",
+    "key": "sap-materials-management",
+    "label": "SAP Materials Management",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "vlxwpt4op5",
+    "key": "sap-netweaver-process-integration",
+    "label": "SAP NetWeaver Process Integration",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ejsvn6xdf3",
+    "key": "sap-quality-management",
+    "label": "SAP Quality Management",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zf8lkgf31j",
+    "key": "sap-s-4hana",
+    "label": "SAP S/4HANA",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "x6e2sp6oyn",
+    "key": "sap-sovereign-cloud",
+    "label": "SAP Sovereign Cloud",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ihw2qwek3f",
+    "key": "sap-technology-consulting",
+    "label": "SAP technology consulting",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "nv6qz3g272",
+    "key": "sap",
+    "label": "SAP",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ucciwb5dse",
+    "key": "savon",
+    "label": "Savon",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j6lsmpnya0",
+    "key": "scaffold-building",
+    "label": "Scaffold building",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d868fdr68x",
+    "key": "scala-js",
+    "label": "Scala.js",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "kg3scy47l7",
+    "key": "scalding",
+    "label": "Scalding",
+    "onet_codes": [],
+    "original_kind": "library"
+  }
+]

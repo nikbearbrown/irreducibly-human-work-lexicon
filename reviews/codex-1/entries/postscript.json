@@ -1,0 +1,20 @@
+{
+  "batch": "language-006.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A programming language for describing text and graphics on a printed or rendered page.",
+  "entry_text": "A programming language for describing text and graphics on a printed or rendered page.",
+  "entry_text_kind": "definition",
+  "example": "A print workflow positions vector shapes on a page before printing.",
+  "id": "ty7glckkcx",
+  "key": "postscript",
+  "label": "PostScript",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "programming-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

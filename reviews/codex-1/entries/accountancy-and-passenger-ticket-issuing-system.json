@@ -1,0 +1,20 @@
+{
+  "batch": "skill-001.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The Accountancy and Passenger Ticket Issuing System, or APTIS, was a computerized rail ticketing system that linked ticket sales to accounting records.",
+  "entry_text": "The Accountancy and Passenger Ticket Issuing System, or APTIS, was a computerized rail ticketing system that linked ticket sales to accounting records.",
+  "entry_text_kind": "definition",
+  "example": "A railway clerk issues a passenger ticket while the system records the transaction for reconciliation.",
+  "id": "rivr9g4ool",
+  "key": "accountancy-and-passenger-ticket-issuing-system",
+  "label": "Accountancy and Passenger Ticket Issuing System",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

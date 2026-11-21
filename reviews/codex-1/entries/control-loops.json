@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A control loop measures a system's behavior and feeds the result back to a controller that adjusts an input toward a desired condition.",
+  "entry_text": "A control loop measures a system's behavior and feeds the result back to a controller that adjusts an input toward a desired condition.",
+  "entry_text_kind": "definition",
+  "example": "A thermostat senses room temperature and turns heating on when the temperature falls below the set threshold.",
+  "id": "tw2hqmerzk",
+  "key": "control-loops",
+  "label": "Control loops",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,28 @@
+{
+  "batch": "skill-009.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "CocoaPods is a dependency manager that integrates libraries into projects built with Xcode.",
+  "entry_text": "CocoaPods is a dependency manager that integrates libraries into projects built with Xcode.",
+  "entry_text_kind": "definition",
+  "example": "A maintainer refreshes a project’s prescribed dependency versions and rebuilds it.",
+  "id": "c5l9xyik3i",
+  "key": "cocoapods",
+  "label": "CocoaPods",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "c5l9xyik3i",
+      "note": "The official overview calls CocoaPods a dependency manager for Cocoa projects and describes integration through an Xcode project and workspace.",
+      "packet": "worker-technical-skills.json",
+      "ref": "https://cocoapods.org/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

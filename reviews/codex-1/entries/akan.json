@@ -1,0 +1,31 @@
+{
+  "batch": "language-001.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "catalog_description": "Glottolog catalogs Akan (ISO 639-3: aka) as a language under the Atlantic-Congo grouping.",
+  "catalog_identity_evidence": {
+    "catalog_family": "Atlantic-Congo",
+    "catalog_name": "Akan",
+    "evidence_scope": "catalog identity and fields only; not an audit of the independent definition or example",
+    "glottocode": "akan1250",
+    "iso639_3": "aka",
+    "macroarea": "Africa",
+    "match": "unique-exact-label-type",
+    "ref": "https://glottolog.org/resource/languoid/id/akan1250"
+  },
+  "definition": "A label for closely related speech varieties used in oral and written communication.",
+  "entry_text": "A label for closely related speech varieties used in oral and written communication.",
+  "entry_text_kind": "definition",
+  "example": "A translator prepares an Akan audio message.",
+  "id": "de1c4bnci7",
+  "key": "akan",
+  "label": "Akan",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "human-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Specify the target variety when relevant.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

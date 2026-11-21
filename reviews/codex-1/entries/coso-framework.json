@@ -1,0 +1,20 @@
+{
+  "batch": "skill-011.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The COSO Internal Control framework organizes the design and evaluation of organizational controls into complementary components and principles.",
+  "entry_text": "The COSO Internal Control framework organizes the design and evaluation of organizational controls into complementary components and principles.",
+  "entry_text_kind": "definition",
+  "example": "An internal auditor uses the framework to map how risk assessment and monitoring contribute to a reporting control.",
+  "id": "kjyp8z5e06",
+  "key": "coso-framework",
+  "label": "COSO framework",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "standard",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "COSO also publishes an enterprise risk management framework; the label alone does not distinguish these.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

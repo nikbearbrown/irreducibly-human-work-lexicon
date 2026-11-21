@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A laboratory assay that uses enzyme-linked detection and antibody binding to measure a specific target in a sample.",
+  "entry_text": "A laboratory assay that uses enzyme-linked detection and antibody binding to measure a specific target in a sample.",
+  "entry_text_kind": "definition",
+  "example": "A laboratory uses an ELISA to compare target levels against a validated calibration series.",
+  "id": "b4wc6manaz",
+  "key": "enzyme-linked-immunosorbent-assay",
+  "label": "Enzyme-linked immunosorbent assay",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

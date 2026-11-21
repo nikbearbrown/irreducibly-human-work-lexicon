@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-011.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Rehabilitation supports people in improving or maintaining function and participation after injury, illness or another change in capacity.",
+  "entry_text": "Rehabilitation supports people in improving or maintaining function and participation after injury, illness or another change in capacity.",
+  "entry_text_kind": "definition",
+  "example": "A therapist helps a person practice daily tasks after a stroke.",
+  "id": "dpym5atjbx",
+  "key": "rehabilitation",
+  "label": "Rehabilitation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "The label can also refer to legal, social or environmental restoration; the health sense is used here.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

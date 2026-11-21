@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-006.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A graphics API defines programming interfaces for using graphics hardware or a rendering system to create images.",
+  "entry_text": "A graphics API defines programming interfaces for using graphics hardware or a rendering system to create images.",
+  "entry_text_kind": "definition",
+  "example": "A game engine submits commands through Vulkan to render its current scene.",
+  "id": "dp6y03hiq5",
+  "key": "graphics-api",
+  "label": "Graphics API",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

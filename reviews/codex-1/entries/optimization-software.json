@@ -1,0 +1,20 @@
+{
+  "batch": "skill-032.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Optimization software uses mathematical algorithms to search for solutions that improve a stated objective subject to constraints.",
+  "entry_text": "Optimization software uses mathematical algorithms to search for solutions that improve a stated objective subject to constraints.",
+  "entry_text_kind": "definition",
+  "example": "A planner uses a solver to minimize staffing costs while covering every required shift.",
+  "id": "dc8i8zjfh6",
+  "key": "optimization-software",
+  "label": "Optimization software",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "skill-021.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Driving or maneuvering vehicles with substantial size or weight while accounting for load, clearance, and stopping distance.",
+  "entry_text": "Driving or maneuvering vehicles with substantial size or weight while accounting for load, clearance, and stopping distance.",
+  "entry_text_kind": "definition",
+  "example": "A licensed commercial driver plans a route with adequate clearance for a loaded truck.",
+  "id": "od5cjk5y0z",
+  "key": "heavy-vehicle-operation",
+  "label": "Heavy vehicle operation",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

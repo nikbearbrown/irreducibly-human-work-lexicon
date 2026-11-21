@@ -1,0 +1,28 @@
+{
+  "batch": "skill-034.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Phalcon is a PHP web framework implemented in part as a native extension.",
+  "entry_text": "Phalcon is a PHP web framework implemented in part as a native extension.",
+  "entry_text_kind": "definition",
+  "example": "A developer uses its routing and model components to build a database-backed web application.",
+  "id": "sc4h9yyxxk",
+  "key": "phalcon",
+  "label": "Phalcon",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "sc4h9yyxxk",
+      "note": "The official project identifies Phalcon as a full-stack PHP web framework distributed as a native C extension; this is more precise than the draft's in-part implementation wording.",
+      "packet": "worker-late-skills.json",
+      "ref": "https://github.com/phalcon/cphalcon",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

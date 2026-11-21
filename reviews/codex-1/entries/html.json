@@ -1,0 +1,28 @@
+{
+  "batch": "language-003.json",
+  "broad_class": "language",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A markup language that gives web documents structure and meaning.",
+  "entry_text": "A markup language that gives web documents structure and meaning.",
+  "entry_text_kind": "definition",
+  "example": "A developer marks the main page title with a heading element.",
+  "id": "twhbebct5l",
+  "key": "html",
+  "label": "HTML",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "markup-language",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "twhbebct5l",
+      "note": "WHATWG describes HTML as the web markup language originally designed for semantic description.",
+      "packet": "root-technical-languages.json",
+      "ref": "https://html.spec.whatwg.org/multipage/introduction.html",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

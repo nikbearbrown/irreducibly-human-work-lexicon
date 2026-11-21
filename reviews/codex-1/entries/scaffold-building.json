@@ -1,0 +1,20 @@
+{
+  "batch": "skill-039.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Scaffold building is the erection, alteration, or dismantling of temporary structures that support elevated work and access.",
+  "entry_text": "Scaffold building is the erection, alteration, or dismantling of temporary structures that support elevated work and access.",
+  "entry_text_kind": "definition",
+  "example": "A qualified crew assembles a scaffold for façade work and has it inspected before use.",
+  "id": "j6lsmpnya0",
+  "key": "scaffold-building",
+  "label": "Scaffold building",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "skill",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": "Likely construction sense; software and instructional uses are possible.",
+  "sources": [],
+  "verification": "draft-unchecked"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-002.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "The autonomic nervous system regulates functions typically outside conscious control, including heart rate, digestion, and blood vessel tone.",
+  "entry_text": "The autonomic nervous system regulates functions typically outside conscious control, including heart rate, digestion, and blood vessel tone.",
+  "entry_text_kind": "definition",
+  "example": "When someone stands, autonomic reflexes can help maintain blood pressure by adjusting heart rate and vascular tone.",
+  "id": "eixg7h0h2o",
+  "key": "autonomic-nervous-system",
+  "label": "Autonomic nervous system",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

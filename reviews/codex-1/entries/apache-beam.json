@@ -1,0 +1,28 @@
+{
+  "batch": "skill-003.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Apache Beam defines batch and streaming data pipelines through a unified model that runs on supported processing back ends.",
+  "entry_text": "Apache Beam defines batch and streaming data pipelines through a unified model that runs on supported processing back ends.",
+  "entry_text_kind": "definition",
+  "example": "An engineer uses the same transformation logic for historical records and newly arriving events.",
+  "id": "odz2egqfxy",
+  "key": "apache-beam",
+  "label": "Apache Beam",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "framework",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [
+    {
+      "id": "odz2egqfxy",
+      "note": "Beam documents one data-parallel programming model for bounded and unbounded collections and describes runners executing pipelines on their chosen processing engines. Runner capabilities can differ.",
+      "packet": "scheduled-foundational-skills-2026-11-21.json",
+      "ref": "https://beam.apache.org/documentation/basics/",
+      "result": "supports"
+    }
+  ],
+  "verification": "source-checked"
+}

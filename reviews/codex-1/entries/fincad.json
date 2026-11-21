@@ -1,0 +1,20 @@
+{
+  "batch": "skill-018.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "A financial analytics product family used to value instruments and assess portfolio risk.",
+  "entry_text": "A financial analytics product family used to value instruments and assess portfolio risk.",
+  "entry_text_kind": "definition",
+  "example": "An analyst compares the sensitivity of derivative valuations to changes in interest rates.",
+  "id": "ti163kegtl",
+  "key": "fincad",
+  "label": "FINCAD",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "tool",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

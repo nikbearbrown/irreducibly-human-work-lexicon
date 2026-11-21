@@ -1,0 +1,322 @@
+[
+  {
+    "broad_class": "skill",
+    "id": "oltduslyt6",
+    "key": "platespin-protect",
+    "label": "PlateSpin Protect",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "d04egvyo8m",
+    "key": "play-therapy",
+    "label": "Play therapy",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c7wxx3kgek",
+    "key": "plink",
+    "label": "PLINK",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rbg0r9t749",
+    "key": "plumbing-drawing",
+    "label": "Plumbing drawing",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "wvrwtap8yd",
+    "key": "plumbing-plans-examination",
+    "label": "Plumbing plans examination",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s5h0wygs8h",
+    "key": "point-to-point-tunneling-protocol",
+    "label": "Point-to-Point Tunneling Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q8azue8nbj",
+    "key": "police-baton",
+    "label": "Police baton",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q0idp0h02o",
+    "key": "policy-analysis",
+    "label": "Policy analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "q60gtmjw9s",
+    "key": "policy-research-and-analysis",
+    "label": "Policy research and analysis",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "u70zjxun8w",
+    "key": "poll-everywhere",
+    "label": "Poll Everywhere",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ms1ijh6bgm",
+    "key": "polycom",
+    "label": "Polycom",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cou13tvs4x",
+    "key": "positive-airway-pressure",
+    "label": "Positive airway pressure",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "i9qx5qqteg",
+    "key": "posix",
+    "label": "POSIX",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zrxnvhd90b",
+    "key": "post-office-protocol",
+    "label": "Post Office Protocol",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "setvh9dhil",
+    "key": "postcss",
+    "label": "PostCSS",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "sh6x1wmacn",
+    "key": "postgresql",
+    "label": "PostgreSQL",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "gst84p2xvt",
+    "key": "postman",
+    "label": "Postman",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "evzc8xqwgr",
+    "key": "postorder-traversal",
+    "label": "Postorder traversal",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "l9ibjlrcxx",
+    "key": "pouchdb",
+    "label": "PouchDB",
+    "onet_codes": [],
+    "original_kind": "library"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ubxuka0jkc",
+    "key": "power-automate",
+    "label": "Power Automate",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "k2fcjv8nsw",
+    "key": "power-flow-study",
+    "label": "Power flow study",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ch3dy4qykj",
+    "key": "power-tool-operation",
+    "label": "Power tool operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "bbof3wb8ob",
+    "key": "powered-industrial-truck-operation",
+    "label": "Powered industrial truck operation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "afnmlmdol3",
+    "key": "powerschool",
+    "label": "PowerSchool",
+    "onet_codes": [],
+    "original_kind": "platform"
+  },
+  {
+    "broad_class": "skill",
+    "id": "ovqzr0d4p1",
+    "key": "pre-sales-engineering",
+    "label": "Pre-sales engineering",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "j209yv97kq",
+    "key": "predictive-analytics-software",
+    "label": "Predictive analytics software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "pgi48gvql4",
+    "key": "predictive-modelling",
+    "label": "Predictive modelling",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "v1596zg3wx",
+    "key": "presentation-design",
+    "label": "Presentation design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "dwu4oonl43",
+    "key": "presentation-software",
+    "label": "Presentation software",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "cyqnkah16t",
+    "key": "prestodb",
+    "label": "PrestoDB",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "r3o7e1rj3e",
+    "key": "preventive-dental-care",
+    "label": "Preventive dental care",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "s5ltk04rap",
+    "key": "prezi",
+    "label": "Prezi",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "n5hfz8pq8g",
+    "key": "price-negotiation",
+    "label": "Price negotiation",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "rpkyr53hjq",
+    "key": "primerx",
+    "label": "PrimeRx",
+    "onet_codes": [],
+    "original_kind": "tool"
+  },
+  {
+    "broad_class": "skill",
+    "id": "w5i4dh2uc2",
+    "key": "prince2",
+    "label": "PRINCE2",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "c4wv6yb2o3",
+    "key": "principles-for-responsible-banking",
+    "label": "Principles for Responsible Banking",
+    "onet_codes": [],
+    "original_kind": "standard"
+  },
+  {
+    "broad_class": "skill",
+    "id": "zbpnwo0rf3",
+    "key": "print-design",
+    "label": "Print design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "qx1zxjygen",
+    "key": "printed-circuit-board-design",
+    "label": "Printed circuit board design",
+    "onet_codes": [],
+    "original_kind": "skill"
+  },
+  {
+    "broad_class": "skill",
+    "id": "m8mcxzuysb",
+    "key": "privacy-impact-assessment",
+    "label": "Privacy impact assessment",
+    "onet_codes": [],
+    "original_kind": "method"
+  },
+  {
+    "broad_class": "skill",
+    "id": "mf5p7pdwkr",
+    "key": "privileged-access-management",
+    "label": "Privileged access management",
+    "onet_codes": [],
+    "original_kind": "skill"
+  }
+]

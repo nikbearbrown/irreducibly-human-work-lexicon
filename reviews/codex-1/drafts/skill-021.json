@@ -1,0 +1,242 @@
+[
+  {
+    "id": "smwy22dx57",
+    "definition": "An informal term for a group of infrastructure products from HashiCorp used together to provision, secure, network, or run services.",
+    "example": "An infrastructure team combines infrastructure provisioning and secrets management tools in a deployment workflow.",
+    "sense_note": "The exact products included vary with the organization."
+  },
+  {
+    "id": "mtbd4a36vn",
+    "definition": "A preventive food safety method that identifies hazards and specifies control points, limits, monitoring, and corrective actions.",
+    "example": "A food producer monitors a documented critical control point and records corrective actions when limits are exceeded.",
+    "sense_note": null
+  },
+  {
+    "id": "zuku9j3qd4",
+    "definition": "Preventing the spread of hazardous substances and coordinating their control through authorized response procedures.",
+    "example": "A trained response team isolates an affected area and coordinates specialist cleanup.",
+    "sense_note": "Non-operational safety scope."
+  },
+  {
+    "id": "bju3alutyw",
+    "definition": "Moving, storing, and using hazardous substances in accordance with their classifications and applicable safety procedures.",
+    "example": "A facility checks storage compatibility and labeling before accepting a chemical shipment.",
+    "sense_note": null
+  },
+  {
+    "id": "yb8cjb9wd7",
+    "definition": "U.S. healthcare program regulations historically associated with the Health Care Financing Administration.",
+    "example": "A policy reviewer consults a historical rule to interpret an older Medicare contract.",
+    "sense_note": "HCFA was renamed CMS; identify the particular regulation, program, and date."
+  },
+  {
+    "id": "grx06hnuln",
+    "definition": "A wearable screen or optical device that presents images in front of a user's eyes.",
+    "example": "A training system displays a virtual environment through a headset worn by a participant.",
+    "sense_note": null
+  },
+  {
+    "id": "q457alm8re",
+    "definition": "Supporting people in setting and following their own goals for health-related habits and well-being.",
+    "example": "A coach helps a client set a manageable walking goal and review their progress.",
+    "sense_note": null
+  },
+  {
+    "id": "bunjyl41ub",
+    "definition": "A standardized set of performance measures used to assess healthcare quality and health plan performance.",
+    "example": "A health plan reports an eligible preventive screening measure using HEDIS specifications.",
+    "sense_note": null
+  },
+  {
+    "id": "qrqmsx9knd",
+    "definition": "Planning the location, capacity, layout, and services of healthcare facilities to meet operational and patient needs.",
+    "example": "A planning team estimates how many examination rooms a new clinic requires.",
+    "sense_note": null
+  },
+  {
+    "id": "rvfmi2kur5",
+    "definition": "Setting priorities, objectives, and resource plans for a healthcare organization or initiative.",
+    "example": "A hospital compares service demand and capacity before deciding where to expand.",
+    "sense_note": null
+  },
+  {
+    "id": "k6w66bhwgk",
+    "definition": "Software used to configure, adjust, or assess the operation of hearing aids.",
+    "example": "An audiologist uses fitting software to tailor amplification to the wearer's hearing assessment.",
+    "sense_note": null
+  },
+  {
+    "id": "c4tsd6o757",
+    "definition": "Shaping a piece of wood by applying heat and bending it to a form.",
+    "example": "A furniture maker produces a curved wooden component for a chair.",
+    "sense_note": null
+  },
+  {
+    "id": "koz9wi45dg",
+    "definition": "A visualization method that maps values to colors over a matrix, surface, or set of locations.",
+    "example": "An analyst colors each matrix cell based on a measured error rate.",
+    "sense_note": null
+  },
+  {
+    "id": "k9f0ahmyf1",
+    "definition": "Operating large powered machinery safely and effectively for work such as construction, extraction, or material movement.",
+    "example": "A trained operator uses an excavator to move material within an approved work zone.",
+    "sense_note": null
+  },
+  {
+    "id": "od5cjk5y0z",
+    "definition": "Driving or maneuvering vehicles with substantial size or weight while accounting for load, clearance, and stopping distance.",
+    "example": "A licensed commercial driver plans a route with adequate clearance for a loaded truck.",
+    "sense_note": null
+  },
+  {
+    "id": "t9z644dgwl",
+    "definition": "An open-source web crawler designed to collect web content for preservation and archival use.",
+    "example": "An archive uses Heritrix to preserve a public website within an approved collection scope.",
+    "sense_note": null
+  },
+  {
+    "id": "xuxkxuxr31",
+    "definition": "A named restriction enzyme that recognizes particular DNA sequences and cuts double-stranded DNA.",
+    "example": null,
+    "sense_note": "Non-operational description; distinguish from other restriction enzymes without supplying recognition or cleavage details."
+  },
+  {
+    "id": "vnscngwlz2",
+    "definition": "A named restriction enzyme that recognizes particular DNA sequences and cuts double-stranded DNA.",
+    "example": null,
+    "sense_note": "Non-operational description; distinguish from other restriction enzymes without supplying recognition or cleavage details."
+  },
+  {
+    "id": "s4bpj19zk2",
+    "definition": "A monitored decoy resource used to detect or study potentially unauthorized activity in a controlled setting.",
+    "example": "A security team records unexpected interactions with an authorized decoy system.",
+    "sense_note": null
+  },
+  {
+    "id": "ttp0mxfqt6",
+    "definition": "A social media management platform for publishing, monitoring, and reporting across accounts.",
+    "example": "A communications team schedules approved posts for several channels from one interface.",
+    "sense_note": null
+  },
+  {
+    "id": "cthvqlw1wn",
+    "definition": "A system historically used by the U.S. Department of Defense to manage and monitor security controls on host computers.",
+    "example": null,
+    "sense_note": "Confirm the program generation and distinguish it from successor endpoint security systems."
+  },
+  {
+    "id": "t1845bgn6q",
+    "definition": "Managing hospitality operations across lodging and food service, including staffing, service quality, and financial performance.",
+    "example": "A manager coordinates hotel occupancy plans with restaurant staffing for a convention.",
+    "sense_note": null
+  },
+  {
+    "id": "ws2h68hqic",
+    "definition": "Managing lodging operations such as reservations, reception, housekeeping, staffing, and guest service.",
+    "example": "A hotel manager adjusts staffing to meet expected occupancy.",
+    "sense_note": null
+  },
+  {
+    "id": "lak4led9d2",
+    "definition": "A historical web browser from Sun Microsystems written in Java.",
+    "example": "A computing historian examines how HotJava presented web pages in its period.",
+    "sense_note": null
+  },
+  {
+    "id": "o1g3zmzf6u",
+    "definition": "A family of Hewlett-Packard minicomputers used for computing and industrial or instrumentation applications.",
+    "example": "A computing museum demonstrates an archived program on an HP 2100 system.",
+    "sense_note": null
+  },
+  {
+    "id": "r0cny7viij",
+    "definition": "A Hewlett-Packard desktop computer model designed for technical computing and color graphics.",
+    "example": "A computing museum demonstrates technical plots on a preserved HP 9845C.",
+    "sense_note": null
+  },
+  {
+    "id": "g4a4masi9q",
+    "definition": "An application lifecycle management product for connecting requirements, testing, defects, and release quality records.",
+    "example": "A quality team links a software defect and its regression test to the underlying requirement.",
+    "sense_note": "Historical HP branding; confirm current product ownership and edition when relevant."
+  },
+  {
+    "id": "hcml31qh2e",
+    "definition": "A historical family of Hewlett-Packard desktop computers marketed for small businesses.",
+    "example": "An IT archivist identifies a recovered HP Brio as a business desktop.",
+    "sense_note": null
+  },
+  {
+    "id": "zyqf784ulv",
+    "definition": "A historical Hewlett-Packard product family of handheld and pocket computers.",
+    "example": "A collector demonstrates the organizer applications on an HP Jornada handheld.",
+    "sense_note": null
+  },
+  {
+    "id": "crh50e9tbb",
+    "definition": "A historical Hewlett-Packard graphical software environment built for personal computers running Windows.",
+    "example": "A computing historian examines NewWave's object-oriented desktop concepts.",
+    "sense_note": null
+  },
+  {
+    "id": "qmao9he0d4",
+    "definition": "A software test management product used to organize requirements, test runs, and defects.",
+    "example": "A test lead records regression results and links failed cases to defects.",
+    "sense_note": "Confirm the applicable Quality Center or ALM edition and historical branding."
+  },
+  {
+    "id": "yd5xjcus2y",
+    "definition": "A Hewlett-Packard management application for discovering, monitoring, and administering supported server infrastructure.",
+    "example": "An operator reviews alerts and inventory for supported servers in a managed environment.",
+    "sense_note": null
+  },
+  {
+    "id": "hbexkw6o3t",
+    "definition": "A historical automated functional testing tool that recorded and replayed interactions with graphical applications.",
+    "example": "A QA team used WinRunner to regression-test a data-entry screen.",
+    "sense_note": null
+  },
+  {
+    "id": "ipnoi8cnbl",
+    "definition": "Using workforce data to assess patterns, evaluate human resources programs, and support personnel decisions.",
+    "example": "An analyst examines retention rates across cohorts to assess an onboarding program.",
+    "sense_note": null
+  },
+  {
+    "id": "xiupcoba2m",
+    "definition": "Creating email content using HTML and email-compatible layout, styling, and accessibility practices.",
+    "example": "A communications team builds an invitation and checks that it renders in several email clients.",
+    "sense_note": null
+  },
+  {
+    "id": "jy5t5pwupo",
+    "definition": "Applying appropriate HTML elements and markup to structure content for web presentation and interpretation.",
+    "example": "An author uses semantic headings and lists to organize a help page.",
+    "sense_note": null
+  },
+  {
+    "id": "ik4b9tuy5x",
+    "definition": "A JavaScript compatibility library that enabled early versions of Internet Explorer to recognize and style HTML5 elements.",
+    "example": "A historical website includes html5shiv so old browsers can display the new section elements.",
+    "sense_note": null
+  },
+  {
+    "id": "eoyz2rkeok",
+    "definition": "A customer relationship management platform for organizing contacts, companies, deals, and interactions.",
+    "example": "A sales team tracks opportunities and follow-up tasks in a shared CRM.",
+    "sense_note": null
+  },
+  {
+    "id": "seav9a4lez",
+    "definition": "Connecting human capital management systems with related applications or data flows.",
+    "example": "An integration specialist synchronizes employee record changes between HR and payroll systems.",
+    "sense_note": null
+  },
+  {
+    "id": "xue2oxixc6",
+    "definition": "Designing systems around human capabilities and limitations to improve usability, safety, and performance.",
+    "example": "An engineer evaluates whether operators can read and interpret emergency controls quickly and reliably.",
+    "sense_note": null
+  }
+]

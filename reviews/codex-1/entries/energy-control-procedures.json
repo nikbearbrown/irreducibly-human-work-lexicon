@@ -1,0 +1,20 @@
+{
+  "batch": "skill-016.json",
+  "broad_class": "skill",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Workplace procedures for controlling hazardous energy before and during servicing or maintenance.",
+  "entry_text": "Workplace procedures for controlling hazardous energy before and during servicing or maintenance.",
+  "entry_text_kind": "definition",
+  "example": "A maintenance lead verifies that equipment is safely isolated before work begins.",
+  "id": "x6ouzz71v2",
+  "key": "energy-control-procedures",
+  "label": "Energy control procedures",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "method",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}

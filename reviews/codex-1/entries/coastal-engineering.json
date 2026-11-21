@@ -1,0 +1,20 @@
+{
+  "batch": "knowledge-003.json",
+  "broad_class": "knowledge",
+  "canonical_snapshot": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "definition": "Coastal engineering studies and designs interventions for waves, currents, sediment transport, erosion, and flooding along shores.",
+  "entry_text": "Coastal engineering studies and designs interventions for waves, currents, sediment transport, erosion, and flooding along shores.",
+  "entry_text_kind": "definition",
+  "example": "An engineer models how a proposed breakwater might change beach erosion and harbor wave conditions.",
+  "id": "ag7qptfyr6",
+  "key": "coastal-engineering",
+  "label": "Coastal engineering",
+  "onet_codes": [],
+  "origin": "codex-1-independent-draft",
+  "original_kind": "knowledge",
+  "review_status": "not-human-reviewed",
+  "run": "Codex 1",
+  "sense_note": null,
+  "sources": [],
+  "verification": "draft-unchecked"
+}
