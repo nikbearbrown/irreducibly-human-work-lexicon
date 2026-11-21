@@ -197,3 +197,7 @@ Tests live in `tests/`: lexicon, pipeline, provenance, schema, descriptions, and
 ## Sources and licensing
 
 Original code and original repository material are under [MIT](LICENSE), copyright Humanitarians AI Incorporated. O*NET-derived data is **CC BY 4.0** with [third-party attribution](THIRD-PARTY-NOTICES.md). Wikipedia-adapted `description` text is **CC BY-SA 4.0**, with attribution and a revision permalink stored on each description; it is not relicensed as MIT. Source-specific terms remain relevant when reusing or integrating data. See [source policy](docs/SOURCES.md).
+
+## Papers
+
+- [Skills Lexicon: An auditable vocabulary for matching skills across job postings and curricula](Papers/skills-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md) (rough draft; [editable Word version](Papers/skills-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/skills-lexicon-paper-draft.docx)). The paper audits a pinned repository snapshot, presents the SEIS syllabus case study, and proposes an evaluation.
