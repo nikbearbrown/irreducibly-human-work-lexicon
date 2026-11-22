@@ -1,0 +1,136 @@
+{
+    "plotting_plan": [
+        {
+            "figure_id": "fig_audit_counts",
+            "title": "Inventory, review status, and qualifying claim backing",
+            "plot_type": "plot",
+            "data_source": "experimental_log.md",
+            "objective": "Horizontal bars or three separate panels. Inventory uses n=3,754 concept records across five classes, review status uses the same 3,754 concepts, claim backing uses n=17,229 claims. Note no records are independently reviewed and no claims backed by a human check. Neither plot estimates correctness or prevalence.",
+            "aspect_ratio": "16:9"
+        },
+        {
+            "figure_id": "fig_mention_concept_evidence",
+            "title": "From source mention to independently reviewable claim",
+            "plot_type": "diagram",
+            "data_source": "both",
+            "objective": "Separate source mention and match context, canonical record, and field-linked evidence/status. Illustrate Postgres and context-bound PG with synthetic usage. Show proposed duty-level facets as a detached research extension, not an implemented or validated field.",
+            "aspect_ratio": "16:9"
+        }
+    ],
+    "intro_related_work_plan": {
+        "introduction_strategy": {
+            "hook_hypothesis": "Equivalent capabilities can have different surface forms; similar forms can refer to different concepts.",
+            "problem_gap_hypothesis": "Distinguish source occurrence, lexical alignment, and evidence supporting the record-level claim. Do not claim an empirical gap unless established in prior work.",
+            "search_directions": [
+                "Official O*NET and ESCO resource definitions and documentation",
+                "Primary papers on skill span extraction, ontology linking, and emerging skill discovery; distinguish tasks and baselines",
+                "W3C provenance standards, without claim of conformance"
+            ]
+        },
+        "related_work_strategy": {
+            "overview": "Compare occupational resources, task/skill extraction and entity linking, and evidence provenance. Reference only checked sources and claims.",
+            "subsections": [
+                {
+                    "subsection_title": "Occupational resources",
+                    "methodology_cluster": "O*NET and ESCO",
+                    "sota_investigation_mission": "Identify their scope, categories and published ratings.",
+                    "limitation_hypothesis": "Published ratings are not measurements of an individual or capabilities' irreducibility.",
+                    "limitation_search_queries": [
+                        "O*NET database abilities importance level incumbent rating",
+                        "ESCO skills and occupations links documentation"
+                    ],
+                    "bridge_to_our_method": "Use pinned imported definitions; label other proposals and status separately."
+                },
+                {
+                    "subsection_title": "Extraction and alignment",
+                    "methodology_cluster": "span detection, entity linking and candidate nomination",
+                    "sota_investigation_mission": "Locate original SkillSpan, skill entity linking, and emerging skill discovery papers.",
+                    "limitation_hypothesis": "Span evidence does not establish equivalence or competence.",
+                    "limitation_search_queries": [
+                        "SkillSpan ACL job postings",
+                        "skill entity linking ESCO Zhang fine grained"
+                    ],
+                    "bridge_to_our_method": "Scope novel contribution to an inspectable review artifact; without asserting superiority."
+                }
+            ]
+        }
+    },
+    "section_plan": [
+        {
+            "section_title": "Abstract",
+            "subsections": [
+                {
+                    "subsection_title": "Abstract Content",
+                    "content_bullets": [
+                        "Describe an auditable lexical resource and pinned snapshot; distinguish qualifying evidence from human review.",
+                        "Report verified aggregate counts only and avoid describing proposed duty facets as measured or implemented."
+                    ],
+                    "citation_hints": []
+                }
+            ]
+        },
+        {
+            "section_title": "3. Methodology",
+            "subsections": [
+                {
+                    "subsection_title": "3.1 Representation and evidence rules",
+                    "content_bullets": [
+                        "Define canonical record and stable ID, contextual form, explicit typed relation, field-level qualifying backing and statuses. Distinguish claim and concept denominators.",
+                        "Show Figure fig_mention_concept_evidence; use original labels or synthetic duty text, not raw corpus."
+                    ],
+                    "citation_hints": [
+                        "Repository schema and O*NET content model"
+                    ]
+                },
+                {
+                    "subsection_title": "3.2 Snapshot and syllabus case study",
+                    "content_bullets": [
+                        "Pin repository SHA and both counting routines; state scope of provisional syllabus materials and definitions of documents, retained records and observations.",
+                        "Keep planned practice separate from skill mastery and report unavailable evidence or conflicting metadata."
+                    ],
+                    "citation_hints": [
+                        "Repository snapshot; Northeastern Dynamic Schedule"
+                    ]
+                }
+            ]
+        },
+        {
+            "section_title": "4. Evaluation",
+            "subsections": [
+                {
+                    "subsection_title": "4.1 Descriptive audit",
+                    "content_bullets": [
+                        "Present audited n=3,754 concepts, zero reviewed and 1,455 of 17,229 claims backed; make percentages/denominator visually distinct.",
+                        "Report syllabus walkthrough as separate model-assisted descriptive exercise with no independent rerun; 43 documents, 38 yielding observations, 22 topics, 334 observations."
+                    ],
+                    "citation_hints": [
+                        "Repository recount script"
+                    ]
+                },
+                {
+                    "subsection_title": "4.2 Proposed validation",
+                    "content_bullets": [
+                        "Compare exact/normalized forms and contextual matching; sample clearly positive, ambiguous, negative and unseen-concept examples across sources, grouping by concept and source to avoid leakage.",
+                        "Specify held-out manual span and label decisions, independently blinded raters, adjudication, abstention, coverage, stratified precision/recall and interval plan. Separately propose non-exclusive facets for duty-level evidence, not occupational labels."
+                    ],
+                    "citation_hints": [
+                        "Primary skill extraction and linking evaluation papers"
+                    ]
+                }
+            ]
+        },
+        {
+            "section_title": "5. Conclusion",
+            "subsections": [
+                {
+                    "subsection_title": "Conclusion Content",
+                    "content_bullets": [
+                        "Summarize which vocabulary decisions and evidence can be examined now.",
+                        "Invite checks on high-ambiguity aliases and design of validation. No claim of labor-market prevalence or model-versus-human capacity."
+                    ],
+                    "citation_hints": []
+                }
+            ]
+        }
+    ]
+}

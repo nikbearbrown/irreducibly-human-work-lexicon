@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="556" viewBox="0 0 1040 556" role="img" aria-labelledby="title desc">
+<title id="title">Canonical concepts and claim backing</title><desc id="desc">Five concept class counts, then one bar for qualifying evidence across assertions. No entry was independently reviewed.</desc>
+<rect width="1040" height="556" fill="#fff"/>
+<g font-family="Arial, sans-serif" fill="#202a37">
+<text x="34" y="48" font-size="33" fill="#202a37" font-weight="700">Inventory and evidence use different denominators</text>
+<text x="34" y="100" font-size="25" fill="#202a37" font-weight="700">A. Canonical concepts (n = 3,754)</text>
+<text x="34" y="146" font-size="21" fill="#202a37" font-weight="400">Skills</text>
+<rect x="210" y="123" width="492.03" height="28" rx="5" fill="#226680" stroke="none"/>
+<text x="717.03" y="145" font-size="20" fill="#202a37" font-weight="700">1,988</text>
+<text x="34" y="187" font-size="21" fill="#202a37" font-weight="400">Credentials</text>
+<rect x="210" y="164" width="212.6" height="28" rx="5" fill="#226680" stroke="none"/>
+<text x="437.6" y="186" font-size="20" fill="#202a37" font-weight="700">859</text>
+<text x="34" y="228" font-size="21" fill="#202a37" font-weight="400">Knowledge</text>
+<rect x="210" y="205" width="136.12" height="28" rx="5" fill="#226680" stroke="none"/>
+<text x="361.12" y="227" font-size="20" fill="#202a37" font-weight="700">550</text>
+<text x="34" y="269" font-size="21" fill="#202a37" font-weight="400">Languages</text>
+<rect x="210" y="246" width="71.77" height="28" rx="5" fill="#226680" stroke="none"/>
+<text x="296.77" y="268" font-size="20" fill="#202a37" font-weight="700">290</text>
+<text x="34" y="310" font-size="21" fill="#202a37" font-weight="400">Abilities</text>
+<rect x="210" y="287" width="16.58" height="28" rx="5" fill="#226680" stroke="none"/>
+<text x="241.58" y="309" font-size="20" fill="#202a37" font-weight="700">67</text>
+<text x="34" y="378" font-size="25" fill="#202a37" font-weight="700">B. Recorded assertions (n = 17,229)</text>
+<rect x="34" y="400" width="968" height="36" rx="5" fill="#dbe2e6" stroke="none"/>
+<rect x="34" y="400" width="81.75" height="36" rx="5" fill="#226680" stroke="none"/>
+<text x="34" y="476" font-size="23" fill="#202a37" font-weight="700">Backed: 1,455 (8.45%)</text>
+<text x="471" y="476" font-size="23" fill="#202a37" font-weight="400">Not backed under the rule: 15,774</text>
+<text x="34" y="523" font-size="22" fill="#202a37" font-weight="400">0 independently reviewed entries; no human-backed assertions.</text></g></svg>

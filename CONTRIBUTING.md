@@ -13,6 +13,8 @@ We welcome contributors from education, workforce research, software, and the tr
 
 For manuscript contributions, please open an issue first if you plan a substantial rewrite or evaluation. The paper is a rough draft, and a GitHub contribution does not by itself determine authorship.
 
+You can share this [copyable contributor invitation](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/contributor-invitation-email.txt) with someone who might want to help.
+
 ## Make a focused pull request
 
 1. Edit one entry or a small related set under `entries/`. Follow the [entry format](docs/ENTRY-FORMAT.md) and [schema and evidence rules](docs/SCHEMAS.md).

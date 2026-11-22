@@ -1,0 +1,21 @@
+Subject: Help build the Irreducibly Human Work Lexicon
+
+Hi everyone,
+
+I’m working on the Irreducibly Human Work Lexicon, an open vocabulary for connecting the language of job postings and course syllabi. For example, Postgres and PostgreSQL can name the same tool, but a course mentioning that tool tells us something different from an employer asking for it. The paper shows how we can keep the evidence behind those decisions open to review.
+
+The rough draft audits 3,754 entries and outlines how we could test whether the lexicon makes matching and review more reliable. I’d like to hear from people who can check entries in their field, find misleading matches, or help design that evaluation. One concrete example is a useful contribution.
+
+Read the rough draft:
+https://github.com/nikbearbrown/irreducibly-human-work-lexicon/blob/main/Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md
+
+Browse the GitHub repository:
+https://github.com/nikbearbrown/irreducibly-human-work-lexicon
+
+See how to contribute:
+https://github.com/nikbearbrown/irreducibly-human-work-lexicon/blob/main/CONTRIBUTING.md
+
+If you’re interested, reply with what you’d like to work on, or open an issue in the repo.
+
+Best,
+Nik Bear Brown
