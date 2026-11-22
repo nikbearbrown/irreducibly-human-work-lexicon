@@ -6,6 +6,10 @@ The Irreducibly Human Work Lexicon is an open dictionary and developing ontology
 
 The project is led by **Nik Bear Brown**. Repository copyright: **Humanitarians AI Incorporated**.
 
+## Contribute
+
+Help us verify an entry, add evidence from your field, or critique the paper and its proposed evaluation. Start with the [contributor guide](CONTRIBUTING.md) or read the [rough manuscript](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). No collaborator access is needed to open an issue.
+
 ## Current inventory at a glance
 
 **Recounted on November 14, 2026, from `main` at [`82498e3`](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/commit/82498e33f014ad0a138d242aba12312a9bfeef10).** These are inventory counts, not counts of human-reviewed concepts or labor-market demand. Work on separate branches is listed below and is excluded from these totals.
