@@ -1,0 +1,22 @@
+dataset_ref	version	licence	files	columns
+adityamalguri/shine-it-jobs-dataset-for-practicing-eda	1	Apache 2.0	Shine.csv	skills
+arnabk123/data-science-data-analyst-and-ml-jobs-from-indeed	1	CC0: Public Domain	Data Analyst jobs (Indeed).csv|Data Science jobs (Indeed).csv|ML Engineer jobs (Indeed).csv	skills required
+arturszledak/data-science-job-listings-from-pracuj-pl	5	CC0: Public Domain	jobs_pracujpl.csv	skills
+asaniczka/1-3m-linkedin-jobs-and-skills-2024	2	ODC Attribution License (ODC-By)	job_skills.csv|job_summary.csv	job_skills|job_summary
+asaniczka/data-science-job-postings-and-skills	2	ODC Attribution License (ODC-By)	job_skills.csv	job_skills
+austinnguyen00/data-jobs-in-australia	3	CC0: Public Domain	Data_Jobs_in_Australia_cleaned.csv	Skills
+debojitbasak02/data-science-job-in-wuzzuf	1	CC0: Public Domain	data_science_jobs_in_wuzzuf.csv	industry_and_skills
+dev122/internshala-jobs-dataset	1	CC0: Public Domain	JobData.csv	Description|Skills
+emreksz/data-scientist-job-roles-in-uk	1	Apache 2.0	Cleaned_Dataset.csv	Skills
+jayaantanaath/internship-opportunities-in-india-2025	1	MIT	merged_internships_dataset.csv	Skills
+koti4878m/naukari	1	CC0: Public Domain	naukari.csv	key_skills
+kyryllebed/uk-job-postings-in-data-sector	1	CC0: Public Domain	UKJobPostings.csv	full_description|skills_list
+lukebarousse/data-analyst-job-postings-google-search	744	Apache 2.0	gsearch_jobs.csv	description_tokens
+maminkheneifar/jobinja-job-listings-26k	1	CC0: Public Domain	Jobinja - Processed.csv	Job Description|Skills
+meerawks/it-skills-from-jobs	1	Apache 2.0	JobsDatasetProcessed.csv	Description|IT Skills
+mohityd2007/real-world-job-postings-dataset-for-ml-projects	1	Attribution 4.0 International (CC BY 4.0)	jobs_data.csv	Job Description|Skills Required
+priyankamalavade/naukri-jobs-details	1	MIT	naukri_data_analyst_jobs.csv	Description|Skills
+promptcloud/jobs-on-naukricom	1	CC0: Public Domain	home/sdf/marketing_sample_for_naukri_com-jobs__20190701_20190830__30k_data.csv	Key Skills
+q1n9huan/global-job-market-postings-dataset	1	CC0: Public Domain	foreign_jobs.release_candidate_v14_enriched.kaggle.csv	description|skills
+scrapifier/indeed-usa-job-postings	1	CC0: Public Domain	indeed_usa_job_postings.csv	description|skills
+vitthnhnguyn138/vietnam-it-job-posts	1	MIT	vietnam_it_job_posts.csv	requirements|skills

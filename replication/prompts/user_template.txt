@@ -1,0 +1,19 @@
+Concept record:
+{concept_json}
+
+lexicon_neighbors (existing concepts you may use as relation targets):
+{neighbors_json}
+
+Usage examples from postings and syllabi:
+{examples_json}
+
+Wikipedia candidates (each with revision_id and plain text):
+{wikipedia_json}
+
+Wikidata candidates and their ancestors (ancestor_of names the candidate each ancestor belongs to):
+{wikidata_json}
+
+WordNet senses for the concept's name and variants:
+{wordnet_json}
+
+Draft the entry for this concept. Return the JSON object only.
