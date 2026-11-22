@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/nikbearbrown/skills-lexicon/schemas/evidence.schema.json",
-  "title": "One evidence record on a skills-lexicon entry (v0 draft)",
+  "$id": "https://github.com/nikbearbrown/irreducibly-human-work-lexicon/schemas/evidence.schema.json",
+  "title": "One evidence record on an Irreducibly Human Work Lexicon entry (v0 draft)",
   "$comment": "Evidence attaches to one claim of one entry. A pass that runs elsewhere (a search, a page read, a Wikipedia dump on a cluster) hands back records of this shape, keyed by the entry's id. Rules that need the whole entry (every claim of a machine-drafted entry has a drafted record; a reviewed entry has a backing record for every claim) are checked by tools/lexicon.py, not here.",
   "type": "object",
   "additionalProperties": false,

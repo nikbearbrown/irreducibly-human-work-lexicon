@@ -1,4 +1,4 @@
-**Skills Lexicon**
+**Irreducibly Human Work Lexicon**
 
 *An auditable vocabulary for matching skills across job postings and curricula*
 
@@ -6,7 +6,7 @@
 
 **Abstract**
 
-Job postings and course syllabi can refer to the same capability with different words, or use the same words for different concepts. A normalization system must decide which labels identify the same concept without treating every source mention as proof of a skill or its prevalence. We describe Skills Lexicon, an open vocabulary that separates stable concept identifiers, surface forms, and claim-level provenance. We audited a pinned GitHub snapshot and examined a separate syllabus-mining exercise as an example of how new evidence can enter the review process. The snapshot contained 3,754 concepts, including 1,988 in the broad skill class, and 17,229 individual assertions. Of those assertions, 1,455 (8.45%) met the repository’s backing rule; no entry had reached independently reviewed status. In the syllabus exercise, 43 available documents across 22 course topics yielded 334 page-located observations. These supported drafts for 32 concepts and supplied additional evidence for 16 existing concepts. The provisional syllabus additions were not merged. The audit establishes what the resource represents and what evidence a reviewer can inspect. It does not establish extraction accuracy, market demand, or student proficiency.
+Job postings and course syllabi can refer to the same capability with different words, or use the same words for different concepts. A normalization system must decide which labels identify the same concept without treating every source mention as proof of a skill or its prevalence. We describe the Irreducibly Human Work Lexicon, an open vocabulary that separates stable concept identifiers, surface forms, and claim-level provenance. We audited a pinned GitHub snapshot and examined a separate syllabus-mining exercise as an example of how new evidence can enter the review process. The snapshot contained 3,754 concepts, including 1,988 in the broad skill class, and 17,229 individual assertions. Of those assertions, 1,455 (8.45%) met the repository’s backing rule; no entry had reached independently reviewed status. In the syllabus exercise, 43 available documents across 22 course topics yielded 334 page-located observations. These supported drafts for 32 concepts and supplied additional evidence for 16 existing concepts. The provisional syllabus additions were not merged. The audit establishes what the resource represents and what evidence a reviewer can inspect. It does not establish extraction accuracy, market demand, or student proficiency.
 
 **Introduction**
 
@@ -75,7 +75,7 @@ Compare normalized exact matching, alias-and-context matching, and a policy that
 
 **Conclusion**
 
-Skills Lexicon provides a versioned vocabulary and a record of why particular assertions were proposed or supported. The audit identifies a sizeable review queue and shows how syllabi can expand it without being mistaken for evidence of skill attainment or employer demand. The next step is a held-out evaluation that tests whether these distinctions improve decisions about concept identity.
+The Irreducibly Human Work Lexicon provides a versioned vocabulary and a record of why particular assertions were proposed or supported. The audit identifies a sizeable review queue and shows how syllabi can expand it without being mistaken for evidence of skill attainment or employer demand. The next step is a held-out evaluation that tests whether these distinctions improve decisions about concept identity.
 
 **Data and Reproducibility**
 
@@ -95,11 +95,11 @@ The public repository, audited commit, and inventory script are listed in the re
 
 [6] Lebo, T., Sahoo, S., and McGuinness, D., eds. 2013. PROV-O: The PROV Ontology. W3C Recommendation, 30 April. [Source](https://www.w3.org/TR/2013/REC-prov-o-20130430/)
 
-[7] Skills Lexicon. Repository snapshot 0ed105b51e7f2a1837f51c4379afa50c27e00aed and inventory recount script. [Source](https://github.com/nikbearbrown/skills-lexicon/blob/0ed105b51e7f2a1837f51c4379afa50c27e00aed/scripts/summary_stats.py)
+[7] Irreducibly Human Work Lexicon (formerly Skills Lexicon). Repository snapshot 0ed105b51e7f2a1837f51c4379afa50c27e00aed and inventory recount script. [Source](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/blob/0ed105b51e7f2a1837f51c4379afa50c27e00aed/scripts/summary_stats.py)
 
 [8] Northeastern University. Public Dynamic Schedule and Newton syllabus archive, Spring and Fall 2026. [Source](https://bnrordsp.neu.edu/ssb-prod/NEUCLSS.p_disp_dyn_sched)
 
-[9] Skills Lexicon. Service Orientation concept record, pinned repository snapshot. [Source](https://github.com/nikbearbrown/skills-lexicon/blob/0ed105b51e7f2a1837f51c4379afa50c27e00aed/entries/service-orientation.json)
+[9] Irreducibly Human Work Lexicon (formerly Skills Lexicon). Service Orientation concept record, pinned repository snapshot. [Source](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/blob/0ed105b51e7f2a1837f51c4379afa50c27e00aed/entries/service-orientation.json)
 
 **Notes for the Next Revision**
 

@@ -9,13 +9,13 @@ The packets are on the `main` branch of the public repo.
 ## 1. The prompt (paste this)
 
 ```
-You are an independent reviewer for the open "skills lexicon", a dictionary of the things job listings ask for. A model drafted it from general knowledge and no source was checked, so some of it is wrong. I want your honest opinion on it, recorded under your name. Do not be agreeable. A wrong claim marked "supports" is worse than an honest "unsure", and finding the errors is the point.
+You are an independent reviewer for the open "Irreducibly Human Work Lexicon", a dictionary of the things job listings ask for. A model drafted it from general knowledge and no source was checked, so some of it is wrong. I want your honest opinion on it, recorded under your name. Do not be agreeable. A wrong claim marked "supports" is worse than an honest "unsure", and finding the errors is the point.
 
 WHERE TO GO
 
 The repo is public. Read it directly. Do not answer from memory of what it might contain.
-  https://github.com/nikbearbrown/skills-lexicon
-Everything you need is on the default branch, "main". A file's raw text is at https://raw.githubusercontent.com/nikbearbrown/skills-lexicon/main/<path>, for example .../main/reviews/skill/packets/p001.json
+  https://github.com/nikbearbrown/irreducibly-human-work-lexicon
+Everything you need is on the default branch, "main". A file's raw text is at https://raw.githubusercontent.com/nikbearbrown/irreducibly-human-work-lexicon/main/<path>, for example .../main/reviews/skill/packets/p001.json
 If you cannot open GitHub pages or raw files, say so and stop. Do not guess what is in them.
 
 Read these first, in this order:

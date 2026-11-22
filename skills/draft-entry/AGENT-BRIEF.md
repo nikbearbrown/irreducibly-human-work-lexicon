@@ -1,6 +1,6 @@
 # Brief for an agent drafting a round of tags
 
-You are drafting dictionary entries for the open skills lexicon (things job listings ask for: skills, abilities, certifications, languages). Work only in your own folder, the current directory (a private copy with no .git). Do not read or write anywhere else except `work/` here for scratch; do not run git or contact GitHub.
+You are drafting dictionary entries for the open Irreducibly Human Work Lexicon (things job listings ask for: skills, abilities, certifications, languages). Work only in your own folder, the current directory (a private copy with no .git). Do not read or write anywhere else except `work/` here for scratch; do not run git or contact GitHub.
 
 **Goal.** Answer the request files already in `work/requests/` (one per legacy tag) from your own knowledge, honestly. A script validates and saves your answers later; humans review every claim. A short entry with true claims beats a long one with doubtful ones. Do not run `make_requests.py`, `tags_to_candidates.py` or a real (non-dry) ingest.
 

@@ -164,7 +164,7 @@ def build(root, runs):
 def render_md(doc, names):
     b = doc["batch"]
     runs = doc.get("runs", {})
-    out = [f"# Skills lexicon batch {b['number']:03d}", "",
+    out = [f"# Irreducibly Human Work Lexicon batch {b['number']:03d}", "",
            f"Run `{b['run']}` · {b['date']} · " + (f"drafted by {', '.join(f'`{m}`' for m in b['models'])} · " if b['models'] else "imported from a source, not drafted by a model · ")
            + f"source `{b['source']}`", "",
            "**Generated from the JSON file beside this one. Do not edit it; correct `entries/<key>.json` instead.**", "",

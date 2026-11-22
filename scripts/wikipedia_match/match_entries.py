@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Stage 1: match skills-lexicon entries to English Wikipedia articles, read-only. Python 3.9.
+"""Stage 1: match Irreducibly Human Work Lexicon entries to English Wikipedia articles, read-only. Python 3.9.
 Usage: python3 -I match_entries.py --lexicon LEXICON_DIR --db DB_PATH --out OUT_DIR [--names "A,B,C"] [--limit N]
 Writes OUT_DIR/matches.jsonl (one line per entry), candidates.jsonl (one per Wikipedia page), summary.json.
 It never decides: it records every candidate page, how it matched, and flags that need a person."""

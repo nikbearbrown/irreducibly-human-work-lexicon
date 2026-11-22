@@ -7,7 +7,7 @@ Usage:
       --wordnet english-wordnet-2025.xml.gz [--cache DIR]
 
 CONCEPTS.tsv    one concept per line: id <tab> preferred_name <tab> variants separated by |
-LEXICON_REPO    a checkout of skills-lexicon (entries/, data/wikipedia-match/20261001/)
+LEXICON_REPO    a checkout of irreducibly-human-work-lexicon (entries/, data/wikipedia-match/20261001/)
 KAGGLE_DIR      <owner>/<dataset>/v<version>/dataset.zip for the allow-listed datasets
 OBS.jsonl       the Kaggle evidence branch's observations.jsonl (which rows mention which concept)
 
@@ -41,7 +41,7 @@ import urllib.request
 import zipfile
 
 csv.field_size_limit(sys.maxsize)
-UA = "skills-lexicon-pilot/0.1 (research vocabulary project; https://github.com/nikbearbrown/skills-lexicon)"
+UA = "irreducibly-human-work-lexicon-pilot/0.1 (research vocabulary project; https://github.com/nikbearbrown/irreducibly-human-work-lexicon)"
 PIDS = ("P31", "P279", "P361", "P527", "P460", "P1889")
 LANGUAGE_KINDS = {"programming-language", "markup-language", "style-language", "modeling-language", "human-language"}
 WN_MAP = {"hypernym": "hypernym", "hyponym": "hyponym", "mero_part": "part_meronym", "holo_part": "part_holonym",

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate Skills Lexicon draft entries for one batch of source bundles.
+"""Generate Irreducibly Human Work Lexicon draft entries for one batch of source bundles.
 
 Usage: python3 generate_drafts.py SYSTEM_PROMPT.txt USER_TEMPLATE.txt BUNDLES.jsonl DRAFTS.jsonl [--ungrounded] [--workers N]
 

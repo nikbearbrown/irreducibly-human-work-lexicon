@@ -1,6 +1,6 @@
 ---
 name: draft-entry
-description: Draft one skills-lexicon dictionary entry from a request file (a term seen in job postings, its quotes, and the nearest existing entries). Use when asked to answer a request in work/requests/.
+description: Draft one Irreducibly Human Work Lexicon dictionary entry from a request file (a term seen in job postings, its quotes, and the nearest existing entries). Use when asked to answer a request in work/requests/.
 ---
 
 ## The task

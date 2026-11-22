@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Match the software and technology names in an O*NET table to the skills lexicon. Python 3.9. Reads only.
+"""Match the software and technology names in an O*NET table to the Irreducibly Human Work Lexicon. Python 3.9. Reads only.
 
 Usage: python3 -I match_onet_tech.py --lexicon DIR --table FILE --release 31.0 --out OUTDIR [--show 30]
 The table is tab separated with a header: an occupation code column, an example (the technology's name), commodity code and title,

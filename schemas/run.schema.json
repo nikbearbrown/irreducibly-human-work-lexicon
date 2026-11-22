@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/nikbearbrown/skills-lexicon/schemas/run.schema.json",
+  "$id": "https://github.com/nikbearbrown/irreducibly-human-work-lexicon/schemas/run.schema.json",
   "title": "data/runs.json: which model, at which effort, made each run (v0 draft)",
   "$comment": "Evidence and votes name a run; this says who ran it. The operator, not the model, supplies these values.",
   "type": "object",

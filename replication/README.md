@@ -1,6 +1,6 @@
-# Replicating the Skills Lexicon drafting analysis
+# Replicating the Irreducibly Human Work Lexicon drafting analysis
 
-**Summary.** This folder has everything an agent needs to redo the Skills Lexicon entry-drafting analysis on its own, in parallel with other models, so the results can be compared side by side. Pick the way in below that fits what your agent can do, follow [INSTRUCTIONS.md](INSTRUCTIONS.md), and hand in one folder. Never look at another model's drafts, and never push your drafts to this repository.
+**Summary.** This folder has everything an agent needs to redo the Irreducibly Human Work Lexicon entry-drafting analysis on its own, in parallel with other models, so the results can be compared side by side. Pick the way in below that fits what your agent can do, follow [INSTRUCTIONS.md](INSTRUCTIONS.md), and hand in one folder. Never look at another model's drafts, and never push your drafts to this repository.
 
 The analysis: draft one WordNet-style entry for each of 36 lexicon concepts, twice. The grounded run gets the concept's source material (Wikipedia, Wikidata, WordNet, job-posting snippets). The ungrounded run gets the same material with Wikipedia, Wikidata and WordNet removed. Every claim in a draft must say whether a source states it or the model believes it, and the source claims are checked by script.
 

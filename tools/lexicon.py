@@ -1,4 +1,4 @@
-"""Skills lexicon: load entries, validate them, build the lookup index. Standard library only.
+"""Irreducibly Human Work Lexicon: load entries, validate them, build the lookup index. Standard library only.
 
     python3 -I tools/lexicon.py validate     # exit 1 on any error
     python3 -I tools/lexicon.py index        # writes build/index.json

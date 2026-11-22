@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify Skills Lexicon draft entries against their source bundles.
+"""Verify Irreducibly Human Work Lexicon draft entries against their source bundles.
 
 Usage: python3 verify_drafts.py BUNDLES.jsonl DRAFTS.jsonl REPORT.jsonl [--ungrounded]
 --ungrounded checks against the same bundles with wikipedia, wikidata and wordnet emptied,

@@ -2,7 +2,7 @@
 
     python3 -I scripts/compare_runs.py --a-root <dir> --a-run <label> --b-root <dir> --b-run <label> [--out report.md]
 
-Each root is a skills-lexicon folder; each run is the label the drafts were ingested under. Tags are matched by
+Each root is a lexicon checkout folder; each run is the label the drafts were ingested under. Tags are matched by
 their text. Compared exactly: the decision (new, variant of, not a skill, unsure), kind, certification,
 language_type, variants, relations and verbs. Definitions cannot be compared by a script, so they are shown
 side by side with a rough word-overlap score, and low scores are listed for a person.

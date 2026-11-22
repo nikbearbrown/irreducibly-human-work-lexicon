@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/nikbearbrown/skills-lexicon/schemas/certification.schema.json",
-  "title": "Certification fields of a skills-lexicon entry (v0 draft)",
+  "$id": "https://github.com/nikbearbrown/irreducibly-human-work-lexicon/schemas/certification.schema.json",
+  "title": "Certification fields of an Irreducibly Human Work Lexicon entry (v0 draft)",
   "$comment": "Describes only the certification-related slice of an entry. Other entry fields are allowed and are checked by tools/lexicon.py. v0: to be revised after the first 25 to 50 credentials are checked against sources.",
   "type": "object",
   "properties": {

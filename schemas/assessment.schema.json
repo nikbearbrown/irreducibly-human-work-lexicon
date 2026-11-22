@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/nikbearbrown/skills-lexicon/schemas/assessment.schema.json",
+  "$id": "https://github.com/nikbearbrown/irreducibly-human-work-lexicon/schemas/assessment.schema.json",
   "title": "One vote on one tag, a line of data/assessments.jsonl (v0 draft)",
   "$comment": "Asks whether a tag is something job listings ask for: a skill, an ability, a certification or a language. Any number of people and models can vote on one tag. A tag listed in a legacy list also counts as one yes, worked out from the lists and not stored here. A vote backs no claim; it shows who thinks what and where they disagree.",
   "type": "object",

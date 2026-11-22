@@ -1,6 +1,6 @@
 # Wikipedia match results, dump 20261001
 
-Output of matching skills-lexicon entries against English Wikipedia (dump date **20261001**). Produced on the Explorer cluster by `scripts/wikipedia_match/match_entries.py` and `scripts/wikipedia_match/categories_for_pages.py`.
+Output of matching Irreducibly Human Work Lexicon entries against English Wikipedia (dump date **20261001**). Produced on the Explorer cluster by `scripts/wikipedia_match/match_entries.py` and `scripts/wikipedia_match/categories_for_pages.py`.
 
 ## Files
 

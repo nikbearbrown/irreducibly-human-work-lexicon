@@ -1,4 +1,4 @@
-# Skills Lexicon: Source-Grounded Entry Generation
+# Irreducibly Human Work Lexicon: Source-Grounded Entry Generation
 
 This pipeline drafts WordNet-style entries for lexicon concepts from Wikipedia, Wikidata, WordNet, and your own posting and syllabus examples. Large source data stays on the cluster. Each batch pulls a small bundle down, generates and verifies drafts locally, and pushes the results back.
 
@@ -19,7 +19,7 @@ For each batch:
 
 The scripts read these from `prompts/system.txt` and `prompts/user_template.txt`. Change `PROMPT_VERSION` whenever you edit either file; the manifest also records a hash of both.
 
-System prompt:
+System prompt. It still calls the project Skills Lexicon, its name when the pilot ran; keep that wording, so every model's drafts come from the same prompt:
 
 ```text
 You draft entries for Skills Lexicon, an open vocabulary of skills, knowledge areas, abilities, languages, and credentials used to match job postings with course syllabi. You receive one concept and a bundle of source material. You return one JSON object.
@@ -163,9 +163,9 @@ python3 -c "import wn; wn.download('oewn:2024')"
 
 ```bash
 export CLUSTER_HOST="YOUR_USERNAME@YOUR_CLUSTER_LOGIN_HOST"
-export CLUSTER_DIR="/path/on/cluster/skills-lexicon"
-export LOCAL_DIR="$HOME/skills-lexicon-drafts"
-export LEXICON_REPO="$HOME/path/to/skills-lexicon"
+export CLUSTER_DIR="/path/on/cluster/irreducibly-human-work-lexicon"
+export LOCAL_DIR="$HOME/irreducibly-human-work-lexicon-drafts"
+export LEXICON_REPO="$HOME/path/to/irreducibly-human-work-lexicon"
 export LEXICON_MODEL="MODEL_ID_YOU_CHOOSE"
 export PROMPT_VERSION="gen-v1"
 export WIKIPEDIA_DUMP="enwiki-YYYYMMDD"

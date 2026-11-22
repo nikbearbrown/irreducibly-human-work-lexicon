@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/nikbearbrown/skills-lexicon/schemas/entry.schema.json",
-  "title": "A skills-lexicon entry: the data associated with one skill (v0 draft)",
+  "$id": "https://github.com/nikbearbrown/irreducibly-human-work-lexicon/schemas/entry.schema.json",
+  "title": "An Irreducibly Human Work Lexicon entry: the data associated with one concept (v0 draft)",
   "$comment": "The shape of entries/<key>.json. Shape only: cross-entry rules (unique ids, relation targets exist, no loops, shared labels need separating context, every claim has evidence) are checked by tools/lexicon.py validate.",
   "type": "object",
   "additionalProperties": false,

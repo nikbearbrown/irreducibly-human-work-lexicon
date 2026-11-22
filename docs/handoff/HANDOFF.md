@@ -1,4 +1,4 @@
-# Handoff: the Skills Lexicon project
+# Handoff: the Irreducibly Human Work Lexicon project
 
 Written 2026-11-07 for a Claude that has never seen this project. The previous Claude ran in a cloud session that has run out of credits. Everything it knew that matters is in this file and in the repository. Read this file first, then `README.md`, `docs/SCHEMAS.md`, `docs/CLASSES.md` and `docs/SOURCES.md`.
 
@@ -6,7 +6,7 @@ If you are Claude Code on Bear's Mac, you can reach the cluster (the previous Cl
 
 ## 1. What this is
 
-An open dictionary and evidence base of the things job listings ask for, owned by Bear Brown (Humanitarians AI Incorporated), MIT-licensed, public at https://github.com/nikbearbrown/skills-lexicon (default branch `main`, which is the working branch). Bear is writing a paper that uses it.
+An open dictionary and evidence base of the things job listings ask for, owned by Bear Brown (Humanitarians AI Incorporated), MIT-licensed, public at https://github.com/nikbearbrown/irreducibly-human-work-lexicon (default branch `main`, which is the working branch). Bear is writing a paper that uses it.
 
 Two layers, kept in one dataset:
 - **Lexicon layer**: names, variants, definitions and descriptions of concepts, like WordNet.

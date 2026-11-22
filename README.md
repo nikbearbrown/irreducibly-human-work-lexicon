@@ -1,12 +1,14 @@
-# Skills Lexicon
+# Irreducibly Human Work Lexicon
 
-Skills Lexicon is an open dictionary and developing ontology of the capabilities and qualifications employers ask for: **skills, knowledge, abilities, languages, and credentials**. Each concept has a canonical name, spelling variants and synonyms, a definition, and evidence about its classification and relationships. It supports consistent matching across job postings, resumes, and course tags—for example, resolving **Postgres** and **PostgreSQL** to one concept.
+**Renamed on November 22, 2026,** from Skills Lexicon. The lexicon covers knowledge, abilities, languages and credentials as well as skills, so the name now says work, not skills. The old address, github.com/nikbearbrown/skills-lexicon, redirects here.
+
+The Irreducibly Human Work Lexicon is an open dictionary and developing ontology of the capabilities and qualifications employers ask for: **skills, knowledge, abilities, languages, and credentials**. Each concept has a canonical name, spelling variants and synonyms, a definition, and evidence about its classification and relationships. It supports consistent matching across job postings, resumes, and course tags—for example, resolving **Postgres** and **PostgreSQL** to one concept.
 
 The project is led by **Nik Bear Brown**. Repository copyright: **Humanitarians AI Incorporated**.
 
 ## Current inventory at a glance
 
-**Recounted on November 14, 2026, from `main` at [`82498e3`](https://github.com/nikbearbrown/skills-lexicon/commit/82498e33f014ad0a138d242aba12312a9bfeef10).** These are inventory counts, not counts of human-reviewed concepts or labor-market demand. Work on separate branches is listed below and is excluded from these totals.
+**Recounted on November 14, 2026, from `main` at [`82498e3`](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/commit/82498e33f014ad0a138d242aba12312a9bfeef10).** These are inventory counts, not counts of human-reviewed concepts or labor-market demand. Work on separate branches is listed below and is excluded from these totals.
 
 | Class | Concepts | What is counted |
 |---|---:|---|
@@ -23,7 +25,7 @@ The older figure of 2,472 skills included the 518 knowledge concepts. Knowledge 
 
 **Since this recount (2026-11-17):** O*NET 30.2's **35 skills and 33 knowledge areas** were added the way the 52 abilities were, from the same database archive ([`onet-skills/`](onet-skills/README.md), [`onet-knowledge/`](onet-knowledge/README.md)). That made 66 new `proposed` entries and matched 2 existing ones (Service orientation, Mathematics), so main now has **3,754** concepts: 1,988 skills, 550 knowledge, 67 abilities, 290 languages and 859 credentials. 199 entries are `proposed`; of 17,229 claims, 1,455 are source-backed (238 by O*NET). The tables below are still the November 14 counts; `python3 -I scripts/summary_stats.py` gives the current ones, and reports the 66 new entries as not yet Wikipedia-matched.
 
-Read the [detailed state and terminology report](docs/SKILLS-LEXICON-REPORT.md) for definitions, limitations, job-title mapping, branch results, and priorities. The [machine-readable snapshot](docs/summary-stats-2026-11-14.json) and [recount script](scripts/summary_stats.py) make these numbers reproducible.
+Read the [detailed state and terminology report](docs/IRREDUCIBLY-HUMAN-WORK-LEXICON-REPORT.md) for definitions, limitations, job-title mapping, branch results, and priorities. The [machine-readable snapshot](docs/summary-stats-2026-11-14.json) and [recount script](scripts/summary_stats.py) make these numbers reproducible.
 
 ## What kinds of skills do we have?
 
@@ -61,7 +63,7 @@ These are the lexicon's current classifications, not a verified import of O*NET'
 
 ## Abilities and occupational ratings
 
-An **ability** is an underlying attribute that influences performance; a **skill** is a developed capacity to perform work; **knowledge** is understanding of facts and principles. These distinctions follow the project's O*NET-based approach. Abilities can develop, and a name alone does not establish a person's ability or competence. See [class definitions](docs/CLASSES.md) and the [report's explanation](docs/SKILLS-LEXICON-REPORT.md#skills-abilities-and-knowledge).
+An **ability** is an underlying attribute that influences performance; a **skill** is a developed capacity to perform work; **knowledge** is understanding of facts and principles. These distinctions follow the project's O*NET-based approach. Abilities can develop, and a name alone does not establish a person's ability or competence. See [class definitions](docs/CLASSES.md) and the [report's explanation](docs/IRREDUCIBLY-HUMAN-WORK-LEXICON-REPORT.md#skills-abilities-and-knowledge).
 
 | O*NET ability category | Definitions |
 |---|---:|
@@ -121,7 +123,7 @@ The **859 credential concepts** have 321 `single-issuer`, 522 `many-issuers`, an
 
 **Job-title synonym mapping is a separate, unfinished layer.** The repository has 1,016 O*NET occupation titles and a [job-title pilot script](scripts/cluster/title_pilot.py) that normalizes titles and proposes matches to supplied O*NET title tables. It returns `same`, `ambiguous`, or `none`; `same` means one candidate occupation code, not human-verified equivalence. No completed job-title alias mapping dataset is committed on `main`.
 
-The intended mapping is **raw job title → normalized title/alias → canonical occupation → associated capabilities**. Two titles can refer to the same occupation without being interchangeable in seniority, specialty, or duties. For example, an abbreviation can be an alias, while “Senior Software Engineer” carries seniority that must be retained. Occupations are not yet a class in `entries/`, and skill-to-occupation mappings are not a completed general-purpose service. See the [title-mapping analysis](docs/SKILLS-LEXICON-REPORT.md#job-title-synonyms-and-occupation-mapping).
+The intended mapping is **raw job title → normalized title/alias → canonical occupation → associated capabilities**. Two titles can refer to the same occupation without being interchangeable in seniority, specialty, or duties. For example, an abbreviation can be an alias, while “Senior Software Engineer” carries seniority that must be retained. Occupations are not yet a class in `entries/`, and skill-to-occupation mappings are not a completed general-purpose service. See the [title-mapping analysis](docs/IRREDUCIBLY-HUMAN-WORK-LEXICON-REPORT.md#job-title-synonyms-and-occupation-mapping).
 
 ## Evidence and review coverage
 
@@ -162,10 +164,10 @@ These results were inspected on November 14, 2026. They are **not included in th
 
 | Branch | Existing work |
 |---|---|
-| [`data/onet-hot-tech-entries-20261107`](https://github.com/nikbearbrown/skills-lexicon/tree/data/onet-hot-tech-entries-20261107) | 110 added draft entry files and 17 modified existing entries; commit describes 17 added variants. Its additional entries are not part of main's 3,688. |
-| [`data/onet-tech-match-20261101`](https://github.com/nikbearbrown/skills-lexicon/tree/data/onet-tech-match-20261101/data/onet-match) | O*NET 31.0: 8,753 technology names, with 193 exact matches, 426 containment hints, and 8,134 unmatched names. Also includes a separate 30.2 comparison. Unmatched names are not automatically missing concepts. |
-| [`data/job-fields-survey-20261102`](https://github.com/nikbearbrown/skills-lexicon/tree/data/job-fields-survey-20261102/data/job-fields-survey) | November 6 survey reports 3,325 archives; title-like columns in 978 datasets and structured skill-list columns in 203. Includes non-job datasets and false positives; this is a structural survey, not verified posting coverage. |
-| [`data/kaggle-occurrence-evidence-20261030`](https://github.com/nikbearbrown/skills-lexicon/tree/data/kaggle-occurrence-evidence-20261030/data/source-occurrences/kaggle-publication-2026-10-30) | 19,766 occurrence observations across 30 datasets, linked to 2,568 existing entries, plus 303 pending candidates. Records are not independent jobs; source terms and overlap need review before integration. |
+| [`data/onet-hot-tech-entries-20261107`](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/tree/data/onet-hot-tech-entries-20261107) | 110 added draft entry files and 17 modified existing entries; commit describes 17 added variants. Its additional entries are not part of main's 3,688. |
+| [`data/onet-tech-match-20261101`](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/tree/data/onet-tech-match-20261101/data/onet-match) | O*NET 31.0: 8,753 technology names, with 193 exact matches, 426 containment hints, and 8,134 unmatched names. Also includes a separate 30.2 comparison. Unmatched names are not automatically missing concepts. |
+| [`data/job-fields-survey-20261102`](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/tree/data/job-fields-survey-20261102/data/job-fields-survey) | November 6 survey reports 3,325 archives; title-like columns in 978 datasets and structured skill-list columns in 203. Includes non-job datasets and false positives; this is a structural survey, not verified posting coverage. |
+| [`data/kaggle-occurrence-evidence-20261030`](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/tree/data/kaggle-occurrence-evidence-20261030/data/source-occurrences/kaggle-publication-2026-10-30) | 19,766 occurrence observations across 30 datasets, linked to 2,568 existing entries, plus 303 pending candidates. Records are not independent jobs; source terms and overlap need review before integration. |
 
 ## Main gaps
 
@@ -200,4 +202,4 @@ Original code and original repository material are under [MIT](LICENSE), copyrig
 
 ## Papers
 
-- [Skills Lexicon: An auditable vocabulary for matching skills across job postings and curricula](Papers/skills-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md) (rough draft; [editable Word version](Papers/skills-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/skills-lexicon-paper-draft.docx)). The paper audits a pinned repository snapshot, presents the SEIS syllabus case study, and proposes an evaluation.
+- [Irreducibly Human Work Lexicon: An auditable vocabulary for matching skills across job postings and curricula](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md) (rough draft; [editable Word version](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/irreducibly-human-work-lexicon-paper-draft.docx)). The paper audits a pinned repository snapshot, presents the SEIS syllabus case study, and proposes an evaluation.

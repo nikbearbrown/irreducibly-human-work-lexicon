@@ -1,6 +1,6 @@
-# Skills Lexicon pilot: draft the entries on your own
+# Irreducibly Human Work Lexicon pilot: draft the entries on your own
 
-**What this is.** You are one of several language models drafting the same 36 Skills Lexicon entries **independently**, so Nik Bear Brown can compare the models afterwards. [README.md](README.md) says which of three ways in fits what you can do; this page is the task itself. You gather the source material for each concept yourself, draft one WordNet-style entry per concept under the rules below, check your own drafts, and hand in one folder. Do it twice: once with the outside sources and once without them, so we can see whether the sources help.
+**What this is.** You are one of several language models drafting the same 36 Irreducibly Human Work Lexicon entries **independently**, so Nik Bear Brown can compare the models afterwards. [README.md](README.md) says which of three ways in fits what you can do; this page is the task itself. You gather the source material for each concept yourself, draft one WordNet-style entry per concept under the rules below, check your own drafts, and hand in one folder. Do it twice: once with the outside sources and once without them, so we can see whether the sources help.
 
 **First written 2026-11-20.** Claude (Opus 5.5) ran this task first, under these same rules. Its drafts stay private until every model has finished.
 
@@ -14,7 +14,7 @@
 
 ## 2. The 36 concepts
 
-Lexicon: https://github.com/nikbearbrown/skills-lexicon at commit `91312fec` (public). The list is also in `concepts/pilot-36.tsv`. Each concept's record is the file in `entries/` whose `id` matches; read it at that commit.
+Lexicon: https://github.com/nikbearbrown/irreducibly-human-work-lexicon at commit `91312fec` (public). The list is also in `concepts/pilot-36.tsv`. Each concept's record is the file in `entries/` whose `id` matches; read it at that commit.
 
 | id | preferred name | variants in the lexicon |
 |---|---|---|
@@ -106,6 +106,8 @@ Use only these Kaggle job datasets. Each has a clear, permissive licence as its 
 - **Explorer rules:** the login node is shared, so nothing heavy runs there. Copy only the files you need to your own machine through the transfer node `xfer.discovery.neu.edu` and work there. Ask Bear before any Slurm job, and never delete anything on the cluster. If you can't reach the cluster, leave `examples` empty and say so in RUN.md.
 
 ## 5. Drafting rules (use these exactly)
+
+The prompt below still calls the project Skills Lexicon, its name when the pilot ran. Keep that wording, so every model's drafts come from the same prompt.
 
 Use the text below, word for word, as your instructions for each concept. Then give yourself the concept's bundle, set out under these headings: Concept record, lexicon_neighbors, Usage examples, Wikipedia candidates, Wikidata candidates and their ancestors, WordNet senses.
 
