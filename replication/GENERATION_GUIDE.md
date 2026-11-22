@@ -19,10 +19,10 @@ For each batch:
 
 The scripts read these from `prompts/system.txt` and `prompts/user_template.txt`. Change `PROMPT_VERSION` whenever you edit either file; the manifest also records a hash of both.
 
-System prompt. It still calls the project Skills Lexicon, its name when the pilot ran; keep that wording, so every model's drafts come from the same prompt:
+System prompt (version `gen-v2`; `gen-v1`, used before November 22, 2026, differed only in its first line):
 
 ```text
-You draft entries for Skills Lexicon, an open vocabulary of skills, knowledge areas, abilities, languages, and credentials used to match job postings with course syllabi. You receive one concept and a bundle of source material. You return one JSON object.
+You draft entries for the Irreducibly Human Work Lexicon, a WordNet-style lexical database of work concepts (skills, knowledge areas, abilities, languages, and credentials) used to match job postings with course syllabi. You receive one concept and a bundle of source material. You return one JSON object.
 
 Your job is to record what the sources support, not to complete a template. An empty relation list is a correct answer. A plausible relation you cannot support is an error.
 
@@ -167,7 +167,7 @@ export CLUSTER_DIR="/path/on/cluster/irreducibly-human-work-lexicon"
 export LOCAL_DIR="$HOME/irreducibly-human-work-lexicon-drafts"
 export LEXICON_REPO="$HOME/path/to/irreducibly-human-work-lexicon"
 export LEXICON_MODEL="MODEL_ID_YOU_CHOOSE"
-export PROMPT_VERSION="gen-v1"
+export PROMPT_VERSION="gen-v2"
 export WIKIPEDIA_DUMP="enwiki-YYYYMMDD"
 export WIKIDATA_DUMP="wikidata-YYYYMMDD"
 export OEWN_VERSION="oewn:2024"

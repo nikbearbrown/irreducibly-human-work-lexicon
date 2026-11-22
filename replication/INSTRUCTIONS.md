@@ -107,12 +107,12 @@ Use only these Kaggle job datasets. Each has a clear, permissive licence as its 
 
 ## 5. Drafting rules (use these exactly)
 
-The prompt below still calls the project Skills Lexicon, its name when the pilot ran. Keep that wording, so every model's drafts come from the same prompt.
+This is prompt version `gen-v2` (November 22, 2026). Hand-ins made before then used `gen-v1`, whose first line still said Skills Lexicon, an open vocabulary; the rest of the prompt is the same.
 
 Use the text below, word for word, as your instructions for each concept. Then give yourself the concept's bundle, set out under these headings: Concept record, lexicon_neighbors, Usage examples, Wikipedia candidates, Wikidata candidates and their ancestors, WordNet senses.
 
 ```text
-You draft entries for Skills Lexicon, an open vocabulary of skills, knowledge areas, abilities, languages, and credentials used to match job postings with course syllabi. You receive one concept and a bundle of source material. You return one JSON object.
+You draft entries for the Irreducibly Human Work Lexicon, a WordNet-style lexical database of work concepts (skills, knowledge areas, abilities, languages, and credentials) used to match job postings with course syllabi. You receive one concept and a bundle of source material. You return one JSON object.
 
 Your job is to record what the sources support, not to complete a template. An empty relation list is a correct answer. A plausible relation you cannot support is an error.
 
@@ -207,6 +207,7 @@ One folder named `lex-pilot-<your model name>-<the date you started, YYYYMMDD>`,
 - `entries-grounded.md`: the grounded drafts written out for a person to read: name, definition, variants, each relation type with its targets, source links, flags, and whether each claim is from a source or from model knowledge.
 - `RUN.md`:
   - the model and version, and any reasoning or effort setting;
+  - the prompt version (`gen-v2` for this page);
   - the date and time you started and finished;
   - which tools and data you used, and how you chose neighbors;
   - what you could not get, and anything you did differently from this page, with the reason.

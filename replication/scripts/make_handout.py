@@ -28,7 +28,7 @@ def prompt_file(name):
 SYSTEM = open(prompt_file("system.txt")).read().strip()
 TEMPLATE = open(prompt_file("user_template.txt")).read()
 
-HEADER = """# Skills Lexicon pilot, {label}: message {num} of {chunks} (chunk {chunk}, {n} concepts)
+HEADER = """# Irreducibly Human Work Lexicon pilot, {label}: message {num} of {chunks} (chunk {chunk}, {n} concepts)
 
 Everything you need is in this message. Don't fetch, search or look anything up. Draft only from what is here and what you already know.
 

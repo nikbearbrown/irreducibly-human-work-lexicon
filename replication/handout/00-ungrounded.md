@@ -1,4 +1,4 @@
-# Skills Lexicon pilot, ungrounded run: message 1 of 13 (chunk 00, 36 concepts)
+# Irreducibly Human Work Lexicon pilot, ungrounded run: message 1 of 13 (chunk 00, 36 concepts)
 
 Everything you need is in this message. Don't fetch, search or look anything up. Draft only from what is here and what you already know.
 
@@ -9,7 +9,7 @@ Everything you need is in this message. Don't fetch, search or look anything up.
 **Instructions for every concept** (use them exactly as written):
 
 ~~~~text
-You draft entries for Skills Lexicon, an open vocabulary of skills, knowledge areas, abilities, languages, and credentials used to match job postings with course syllabi. You receive one concept and a bundle of source material. You return one JSON object.
+You draft entries for the Irreducibly Human Work Lexicon, a WordNet-style lexical database of work concepts (skills, knowledge areas, abilities, languages, and credentials) used to match job postings with course syllabi. You receive one concept and a bundle of source material. You return one JSON object.
 
 Your job is to record what the sources support, not to complete a template. An empty relation list is a correct answer. A plausible relation you cannot support is an error.
 

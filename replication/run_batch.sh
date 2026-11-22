@@ -12,7 +12,7 @@
 #   PYTHON         a Python with the `wn` package (default: python3)
 #   STEP           bundles | drafts | all (default all)
 #   RUN            grounded | ungrounded (default grounded; ungrounded empties wikipedia, wikidata, wordnet)
-#   WITH_RECORD=1  also give the drafter the entry's own definition and identifiers (the gen-v1+record bundles)
+#   WITH_RECORD=1  also give the drafter the entry's own definition and identifiers (the +record bundles)
 #   WORKERS        parallel drafting calls (default 2)
 # Drafting with another model instead of Claude Code: STEP=bundles, then scripts/render_prompts.py (README.md).
 set -u
@@ -24,7 +24,7 @@ PY=${PYTHON:-python3}
 RUN=${RUN:-grounded}
 FLAG=""; [ "$RUN" = ungrounded ] && FLAG="--ungrounded"
 export LEXICON_MODEL=${LEXICON_MODEL:-claude-opus-5-5} LEXICON_EFFORT=${LEXICON_EFFORT:-high}
-export PROMPT_VERSION=${PROMPT_VERSION:-gen-v1${WITH_RECORD:++record}}
+export PROMPT_VERSION=${PROMPT_VERSION:-gen-v2${WITH_RECORD:++record}}
 export WIKIPEDIA_DUMP=enwiki-20261001 WIKIDATA_DUMP=${WIKIDATA_DUMP:-"public API, live"} OEWN_VERSION=oewn:2025
 mkdir -p "$W"
 if [ "${STEP:-all}" != drafts ]; then
