@@ -13,8 +13,10 @@ Usage:
                    [--trap-share 0.1] [--batch-size 50] [--salt agree-v1]
      model: writes packets/<id>/batch-NNNN.jsonl with every request it may judge (self-exclusion applied)
      human: draws the seeded, stratified sample (30% from the shared overlap pool) into humans/<id>/sample.jsonl
+  agreement.py confirm-model OUT_DIR --judge-id ID --model "<id the harness reports>" [--harness-version V]
+     (first session of a model judge registered without a model: writes results/<id>/judge.json)
   agreement.py validate OUT_DIR --judge-id ID   (checks results/<id>/; exit 1 on any error)
-  agreement.py stats OUT_DIR        (after results/ exists; folds judge labels into the tables)
+  agreement.py stats OUT_DIR --keys PRIVATE/keys/anon.jsonl   (after results/ exist)
 
 Example (today's two editions plus the reference):
   agreement.py run work/agreement/draft \
@@ -188,20 +190,27 @@ def broad_class(kind):
 
 MASK = re.compile(r"\b(grok|xai|claude|anthropic|sonnet|opus|gpt|openai|codex|muse|gemini|as an ai)\b", re.I)
 
+P2_TEMPLATE = open(os.path.join(PROMPTS, "P2.txt")).read().strip() if os.path.exists(os.path.join(PROMPTS, "P2.txt")) else ""
+
 def p2_request(cid, lexe, ea, eb, a_text, b_text, rng):
+    """Render prompts/P2.txt exactly; A/B order is random and recorded only in the private key."""
     order = [ea, eb]; rng.shuffle(order)
     texts = {ea: a_text, eb: b_text}
-    user = (f'Concept: "{lexe["preferred_name"]}" (kind: {lexe["kind"]})\n'
-            f"Definition A: {MASK.sub('[model]', texts[order[0]])}\nDefinition B: {MASK.sub('[model]', texts[order[1]])}\n\n"
-            "Choose exactly one label: EQUIVALENT, A_NARROWER, B_NARROWER, OVERLAPPING, CONFLICTING, DIFFERENT_SENSE "
-            "(definitions in AGREEMENT-METHOD.md 4.2, P2).\nReturn: {\"label\": \"...\", \"same_sense\": true|false, "
-            "\"genus_a\": \"...\", \"genus_b\": \"...\", \"conflicts\": [], \"confidence\": 1-5, \"rationale\": \"<=40 words\"}")
+    user = (P2_TEMPLATE.replace("{preferred_name}", lexe["preferred_name"]).replace("{kind}", lexe["kind"])
+            .replace("{text_a}", MASK.sub("[model]", texts[order[0]])).replace("{text_b}", MASK.sub("[model]", texts[order[1]])))
     return order, user
 
 def run(args):
-    os.makedirs(args.out, exist_ok=True)
-    for d in ("canonical", "requests/P2", "keys", "tables", "results", "packets", "humans"):
+    """Public files (requests/) go in OUT; everything that names an edition (keys, canonical drafts, coverage,
+    deterministic tables) goes in --private-dir, which must NOT be committed to a public repo."""
+    priv = args.private_dir or args.out
+    for d in ("requests/P2", "results", "packets", "humans"):
         os.makedirs(os.path.join(args.out, d), exist_ok=True)
+    for d in ("canonical", "keys", "tables"):
+        os.makedirs(os.path.join(priv, d), exist_ok=True)
+    secret = os.urandom(16).hex()  # request ids are keyed by this secret so they cannot be brute-forced to editions
+    open(os.path.join(priv, "keys", "request-id-secret.txt"), "w").write(secret + "\n")
+    only = set(l.split()[0] for l in open(args.concepts) if l.strip() and not l.startswith("#")) if args.concepts else None
     lex = load_lexicon(args.lexicon) if args.lexicon else {}
     eds = dict(load_edition(s) for s in args.edition)
     if lex and args.with_reference:
@@ -210,12 +219,12 @@ def run(args):
     names = list(eds)
     for n, ed in eds.items():
         k = resolve_targets(ed, idx) if idx else 0
-        with open(os.path.join(args.out, "canonical", f"{n}.jsonl"), "w") as f:
+        with open(os.path.join(priv, "canonical", f"{n}.jsonl"), "w") as f:
             for c in ed.values(): f.write(json.dumps(c) + "\n")
         print(f"{n}: {len(ed)} concepts; {k} label-only targets resolved by name")
     allc = sorted(set(lex) | set().union(*[set(e) for e in eds.values()]))
     # coverage
-    with open(os.path.join(args.out, "coverage.csv"), "w") as f:
+    with open(os.path.join(priv, "coverage.csv"), "w") as f:
         f.write("concept_id,kind," + ",".join(names) + "\n")
         for c in allc:
             f.write(f"{c},{lex.get(c, {}).get('kind', '')}," + ",".join("1" if c in eds[n] else "0" for n in names) + "\n")
@@ -224,6 +233,7 @@ def run(args):
     rng = random.Random(args.seed); req, keys = [], []
     for a, b in itertools.combinations(names, 2):
         shared = sorted(set(eds[a]) & set(eds[b]))
+        if only is not None: shared = [c for c in shared if c in only]
         def relf(level):
             def s(cs):
                 v = [f1(edge_set(eds[a][c], level), edge_set(eds[b][c], level)) for c in cs]
@@ -242,11 +252,11 @@ def run(args):
         ca = sum(x == y for x, y in cond) / len(cond) if cond else None
         rows.append(f"| {a} × {b} | {len(shared)} | {both_rel} | {fmt(bootstrap(shared, relf('target'), args.reps))} | "
                     f"{fmt(bootstrap(shared, relf('axis'), args.reps))} | {both_var} | {fmt(bootstrap(shared, varf, args.reps))} | "
-                    f"{'n/a' if ca is None else f'{ca:.3f} (n={len(cond)}, AC1={gwet_ac1_two(cond):.3f})'} |")
+                    f"{'n/a' if ca is None else f'{ca:.3f} (n={len(cond)}, AC1={gwet_ac1_two(cond)})'} |")
         for c in shared:
             if c not in lex: continue
             order, user = p2_request(c, lex[c], a, b, eds[a][c]["definition"], eds[b][c]["definition"], rng)
-            rid = "r-" + hashlib.sha256(f"P2|{c}|{a}|{b}".encode()).hexdigest()[:12]
+            rid = "r-" + hashlib.sha256(f"{secret}|P2|{c}|{a}|{b}".encode()).hexdigest()[:12]
             req.append({"request_id": rid, "stage": "P2", "concept_id": c, "field": "definition",
                         "kind": lex[c]["kind"], "broad_class": broad_class(lex[c]["kind"]), "trap": c in TRAP_IDS,
                         "prompt_version": PROMPT_VERSION, "prompt_sha256": hashlib.sha256((SYSTEM + user).encode()).hexdigest(),
@@ -262,13 +272,14 @@ def run(args):
             units.append([next((r["axis"] for r in eds[n][c]["relations"] if (r["target_id"] or "unresolved:" + norm(r["target_label"])) == t), "NONE") for n in have])
     rows += ["", f"UNION-FRAME (biased low, see AGREEMENT-METHOD.md 6.2; replace with the fixed neighbour frame) Krippendorff nominal alpha, {len(units)} units: "
              f"{kripp_alpha_nominal(units)}", f"Fleiss kappa on the same units (complete only): {fleiss_kappa(units)}"]
-    open(os.path.join(args.out, "tables", "deterministic.md"), "w").write("\n".join(rows) + "\n")
+    open(os.path.join(priv, "tables", "deterministic.md"), "w").write("\n".join(rows) + "\n")
+    rng.shuffle(req)  # so batch position reveals nothing about which editions are paired
     for b in range(0, len(req), args.batch_size):
         with open(os.path.join(args.out, "requests", "P2", f"batch-{b // args.batch_size + 1:04d}.jsonl"), "w") as f:
             for r in req[b:b + args.batch_size]: f.write(json.dumps(r) + "\n")
-    with open(os.path.join(args.out, "keys", "anon.jsonl"), "w") as f:
+    with open(os.path.join(priv, "keys", "anon.jsonl"), "w") as f:
         for k in keys: f.write(json.dumps(k) + "\n")
-    print("\n".join(rows)); print(f"wrote {len(req)} P2 requests (blinded; key in keys/anon.jsonl)")
+    print("\n".join(rows)); print(f"wrote {len(req)} P2 requests (blinded); PRIVATE key in {priv}/keys/anon.jsonl")
 
 # ---------- judges: registration, sampling, validation (one schema for model and human judges) ----------
 def jload(path):
@@ -299,18 +310,23 @@ def stratified(items, n, rng, trap_share):
 
 def register(args):
     out = args.out; reqs = all_requests(out)
-    keys = {k["request_id"]: k for k in jload(os.path.join(out, "keys", "anon.jsonl"))}
+    kp = args.keys or os.path.join(out, "keys", "anon.jsonl")
+    keys = {k["request_id"]: k for k in jload(kp)}
+    if args.type == "model" and args.drafted and not keys:
+        sys.exit(f"self-exclusion needs the private key file; pass --keys (looked for {kp})")
     jp, judges = judges_file(out)
     if args.judge_id in judges and not args.force: sys.exit(f"{args.judge_id} is already registered (use --force to redraw)")
     drafted = set(filter(None, (args.drafted or "").split(",")))
     seed = int(hashlib.sha256(f"{args.salt}|{args.judge_id}".encode()).hexdigest()[:8], 16)
-    judges[args.judge_id] = {"type": args.type, "name": args.name, "harness": args.harness, "model": args.model,
+    judges[args.judge_id] = {"type": args.type, "name": args.name, "harness": args.harness, "model": args.model or None,
                              "drafted": sorted(drafted), "seed": seed, "salt": args.salt, "size": args.size,
                              "overlap": args.overlap, "pool_size": args.pool_size, "trap_share": args.trap_share}
     if args.type == "model":
         # self-exclusion: never a request whose hidden key contains an edition this model drafted
         ok = [r for r in reqs if not drafted & {keys.get(r["request_id"], {}).get("A"), keys.get(r["request_id"], {}).get("B")}]
+        random.Random(seed).shuffle(ok)  # each judge sees its own seeded order
         d = os.path.join(out, "packets", args.judge_id); os.makedirs(d, exist_ok=True)
+        for old in glob.glob(os.path.join(d, "batch-*.jsonl")): os.remove(old)
         for b in range(0, len(ok), args.batch_size):
             with open(os.path.join(d, f"batch-{b // args.batch_size + 1:04d}.jsonl"), "w") as f:
                 for r in ok[b:b + args.batch_size]:
@@ -347,6 +363,27 @@ def register(args):
         print(f"{args.judge_id}: {len(sample)} items ({len(order)} overlap, {len(uniq)} unique) in humans/{args.judge_id}/sample.jsonl")
     json.dump(judges, open(jp, "w"), indent=1)
 
+def confirm_model(args):
+    """First-session step for a model judge registered without a model id: record what the harness reports.
+    Writes results/<id>/judge.json (the judge's own folder, so parallel judge branches never conflict)."""
+    _, judges = judges_file(args.out); me = judges.get(args.judge_id)
+    if not me or me["type"] != "model": sys.exit(f"{args.judge_id} is not a registered model judge")
+    if me.get("model") and me["model"] != args.model:
+        sys.exit(f"registered model is {me['model']!r}; you report {args.model!r}. Stop and tell the operator.")
+    d = os.path.join(args.out, "results", args.judge_id); os.makedirs(d, exist_ok=True)
+    p = os.path.join(d, "judge.json")
+    if os.path.exists(p) and json.load(open(p))["model_reported"] != args.model and not args.force:
+        sys.exit(f"{p} already records {json.load(open(p))['model_reported']!r}; a different model needs a new judge id or --force from the operator")
+    import datetime
+    rec = {"judge_id": args.judge_id, "model_reported": args.model, "harness": args.harness or me.get("harness"),
+           "harness_version": args.harness_version, "effort": args.effort, "plan": args.plan,
+           "confirmed_at": datetime.datetime.now().astimezone().isoformat(timespec="seconds")}
+    json.dump(rec, open(p, "w"), indent=1); print(f"recorded {rec['model_reported']!r} in {p}")
+
+def expected_model(out, jid, me):
+    p = os.path.join(out, "results", jid, "judge.json")
+    return me.get("model") or (json.load(open(p))["model_reported"] if os.path.exists(p) else None)
+
 REQUIRED = ("judgment_id", "request_id", "stage", "concept_id", "judge", "run_index", "prompt_version", "label",
             "fields", "notes", "confirmed", "created_at")
 
@@ -359,14 +396,17 @@ def validate(args):
     else:
         allowed = {r["request_id"] for r in jload(os.path.join(out, "humans", jid, "sample.jsonl"))}
     errs, seen, n = [], set(), 0
+    want = expected_model(out, jid, me) if me["type"] == "model" else None
+    if me["type"] == "model" and not want:
+        errs.append(f"no model recorded for {jid}: run `agreement.py confirm-model {out} --judge-id {jid} --model <id>` first")
     for f in sorted(glob.glob(os.path.join(out, "results", jid, "**", "*.jsonl"), recursive=True)):
         for ln, line in enumerate(open(f), 1):
             if not line.strip(): continue
             try: j = json.loads(line)
             except ValueError: errs.append(f"{f}:{ln} not JSON"); continue
             if "_batch" in j:
-                if me["type"] == "model" and me.get("model") and j.get("model_reported") != me["model"]:
-                    errs.append(f"{f}:{ln} model_reported {j.get('model_reported')!r} != registered {me['model']!r}")
+                if me["type"] == "model" and want and j.get("model_reported") != want:
+                    errs.append(f"{f}:{ln} model_reported {j.get('model_reported')!r} != recorded {want!r}")
                 continue
             n += 1
             miss = [k for k in REQUIRED if k not in j]
@@ -378,13 +418,25 @@ def validate(args):
             labels = LABELS.get(j["stage"])
             if labels and j["label"] not in labels | {"UNSURE"}: errs.append(f"{f}:{ln} label {j['label']!r} not allowed for {j['stage']}")
             if j["judge"].get("id") != jid: errs.append(f"{f}:{ln} judge.id {j['judge'].get('id')!r} != {jid}")
+            if me["type"] == "model" and want and j["judge"].get("model_reported") != want:
+                errs.append(f"{f}:{ln} judge.model_reported {j['judge'].get('model_reported')!r} != recorded {want!r}")
             if me["type"] == "human" and j["confirmed"] is not True: errs.append(f"{f}:{ln} human label not confirmed by the judge")
+    if me["type"] == "model":  # a handed-in batch must answer every request in the packet of the same name
+        for f in sorted(glob.glob(os.path.join(out, "results", jid, "*", "batch-*.jsonl"))):
+            pk = os.path.join(out, "packets", jid, os.path.basename(f))
+            want_ids = {r["request_id"] for r in jload(pk)}
+            got = {j["request_id"] for j in jload(f) if "_batch" not in j and "request_id" in j}
+            if not os.path.exists(pk): errs.append(f"{f}: no packet {pk}")
+            elif want_ids - got: errs.append(f"{f}: incomplete, {len(want_ids - got)} of {len(want_ids)} requests unanswered")
+            hdr = [j for j in jload(f) if "_batch" in j]
+            if not any("finished_at" in h for h in hdr): errs.append(f"{f}: no closing header line with finished_at")
     for e in errs[:50]: print("ERROR", e)
     print(f"{jid}: {n} judgments, {len(errs)} errors"); sys.exit(1 if errs else 0)
 
 def stats(args):
     """Fold every judge's results (results/<judge_id>/...) into definition agreement, per judge and per edition pair."""
-    keys = {k["request_id"]: k for k in jload(os.path.join(args.out, "keys", "anon.jsonl"))}
+    keys = {k["request_id"]: k for k in jload(args.keys or os.path.join(args.out, "keys", "anon.jsonl"))}
+    if not keys: sys.exit("stats needs the PRIVATE key file: pass --keys PATH/anon.jsonl")
     files = glob.glob(os.path.join(args.out, "results", "*", "**", "*.jsonl"), recursive=True)
     if not files: sys.exit("no results/ yet: judges have not handed in")
     by = defaultdict(list)
@@ -406,15 +458,20 @@ if __name__ == "__main__":
     r = sp.add_parser("run"); r.add_argument("out"); r.add_argument("--edition", action="append", required=True)
     r.add_argument("--lexicon"); r.add_argument("--with-reference", action="store_true")
     r.add_argument("--seed", type=int, default=7); r.add_argument("--reps", type=int, default=2000)
-    r.add_argument("--batch-size", type=int, default=50)
+    r.add_argument("--batch-size", type=int, default=50); r.add_argument("--concepts", help="file of concept ids to keep")
+    r.add_argument("--private-dir", help="where keys, canonical drafts and tables go (keep out of public repos)")
     g = sp.add_parser("register"); g.add_argument("out"); g.add_argument("--judge-id", required=True)
     g.add_argument("--type", choices=("model", "human"), required=True); g.add_argument("--name")
     g.add_argument("--harness"); g.add_argument("--model"); g.add_argument("--drafted")
     g.add_argument("--size", type=int, default=100); g.add_argument("--overlap", type=float, default=0.3)
     g.add_argument("--pool-size", type=int, default=50); g.add_argument("--trap-share", type=float, default=0.1)
     g.add_argument("--batch-size", type=int, default=50); g.add_argument("--salt", default="agree-v1")
-    g.add_argument("--force", action="store_true")
+    g.add_argument("--force", action="store_true"); g.add_argument("--keys", help="private keys/anon.jsonl")
+    c = sp.add_parser("confirm-model"); c.add_argument("out"); c.add_argument("--judge-id", required=True)
+    c.add_argument("--model", required=True); c.add_argument("--harness"); c.add_argument("--harness-version")
+    c.add_argument("--effort"); c.add_argument("--plan"); c.add_argument("--force", action="store_true")
     v = sp.add_parser("validate"); v.add_argument("out"); v.add_argument("--judge-id", required=True)
     s = sp.add_parser("stats"); s.add_argument("out"); s.add_argument("--reps", type=int, default=2000)
+    s.add_argument("--keys", help="private keys/anon.jsonl")
     a = ap.parse_args()
-    {"run": run, "register": register, "validate": validate, "stats": stats}[a.cmd](a)
+    {"run": run, "register": register, "confirm-model": confirm_model, "validate": validate, "stats": stats}[a.cmd](a)

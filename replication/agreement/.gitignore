@@ -1,0 +1,5 @@
+# Never commit anything that unblinds editions to this public repo.
+*/keys/
+*/canonical/
+*/tables/
+*/coverage.csv

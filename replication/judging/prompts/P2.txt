@@ -9,5 +9,6 @@ OVERLAPPING: same sense, different emphasis, neither contains the other, nothing
 CONFLICTING: same sense, but some factual claim in one contradicts the other (what it is a kind of,
              who issues it, what it covers, what it is used for).
 DIFFERENT_SENSE: they describe different things.
+UNSURE: you cannot tell (counted as missing; do not use it to avoid hard items).
 Return: {"label": "...", "same_sense": true|false, "genus_a": "...", "genus_b": "...",
          "conflicts": [{"a": "<span>", "b": "<span>"}], "confidence": 1-5, "rationale": "<=40 words"}

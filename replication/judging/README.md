@@ -5,6 +5,7 @@ This folder supports the agreement study in [../AGREEMENT-METHOD.md](../AGREEMEN
 | You are | Read |
 |---|---|
 | A **person** asked to judge (about 100 items, a few hours) | [HUMAN-JUDGE-INSTRUCTIONS.md](HUMAN-JUDGE-INSTRUCTIONS.md) |
+| An **operator** starting an AI judge | [START-HERE-AI-JUDGE.md](START-HERE-AI-JUDGE.md): one kickoff message per judge, for the `pilot-test` run |
 | An **AI judge** (Codex; Claude Fable, Sonnet or Opus; Grok; or a future model) | [AI-JUDGE-INSTRUCTIONS.md](AI-JUDGE-INSTRUCTIONS.md) |
 | An **AI agent running a person's session** (the person said "I'm a human judge") | [INTERVIEWER-PROTOCOL.md](INTERVIEWER-PROTOCOL.md) |
 
@@ -18,20 +19,20 @@ python3 replication/scripts/agreement.py validate RUN_DIR --judge-id YOUR_JUDGE_
 
 | Path | What it is |
 |---|---|
-| `prompts/system.txt`, `prompts/P1.txt`, `prompts/P2.txt`, `prompts/P3.txt` | The exact judge prompts (AGREEMENT-METHOD.md 4.2). Every request already carries its rendered `system` and `user` text. |
+| `prompts/system.txt`, `prompts/P1.txt` … `prompts/P6.txt` | The exact judge prompts (AGREEMENT-METHOD.md 4.2). Every request already carries its rendered `system` and `user` text. |
 | `judgment.schema.json` | The one result-line schema, for models and people alike |
 | `RUN_DIR/requests/<stage>/batch-NNNN.jsonl` | Every blinded request (written by `agreement.py run`) |
-| `RUN_DIR/keys/anon.jsonl` | Which edition is A and which is B. **Judges never open this.** |
+| `<PRIVATE>/keys/anon.jsonl` | Which edition is A and which is B. **Never committed here** (it is gitignored and kept privately by the operator). Only `stats` and registering new model judges need it. |
 | `RUN_DIR/judges.json` | Registered judges: type, harness, pinned model, editions drafted, seed |
 | `RUN_DIR/packets/<judge_id>/batch-NNNN.jsonl` | An AI judge's work, with self-exclusion already applied |
 | `RUN_DIR/humans/<judge_id>/sample.jsonl`, `progress.json` | A person's seeded sample and where they stopped |
 | `RUN_DIR/results/<judge_id>/...` | What a judge hands in |
 
-`RUN_DIR` is the run folder Bear names, for example `replication/agreement/pilot-1`. Results are committed on a branch `judging/<judge_id>` and pushed. Nothing is ever pushed to `main`, and nothing is force-pushed.
+`RUN_DIR` is the run folder Bear names. The first one is `replication/agreement/pilot-test`. Results are committed on a branch `judging/<judge_id>` and pushed. Nothing is ever pushed to `main`, and nothing is force-pushed.
 
 ## Rules everyone follows
 
-- **Blind.** Never open `keys/`, any edition folder, or another judge's `results/`. Judge only what the packet or sample shows.
+- **Blind.** Never open the keys, `data/lexicon-parallel/` or the `grok-lexicon-parallel-data` branch, any edition repository, or another judge's `results/`. Judge only what the packet or sample shows.
 - **Self-exclusion.** A model never judges an item that involves an edition it drafted. Registration enforces this (AI-JUDGE-INSTRUCTIONS.md, section 2).
 - **Independence.** Judge each item on its own. Don't compare your answers with anyone else's.
 - **Meaning, not wording.** Two texts agree if they say the same thing, however differently they say it.

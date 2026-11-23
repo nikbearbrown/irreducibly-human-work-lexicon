@@ -6,9 +6,17 @@ You are one judge on a panel. Each item shows you two (or more) anonymous entrie
 
 All judging runs through the subscription plan in your harness. Never call a paid API.
 
+## 0. Get the branch
+
+```bash
+git fetch origin && git switch -c judging/<judge_id> origin/grok-agreement-method   # or: git switch judging/<judge_id>
+```
+
+`RUN_DIR` is the run folder you were given, for example `replication/agreement/pilot-test`.
+
 ## 1. Register (once per judge)
 
-Bear, or the operator, registers you. If you are asked to register yourself, run this from the repository root:
+**For `pilot-test` you are already registered.** The judges are `codex`, `claude-fable`, `claude-opus`, `claude-sonnet` and `grok-bot`, and your packets are waiting in `RUN_DIR/packets/<judge_id>/`. Skip to 1.1. Registration needs the private key file, so only the operator can register a new model judge, with this command:
 
 ```bash
 python3 replication/scripts/agreement.py register RUN_DIR --type model \
@@ -19,6 +27,17 @@ python3 replication/scripts/agreement.py register RUN_DIR --type model \
 
 - `--model` is the model id your harness itself reports, for example from `/model` or your session information, copied exactly. Never guess it, and never leave it to a default.
 - Registration writes your work to `RUN_DIR/packets/<judge_id>/batch-NNNN.jsonl` and records you in `RUN_DIR/judges.json`.
+
+### 1.1 First session: record your model (a script command, never a hand edit)
+
+```bash
+python3 replication/scripts/agreement.py confirm-model RUN_DIR --judge-id <judge_id> \
+  --model "<the exact model id your harness reports>" --harness-version "<codex --version | claude --version>"
+```
+
+- This writes `RUN_DIR/results/<judge_id>/judge.json`. Every later header line and result line must carry the same `model_reported`, and the validator checks it.
+- Before you run it, make sure the judge id fits you. Claude Sonnet uses `claude-sonnet`, Claude Opus uses `claude-opus`, and so on. If the id you were given doesn't match the model you are, stop and say so.
+- If the command says a different model is already recorded, stop and tell the operator. Don't use `--force`.
 
 ## 2. Self-exclusion (mandatory)
 
@@ -42,8 +61,11 @@ Each line of `packets/<judge_id>/batch-NNNN.jsonl` holds:
 
 - Treat `system` as your instructions and `user` as the item. Answer the `user` text as `system` directs.
 - Answer **each line on its own**. Don't look back at earlier lines or compare items with each other, and keep no running tallies.
-- Do not open `keys/`, any edition folder, another judge's `results/`, or the drafts. Do not search the web. Use only the item and your general knowledge of the concept.
+- Open **only your own** `packets/<judge_id>/` and `results/<judge_id>/`. Don't open `requests/`, other judges' packets or `judges.json` beyond your own entry: comparing what other judges were given can reveal which editions an item pairs.
+- Do not open `keys/`, `data/lexicon-parallel/`, the `grok-lexicon-parallel-data` branch, any edition repository, another judge's `results/` or `judging/*` branch, or the drafts. (The key file is not in this repository at all.) Do not search the web. Use only the item and your general knowledge of the concept.
 - **One fresh session per batch.** When a batch is finished, end the session.
+
+**`pilot-test` has stage P2 (definition pairs) only:** 144 requests. `codex`, `claude-fable` and `claude-opus` each get 3 batches (50 + 50 + 44). `claude-sonnet` gets 1 batch of 13 and `grok-bot` 1 batch of 35, because self-exclusion removes the rest. The P1 and P3–P6 prompts exist (`prompts/`), but the script doesn't generate those requests yet.
 
 ## 4. The judging prompt and rubric (exact)
 
@@ -92,7 +114,7 @@ For `packets/<judge_id>/batch-0007.jsonl`, write `results/<judge_id>/P2/batch-00
  "started_at": "2026-12-01T10:00:00-05:00"}
 ```
 
-Then write one line per request, following [judgment.schema.json](judgment.schema.json):
+Then write one line per request, in packet order, following [judgment.schema.json](judgment.schema.json):
 
 ```json
 {"judgment_id": "codex-r-0a1b2c3d4e5f-0", "request_id": "r-0a1b2c3d4e5f", "stage": "P2", "concept_id": "sh6x1wmacn",
@@ -105,7 +127,8 @@ Then write one line per request, following [judgment.schema.json](judgment.schem
 ```
 
 - Copy `request_id`, `stage`, `concept_id` and `prompt_sha256` from the request. `run_index` is 0 for the first run and 1 or 2 for repeat runs (the operator tells you which).
-- End the file with a header line that adds `"finished_at"`.
+- `judgment_id` is `<judge_id>-<request_id>-<run_index>`. `judge.model_reported` is the same value you recorded in 1.1.
+- End the file with the header line again, adding `"finished_at"`. The validator rejects a batch without it, and it also rejects a batch that leaves any packet request unanswered.
 - If a reply doesn't fit the schema, fix it once. If it still doesn't fit, write `"label": "UNSURE", "valid": false`.
 
 ## 6. Validate
@@ -119,14 +142,14 @@ Fix every error it reports. The common errors: a label not allowed for that stag
 ## 7. Commit and push
 
 ```bash
-git switch -c judging/<judge_id> 2>/dev/null || git switch judging/<judge_id>
-git add RUN_DIR/results/<judge_id>/
+git switch judging/<judge_id>        # the branch from step 0
+git add RUN_DIR/results/<judge_id>/   # your batches plus judge.json
 git commit -m "Judge <judge_id>: batch NNNN (<stage>), validated"
 git push -u origin judging/<judge_id>
 ```
 
 - Stage only your own `results/<judge_id>/`. Never stage `keys/`, packets or anyone else's files.
-- Commit as the operator (Bear) unless told otherwise. Never push to `main`, never force-push, and never open or merge a pull request.
+- Commit as the operator unless told otherwise: `git -c user.name=nikbearbrown -c user.email=610338+nikbearbrown@users.noreply.github.com commit ...`. Never push to `main`, never force-push, and never open or merge a pull request.
 
 ## 8. Rate limits and resuming
 

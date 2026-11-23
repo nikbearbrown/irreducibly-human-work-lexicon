@@ -187,6 +187,7 @@ OVERLAPPING: same sense, different emphasis, neither contains the other, nothing
 CONFLICTING: same sense, but some factual claim in one contradicts the other (what it is a kind of,
              who issues it, what it covers, what it is used for).
 DIFFERENT_SENSE: they describe different things.
+UNSURE: you cannot tell (counted as missing; do not use it to avoid hard items).
 Return: {"label": "...", "same_sense": true|false, "genus_a": "...", "genus_b": "...",
          "conflicts": [{"a": "<span>", "b": "<span>"}], "confidence": 1-5, "rationale": "<=40 words"}
 ```
@@ -207,7 +208,7 @@ Return: {"groups": [["I1","I4"],["I2"],["I3"]], "notes": {"I3": "<=20 words if u
 
 **P4, relation type for an aligned target:** both statements are shown as sentences from the gen-v2 tests, for example "A says: PostgreSQL is a kind of SQL. B says: PostgreSQL uses SQL." The output is `{"label": SAME_TYPE|COMPATIBLE_TYPE|REVERSED|CONFLICTING_TYPE, "confidence", "rationale"}`.
 
-**P5, variant condition** and **P6, link compatibility** follow the same pattern, with the labels in 4.1.
+**P4 to P6** (relation type, variant condition, link compatibility) follow the same pattern, with the labels in 4.1. Their exact texts are in `judging/prompts/P4.txt` to `P6.txt`. The draft script generates only P2 requests so far.
 
 Output is validated against a JSON schema (`schemas/agreement-judgment.schema.json`, to be added in stage 1). An invalid reply gets **one** retry with the validation error, the same rule as the kit's drafting retry. If it fails again, the item is recorded as `JUDGE_FAILED` and kept in the denominators as missing.
 
@@ -437,7 +438,7 @@ The embedding baseline and all the statistics run on CPU in minutes. The human i
 - `canonical/<edition>.jsonl`: one canonical entry per concept (section 1.1), with `edition`, `edition_sha`, `schema`, `run`.
 - `coverage.csv`: concept_id, kind, broad_class, and one column per edition (`drafted`, `missing`, `out_of_scope`).
 - `alignment/{targets,variants}.jsonl`: `{concept_id, field, cluster_key, members: [{edition, item_index, text, target_id}], resolved_by: id|name|judge|human, judgment_id}`.
-- `keys/anon.jsonl`: `{request_id, item_id, edition}`. Never shown to the judge.
+- `keys/anon.jsonl`: `{request_id, A, B}`, plus `keys/request-id-secret.txt` (request ids are keyed with a secret, so nobody can recompute them from concept and edition names). These go in `--private-dir` and are **never committed** to the public repo. `stats` and `register` take `--keys PATH`. `canonical/`, `tables/` and `coverage.csv` are private too, because they name editions.
 - `requests/<stage>/batch-NNNN.jsonl`: `{request_id, stage: P1..P6, concept_id, field, kind, broad_class, trap, prompt_version, prompt_sha256, order_seed, system, user}`. Only `system` and `user` are shown to a judge.
 - `judges.json`: the panel (id, type `model` or `human`, harness, pinned model, family, drafter flag).
 - `humans/registry.jsonl`, `humans/overlap-pool.jsonl`, `humans/<judge_id>/sample.jsonl`, `humans/<judge_id>/progress.json`: registration, the seeded sample and the resume point.
@@ -500,6 +501,7 @@ The embedding baseline and all the statistics run on CPU in minutes. The human i
 8. **Prevalence and sparsity.** Mostly empty fields (Sonnet's relations) give paradoxical κ values. Presence, AC1 and conditional agreement are reported separately (section 6.1).
 9. **Concepts are not independent.** Look-alike and near-duplicate concepts are related, and bootstrap resampling by concept understates the uncertainty for them. A sensitivity check resamples families of related concepts (clusters of trap concepts).
 10. **Coverage is selected.** The overlap excludes credentials, so the result is not about the whole lexicon. Credential agreement must wait for a second edition that covers credentials.
+11. **Blinding by instruction.** Packets and requests are public files in this repo. A judge that compared its packet with another judge's (for example `grok-bot`'s, which holds only Sonnet × reference items) could infer which editions are paired. Judges are told to open only their own folders, and the leak check (4.3) would catch systematic unblinding. A stricter setup would hand each judge its packet privately.
 11. **Drift and reproducibility.** Hosted judge models change. Subscription harnesses report a model name but may change what sits behind it. Batches are pinned and stamped (section 9.4), shifts are tested on the repeated sample, and every request and reply is committed.
 12. **Many comparisons.** There are many fields × breakdowns × pairs. A short list of primary outcomes is fixed in advance (T3 per field and T5 at level (ii)), and everything else is exploratory with Holm correction.
 
