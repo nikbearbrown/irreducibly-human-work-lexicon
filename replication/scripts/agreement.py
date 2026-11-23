@@ -1,13 +1,20 @@
 #!/usr/bin/env python3
 """DRAFT skeleton for AGREEMENT-METHOD.md: normalise editions, align, write blinded judge requests, compute stats.
 
-Status: draft (agree-v1-draft). Deterministic parts only; it never calls a model. Judge replies are read back
-from judgments/*.jsonl written by whatever harness runs the requests.
+Status: draft (agree-v1-draft). Deterministic parts only; it never calls a model and uses no paid API. Judges
+(Codex, Claude Code, or a human interviewed by one of them) read packet files and write result files; see
+replication/judging/README.md. One line schema and one validator (`validate`) serve model and human judges alike.
 
 Usage:
   agreement.py run OUT_DIR --edition NAME=SCHEMA:PATH[,PATH...] [--edition ...] [--lexicon LEXICON_REPO] [--seed 7]
      SCHEMA is gen-v2 | sonnet-edition | lexicon. Later paths override earlier ones for the same concept_id.
-  agreement.py stats OUT_DIR        (after judgments/ exists; folds judge labels into the tables)
+  agreement.py register OUT_DIR --judge-id ID --type model|human [--name NAME] [--harness codex|claude-code]
+                   [--model MODEL] [--drafted EDITION[,EDITION]] [--size 100] [--overlap 0.3] [--pool-size 50]
+                   [--trap-share 0.1] [--batch-size 50] [--salt agree-v1]
+     model: writes packets/<id>/batch-NNNN.jsonl with every request it may judge (self-exclusion applied)
+     human: draws the seeded, stratified sample (30% from the shared overlap pool) into humans/<id>/sample.jsonl
+  agreement.py validate OUT_DIR --judge-id ID   (checks results/<id>/; exit 1 on any error)
+  agreement.py stats OUT_DIR        (after results/ exists; folds judge labels into the tables)
 
 Example (today's two editions plus the reference):
   agreement.py run work/agreement/draft \
@@ -165,9 +172,20 @@ def bootstrap(concepts, stat, reps=2000, seed=7):
     return est, vals[int(.025 * len(vals))], vals[int(.975 * len(vals)) - 1]
 
 # ---------- step 2: blinded judge requests (stubs; no model is called) ----------
-SYSTEM = open(os.path.join(os.path.dirname(__file__), "..", "AGREEMENT-METHOD.md")).read().split(
-    "**System (all judge calls):**", 1)[1].split("```")[1].strip() if os.path.exists(
-    os.path.join(os.path.dirname(__file__), "..", "AGREEMENT-METHOD.md")) else ""
+PROMPTS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "judging", "prompts")
+SYSTEM = open(os.path.join(PROMPTS, "system.txt")).read().strip() if os.path.exists(os.path.join(PROMPTS, "system.txt")) else ""
+LABELS = {"P1": None, "P2": set(DEF_SCORE), "P3": None,
+          "P4": {"SAME_TYPE", "COMPATIBLE_TYPE", "REVERSED", "CONFLICTING_TYPE"},
+          "P5": {"SAME_CONDITION", "COMPATIBLE_CONDITION", "CONFLICTING_CONDITION"},
+          "P6": {"COMPATIBLE", "CONFLICTING"}}
+# trap concepts (INSTRUCTIONS.md section 2): look-alikes, short names, Service orientation, near-duplicates
+TRAP_IDS = {"ls6hrpynv0", "h60l8olauw", "a0h79b66kq", "qb4qnsutxp", "dbxqhrpv38", "fcadn3ihwg", "mnlgauzi32",
+            "p1pplzvq0f", "oeixkjthc3", "n29960itit", "thsmk1q1kl", "n7a094bha6", "c4tp7yji9k", "so9zp6tzyh", "v2tu54uao9"}
+
+def broad_class(kind):
+    if kind in ("credential", "ability", "knowledge"): return kind
+    return "language" if (kind or "").endswith("language") else "skill"
+
 MASK = re.compile(r"\b(grok|xai|claude|anthropic|sonnet|opus|gpt|openai|codex|muse|gemini|as an ai)\b", re.I)
 
 def p2_request(cid, lexe, ea, eb, a_text, b_text, rng):
@@ -182,7 +200,7 @@ def p2_request(cid, lexe, ea, eb, a_text, b_text, rng):
 
 def run(args):
     os.makedirs(args.out, exist_ok=True)
-    for d in ("canonical", "requests", "keys", "results", "judgments"):
+    for d in ("canonical", "requests/P2", "keys", "tables", "results", "packets", "humans"):
         os.makedirs(os.path.join(args.out, d), exist_ok=True)
     lex = load_lexicon(args.lexicon) if args.lexicon else {}
     eds = dict(load_edition(s) for s in args.edition)
@@ -230,6 +248,7 @@ def run(args):
             order, user = p2_request(c, lex[c], a, b, eds[a][c]["definition"], eds[b][c]["definition"], rng)
             rid = "r-" + hashlib.sha256(f"P2|{c}|{a}|{b}".encode()).hexdigest()[:12]
             req.append({"request_id": rid, "stage": "P2", "concept_id": c, "field": "definition",
+                        "kind": lex[c]["kind"], "broad_class": broad_class(lex[c]["kind"]), "trap": c in TRAP_IDS,
                         "prompt_version": PROMPT_VERSION, "prompt_sha256": hashlib.sha256((SYSTEM + user).encode()).hexdigest(),
                         "system": SYSTEM, "user": user})
             keys.append({"request_id": rid, "A": order[0], "B": order[1]})
@@ -243,33 +262,159 @@ def run(args):
             units.append([next((r["axis"] for r in eds[n][c]["relations"] if (r["target_id"] or "unresolved:" + norm(r["target_label"])) == t), "NONE") for n in have])
     rows += ["", f"UNION-FRAME (biased low, see AGREEMENT-METHOD.md 6.2; replace with the fixed neighbour frame) Krippendorff nominal alpha, {len(units)} units: "
              f"{kripp_alpha_nominal(units)}", f"Fleiss kappa on the same units (complete only): {fleiss_kappa(units)}"]
-    open(os.path.join(args.out, "results", "deterministic.md"), "w").write("\n".join(rows) + "\n")
-    with open(os.path.join(args.out, "requests", "P2.jsonl"), "w") as f:
-        for r in req: f.write(json.dumps(r) + "\n")
+    open(os.path.join(args.out, "tables", "deterministic.md"), "w").write("\n".join(rows) + "\n")
+    for b in range(0, len(req), args.batch_size):
+        with open(os.path.join(args.out, "requests", "P2", f"batch-{b // args.batch_size + 1:04d}.jsonl"), "w") as f:
+            for r in req[b:b + args.batch_size]: f.write(json.dumps(r) + "\n")
     with open(os.path.join(args.out, "keys", "anon.jsonl"), "w") as f:
         for k in keys: f.write(json.dumps(k) + "\n")
     print("\n".join(rows)); print(f"wrote {len(req)} P2 requests (blinded; key in keys/anon.jsonl)")
 
+# ---------- judges: registration, sampling, validation (one schema for model and human judges) ----------
+def jload(path):
+    return [json.loads(l) for l in open(path) if l.strip()] if os.path.exists(path) else []
+
+def all_requests(out):
+    return [r for f in sorted(glob.glob(os.path.join(out, "requests", "*", "batch-*.jsonl"))) for r in jload(f)]
+
+def judges_file(out):
+    p = os.path.join(out, "judges.json")
+    return p, (json.load(open(p)) if os.path.exists(p) else {})
+
+def stratified(items, n, rng, trap_share):
+    """Proportional allocation over field x broad_class (>=1 per non-empty cell), trap quota first."""
+    if n <= 0 or not items: return []
+    pick = []
+    traps = [r for r in items if r.get("trap")]
+    rng.shuffle(traps); pick += traps[:min(len(traps), max(1, round(n * trap_share)) if traps else 0)]
+    rest = [r for r in items if r not in pick]
+    cells = defaultdict(list)
+    for r in rest: cells[(r["field"], r.get("broad_class"))].append(r)
+    need = n - len(pick)
+    for k in sorted(cells, key=str):
+        rng.shuffle(cells[k])
+        pick += cells[k][:max(1, round(need * len(cells[k]) / len(rest)))]
+    rng.shuffle(pick)
+    return pick[:n]
+
+def register(args):
+    out = args.out; reqs = all_requests(out)
+    keys = {k["request_id"]: k for k in jload(os.path.join(out, "keys", "anon.jsonl"))}
+    jp, judges = judges_file(out)
+    if args.judge_id in judges and not args.force: sys.exit(f"{args.judge_id} is already registered (use --force to redraw)")
+    drafted = set(filter(None, (args.drafted or "").split(",")))
+    seed = int(hashlib.sha256(f"{args.salt}|{args.judge_id}".encode()).hexdigest()[:8], 16)
+    judges[args.judge_id] = {"type": args.type, "name": args.name, "harness": args.harness, "model": args.model,
+                             "drafted": sorted(drafted), "seed": seed, "salt": args.salt, "size": args.size,
+                             "overlap": args.overlap, "pool_size": args.pool_size, "trap_share": args.trap_share}
+    if args.type == "model":
+        # self-exclusion: never a request whose hidden key contains an edition this model drafted
+        ok = [r for r in reqs if not drafted & {keys.get(r["request_id"], {}).get("A"), keys.get(r["request_id"], {}).get("B")}]
+        d = os.path.join(out, "packets", args.judge_id); os.makedirs(d, exist_ok=True)
+        for b in range(0, len(ok), args.batch_size):
+            with open(os.path.join(d, f"batch-{b // args.batch_size + 1:04d}.jsonl"), "w") as f:
+                for r in ok[b:b + args.batch_size]:
+                    f.write(json.dumps({k: r[k] for k in ("request_id", "stage", "concept_id", "prompt_version", "prompt_sha256", "system", "user")}) + "\n")
+        print(f"{args.judge_id}: {len(ok)} of {len(reqs)} requests eligible after self-exclusion ({sorted(drafted) or 'none'}); "
+              f"{-(-len(ok) // args.batch_size)} batches in packets/{args.judge_id}/")
+    else:
+        hd = os.path.join(out, "humans"); os.makedirs(hd, exist_ok=True)
+        pool_path = os.path.join(hd, "overlap-pool.jsonl")
+        pool = jload(pool_path)
+        if not pool:
+            prng = random.Random(f"{args.salt}|pool")
+            pool = [{"request_id": r["request_id"], "times_assigned": 0} for r in stratified(reqs, args.pool_size, prng, args.trap_share)]
+        rng = random.Random(seed)
+        n_over = round(args.size * args.overlap)
+        order = sorted(pool, key=lambda x: (x["times_assigned"], rng.random()))[:n_over]
+        for x in order: x["times_assigned"] += 1
+        with open(pool_path, "w") as f:
+            for x in pool: f.write(json.dumps(x) + "\n")
+        taken = {x["request_id"] for x in pool}
+        for f in glob.glob(os.path.join(hd, "*", "sample.jsonl")):
+            taken |= {x["request_id"] for x in jload(f)}
+        uniq = stratified([r for r in reqs if r["request_id"] not in taken], args.size - len(order), rng, args.trap_share)
+        byid = {r["request_id"]: r for r in reqs}
+        sample = [dict(byid[x["request_id"]], overlap=True) for x in order] + [dict(r, overlap=False) for r in uniq]
+        rng.shuffle(sample)
+        d = os.path.join(hd, args.judge_id); os.makedirs(d, exist_ok=True)
+        with open(os.path.join(d, "sample.jsonl"), "w") as f:
+            for i, r in enumerate(sample): f.write(json.dumps({"position": i + 1, **{k: r[k] for k in ("request_id", "stage", "concept_id", "user", "overlap")}}) + "\n")
+        json.dump({"next_position": 1, "done": 0, "total": len(sample)}, open(os.path.join(d, "progress.json"), "w"))
+        with open(os.path.join(hd, "registry.jsonl"), "a") as f:
+            f.write(json.dumps({"judge_id": args.judge_id, "name": args.name, "seed": seed, "size": len(sample),
+                                "overlap_items": len(order), "unique_items": len(uniq)}) + "\n")
+        print(f"{args.judge_id}: {len(sample)} items ({len(order)} overlap, {len(uniq)} unique) in humans/{args.judge_id}/sample.jsonl")
+    json.dump(judges, open(jp, "w"), indent=1)
+
+REQUIRED = ("judgment_id", "request_id", "stage", "concept_id", "judge", "run_index", "prompt_version", "label",
+            "fields", "notes", "confirmed", "created_at")
+
+def validate(args):
+    out, jid = args.out, args.judge_id
+    _, judges = judges_file(out); me = judges.get(jid)
+    if not me: sys.exit(f"{jid} is not registered")
+    if me["type"] == "model":
+        allowed = {r["request_id"] for f in glob.glob(os.path.join(out, "packets", jid, "*.jsonl")) for r in jload(f)}
+    else:
+        allowed = {r["request_id"] for r in jload(os.path.join(out, "humans", jid, "sample.jsonl"))}
+    errs, seen, n = [], set(), 0
+    for f in sorted(glob.glob(os.path.join(out, "results", jid, "**", "*.jsonl"), recursive=True)):
+        for ln, line in enumerate(open(f), 1):
+            if not line.strip(): continue
+            try: j = json.loads(line)
+            except ValueError: errs.append(f"{f}:{ln} not JSON"); continue
+            if "_batch" in j:
+                if me["type"] == "model" and me.get("model") and j.get("model_reported") != me["model"]:
+                    errs.append(f"{f}:{ln} model_reported {j.get('model_reported')!r} != registered {me['model']!r}")
+                continue
+            n += 1
+            miss = [k for k in REQUIRED if k not in j]
+            if miss: errs.append(f"{f}:{ln} missing {miss}"); continue
+            if j["request_id"] not in allowed: errs.append(f"{f}:{ln} {j['request_id']} was not assigned to {jid}")
+            key = (j["request_id"], j["run_index"])
+            if key in seen: errs.append(f"{f}:{ln} duplicate {key}")
+            seen.add(key)
+            labels = LABELS.get(j["stage"])
+            if labels and j["label"] not in labels | {"UNSURE"}: errs.append(f"{f}:{ln} label {j['label']!r} not allowed for {j['stage']}")
+            if j["judge"].get("id") != jid: errs.append(f"{f}:{ln} judge.id {j['judge'].get('id')!r} != {jid}")
+            if me["type"] == "human" and j["confirmed"] is not True: errs.append(f"{f}:{ln} human label not confirmed by the judge")
+    for e in errs[:50]: print("ERROR", e)
+    print(f"{jid}: {n} judgments, {len(errs)} errors"); sys.exit(1 if errs else 0)
+
 def stats(args):
-    """Fold judge labels (judgments/P2.jsonl: request_id, label, judge.model, run_index) into definition agreement."""
-    keys = {json.loads(l)["request_id"]: json.loads(l) for l in open(os.path.join(args.out, "keys", "anon.jsonl"))}
-    path = os.path.join(args.out, "judgments", "P2.jsonl")
-    if not os.path.exists(path): sys.exit("no judgments/P2.jsonl yet: run the requests through the judge panel first")
-    by_pair = defaultdict(list)
-    for l in open(path):
-        j = json.loads(l); k = keys[j["request_id"]]
-        by_pair[tuple(sorted((k["A"], k["B"])))].append((j["concept_id"], DEF_SCORE.get(j["label"]), j["label"]))
-    for pair, xs in by_pair.items():
+    """Fold every judge's results (results/<judge_id>/...) into definition agreement, per judge and per edition pair."""
+    keys = {k["request_id"]: k for k in jload(os.path.join(args.out, "keys", "anon.jsonl"))}
+    files = glob.glob(os.path.join(args.out, "results", "*", "**", "*.jsonl"), recursive=True)
+    if not files: sys.exit("no results/ yet: judges have not handed in")
+    by = defaultdict(list)
+    for f in files:
+        for j in jload(f):
+            if "_batch" in j or j.get("stage") != "P2" or j["request_id"] not in keys: continue
+            k = keys[j["request_id"]]
+            by[(j["judge"]["id"], tuple(sorted((k["A"], k["B"]))))].append((j["concept_id"], DEF_SCORE.get(j["label"]), j["label"]))
+    for (judge, pair), xs in sorted(by.items()):
         cs = sorted({c for c, _, _ in xs}); sc = defaultdict(list)
         for c, s, _ in xs:
             if s is not None: sc[c].append(s)
         st = lambda cc: (lambda v: sum(v) / len(v) if v else None)([sum(sc[c]) / len(sc[c]) for c in cc if sc[c]])
-        print(pair, "mean definition score", bootstrap(cs, st, args.reps), Counter(l for _, _, l in xs).most_common())
+        print(judge, pair, "mean definition score", bootstrap(cs, st, args.reps), Counter(l for _, _, l in xs).most_common())
+    # TODO(draft): family-balanced panel label, Codex-only, leave-one-judge-out, self-preference DiD (AGREEMENT-METHOD.md 4.4)
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(); sp = ap.add_subparsers(dest="cmd", required=True)
     r = sp.add_parser("run"); r.add_argument("out"); r.add_argument("--edition", action="append", required=True)
     r.add_argument("--lexicon"); r.add_argument("--with-reference", action="store_true")
     r.add_argument("--seed", type=int, default=7); r.add_argument("--reps", type=int, default=2000)
+    r.add_argument("--batch-size", type=int, default=50)
+    g = sp.add_parser("register"); g.add_argument("out"); g.add_argument("--judge-id", required=True)
+    g.add_argument("--type", choices=("model", "human"), required=True); g.add_argument("--name")
+    g.add_argument("--harness"); g.add_argument("--model"); g.add_argument("--drafted")
+    g.add_argument("--size", type=int, default=100); g.add_argument("--overlap", type=float, default=0.3)
+    g.add_argument("--pool-size", type=int, default=50); g.add_argument("--trap-share", type=float, default=0.1)
+    g.add_argument("--batch-size", type=int, default=50); g.add_argument("--salt", default="agree-v1")
+    g.add_argument("--force", action="store_true")
+    v = sp.add_parser("validate"); v.add_argument("out"); v.add_argument("--judge-id", required=True)
     s = sp.add_parser("stats"); s.add_argument("out"); s.add_argument("--reps", type=int, default=2000)
-    a = ap.parse_args(); run(a) if a.cmd == "run" else stats(a)
+    a = ap.parse_args()
+    {"run": run, "register": register, "validate": validate, "stats": stats}[a.cmd](a)

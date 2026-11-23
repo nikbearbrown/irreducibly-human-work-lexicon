@@ -1,8 +1,8 @@
 # Measuring semantic agreement between independent model editions of the lexicon
 
-**Status:** proposal, draft 1, written 2026-11-23 by Grok Bot for Nik Bear Brown. Nothing in this page has been run at full scale yet. `scripts/agreement.py` is a draft skeleton that does the deterministic parts (normalising the editions, coverage, ID and string alignment, the statistics) and writes the judge requests. It does not call a judge model yet.
+**Status:** proposal, draft 2, revised 2026-11-23 by Grok Bot for Nik Bear Brown. Draft 2 changes three things. Judges now run through the existing Codex and Claude Code subscription plans, so there is no API budget. The judge panel is Codex plus three Claude models, with self-preference controls. And there is a design for human judges, who are interviewed by an agent (section 7). The instructions for judges are in [judging/](judging/README.md): [AI-JUDGE-INSTRUCTIONS.md](judging/AI-JUDGE-INSTRUCTIONS.md) for model judges, [HUMAN-JUDGE-INSTRUCTIONS.md](judging/HUMAN-JUDGE-INSTRUCTIONS.md) for people, and [INTERVIEWER-PROTOCOL.md](judging/INTERVIEWER-PROTOCOL.md) for the agent that runs a person's session. All three share one schema ([judgment.schema.json](judging/judgment.schema.json)) and one validator (`agreement.py validate`). Nothing in this page has been run at full scale yet. `scripts/agreement.py` is a draft skeleton that does the deterministic parts (normalising the editions, coverage, ID and string alignment, the statistics) and writes the judge requests. It does not call a judge model. Judges read request files and write result files (section 9).
 
-**Question.** When several language models draft the same lexicon independently, how far do they agree on what each entry says? We want to know this field by field (sense, definition, links, variants, every relation type, basis, and whether a target is in the lexicon), for each pair of models and across all of them. Wording will always differ, so the method has to measure agreement in meaning, not in words. A language model acts as the judge, a panel of humans validates it, and embedding similarity serves as a cheap baseline.
+**Question.** When several language models draft the same lexicon independently, how far do they agree on what each entry says? We want to know this field by field (sense, definition, links, variants, every relation type, basis, and whether a target is in the lexicon), for each pair of models and across all of them. Wording will always differ, so the method has to measure agreement in meaning, not in words. A panel of language models acts as the judge, human judges validate it, and embedding similarity serves as a cheap baseline.
 
 **Builds on:** `compare_models.py` (a side-by-side view for people to read; it computes no agreement), `verify_drafts.py` (whether pointers are valid), the pilot design in `GENERATION_GUIDE.md` ("relations a reviewer judges unsupported, filled slots that should have been empty, and hypernym and hyponym reversals"), and the reviewer verdicts in `reviews/BRIEF.md` (`supports`, `contradicts`, `unsure`). Those verdicts measure whether a claim is correct. This page measures agreement, and section 11 explains how the two fit together.
 
@@ -132,6 +132,7 @@ All alignments are saved (`alignment/*.jsonl`, section 10) **before** any agreem
 | `CONFLICTING` | Same sense, but at least one factual claim contradicts (genus, issuer, what it is a kind of, scope). | 0.00 |
 | `DIFFERENT_SENSE` | Different referents. | 0.00 |
 | `ONE_SIDE_ONLY` | Computed, never judged: one edition has no value. | not scored, counted |
+| `UNSURE` | Any stage, model or human: the judge cannot tell. | missing (the rate is reported for each judge) |
 
 Sub-fields: `same_sense` (bool), `genus_a`, `genus_b` (a few words each), `conflicts` (a list of claim pairs), `confidence` (1–5), and `rationale` (40 words at most, quoting the short spans it relied on).
 
@@ -215,15 +216,45 @@ Output is validated against a JSON schema (`schemas/agreement-judgment.schema.js
 - Model names, `draft_set`, `_meta`, edition folder names and `flags` are removed. Model-identifying words in the text ("Grok", "Claude", "as an AI") are masked. Every item is shown in the same neutral format, for example `Definition A: ...`.
 - A and B are assigned at random for each call. In the pilot, and for a 10% sample at full scale, each pair is judged **in both orders**. The **position-flip rate** is reported, and `A_NARROWER` turning into `B_NARROWER` under the swap counts as consistent.
 - In P1 and P3, items are shuffled with a seed saved in the record.
-- The key that maps anonymous item IDs to models is written to a separate `keys/` file that the judge never sees.
+- The key that maps anonymous item IDs to models is written to a separate `keys/` file that the judge never sees. A request file never contains an edition name.
+- **Style normalisation before judging.** Every text is first put into the common canonical format of section 1.1. A deterministic normaliser then (a) unifies quotes, dashes, spacing and the final full stop, (b) maps British spellings to American with a fixed word list, (c) removes stock openings ("In job postings, ...", "Refers to ...") from a fixed list, and (d) shows variants and relation targets as bare names in a fixed order. The normaliser never changes content words. Its rules are versioned along with the prompts.
+- **Leak check.** On 100 pilot pairs, each judge is asked which of the two texts a Claude model wrote. If any judge does better than chance (a binomial test, p < 0.05), the blinding leaks style. The normaliser is then tightened and the check repeated. The accuracy is reported either way.
 
-### 4.4 Choosing the judge and checking its consistency
+### 4.4 The judge panel, self-preference, and consistency
 
-- **Rule:** a judge never judges a pair that includes its own model family. Families under test now are xAI (Grok) and Anthropic (Claude). Later editions will add others.
-- **Recommended: a panel of three** judges from families outside the editions being compared, including **one open-weights model** with pinned weights, so the full analysis can be rerun exactly. The panel label is the majority. If all three differ, the item is `NO_MAJORITY` and goes to a human. Panel agreement is reported (section 7.4).
-- If an N-th edition comes from a judge's family, that judge is left out of every pair touching that edition, and the remaining two decide (with a tie going to a human).
-- **Self-consistency:** each judge runs R = 3 times in the pilot (temperature 0.7, different order seeds), and R = 1 at full scale plus R = 3 on a 10% stratified sample. Test-retest is reported as Krippendorff's α across runs.
-- Every model version, date, temperature, seed and prompt hash is pinned in each record, so drift in a hosted model can be detected.
+**Panel.** Four model judges, each run through a subscription plan Bear already has, in an agent harness. No paid API is used.
+
+| Judge id | Harness and plan | Family | Also a drafter? |
+|---|---|---|---|
+| `codex` | Codex (OpenAI), Bear's US$200-a-month plan | OpenAI | no |
+| `claude-fable` | Claude Code, Claude Fable | Anthropic | no (same family as a drafter) |
+| `claude-sonnet` | Claude Code, Claude Sonnet | Anthropic | **yes**, if it is Sonnet 5.5 (the `claude-sonnet-5-5` edition, and most of `reference`) |
+| `claude-opus` | Claude Code, Claude Opus | Anthropic | no (same family as a drafter) |
+| `grok-bot` (optional) | Grok | xAI | **yes** (the `grok` edition) |
+
+**Self-exclusion: drafters never judge their own edition.** The rule works item by item. A model that drafted an edition is never shown any item whose hidden key includes that edition, and `agreement.py register --drafted` enforces this when it writes the judge's packets. Concretely:
+
+- **Grok** drafted `grok`, so it never judges an item involving Grok's edition. Today that leaves it only Sonnet × reference items (2,895 of 9,544 definition requests), and in future, pairs of other editions. If Bear prefers the stricter reading ("a drafter never judges at all"), Grok simply isn't registered (decision 1 in section 12).
+- **Claude Sonnet 5.5**, if the panel's Sonnet is that same model, is excluded from items involving `claude-sonnet-5-5` or `reference`. On items about other editions, it judges normally.
+- **Fable and Opus** drafted nothing, so they judge everything. Because they share a family with a drafter, they are checked for self-preference below.
+- **Any future edition:** its model registers with `--drafted <edition>`, and the same rule applies.
+- **Self-judgment probe:** to measure self-preference directly, a drafter can additionally be run on its own edition's items under a separate judge id (for example `claude-sonnet-selfprobe`). Probe labels are compared with the panel's and **never** enter the panel label.
+
+**Aggregating the panel.** Three of the four judges are Anthropic models, so a simple majority would let one family decide. The **primary label is balanced by family**: the Claude label is the majority of the three Claude judges (or their median for the ordinal definition score); the Codex label stands alone; and the panel score is the mean of the two family scores. For nominal labels, the panel label is the one the two families agree on, and items where they disagree go to `FAMILY_SPLIT` (counted, and oversampled for humans). The **full four-judge majority** is reported next to the primary label.
+
+**Self-preference controls:**
+
+1. **Blinding and style normalisation** (section 4.3), with the leak check.
+2. **Codex-only results** next to every panel result. Codex is the only judge outside the family of any drafter, so it is the cleanest reading.
+3. **Self-preference check (difference in differences).** Each Claude judge j (Fable and Opus on every item; Sonnet through its self-judgment probe) gets a score for leniency toward the Sonnet edition, relative to Codex:
+   Δ_j = [mean score_j − mean score_codex] on pairs **involving** the Sonnet edition − [the same difference] on pairs **not involving** Sonnet or the reference (which Sonnet mostly wrote).
+   Today the non-Sonnet pairs are Grok grounded × Grok ungrounded in the pilot, plus any later editions. Δ_j gets a bootstrap interval. If the interval excludes 0, judge j shows self-preference (or, from the Codex side, lack of it). For the same check on alignments (P3), the outcome is the rate at which a judge merges a Sonnet target with another edition's target. For relation types (P4), it is the rate of `SAME_TYPE` when one side is Sonnet. When the correctness review (section 11.1) is added, the same check uses "supports" on Sonnet claims, where self-preference matters most.
+4. **Leave one judge out.** Every main table (T3, T5) is recomputed once without each judge in turn (and without Grok, if Grok judged). A conclusion is reported as robust only if it holds every time.
+5. **Agreement between judges, by family** (section 7.4). If Claude judges agree with each other much more than with Codex, the gap is reported. That gap is a family effect, not evidence that the Claude judges are right.
+
+**Self-consistency.** Agent harnesses do not expose temperature or seeds, so repeat runs vary through order and session instead. Each judge runs R = 3 times in the pilot, each time in a fresh session with a different shuffle seed and the other A/B order. At full scale, R = 1, plus R = 3 on a 10% stratified sample. Test-retest is reported as Krippendorff's α across runs.
+
+**Pinning.** Each batch records the harness and its version, the model as the harness reports it, the reasoning-effort setting, the plan, and the start and end time with zone (section 9.4). A batch whose reported model differs from the manifest is rejected and rerun.
 
 ---
 
@@ -301,26 +332,35 @@ The lexicon at `91312fec` is treated as an **additional edition**, not as the ri
 
 ## 7. Is the judge right? Validation
 
-### 7.1 The human sample
+### 7.1 Human judges: who judges what
 
-A **stratified sample, separate for each field type**, annotated independently by two people with expertise in the field (for example Bear and one trained research assistant). They are blind to model identity and to the judge's labels, and use the same rubric and the same anonymised rendering the judge saw.
+**No file upload.** A human judges by talking to Claude Code or Codex opened in this repository. The agent acts as an interviewer, following [judging/INTERVIEWER-PROTOCOL.md](judging/INTERVIEWER-PROTOCOL.md) (AGENT-AS-INTERVIEWER). The person reads [judging/HUMAN-JUDGE-INSTRUCTIONS.md](judging/HUMAN-JUDGE-INSTRUCTIONS.md). It registers the judge, draws their sample, and shows the blinded items one at a time. It maps the judge's free-form comments to the fixed label set, reads the label back for the judge to confirm, and keeps the judge's own words verbatim in `notes`. It writes `results/<judge_id>/` in the same schema as the model judges, runs the validator, and commits under the judge's name. A judge can pause and resume at any point. The interviewing agent records labels only; it never suggests one before the judge has spoken. Its mapping is checked because every label is read back and confirmed.
 
-| Stratum | Pilot | Full scale |
-|---|---:|---:|
-| definition pairs | all: 32 shared pilot concepts × (Grok ungrounded × Sonnet, Grok grounded × Sonnet, Grok grounded × ungrounded) = 96 | **300** |
-| sense clusters | all | 150 |
-| meaning-based alignments (targets and variants) | all | 200 groups |
-| relation type labels (P4) | all | 200 |
-| link disagreements (P6) | all | 100 (or all, if fewer) |
+**Sampling (seeded, drawn fresh for each judge at registration):**
 
-**Why 300 definition pairs:** to estimate judge–human Cohen's κ near 0.7 on five categories with a 95% interval half-width of about ±0.07, about 250–300 items are needed. To estimate a proportion near 0.8 to ±0.05, 246 are needed. Sampling is **stratified by judge label**, with at least 30 each of CONFLICTING and DIFFERENT_SENSE, which are rare but matter most. It is also stratified by broad class and by schema pair. Estimates are reweighted to the population with inverse sampling weights. Smaller fields use about 150–200 items, which gives about ±0.08–0.10.
+- **Size:** about **100 items** per judge by default, or **50** if the judge prefers.
+- **Strata:** field (sense, definition, alignment, relation type, link) × broad class (skill, ability, knowledge, language, credential), allocated in proportion to the request pool with at least one item per non-empty cell. Kinds are spread within each cell. **Trap concepts** are always included, at a quota of at least 10% of each sample.
+- **Overlap:** about **30%** of each judge's items come from a **shared overlap pool**, assigned least-judged-first, so every overlap item gets **at least 2** human judges once enough people have registered (with a pool of 50 and 30 overlap items each, from the fourth judge on). The other **70%** are **unique** to that judge and never given to another.
+- **Scale:** with 10 judges at 100 items each, that is about 1,000 human judgments. With an overlap pool of 50 items, each pool item gets about 6 judges, and there are about 700 + 50 = **750 unique items**. Pool size, sample size, overlap share and the trap quota are all settings (`agreement.py register --size --overlap --pool-size --trap-share`).
+- **Reproducibility:** the judge's seed is derived from the run salt and the judge id, and recorded in the registry, so anyone can redraw the same sample.
+- **Optional rare-label boost:** if model judgments already exist when a judge registers, CONFLICTING, DIFFERENT_SENSE and FAMILY_SPLIT items can be oversampled. Sampling weights are recorded, and estimates are reweighted to the population with inverse weights.
 
-**Effort:** about 1.5 minutes per definition pair and 2 to 3 minutes per alignment group. That comes to roughly **20 hours per annotator** at full scale and about 3 hours for the pilot.
+**Why this design:**
+
+- *Judge–human agreement* needs many distinct items more than repeated ones. The 70% unique share gives about 700 items, which estimates judge–human κ to about ±0.05 overall and to about ±0.08–0.10 per field.
+- *Human–human agreement* is the ceiling the judge is held to (section 7.2). The overlap pool gives every pool item several human ratings. Krippendorff's α handles that incomplete, unbalanced design directly. A pool of 50 items × about 6 raters estimates human α to about ±0.1. A larger pool (for example 100 items at about 3 raters each) narrows that interval at the cost of fewer unique items, and the setting makes the trade explicit.
+- A fresh seeded sample for each judge spreads human attention across the lexicon instead of concentrating it on one fixed set. It also keeps any single judge's tastes from defining the gold standard.
+- Stratification guarantees that every field and every broad class is validated, including small ones (abilities, languages), and the trap quota guarantees that the hardest cases get human eyes.
+- Humans see the same blinded, style-normalised rendering as the model judges, so differences come from the judging, not from what was shown.
+
+**Effort:** 100 items at about 1.5 to 3 minutes each is roughly **3 to 5 hours per judge**, which can be split across sessions with pause and resume.
+
+**Pilot:** the 32 shared pilot concepts form their own pool. Bear plus at least one other judge label all of it (96 definition pairs plus the other fields). That pilot work tunes the rubric before the seeded samples above are drawn for the full run.
 
 ### 7.2 What gets reported
 
-- **Human–human** κ and α before adjudication. This is the **ceiling** for the judge.
-- **Judge–human**, measured against the adjudicated label: κ (weighted κ for the ordinal definition scale), a confusion matrix, and precision and recall for "same meaning" and for "conflicting".
+- **Human–human** α (and pairwise κ) on the overlap pool, before adjudication. This is the **ceiling** for the judge. Adjudication of overlap items uses the majority of the human judges, and ties go to Bear.
+- **Judge–human** on every human-judged item, measured against the adjudicated label where there is one and against the single human label otherwise. This is reported for the primary panel, for Codex alone, and for each judge: κ (weighted κ for the ordinal definition scale), a confusion matrix, and precision and recall for "same meaning" and for "conflicting".
 - **Acceptance rule, fixed before the full run:** the judge panel is accepted for a field if judge–human κ ≥ 0.6 **and** is no more than 0.1 below human–human. Otherwise the rubric is revised, but **only on the pilot development split**, and the validation sample is drawn fresh after the rubric is frozen.
 
 ### 7.3 Consistency within one judge
@@ -329,16 +369,16 @@ Test-retest α across R runs, and the position-flip rate (section 4.3).
 
 ### 7.4 Agreement between judges
 
-Pairwise κ and Fleiss' κ across the three-judge panel; the `NO_MAJORITY` rate; and whether any judge leans systematically toward one edition, compared using the anonymisation key after judging.
+Pairwise κ for every pair of judges, and Fleiss' κ across the four; agreement within the Claude family against agreement between Codex and the Claude judges; the `FAMILY_SPLIT` rate; and the self-preference check of section 4.4.
 
 ---
 
 ## 8. Plan in stages (pilot first)
 
 1. **Stage 0: freeze and normalise.** Record the commit SHA of each edition, run the adapters, and produce the coverage tables, the crosswalk audit and the deterministic alignments (ID and name). No model calls. *(The skeleton script does this now.)*
-2. **Stage 1: pilot.** The 32 shared pilot concepts, plus the reference, plus Grok grounded against Grok ungrounded. Judge panel with R = 3, both orders. Full human annotation. Tune the rubric on half the concepts (development) and test it on the other half.
+2. **Stage 1: pilot.** The 32 shared pilot concepts, plus the reference, plus Grok grounded against Grok ungrounded. Model judge panel (section 4.4) with R = 3, both orders, and the leak check. Full human annotation. Tune the rubric on half the concepts (development) and test it on the other half.
 3. **Stage 2: freeze.** Prompt version `agree-v1` is locked. The analysis plan (this page, with its weights and acceptance rule) is committed with a tag **before** the full run.
-4. **Stage 3: full scale.** The 2,895 shared concepts, plus 855 Grok-only credentials (coverage and reference comparison only). R = 1 plus a 10% sample at R = 3. Draw the human validation sample.
+4. **Stage 3: full scale.** The 2,895 shared concepts, plus 855 Grok-only credentials (coverage and reference comparison only). R = 1 plus a 10% sample at R = 3. Human judges register and are interviewed (section 7.1).
 5. **Stage 4: as more editions arrive.** When another model hands in an edition, it gets an adapter; only the new pairs are judged; and α and Fleiss' κ are recomputed. Pairwise calls grow as N(N − 1)/2, while the clustering calls (P1, P3) stay at one per concept.
 6. **Stage 5: paper.** Tables and figures (section 10.2).
 
@@ -348,45 +388,76 @@ For the pilot, there are two contrasts: (a) **within a model**, Grok grounded ag
 
 ---
 
-## 9. Cost and compute
+## 9. Run plan (subscription agents, no API)
 
-Per concept with N editions: P1 once, P2 N(N − 1)/2 times, P3 at most twice (variants, targets), P4 once per concept with type disagreements (batched), P6 rarely. Call it about **3 + N(N − 1)/2 calls**, with about 1.5k tokens in and 0.3k out each.
+There is **no dollar budget**. All judging runs through the plans Bear already has: Codex (OpenAI, US$200 a month) and Claude Code (Fable, Sonnet, Opus). The plans are flat-rate, so the limits are the plans' usage windows and wall-clock time. Nothing is billed per token.
 
-| Scope | Editions | Calls per judge run | Tokens per judge run (in / out) | Panel of 3, plus repeats |
-|---|---:|---:|---|---|
-| Pilot, 32 concepts | 2 + reference + grounded | about 32 × 9 ≈ 290; × 2 orders × R 3 ≈ 1.7k | about 2.6M / 0.5M | about 5k calls, about 8M / 1.5M tokens |
-| Full, 2,895 concepts, today | 2 (+ reference = 3) | about 2,895 × 6 ≈ 17k | about 26M / 5M | × 3 judges × 1.1 ≈ 57k calls, about 86M / 17M tokens |
-| Full, 3,754 concepts, N = 5 | 5 | about 3,754 × 13 ≈ 49k | about 73M / 15M | about 160k calls, about 240M / 48M tokens |
+### 9.1 Requests and results are files, so any agent can do the work
 
-Cost scales as (input tokens × input price) + (output tokens × output price). For illustration, at US$3 per million input tokens and US$15 per million output tokens, the full run today costs about **US$500** for the panel, and the five-edition case about **US$1,450**. Batch APIs usually halve this. Running the open-weights judge locally costs nothing per call but takes GPU time: roughly one day on a single 80 GB GPU for the 3,754-concept, five-edition case at an 8B–70B model size. The embedding baseline and all the statistics run on CPU in minutes. The human annotation in 7.1 is the scarce resource.
+- `agreement.py run` writes `requests/<stage>/batch-NNNN.jsonl`. Each batch holds 50 requests, and each line has `request_id`, `system`, `user` and `prompt_sha256`, with no edition names. A batch is the unit of work.
+- `agreement.py register` gives each model judge its own copy, `packets/<judge_id>/batch-NNNN.jsonl`, with self-exclusion already applied (section 4.4).
+- A judge session gets one instruction ([judging/AI-JUDGE-INSTRUCTIONS.md](judging/AI-JUDGE-INSTRUCTIONS.md)): read its packet batch; answer each line independently, following its own system and user text; write one JSON line per request to `results/<judge_id>/<stage>/batch-NNNN.jsonl`; then run `agreement.py validate`.
+- **One fresh session per batch.** No context carries between batches, which keeps judgments independent and stops the drift that builds up in long sessions. Within a batch, the session must not compare lines with each other.
+- Headless invocation, for example `codex exec -m <model> "<batch-judge prompt> requests/P2/batch-0007.jsonl"` or `claude -p --model <model> "<...>"`, the same way `run_batch.sh` already drives `claude -p`. Interactive sessions work too: the prompt is the same either way.
+- `manifest.json` lists every batch × judge × run with a status (`todo`, `done`, `invalid`, `rerun`). A runner picks the next `todo`, so a stopped run resumes where it left off. Invalid replies get one retry (section 4.2).
+
+### 9.2 Request and session counts (rough)
+
+About 3 + N(N − 1)/2 requests per concept, where N counts editions plus the reference, plus order swaps and repeats.
+
+| Scope | Requests per judge | Batches (= sessions) per judge, at 50 per batch | Four judges |
+|---|---:|---:|---:|
+| Pilot, 32 concepts (Grok ungrounded, Grok grounded, Sonnet, reference; both orders; R = 3) | about 1,500 | about 30 | about 120 sessions |
+| Full, 2,895 shared concepts today (Grok, Sonnet, reference; R = 1 plus 10% at R = 3) | about 21,000 | about 420 | about 1,700 sessions |
+| Full, 3,754 concepts, 5 editions | about 55,000 | about 1,100 | about 4,400 sessions |
+
+Batches of 100 halve the session counts if a harness handles them reliably. The pilot shows which size works.
+
+### 9.3 Rate limits
+
+- Subscription plans meter usage in rolling windows (for example over a few hours, plus a weekly cap). The current limits are whatever the plan shows at the time; this page does not assume a number. The runner runs a small number of parallel sessions per plan (for example 2 to 4). When a session hits a limit, it marks the batch `todo` again and waits for the window to reset.
+- Codex and Claude Code have separate limits, so the four judges can run at the same time. The three Claude judges share one plan's limits, so the Claude side is the slower one. It is scheduled round-robin across Fable, Sonnet and Opus, so that no judge finishes far ahead of the others and model updates hit all three at about the same point.
+- At a rough 5 to 10 minutes per 50-request batch, the full run today is about 35 to 70 hours of session time per judge. Spread across usage windows, that is one to three weeks of calendar time. The pilot fits in a day or two.
+- Usage spent on judging competes with Bear's other work on the same plans. The runner has a quiet-hours setting, and full-scale stages are scheduled for when the plans are otherwise idle.
+
+### 9.4 Pinning and recording the model
+
+- Each judge's model is set explicitly at launch (`-m` / `--model`) and never left to a default. At the start of each batch, the session writes a header line to its result file: `{"_batch": "...", "judge_id": "...", "harness": "codex|claude-code", "harness_version": "<codex --version | claude --version>", "model_reported": "<the model id the harness reports>", "effort": "<reasoning effort, if set>", "plan": "...", "started_at": "...-05:00"}`. It writes `finished_at` at the end.
+- `validate` rejects a batch whose `model_reported` differs from the judge's entry in `judges.json`. If a provider changes the model behind a name partway through, the batches before and after are given different `judge_version` values and tested for a shift (on the repeated 10% sample).
+- Because the model behind a hosted name can change, exact reruns are not guaranteed. Every request, result line and raw reply hash is committed, so the analysis itself can always be recomputed.
+
+The embedding baseline and all the statistics run on CPU in minutes. The human interviews in 7.1 take the most time.
 
 ---
 
 ## 10. Outputs
 
-### 10.1 Files (under `work/agreement/<run>/`)
+### 10.1 Files (under `agreement/<run>/`, committed on a branch)
 
 - `canonical/<edition>.jsonl`: one canonical entry per concept (section 1.1), with `edition`, `edition_sha`, `schema`, `run`.
 - `coverage.csv`: concept_id, kind, broad_class, and one column per edition (`drafted`, `missing`, `out_of_scope`).
 - `alignment/{targets,variants}.jsonl`: `{concept_id, field, cluster_key, members: [{edition, item_index, text, target_id}], resolved_by: id|name|judge|human, judgment_id}`.
 - `keys/anon.jsonl`: `{request_id, item_id, edition}`. Never shown to the judge.
-- `requests/<stage>.jsonl`: `{request_id, stage: P1..P6, concept_id, field, prompt_version, prompt_sha256, order_seed, system, user}`.
-- `judgments/<stage>.jsonl`, one line per judge reply:
+- `requests/<stage>/batch-NNNN.jsonl`: `{request_id, stage: P1..P6, concept_id, field, kind, broad_class, trap, prompt_version, prompt_sha256, order_seed, system, user}`. Only `system` and `user` are shown to a judge.
+- `judges.json`: the panel (id, type `model` or `human`, harness, pinned model, family, drafter flag).
+- `humans/registry.jsonl`, `humans/overlap-pool.jsonl`, `humans/<judge_id>/sample.jsonl`, `humans/<judge_id>/progress.json`: registration, the seeded sample and the resume point.
+- `results/<judge_id>/<stage>/batch-NNNN.jsonl` for model judges, or `results/<judge_id>/judgments.jsonl` for humans. **The same line schema for both**, one line per judgment:
 
 ```json
 {"judgment_id": "j-000123", "request_id": "r-000123", "stage": "P2", "concept_id": "sh6x1wmacn",
- "field": "definition", "pair": ["e1", "e2"], "order": ["e2", "e1"],
- "judge": {"model": "...", "version": "...", "family": "...", "temperature": 0.7, "seed": 11},
- "run_index": 0, "prompt_version": "agree-v1", "prompt_sha256": "...",
- "label": "A_NARROWER", "label_canonical": "NARROWER:e2<e1",
+ "field": "definition",
+ "judge": {"id": "codex", "type": "model", "harness": "codex", "model_reported": "...", "judge_version": 1},
+ "run_index": 0, "order_seed": 11, "prompt_version": "agree-v1", "prompt_sha256": "...",
+ "label": "A_NARROWER",
  "fields": {"same_sense": true, "genus_a": "...", "genus_b": "...", "conflicts": [], "confidence": 4,
             "rationale": "..."},
- "valid": true, "attempts": 1, "tokens_in": 1430, "tokens_out": 210, "raw_sha256": "...",
- "created_at": "2026-12-01T10:00:00-05:00"}
+ "notes": null, "confirmed": null,
+ "valid": true, "attempts": 1, "raw_sha256": "...", "created_at": "2026-12-01T10:00:00-05:00"}
 ```
 
-- `human/annotations.jsonl`: the same shape, with `annotator`, plus `adjudicated.jsonl`.
-- `results/*.csv`: one file per table below, each with its bootstrap intervals.
+  A human line has `judge.type = "human"`, `judge.name`, the judge's words verbatim in `notes`, and `confirmed: true` once the judge has accepted the read-back label. The model-only fields (`raw_sha256`, `attempts`) are null for humans. The pairing of A and B with editions lives only in `keys/`, and the statistics step joins it in.
+- `adjudicated.jsonl`: the resolved labels for overlap items.
+- `tables/*.csv`: one file per table below, each with its bootstrap intervals.
 
 ### 10.2 Tables and figures for the paper
 
@@ -423,22 +494,23 @@ Cost scales as (input tokens × input price) + (output tokens × output price). 
 2. **A shared anchor.** Both drafting routes could see the lexicon's existing record (the kit's bundles include it), and most of that record was written by Sonnet. This inflates agreement. Mitigation: the copy-through rate and agreement conditional on departing from the reference (section 6.6).
 3. **Model is confounded with schema and prompt.** Grok used the kit (gen-v2) and Sonnet used its own schema and instructions. A difference between them is therefore model **plus** procedure. The coarse-axis comparison reduces this but does not remove it. The fix is for each model to also run the kit as it is (stage 4).
 4. **Differences in procedure.** Grok drafted every concept in one session rather than a fresh chat per concept (recorded in its RUN.md). The Sonnet model label is still awaiting the user's confirmation (its RUN.md). Both are recorded as edition covariates.
-5. **Judge bias:** preferring its own family (handled by the family-exclusion rule), favouring longer or more fluent text, position bias (both orders tested), and leniency (labelling things OVERLAPPING too readily). Measured in 7.2 to 7.4.
+5. **Judge bias:** self-preference, because three judges are Anthropic models and one of them may be the same model as a drafter (handled by blinding, style normalisation, the leak check, Codex-only results, family-balanced aggregation, the difference-in-differences check and leave-one-judge-out; section 4.4); family-level shared blind spots, which balancing by family reduces but cannot remove with only two families; favouring longer or more fluent text, position bias (both orders tested), and leniency (labelling things OVERLAPPING too readily). Measured in 7.2 to 7.4.
 6. **Alignment errors propagate.** An over-eager merge in P3 inflates set F1. Mitigation: deterministic passes first, a conservative prompt ("not broader or narrower"), and human checks on 10% of the meaning-based alignments.
 7. **Ambiguity in the labels and the rubric.** NARROWER against OVERLAPPING is a fuzzy line. The human–human ceiling measures how fuzzy, and a sensitivity analysis merges them.
 8. **Prevalence and sparsity.** Mostly empty fields (Sonnet's relations) give paradoxical κ values. Presence, AC1 and conditional agreement are reported separately (section 6.1).
 9. **Concepts are not independent.** Look-alike and near-duplicate concepts are related, and bootstrap resampling by concept understates the uncertainty for them. A sensitivity check resamples families of related concepts (clusters of trap concepts).
 10. **Coverage is selected.** The overlap excludes credentials, so the result is not about the whole lexicon. Credential agreement must wait for a second edition that covers credentials.
-11. **Drift and reproducibility.** Hosted judge models change. Versions are pinned, the open-weights judge serves as a reproducible anchor, and every request is saved with its raw reply hash.
+11. **Drift and reproducibility.** Hosted judge models change. Subscription harnesses report a model name but may change what sits behind it. Batches are pinned and stamped (section 9.4), shifts are tested on the repeated sample, and every request and reply is committed.
 12. **Many comparisons.** There are many fields × breakdowns × pairs. A short list of primary outcomes is fixed in advance (T3 per field and T5 at level (ii)), and everything else is exploratory with Holm correction.
 
 ---
 
 ## 12. Decisions for Bear
 
-1. **Judge models:** which three families, and which open-weights model, given that xAI and Anthropic are under test.
-2. **Human annotators** and the sample sizes (default: 300 definition pairs; 150–200 for the other fields; full annotation for the pilot).
+1. **The exact model ids** for `codex`, `claude-fable`, `claude-sonnet` and `claude-opus`, and whether `claude-sonnet` is the same Sonnet 5.5 that drafted (if it is, the self-preference check matters most). Also: does Grok judge items that don't involve its own edition (the default here), or not judge at all?
+2. **Human judges:** who the roughly 10 are, and the settings (default: 100 items, 30% overlap, a pool of 50, a 10% trap quota; full pilot pool labelled by Bear and at least one other judge).
 3. **Weights and the hard gate** for the entry score, and the acceptance threshold (κ ≥ 0.6 and within 0.1 of human–human).
 4. **Whether to ask the Sonnet run (and future models) to also run the kit's gen-v2**, so the comparison is not confounded with schema. Without this, links, work sense, conditions and fine relation types are compared for Grok alone.
 5. **Whether the reference lexicon counts as an edition** in α (default: reported separately, not counted).
-6. **Budget** for hosted judges (about US$500 today, about US$1,450 for five editions at the illustrative prices).
+6. **Scheduling:** how much of each plan's usage judging may take, and the quiet hours (section 9.3).
+7. **Batch size** (50 or 100 requests per session), settled in the pilot.

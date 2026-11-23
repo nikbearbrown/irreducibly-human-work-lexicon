@@ -1,0 +1,11 @@
+Concept: "{preferred_name}" (kind: {kind}; broad class: {broad_class})
+Lexicon neighbours, for orientation only: {up to 10 neighbour names}
+
+Each drafter states the sense of this concept as used in work:
+{for each item, in random order: [S1] text, [S2] text, ...}
+
+Group the statements so that two statements share a group if and only if they refer to the same thing a
+job posting could ask for (same referent), even if one is broader or narrower. Different referents (for
+example a programming paradigm versus a customer-service attitude) go in different groups.
+Return: {"groups": [["S1","S3"],["S2"]], "majority_reading": "<10 words>", "ambiguous_name": true|false,
+         "note": "<=30 words"}
