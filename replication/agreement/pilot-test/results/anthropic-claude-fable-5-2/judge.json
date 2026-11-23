@@ -1,0 +1,24 @@
+{
+ "judge_id": "anthropic-claude-fable-5-2",
+ "provider": "anthropic",
+ "model_name": "claude-fable",
+ "model_version": "5.2",
+ "version_status": "stated",
+ "model_reported": "claude-fable-5-2",
+ "harness": "claude-code",
+ "harness_version": "2.1.150 (Claude Code)",
+ "effort": null,
+ "plan": null,
+ "flags": [
+  "same_family_as_drafter"
+ ],
+ "self_exclusion": {
+  "drafter_rows": [],
+  "editions_excluded": 0,
+  "requests_total": 144,
+  "requests_assigned": 144
+ },
+ "seed": 2888534705,
+ "batch_size": 50,
+ "joined_at": "2026-11-23T16:27:55-05:00"
+}
