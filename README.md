@@ -8,7 +8,7 @@ The project is led by **Nik Bear Brown**. Repository copyright: **Humanitarians 
 
 ## Contribute
 
-Help us verify an entry, add evidence from your field, or critique the paper and its proposed evaluation. Start with the [contributor guide](CONTRIBUTING.md) or read the [rough manuscript](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). No collaborator access is needed to open an issue.
+Help us verify an entry, add evidence from your field, or critique the paper and its proposed evaluation. Start with the [contributor guide](CONTRIBUTING.md) or read the [rough manuscript](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). No collaborator access is needed to open an issue. If you hope to be an author, the guide also says [how credit works and what we expect from authors](CONTRIBUTING.md#credit-and-what-we-expect-from-authors).
 
 ## Current inventory at a glance
 
