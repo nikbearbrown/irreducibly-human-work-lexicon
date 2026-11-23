@@ -8,15 +8,16 @@ replication/judging/README.md. One line schema and one validator (`validate`) se
 Usage:
   agreement.py run OUT_DIR --edition NAME=SCHEMA:PATH[,PATH...] [--edition ...] [--lexicon LEXICON_REPO] [--seed 7]
      SCHEMA is gen-v2 | sonnet-edition | lexicon. Later paths override earlier ones for the same concept_id.
-  agreement.py register OUT_DIR --judge-id ID --type model|human [--name NAME] [--harness codex|claude-code]
-                   [--model MODEL] [--drafted EDITION[,EDITION]] [--size 100] [--overlap 0.3] [--pool-size 50]
-                   [--trap-share 0.1] [--batch-size 50] [--salt agree-v1]
-     model: writes packets/<id>/batch-NNNN.jsonl with every request it may judge (self-exclusion applied)
-     human: draws the seeded, stratified sample (30% from the shared overlap pool) into humans/<id>/sample.jsonl
-  agreement.py confirm-model OUT_DIR --slot SLOT --provider P --model-name M (--version X.Y | --version-unknown)
-                   --model-reported "<string the harness reports>" [--harness-version V]
-     (first session of a model judge: prints the versioned judge id, e.g. anthropic-claude-fable-5-2,
-      and writes results/<judge_id>/judge.json; an unknown version is FLAGGED, never guessed)
+  agreement.py join OUT_DIR --provider P --model-name M (--version X.Y | --version-unknown) --model-reported "<as shown>"
+     Model judges (any model). Builds the versioned judge id (<provider>-<model>-<version>), looks the model up in
+     judging/drafters.tsv to decide self-exclusion (the judge never chooses it), writes packets/<judge id>/ in a
+     per-judge random order, and records results/<judge id>/judge.json. Run again to resume.
+  agreement.py judge-id OUT_DIR --provider P --model-name M (--version X.Y | --version-unknown)   (prints the id only)
+  agreement.py export-packet OUT_DIR --judge-id ID [--batch N] [--write FILE]   (chat-only: one paste block)
+  agreement.py import OUT_DIR --judge-id ID [--batch N] --reply FILE            (chat-only: store and validate a reply)
+  agreement.py register OUT_DIR --judge-id human-xx --name NAME [--size 100] [--overlap 0.3] [--pool-size 50]
+     Human judges: draws the seeded, stratified sample (30% from the shared overlap pool) into humans/<id>/.
+  agreement.py build-exclusions OUT_DIR --keys PRIVATE/keys/anon.jsonl   (operator; `run` does this itself)
   agreement.py validate OUT_DIR --judge-id VERSIONED_ID   (checks results/<id>/; exit 1 on any error)
   agreement.py stats OUT_DIR --keys PRIVATE/keys/anon.jsonl   (after results/ exist)
 
@@ -281,6 +282,7 @@ def run(args):
             for r in req[b:b + args.batch_size]: f.write(json.dumps(r) + "\n")
     with open(os.path.join(priv, "keys", "anon.jsonl"), "w") as f:
         for k in keys: f.write(json.dumps(k) + "\n")
+    write_exclusions(args.out, {k["request_id"]: k for k in keys})
     print("\n".join(rows)); print(f"wrote {len(req)} P2 requests (blinded); PRIVATE key in {priv}/keys/anon.jsonl")
 
 # ---------- judges: registration, sampling, validation (one schema for model and human judges) ----------
@@ -311,31 +313,15 @@ def stratified(items, n, rng, trap_share):
     return pick[:n]
 
 def register(args):
+    """Human judges only. Model judges use `join` (they never choose their own exclusions)."""
     out = args.out; reqs = all_requests(out)
-    kp = args.keys or os.path.join(out, "keys", "anon.jsonl")
-    keys = {k["request_id"]: k for k in jload(kp)}
-    if args.type == "model" and args.drafted and not keys:
-        sys.exit(f"self-exclusion needs the private key file; pass --keys (looked for {kp})")
+    if args.type != "human": sys.exit("model judges join with `agreement.py join` (see replication/judging/AI-JUDGE-INSTRUCTIONS.md)")
     jp, judges = judges_file(out)
     if args.judge_id in judges and not args.force: sys.exit(f"{args.judge_id} is already registered (use --force to redraw)")
-    drafted = set(filter(None, (args.drafted or "").split(",")))
     seed = int(hashlib.sha256(f"{args.salt}|{args.judge_id}".encode()).hexdigest()[:8], 16)
-    judges[args.judge_id] = {"type": args.type, "name": args.name, "harness": args.harness, "model": args.model or None,
-                             "drafted": sorted(drafted), "seed": seed, "salt": args.salt, "size": args.size,
+    judges[args.judge_id] = {"type": "human", "name": args.name, "seed": seed, "salt": args.salt, "size": args.size,
                              "overlap": args.overlap, "pool_size": args.pool_size, "trap_share": args.trap_share}
-    if args.type == "model":
-        # self-exclusion: never a request whose hidden key contains an edition this model drafted
-        ok = [r for r in reqs if not drafted & {keys.get(r["request_id"], {}).get("A"), keys.get(r["request_id"], {}).get("B")}]
-        random.Random(seed).shuffle(ok)  # each judge sees its own seeded order
-        d = os.path.join(out, "packets", args.judge_id); os.makedirs(d, exist_ok=True)
-        for old in glob.glob(os.path.join(d, "batch-*.jsonl")): os.remove(old)
-        for b in range(0, len(ok), args.batch_size):
-            with open(os.path.join(d, f"batch-{b // args.batch_size + 1:04d}.jsonl"), "w") as f:
-                for r in ok[b:b + args.batch_size]:
-                    f.write(json.dumps({k: r[k] for k in ("request_id", "stage", "concept_id", "prompt_version", "prompt_sha256", "system", "user")}) + "\n")
-        print(f"{args.judge_id}: {len(ok)} of {len(reqs)} requests eligible after self-exclusion ({sorted(drafted) or 'none'}); "
-              f"{-(-len(ok) // args.batch_size)} batches in packets/{args.judge_id}/")
-    else:
+    if True:
         hd = os.path.join(out, "humans"); os.makedirs(hd, exist_ok=True)
         pool_path = os.path.join(hd, "overlap-pool.jsonl")
         pool = jload(pool_path)
@@ -368,69 +354,147 @@ def register(args):
 def slug(*parts):
     return re.sub(r"[^a-z0-9]+", "-", "-".join(p for p in parts if p).lower()).strip("-")
 
-def confirm_model(args):
-    """First session of a model judge: record provider, model name and the exact model VERSION (required).
-    The versioned judge id is <provider>-<model name>-<version>, for example anthropic-claude-fable-5-2.
-    A model that cannot state its version passes --version-unknown: the id ends in -version-unknown and the
-    judge is FLAGGED (its results are reported separately and never enter the primary panel label).
-    Writes results/<judge_id>/judge.json only (the judge's own folder), so parallel judge branches never conflict."""
-    _, judges = judges_file(args.out); slot = judges.get(args.slot)
-    if not slot or slot["type"] != "model": sys.exit(f"{args.slot} is not a registered model-judge slot in judges.json")
-    if bool(args.version) == bool(args.version_unknown):
+# ---------- model judges: join (self-service, generic), packets, chat-only export/import ----------
+import fnmatch
+DRAFTERS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "judging", "drafters.tsv")
+EXCL_SALT = "agree-v1-exclusions"  # public: the exclusion index is obfuscated, NOT secret (AGREEMENT-METHOD.md 11)
+
+def etoken(edition):
+    return hashlib.sha256(f"{EXCL_SALT}|{edition}".encode()).hexdigest()[:12]
+
+def write_exclusions(out, keys):
+    """requests/exclusions.json: for each edition, the requests that involve it, keyed by an obfuscated token."""
+    groups = defaultdict(list)
+    for k in keys.values():
+        for e in {k["A"], k["B"]}: groups[etoken(e)].append(k["request_id"])
+    json.dump({"note": "Self-exclusion index for `agreement.py join`. Tokens are obfuscated edition names. Judges: do not open.",
+               "groups": {t: sorted(v) for t, v in sorted(groups.items())}}, open(os.path.join(out, "requests", "exclusions.json"), "w"), indent=0)
+
+def build_exclusions(args):
+    keys = {k["request_id"]: k for k in jload(args.keys)}
+    if not keys: sys.exit("needs the private keys/anon.jsonl")
+    write_exclusions(args.out, keys); print(f"wrote {args.out}/requests/exclusions.json")
+
+def norm_version(v):
+    return re.sub(r"[^0-9a-z]+", ".", (v or "").lower()).strip(".")
+
+def drafter_match(provider, model_name, version):
+    """Look the model up in judging/drafters.tsv. Returns (editions to exclude, flags, matched rows).
+    Exact drafter (provider, model and version match): exclude its editions.
+    Version unknown but provider and model match a drafter row: exclude too (cannot rule it out) and flag.
+    Same provider as a drafter but a different model or version: no exclusion, flag same_family_as_drafter."""
+    rows = []
+    for line in open(DRAFTERS):
+        if not line.strip() or line.startswith("#") or line.startswith("provider\t"): continue
+        c = line.rstrip("\n").split("\t")
+        rows.append({"provider": c[0].strip().lower(), "model": c[1].strip(), "version": c[2].strip(),
+                     "editions": [e for e in c[3].split(",") if e.strip()], "note": c[4] if len(c) > 4 else ""})
+    m, v = slug(model_name), norm_version(version)
+    prov = lambda x: re.sub(r"[^a-z0-9]", "", x.lower())  # xAI, x.ai, X-AI -> xai
+    excl, flags, hits = set(), set(), []
+    for r in rows:
+        if prov(r["provider"]) != prov(provider): continue
+        if fnmatch.fnmatch(m, r["model"]):
+            if version is None:
+                if r["version"] != "*": flags.add("possible_drafter_version_unknown")
+                excl |= set(r["editions"]); hits.append(r)
+            elif fnmatch.fnmatch(v, r["version"]):
+                excl |= set(r["editions"]); hits.append(r)
+            else:
+                flags.add("same_family_as_drafter")
+        else:
+            flags.add("same_family_as_drafter")
+    if excl: flags.discard("same_family_as_drafter")
+    return excl, sorted(flags), hits
+
+def eligible_packets(out, jid, excl):
+    reqs = all_requests(out)
+    ex = os.path.join(out, "requests", "exclusions.json")
+    if excl and not os.path.exists(ex): sys.exit(f"{ex} is missing; the operator must run build-exclusions")
+    groups = json.load(open(ex))["groups"] if os.path.exists(ex) else {}
+    drop = set().union(*[set(groups.get(etoken(e), [])) for e in excl]) if excl else set()
+    ok = [r for r in reqs if r["request_id"] not in drop]
+    seed = int(hashlib.sha256(f"agree-v1|{jid}".encode()).hexdigest()[:8], 16)
+    random.Random(seed).shuffle(ok)
+    return ok, len(reqs), seed
+
+PACKET_KEYS = ("request_id", "stage", "concept_id", "prompt_version", "prompt_sha256", "system", "user")
+
+def judge_id_of(a):
+    if bool(a.version) == bool(a.version_unknown):
         sys.exit("give exactly one of --version X.Y (as your harness or system information states it) or --version-unknown")
-    version = args.version.strip() if args.version else None
-    jid = slug(args.provider, args.model_name, version or "version-unknown")
-    d = os.path.join(args.out, "results", jid); os.makedirs(d, exist_ok=True)
-    p = os.path.join(d, "judge.json")
-    import datetime
-    rec = {"judge_id": jid, "slot": args.slot, "provider": args.provider, "model_name": args.model_name,
-           "model_version": version, "version_status": "stated" if version else "unknown",
-           "flags": [] if version else ["version_unknown"], "model_reported": args.model_reported,
-           "harness": args.harness or slot.get("harness"), "harness_version": args.harness_version,
-           "effort": args.effort, "plan": args.plan,
-           "confirmed_at": datetime.datetime.now().astimezone().isoformat(timespec="seconds")}
+    return slug(a.provider, a.model_name, a.version.strip() if a.version else "version-unknown")
+
+def judge_id_cmd(args):
+    print(judge_id_of(args))
+
+def batch_status(out, jid):
+    pk = sorted(glob.glob(os.path.join(out, "packets", jid, "batch-*.jsonl")))
+    done = []
+    for f in pk:
+        rf = os.path.join(out, "results", jid, os.path.basename(f))
+        if os.path.exists(rf):
+            want = {r["request_id"] for r in jload(f)}
+            lines = jload(rf)
+            got = {x["request_id"] for x in lines if "_batch" not in x}
+            if want <= got and any("finished_at" in x for x in lines if "_batch" in x): done.append(os.path.basename(f))
+    nxt = next((os.path.basename(f) for f in pk if os.path.basename(f) not in done), None)
+    return pk, done, nxt
+
+def join(args):
+    out = args.out; jid = judge_id_of(args); version = args.version.strip() if args.version else None
+    d = os.path.join(out, "results", jid); p = os.path.join(d, "judge.json")
+    excl, flags, hits = drafter_match(args.provider, args.model_name, version)
+    if not version: flags = sorted(set(flags) | {"version_unknown"})
     if os.path.exists(p):
-        old = json.load(open(p))
-        same = all(old.get(k) == rec[k] for k in ("slot", "provider", "model_name", "model_version", "model_reported"))
-        if not same and not args.force:
-            sys.exit(f"{p} already records a different model or version; stop and tell the operator")
-        if same: rec["confirmed_at"] = old["confirmed_at"]
-    json.dump(rec, open(p, "w"), indent=1)
-    print(f"judge id: {jid}" + ("   ** FLAGGED: version unknown **" if not version else ""))
-    print(f"recorded in {p}; work on branch judging/{jid}; packets in packets/{args.slot}/")
+        rec = json.load(open(p))
+        if (rec["provider"], rec["model_name"], rec["model_version"]) != (args.provider.lower(), slug(args.model_name), version):
+            sys.exit(f"{p} records a different identity; stop and tell the operator")
+        status = "resumed"
+    else:
+        ok, total, seed = eligible_packets(out, jid, excl)
+        pd = os.path.join(out, "packets", jid); os.makedirs(pd, exist_ok=True); os.makedirs(d, exist_ok=True)
+        for b in range(0, len(ok), args.batch_size):
+            with open(os.path.join(pd, f"batch-{b // args.batch_size + 1:04d}.jsonl"), "w") as f:
+                for r in ok[b:b + args.batch_size]: f.write(json.dumps({k: r[k] for k in PACKET_KEYS}) + "\n")
+        import datetime
+        rec = {"judge_id": jid, "provider": args.provider.lower(), "model_name": slug(args.model_name),
+               "model_version": version, "version_status": "stated" if version else "unknown",
+               "model_reported": args.model_reported, "harness": args.harness, "harness_version": args.harness_version,
+               "effort": args.effort, "plan": args.plan, "flags": flags,
+               "self_exclusion": {"drafter_rows": [f"{h['provider']}\t{h['model']}\t{h['version']}" for h in hits],
+                                  "editions_excluded": len(excl), "requests_total": total, "requests_assigned": len(ok)},
+               "seed": seed, "batch_size": args.batch_size,
+               "joined_at": datetime.datetime.now().astimezone().isoformat(timespec="seconds")}
+        json.dump(rec, open(p, "w"), indent=1); status = "joined"
+    pk, done, nxt = batch_status(out, jid)
+    n = sum(len(jload(f)) for f in pk)
+    print(f"judge id: {jid}  ({status})" + ("   ** FLAGGED: " + ", ".join(rec["flags"]) + " **" if rec["flags"] else ""))
+    print(f"items: {n} in {len(pk)} batches (packets/{jid}/); done: {len(done)}; next: {nxt or 'none - all batches done'}")
+    print(f"branch: judging/{jid}")
 
-def judge_record(out, jid):
-    p = os.path.join(out, "results", jid, "judge.json")
-    return json.load(open(p)) if os.path.exists(p) else None
-
-REQUIRED = ("judgment_id", "request_id", "stage", "concept_id", "judge", "run_index", "prompt_version", "label",
-            "fields", "notes", "confirmed", "created_at")
-WHO = ("provider", "model_name", "model_version", "model_reported")
-
-def validate(args):
-    out, jid = args.out, args.judge_id
+def check(out, jid):
     _, judges = judges_file(out)
     rec = judge_record(out, jid)
     if jid in judges and judges[jid]["type"] == "human":
-        me, kind = judges[jid], "human"
+        kind, pkdir = "human", None
         allowed = {r["request_id"] for r in jload(os.path.join(out, "humans", jid, "sample.jsonl"))}
-        pkdir = None
     elif rec:
-        me, kind = judges.get(rec["slot"]), "model"
-        if not me: sys.exit(f"{jid}: slot {rec['slot']!r} is not in judges.json")
-        pkdir = os.path.join(out, "packets", rec["slot"])
+        kind, pkdir = "model", os.path.join(out, "packets", jid)
         allowed = {r["request_id"] for f in glob.glob(os.path.join(pkdir, "*.jsonl")) for r in jload(f)}
-    elif jid in judges:
-        sys.exit(f"{jid} is a slot: run `agreement.py confirm-model {out} --slot {jid} --provider ... --model-name ... "
-                 f"--version X.Y|--version-unknown --model-reported ...` and validate with the judge id it prints")
     else:
-        sys.exit(f"{jid} is not registered (no results/{jid}/judge.json and no human registration)")
+        sys.exit(f"{jid} has not joined (no results/{jid}/judge.json) and is not a registered human judge")
     errs, warns, seen, n = [], [], set(), 0
     if kind == "model":
-        if rec.get("version_status") == "unknown" or not rec.get("model_version"):
-            warns.append(f"FLAGGED: {jid} did not state a model version; its results are reported separately and kept out of the primary panel")
-        if not jid.endswith(slug(rec.get("model_version") or "version-unknown")):
-            errs.append(f"judge id {jid} does not end with its version {rec.get('model_version')!r}")
+        for fl in rec.get("flags", []):
+            if fl in ("version_unknown", "possible_drafter_version_unknown"):
+                warns.append(f"FLAGGED {fl}: results are reported separately and kept out of the primary panel")
+        if jid != slug(rec["provider"], rec["model_name"], rec["model_version"] or "version-unknown"):
+            errs.append(f"judge id {jid} does not match provider/model/version in judge.json")
+        excl, _, _ = drafter_match(rec["provider"], rec["model_name"], rec["model_version"])
+        ok, _, _ = eligible_packets(out, jid, excl)
+        if {r["request_id"] for r in ok} != allowed:
+            errs.append("packets differ from what join generates for this identity (self-exclusion must come from join, not by hand)")
     for f in sorted(glob.glob(os.path.join(out, "results", jid, "**", "*.jsonl"), recursive=True)):
         for ln, line in enumerate(open(f), 1):
             if not line.strip(): continue
@@ -458,7 +522,7 @@ def validate(args):
                 if bad: errs.append(f"{f}:{ln} judge {bad} differ from results/{jid}/judge.json")
             if kind == "human" and j["confirmed"] is not True: errs.append(f"{f}:{ln} human label not confirmed by the judge")
     if kind == "model":  # a handed-in batch must answer every request in the packet of the same name
-        for f in sorted(glob.glob(os.path.join(out, "results", jid, "*", "batch-*.jsonl"))):
+        for f in sorted(glob.glob(os.path.join(out, "results", jid, "batch-*.jsonl"))):
             pk = os.path.join(pkdir, os.path.basename(f))
             want_ids = {r["request_id"] for r in jload(pk)}
             got = {j["request_id"] for j in jload(f) if "_batch" not in j and "request_id" in j}
@@ -466,9 +530,100 @@ def validate(args):
             elif want_ids - got: errs.append(f"{f}: incomplete, {len(want_ids - got)} of {len(want_ids)} requests unanswered")
             hdr = [j for j in jload(f) if "_batch" in j]
             if not any("finished_at" in h for h in hdr): errs.append(f"{f}: no closing header line with finished_at")
+    return errs, warns, n
+
+def validate(args):
+    errs, warns, n = check(args.out, args.judge_id)
     for w in warns: print("WARNING", w)
     for e in errs[:50]: print("ERROR", e)
-    print(f"{jid}: {n} judgments, {len(errs)} errors, {len(warns)} flags"); sys.exit(1 if errs else 0)
+    print(f"{args.judge_id}: {n} judgments, {len(errs)} errors, {len(warns)} flags"); sys.exit(1 if errs else 0)
+
+def pick_batch(out, jid, batch):
+    pk, done, nxt = batch_status(out, jid)
+    name = f"batch-{int(batch):04d}.jsonl" if batch else nxt
+    if not name: sys.exit("all batches are done")
+    path = os.path.join(out, "packets", jid, name)
+    if not os.path.exists(path): sys.exit(f"no {path}")
+    return name, jload(path)
+
+def export_packet(args):
+    """Chat-only fallback: one self-contained block to paste into a model with no shell."""
+    rec = judge_record(args.out, args.judge_id)
+    if not rec: sys.exit(f"{args.judge_id} has not joined; run join first (the operator can run it for a chat-only model)")
+    name, items = pick_batch(args.out, args.judge_id, args.batch)
+    system = items[0]["system"] if items else SYSTEM
+    lines = [f"LEXICON AGREEMENT JUDGING - {name.replace('.jsonl', '')} - judge {args.judge_id} - {len(items)} items", "",
+             "INSTRUCTIONS", system, "",
+             "Answer every item below on its own. Do not compare items with each other, do not use the web, and do not",
+             "guess who wrote a text. Each item ends with the labels to choose from and the fields to return.", "",
+             "REPLY FORMAT: reply with ONLY one ```jsonl code block, with one line per item, in item order, exactly like:",
+             '{"request_id": "<copy from the item>", "label": "<one label>", "fields": {"same_sense": true, "genus_a": "...", '
+             '"genus_b": "...", "conflicts": [], "confidence": 3, "rationale": "<=40 words"}}',
+             "No other text. Every request_id must appear exactly once.", ""]
+    for k, r in enumerate(items, 1):
+        lines += [f"=== ITEM {k} of {len(items)} | request_id: {r['request_id']} ===", r["user"], ""]
+    lines += [f"=== END OF {name.replace('.jsonl', '')}: reply with the jsonl block now ==="]
+    text = "\n".join(lines) + "\n"
+    if args.write: open(args.write, "w").write(text); print(f"wrote {args.write} ({len(items)} items, {name})")
+    else: sys.stdout.write(text)
+
+def import_reply(args):
+    """Chat-only fallback: validate a pasted JSONL reply and store it as results/<judge_id>/<batch>."""
+    out, jid = args.out, args.judge_id
+    rec = judge_record(out, jid)
+    if not rec: sys.exit(f"{jid} has not joined")
+    name, items = pick_batch(out, jid, args.batch)
+    byid = {r["request_id"]: r for r in items}
+    raw = open(args.reply).read()
+    got, errs = [], []
+    for ln, line in enumerate(raw.splitlines(), 1):
+        line = line.strip()
+        if not line.startswith("{"): continue
+        try: got.append(json.loads(line))
+        except ValueError: errs.append(f"reply line {ln}: not JSON")
+    ids = [g.get("request_id") for g in got]
+    for i in sorted(set(ids)):
+        if i not in byid: errs.append(f"{i}: not in {name}")
+    for i in byid:
+        if ids.count(i) != 1: errs.append(f"{i}: answered {ids.count(i)} times (need exactly 1)")
+    for g in got:
+        r = byid.get(g.get("request_id"))
+        labels = LABELS.get(r["stage"]) if r else None
+        if r and labels and g.get("label") not in labels | {"UNSURE"}: errs.append(f"{g['request_id']}: label {g.get('label')!r} not allowed")
+    if errs:
+        for e in errs[:50]: print("ERROR", e)
+        sys.exit(f"nothing stored: fix the reply (or ask the model again) and re-import")
+    import datetime
+    now = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
+    who = {k: rec.get(k) for k in WHO}
+    hdr = {"_batch": name.replace(".jsonl", ""), "judge_id": jid, **who, "harness": args.harness or "chat",
+           "harness_version": None, "effort": rec.get("effort"), "plan": rec.get("plan"), "started_at": args.started_at or now,
+           "source": "import (chat-only)", "reply_sha256": hashlib.sha256(raw.encode()).hexdigest()}
+    os.makedirs(os.path.join(out, "results", jid), exist_ok=True)
+    with open(os.path.join(out, "results", jid, name), "w") as f:
+        f.write(json.dumps(hdr) + "\n")
+        for g in got:
+            r = byid[g["request_id"]]
+            f.write(json.dumps({"judgment_id": f"{jid}-{r['request_id']}-0", "request_id": r["request_id"], "stage": r["stage"],
+                                "concept_id": r["concept_id"], "field": "definition" if r["stage"] == "P2" else None,
+                                "judge": {"id": jid, "type": "model", **who, "harness": args.harness or "chat", "judge_version": 1},
+                                "run_index": 0, "order_seed": None, "prompt_version": r["prompt_version"],
+                                "prompt_sha256": r["prompt_sha256"], "label": g["label"], "fields": g.get("fields", {}),
+                                "notes": None, "confirmed": None, "valid": True, "attempts": 1, "raw_sha256": None,
+                                "created_at": now}) + "\n")
+        f.write(json.dumps(dict(hdr, finished_at=now)) + "\n")
+    errs, warns, n = check(out, jid)
+    for w in warns: print("WARNING", w)
+    for e in errs[:50]: print("ERROR", e)
+    print(f"stored results/{jid}/{name}: {len(got)} judgments; validator: {len(errs)} errors"); sys.exit(1 if errs else 0)
+
+def judge_record(out, jid):
+    p = os.path.join(out, "results", jid, "judge.json")
+    return json.load(open(p)) if os.path.exists(p) else None
+
+REQUIRED = ("judgment_id", "request_id", "stage", "concept_id", "judge", "run_index", "prompt_version", "label",
+            "fields", "notes", "confirmed", "created_at")
+WHO = ("provider", "model_name", "model_version", "model_reported")
 
 def stats(args):
     """Fold every judge's results (results/<judge_id>/...) into definition agreement, per judge and per edition pair."""
@@ -499,22 +654,32 @@ if __name__ == "__main__":
     r.add_argument("--seed", type=int, default=7); r.add_argument("--reps", type=int, default=2000)
     r.add_argument("--batch-size", type=int, default=50); r.add_argument("--concepts", help="file of concept ids to keep")
     r.add_argument("--private-dir", help="where keys, canonical drafts and tables go (keep out of public repos)")
-    g = sp.add_parser("register"); g.add_argument("out"); g.add_argument("--judge-id", required=True)
-    g.add_argument("--type", choices=("model", "human"), required=True); g.add_argument("--name")
-    g.add_argument("--harness"); g.add_argument("--model"); g.add_argument("--drafted")
+    g = sp.add_parser("register", help="human judges only"); g.add_argument("out"); g.add_argument("--judge-id", required=True)
+    g.add_argument("--type", choices=("human", "model"), default="human"); g.add_argument("--name")
     g.add_argument("--size", type=int, default=100); g.add_argument("--overlap", type=float, default=0.3)
     g.add_argument("--pool-size", type=int, default=50); g.add_argument("--trap-share", type=float, default=0.1)
-    g.add_argument("--batch-size", type=int, default=50); g.add_argument("--salt", default="agree-v1")
-    g.add_argument("--force", action="store_true"); g.add_argument("--keys", help="private keys/anon.jsonl")
-    c = sp.add_parser("confirm-model"); c.add_argument("out"); c.add_argument("--slot", required=True)
-    c.add_argument("--provider", required=True, help="openai | anthropic | xai | ...")
-    c.add_argument("--model-name", required=True, help='for example "claude-fable" or "codex"')
-    c.add_argument("--version", help='exact model version, for example "5.2"'); c.add_argument("--version-unknown", action="store_true")
-    c.add_argument("--model-reported", required=True, help="the model string exactly as the harness reports it")
-    c.add_argument("--harness"); c.add_argument("--harness-version")
-    c.add_argument("--effort"); c.add_argument("--plan"); c.add_argument("--force", action="store_true")
+    g.add_argument("--salt", default="agree-v1"); g.add_argument("--force", action="store_true")
+    def ident(q, extra=True):
+        q.add_argument("out"); q.add_argument("--provider", required=True, help="openai | anthropic | xai | google | ...")
+        q.add_argument("--model-name", required=True, help='for example "claude-fable", "gpt-sol", "grok"')
+        q.add_argument("--version", help='exact version as your harness states it, e.g. "5.2"')
+        q.add_argument("--version-unknown", action="store_true", help="you cannot see your exact version (flags the run)")
+        if extra:
+            q.add_argument("--model-reported", required=True, help="the model string exactly as the harness or chat shows it")
+            q.add_argument("--harness", help="codex | claude-code | chat | ..."); q.add_argument("--harness-version")
+            q.add_argument("--effort"); q.add_argument("--plan"); q.add_argument("--batch-size", type=int, default=50)
+    ident(sp.add_parser("join", help="join as a model judge, or resume"))
+    ident(sp.add_parser("judge-id", help="print the versioned judge id only"), extra=False)
+    x = sp.add_parser("export-packet", help="chat-only: one paste block"); x.add_argument("out"); x.add_argument("--judge-id", required=True)
+    x.add_argument("--batch", help="batch number (default: next unfinished)"); x.add_argument("--write", help="write to this file")
+    m = sp.add_parser("import", help="chat-only: store a pasted JSONL reply"); m.add_argument("out"); m.add_argument("--judge-id", required=True)
+    m.add_argument("--batch"); m.add_argument("--reply", required=True, help="file holding the model's reply")
+    m.add_argument("--harness"); m.add_argument("--started-at")
+    e = sp.add_parser("build-exclusions", help="operator: rebuild requests/exclusions.json from the private key")
+    e.add_argument("out"); e.add_argument("--keys", required=True)
     v = sp.add_parser("validate"); v.add_argument("out"); v.add_argument("--judge-id", required=True)
     s = sp.add_parser("stats"); s.add_argument("out"); s.add_argument("--reps", type=int, default=2000)
     s.add_argument("--keys", help="private keys/anon.jsonl")
     a = ap.parse_args()
-    {"run": run, "register": register, "confirm-model": confirm_model, "validate": validate, "stats": stats}[a.cmd](a)
+    {"run": run, "register": register, "join": join, "judge-id": judge_id_cmd, "export-packet": export_packet,
+     "import": import_reply, "build-exclusions": build_exclusions, "validate": validate, "stats": stats}[a.cmd](a)
