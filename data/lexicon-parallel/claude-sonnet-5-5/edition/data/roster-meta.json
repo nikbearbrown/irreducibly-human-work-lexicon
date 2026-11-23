@@ -1,0 +1,41 @@
+{
+  "source_repo": "https://github.com/nikbearbrown/skills-lexicon",
+  "pinned_commit": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "source_entry_files": 3754,
+  "all_classes_in_source": {
+    "skill": 1988,
+    "language": 290,
+    "ability": 67,
+    "knowledge": 550,
+    "certification": 859
+  },
+  "out_of_scope_counts": {
+    "certification": 859
+  },
+  "in_scope_total": 2895,
+  "in_scope_by_class": {
+    "ability": 67,
+    "language": 290,
+    "knowledge": 550,
+    "skill": 1988
+  },
+  "in_scope_by_kind": {
+    "ability": 67,
+    "human-language": 158,
+    "programming-language": 112,
+    "markup-language": 10,
+    "style-language": 3,
+    "modeling-language": 7,
+    "knowledge": 550,
+    "skill": 723,
+    "method": 219,
+    "standard": 115,
+    "tool": 498,
+    "platform": 219,
+    "library": 129,
+    "framework": 85
+  },
+  "duplicate_labels_casefold": [
+    "mathematics"
+  ]
+}

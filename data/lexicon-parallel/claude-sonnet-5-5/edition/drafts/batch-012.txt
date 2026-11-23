@@ -1,0 +1,348 @@
+# batch 012: tools Oracle Primavera..ÄKTA (n=2296..2462), platforms Adobe ColdFusion..MuleSoft (n=2463..2595)
+2296|Oracle Primavera|Oracle's project portfolio management software, such as Primavera P6, for scheduling and controlling large projects, notably in construction and engineering.
+2297|Oracle Reports|Oracle's tool for designing and generating formatted reports from Oracle databases.
+2298|Oracle Workflow|Oracle's tool for modeling and automating business processes with notifications and approvals in the E-Business Suite.
+2299|OrientDB|A multi-model NoSQL database that combines graph and document features.
+2300|package.json|The manifest file of a Node.js project, listing its name, version, dependencies and scripts, read by npm.
++r|related|npm
+2301|PARI/GP|A computer algebra system for fast computation in number theory, with the GP calculator language.
+2302|Parrot AR.Drone|A consumer quadcopter drone controlled from a smartphone, with an SDK used in hobby and research projects.
+2303|Pattern Lab|A tool for building atomic design pattern libraries and style guides for websites.
+2304|PDF viewer|Software for opening, reading and annotating PDF documents.
+2305|PDFtk|A command-line toolkit for merging, splitting, rotating and otherwise manipulating PDF files.
+2306|Peachtree Accounting|Small business accounting software, later renamed Sage 50, for bookkeeping, invoicing and payroll.
+2307|Percona XtraDB|Percona's enhanced version of the InnoDB storage engine for MySQL, with extra performance and diagnostic features.
++r|related|InnoDB
+2308|Personal protective equipment|Gear such as gloves, masks, helmets and eye protection worn to reduce exposure to workplace hazards, with its proper selection, use and care.
++v|PPE
+2309|PhantomJS|A headless web browser scriptable with JavaScript, used for automated testing and page capture and no longer maintained.
+2310|phpBB|An open-source internet forum application written in PHP.
+2311|phpDesigner|A PHP integrated development environment for Windows.
+2312|PhpED|A commercial PHP integrated development environment from NuSphere with debugging and profiling.
+2313|phpFox|A commercial PHP social networking platform for building community sites.
+2314|phpGroupWare|An open-source groupware suite in PHP offering shared calendars, email and contacts.
+2315|phpLDAPadmin|A web-based tool for browsing and administering LDAP directories.
+2316|phpList|An open-source email newsletter and mailing list manager written in PHP.
+2317|phpPgAdmin|A web-based administration tool for PostgreSQL written in PHP.
++r|related|PostgreSQL
+2318|phpWebSite|An open-source PHP content management system developed at Appalachian State University.
+2319|PhpWiki|An open-source wiki engine written in PHP.
+2320|Pivotal Tracker|An agile project management tool for tracking stories, backlogs and iterations.
+2321|Plant Design Management System|AVEVA's 3D plant design software for designing process plants and piping, replaced by AVEVA E3D.
++v|PDMS
+2322|PlateSpin Migrate|A tool for moving physical and virtual servers and workloads between platforms and clouds.
+2323|PlateSpin Protect|A workload protection tool that replicates servers to virtual machines for disaster recovery.
+2324|PLINK|A free command-line toolset for genome-wide association analysis of genotype and phenotype data.
++f|ambiguous_label|PLINK is also the name of PuTTY's command-line SSH client; the genetics toolset is assumed.
+2325|Police baton|A club-like defensive tool carried by police for controlling subjects, with training in its safe, lawful use.
+2326|Poll Everywhere|An audience response platform for running live polls and questions in meetings, classes and presentations.
+2327|Polycom|Videoconferencing and voice equipment and software for meeting rooms, from Polycom, now part of Poly.
+2328|PostCSS|A tool for transforming CSS with JavaScript plugins, as in autoprefixing and linting.
++r|related|CSS
+2329|PostgreSQL|An open-source relational database system known for standards compliance and extensibility, used to store and query data with SQL.
++v|Postgres
+2330|Postman|A platform for designing, testing and documenting APIs by sending requests and automating checks.
+2331|Power Automate|Microsoft's low-code tool for automating workflows between apps and services.
+2332|Predictive analytics software|Programs that apply statistics and machine learning to historical data to forecast outcomes.
+2333|Presentation software|Programs such as PowerPoint, Keynote and Google Slides for building and delivering slide presentations.
+2334|PrestoDB|A distributed SQL query engine for running fast analytic queries across large data sources, from which Trino was forked.
+2335|Prezi|A presentation tool that arranges content on a zoomable canvas rather than slides.
+2336|PrimeRx|Pharmacy management software for dispensing, billing and inventory.
+2337|Prometheus|An open-source monitoring system that collects time-series metrics and supports alerting and querying with PromQL.
+2338|Prosecutor's management information system|A case management software system used by prosecutors' offices to track cases, defendants and court events.
+2339|PuPHPet|A web tool that generates Puppet configuration for Vagrant virtual machines to set up PHP development environments.
+2340|Puppet|A configuration management tool that describes and enforces the state of servers with declarative code.
+2341|PuTTY|A free SSH and telnet client for Windows used to log in to remote servers.
+2342|Python Tools for Visual Studio|A Microsoft extension that adds Python development, debugging and data science support to Visual Studio.
++r|related|Python
+2343|QARun|Compuware's automated functional test tool for recording and playing back application tests.
+2344|QS/1|Pharmacy management software for dispensing and billing, from QS/1 Data Systems.
+2345|Queue management system|Software and hardware that organizes and monitors customer waiting lines, tickets and service counters.
+2346|QuickTime VR|An Apple technology for viewing panoramic and object virtual reality scenes in QuickTime.
+2347|QuoteWerks|Sales quoting software for creating quotes and proposals from product catalogs, integrated with CRM and accounting.
+2348|Radare2|An open-source reverse engineering framework with a command-line disassembler and debugger.
+2349|Rally Software|An agile project management platform for planning and tracking software development, now part of Broadcom.
+2350|RavenDB|A NoSQL document database with ACID transactions, written for .NET.
+2351|ReadyAPI|SmartBear's suite for functional, security and load testing of APIs.
+2352|REDCap|A secure web application for building and managing online surveys and research databases, widely used in clinical and academic research.
+2353|ReSharper|JetBrains' Visual Studio extension for code analysis, refactoring and navigation in .NET development.
+2354|Resorcerer|A Macintosh resource editor for inspecting and editing application resources, from Mathemaesthetics.
+2355|RethinkDB|An open-source distributed document database designed for real-time push updates.
+2356|Rhinoceros 3D|A 3D modeling application based on NURBS surfaces, used in design, architecture and manufacturing.
++v|Rhino
+2357|RISA-3D|Structural analysis and design software for modeling frames, trusses and other structures in 3D.
+2358|Robomongo|A graphical client for MongoDB, later renamed Robo 3T and then Studio 3T Free.
+2359|Rockmelt|A discontinued social web browser built on Chromium that integrated social media feeds.
+2360|Rx30|Pharmacy management system for dispensing, billing and inventory management.
+2361|Sage MAS 90|Accounting and business management software for small and mid-size businesses, later known as Sage 100.
+2362|SAP Adaptive Server Enterprise|SAP's relational database management system, formerly Sybase ASE, for transaction-processing workloads.
++v|SAP ASE
+2363|SAP Crystal Reports|A business reporting tool for designing formatted reports from many data sources.
+2364|SAP GUI|SAP's client application used to log in to and work with SAP systems.
+2365|SAP Lumira|An SAP tool for visualizing data and building interactive stories and dashboards.
+2366|SAP Materials Management|The SAP module for procurement, inventory management and invoice verification.
++v|SAP MM
+2367|SAP Quality Management|The SAP module for quality planning, inspection and control of materials and production.
++v|SAP QM
+2368|Scala.js|A compiler that turns Scala code into JavaScript so that Scala can run in browsers and Node.js.
++r|related|Scala
+2369|Screen reader|Assistive software that reads on-screen text aloud or to braille displays for blind and low-vision users, used in accessibility testing and daily use.
+2370|Screw conveyor|A conveyor that moves bulk materials along a tube using a rotating helical screw.
+2371|SD card|A removable flash memory card used for storage in cameras, phones and other devices.
+2372|Security information and event management|Software that collects and analyzes security logs and events from across an organization to detect threats and support investigations.
++v|SIEM
+2373|Seeder|A machine or tool that plants seeds in soil at set spacing and depth.
+2374|Sequel Pro|A macOS client for managing MySQL databases, no longer maintained.
+2375|ServiceNow Discovery|A ServiceNow feature that scans a network to find devices and applications and populate the configuration management database.
+2376|Sharp Zaurus|A line of Linux-based handheld PDAs from Sharp.
+2377|Shepard's Citations|A legal research tool that shows how later cases have cited and treated a given authority.
+2378|Silk Test|An automated functional and regression testing tool for applications, originally from Segue.
+2379|Simputer|A low-cost handheld computer developed in India in the early 2000s, intended for emerging markets.
+2380|Single In-Line Memory Module|A memory module with pins along one edge that holds RAM chips, used in older computers.
++v|SIMM
+2381|Sluice gate|A movable gate that controls the flow of water in a channel, dam or canal.
+2382|Slurm Workload Manager|An open-source job scheduler for managing and running batch jobs on high-performance computing clusters.
+2383|Smart pig|A device sent through a pipeline to inspect its condition, measuring wall thickness and detecting corrosion or cracks.
++r|related|Pipeline pigging
+2384|Snort|An open-source network intrusion detection and prevention system that analyzes traffic using rules.
++r|related|Network intrusion detection system
+2385|Socket 478|The CPU socket used by Intel Pentium 4 and Celeron processors, and the motherboards that have it.
+2386|Socket 5|The CPU socket used by early Intel Pentium processors, and the motherboards that have it.
+2387|Solar panel|A device that converts sunlight into electricity using photovoltaic cells, with its installation, wiring and maintenance.
+2388|Solar street light|A street lamp powered by a solar panel and battery that needs no grid connection.
+2389|SonicStage|Sony's software for managing and transferring music to its portable players.
+2390|SonicWall|A vendor of network security firewalls and appliances, and the configuration and management of those devices.
+2391|Soot blower|A device in a boiler that cleans heat transfer surfaces by blasting steam or air to remove soot deposits.
+2392|Source Insight|A code editor and browser designed for navigating and analyzing large source code projects.
+2393|SourceGear Vault|A version control system for teams that integrates closely with Visual Studio.
+2394|Speech recognition software|Programs that convert spoken words into text or commands, as in dictation and voice control.
+2395|Sphygmomanometer|A device with a cuff and gauge used to measure blood pressure.
+2396|SpiderMonkey|Mozilla's JavaScript engine used in Firefox.
++r|broader|JavaScript engine
+2397|Spray gun|A tool that applies paint, coating or liquid in a fine spray using compressed air or pressure.
+2398|Spyder|An open-source scientific Python development environment with an editor, console and variable explorer.
++r|related|Python
+2399|SQL Server Analysis Services|Microsoft's analytical engine for building OLAP cubes and tabular models for business intelligence.
++v|SSAS
+2400|SQL Server Integration Services|Microsoft's tool for building ETL and data integration workflows in SQL Server.
++v|SSIS
+2401|SQuirreL SQL Client|A Java-based graphical tool for browsing and querying databases through JDBC.
+2402|Stable Diffusion|An open text-to-image diffusion model that generates images from prompts and can be run locally.
+2403|Statistical software|Programs for analyzing data with statistical methods, such as R, SPSS, Stata and SAS.
+2404|STM32 Nucleo|Low-cost development boards from STMicroelectronics for prototyping with STM32 microcontrollers.
+2405|StormCAD|Bentley software for designing and analyzing storm sewer systems.
+2406|Stuttgart Neural Network Simulator|An early neural network simulation package from the University of Stuttgart for training and testing networks.
++v|SNNS
+2407|Sublime Text|A fast, cross-platform text and source code editor with multiple selections and a command palette.
+2408|Swagger UI|A tool that renders OpenAPI descriptions as interactive documentation where users can try API calls.
++r|related|OpenAPI Specification
+2409|Syskey|A former Windows utility for encrypting the account database with a startup key, removed in Windows 10 version 1709.
+2410|Sysomos|A social media monitoring and analytics platform for tracking brand conversations.
+2411|Tank truck|A truck with a tank for hauling liquids or gases, with its driving, loading and hazard rules.
+2412|Tape measure|A flexible ruler in a retractable case used to measure length and distance.
+2413|Tape recorder|A device that records and plays back sound on magnetic tape.
+2414|Tekla|Trimble's building information modeling software for detailing structural steel and concrete.
+2415|Telescoping gauge|A precision tool with spring-loaded T-shaped arms used to measure the inside diameter of holes and bores.
+2416|TIBCO Designer|A graphical development tool for designing and deploying integration projects in TIBCO BusinessWorks.
+2417|TokuDB|A MySQL and MariaDB storage engine that uses fractal tree indexes for high write performance, now deprecated.
+2418|Toon Boom|Animation software, such as Harmony and Storyboard Pro, used for 2D and storyboard animation in studios.
+2419|TopSolid|Integrated CAD and CAM software for product design and machining.
+2420|Traffic Alert and Collision Avoidance System|An aircraft system that detects nearby aircraft and advises pilots how to avoid collisions.
++v|TCAS
+2421|Trans-Proteomic Pipeline|An open-source suite of tools for analyzing mass spectrometry proteomics data.
+2422|Ubersuggest|A keyword research and SEO tool that suggests search terms and shows competition.
+2423|UglifyJS|A JavaScript minifier and compressor that shrinks code for production.
+2424|UltraTax CS|Thomson Reuters tax preparation software for accounting firms.
+2425|Unisys MAPPER|A Unisys fourth-generation reporting and application development tool for mainframe data.
+2426|Unity (game engine)|A cross-platform engine and editor for building 2D and 3D games and interactive experiences, scripted in C#.
+2427|Unreal Editor|The development environment of Unreal Engine, used to build levels, assets and gameplay for games and real-time projects.
+2428|UsabilityHub|An online service for running quick user tests such as first-click and preference tests on designs.
+2429|User provisioning software|Software that creates, updates and removes user accounts and access rights across systems.
+2430|Variable-frequency drive|An electronic controller that adjusts the speed of an AC motor by varying frequency and voltage.
++v|VFD
+2431|Varnish Cache|An open-source HTTP accelerator that caches web content to speed up delivery.
+2432|VAX 4000|A series of mid-range VAX minicomputers from Digital Equipment Corporation running VMS.
+2433|VAX 8000|A series of high-end VAX computers from Digital Equipment Corporation of the 1980s.
+2434|VectorWise|An analytical column-store database engine from Actian.
+2435|VISI|CAD and CAM software for mold and die design and machining.
+2436|VisiCalc|The first spreadsheet program for personal computers, released in 1979 for the Apple II.
+2437|Visme|An online tool for creating presentations, infographics and other visual content.
+2438|VisSim|A visual block-diagram tool for modeling and simulating dynamic systems and embedded control.
+2439|Vyond|An online tool for making animated videos from templates.
+2440|Watcom SQL|A relational database engine from Watcom, which became Sybase SQL Anywhere.
+2441|WebCT|An early commercial learning management system for online courses, acquired by Blackboard.
+2442|WebCTRL|Automated Logic's web-based building automation system for monitoring and controlling HVAC and building systems.
+2443|WhatsApp|A widely used messaging and calling app, also used by businesses to communicate with customers.
+2444|Windows Meeting Space|A Windows Vista feature for ad hoc collaboration, sharing programs and documents over a local network, removed in Windows 7.
+2445|Windows Performance Analyzer|A Microsoft tool for visualizing and analyzing Windows performance traces recorded with the Windows Performance Recorder.
++v|WPA
+2446|Windows Performance Recorder|A Microsoft tool for recording Windows performance traces for analysis.
++v|WPR
+2447|Windows Performance Toolkit|A Microsoft set of tools, including WPR and WPA, for recording and analyzing system and application performance.
+2448|Windows software trace preprocessor|A Microsoft tool that adds efficient trace logging to Windows drivers and applications.
++v|WPP
+2449|WSDL2Java|A tool in Apache Axis and CXF that generates Java client and server code from a WSDL web service description.
+2450|Wyse Management Suite|Dell's tool for managing Wyse thin clients and other endpoints centrally.
++r|related|Dell Wyse thin clients
+2451|Xbox Live Vision|A USB camera accessory for the Xbox 360 for video chat and image capture.
+2452|Xcalibur|Thermo Fisher software for acquiring and processing mass spectrometry data.
+2453|Yahoo Messenger|Yahoo's former instant messaging service, shut down in 2018.
++r|related|Yahoo! Messenger protocols
+2454|YARA|A tool for identifying and classifying malware by matching files against rules that describe text or binary patterns.
+2455|Yardi|Property management and real estate software for managing leasing, accounting and operations.
+2456|Zemax OpticStudio|Optical design software for simulating, optimizing and tolerancing lenses and optical systems.
+2457|ZENworks Asset Management|Software that tracks software licenses and hardware assets and checks compliance.
+2458|zeroheight|A tool for documenting design systems and sharing design guidelines between designers and developers.
+2459|Zerto|Disaster recovery and data protection software for replicating virtual machines and cloud workloads.
+2460|Zetafax|Fax server software that sends and receives faxes from the desktop and email.
+2461|ZFS|A file system and volume manager that combines pooled storage, snapshots and data integrity checking.
+2462|ÄKTA|A family of liquid chromatography systems from Cytiva used to purify proteins and other biomolecules.
+2463|Adobe ColdFusion|A commercial platform and CFML application server for building dynamic web applications and APIs.
++r|related|CFML
+2464|Adobe Fonts|Adobe's subscription service for fonts that can be used in desktop apps and on websites.
+2465|Alibaba Cloud|Alibaba's cloud computing platform offering compute, storage, databases and AI services.
+2466|Amazon Fire tablet|Amazon's line of Android-based tablets, and the platform for building and testing apps for them.
+2467|Amazon Web Services|Amazon's cloud platform offering compute, storage, databases, networking and other services on demand.
++v|AWS
+2468|Amiga|A line of personal computers from Commodore, known for advanced graphics and sound in the 1980s and 1990s, and its operating system.
+2469|Anaplan|A cloud platform for connected planning, budgeting and forecasting across finance, sales and supply chain.
+2470|Apache Airflow|A platform for authoring, scheduling and monitoring data workflows as Python code.
+2471|Apache jUDDI|An open-source Java implementation of the UDDI web service registry specification.
+2472|Apache Karaf|A lightweight OSGi-based runtime container for deploying applications and modules.
+2473|Apache Lenya|A retired open-source XML content management system from the Apache Software Foundation.
+2474|Apache Mesos|A cluster manager that pools and shares computing resources among distributed applications, now retired.
+2475|Apache NiFi|A platform for automating the flow of data between systems, with a visual interface for routing and transformation.
+2476|Apache OFBiz|An open-source enterprise resource planning framework with modules for e-commerce, inventory and accounting.
+2477|Apache OpenEJB|An embeddable open-source Enterprise JavaBeans container for Java EE.
+2478|Apache PredictionIO|An open-source machine learning server for building and deploying predictive applications, since retired from Apache.
+2479|Apollo GraphQL|A platform and tool set for building, running and managing GraphQL APIs, including Apollo Client and Apollo Server.
++r|related|GraphQL
+2480|Appian|A low-code platform for building process automation and business applications.
+2481|Apple Device Enrollment Program|Apple's program for automatically enrolling company-owned devices in mobile device management at setup, now part of Apple Business Manager.
+2482|AppsFlyer|A mobile attribution and marketing analytics platform that measures where app installs and user actions come from.
+2483|AppSheet|Google's no-code platform for building mobile and web apps from spreadsheets and databases.
+2484|Apptio|A cloud platform for technology business management that tracks IT costs and value.
+2485|ArangoDB|A multi-model database that supports documents, graphs and key-value data.
+2486|ArcSight Enterprise Security Manager|A security information and event management platform that correlates events to detect threats.
++r|related|Security information and event management
+2487|ArtStation|An online platform where digital artists showcase portfolios and where studios find talent and assets.
+2488|AtScale|A semantic layer platform that provides business-friendly access to analytics data across data platforms.
+2489|AvantGo|An early mobile platform for syncing web content to Palm and Pocket PC handheld devices.
+2490|AWS Elastic Beanstalk|An AWS platform service that deploys and scales web applications automatically from uploaded code.
+2491|Azure Cognitive Services|Microsoft Azure's APIs for adding vision, speech, language and decision capabilities to applications, now part of Azure AI services.
+2492|Azure DevOps|Microsoft's platform for planning work, hosting code, building, testing and releasing software.
+2493|Banyan VINES|A discontinued network operating system from Banyan Systems with a global directory service.
+2494|Berkeley Data Analytics Stack|The open-source big data software stack from UC Berkeley's AMPLab, including Spark, Mesos and Tachyon.
++v|BDAS
+2495|BigFix|An endpoint management platform for patching, configuring and securing devices at scale.
+2496|Bioconductor|An open-source project providing R packages for analyzing genomic and other biological data.
+2497|Bitly|A link management platform that shortens URLs and tracks clicks and campaigns.
+2498|BlackLine|A cloud platform that automates financial close tasks such as account reconciliation and journal entries.
+2499|Box API|The programming interfaces of the Box content management platform for integrating file storage and sharing into applications.
+2500|C-CURE|Software House's access control and security management system for managing doors, credentials and alarms.
+2501|Canva|An online design platform with templates for making graphics, presentations and documents.
+2502|Canvas LMS|A learning management system from Instructure for delivering and managing online courses.
+2503|CARTO|A cloud platform for location intelligence and spatial analysis and visualization.
+2504|CDC Cyber|Control Data Corporation's line of supercomputers and mainframes, and their operating systems, from the 1970s and 1980s.
+2505|Cerner|A health information technology company's platform, including the Millennium electronic health record, now Oracle Health.
+2506|Ceros|A cloud platform for creating interactive digital content such as experiences and microsites without coding.
+2507|Chordiant|A former customer experience and CRM software platform, acquired by Pegasystems.
+2508|Cisco Intersight|Cisco's cloud platform for managing UCS servers and other infrastructure.
+2509|Cisco UCS Director|Cisco software for automating and orchestrating data center infrastructure, now end of life.
+2510|Clarizen|A cloud work management and project portfolio management platform.
+2511|ClearDB|A database-as-a-service for MySQL available as a cloud add-on.
+2512|Confirmit|A survey and market research platform for collecting and analyzing customer feedback, now called Forsta.
+2513|Confluent|A data streaming platform built on Apache Kafka.
+2514|Constant Contact|An email marketing platform for small businesses to create and send campaigns.
+2515|ControlLogix|Rockwell Automation's programmable automation controller platform for industrial control.
+2516|CoreOS|A lightweight Linux distribution built for running containers, since continued as Fedora CoreOS and Container Linux.
+2517|CoStar Real Estate Manager|Software for managing leases, properties and portfolios for corporate real estate teams.
+2518|Crestron|A control platform for automating audiovisual, lighting and building systems in rooms and buildings.
++r|related|Crestron programming
+2519|Cyara|A platform for automated testing and monitoring of customer experience across contact center channels.
+2520|dashDB|IBM's cloud data warehouse service, now called Db2 Warehouse.
+2521|DBpedia|A community project that extracts structured data from Wikipedia and publishes it as linked data.
+2522|dbSNP|NCBI's database of single nucleotide polymorphisms and other short genetic variations.
+2523|deegree|An open-source Java framework for building spatial data infrastructures and web map services.
+2524|Deltek Costpoint|An ERP platform for project-based companies such as government contractors, covering accounting, projects and procurement.
+2525|Dialogflow|Google's platform for building conversational agents and chatbots with natural language understanding.
+2526|Digital.ai|A platform for software delivery, DevOps, agile planning and release management.
+2527|Docker|A platform for building, shipping and running applications in containers.
+2528|DocuSign|An electronic signature and agreement platform for signing and managing documents online.
+2529|DoubleClick for Publishers|Google's ad server for publishers, later renamed Google Ad Manager.
++v|DFP
+2530|Duck Creek Platform|A core software platform for property and casualty insurers covering policy, billing and claims.
+2531|eBay API|The programming interfaces for integrating applications with eBay's marketplace, such as listing and order management.
+2532|Einstein Analytics|Salesforce's analytics platform, later renamed Tableau CRM and then CRM Analytics.
+2533|Elastic Stack|The Elasticsearch, Logstash, Kibana and Beats tools used together for search, logging and analytics.
+2534|Facebook|The social media platform from Meta, used by individuals and organizations to communicate, share content and advertise.
+2535|FAST ESP|Enterprise search platform from Fast Search and Transfer, later acquired by Microsoft.
+2536|Finacle|Infosys's core banking and digital banking software suite.
+2537|Firebase Cloud Messaging|Google's service for sending push notifications and messages to Android, iOS and web apps.
++v|FCM
+2538|Freshchat|A customer messaging platform from Freshworks for live chat and chatbots.
+2539|Frontify|A brand management platform for storing brand guidelines and assets.
+2540|Fuse ESB|An open-source enterprise service bus from Red Hat based on Apache ServiceMix and Camel.
+2541|Gallio|An open-source automated testing platform for .NET that runs tests from different frameworks.
+2542|Google Ads|Google's online advertising platform for running ads on search, display and video.
+2543|Google Cloud Platform|Google's cloud services for compute, storage, data and machine learning.
++v|GCP
+2544|Google Kubernetes Engine|Google Cloud's managed service for running containerized applications on Kubernetes.
++v|GKE
+2545|Google Workspace|Google's suite of online productivity and collaboration tools, including Gmail, Docs, Drive and Meet, formerly G Suite.
+2546|Google+|Google's former social network, shut down in 2019.
+2547|HashiStack|HashiCorp's set of infrastructure tools, such as Terraform, Vault, Consul and Nomad, used together to provision and run cloud infrastructure.
+2548|Hootsuite|A social media management platform for scheduling posts, monitoring conversations and reporting.
+2549|Host Based Security System|The U.S. Department of Defense's endpoint security system, based on McAfee tools, for protecting its computers.
++v|HBSS
+2550|HP NewWave|An object-oriented graphical environment for Windows 2.x from Hewlett-Packard in the late 1980s.
+2551|HubSpot CRM|HubSpot's customer relationship management platform for tracking contacts, deals and marketing, sales and service activity.
+2552|iAd|Apple's mobile advertising platform for apps, discontinued in 2016.
+2553|iBeacon|Apple's Bluetooth Low Energy protocol that lets beacons trigger location-aware actions in nearby phones.
+2554|IBM Bluemix|IBM's cloud platform as a service, now called IBM Cloud.
+2555|IBM Business Process Manager|IBM's platform for modeling, running and monitoring business processes.
+2556|IBM eServer|IBM's branding for its server lines of the early 2000s, including iSeries, pSeries, xSeries and zSeries.
+2557|IBM FileNet|IBM's enterprise content management platform for capturing, storing and processing documents and workflows.
+2558|IBM Informix|IBM's family of relational database management systems, including Informix Dynamic Server.
+2559|IBM POWER10|IBM's 2021 generation of POWER processors and the servers built on them.
+2560|IBM POWER7|IBM's 2010 generation of POWER processors and the servers built on them.
+2561|IBM POWER8|IBM's 2014 generation of POWER processors and the servers built on them.
+2562|IBM POWER9|IBM's 2017 generation of POWER processors and the servers built on them.
+2563|IBM Tivoli Enterprise Console|IBM's event management console that collected and correlated alerts from systems and networks.
+2564|IBM WebSphere Application Server|IBM's Java EE application server for deploying and managing enterprise web applications.
+2565|IFS Applications|IFS's enterprise software suite for asset management, field service, ERP and manufacturing.
+2566|iMac G4|Apple's 2002 desktop computer with a flat-panel display on an adjustable arm and a G4 processor.
+2567|iMac G5|Apple's 2004 all-in-one desktop computer with a G5 processor built into the display.
+2568|InFusion Enterprise Control System|Invensys's platform for integrated plant control and automation.
++f|low_confidence|Identified from memory; the vendor lineage and current status are not stated.
+2569|Instagram|Meta's photo and video sharing platform, used by individuals, creators and businesses to share content and market.
+2570|INTEGRITY RTOS|Green Hills Software's secure real-time operating system for safety-critical embedded systems.
+2571|Intel Viiv|Intel's 2006 branding for a platform for home entertainment PCs, since discontinued.
+2572|InVision|A digital product design platform for prototyping and collaboration, since wound down.
+2573|Io.js|A community fork of Node.js created in 2014 that was merged back into Node.js in 2015.
+2574|iOS|Apple's operating system for the iPhone, and the platform for developing and supporting iPhone apps.
+2575|Ivalua|A spend management and procurement software platform.
+2576|Jive Software|An enterprise social collaboration platform for internal communities and intranets.
+2577|Joomla|An open-source content management system for building websites and web applications.
+2578|Kahoot!|A game-based learning platform where teachers run quizzes and polls for students.
+2579|KairosDB|A distributed time series database built on Cassandra.
++r|related|Apache Cassandra
+2580|Kenna Security|A risk-based vulnerability management platform that prioritizes fixes, now part of Cisco.
+2581|Know Your Third Party (KY3P)|A third-party risk assessment platform from S&P Global for vendor due diligence and risk assessment, used mainly by financial institutions.
++f|low_confidence|Vendor attribution is from memory and should be checked.
+2582|Kyriba|A cloud platform for treasury, cash management and risk management.
+2583|Lightcast|A labor market analytics provider, formerly Emsi Burning Glass, whose platform supplies job, skills and workforce data.
+2584|LinkedIn|A professional networking platform used for recruiting, job searching, networking and business marketing.
+2585|Low-code development platform|A software platform for building applications with visual tools and minimal hand coding.
+2586|Macintosh Application Environment|Apple's software for running Mac applications on Unix workstations in the 1990s.
+2587|macOS|Apple's desktop operating system, and the platform for using and supporting Mac computers.
+2588|Microsoft 365|Microsoft's subscription suite of Office apps and cloud services such as Teams, SharePoint and Exchange.
+2589|Microsoft Transaction Server|Microsoft's 1990s middleware for managing transactions and components in Windows server applications, a precursor of COM+.
++v|MTS
+2590|MicroStrategy Intelligence Server|The core server of the MicroStrategy platform that processes queries and manages reports, caches and users.
+2591|Mortgage Electronic Registration System|A U.S. electronic registry that tracks mortgage ownership and servicing rights.
++v|MERS
+2592|Movable Type|A publishing platform and content management system for blogs and websites.
+2593|MP/M|Digital Research's multi-user, multitasking operating system for 8-bit microcomputers, an extension of CP/M.
+2594|MRI Software|A real estate software provider whose platform supports property management, leasing and accounting.
+2595|MuleSoft|An integration platform, now part of Salesforce, for connecting applications and data through APIs, including the Anypoint Platform.

@@ -1,0 +1,44 @@
+{
+  "edition": "skills-lexicon-claude-sonnet-5-5",
+  "model_label": "Claude Sonnet 5.5",
+  "model_id": "claude-sonnet-5-5",
+  "authoring_model_changed_during_run": false,
+  "draft_set": "skills-lexicon-claude-sonnet-5-5",
+  "entry_status": "machine-drafted (not human-reviewed)",
+  "source_repo": "https://github.com/nikbearbrown/skills-lexicon",
+  "pinned_commit": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "scope": {
+    "total": 2895,
+    "per_class": {
+      "skill": 1988,
+      "ability": 67,
+      "knowledge": 550,
+      "language": 290
+    },
+    "excluded": [
+      "859 credentials",
+      "36-concept pilot"
+    ]
+  },
+  "created": "2026-11-21",
+  "progress": {
+    "total": 2895,
+    "drafted": 2895,
+    "pending": 0
+  },
+  "files": [
+    "README.md",
+    "RUN.md",
+    "manifest.json",
+    "inventory.jsonl",
+    "entries.jsonl",
+    "coverage.json",
+    "entries.md",
+    "THIRD-PARTY-NOTICES.md",
+    "data/onet-30.2-elements.json",
+    "data/roster-meta.json",
+    "data/out-of-scope-credential-ids.txt",
+    "drafts/",
+    "tools/"
+  ]
+}

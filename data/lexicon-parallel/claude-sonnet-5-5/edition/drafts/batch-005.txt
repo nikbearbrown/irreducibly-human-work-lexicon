@@ -1,0 +1,251 @@
+# batch 005: knowledge Multi-core software..Worship ministry (n=695..905)
+695|Multi-core software|Software designed to run efficiently across several processor cores, using threads, parallelism and synchronization.
+696|Multi-touch|Touch-screen technology that recognizes several simultaneous contact points, enabling gestures such as pinch and swipe.
+697|Multicultural education|Education that incorporates the histories, perspectives and needs of diverse cultural groups to promote equity and inclusion.
+698|Multitenancy|A software architecture in which a single instance serves multiple customers, called tenants, whose data and configuration are kept separate.
+699|Music theory|The study of how music works, including notation, scales, harmony, rhythm and form.
+700|Mutual exclusion|In concurrent computing, ensuring that only one process or thread uses a shared resource or critical section at a time, using locks and similar mechanisms.
+701|Mutual funds|Pooled investment vehicles in which many investors' money is managed by professionals in a diversified portfolio, with their types, fees and regulation.
+702|Naked short selling|Selling shares short without first borrowing them or confirming they can be borrowed, generally restricted by securities rules.
+703|Nanobiotechnology|The use of nanoscale materials and devices for biological and medical purposes such as drug delivery and diagnostics.
+704|Nanocomposites|Materials that combine a matrix with nanoscale fillers to improve properties such as strength, conductivity or barrier performance.
+705|Nanolithography|Techniques for patterning structures at the nanometer scale, central to semiconductor manufacturing.
+706|National Airspace System|The U.S. network of airspace, airports, navigation aids, air traffic control and rules that supports civil and military flight.
++v|NAS
+707|Native American studies|The interdisciplinary study of the histories, cultures, governance and contemporary issues of Native American peoples.
+708|Natural capital|The stock of natural resources and ecosystems, such as soil, water, forests and biodiversity, that provide benefits to people, and its accounting and valuation.
+709|Natural gas pipelines|The systems of pipe, compressors and controls that transport natural gas, with their design, operation, safety and regulation.
+710|Natural language generation|The automatic production of human-language text from data or meaning representations.
++v|NLG
+711|Natural language processing systems|Software that analyzes or generates human language, such as translation, classification, speech and dialogue systems, and how it is designed and evaluated.
++va|NLP
+712|Natural language understanding|The part of language technology concerned with interpreting meaning and intent in text or speech.
++v|NLU
+713|Nautical charts|Maps for navigation at sea showing depths, hazards, aids to navigation and coastlines, and how to read and use them.
+714|Net zero|A state in which greenhouse gas emissions are balanced by removals, with the targets, accounting and strategies used to reach it.
+715|Network peering|An arrangement in which networks exchange traffic directly with each other, often without payment, rather than through a paid transit provider.
+716|Network performance|The measures of how well a network carries traffic, such as bandwidth, latency, jitter and loss, and how they are monitored and improved.
+717|Network topology|The arrangement of nodes and links in a network, such as bus, star, ring and mesh, and its effects on performance and resilience.
+718|Neural networks|Computational models of connected layers of simple units whose weights are trained on data to recognize patterns and make predictions.
+719|Neurobiology|The study of the nervous system's cells, circuits and functions.
++v|Neuroscience
+720|Neuromuscular medicine|The medical specialty that diagnoses and treats disorders of nerves, muscles and the junctions between them.
+721|Neuromuscular system and disorders|How nerves and muscles work together to produce movement, and the diseases that affect them, such as ALS and muscular dystrophy.
+722|Neurosurgery|Surgical treatment of disorders of the brain, spine and nerves.
+723|NFPA 70E|The National Fire Protection Association standard for electrical safety in the workplace, covering shock and arc-flash hazards and protective practices.
++f|classification_dispute|A published standard rather than a field of knowledge.
+724|Non-Facility Associated Signalling|An ISDN PRI arrangement in which one D channel carries signaling for several PRI lines, freeing channels on the others for voice or data.
++v|NFAS
+725|Non-fungible tokens|Unique cryptographic tokens on a blockchain that record ownership of a particular digital or physical item, and how they are issued and traded.
++v|NFTs
+726|NoSQL database|Databases that store data in non-relational models such as documents, key-value pairs, wide columns or graphs, chosen for scale and flexible schemas.
+727|Nutraceuticals|Food-derived products or supplements marketed for health benefits beyond basic nutrition, and the related science and regulation.
+728|Object-oriented data model|A data model that represents information as objects with attributes and methods, as used in object databases and object-oriented design.
+729|Ocular pathology|The study of diseases of the eye and its tissues, including diagnosis from tissue samples.
+730|Odor control|Methods for preventing or removing unpleasant smells, such as in wastewater, industrial and waste facilities, including scrubbing and biofiltration.
+731|Official statistics|Statistics produced by government agencies and international bodies, such as censuses and economic indicators, and the principles for producing them.
+732|Ohm's law|The principle that the current through a conductor is proportional to the voltage across it and inversely proportional to its resistance, written V = IR.
+733|Oil pipelines|The systems of pipe, pumps and controls that transport crude oil and refined products, with their design, operation, safety and regulation.
+734|Oncogenomics|The study of the genetic changes that drive cancer and their use in diagnosis and treatment.
+735|Open banking|A system in which banks securely share customer financial data with authorized third parties through APIs, with the customer's consent.
+736|Open Network Computing|Sun Microsystems' suite of distributed computing standards, including remote procedure calls and the Network File System.
++v|ONC
+737|Operating systems|The system software that manages hardware and runs programs, covering processes, memory, files, devices and scheduling.
+738|Operations, administration, maintenance and provisioning|The functions telecom operators use to run, monitor, repair and configure networks and services.
++v|OAM&P
+739|Optical fiber|Thin glass or plastic strands that carry light signals over long distances, and the physics of how they guide light and degrade signals.
+740|Optical fiber cable|Cables that package optical fibers with protective layers for installation, with their types, connectors, testing and deployment.
++r|related|Optical fiber
+741|Optical waveguides|Structures, such as fibers and integrated channels, that confine and guide light along a path.
+742|Oral hygiene|Practices for keeping the mouth, teeth and gums clean and healthy, including brushing, flossing and professional cleaning.
+743|Order of draw|The recommended sequence in which blood collection tubes are filled during venipuncture to avoid additive cross-contamination.
+744|Organic composition of capital|In Marxian economics, the ratio of constant capital, such as machinery and materials, to variable capital, such as wages.
+745|Organization development|The planned, research-based effort to improve an organization's effectiveness and health through changes in culture, structure and processes.
+746|Organizational change|How and why organizations adopt new structures, processes or strategies, and approaches to leading people through change.
+747|Outbound logistics|The storing, transporting and delivering of finished goods from a business to its customers.
+748|Outpatient surgery|Surgical procedures after which the patient goes home the same day, with their selection, anesthesia and recovery care.
++v|Ambulatory surgery
+749|Overhead camshaft engine|An internal combustion engine design with the camshaft in the cylinder head operating the valves directly or through short followers.
++v|OHC
+750|Overhead valve engine|An engine design with the valves in the cylinder head operated by pushrods from a camshaft in the block.
++v|OHV
++v|Pushrod engine
+751|Oxidation processes|Chemical processes in which substances lose electrons or combine with oxygen, including corrosion, combustion and oxidation used in industry and water treatment.
+752|Pandemic preparedness|Planning, surveillance, stockpiling and response practices for preparing health systems and societies for widespread disease outbreaks.
+753|Parasympathetic nervous system|The branch of the autonomic nervous system that supports rest and digestion, slowing the heart rate and stimulating digestion.
+754|Paris Agreement|The 2015 international climate treaty under which countries pledge nationally determined emission reductions to hold warming well below 2 degrees Celsius.
++f|classification_dispute|An international agreement rather than a field of knowledge; the knowledge is of its provisions and mechanisms.
+755|Partnership taxation|The tax rules for partnerships, including pass-through treatment and the allocation of income and basis.
+756|Path to purchase|The sequence of touchpoints and decisions a consumer goes through from awareness to buying, analyzed in marketing.
+757|Pathology informatics|The use of information systems and data tools in pathology and laboratory medicine, such as laboratory information systems and digital slides.
+758|Patient identification and matching|Methods for correctly identifying patients and linking their records across systems, to prevent errors and duplicate records.
+759|Pediatric surgery|Surgical care of infants, children and adolescents.
+760|Pelvic floor|The muscles and tissues that support the pelvic organs, and their function and disorders such as incontinence and prolapse.
+761|Pelvic health|The care of conditions of the pelvic floor and organs, including bladder, bowel and sexual function, often through physical therapy.
+762|Penology|The study of punishment and prison management and their goals and effects.
+763|Perinatology|The medical care of mothers and babies around the time of birth, especially in high-risk pregnancies.
++v|Maternal-fetal medicine
+764|Perioperative care|Patient care before, during and after surgery, including preparation, anesthesia and recovery.
+765|Personal Communications Service|A class of U.S. digital wireless services in the 1.9 GHz band that offered voice and data to mobile users.
++v|PCS
+766|Personal income tax|Taxes levied on individuals' income, with the rules for taxable income, deductions, credits and filing.
+768|Pet insurance|Insurance that reimburses veterinary costs for covered illness or injury of pets.
+769|Petrography|The detailed description and classification of rocks, usually by examining thin sections under a microscope.
+770|Pharmacogenetics|The study of how a person's genes affect their response to drugs, used to guide drug choice and dose.
+771|Pharmacoinformatics|The use of computational and data methods to support drug discovery, development and use.
+773|Philosophy of religion|The philosophical study of religious concepts and claims, such as the existence of God, faith and religious language.
+774|Philosophy of science|The study of the foundations, methods and implications of science, such as explanation, evidence and theory change.
+775|PHP frameworks|Libraries and conventions such as Laravel and Symfony that provide structure and components for building PHP web applications.
++r|related|PHP
+776|Physical security|Measures such as barriers, locks, surveillance and guards that protect people, buildings and equipment from unauthorized access and harm.
+778|Plastic surgery|The surgical specialty that repairs, reconstructs or alters the body for functional or cosmetic purposes.
+779|Platform as a service|A cloud model in which the provider supplies a platform to build, deploy and run applications without managing the underlying servers.
++v|PaaS
+780|Police accountability|Mechanisms such as oversight boards, body cameras and complaint systems that hold police answerable for their conduct.
+781|Price-to-book ratio|A valuation ratio comparing a company's market price per share with its book value per share.
++v|P/B ratio
+782|Prisoners' rights|The legal protections available to people in custody, such as humane conditions, due process and access to courts.
+783|Private banking|Personalized banking, credit and investment services for high-net-worth clients.
+784|Process management (operating systems)|How an operating system creates, schedules, synchronizes and terminates processes.
++r|part_of|Operating systems
+785|Process state|The condition of an operating system process, such as new, ready, running, waiting or terminated, and the transitions among them.
++r|related|Process management (operating systems)
+787|Professional negligence in English law|The law on liability when professionals such as solicitors, surveyors or doctors fall below the standard of care expected, causing loss to clients.
+788|Prosthetic devices|Artificial devices that replace or support a missing or impaired body part, and their design, fitting and use.
+789|Protein-protein interaction|The physical contacts between proteins that carry out cellular functions, and the methods for detecting and modeling them.
+791|PTAS reduction|In computational complexity, a reduction between optimization problems that preserves approximability, used to prove approximation hardness.
+792|Public history|The practice of presenting history to general audiences through museums, heritage sites, media and community projects.
+793|Public policy|The decisions, laws and programs governments adopt to address public problems, and the analysis of how they are made and what they achieve.
+795|Public-key cryptography|Cryptographic systems that use a public and private key pair for encryption and digital signatures, such as RSA and elliptic curves.
++v|Asymmetric cryptography
+796|Quantitative models of the action potential|Mathematical models, such as Hodgkin-Huxley, that describe how neurons and other cells generate electrical impulses.
+797|Quantum dot|A nanoscale semiconductor crystal whose electronic and optical properties depend on its size, used in displays, imaging and solar cells.
+798|Quantum Merlin Arthur|A computational complexity class of problems whose solutions a quantum computer can verify with the help of a quantum proof.
++v|QMA
+799|Quantum spin Hall effect|A state of matter in which an insulator has edge states carrying spin-polarized currents without dissipation, studied in condensed matter physics.
+800|Quartile|The three values that divide an ordered data set into four equal parts, used to summarize spread.
+801|Queer theory|Critical approaches to gender and sexuality that question fixed identity categories and norms.
+802|Question answering|The task of building systems that answer questions posed in natural language, from retrieval and reading comprehension to generative systems.
+803|Rail safety|The practices, rules and systems that prevent accidents and protect passengers and workers on railways.
+804|Railway signalling|The systems of signals, interlocking and train control that keep trains safely separated and routed.
++r|related|Rail safety
+805|Random variable|A variable whose numerical value results from a random process and is described by a probability distribution.
+806|Rankine cycle|The thermodynamic cycle of steam power plants, converting heat to work using a boiler, turbine, condenser and pump.
+807|Real estate|Land and buildings, and the principles of their ownership, valuation, sale, leasing and management.
+808|Real estate contracts|The contracts used in property transactions, such as purchase agreements and leases, and their key terms and legal requirements.
++r|part_of|Real estate
+809|Real estate owned|Property that a lender owns after an unsuccessful foreclosure sale, and how such assets are managed and sold.
++v|REO
+810|Real-time payments|Payment systems that clear and settle transfers within seconds, around the clock, such as FedNow and the RTP network.
+811|Receptive and expressive language|The two aspects of language ability, understanding what is said and producing speech or writing, assessed in speech-language pathology and education.
+812|Reference range|The interval of test values typically found in healthy people, used to interpret laboratory results.
+813|Refrigeration|The removal of heat to lower temperature, and the cycles, equipment and refrigerants used for cooling and preservation.
+814|Refrigeration compressors|The machines that raise the pressure of refrigerant vapor in a cooling cycle, including reciprocating, scroll and screw types.
++r|part_of|Refrigeration
+815|Refugee issues|The causes, legal protections, resettlement and integration challenges facing people who flee persecution or conflict.
+816|Registered Education Savings Plan|A Canadian tax-deferred savings plan for a child's post-secondary education that attracts government grants.
++v|RESP
+817|Regulation SHO|The U.S. Securities and Exchange Commission's rules on short selling, including locate and close-out requirements.
++r|related|Naked short selling
++f|classification_dispute|A regulation rather than a field of knowledge.
+818|Rehabilitation|The process of restoring function and independence after injury, illness or disability, through therapy and support.
+819|Reinforced masonry|Masonry walls strengthened with steel reinforcement set in grout, and their design and construction.
+820|Relational database management system|Software that stores data in related tables and manages it using SQL, such as PostgreSQL, MySQL and Oracle Database.
++v|RDBMS
+821|Renal nutrition|Dietary management for people with kidney disease, including control of protein, sodium, potassium and phosphorus.
+822|Renewable energy|Energy from sources that are replenished naturally, such as solar, wind, hydro and geothermal, and its technologies and economics.
+823|Reproductive health care|Services for contraception, pregnancy, childbirth, fertility and the health of the reproductive system.
+824|Research methodology|The principles and methods for designing and conducting research, including question framing, data collection, analysis and validity.
+825|Residential construction|The building of houses and apartment buildings, including structure, trades, codes and project management.
+826|Rights issue|An offer to existing shareholders to buy additional shares at a set price, usually at a discount, to raise capital.
+827|Risk ratings|Scores or grades that rank the likelihood and impact of loss from borrowers, assets or activities, as used by lenders and risk managers.
+828|Rolling stock|The railway vehicles, such as locomotives, coaches and wagons, and their design, maintenance and operation.
+829|Rubber-tyred metro|Metro systems whose trains run on rubber tires on guideways instead of steel wheels on rails, as in Paris and Montreal.
+831|Sales journal|The accounting record of credit sales, from which entries are posted to accounts receivable and the ledger.
+832|SCARA robot|A Selective Compliance Assembly Robot Arm, which is rigid vertically and compliant horizontally and is used for fast assembly and pick-and-place work.
+833|Scholarship of teaching and learning|Systematic, public inquiry by instructors into student learning, to improve teaching and share findings.
++v|SoTL
+834|Secured transactions|The law governing loans backed by personal property as collateral, including how security interests are created, perfected and enforced.
+835|Smart buildings|Buildings that use connected sensors, automation and data to manage systems such as heating, lighting and security efficiently.
+836|Smart lighting|Lighting that can be controlled and automated through sensors, networks and software to save energy and adapt to use.
+837|Smart meter systems|Metering systems that record energy or water use at intervals and communicate it digitally to utilities and customers.
+838|Social determinants of health|The social and economic conditions, such as income, education, housing and neighborhood, that shape people's health outcomes.
+839|Social impact bond|A pay-for-success contract in which private investors fund a social program and are repaid by government if agreed outcomes are achieved.
+840|Social sustainability|The ability of communities and societies to maintain equity, well-being and social cohesion over time.
+842|Sociology of education|The study of how schooling relates to social structure, inequality and culture.
+843|Software as a service|A cloud model in which software is hosted by a provider and accessed by subscription over the internet.
++v|SaaS
+844|Software engineering|The disciplined practice of specifying, designing, building, testing and maintaining software systems.
+845|Software-defined WAN|An approach that uses software to manage wide area network connections and route traffic across links such as broadband and MPLS.
++v|SD-WAN
++r|related|Wide area network
+846|Sovereign cloud|Cloud services designed to keep data and operations under the legal control of a particular country or jurisdiction.
+847|Special education|The teaching of students with disabilities and learning differences through individualized instruction and supports.
+848|Special education law|The laws, such as IDEA in the United States, that guarantee services and rights to students with disabilities.
++r|related|Special education
+849|Special hazards suppression systems|Fire suppression systems that use clean agents, foam or other media for hazards where water is unsuitable, such as data centers.
+850|Special use airspace|Airspace with defined limits where activities such as military operations restrict or alert other flights.
+851|Sport governance|How sports organizations are structured, managed and regulated, including rules, ethics and decision making.
+852|Standard ambient temperature and pressure|Reference conditions for chemical measurements, commonly 25 degrees Celsius and 1 bar.
++v|SATP
+853|Static HTML|Web pages whose content is fixed in HTML files and served as they are, in contrast to pages generated on request.
++r|related|HTML
+854|Statistics|The science of collecting, summarizing, analyzing and interpreting data and quantifying uncertainty.
+855|Stormwater collection systems|The drains, pipes, channels and basins that collect and carry rainwater runoff, and their design and maintenance.
+856|Student development theory|Theories explaining how college students change intellectually, socially and emotionally, used in student affairs practice.
+857|Subordination, Non-Disturbance and Attornment Agreement|A real estate agreement among a tenant, landlord and lender under which the tenant accepts the mortgage's priority and the lender agrees not to disturb the lease.
++v|SNDA
+858|Surface properties of transition metal oxides|The structure and chemistry of the surfaces of transition metal oxides, relevant to catalysis, sensors and electronics.
+859|Surgery|The branch of medicine that treats disease and injury by operating, with its principles of technique, anesthesia and care.
+860|Sustainability bond|A bond whose proceeds fund a mix of green and social projects, with reporting on their impact.
++r|related|Green bond
+861|Sustainable infrastructure|Infrastructure planned, built and operated to meet needs while minimizing environmental harm and remaining viable economically and socially.
+862|Sustainable insurance|Insurance practices that account for environmental, social and governance risks and support sustainable activities.
+863|Syndicated finance|Loans or financing provided by a group of lenders under one agreement, led by arranging banks.
+864|Tax deduction|An expense that can be subtracted from income to reduce taxable income, and the rules that decide which expenses qualify.
+865|Tax return|The form filed with a tax authority reporting income, deductions and tax owed or refundable, and its preparation.
+866|Tax shelter|An arrangement that reduces taxable income or tax owed, used within or at the edges of the law.
+867|Technical theatre|The behind-the-scenes crafts of staging, including lighting, sound, scenery, costumes and stage management.
+868|Technology entrepreneurship|The creation and growth of ventures built on technological innovation, including opportunity recognition, funding and scaling.
+870|Theatrical techniques|The methods of acting, directing and staging used to create theater performances.
+872|Thyroid cancer|Malignant tumors of the thyroid gland, with their types, diagnosis and treatment.
+873|Thyroid diseases and disorders|Conditions of the thyroid gland such as hypothyroidism, hyperthyroidism and nodules, with their diagnosis and management.
+874|TL 9000|A telecommunications quality management standard that adds industry-specific requirements to ISO 9001.
++f|classification_dispute|A published quality standard rather than a field of knowledge.
+875|Trace (linear algebra)|The sum of the diagonal entries of a square matrix, which equals the sum of its eigenvalues.
+877|Traumatic brain injury|Brain damage from an external force, with its severity levels, symptoms, treatment and recovery.
+878|Twisted pair|Cable of paired copper wires twisted to reduce interference, used in telephone and Ethernet wiring.
+879|Urban resilience|The capacity of cities and their systems to withstand and recover from shocks and stresses such as disasters and climate impacts.
+880|Urban sustainability|Planning and managing cities to meet present needs without harming future environmental, economic and social well-being.
+881|Urological disorders|Diseases of the urinary tract and male reproductive organs, such as stones, infections and prostate conditions.
+882|Use of force|The legal and policy rules and practices governing when and how much force police and security personnel may apply.
+883|Utility engineering|The engineering of systems that deliver electricity, gas, water and telecommunications, from design to operation.
+884|Utility frequency|The nominal frequency of alternating current in a power grid, 50 or 60 Hz depending on the region.
+885|VA loans|Home loans guaranteed by the U.S. Department of Veterans Affairs for eligible service members and veterans, with their rules and benefits.
+886|Virtual health|Health care delivered remotely through technology, including telehealth visits, remote monitoring and digital communication.
+887|Virtual LAN|A logical network segment created on a switch that separates traffic independently of physical layout, set up with tagging such as IEEE 802.1Q.
++v|VLAN
+888|Virtual private network|A technology that creates an encrypted tunnel over a public network so that remote users or sites can connect privately.
++v|VPN
+889|Virtual reality|Computer-generated immersive environments experienced through headsets and sensors, with their design and applications.
++v|VR
++r|related|Mixed reality
+890|Visual impairment education|Teaching students who are blind or have low vision, including braille, orientation and mobility, and adaptive technology.
+891|Wage and hour laws|Laws governing minimum wage, overtime, working hours and record keeping, such as the U.S. Fair Labor Standards Act.
+892|Warehouse automation|The use of conveyors, robots, sorting systems and software to move and store goods in warehouses.
+893|Wave phase|The position of a point in a wave's cycle, and the phase differences that determine how waves interfere.
+894|Waveguide|A structure that guides electromagnetic or other waves along a path, such as a hollow metal tube for microwaves.
++r|related|Optical waveguides
+895|Welding symbols|The standardized symbols on drawings, such as those of AWS A2.4, that specify the type, size and location of welds.
+896|Wi-Fi architecture|The components and design of wireless local networks, including access points, controllers, channels and roaming.
+897|Wi-Fi security|The protocols and practices, such as WPA2 and WPA3, that protect wireless networks from unauthorized access and eavesdropping.
++r|related|Wi-Fi architecture
+898|Wide area network|A network that connects sites across large distances, using leased lines, MPLS or the internet.
++v|WAN
+899|Windows Vista startup process|The boot sequence of Windows Vista, from firmware through the boot manager and loader to kernel and services initialization.
+900|Wine education|The study of wine regions, grapes, production, tasting and service, as taught by sommelier and wine trade programs.
+901|Wireless technologies|The radio-based technologies, such as Wi-Fi, cellular and Bluetooth, that connect devices without cables.
+902|Women's studies|The interdisciplinary study of women's experiences, roles and status, and of gender in society.
+903|Word formation|The ways new words are created in a language, such as affixation, compounding and conversion.
+904|Workforce trends|Patterns in how and where people work, including demographics, skills, remote work and automation.
+905|Worship ministry|The planning and leading of congregational worship, including music, liturgy and production, in a faith community.

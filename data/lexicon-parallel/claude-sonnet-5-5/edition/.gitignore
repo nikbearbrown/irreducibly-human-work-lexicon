@@ -1,0 +1,12 @@
+# secrets, source dumps and scratch stay out of Git
+.env
+*.pem
+*.key
+id_*
+input/
+source/
+build/
+__pycache__/
+*.pyc
+.DS_Store
+*.zip

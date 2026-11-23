@@ -1,0 +1,344 @@
+# batch 013 (final): platforms National Geothermal Data System..z/OS (n=2596..2681), libraries (2682..2810), frameworks (2811..2895)
+2596|National Geothermal Data System|A U.S. Department of Energy-funded distributed network that shares geothermal data from state geological surveys and other sources.
++v|NGDS
+2597|Nationwide Multistate Licensing System|The online system through which U.S. mortgage and other financial service professionals are licensed and registered with state regulators.
++v|NMLS
+2598|Node.js|A JavaScript runtime built on Chrome's V8 engine for running JavaScript on servers and in tools, with the npm package ecosystem.
++v|Node
+2599|NuoDB|A distributed SQL database designed for cloud deployment with elastic scale-out.
+2600|Nutanix|A hyperconverged infrastructure and hybrid cloud platform that combines compute, storage and virtualization on commodity servers.
+2601|Office 365|Microsoft's earlier name for its subscription cloud Office suite, now Microsoft 365.
++r|related|Microsoft 365
+2602|OneTrust|A platform for privacy, data governance and third-party risk management compliance.
+2603|OpenCart|An open-source PHP e-commerce platform for running online stores.
+2604|OpenDaylight|An open-source software-defined networking controller platform hosted by the Linux Foundation.
+2605|OpenStreetMap|A collaborative, openly licensed map of the world built by volunteers, with data and APIs used for mapping applications.
+2606|OpenTok|A platform from Vonage, formerly TokBox, for embedding live video, voice and messaging in web and mobile apps using WebRTC.
+2607|OpenTSDB|A scalable time series database built on Hadoop and HBase.
+2608|Oracle Autonomous Database|Oracle's cloud database service that uses machine learning to automate tuning, patching, backup and scaling.
+2609|Oracle Cloud|Oracle's cloud platform offering infrastructure, database, application and analytics services.
+2610|Oracle EU Sovereign Cloud|An Oracle cloud region operated within the European Union by EU-resident staff to keep data under EU jurisdiction.
+2611|OutSystems|A low-code platform for building, deploying and managing web and mobile applications.
+2612|Palm OS|The operating system of Palm handheld devices, once widely used for PDAs and early smartphones.
+2613|Pathlore|A learning management system from Pathlore Software, later acquired by SumTotal.
+2614|Periscope|A live video streaming app owned by Twitter that was shut down in 2021.
++f|ambiguous_label|Not the analytics product Periscope Data, which is a separate entry.
+2615|Periscope Data|A data analytics platform for SQL-based analysis and dashboards, acquired by Sisense in 2019.
+2616|Pinterest|A visual discovery platform where users save and share images as pins, also used for marketing and advertising.
+2617|PowerSchool|A student information system and education software platform for schools and districts.
+2618|Procore|A cloud-based construction management platform for projects, documents, financials and communication.
+2619|Qlik Sense|A data analytics platform for building interactive visualizations and dashboards with associative data exploration.
+2620|QlikView|Qlik's earlier guided analytics and dashboard platform, built on in-memory associative data.
++r|related|Qlik Sense
+2621|Qumu|An enterprise video platform for hosting and delivering live and on-demand video for employee communications.
+2622|Rancher|An open-source platform for deploying and managing multiple Kubernetes clusters.
+2623|Reltio|A cloud master data management platform for unifying customer and product data.
+2624|RightNow CRM|A cloud customer service and CRM platform, acquired by Oracle in 2011 and now part of Oracle's service products.
+2625|Rockwell FactoryTalk|Rockwell Automation's industrial software suite for visualization, data and production management.
+2626|RSA Archer|A governance, risk and compliance platform for managing risks, policies and controls.
+2627|Sage Intacct|A cloud accounting and financial management platform for mid-sized businesses.
+2628|SailPoint IdentityIQ|SailPoint's identity governance platform for managing user access, provisioning and certification.
+2629|Salesforce|A cloud CRM platform for sales, service, marketing and customer data, extensible with custom apps.
+2630|Salesforce Datorama|A marketing intelligence platform in Salesforce that unifies marketing data and builds dashboards, now called Marketing Cloud Intelligence.
+2631|Salesforce Social Studio|A Salesforce tool for managing social media publishing, listening and engagement, since retired.
+2632|SAP|SAP's enterprise software platform for business processes such as finance, supply chain, HR and procurement.
+2633|SAP BusinessObjects|SAP's business intelligence suite for reporting, dashboards and analysis.
+2634|SAP IoT|SAP's cloud services for connecting devices and integrating their data into business processes.
+2635|SAP IS-Retail|SAP's industry solution for retail, covering merchandising, store operations and supply chain.
+2636|SAP NetWeaver Process Integration|SAP's middleware for exchanging messages and integrating SAP and non-SAP systems, now called SAP Process Orchestration.
++v|SAP PI
+2637|SAP S/4HANA|SAP's ERP suite built on the HANA in-memory database, covering finance, logistics and manufacturing.
+2638|SAP Sovereign Cloud|SAP's cloud offerings designed to keep data and operations under local legal control in specific jurisdictions.
+2639|Schoology|A learning management system for K-12 and higher education, now part of PowerSchool.
+2640|Security Onion|A free Linux distribution for network security monitoring, threat hunting and log management.
+2641|Seesaw (software)|A student engagement platform where students share work and teachers communicate with families.
+2642|Segment (software)|A customer data platform, now part of Twilio, that collects user data from sources and routes it to other tools.
+2643|ServiceNow|A cloud platform for IT service management and enterprise workflows.
+2644|ShareFile|A secure file sharing, storage and client portal service for businesses.
+2645|SimpleLegal|A legal spend management and matter management platform for corporate legal departments.
+2646|SmartBidNet|A construction bid management platform for inviting, tracking and comparing bids from subcontractors.
+2647|Snow Software|Technology intelligence software for managing software licenses, IT assets and cloud spend.
+2648|Softrax|Billing and revenue management software for recurring revenue and revenue recognition compliance.
+2649|SQL Server Express LocalDB|A lightweight SQL Server mode for developers that runs on demand without full server setup.
+2650|SWIFT network|The secure messaging network banks use to exchange payment and financial messages internationally.
+2651|Sybase Unwired Platform|SAP and Sybase's mobile enterprise application platform for building and deploying mobile apps connected to back-end systems.
+2652|Tableau|A business intelligence and data visualization platform for exploring data and building dashboards.
+2653|Tanium|An endpoint management and security platform that queries and acts on devices across an enterprise in real time.
+2654|Temporal.io|An open-source platform for running durable, fault-tolerant workflows written as code.
+2655|TIBCO ActiveMatrix|TIBCO's platform for building, deploying and managing service-oriented applications.
+2656|TIBCO Enterprise Message Service|TIBCO's messaging server for reliable exchange of messages between applications, implementing JMS.
++v|TIBCO EMS
+2657|TIBCO iProcess Suite|TIBCO's business process management platform for automating workflows.
+2658|TIBCO Spotfire|TIBCO's data visualization and analytics platform for interactive dashboards.
+2659|TrackWise|A quality management software platform for life sciences that handles complaints, corrective actions and deviations.
+2660|Twitch|A live streaming platform focused on video games and creators, used for entertainment, esports and marketing.
+2661|UiPath|A robotic process automation platform for building software robots that automate repetitive tasks.
+2662|Unbounce|A platform for building and testing landing pages for marketing campaigns.
+2663|VAXELN|Digital Equipment Corporation's toolkit and real-time operating system for VAX embedded systems.
+2664|Veeva|A cloud software platform for life sciences covering CRM, regulatory, clinical and quality processes.
+2665|Vendavo|Pricing and margin management software for business-to-business companies.
+2666|Visier|A people analytics platform for workforce data analysis and planning.
+2667|VMware Aria Automation|VMware's cloud automation platform for provisioning and managing infrastructure and applications through self-service blueprints.
+2668|VMware Aria Automation Orchestrator|VMware's workflow engine, formerly vRealize Orchestrator, for automating operations across infrastructure and applications.
+2669|VMware Aria Operations|VMware's platform for monitoring, optimizing and troubleshooting the performance of infrastructure and applications, formerly vRealize Operations.
+2670|VMware Aria Operations for Logs|VMware's log management and analytics tool, formerly vRealize Log Insight.
+2671|VMware Aria Suite|VMware's set of cloud management products for automation, operations, logs and cost, formerly vRealize Suite.
+2672|watchOS|Apple's operating system for the Apple Watch, and the platform for developing watch apps.
+2673|Windows 10|Microsoft's 2015 desktop operating system release, with its administration, deployment and support.
+2674|Windows 7|Microsoft's 2009 desktop operating system release, with its administration and support.
+2675|Windows 8|Microsoft's 2012 desktop operating system release with a touch-oriented interface, and its support.
+2676|Windows Vista|Microsoft's 2007 desktop operating system release, with its administration and support.
+2677|Windows XP Media Center Edition|A version of Windows XP that bundles the Media Center interface for TV recording and media playback.
+2678|Windows XP Professional x64 Edition|A 64-bit version of Windows XP Professional for x64 processors.
+2679|Yellow Dog Linux|A Linux distribution for PowerPC hardware such as Apple Macs, the PlayStation 3 and IBM Power systems.
+2680|YunOS|Alibaba's mobile operating system based on Linux with Android compatibility.
+2681|z/OS|IBM's 64-bit operating system for its mainframes, used to run large transaction and batch workloads.
+2682|ABC JavaScript Renderer|A JavaScript library for rendering music written in ABC notation as sheet music in the browser.
+2683|AG Grid|A JavaScript data grid library for displaying, sorting, filtering and editing large tables in web apps.
+2684|amCharts|A JavaScript charting library for interactive charts, maps and visualizations.
+2685|Apache Mahout|A library for scalable machine learning and linear algebra on distributed systems.
+2686|Apache ObJectRelationalBridge|An object-relational mapping tool for Java that persists Java objects to relational databases, now retired.
++v|OJB
+2687|Apache OpenNLP|A Java library of machine learning tools for natural language processing, such as tokenization, tagging and named entity recognition.
+2688|Apache PDFBox|A Java library for creating, reading and manipulating PDF documents.
+2689|ASP.NET Identity|The membership system of ASP.NET that handles user accounts, passwords, roles and external logins.
+2690|AWS SDK|Software development kits that let applications call AWS services in languages such as Java, Python and JavaScript.
+2691|Axios|A promise-based JavaScript HTTP client for the browser and Node.js.
+2692|Backbone.js|A lightweight JavaScript library that gives web apps structure with models, collections and views.
+2693|Bacon.js|A JavaScript functional reactive programming library for handling events as streams.
+2694|Biopython|A Python library of tools for computational biology and bioinformatics, such as sequence and structure parsing.
++r|related|Python
+2695|Breeze.js|A JavaScript library for managing data on the client, with querying, caching and change tracking against a server API.
+2696|Bullet Physics|An open-source physics engine for simulating collisions and rigid-body dynamics in games, robotics and film.
+2697|Butter Knife|An Android library that binds views and callbacks with annotations, now deprecated.
+2698|C3.js|A JavaScript charting library built on D3 for reusable charts.
++r|related|D3.js
+2699|CanCan|A Ruby on Rails authorization library that defines what a user is allowed to do.
+2700|CanvasJS|A JavaScript charting library that renders charts using the HTML canvas.
+2701|Capybara|A Ruby library for simulating how users interact with web applications in integration tests.
+2702|CatBoost|A gradient boosting library from Yandex that handles categorical features well, used in machine learning.
+2703|Chai.js|An assertion library for Node.js and the browser used in JavaScript tests.
+2704|Chart.js|A JavaScript library for drawing simple, responsive charts with the HTML canvas.
+2705|Chipmunk2D|A fast 2D rigid-body physics library written in C for games.
+2706|CKEditor|A JavaScript rich-text editor that adds WYSIWYG editing to web pages.
+2707|ComponentOne|GrapeCity's collection of UI components and controls for .NET and web development, including grids and charts.
+2708|ConstraintLayout|An Android layout library for building flexible, responsive user interfaces by constraining views to each other.
+2709|CreateJS|A suite of JavaScript libraries for building rich HTML5 content, including EaselJS for canvas drawing and TweenJS for animation.
+2710|D3.js|A JavaScript library for building custom data visualizations by binding data to elements in the page.
+2711|DbUnit|A JUnit extension that sets up and verifies database state for tests.
+2712|dc.js|A JavaScript charting library for exploring multi-dimensional data with interactive, linked charts.
+2713|DevExpress|A vendor of UI component libraries and tools for .NET, web and mobile apps, such as grids and charts.
+2714|DirectX Video Acceleration|A Microsoft API that lets video decoders use the graphics processor for faster video playback.
++v|DXVA
+2715|doT.js|A fast, small JavaScript templating engine.
+2716|Dust.js|An asynchronous JavaScript templating library that works in browsers and on servers.
+2717|EaselJS|A JavaScript library that makes working with the HTML5 canvas easier, with a display list for graphics and interaction.
++r|part_of|CreateJS
+2718|fastai|A deep learning library built on PyTorch that provides high-level components and quick ways to train models.
++r|related|PyTorch
+2719|Font Awesome|An icon library and toolkit of scalable vector icons for websites and apps.
+2720|Framer.js|A JavaScript library for designing and prototyping interactive animations, from the Framer prototyping tool.
+2721|Gensim|A Python library for topic modeling and document similarity using unsupervised learning on text.
+2722|GeoDjango|A Django module that adds geographic data support and spatial queries to web applications.
+2723|Guardrails AI|An open-source Python framework for adding validation and safety checks to the inputs and outputs of language models.
+2724|Hammer.js|A JavaScript library for recognizing touch gestures such as swipe and pinch.
+2725|Handlebars.js|A JavaScript templating library that renders HTML from templates and data.
+2726|html5shiv|A JavaScript shim that lets older versions of Internet Explorer recognize and style HTML5 elements.
+2727|Immutable.js|A JavaScript library of persistent immutable data structures such as lists and maps.
+2728|JaCoCo|A Java library for measuring code coverage in tests.
+2729|JacORB|A Java implementation of the CORBA object request broker.
+2730|Java Communications API|A Java extension for accessing serial and parallel ports from applications.
+2731|Java Persistence API 2.0|The 2009 version of the Java specification for mapping Java objects to relational databases, which added the Criteria API and other features.
++v|JPA 2.0
+2732|JAX-RPC|An older Java API for building SOAP web services based on remote procedure calls, replaced by JAX-WS.
+2733|JAX-WS|The Java API for XML web services, used to build and consume SOAP services with annotations.
++r|related|JAX-RPC
+2734|JdbcTemplate|Spring's helper class that simplifies running SQL through JDBC with less boilerplate.
+2735|JDesktop Network Components|Java Swing components for building data-aware desktop applications, a precursor of SwingX.
+2736|jMock|A Java library for creating mock objects in unit tests.
+2737|JMockit|A Java toolkit for mocking and testing code, including static and final methods.
+2738|JointJS|A JavaScript diagramming library for building interactive diagrams and visual editors.
+2739|JSData|A JavaScript library for managing data and relations on the client and syncing with back ends.
+2740|jsGrid|A lightweight jQuery data grid plugin for displaying and editing tabular data.
+2741|JsRender|A JavaScript templating library for rendering HTML from data.
+2742|Keras|A high-level Python deep learning API for defining and training neural networks, running on TensorFlow and other back ends.
++r|related|TensorFlow
+2743|Knockout.js|A JavaScript library for building dynamic interfaces with declarative bindings and the MVVM pattern.
+2744|Less.js|The JavaScript compiler that turns Less style sheets into CSS in the browser or in build tools.
++r|related|LESS
+2745|LIBSVM|A library implementing support vector machines for classification and regression.
+2746|LightGBM|A fast gradient boosting framework from Microsoft for machine learning on tabular data.
+2747|LiveData|An Android Jetpack observable data holder that is lifecycle-aware, used to update interfaces when data changes.
+2748|Luigi|A Python library from Spotify for building and scheduling pipelines of batch jobs with dependencies.
+2749|M2Crypto|A Python wrapper around OpenSSL for cryptography and SSL/TLS.
+2750|MapDB|A Java library providing database-like collections and storage engines backed by disk or memory.
+2751|Marionette.js|A composite application library for Backbone.js that adds views, regions and application structure.
++r|related|Backbone.js
+2752|Matplotlib|A Python library for creating static, animated and interactive plots and charts.
+2753|MediatR|A .NET library implementing the mediator pattern for in-process messaging between application components.
+2754|Moment.js|A JavaScript library for parsing, formatting and manipulating dates, now in maintenance mode.
+2755|MongoEngine|A Python object-document mapper for working with MongoDB.
+2756|Mongoose|A Node.js library that models MongoDB data with schemas and validation.
+2757|ngAnimate|The AngularJS module that adds animations when elements enter, leave or move.
++r|part_of|AngularJS
+2758|NLog|A flexible logging library for .NET that writes logs to targets such as files and databases.
+2759|NumPy|The core Python library for numerical computing, with fast multi-dimensional arrays and mathematical functions.
+2760|omniORB|A CORBA object request broker implementation for C++ and Python.
+2761|pandas|A Python library for data analysis, with data frames for cleaning, transforming and aggregating tabular data.
++r|related|NumPy
+2762|Passport.js|An authentication middleware for Node.js that supports many login strategies such as OAuth.
+2763|PDF.js|A JavaScript library from Mozilla that renders PDF documents in the browser.
+2764|PDFlib|A library for generating and processing PDF documents from applications.
+2765|PDFNet|Apryse's SDK, formerly PDFTron's, for viewing, creating and editing PDF documents.
+2766|PerformanceAnalytics|An R package of econometric tools for performance and risk analysis of financial returns.
++r|related|R
+2767|phpdocx|A PHP library for creating and manipulating Word documents.
+2768|PHPExcel|A retired PHP library for reading and writing spreadsheet files, succeeded by PhpSpreadsheet.
+2769|PHPMailer|A PHP library for sending email, with SMTP support and attachments.
+2770|PixiJS|A fast 2D rendering library for the web that uses WebGL, for games and interactive graphics.
+2771|PouchDB|A JavaScript database that runs in the browser and syncs with CouchDB for offline-first apps.
+2772|Processing.js|A JavaScript port of the Processing language for running visualizations and animations in the browser.
+2773|Pug|A template engine for Node.js, formerly called Jade, that writes HTML with a concise syntax.
+2774|Puppeteer|A Node.js library that controls Chrome or Chromium for automation, testing and scraping.
+2775|PyMongo|The official Python driver for working with MongoDB.
+2776|PyTables|A Python library for managing large hierarchical datasets, built on HDF5.
+2777|PyTorch|An open-source deep learning library for building and training neural networks with dynamic computation graphs.
+2778|React|A JavaScript library for building user interfaces from reusable components.
++v|React.js
+2779|ReactiveX|A family of libraries for composing asynchronous and event-based programs using observable streams.
+2780|RequireJS|A JavaScript file and module loader for browsers that uses the AMD format.
+2781|Riot.js|A small JavaScript UI library for building components with custom tags.
+2782|RxKotlin|Kotlin extensions for RxJava that support reactive programming.
++r|related|ReactiveX
+2783|Savon|A Ruby library for working with SOAP web services.
+2784|Scalding|A Scala library from Twitter for writing Hadoop MapReduce jobs concisely.
++r|related|Scala
+2785|scikit-learn|A Python library for machine learning, with algorithms for classification, regression, clustering and preprocessing.
+2786|Sequelize|A Node.js object-relational mapper for SQL databases such as PostgreSQL and MySQL.
+2787|SockJS|A JavaScript library that provides WebSocket-like communication with fallbacks for older browsers.
+2788|spaCy|A Python library for industrial-strength natural language processing, such as tokenization, tagging and entity recognition.
+2789|SPServices|A jQuery library that calls SharePoint web services to work with lists and data.
+2790|SuperTest|A Node.js library for testing HTTP servers and APIs with assertions.
+2791|System.Data|The .NET namespace and library for accessing and managing data, including the ADO.NET classes.
+2792|SystemJS|A universal module loader for JavaScript that supports ES modules, AMD and CommonJS.
+2793|TensorFlow|Google's open-source library for numerical computation and machine learning, used to build and train neural networks.
+2794|Theano|A Python library for defining and optimizing mathematical expressions on arrays, an early deep learning framework that is no longer developed.
+2795|Three.js|A JavaScript library for creating and displaying 3D graphics in the browser using WebGL.
+2796|TinyDB|A lightweight document-oriented database written in pure Python.
+2797|Torch (machine learning)|An open-source scientific computing and machine learning library in Lua, the predecessor of PyTorch.
++r|related|PyTorch
+2798|Underscore.js|A JavaScript library of functional programming helpers for working with collections and functions.
+2799|Video.js|An open-source JavaScript video player for embedding HTML5 video in web pages.
+2800|VPython|A Python library for easy 3D programming and visualization, used in physics teaching.
+2801|Vulkan|A low-overhead, cross-platform graphics and compute API for programming GPUs.
+2802|WASAPI|The Windows Audio Session API, the low-level interface for playing and capturing audio on Windows.
+2803|WebDriverJS|The JavaScript bindings for Selenium WebDriver that automate browsers from Node.js.
++r|related|WebDriver
+2804|WebVR|A JavaScript API for virtual reality devices in browsers, replaced by WebXR.
+2805|WinJS|Microsoft's JavaScript library for building Windows Store apps with controls and helpers, later open-sourced.
+2806|WKWebView|Apple's class for embedding web content in iOS and macOS apps.
+2807|wxGTK|The wxWidgets port that provides native-looking graphical interfaces on Linux using GTK.
+2808|wxPerl|Perl bindings for the wxWidgets cross-platform GUI toolkit.
+2809|wxPython|Python bindings for the wxWidgets GUI toolkit for building cross-platform desktop applications.
+2810|XtraGrid|DevExpress's data grid control for .NET desktop applications.
++r|related|DevExpress
+2811|Accelerated Mobile Pages|A Google-backed open-source framework for building fast-loading web pages for mobile.
++v|AMP
+2812|AllJoyn|An open-source framework for connecting devices and apps over local networks in the Internet of Things.
+2813|AlloyUI|A JavaScript UI framework built on YUI for web applications, from Liferay.
+2814|Angular|Google's TypeScript-based framework for building single-page web applications with components, routing and dependency injection.
+2815|AngularJS|The original Angular framework from Google, written in JavaScript, which reached end of life in 2022.
++r|related|Angular
+2816|Apache Beam|A unified programming model for defining batch and streaming data pipelines that run on engines such as Spark and Flink.
+2817|Apache Cocoon|A Java web development framework built on pipelines for XML publishing.
+2818|Apache Giraph|An iterative graph processing framework built on Hadoop.
+2819|Apache Jena|A Java framework for building semantic web and linked data applications, with RDF and SPARQL support.
+2820|Apache Spark|A distributed engine and framework for large-scale data processing, SQL, streaming and machine learning.
+2821|Apache Tiles|A Java templating framework for assembling page layouts from reusable fragments.
+2822|Apache TinkerPop|A graph computing framework with the Gremlin query language for working with graph databases.
+2823|ARKit|Apple's framework for building augmented reality experiences on iOS devices.
+2824|Arquillian|A Java testing framework for running tests inside a container or server.
+2825|ASP.NET Core MVC|Microsoft's model-view-controller framework in ASP.NET Core for building web apps and APIs.
+2826|ASP.NET Web API|Microsoft's framework for building HTTP services in .NET.
+2827|Aurelia|A JavaScript framework for building web, mobile and desktop apps with standards-based components.
+2828|Babylon.js|A JavaScript framework for building 3D games and experiences on the web with WebGL and WebGPU.
+2829|Batman.js|A JavaScript MVC framework for single-page apps, written in CoffeeScript and no longer maintained.
+2830|Brightway|A Python framework for life cycle assessment, used to model the environmental impacts of products.
+2831|Bulma|A CSS framework based on Flexbox that provides ready-made layouts and components.
+2832|Caffe|A deep learning framework from Berkeley focused on speed, used for image classification.
+2833|Caffe2|A lightweight deep learning framework from Facebook that was merged into PyTorch.
++r|related|Caffe
+2834|Cairngorm|An Adobe microarchitecture framework for building Flex rich internet applications.
+2835|CanJS|A JavaScript framework for building data-driven web applications.
+2836|CFWheels|An open-source framework for CFML that follows the model-view-controller pattern, inspired by Ruby on Rails.
++r|related|CFML
+2837|Chainer|A Python deep learning framework with dynamic graphs, whose developers moved to PyTorch.
+2838|Cocoa Touch|Apple's application framework for building iOS apps, including UIKit.
+2839|Core Spotlight|Apple's framework that lets iOS and macOS apps add their content to the system search index.
+2840|Corona SDK|A cross-platform framework using Lua for building mobile games and apps, now continued as Solar2D.
+2841|CUnit|A lightweight unit testing framework for C.
+2842|Cyber Kill Chain|Lockheed Martin's model that breaks an intrusion into stages, from reconnaissance to actions on objectives, to guide detection and defense.
+2843|Dagger 2|A compile-time dependency injection framework for Java and Android.
+2844|DbFit|A test framework that lets teams write database tests as tables in a wiki, built on FitNesse.
+2845|DoDAF|The U.S. Department of Defense Architecture Framework for describing enterprise architectures with standardized views.
+2846|EarlGrey|Google's UI testing framework for iOS apps.
+2847|Ember.js|A JavaScript framework for ambitious web applications, built on conventions and routing.
+2848|Express.js|A minimal web framework for Node.js for building servers and APIs.
++r|related|Node.js
+2849|Flask|A lightweight Python web framework for building web applications and APIs.
++r|related|Python
+2850|Flutter|Google's UI toolkit for building natively compiled apps for mobile, web and desktop from one Dart code base.
++r|related|Dart
+2851|Frisby.js|A JavaScript framework for testing REST APIs.
+2852|Gatsby|A React-based framework for building fast static and dynamic websites with GraphQL data.
++r|related|React
+2853|hapi|A Node.js framework for building web applications and services with configuration over code.
+2854|Impact.js|A JavaScript game engine for building 2D HTML5 games.
+2855|Ionic 2|The second major version of the Ionic framework for building cross-platform mobile apps with web technologies, built on Angular.
++r|related|Angular
+2856|Jasmine|A behavior-driven JavaScript testing framework.
+2857|JavaServer Faces 2.0|The 2009 version of the Java component-based web UI framework.
+2858|Jersey|The reference implementation of JAX-RS for building RESTful web services in Java.
+2859|JsUnit|An early unit testing framework for JavaScript.
+2860|LangChain|A framework for building applications with language models by chaining prompts, tools and data sources.
+2861|MEAN.JS|A full-stack JavaScript framework combining MongoDB, Express, Angular and Node.js.
+2862|Meteor.js|A full-stack JavaScript framework for building real-time web and mobile apps.
+2863|Microsoft Bot Framework|Microsoft's framework and SDK for building conversational bots across channels.
+2864|MITRE ATT&CK|A knowledge base of adversary tactics and techniques used to describe and detect attacker behavior.
+2865|MSTest|Microsoft's unit testing framework for .NET.
+2866|NativeScript|A framework for building native mobile apps with JavaScript, TypeScript or Angular.
+2867|Nette|A PHP framework for building web applications.
+2868|Next.js|A React framework for server-side rendering, static generation and full-stack web apps.
++r|related|React
+2869|Nightwatch.js|An end-to-end testing framework for web apps running on Node.js and Selenium.
+2870|NIST Cybersecurity Framework|NIST's voluntary framework of functions such as identify, protect, detect, respond and recover for managing cybersecurity risk.
+2871|nosetests|The test runner of the nose Python testing framework, now unmaintained.
+2872|Nuxt|A Vue-based framework for building universal and full-stack web apps.
++r|related|Vue.js
+2873|NW.js|A framework for building desktop applications with web technologies, using Chromium and Node.js.
+2874|OCUnit|The Objective-C unit testing framework that was built into Xcode, now succeeded by XCTest.
+2875|OpenNI|An open-source framework for natural interaction sensors such as depth cameras and motion tracking.
+2876|Oracle Application Framework|Oracle's Java-based framework for building Oracle E-Business Suite web applications.
+2877|Oracle Application Integration Architecture|Oracle's framework of pre-built integrations and patterns for connecting enterprise applications.
+2878|Padrino|A Ruby web framework built on top of Sinatra.
+2879|Phalcon|A PHP web framework delivered as a C extension for speed.
+2880|PHPUnit|The standard unit testing framework for PHP.
+2881|Prototype JavaScript Framework|An early JavaScript library that extends browser objects and simplifies Ajax and DOM scripting.
+2882|Protractor|An end-to-end testing framework for Angular apps built on WebDriverJS, now deprecated.
++r|related|WebDriverJS
+2883|Python Server Pages|A technology for embedding Python code in HTML pages on the server.
+2884|Sails.js|A Node.js MVC framework for building data-driven APIs and apps.
+2885|SAP Fiori|SAP's design system and framework for the user experience of SAP applications.
+2886|Selenium|A suite of tools and a framework for automating web browsers, widely used for testing web applications.
++r|related|WebDriver
+2887|Spine.js|A lightweight JavaScript MVC framework.
+2888|Spock Framework|A testing and specification framework for Java and Groovy.
+2889|Svelte|A JavaScript framework that compiles components into efficient code at build time.
+2890|SvelteKit|The application framework for Svelte, providing routing, server rendering and deployment adapters.
++r|related|Svelte
+2891|TestNG|A Java testing framework inspired by JUnit and NUnit with features for grouping, parameters and parallel execution.
+2892|TOGAF|The Open Group Architecture Framework, a method and set of tools for developing enterprise architecture.
+2893|UIKit|Apple's framework for building and managing the user interface of iOS apps.
+2894|UIkit (web framework)|A lightweight modular front-end framework for web interfaces from YOOtheme.
++f|ambiguous_label|Not to be confused with Apple's UIKit for iOS, which is a separate entry.
+2895|Vue.js|A progressive JavaScript framework for building user interfaces and single-page apps.

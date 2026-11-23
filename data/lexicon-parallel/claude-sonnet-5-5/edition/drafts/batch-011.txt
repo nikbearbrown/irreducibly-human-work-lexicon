@@ -1,0 +1,293 @@
+# batch 011: tools Binary Ninja..Oracle OLAP (n=2046..2295)
+2046|Binary Ninja|A reverse engineering platform with a disassembler, decompiler and API, used to analyze compiled programs and malware.
+2047|BIND|The Berkeley Internet Name Domain, widely used open-source DNS server software for hosting and resolving domain names.
+2048|Blender Game Engine|The real-time interactive game engine built into older versions of Blender, used to make simple games and simulations and removed in Blender 2.8.
+2049|Boa Constructor|A cross-platform Python development environment and wxPython interface builder that is no longer maintained.
+2050|Bonjour|Apple's zero-configuration networking technology that automatically discovers devices and services such as printers on a local network.
+2051|Box Backup|An open-source, client-server online backup system with encryption for backing up files to a remote server.
+2052|Browzwear|3D fashion design software for creating, fitting and visualizing digital garments before production.
+2053|Btrieve|A transactional database engine, later called Pervasive PSQL, that stores records by key and is embedded in business applications.
+2054|Bug tracking systems|Software for recording, assigning and following software defects through to resolution, such as Bugzilla and Jira.
++r|related|Issue tracking systems
+2055|Business integration software|Software that connects an organization's applications and data so that processes work across systems, such as middleware and integration platforms.
+2056|bzip2|A free file compression program and format that compresses single files with the Burrows-Wheeler algorithm.
+2057|cAdvisor|A Google tool that collects and exposes resource usage and performance metrics of running containers.
+2058|Cakewalk|A digital audio workstation for recording, editing and mixing music.
+2059|Calyx Point|Mortgage origination software for loan officers to take applications, run disclosures and prepare loan files.
+2060|CANape|A Vector tool for calibrating and measuring electronic control units in vehicles over bus interfaces such as CAN and XCP.
+2061|Canon EOS flash systems|Canon's Speedlite flash units and wireless flash system for EOS cameras, used in photography to light subjects and control exposure.
+2062|Capistrano|A Ruby-based tool for automating the deployment of web applications to remote servers over SSH.
+2063|Capture One|Professional raw photo editing and tethered shooting software for photographers.
+2064|Carrot2|An open-source search results clustering engine that groups documents or search results by topic.
+2065|CasperJS|A navigation scripting and testing tool for the PhantomJS and SlimerJS headless browsers, no longer maintained.
+2066|CCH ProSystem fx Engagement|Workpaper software for accounting firms to manage audit and review engagements, tick marks and sign-off.
+2067|cebas finalRender|A third-party photorealistic rendering plug-in for 3ds Max and Maya.
+2068|Celoxis|Web-based project management and resource planning software.
+2069|CentiLeo|A GPU-based rendering engine for 3D visualization.
++f|low_confidence|Identified from the name and memory only; the definition is deliberately minimal.
+2070|Chain Conveyor|A material-handling conveyor that moves loads on powered chains, used for pallets and heavy items.
+2071|Chromatography software|Software that controls chromatography instruments and processes their data, integrating peaks and calculating concentrations.
+2072|Chronometer|A precise timekeeping instrument, historically used to find longitude at sea and also used for timing events and experiments.
+2073|Clinical data repository|A database that gathers patient data from many clinical systems to support care, reporting and research.
+2074|Closed-circuit television camera|A video camera used in CCTV surveillance systems to monitor and record areas for security.
++v|CCTV camera
+2075|Cloud access security broker|A security service placed between users and cloud applications to enforce policies on access, data and threats.
++v|CASB
+2076|CocoaPods|A dependency manager for Swift and Objective-C projects that adds third-party libraries to Xcode projects.
+2077|CocoonJS|A tool for packaging HTML5 games for mobile devices with accelerated canvas, now discontinued.
+2078|Collaboration software|Tools such as shared documents, chat and task boards that help teams work together.
+2079|Combine harvester|A farm machine that reaps, threshes and cleans grain crops in one pass.
+2080|Communication software|Programs for exchanging messages, calls and meetings, such as email, chat and video conferencing.
+2081|Computer-assisted qualitative data analysis software (CAQDAS)|Software such as NVivo and ATLAS.ti for coding and analyzing interviews, text and other qualitative data.
++v|CAQDAS
+2082|ComputerRx|A pharmacy management software system for dispensing, billing and inventory.
++f|low_confidence|Identified from the name and memory only; the definition is deliberately minimal.
+2083|Concourse CI|An open-source continuous integration system that defines pipelines in YAML and runs each step in containers.
+2084|Conflict Catcher|A classic Mac OS utility that managed and resolved conflicts among system extensions and control panels.
+2085|Construct (game engine)|A drag-and-drop game engine for building 2D HTML5 games without coding.
+2086|Construction management software|Software for planning and controlling construction projects, including scheduling, costs, documents and communication.
+2087|Contact management software|Software that stores and organizes information about contacts and interactions, as in a CRM.
+2088|ControlUp|A tool for monitoring and troubleshooting virtual desktop and server environments.
+2089|Coping saw|A hand saw with a thin blade in a U-shaped frame, used to cut curves and joints in wood.
+2090|Coppermine Photo Gallery|An open-source web photo gallery application written in PHP.
+2091|CPython|The reference implementation of Python, written in C, which most people run when they use Python.
++r|related|Python
+2092|Create React App|A command-line tool for setting up a new React single-page application with a preconfigured build, now deprecated.
+2093|Creo Elements/Pro|PTC's parametric 3D CAD software, formerly Pro/ENGINEER, for mechanical product design.
+2094|CryEngine|A game engine from Crytek for building 3D games and real-time visualizations.
+2095|CU-SeeMe|An early internet videoconferencing program developed at Cornell University.
+2096|Cucumber|A tool that runs automated acceptance tests written as plain-language Gherkin scenarios for behavior-driven development.
++r|related|Gherkin
+2097|Cucumber.js|The JavaScript implementation of Cucumber for running Gherkin scenarios as automated tests.
++r|broader|Cucumber
+2098|cURL|A command-line tool and library for transferring data with URLs, used to call APIs and download files.
+2099|DALL·E|OpenAI's text-to-image generation model and service that creates images from written prompts.
+2100|Darik's Boot and Nuke|A free tool that securely erases hard drives by overwriting their data, used before disposal or reuse.
++v|DBAN
+2101|DB-Access|Informix's command-line and menu tool for running SQL statements against Informix databases.
+2102|DB2/400|IBM's integrated relational database on the AS/400 platform, now known as Db2 for i.
+2103|DBCC|Database Console Commands in Microsoft SQL Server, used to check database integrity and to maintain and troubleshoot databases.
+2104|DbVisualizer|A universal database client for querying and managing multiple database types through JDBC.
+2105|Decision-making software|Software that supports choices by structuring options, criteria and analysis, such as decision trees and multi-criteria tools.
+2106|Dell Wyse thin clients|Dell's low-power thin client devices that connect users to virtual desktops and cloud applications.
+2107|Desmos|A free online graphing calculator and math tool for plotting functions and exploring mathematics, widely used in teaching.
+2108|Destoner|An agricultural machine that removes stones from soil before planting or harvesting.
+2109|Dethatcher|A lawn tool or machine that removes the layer of dead grass, called thatch, from turf.
+2110|Dictaphone|A dictation recorder for speaking notes or letters for later transcription.
+2111|Dimensions CM|A software configuration management and version control system for managing code and change requests.
+2112|Driver's Vision Enhancer|A thermal imaging device that lets military vehicle drivers see in darkness and obscurants.
+2113|Durable medical equipment|Reusable medical items such as wheelchairs, walkers and oxygen concentrators prescribed for home use, with their supply and billing.
++v|DME
+2114|Dynamics 365 Field Service|Microsoft software for scheduling and dispatching technicians and managing field service work orders and assets.
+2115|Earth leakage circuit breaker|A protective device that disconnects a circuit when current leaks to earth, preventing shock and fire.
++v|ELCB
+2116|eClinicalWorks|A cloud-based electronic health record and practice management system for physician practices.
+2117|EDIUS|Professional nonlinear video editing software from Grass Valley used in broadcast and post-production.
+2118|Electric meters|Instruments that measure consumption of electrical energy for billing, with their installation and reading.
+2119|Electric vehicle|A vehicle driven by electric motors powered by batteries, with its charging, maintenance and servicing.
++v|EV
+2120|Electron microscope|An instrument that uses beams of electrons to image specimens at very high magnification, in scanning and transmission forms.
+2121|Electronic data capture|Software used in clinical trials to collect and manage patient data electronically in place of paper forms.
++v|EDC
+2122|Email on Acid|An email testing and preview tool that shows how emails render across clients and devices.
+2123|Email service providers|Platforms such as Mailchimp and SendGrid that send, track and manage bulk and transactional email.
++v|ESP
+2124|Email software|Programs and services for sending, receiving and organizing email.
+2125|Endevor|A mainframe software change management tool for controlling source and load module changes.
+2126|Endpoint detection and response|Security tools that continuously monitor devices for malicious activity and allow investigation and response.
++v|EDR
++r|related|Endpoint security
+2127|Enscape|A real-time rendering and virtual reality plug-in for architectural design software such as Revit and SketchUp.
+2128|EnterpriseDB|The enterprise PostgreSQL distribution and tools of the company EnterpriseDB, used as an alternative to proprietary databases.
++r|related|PostgreSQL
+2129|Epic ASAP|The Epic electronic health record module used in emergency departments for tracking patients, orders and documentation.
+2130|Epic Beacon|The Epic module for oncology that manages chemotherapy treatment plans, orders and documentation.
+2131|Epic Willow|The Epic pharmacy module for medication orders, verification, dispensing and inventory.
+2132|erwin Data Modeler|A tool for designing and documenting database and data models with entity-relationship diagrams.
+2133|Esker|Cloud software for automating accounts payable, order management and other document-based business processes.
+2134|Farm implements|Tools attached to or pulled by tractors, such as plows, harrows and seeders, used in cultivation and harvest.
+2135|FigJam|Figma's online whiteboard for brainstorming, diagramming and collaboration.
+2136|Finance software|Programs used to manage budgets, accounts, reporting and financial analysis.
+2137|FINCAD|Analytics software for valuing derivatives and other financial instruments and measuring their risk.
+2138|FIS GetPaid|Accounts receivable and collections management software from FIS.
+2139|Flatbed truck|A truck with an open, flat cargo bed for hauling large, oddly shaped loads, with its driving and load securement.
+2140|FlexiSIGN|Software for designing and producing signs, vinyl cutting and large-format printing.
+2141|Flux CD|A GitOps tool that keeps Kubernetes clusters in sync with configuration stored in Git repositories.
++r|related|Argo CD
+2142|Foglight|An application and database performance monitoring suite from Quest Software.
+2143|Forklift truck|A powered industrial vehicle with forks for lifting and moving pallets, with its safe operation.
+2144|Freight handling equipment|Equipment such as pallet jacks, conveyors and forklifts used to load, unload and move cargo.
+2145|Functional Independence Measure|A standardized scale rating a patient's independence in daily activities, used in rehabilitation.
++v|FIM
+2146|Ghidra|A free software reverse engineering framework released by the U.S. National Security Agency, with disassembly and decompilation, used to analyze binaries.
+2147|Global Mapper|GIS software for viewing, editing and analyzing geospatial data, with strong terrain and lidar tools.
+2148|GLPI|An open-source IT asset management and service desk application.
+2149|Google Bard|Google's earlier conversational AI chatbot, later renamed Gemini.
+2150|Google Business Profile|A free Google tool for managing how a business appears in Search and Maps, including hours, photos and reviews.
+2151|Google Jamboard|Google's digital whiteboard app for collaborative sketching, discontinued in 2024.
+2152|Google Optimize|A Google tool for website A/B testing and personalization, discontinued in 2023.
+2153|Google Sheets|Google's online spreadsheet application for calculations, analysis and collaboration.
+2154|Google Slides|Google's online presentation application for building and sharing slide decks.
+2155|GoPro|Compact, rugged action cameras for recording video and photos in sports and outdoor activities, and the editing apps used with them.
+2156|GoSystem Tax RS|Professional tax preparation and compliance software from Thomson Reuters for accountants.
+2157|Graphite|An open-source tool for storing and graphing time-series metrics.
+2158|GroupMe|A group messaging app owned by Microsoft.
+2159|Grunt.js|A JavaScript task runner that automates tasks such as minifying, compiling and testing.
+2160|Gulp.js|A JavaScript toolkit that automates build tasks by streaming files through plugins.
++r|related|Grunt.js
+2161|Hadoop Distributed File System|The distributed file system of Apache Hadoop that stores large data sets across clusters.
++v|HDFS
+2162|Hair clipper|An electric tool for cutting hair, used by barbers and groomers.
+2163|HAMMER file system|The advanced file system of DragonFly BSD, with history retention and snapshots.
+2164|Head-mounted display|A display worn on the head, as used in virtual and augmented reality headsets.
++v|HMD
+2165|Hearing aid software|Programs that audiologists use to program, fit and adjust hearing aids to a user's hearing profile.
+2166|Heritrix|The Internet Archive's open-source web crawler for archiving websites.
+2167|HincII|A restriction enzyme that cuts DNA at a specific recognition sequence, used in molecular biology.
+2168|HindIII|A restriction enzyme that cuts DNA at the AAGCTT sequence, widely used in cloning.
+2169|Honeypot|A decoy system set up to attract attackers so that their methods can be observed and diverted from real systems.
+2170|HotJava|Sun Microsystems' early web browser written in Java, an early showcase of applets.
+2171|HP 2100|A series of 16-bit minicomputers from Hewlett-Packard introduced in the late 1960s, used in instrument control and real-time applications.
+2172|HP 9845C|A desktop computer from Hewlett-Packard of the early 1980s with a color graphics display, used for technical computing.
+2173|HP Application Lifecycle Management|HP's software for managing requirements, testing and defects across the application lifecycle, formerly Quality Center.
+2174|HP Brio|A line of Hewlett-Packard business desktop PCs from the late 1990s.
++f|ambiguous_label|Brio is also the name of business intelligence software from Brio Technology; the PC line is assumed here.
+2175|HP Jornada|A line of Hewlett-Packard handheld PDAs running Windows CE from the late 1990s and early 2000s.
+2176|HP Quality Center|HP's test management tool for planning, running and tracking software tests and defects, later renamed Application Lifecycle Management.
++r|related|HP Application Lifecycle Management
+2177|HP Systems Insight Manager|HP's management software for monitoring and administering HP servers, storage and network devices.
+2178|HP WinRunner|An automated functional testing tool for Windows applications that records and replays user actions, now discontinued.
+2179|IAR Embedded Workbench|An integrated development environment with compilers and debuggers for embedded systems based on microcontrollers.
+2180|IBM CL/SuperSession|A mainframe terminal session manager that lets users reach multiple applications through one logon.
++f|low_confidence|Identified from memory; vendor lineage and current status are not stated.
+2181|IBM Data Studio|An Eclipse-based tool for developing, administering and tuning IBM Db2 databases.
+2182|IBM OfficeVision|IBM's mainframe office suite providing email, calendars and document handling, popular in the 1980s and 1990s.
+2183|IBM QRadar|A security information and event management platform that collects and correlates logs to detect and investigate threats.
+2184|IBM Rational Application Developer|An Eclipse-based development environment from IBM Rational for building Java and web applications.
+2185|IDA Pro|An interactive disassembler and debugger used for reverse engineering and malware analysis.
+2186|IDS InfoLease|Software for managing lease and loan portfolios for equipment finance companies.
++f|low_confidence|Identified from the name and memory only; the definition is deliberately minimal.
+2187|IIS Manager|The Microsoft console for configuring and managing Internet Information Services web servers, sites and application pools.
++r|related|Application pool
+2188|IndexedDB|A browser API for storing large amounts of structured data on the client, with indexes.
+2189|InfluxDB|An open-source time series database for metrics, events and sensor data.
+2190|Infoblox IPAM|Infoblox's tool for managing IP addresses, DHCP and DNS in a network.
+2191|Ingres|A relational database management system that originated in a UC Berkeley research project and is offered commercially and as open source.
+2192|InnoDB|The default transactional storage engine of MySQL, supporting ACID transactions, row-level locking and foreign keys.
+2193|InsightVM|Rapid7's vulnerability management tool that scans assets and prioritizes remediation.
+2194|Instagram Stories|An Instagram feature for posting photos and videos that disappear after 24 hours, used in marketing and social engagement.
+2195|InterQual|Evidence-based clinical criteria sets used by hospitals and payers to judge whether care, admissions or level of care are medically necessary.
+2196|Intraoral cameras|Small cameras used in dentistry to take images inside the mouth to show patients and document conditions.
+2197|Inventory management software|Programs that track stock levels, orders and locations to prevent shortages and overstock.
+2198|iOFFICE|Workplace and facilities management software, including space and asset management.
+2199|IPython|An interactive shell for Python that provides enhanced editing and history and is the foundation for Jupyter notebooks.
++r|related|Python
+2200|iReport Designer|A visual designer for building JasperReports reports.
+2201|IronMQ|A cloud message queue service from Iron.io for connecting application components.
+2202|IronPython|An implementation of Python for the .NET platform that integrates with .NET libraries.
++r|related|Python
+2203|Issue tracking systems|Software for logging, assigning and following tasks, bugs and requests until they are resolved.
+2204|JavaScript engine|A program that executes JavaScript code, such as V8, SpiderMonkey and JavaScriptCore, built into browsers and runtimes.
+2205|JavaScriptCore|The JavaScript engine used in Apple's WebKit and Safari.
++r|broader|JavaScript engine
+2206|Joint Clearance and Access Verification System|A U.S. Department of Defense system used by security managers to record and verify personnel security clearances.
++v|JCAVS
+2207|JSFiddle|An online editor for writing, running and sharing HTML, CSS and JavaScript snippets.
+2208|jsPerf|A website for creating and sharing JavaScript performance benchmarks.
+2209|JTrac|An open-source issue tracking web application written in Java.
+2210|Katalon Studio|A test automation tool for web, mobile and API tests with recording and scripting.
+2211|Label edge router|A router at the edge of an MPLS network that adds or removes labels from packets.
++v|LER
+2212|Label printer|A printer that produces labels for shipping, products and barcodes, typically using thermal technology.
+2213|LabVIEW|National Instruments' graphical programming environment for data acquisition, instrument control and test automation.
+2214|Lando|A free tool for creating local development environments in Docker containers.
+2215|Laser level|A tool that projects a laser line or point to establish level or plumb references in construction.
+2216|LDRA Testbed|A static and dynamic analysis tool for checking code quality, standards compliance and test coverage in safety-critical software.
+2217|LEGO Digital Designer|A free LEGO program for designing models virtually with digital bricks, now discontinued.
+2218|Levelator|A free audio utility that automatically evens out volume levels in recordings such as podcasts.
+2219|LightTools|Software for designing and analyzing illumination optics by ray tracing.
+2220|LinkedIn API|The interfaces that let applications access LinkedIn data and features such as sharing and profiles, subject to access restrictions.
+2221|Lumion|A real-time 3D rendering tool for turning architectural models into images and animations.
+2222|Machine tools|Powered machines such as lathes, mills and grinders that shape metal and other materials, and their operation.
+2223|Manure spreader|A farm machine that distributes manure over fields as fertilizer.
+2224|Marine radar|Radar used on vessels to detect other ships, land and hazards for navigation and collision avoidance.
+2225|Mathematica|Wolfram's software for symbolic and numerical computation, visualization and programming, used in science and engineering.
+2226|McAfee Personal Firewall Plus|A consumer firewall program from McAfee that controls network traffic on a PC.
+2227|MCollective|A framework for running parallel jobs and managing servers through a message broker, developed by Puppet.
+2228|Mechanical seal|A device that seals the shaft of a pump or mixer to stop fluid leakage, with its selection and installation.
+2229|Medical ventilator|A machine that moves air into and out of the lungs of a patient who cannot breathe adequately, with its settings and monitoring.
++r|related|Ventilator management
+2230|MEP design software|Software for designing mechanical, electrical and plumbing building systems, such as Revit MEP.
+2231|Metal detector|A device that senses metal objects, used for security screening, construction and recreation.
+2232|MicroBlaze|Xilinx's soft processor core for FPGAs, used to build embedded systems on a chip.
+2233|Microsoft Bookings|A Microsoft tool for scheduling and managing appointments with customers.
+2234|Microsoft Digital Image Suite|A discontinued Microsoft program for editing and organizing digital photos.
+2235|Microsoft Forms|A Microsoft tool for creating surveys, quizzes and forms and analyzing the responses.
+2236|Microsoft HoloLens|Microsoft's mixed reality headset that overlays holograms on the real world, used in design, training and industry.
+2237|Microsoft Intune|Microsoft's cloud service for managing devices and apps and enforcing security policies.
++r|related|Unified endpoint management
+2238|Microsoft Language Interface Pack|A Windows or Office add-on that translates the user interface into additional languages.
+2239|Microsoft Lists|A Microsoft 365 app for tracking information and work in customizable lists.
+2240|Microsoft Lync|Microsoft's former enterprise instant messaging and conferencing platform, replaced by Skype for Business and Teams.
+2241|Microsoft Paint|The basic image drawing and editing program in Windows.
+2242|Microsoft Sentinel|Microsoft's cloud-native SIEM and SOAR service for detecting, investigating and responding to threats.
+2243|Microsoft Teams live events|A Microsoft Teams feature for producing and broadcasting events to large online audiences.
+2244|Microsoft Teams Phone|A Microsoft Teams capability that adds calling over the public telephone network.
+2245|Microsoft Visio|Microsoft's diagramming software for flowcharts, floor plans, network diagrams and other drawings.
+2246|Microsoft Works|A discontinued Microsoft suite of basic word processing, spreadsheet and database programs.
+2247|MicroStation|Bentley Systems' CAD software for designing and documenting infrastructure and buildings.
+2248|MicroStrategy Desktop|A MicroStrategy tool for building dashboards and exploring data on one's own computer.
+2249|MicroStrategy Office|A MicroStrategy add-in that brings reports into Microsoft Office applications.
+2250|MicroStrategy OLAP Services|A MicroStrategy feature for fast in-memory analysis of data.
+2251|MicroStrategy Report Services|A MicroStrategy feature for designing formatted reports and documents from data.
+2252|MicroStrategy Software Development Kit|A set of APIs for customizing and extending MicroStrategy and embedding its analytics in applications.
+2253|MicroStrategy Transaction Services|A MicroStrategy feature for building forms that let users write data back to source systems.
+2254|MicroStrategy Visual Insight|A MicroStrategy interface for creating interactive visualizations and dashboards.
+2255|MicroStrategy Web|The web interface of MicroStrategy for viewing and building reports and dashboards in a browser.
+2256|MIKE URBAN|DHI software for modeling urban water systems, including drainage, sewer and water distribution networks.
+2257|ModelSim|A simulator for verifying hardware designs written in VHDL, Verilog and SystemVerilog.
+2258|MODO|A 3D modeling, animation and rendering application from Foundry.
+2259|MonetDB|An open-source column-oriented relational database designed for fast analytical queries.
+2260|MongoVue|A graphical client for browsing and managing MongoDB databases.
+2261|Motion graphics software|Programs such as After Effects used to create animated titles, graphics and visual effects.
++r|related|Motion graphics
+2262|Moz Pro|A suite of search engine optimization tools for keyword research, rank tracking and site audits.
+2263|Mud pump|A high-pressure pump that circulates drilling fluid in a well.
+2264|NameNode|The master server in HDFS that manages the file system namespace and tracks where data blocks are stored.
++r|part_of|Hadoop Distributed File System
+2265|NAnt|A .NET build tool similar to Ant that uses XML files to automate builds.
++r|related|Apache Ant
+2266|Navigational aid|A device or marker such as a buoy, lighthouse or beacon that helps vessels and aircraft determine position and route.
+2267|Navisworks|Autodesk software for reviewing combined 3D models, coordinating disciplines and detecting clashes in construction projects.
+2268|NedGraphics|Textile and apparel design software for creating prints, weaves and knits.
+2269|Network intrusion detection system|A system that monitors network traffic for suspicious activity and raises alerts.
++v|NIDS
+2270|Nexpose|Rapid7's vulnerability scanner, now InsightVM, that finds and prioritizes weaknesses in systems.
++r|related|InsightVM
+2271|nice (Unix utility)|A Unix command that runs a program with an adjusted scheduling priority.
+2272|NICE Workforce Management|Software for forecasting contact center demand and scheduling agents to meet it.
+2273|Nitrogen-phosphorus detector|A gas chromatography detector selective for compounds containing nitrogen or phosphorus.
++v|NPD
+2274|Notion (software)|A workspace app for notes, documents, wikis and databases that teams use to organize work.
+2275|npm|The package manager for JavaScript, used to install and publish libraries and run project scripts.
+2276|Nuance PDF Converter|A program for creating, editing and converting PDF files, including conversion to Word and Excel.
+2277|Nutanix AHV|Nutanix's built-in hypervisor for running virtual machines on its hyperconverged infrastructure.
+2278|Nutanix Calm|Nutanix's tool for automating application deployment and lifecycle management across clouds.
+2279|Nutanix Prism|The management console for monitoring and administering Nutanix clusters.
+2280|OCLC Connexion|A cataloging client for libraries to create and edit records in the WorldCat database.
+2281|Office and productivity software|Programs for everyday work such as word processing, spreadsheets, presentations and email.
+2282|ON1|Photo editing and raw processing software for photographers.
+2283|Onshape|A cloud-based CAD platform for collaborative product design in a web browser.
+2284|OpenTelemetry|An open standard and set of tools for generating and collecting metrics, logs and traces from applications.
++r|related|Observability
+2285|Optical power meter|A test instrument that measures the power of an optical signal in fiber networks.
+2286|Optimization software|Programs that find the best solution to a mathematical problem under constraints, such as linear programming solvers.
+2287|Optitex|3D fashion design and pattern-making software for garments.
+2288|Oracle Advanced Queuing|A messaging feature built into the Oracle database for queuing and exchanging messages between applications.
+2289|Oracle BI Answers|A web-based query tool in Oracle Business Intelligence for building ad hoc reports.
+2290|Oracle Business Activity Monitoring|An Oracle tool for creating real-time dashboards that monitor business processes and events.
+2291|Oracle Clinical|Oracle's clinical trial data management system for capturing and cleaning study data.
+2292|Oracle Fixed Assets|An Oracle E-Business Suite module for tracking and depreciating fixed assets.
+2293|Oracle GoldenGate|Oracle's tool for real-time data replication and integration between databases.
+2294|Oracle HRMS|Oracle's human resources management system module of the E-Business Suite for HR, payroll and talent.
+2295|Oracle OLAP|The online analytical processing option of the Oracle database for multidimensional analysis.

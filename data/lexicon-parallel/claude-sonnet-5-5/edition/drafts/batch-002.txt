@@ -1,0 +1,232 @@
+# batch 002: human languages Lingala..Zulu (n=153..225) and programming languages ABAP..Power Fx (n=226..312)
+153|Lingala|A Bantu language of the Congo River basin, a lingua franca across the Democratic Republic of the Congo and the Republic of the Congo and widely used in music and the military.
+154|Luxembourgish|A West Germanic language that is the national language of Luxembourg, used alongside French and German in administration and daily life.
+155|Macedonian|A South Slavic language, the official language of North Macedonia, written in the Cyrillic alphabet.
+156|Maithili|An Indo-Aryan language of the Mithila region of Bihar in India and southeastern Nepal, one of India's scheduled languages.
+157|Malagasy|An Austronesian language and an official language of Madagascar, most closely related to languages of southern Borneo.
+158|Malayalam|A Dravidian language of Kerala in southern India, the state's official language, written in its own script.
+159|Maltese|A Semitic language of Malta written in the Latin alphabet, with large Italian and English vocabularies; official in Malta and the European Union.
+160|Mandarin|The Sinitic language group and standard spoken Chinese based on Beijing pronunciation; Standard Mandarin is the national standard in mainland China and Taiwan and an official language of Singapore.
++v|Putonghua
++r|broader|Chinese
+161|Manipuri|A Tibeto-Burman language of Manipur in northeastern India, written in the Meitei Mayek and Bengali scripts.
++v|Meitei
++v|Meiteilon
+162|Manx|A Goidelic Celtic language of the Isle of Man that lost its last native speakers in the 20th century and is being revived through classes and schools.
+163|Marathi|An Indo-Aryan language of Maharashtra in western India, the state's official language, written in Devanagari.
+164|Mayan languages|A family of about thirty languages of Mexico, Guatemala, Belize and Honduras, including K'iche', Yucatec and Q'eqchi'.
++f|sense_note|The label names a language family rather than a single language.
+165|Mizo|A Tibeto-Burman Kuki-Chin language of Mizoram in northeastern India, the state's principal language, written in the Latin alphabet.
+166|Mongolian|A Mongolic language of Mongolia and Inner Mongolia, written in Cyrillic in Mongolia and in the traditional vertical script in China.
+167|Ndebele|The name of two Bantu languages of the Nguni group: Southern Ndebele of South Africa and Northern Ndebele of Zimbabwe, which is closely related to Zulu.
++f|ambiguous_label|The label does not say whether the South African or the Zimbabwean language is meant.
+168|Nepali|An Indo-Aryan language and the official language of Nepal, written in Devanagari and also spoken in Sikkim, Darjeeling and Bhutan.
+169|Norwegian|A North Germanic language of Norway with two written standards, Bokmål and Nynorsk, largely intelligible with Danish and Swedish.
++r|related|Danish
++r|related|Swedish
+170|Odia|An Indo-Aryan language of Odisha in eastern India, a classical language of India written in the Odia script.
++v|Oriya
+171|Ovambo|A group of Bantu languages of the Ovambo people of northern Namibia and southern Angola, notably Kwanyama and Ndonga.
++v|Oshiwambo
++f|sense_note|The label names a cluster of closely related varieties.
+172|Pashto|An Eastern Iranian language of the Pashtun people of Afghanistan and Pakistan, an official language of Afghanistan, written in an Arabic-based script.
++v|Pushto
+173|Persian|A Western Iranian language of Iran, Afghanistan and Tajikistan, written in an Arabic-based script in Iran and Afghanistan, with national varieties Farsi, Dari and Tajik.
++v|Farsi
+174|Phoenician|An extinct Northwest Semitic language of the Phoenician city-states of Tyre, Sidon and Byblos, written in the Phoenician alphabet from which later alphabets descend.
+175|Polish|A West Slavic language of Poland, written in the Latin alphabet with diacritics.
+176|Portuguese|A Romance language of Portugal, Brazil and several African countries, with European and Brazilian standards.
+177|Punjabi|An Indo-Aryan language of the Punjab region of India and Pakistan, written in Gurmukhi in India and in the Shahmukhi script in Pakistan.
++v|Panjabi
+178|Quechua|A family of Quechuan languages of the Andes spoken from Colombia to Argentina, with most speakers in Peru, Bolivia and Ecuador and official status in Peru and Bolivia.
++f|sense_note|The label names a language family whose varieties are not all mutually intelligible.
+179|Romanian|A Romance language and the official language of Romania and Moldova.
+180|Russian|An East Slavic language written in Cyrillic, official in Russia and several neighboring countries, widely used across the former Soviet states and one of the six official languages of the United Nations.
+181|Sakha|A Turkic language of the Sakha Republic in Siberia, where it is official alongside Russian.
++v|Yakut
+182|Samoan|A Polynesian language of Samoa and American Samoa with distinct formal and colloquial registers.
+183|Sango|A creole-like language based on Ngbandi that is the national language and lingua franca of the Central African Republic, official alongside French.
+184|Santali|A Munda language of the Austroasiatic family spoken by the Santal people of Jharkhand, West Bengal and Odisha, written in the Ol Chiki script and a scheduled language of India.
+185|Saraiki|An Indo-Aryan language of southern Punjab and neighboring areas of Pakistan, closely related to Punjabi and Sindhi.
++v|Seraiki
+186|Serbo-Croatian|The South Slavic language continuum underlying the Bosnian, Croatian, Montenegrin and Serbian standards, which differ chiefly in vocabulary, script use and some forms.
++f|sense_note|A pluricentric label that overlaps the national standards listed separately in the roster.
+187|Sesotho|A Bantu language of Lesotho and South Africa, official in both countries.
++v|Southern Sotho
+188|Shan|A Tai language of Shan State in Myanmar, related to Thai and Lao and written in a script derived from Burmese.
+189|Shona|A group of closely related Bantu languages that are the principal languages of Zimbabwe, including Karanga, Zezuru and Manyika.
++f|sense_note|The label names a cluster of related varieties with a standardized written form.
+190|Silesian|A West Slavic language or dialect of Upper Silesia in Poland and Czechia, regarded by some as a Polish dialect and by others as a separate language.
++f|sense_note|Its status as a separate language is disputed.
+191|Sindhi|An Indo-Aryan language of Sindh in Pakistan and of communities in India, written in an Arabic-based script in Pakistan and in Devanagari in India.
+192|Sinhala|An Indo-Aryan language of Sri Lanka, the majority and an official language there, written in the Sinhala script.
++v|Sinhalese
+193|Slovak|A West Slavic language and the official language of Slovakia, closely related to Czech.
+194|Slovene|A South Slavic language of Slovenia, notable for retaining a dual grammatical number.
++v|Slovenian
+195|Sogdian|An extinct Eastern Iranian language of Sogdiana in Central Asia, a language of Silk Road trade and of Manichaean and Buddhist texts.
+196|Somali|A Cushitic language of Somalia and neighboring regions of Ethiopia, Djibouti and Kenya, written in the Latin alphabet since 1972.
+197|Spanish|A Romance language that is the first language of Spain and most of Latin America, a major international language in business, media and public services.
++v|Español
+198|Sumerian|An extinct language isolate of ancient Mesopotamia written in cuneiform, the earliest attested written language, studied by Assyriologists.
+199|Sundanese|An Austronesian language of western Java in Indonesia.
+200|Swabian German|An Alemannic German dialect of Swabia in Baden-Württemberg and Bavaria, Germany.
++r|broader|German
++f|sense_note|A dialect of German rather than a separate language.
+201|Swahili|A Bantu language and lingua franca of East Africa, official in Tanzania and Kenya and widely used as a trade and media language.
++v|Kiswahili
+202|Swati|A Bantu language of the Nguni group, official in Eswatini and South Africa.
++v|siSwati
++v|Swazi
+203|Swedish|A North Germanic language of Sweden, also an official language of Finland, written in the Latin alphabet.
++r|related|Norwegian
+204|Tajik|The variety of Persian that is the official language of Tajikistan, written in Cyrillic.
++r|broader|Persian
+205|Tamil|A Dravidian classical language of Tamil Nadu in India and of Sri Lanka, official in India's Tamil Nadu, Sri Lanka and Singapore, with its own script.
+206|Tatar|A Turkic language of the Tatar people, spoken chiefly in Tatarstan and elsewhere in Russia.
+207|Telugu|A Dravidian language of Andhra Pradesh and Telangana in India, written in the Telugu script.
+208|Thai|A tonal Tai-Kadai language and the official language of Thailand, written in the Thai script.
+209|Tharu|The Indo-Aryan speech of the Tharu people of the Terai lowlands of Nepal and northern India.
++f|sense_note|Several related varieties share the name; the label does not specify one.
+210|Tibetan|A Sino-Tibetan language of Tibet and neighboring regions, written in the Tibetan script, with Central, Kham and Amdo varieties.
+211|Tigrinya|A Semitic language of Eritrea and the Tigray region of Ethiopia, written in the Ge'ez script.
+212|Tswana|A Bantu language of Botswana and South Africa, the national language of Botswana.
++v|Setswana
+213|Tulu|A Dravidian language of coastal Karnataka and northern Kerala in India.
+214|Turkish|A Turkic language, the official language of Turkey, written in a Latin alphabet since 1928.
+215|Turkmen|A Turkic language and the official language of Turkmenistan, written in the Latin alphabet.
+216|Ukrainian|An East Slavic language and the official language of Ukraine, written in Cyrillic.
+217|Urdu|An Indo-Aryan language, the national language of Pakistan, written in a Perso-Arabic script and mutually intelligible with Hindi in everyday speech.
++r|related|Hindi
+218|Uyghur|A Turkic language of the Uyghur people of Xinjiang in China and of Central Asian communities, mainly written in an Arabic-based script.
+219|Uzbek|A Turkic language and the official language of Uzbekistan, written mainly in the Latin alphabet.
+220|Vietnamese|A tonal Austroasiatic language and the official language of Vietnam, written in a Latin-based alphabet with diacritics.
+221|Wagdi|An Indo-Aryan Bhil language of the Vagad region of southern Rajasthan and neighboring areas of India.
++f|low_confidence|Identification and region are from memory and should be checked against a language catalogue.
+222|Walloon|A Romance language of the langue d'oïl group spoken in Wallonia in Belgium.
+223|Xhosa|A Bantu language of the Nguni group, widely spoken in South Africa's Eastern Cape and noted for its click consonants; one of South Africa's official languages.
++v|isiXhosa
+224|Yoruba|A Niger-Congo tonal language of southwestern Nigeria and neighboring Benin and Togo, written in the Latin alphabet with tone marks.
+225|Zulu|A Bantu language of the Nguni group and the most widely spoken home language in South Africa, one of its official languages.
++v|isiZulu
+226|ABAP|SAP's proprietary programming language for writing reports, interfaces, extensions and applications on the SAP application server; developers use it to implement business logic and read and update SAP data.
++v|Advanced Business Application Programming
+227|ActionScript|An object-oriented scripting language derived from ECMAScript, used with Adobe Flash and AIR to build interactive animations, games and rich internet applications.
+228|Ada|A statically and strongly typed language designed for reliable, long-lived embedded and safety-critical systems in aviation, defense and rail, with built-in tasking for concurrency.
+229|Ada 95|The 1995 revision of Ada (ISO/IEC 8652:1995), which added object-oriented programming, protected types and hierarchical libraries to Ada 83.
++r|broader|Ada
+230|Algebraic Logic Functional|A research language, known as ALF, that integrates functional and logic programming through equational definitions and logic-style search.
++v|ALF
++f|low_confidence|A niche research language identified from memory; the definition is deliberately brief.
+231|ALGOL|A family of early imperative languages, including ALGOL 60 and ALGOL 68, that introduced block structure and formal grammar notation and shaped Pascal, C and later languages; used in algorithm publication and teaching.
+232|AMPscript|Salesforce Marketing Cloud's scripting language embedded in emails, landing pages and messages to personalize content, look up data and apply conditional logic.
+233|Apex|Salesforce's strongly typed, Java-like language that runs on the Salesforce platform; developers write triggers, classes and batch jobs to implement business logic and integrations.
+234|Assembly language|A low-level language of mnemonics that map nearly one-to-one to a processor's machine instructions, used for firmware, drivers, performance-critical routines, reverse engineering and learning computer architecture.
++v|Assembler
+235|AWK|A small text-processing language that applies pattern-action rules to lines and fields of input, used on the command line to filter, summarize and reformat text and logs.
+236|Ballerina|A cloud-native, statically typed language with built-in support for network services, JSON and concurrency, used to write integrations and API services.
+237|Base SAS|The core SAS programming language, with its data step and procedures, used to read, clean, transform, analyze and report data in the SAS system.
+238|Bash|The GNU Bourne-Again shell command language, used to run commands interactively and to write scripts that automate file handling, builds, deployments and administration on Unix-like systems.
+239|BASIC|A family of beginner-friendly imperative languages dating from 1964, once bundled with microcomputers and now mostly used in teaching and legacy maintenance.
+240|BeanShell|A small Java source interpreter and scripting language that runs Java-like code dynamically, used to embed scripting in Java applications and test tools.
+241|BlitzMax|A BASIC-derived, object-oriented compiled language aimed at 2D game and multimedia programming.
+242|Boo|A statically typed, Python-inspired language for the .NET and Mono runtimes, once supported as a Unity scripting language.
+243|C|A low-level, general-purpose procedural language with manual memory management and close hardware access, used for operating systems, embedded firmware, drivers and performance-critical libraries.
+244|C#|Microsoft's object-oriented, statically typed language for the .NET platform, used for web services, desktop applications, games and enterprise software.
++v|C Sharp
+245|C++|A compiled, multi-paradigm extension of C with classes and templates, used for systems software, game engines, trading systems and other performance-critical applications.
++r|related|C
+246|CFML|ColdFusion Markup Language, the tag-and-script language of Adobe ColdFusion and Lucee used to build dynamic web pages, database-driven applications and web services on the JVM.
+247|Chipmunk Basic|A BASIC interpreter for macOS, Linux and Windows that runs classic BASIC programs, used for teaching, hobby programming and legacy code.
+248|CLIST|Command List, an interpreted scripting language for IBM TSO on z/OS used to automate command sequences and dialogs, largely superseded by REXX.
+249|Clojure|A modern Lisp for the JVM that emphasizes immutable data, functional programming and concurrency, used for data processing and web back ends.
+250|COBOL|A verbose, English-like business language that still runs core banking, insurance and government transaction and batch systems on mainframes, maintained and modernized by specialist developers.
+251|CoffeeScript|A language that compiles to JavaScript with shorter, Ruby- and Python-influenced syntax, found mainly in older web projects.
++r|related|JavaScript
+252|COMIT|An early string-processing language developed at MIT in the 1950s for machine translation and linguistics research, now of historical interest.
+253|Common Lisp|The ANSI-standardized Lisp dialect with macros, an object system (CLOS) and an interactive REPL workflow, used in AI, symbolic computing and long-lived systems.
++r|broader|Lisp
+254|Component Pascal|An Oberon-descended Pascal-family language for component-based software, associated with the BlackBox Component Builder.
+255|Crystal|A compiled, statically typed language with Ruby-inspired syntax and type inference, aimed at fast native programs.
+256|Cython|A superset of Python that compiles to C extension modules, used to speed up numerical code and to wrap C and C++ libraries.
++r|related|Python
+257|D|A compiled systems language with C-like syntax, templates and metaprogramming, used for native applications and tools.
+258|Dart|Google's typed, object-oriented language, used with the Flutter framework to build cross-platform mobile, web and desktop apps.
+259|Delphi|An Object Pascal dialect and development environment from Embarcadero for building native Windows and cross-platform desktop and database applications.
++r|related|Pascal
+260|Digital Command Language|The command and scripting language of OpenVMS, used to run programs, manage files and write job procedures.
++v|DCL
+261|Dylan|A dynamic object-oriented language with Lisp heritage and infix syntax, originally developed at Apple and now a niche language.
+262|ECMAScript 2015|The sixth edition of the ECMAScript standard, which added classes, modules, arrow functions, let and const, promises and template literals to JavaScript; working knowledge means writing modern JavaScript.
++v|ES6
++v|ES2015
++r|broader|JavaScript
+263|Eiffel|An object-oriented language built around Design by Contract, with preconditions, postconditions and invariants, used for reliable software and teaching object-oriented design.
+264|Elixir|A functional, concurrent language on the Erlang virtual machine, used for fault-tolerant web back ends, real-time systems and messaging.
++r|related|Erlang
+265|Elm|A functional language that compiles to JavaScript for building web front ends, emphasizing reliability and friendly compiler messages.
+266|Erlang|A functional, concurrent language and runtime designed at Ericsson for fault-tolerant telecommunications systems, used in messaging and distributed back ends.
+267|F#|A functional-first language on .NET with type inference, used for data analysis, domain modeling and back-end services.
++v|F Sharp
+268|F*|A proof-oriented functional language with dependent types and effects, used to verify programs such as cryptographic code.
+269|Fantom|A statically typed, object-oriented language that runs on the JVM, .NET and JavaScript with a portable standard library.
+270|Forth|A stack-based, extensible language used in embedded systems and firmware, where programmers define small words and build the language up from them.
+271|Fortran|One of the oldest high-level languages, still used for array-oriented numerical code in scientific and high-performance computing such as climate, physics and engineering simulation.
++v|FORTRAN
+272|Gambas|A BASIC-style, object-oriented language with a visual development environment for building Linux desktop applications.
+273|Gherkin|A plain-text Given/When/Then language used in Cucumber and similar tools to write behavior-driven development scenarios that run as automated tests.
+274|Go|Google's compiled, statically typed language with goroutines and channels, used for cloud services, command-line tools and infrastructure software.
++v|Golang
+275|GraphQL|A query language and runtime for APIs in which clients ask for exactly the fields they need against a typed schema; used to design and consume flexible APIs.
+276|Groovy|A dynamic JVM language with Java-compatible syntax, used for scripting, Gradle build files and Jenkins pipelines.
+277|Hack|Meta's dialect of PHP for the HHVM runtime, adding static typing and asynchronous features.
++r|related|PHP
+278|Haskell|A purely functional language with lazy evaluation and a strong static type system, used in compilers, finance and research.
+279|Haxe|A cross-platform language and compiler that targets JavaScript, C++, Java, Python and other runtimes from one code base, used for games and tools.
+280|J#|Microsoft's Java-syntax language for the .NET Framework, now discontinued and met mainly when migrating legacy code.
+281|Java|A statically typed, object-oriented language that runs on the Java virtual machine, used for enterprise back ends, Android applications and large systems.
+282|JavaScript|The scripting language of the web, used to make pages interactive in browsers and, through runtimes such as Node.js, to build servers and tooling.
++v|JS
++v|ECMAScript
+283|JDOQL|The Java Data Objects Query Language, an object-oriented query language of the JDO API for retrieving persistent Java objects from a datastore.
+284|JScript|Microsoft's implementation of ECMAScript, used in Internet Explorer and Windows Script Host and met mostly in legacy scripts.
++r|related|JavaScript
+285|JScript .NET|A JScript variant compiled for the .NET Framework, with optional typing and classes, used in legacy ASP.NET code.
++r|broader|JScript
+286|Julia|A high-performance dynamic language for numerical and scientific computing with multiple dispatch and just-in-time compilation.
+287|Kotlin|JetBrains' statically typed language for the JVM, Android, JavaScript and native targets, the preferred language for Android development and interoperable with Java.
+288|Ladder logic|A graphical PLC programming language, standardized as Ladder Diagram in IEC 61131-3, that expresses control logic as relay-style rungs; used by automation technicians and controls engineers.
++v|Ladder diagram
+289|Lingo|The scripting language of Macromedia and Adobe Director, used to program interactive multimedia and games.
++f|ambiguous_label|Not to be confused with LINGO, the optimization modeling language of LINDO Systems.
+290|Liquid template language|Shopify's open-source template language, used to render dynamic content in Shopify themes, Jekyll sites and email through objects, tags and filters.
++v|Liquid
+291|Lisp|A family of languages built on S-expressions with code as data and macros, historically central to AI research and including Common Lisp, Scheme and Clojure.
+292|LiveScript|A CoffeeScript-derived functional language that compiles to JavaScript; also the early name of JavaScript before 1995.
++f|ambiguous_label|Can mean the compile-to-JavaScript language or the original name of JavaScript.
+293|Logo|An educational language known for turtle graphics, designed to teach children programming and mathematical ideas and descended from Lisp.
+294|Lua|A lightweight, embeddable scripting language used for game logic, configuration and application extensions.
+295|MATLAB|MathWorks' matrix-oriented language and environment for numerical computing, data analysis, simulation, signal processing and control design in engineering and science.
+296|MQL4|MetaQuotes Language 4, the C-like language of the MetaTrader 4 trading platform, used to write automated trading robots and technical indicators.
+297|MUMPS|The Massachusetts General Hospital Utility Multi-Programming System, a language with a built-in hierarchical database used in healthcare information systems and some banking systems.
++v|M
+298|Nim|A statically typed compiled language with Python-like syntax and powerful metaprogramming that compiles to C, C++ or JavaScript.
+299|Oberon|Niklaus Wirth's minimalist successor to Modula-2, also the name of an operating system, used in teaching and language research.
+300|Objective-C|A C superset with Smalltalk-style messaging, the main language of macOS and iOS development before Swift and still found in legacy Apple codebases.
++r|related|C
+301|OCaml|A functional language of the ML family with static typing and type inference, used in compilers, theorem provers and quantitative finance.
+302|OpenEdge ABL|Progress Software's Advanced Business Language for building database-centric business applications on the OpenEdge platform, formerly known as Progress 4GL.
++v|ABL
++v|Progress 4GL
+303|Oz|A multiparadigm language mixing functional, logic, constraint, object-oriented and concurrent styles, implemented in the Mozart system and used mainly for teaching programming concepts.
+304|Pascal|Niklaus Wirth's structured, strongly typed teaching language, influential on Delphi, Ada and Modula.
+305|Perl|A text-processing and scripting language with strong regular expressions, used for system administration, bioinformatics and legacy web scripts.
+306|PHP|A server-side scripting language for web development, behind sites built with WordPress, Laravel and similar systems.
+307|PHP 7|The PHP 7.x release series, which brought large speed gains, scalar type declarations, return types, the null coalescing operator and anonymous classes.
++r|broader|PHP
+308|PL/I|An IBM-designed general-purpose language combining business and scientific features, still found in mainframe systems.
+309|PL/pgSQL|PostgreSQL's procedural language for writing functions, triggers and procedures that run inside the database.
++r|part_of|PostgreSQL
+310|PL/SQL|Oracle's procedural extension to SQL for writing stored procedures, functions, packages and triggers that run inside the Oracle database.
+311|PostScript|Adobe's stack-based page description language that describes printed pages and graphics, used in printing and prepress workflows and as the basis of the early PDF format.
+312|Power Fx|Microsoft's low-code, Excel-like formula language used in Power Apps and other Power Platform tools to build application logic from formulas.

@@ -1,0 +1,237 @@
+# batch 004: knowledge Database life cycle..Multi-core SMP (n=491..694)
+491|Database life cycle|The stages a database passes through, from requirements and design through implementation, loading, operation and maintenance to retirement.
+492|Database systems|The theory and practice of systems that store, organize, query and secure data, including relational and non-relational models, transactions and indexing.
+493|Database trigger|Procedural code stored in a database that runs automatically in response to events such as inserts, updates or deletes on a table.
+494|Debits and credits|The double-entry bookkeeping convention in which each transaction is recorded as equal debit and credit entries across accounts.
+495|Deposition (geology)|The geological process by which sediments, soil and rock fragments are laid down by wind, water, ice or gravity, building landforms and sedimentary layers.
+497|Diagnostic audiology|The assessment of hearing and balance disorders using tests such as pure-tone audiometry and tympanometry to determine the type and degree of hearing loss.
+498|Dialectology|The study of regional and social varieties of a language, including their sounds, words and grammar and how they are distributed.
+499|Dietetics|The science of applying nutrition to health, including assessing dietary needs and planning diets for individuals and groups, especially in clinical settings.
+500|Digital currencies|Money that exists only in electronic form, including cryptocurrencies and central bank digital currencies, and how it is issued, held and transferred.
+501|Digital health technologies|Technologies such as telemedicine, wearables, health apps and electronic records that deliver or support health care.
+502|Digital humanities|The use of computational methods such as text analysis, mapping and digital archives to study and present humanities materials.
+503|Digital rights management|Technologies and policies that control how digital content can be accessed, copied and shared, used by publishers and platforms.
++v|DRM
+504|Direct digital control|The use of microprocessor-based controllers to monitor and regulate building or industrial processes such as heating and ventilation, in place of analog controls.
++v|DDC
+505|Disability insurance|Insurance that replaces part of a person's income when illness or injury prevents them from working, including short-term and long-term coverage.
+506|Disaster loans|Government or institutional loans, such as U.S. Small Business Administration disaster loans, that help people and businesses recover from declared disasters.
+507|Distributed computing|The design of systems in which components on networked computers coordinate to act as one, covering communication, consistency, failures and scaling.
+508|Documentation lifecycle|The stages a document goes through, from planning and authoring to review, approval, publication, maintenance and retirement.
+509|Dot matrix printing|Impact printing in which a print head strikes a ribbon with pins to form characters from dots, still used for multipart forms and receipts.
+510|Drug absorption|How a drug enters the bloodstream from its site of administration, and the factors such as route, formulation and food that affect it.
+511|Dynamic-link library|A Windows file of shared code and resources that programs load at run time, and how such libraries are built, versioned and loaded.
++v|DLL
++f|sense_note|Names a software artifact; the knowledge is of how it is built and loaded.
+512|Early childhood mental health|The emotional and social well-being of children from birth to about age five, including development, attachment and early intervention.
+513|Earthing systems|The arrangements that connect electrical installations to ground for safety and equipment protection, classified in schemes such as TN, TT and IT.
++v|Grounding systems
+516|Educational assessment|The design and use of tests, observations and other methods to measure what learners know and can do, including reliability, validity and interpretation of results.
+517|Electrical power quality|The characteristics of electrical supply such as voltage stability, frequency, harmonics and interruptions, and their effects on equipment.
+518|Electromechanical engineering|The engineering of systems that combine electrical and mechanical parts, such as motors, actuators and sensors, with their control.
+519|Electronic article surveillance|Retail anti-theft technology that uses tags and detectors at exits to sound an alarm when an unpaid-for item passes.
++v|EAS
+520|Electronic paper|Display technology that mimics ink on paper, reflecting ambient light and holding an image without power, used in e-readers and signs.
++v|e-paper
+521|Emergency procedures|Prescribed steps for responding to hazardous situations such as fire, medical events, evacuations or equipment failure to protect people and property.
+522|Endocannabinoid system|The body's network of cannabinoid receptors, signaling molecules and enzymes that helps regulate functions such as mood, pain, appetite and immunity.
+523|Endocrine disorders|Diseases of hormone-producing glands, such as diabetes and thyroid disease, and their causes, diagnosis and treatment.
+524|Endodontics|The dental specialty concerned with the dental pulp and root canals, including root canal treatment.
+525|Energy system transition|The shift of energy production and use from fossil fuels toward low-carbon sources, with the technology, grid, market and policy changes it involves.
+526|Engineered materials arrestor system|A runway-end safety system of crushable material that stops aircraft overrunning a runway by absorbing their energy.
++v|EMAS
++f|sense_note|Names a physical safety system; the knowledge is of its design, installation and performance.
+528|Engineering economics|The use of cost, interest and time-value methods to evaluate and compare engineering projects and design alternatives.
+529|Engineering education|The teaching and learning of engineering, including curriculum design, pedagogy and accreditation outcomes.
+530|Engineering mathematics|The mathematical methods used in engineering, such as calculus, differential equations, linear algebra and numerical analysis.
+531|Engineering statics|The analysis of forces on bodies and structures in equilibrium, used to design trusses, beams and supports.
+532|Engineering statistics|The use of probability and statistical methods to analyze variation and data in engineering design, testing, quality and reliability.
+534|eNodeB|The base-station node of a 4G LTE radio access network that connects phones to the core network and manages radio resources.
++f|sense_note|Names a network element; the knowledge is of its function and configuration in LTE networks.
+535|Environmental anthropology|The anthropological study of how cultures understand, use and shape their environments.
+536|Environmental finance|The use of financial tools and markets, such as green bonds and carbon trading, to fund environmental protection and manage environmental risk.
+537|Environmental, social and governance|A framework for assessing an organization's environmental impact, social relationships and governance practices, used by investors and companies for risk and reporting.
++v|ESG
+538|Equities|Ownership shares in companies, and how they are issued, traded and valued in stock markets.
+539|Erikson's stages of psychosocial development|Erik Erikson's theory that people pass through eight life stages, each defined by a psychosocial crisis such as trust versus mistrust or identity versus role confusion.
+540|Ethical AI|The principles and practices for building and using AI fairly, transparently, safely and accountably, including bias, privacy and human oversight.
+541|Etiology|The study of the causes of diseases and conditions.
+542|Excess return|In finance, the return on an investment above a benchmark or the risk-free rate.
+543|Expectancy theory|Victor Vroom's motivation theory that people act on their expectation that effort leads to performance and performance to rewards, and on how much they value those rewards.
+544|Extended Parallel Process Model|A health communication model by Kim Witte explaining how fear appeals succeed or fail depending on perceived threat and perceived ability to respond.
+545|Extended reality|The umbrella term for virtual, augmented and mixed reality technologies that merge physical and digital worlds.
++v|XR
+546|Extended validation certificate|A TLS certificate issued after rigorous verification of an organization's legal identity, intended to signal higher assurance than basic domain validation.
++f|sense_note|Names a type of certificate artifact, not a credential held by a person; the knowledge is of how such certificates are validated and used.
+547|Eye surgery|Surgical treatment of the eye and surrounding structures, such as cataract, retina and refractive procedures.
+548|Factoring (finance)|A financing arrangement in which a business sells its invoices at a discount to a third party for immediate cash.
+549|Family and consumer sciences|The study of everyday life skills and well-being, including nutrition, child development, housing, textiles and personal finance.
+550|Family ministry|Church or faith-community programs and pastoral care that support families, including parenting, marriage and intergenerational activities.
+551|Family systems theory|Murray Bowen's view that individuals are best understood within their family as an emotional unit, used in family therapy.
+552|Feminist theory|Frameworks that analyze gender and power and how they shape society, culture and institutions.
+553|Fibre Channel|A high-speed networking technology and protocol used mainly to connect servers to storage area networks.
+554|Field-programmable gate array|An integrated circuit whose logic can be reconfigured after manufacturing, used for prototyping, signal processing and custom hardware acceleration.
++v|FPGA
+555|File control block|An operating system data structure holding the information needed to manage an open file, such as its location, size and current position.
++v|FCB
+556|Final expense insurance|Small whole life insurance policies intended to pay funeral and burial costs and other end-of-life expenses.
+557|Financial privacy|Laws and practices governing how financial institutions collect, share and protect customers' personal financial information, such as the U.S. Gramm-Leach-Bliley Act.
+559|Flexible Single Master Operations|The special roles in Microsoft Active Directory, such as schema master and PDC emulator, that are held by single domain controllers and manage particular forest and domain functions.
++v|FSMO
++v|Operations master roles
+560|Floating-point arithmetic|How computers represent and calculate with real numbers in a finite format such as IEEE 754, including rounding error and special values.
+561|Fluid statics|The physics of fluids at rest, including pressure, buoyancy and forces on submerged surfaces.
+562|Folk music|Traditional music of a community passed on orally, with its repertoire, styles and cultural roles.
+563|Food economics|The economics of food production, distribution, pricing and consumption, including markets, supply chains and food policy.
+564|Food microbiology|The study of microorganisms in food, including spoilage, fermentation, pathogens and methods of control and testing.
+565|Food process engineering|The design and operation of equipment and processes, such as heating, cooling, drying and separation, that turn raw ingredients into safe, stable food products.
+567|Food safety|Practices and regulations for handling, preparing and storing food to prevent contamination and foodborne illness, such as HACCP.
+568|Food science|The science of food composition, processing, preservation, quality and safety.
+569|Forced draft systems|Boiler or furnace systems in which fans push combustion air through the unit, as opposed to natural or induced draft.
+571|Forensic dentistry|The use of dental evidence to identify human remains, analyze bite marks and assist legal investigations.
++v|Forensic odontology
+572|Forklift safety|Safe operation of powered industrial trucks, including inspection, load handling, travel rules and pedestrian awareness, with training requirements such as those of OSHA.
+573|Fuel cell|A device that converts the chemical energy of a fuel such as hydrogen directly into electricity, with its types, operation and applications.
+574|Gas meter systems|The meters and associated equipment that measure natural gas consumption for billing and control, including mechanical, diaphragm and smart meters.
+575|Gastric bypass surgery|A bariatric operation that reroutes the digestive tract past most of the stomach to cause weight loss, with its risks and follow-up care.
++r|broader|Bariatric surgery
+576|Gemology|The science of identifying, grading and evaluating gemstones.
+577|General finance|Broad foundations of finance, including the time value of money, financial statements, markets and investment basics.
+578|General sciences|Broad foundational knowledge of the natural sciences, including basic physics, chemistry, biology and earth science.
+579|Generative AI|Machine learning systems that produce new text, images, audio or code from prompts, and how they are trained, evaluated and applied.
+580|Geographic coordinate system|A system using latitude and longitude, tied to a datum, to specify locations on the Earth's surface.
+582|Geospatial data|Data tied to locations on the Earth, in vector or raster form, such as maps, satellite imagery and GPS tracks.
+583|Geospatial databases|Databases that store and index spatial data and support spatial queries, such as PostGIS.
++r|related|Geospatial data
+584|Geospatial information technology|The technologies for capturing, managing, analyzing and visualizing location-based data, including GIS, GPS and remote sensing.
+585|Government finance|Public budgeting, revenue, spending and debt management by governments, including fund accounting and fiscal policy.
+586|Graph databases|Databases that store data as nodes and relationships and query connections directly, used for networks, recommendations and knowledge graphs.
++r|related|Knowledge graphs
+587|Graphics API|Programming interfaces such as OpenGL, Vulkan, DirectX and Metal that let software control graphics hardware to render images.
+588|Great circle|The shortest path between two points on a sphere, used in navigation and aviation route planning.
+589|Greeks (finance)|Measures such as delta, gamma, theta, vega and rho that describe how an option's price responds to changes in underlying factors.
+590|Green bond|A bond whose proceeds are earmarked for environmentally beneficial projects, with principles for use of proceeds and reporting.
+591|Grieving process|The emotional, physical and social responses to loss, and the models used to understand and support people through bereavement.
+592|GSM radio access network|The base stations and controllers of 2G GSM mobile networks that connect phones to the core network over radio.
++v|GERAN
+593|Gynaecology|The medical specialty concerned with the female reproductive system and its health and diseases.
+594|Hadron physics|The study of hadrons, particles made of quarks such as protons and neutrons, and of the strong force that binds them.
+595|Health economics and outcomes research|The study of the costs, benefits and real-world results of health interventions, used to inform pricing, coverage and clinical decisions.
++v|HEOR
+596|Health, safety and environment|Practices, laws and management systems for protecting workers, the public and the environment from workplace hazards.
++v|HSE
+597|Healthcare delivery science|The study of how health care services are organized, delivered and improved, drawing on operations, policy and quality science.
+598|Healthcare industry knowledge|Understanding of how health care is organized and paid for, including providers, payers, regulation and common processes.
+599|Healthcare quality|Concepts and methods for measuring and improving the safety, effectiveness and patient-centeredness of care.
+600|Higher education law|The legal rules affecting colleges and universities, covering areas such as student rights, discrimination, accreditation and financial aid.
+601|Higher education policy|Public and institutional policies on funding, access, accountability and governance of colleges and universities.
+602|Hindsight bias|The tendency to see past events as having been more predictable than they were.
+603|Historic preservation|The identification, protection and care of buildings, sites and landscapes of historical value, including laws and conservation methods.
+604|Historical linguistics|The study of how languages change over time and how they are related, including the reconstruction of earlier forms.
+606|History of education|The study of how educational ideas, institutions and practices have developed over time.
+607|History of medicine|The study of how medical ideas, practices and institutions have developed and affected societies over time.
+608|History of philosophy|The study of the development of philosophical ideas and thinkers across periods and traditions.
+609|History of science|The study of how scientific ideas, methods and institutions have developed and interacted with society.
+610|Hockett's design features|Charles Hockett's list of defining properties of human language, such as arbitrariness, displacement and duality of patterning, used to compare language with animal communication.
+611|Human factors|The study of how people interact with systems and tools, applied to design for safety, performance and usability.
+612|Human musculoskeletal system|The bones, muscles, joints and connective tissue that support the body and enable movement.
+613|Human rights law|The international and national legal rules protecting basic rights and freedoms, and the mechanisms for enforcing them.
+614|Human-machine interface|The screens, panels and controls through which operators monitor and control machines and processes, and how they are designed.
++v|HMI
+615|HVAC automation systems|Building automation systems that monitor and control heating, ventilation and air conditioning equipment for comfort and energy efficiency.
++r|related|HVAC controls
+616|HVAC controls|The sensors, controllers and logic that regulate heating, ventilation and air conditioning equipment.
+617|Hypercompact stellar systems|Small, dense clusters of stars thought to surround ejected supermassive black holes, a topic in astrophysics.
+618|Image and video compression|Techniques such as JPEG and H.264 that reduce the data needed to store or transmit images and video, with their trade-offs in quality and size.
+619|Imaging informatics|The use of information technology to acquire, store, share and interpret medical images, including PACS and DICOM.
+620|Immunization|The process of making people resistant to infectious disease through vaccines, including schedules, safety and public-health programs.
+621|Immunohaematology|The study of blood groups and antibodies for safe blood transfusion and transplant matching, also called blood banking.
+622|In-memory database|A database that keeps data primarily in main memory for very fast access, with approaches to persistence and recovery.
+623|Inbound logistics|The receiving, storing and distributing of materials and goods coming into a business from suppliers.
+624|Incurred but not reported|In insurance, claims for events that have occurred but have not yet been reported to the insurer, estimated for reserves.
++v|IBNR
+625|Indentation hardness|A material's resistance to permanent dents under load, measured by tests such as Rockwell, Brinell and Vickers.
+626|Individual life insurance|Life insurance bought by a person for their own coverage, such as term and whole life policies, rather than through a group.
+627|Individualized Education Program|The written plan, required by U.S. special education law, that sets out services, supports and goals for a student with a disability.
++v|IEP
+628|Individualized Family Service Plan|The written plan for early intervention services for an infant or toddler with a disability and the family, under U.S. law.
++v|IFSP
+629|Industrial Internet of Things|The use of connected sensors, machines and analytics in factories and infrastructure to monitor and optimize operations.
++v|IIoT
+630|Industrial statistics|The application of statistics to industrial problems such as quality control, experimentation and reliability.
+631|Infant development|The physical, cognitive, language and social changes of children from birth to about age two.
+632|Ingredient functionality|The roles that food ingredients play in a product, such as thickening, emulsifying, sweetening or preserving.
+633|Integrative biology|The study of living systems by combining levels from molecules to ecosystems and disciplines such as genetics, physiology and ecology.
+634|Intellectual property|Legal rights over creations of the mind, such as patents, copyrights, trademarks and trade secrets.
++v|IP
+635|Intended Nationally Determined Contributions|The climate action pledges countries submitted before the 2015 Paris Agreement, which became their first nationally determined contributions.
++v|INDCs
+636|ISS Environmental Control and Life Support System|The systems on the International Space Station that supply air and water, remove carbon dioxide and manage waste and temperature for the crew.
++v|ECLSS
+637|IT governance|The framework of structures, policies and processes that ensures IT supports business goals and manages risk, as in COBIT.
+638|Itô's lemma|A result in stochastic calculus giving the differential of a function of a random process, fundamental to derivative pricing.
+639|Knowledge graphs|Networks of entities and their relationships used to represent and connect knowledge so that machines can query and reason over it.
+640|Labor market trends|Patterns in employment, wages, skills demand and workforce supply, and how they change over time.
++r|related|Labour economics
+641|Labour economics|The economics of work, including employment, wages, hours and the behavior of workers and employers.
+642|Labour law|The legal rules governing employment relationships, including contracts, wages, working conditions, unions and dismissal.
+643|Land-atmosphere interactions|The exchanges of energy, water and gases between land surfaces and the atmosphere, which shape weather and climate.
+644|Large language models|Neural network models trained on vast amounts of text to understand and generate language, and how they are built, prompted, evaluated and deployed.
++v|LLMs
+645|Laser engineering|The design and application of lasers, including sources, optics, safety and uses in manufacturing, medicine and communications.
+646|Laser printing|Printing in which a laser forms a charged image on a drum that attracts toner and is fused onto paper, and how these printers work and are maintained.
+647|Latin American and Latino studies|The interdisciplinary study of the history, cultures, societies and politics of Latin America and Latino communities.
+649|Law enforcement operations|The planning and conduct of police activities such as patrol, response and investigations.
+650|Law enforcement practices|Standard methods and procedures used by police, including use of force, arrest, evidence handling and community relations.
+651|Lawful interception|The legally authorized interception of communications by telecommunications providers for law enforcement, with its technical standards and safeguards.
+652|Leisure education|Teaching people to use free time for enjoyment, growth and well-being, including recreation skills and attitudes.
+653|Letterforms|The shapes and structure of alphabetic characters, including anatomy, proportion and style, studied in typography and lettering.
+654|Librarianship|The profession and field of selecting, organizing, preserving and providing access to information resources and services.
+655|Linguistic morphology|The study of the structure of words and how they are formed from smaller meaningful units.
+656|Loan agreements|The contracts setting out the terms of a loan, such as amount, interest, repayment, security and covenants.
+657|Logistics engineering|The design and optimization of systems for moving, storing and supporting goods, including facilities, transport and inventory.
+658|Lookup table|A data structure, such as an array or table, that replaces computation with a direct search of precomputed values.
+659|Machining technology|Processes such as turning, milling and drilling that remove material to shape parts, with the machines, tooling and tolerances involved.
+660|Mainframe storage|The disk, tape and virtual storage systems used with IBM mainframes, including how data sets are organized and managed.
+661|Margin lending|Borrowing from a broker to buy securities with the securities as collateral, with margin requirements and the risk of margin calls.
+662|Market capitalization|The total market value of a company's shares, found by multiplying share price by shares outstanding.
+663|Market depth|A measure of the volume of buy and sell orders at different prices in a market, showing its liquidity.
+664|Mass media|Channels such as newspapers, broadcast and online platforms that reach large audiences, and their institutions, effects and economics.
+665|Master production records|The approved documents that give complete instructions for manufacturing a batch of product, used in regulated industries such as pharmaceuticals.
++f|sense_note|Names a document type; the knowledge is of how such records are written and used under good manufacturing practice.
+666|Material flow|The movement of materials through a production or supply system, and its analysis for efficiency and waste.
+668|Mechanic's lien|A legal claim against real property by those who supplied labor or materials to improve it, securing payment.
+670|Mechanical drawings|Technical drawings that specify the shape, dimensions and tolerances of mechanical parts and assemblies, following drafting conventions.
+671|Mechanical, electrical and plumbing systems|The building services for HVAC, power, lighting and plumbing, and their design, coordination and installation.
++v|MEP
+672|Media ethics|The moral principles guiding journalists and media professionals, such as truthfulness, fairness and privacy.
+673|Medical devices|Instruments, apparatus and software used to diagnose, treat or monitor patients, and the regulation and standards that govern them.
+674|Medical equipment|The devices used in clinical care, from monitors to imaging machines, and their operation, maintenance and safety.
++r|related|Medical devices
+676|Meta tag|HTML elements in a page's head that supply metadata such as a description or viewport settings to browsers and search engines.
++f|sense_note|Names an HTML element; the knowledge is of metadata markup for browsers and search engines.
+677|Metaverse|Persistent shared virtual worlds in which people interact through avatars, and the technologies and business models behind them.
+678|Metric system|The decimal system of measurement based on units such as the meter, gram and liter and their prefixes.
+679|Microcontrollers|Small computers on a single chip that combine a processor, memory and input and output, used to control devices and embedded systems.
+680|Microscopic anatomy|The study of tissues and cells using microscopes, also called histology.
++v|Histology
+681|Microsite|A small, separate website focused on a single campaign, product or event, usually with its own address.
++f|sense_note|Names a web artifact; the knowledge is of planning and building focused campaign sites.
+682|MicroStrategy metrics|Calculations defined in the MicroStrategy business intelligence platform, such as sums and ratios, used to measure business performance in reports.
++f|sense_note|Names a feature of one product; the knowledge is of defining and using metrics in MicroStrategy.
+683|Mill test report|A document from a metal producer certifying the chemical and mechanical properties of a batch of material against a specification.
++v|MTR
++f|sense_note|Names a document type; the knowledge is of reading and checking such reports.
+684|Millimeter waves|Radio frequencies of roughly 30 to 300 GHz used for high-capacity wireless links such as 5G and radar.
+685|Mineralogy|The study of minerals, including their composition, structure, properties and occurrence.
+686|Mixed reality|Technology that blends real and virtual objects so that they interact in real time.
++r|related|Extended reality
+687|Mobile computing|Computing on portable devices that use wireless networks, covering devices, operating systems, apps and connectivity.
+688|Models for life contingencies|Actuarial mathematical models of events tied to human life, such as survival and death, used to value insurance and pensions.
+689|Molecular engineering|The design of molecules and materials with specific properties by controlling structure at the molecular level.
+690|Motor control firmware|Embedded software that runs on a motor controller to regulate speed, torque and position, including drive algorithms and protections.
+691|Motor control software|Software for commanding and monitoring electric motors, including drive configuration, tuning and diagnostics.
+692|Multi-agent systems|Systems of multiple interacting autonomous agents that cooperate or compete, studied in AI and used for coordination and simulation.
+693|Multi-core processors|Processors with several independent processing cores on one chip, and the architecture and software concerns of using them.
+694|Multi-core SMP|Symmetric multiprocessing on multi-core processors, in which identical cores share memory and run under one operating system.
++r|broader|Multi-core processors

@@ -1,0 +1,228 @@
+# batch 007: skills Employer branding..Motion graphics (n=1111..1336)
+1111|Employer branding|Shaping and promoting an organization's reputation as a place to work, to attract and retain talent.
+1112|Employment compliance|Making sure hiring, pay and workplace practices follow employment laws and regulations.
+1113|EMS dispatch|Receiving emergency calls and sending the right ambulance and crews while giving callers instructions until help arrives.
+1114|Encounter data management|Collecting, validating and submitting records of patient visits and services, particularly to health plans and regulators.
+1115|Endotracheal suctioning|Clearing secretions from a patient's breathing tube or airway with a suction catheter, using sterile technique and monitoring oxygenation.
+1116|Endovascular aneurysm repair|Treating an aortic aneurysm by placing a stent graft through the arteries by catheter rather than by open surgery.
++v|EVAR
+1117|Endpoint engineering|Designing, building and maintaining the standard configurations, tools and policies for user devices such as laptops and phones in an organization.
+1118|Endpoint management|Deploying, configuring, updating and monitoring user devices across an organization, typically with tools such as Intune or Jamf.
++r|related|Endpoint engineering
+1119|Endpoint security|Protecting laptops, phones and servers from malware and attack with tools such as antivirus, endpoint detection and response, and device controls.
+1120|Enema administration|Introducing fluid into the rectum for cleansing or treatment, following safety and comfort procedures, as in nursing.
+1121|Engineering drawing|Creating and reading technical drawings that communicate the shape, dimensions and specifications of parts and structures.
+1122|Ensemble conducting|Leading a musical group such as a band, choir or orchestra by setting tempo, cueing entries and shaping interpretation.
+1123|Enterprise integration|Connecting an organization's separate applications and data so that they exchange information, using APIs, messaging and middleware.
+1124|Enterprise network security|Protecting an organization's networks with firewalls, segmentation, access control, monitoring and policies.
+1125|Environmental impact statement preparation|Compiling the report that analyzes a proposed project's effects on the environment, and alternatives, as required by laws such as NEPA.
+1126|Environmental journalism|Reporting on environmental issues such as climate, pollution and conservation for the public.
+1127|Enzyme analysis|Measuring the activity or amount of enzymes in samples in the laboratory, for diagnosis or research.
+1128|Epinephrine administration|Giving epinephrine by injection or other routes to treat severe allergic reactions and cardiac arrest, according to protocol.
+1129|Equipment design|Designing machines and equipment to meet performance, safety, cost and manufacturing needs.
+1130|Equipment engineering|Specifying, installing, optimizing and improving production equipment so that it runs reliably and efficiently.
+1133|Ergonomic assessment|Evaluating workstations, tasks and tools for how well they fit people, to reduce strain and injury and improve comfort and performance.
+1134|ESG analysis|Evaluating a company's environmental, social and governance performance and risks to inform investment or business decisions.
+1135|Esports management|Running esports teams, events or organizations, including players, sponsors, scheduling and finances.
+1136|Esports marketing|Promoting brands, games and events to esports and gaming audiences through sponsorship, content and community engagement.
+1137|Estate valuation|Determining the value of a deceased person's assets for probate, tax or distribution.
+1138|Event sponsorship|Finding, pitching and managing sponsors that fund events in exchange for brand exposure and benefits.
+1139|Evidence collection|Identifying, gathering, documenting and preserving physical or digital evidence so that it can be used in investigations and court.
+1140|Examination of legal documents|Reading legal documents such as contracts, deeds and filings closely to verify their contents, authenticity and implications.
+1141|Excel PivotTables|Using Excel PivotTables to summarize, group and analyze large tables of data interactively.
+1142|Excel PivotTables and PivotCharts|Using Excel PivotTables and their linked PivotCharts to summarize data and present the results visually.
++r|related|Excel PivotTables
+1143|Excision of skin lesions|Surgically removing moles, cysts or tumors from the skin with appropriate margins, closure and tissue submission.
+1144|Executive presentations|Preparing and delivering concise, persuasive presentations to senior leaders that support decisions.
+1145|Executive protection|Protecting high-profile individuals from threats through risk assessment, advance work, escort and emergency response.
+1146|Executive relationship management|Building and maintaining relationships with senior leaders of customers, partners or one's own organization to support business goals.
+1147|Executive search|Identifying, assessing and recruiting senior leaders for organizations, often as a retained search firm.
+1148|Experiential marketing|Creating live or interactive brand experiences, such as pop-ups and events, that engage people directly.
+1149|Explosive detection|Finding explosives using trained dogs, equipment and search procedures, for security screening and operations.
+1150|Explosives detection and disposal|Finding and then safely neutralizing or removing explosive devices and materials.
++r|related|Explosive detection
+1151|External stakeholder management|Identifying and managing relationships with parties outside an organization, such as customers, regulators and community groups, to align interests.
+1152|Facebook advertising|Planning, building, targeting and optimizing paid ads on Facebook and Meta's advertising platform.
+1153|Facebook marketing|Using a Facebook page, groups and content, organic and paid, to reach and engage an audience for a brand.
++r|related|Facebook advertising
+1154|Facility maintenance|Keeping buildings and their systems, such as HVAC, plumbing and electrical, clean, safe and working.
+1155|Family engagement|Involving families in children's learning or care through communication, events and partnership.
+1156|Farm management|Planning and running a farm's operations, finances, labor and production.
+1157|Filleting|Cutting boneless fillets from fish or meat with knives, with minimal waste.
+1158|Film scoring|Composing and arranging original music for films that supports the story and timing of scenes.
+1159|Finance automation|Using software, scripts and robotic process automation to streamline finance tasks such as reconciliations, reporting and invoicing.
+1160|Financial acumen|Understanding financial statements, drivers and trade-offs well enough to make sound business decisions.
+1161|Financial analytics|Analyzing financial data with statistics and modeling to find drivers of performance and support decisions.
+1162|Financial consolidation|Combining the financial results of multiple entities, subsidiaries or divisions into one set of statements, eliminating intercompany items.
+1163|Financial forecasting|Estimating future revenues, costs and cash flows from past data and assumptions to support planning.
+1164|Financial risk management|Identifying, measuring and controlling exposure to financial loss from market, credit, liquidity and other risks.
+1165|Flat sketching|Drawing technical flat drawings of garments laid flat, showing construction details for production.
+1166|Flavor development|Creating and refining the taste and aroma profiles of foods and beverages through ingredient selection and testing.
+1167|Flight planning|Preparing a flight, including route, fuel, weather, altitude and regulatory requirements.
+1168|Flux analysis|Measuring and interpreting flows of materials, energy or metabolites through a system, such as metabolic or emissions flux.
+1169|Food palatability evaluation|Assessing how acceptable and appealing food or pet food is to its consumers through sensory or feeding trials.
+1170|Food plating and presentation|Arranging food attractively on dishes so that it looks appealing and is served at its best.
+1171|Food preservation|Using techniques such as canning, freezing, drying, curing and refrigeration to keep food safe and edible for longer.
+1172|Food procurement|Buying food and ingredients for an operation, including sourcing suppliers, negotiating prices and managing quality.
+1173|Food systems management|Planning and overseeing how food is produced, processed, distributed and served, whether in an institution or a wider system.
+1174|Franchise sales|Selling franchise opportunities to prospective franchisees, including qualification, presentation and closing.
+1175|Fraud prevention and detection|Designing controls and using data and investigation to stop and uncover fraudulent activity.
+1176|Fraud risk management|Assessing an organization's exposure to fraud and managing it through policy, controls and monitoring.
++r|related|Fraud prevention and detection
+1177|Freight handling|Loading, unloading, moving and securing cargo safely and correctly.
+1178|Freight inspection|Checking incoming or outgoing shipments for damage, count and compliance with documents.
+1179|Full-cycle sales|Managing the entire sales process, from finding prospects through negotiation to closing and handoff.
+1180|Full-stack observability|Monitoring the whole technology stack, from infrastructure to applications to user experience, with metrics, logs and traces to understand system health.
+1181|Full-stack software engineering|Building both the front end and back end of applications, including interfaces, servers and databases.
+1182|Game art|Creating the visual assets of video games, such as characters, environments and effects.
+1183|Game design|Designing the rules, mechanics, systems and player experience of games.
+1184|Garment alterations|Adjusting the fit or style of finished clothing by cutting, sewing and pressing.
+1185|General administrative and clerical tasks|Performing routine office work such as filing, data entry, correspondence and phone handling.
+1186|General anaesthesia|Administering and monitoring drugs that produce a controlled, reversible loss of consciousness during surgery, while managing airway and vital signs.
+1187|Geologic modelling|Building 3D digital models of subsurface geology from drilling, geophysical and field data, for resource and engineering decisions.
+1188|GIS mapping|Creating and analyzing maps with geographic information systems to show spatial patterns and answer location questions.
+1189|Glass installation|Measuring, cutting, fitting and sealing glass in windows, doors, storefronts and other applications.
+1190|Go-to-market strategy|Planning how a product will reach customers, including target market, positioning, pricing, channels and launch.
+1191|Goal setting|Defining clear, achievable objectives and the steps and measures to reach them.
+1192|Gold panning|Separating gold from stream gravel by swirling it with water in a pan so that heavier particles settle.
+1193|Government engagement|Communicating and working with government officials and agencies to represent an organization's interests.
+1194|Greeting guests|Welcoming visitors warmly and professionally and helping them with immediate needs.
+1195|Groove welding|Welding the joint between two pieces placed edge to edge, using prepared grooves and proper technique.
+1196|Groundskeeping and yard care|Maintaining outdoor areas through mowing, trimming, planting, watering and cleanup.
+1197|Group work|Working with others in a team to complete a shared task, dividing the work and combining contributions.
+1198|Gymnastics|Performing or coaching exercises of balance, strength and flexibility on apparatus and floor.
+1199|Hand lettering|Drawing letters by hand as custom artwork, such as for signs, cards and logos.
+1200|Hand therapy|Rehabilitating injuries and conditions of the hand, wrist and arm through exercises, splinting and education.
+1201|Hardware configuration management|Tracking and controlling the versions and settings of hardware components across a product's life.
+1202|Hazardous material containment and control|Preventing the spread of hazardous materials in a spill or release and bringing it under control.
+1203|Hazardous material handling|Storing, moving, using and disposing of dangerous substances safely under regulation.
+1204|Health and wellness coaching|Helping people set and achieve health goals through motivation, education and behavior change support.
+1205|Healthcare facilities planning|Planning the space, layout and infrastructure of hospitals and clinics to meet clinical, regulatory and operational needs.
+1206|Healthcare strategy|Defining the long-term direction of a health care organization, including services, markets and finances.
+1207|Heat bending of wood|Shaping wood into curves by softening it with heat and moisture, as in furniture and instruments.
+1208|Heavy equipment operation|Operating machines such as bulldozers, excavators and loaders on construction or mining sites.
+1209|Heavy vehicle operation|Driving large trucks and buses safely, handling their size, weight and cargo.
+1210|Hotel and restaurant management|Running the operations, staff, finances and guest service of hotels and restaurants.
+1211|Hotel management|Overseeing a hotel's rooms, staff, revenue and guest experience.
++r|broader|Hotel and restaurant management
+1212|HR analytics|Using data on employees and workforce processes to find insights and guide human resources decisions.
+1213|HTML emails|Coding emails in HTML and inline CSS so that they display well across email clients.
+1214|HTML formatting|Marking up text and content with HTML elements and attributes to structure and style it.
+1215|Human capital management integration|Connecting human capital management systems, such as HR, payroll and talent platforms, so that data flows accurately between them.
+1216|Human factors engineering|Designing systems, equipment and tasks around human abilities and limits to improve safety, performance and usability.
+1217|Hybrid mobile app development|Building mobile apps with web technologies wrapped in a native shell, so that one code base runs on several platforms.
+1218|Hyperbaric welding|Welding at elevated pressure, usually underwater in a dry chamber or habitat, which requires specialized training and safety practice.
+1219|ICD coding|Assigning International Classification of Diseases codes to diagnoses and procedures from clinical documentation, for records, billing and statistics.
+1220|Ideation|Generating, developing and communicating new ideas, individually or in groups.
+1221|Identity management|Creating, maintaining and securing digital identities and their access rights across systems.
+1222|Image generation|Producing images with generative AI models from prompts, including iterating and refining the results.
+1223|Incident reporting|Documenting events such as accidents, safety issues or security breaches accurately and promptly through the proper channel.
+1224|Influencing|Shaping others' opinions, decisions or behavior through reasoning, relationships and communication rather than authority.
+1225|Infographics|Designing visuals that combine data, text and graphics to explain information quickly.
+1226|Information evaluation|Judging the reliability, relevance and quality of information sources and claims.
+1227|Information leak prevention|Preventing sensitive information from leaving an organization through technical controls, policies and awareness.
+1228|Information technology audit|Examining an organization's IT systems, controls and processes to assess security, reliability and compliance.
+1229|Information, advice and guidance|Helping people, especially with education, training and careers, by supplying information and impartial advice that informs their choices.
+1230|Inpatient obstetric nursing|Caring for hospitalized women during pregnancy complications, labor, delivery and recovery.
+1231|Inside sales management|Leading a team that sells remotely by phone, email and online, including coaching, targets and pipeline.
+1232|Instagram advertising|Planning, creating and optimizing paid ads on Instagram.
+1233|Instagram content creation|Producing photos, video and stories tailored to Instagram to engage an audience.
+1234|Instagram marketing|Using Instagram organically and through ads to build a brand and reach customers.
+1237|Interactive 3D|Creating three-dimensional content that users can explore and manipulate in real time, as on the web or in apps.
+1238|Interactive design|Designing how people interact with digital products, including controls, feedback and flow.
+1239|Interactive storytelling|Creating narratives in which the audience's choices or actions affect what happens, as in games and interactive media.
+1240|Interactive web content|Producing web pages and media that respond to user input, such as quizzes, animations and tools.
+1241|Interactive web design|Designing websites with interactive elements, layouts and behavior.
+1242|Interactive web development|Coding web pages with dynamic, responsive behavior using JavaScript and related technologies.
+1243|Interdisciplinary collaboration|Working with people from other fields to combine perspectives and methods on a shared problem.
+1244|Internal investigations|Looking into suspected misconduct or violations within an organization, gathering evidence and reporting findings.
+1245|Interpreting contracts under English law|Reading and applying English law's rules of contractual interpretation to determine what a contract means.
+1246|Interpreting law|Reading statutes, cases and regulations and working out what they mean and how they apply.
+1247|Intradermal injection|Injecting a small amount of substance into the dermis layer of the skin, as for skin tests and some vaccines.
+1248|Intraoperative neurophysiological monitoring|Monitoring the nervous system with electrical recordings during surgery to detect and prevent nerve damage.
++v|IONM
+1249|Intravenous hydration|Giving fluids through a vein to restore or maintain hydration, with monitoring of the patient and the line.
+1250|Intravenous infusion|Delivering medications or fluids into a vein through a catheter at controlled rates.
++r|related|Intravenous hydration
+1251|Investigating drug trafficking|Gathering evidence on the production, movement and sale of illegal drugs to build cases against traffickers.
+1252|Investigative interviewing|Questioning witnesses, victims and suspects in a structured, lawful way to obtain accurate information.
+1253|Investigator's brochure|Compiling and maintaining the document that summarizes clinical and non-clinical data on a drug for researchers conducting trials.
+1254|Invoice processing|Receiving, checking, coding and paying supplier invoices accurately and on time.
+1255|IP address management|Planning, assigning and tracking IP addresses and subnets in a network.
+1256|Irrigation (agriculture)|Designing and operating systems that supply water to crops and fields.
+1257|Irrigation (health)|Flushing a wound, body cavity or catheter with fluid to clean it or deliver treatment.
+1258|IT security architecture|Designing the structure of security controls and technologies across an organization's IT systems to meet risk and business needs.
+1259|IT security documentation|Writing and maintaining the policies, procedures, system security plans and records that describe and demonstrate security controls.
+1260|JD Edwards CNC|Administering the Configurable Network Computing environment of JD Edwards EnterpriseOne ERP, including installation, deployment and tuning.
+1261|Job scheduling|Planning and automating when computing or production jobs run, with dependencies, priorities and resources.
+1263|Jury instructions|Preparing or delivering the legal directions that tell jurors how to apply the law to the case.
+1264|Jury management|Administering the selection, summoning and care of jurors for courts.
+1265|Juvenile rehabilitation|Working with young offenders through counseling, education and supervision to reduce re-offending.
+1266|Kinesitherapy|Treating conditions by guided movement and exercise, as in physiotherapy.
+1267|Kinetic typography|Animating text in motion graphics so that moving words convey meaning and emotion.
+1268|KPI reporting|Selecting, calculating and presenting key performance indicators so that managers can track progress.
+1269|Landing page optimization|Testing and improving the web pages visitors arrive at from campaigns so that more of them convert.
+1270|Landscape painting|Painting outdoor scenery in media such as oil or watercolor.
+1271|Landscaping and yard care|Designing, planting and maintaining gardens and outdoor spaces.
+1272|Language interpretation and translation|Converting spoken or written meaning from one language into another accurately and appropriately.
+1273|Language teaching|Helping learners acquire a language through instruction, practice and feedback.
+1274|Learner analysis|Identifying learners' backgrounds, needs and prior knowledge to design suitable instruction.
+1275|Learner experience design|Designing learning materials and environments so that they are engaging, usable and effective for the learner.
+1276|Learning agility|Quickly learning from experience and applying that learning in new situations.
+1278|Life skills|Practical abilities such as budgeting, communication and self-care needed for everyday independent living.
+1279|Lighting design|Planning how light is used in spaces, stages or productions to achieve function and mood.
+1280|Linux systems administration|Installing, configuring, securing and maintaining Linux servers and workstations.
+1281|Liquidity forecasting|Projecting an organization's cash inflows and outflows to make sure it can meet its obligations.
+1282|Livestreaming|Broadcasting live video over the internet, including setup, production and audience interaction.
+1283|LLM observability|Monitoring the behavior, quality, cost and latency of large language model applications through logs, traces and evaluations.
+1284|Load securement|Fastening cargo on a vehicle with straps, chains and blocking so that it stays in place and meets safety rules.
+1285|Loan administration|Managing a loan after it is made, including payments, records, covenants and borrower communication.
+1286|Loan structuring|Designing loan terms such as amount, rate, repayment and security to fit borrower needs and lender risk limits.
+1287|Loan syndication|Arranging for a group of lenders to share a large loan, including marketing it and managing documentation.
++r|related|Loan structuring
+1288|Log management|Collecting, storing, searching and analyzing log data from systems and applications.
+1289|Logistics planning|Planning how goods, people and resources are moved and stored to meet demand at low cost.
+1290|Logo design|Creating a symbol or wordmark that identifies a brand.
+1291|Low risk neonatal nursing|Caring for healthy newborns and those needing only routine support, including feeding, monitoring and parent teaching.
+1292|Lymphedema management|Treating swelling from impaired lymph drainage with compression, massage, exercise and skin care.
+1293|Machine operation|Setting up, running and monitoring production machines safely to make products to specification.
+1294|Mail distribution|Sorting and delivering incoming and internal mail within an organization.
+1295|Mail processing|Opening, sorting, scanning, metering and routing mail and packages.
+1296|Malware analysis|Examining malicious software to determine what it does, how it spreads and how to detect and remove it.
+1300|Map production|Making maps through data collection, design, production and publication.
+1301|Map reading|Interpreting the symbols, scale and coordinates of maps to understand terrain and navigate.
+1302|Marine navigation|Determining a ship's position and course and steering it safely using charts, instruments and the rules of the road.
+1303|Maritime law enforcement|Enforcing laws at sea or in ports, such as boarding vessels and addressing smuggling and safety violations.
+1304|Marketing management|Planning, directing and measuring an organization's marketing activities and teams.
+1305|Marketing strategy|Setting the long-term plan for how an organization will reach and win its target customers.
+1306|Masonry|Building structures from brick, stone or block set with mortar.
+1307|Massage|Manipulating muscles and soft tissue with the hands to relax, relieve pain or aid recovery.
+1308|Materials testing|Measuring properties such as strength, hardness and composition of materials with standard test methods.
+1310|Meal planning and preparation|Planning menus and cooking meals that meet nutritional needs, budget and preferences.
+1311|Meat cutting|Trimming and cutting meat into standard portions using knives and saws safely.
+1312|Mechanical drafting|Producing detailed technical drawings of mechanical parts and assemblies using drafting standards and CAD.
+1313|Media buying|Negotiating and purchasing advertising space and time on media to reach target audiences efficiently.
+1314|Media production|Creating audio, video or other media content from concept through recording and editing to delivery.
+1315|Media relations|Building and managing relationships with journalists and outlets to obtain accurate coverage for an organization.
+1316|Medical billing and coding|Translating medical services into standard codes and preparing claims so that providers are paid.
+1317|Medical device development|Taking a medical device from concept through design, testing, regulatory approval and production.
+1318|Medical device sales|Selling devices to clinicians and hospitals, often with technical product support during procedures.
+1319|Medical office skills|Performing the administrative and clinical-support tasks of a doctor's office, such as scheduling, records and billing.
+1320|Medical photography|Taking clinical photographs of patients, conditions and procedures for records, teaching and publication.
+1321|Medical record formatting|Organizing and formatting patient documentation to meet records standards.
+1322|Medical records release|Releasing patient records to authorized requesters in line with privacy laws such as HIPAA.
+1323|Mental health assessments|Evaluating a person's symptoms, history and functioning through interviews and standard tools to inform diagnosis and care.
+1324|Menu planning|Designing the dishes and sequence of meals offered by a restaurant or institution, considering cost, nutrition and demand.
+1325|Merchandise management|Selecting, buying, pricing and presenting products and managing inventory to meet sales goals.
+1326|Metadata management|Defining, storing and maintaining the data that describes other data, so that it can be found, understood and governed.
+1327|Meter data management|Collecting, validating and processing the readings from utility meters for billing and analysis.
+1328|Microchipping|Implanting an identification microchip in an animal and registering it.
+1329|Mobile application design|Designing the look, structure and interaction of mobile apps.
+1330|Mobile UI design|Designing the visual interface of screens for mobile devices.
++r|part_of|Mobile application design
+1331|Mobile UX design|Designing the overall experience of using mobile apps, from user research and flows to usability testing.
++r|part_of|Mobile application design
+1332|Mold setting|Installing and adjusting molds in presses or machines for production runs.
+1333|Moldings installation and maintenance|Fitting and repairing decorative and trim moldings such as baseboards and crown molding.
+1335|Mosaic art|Making images from small pieces of glass, stone or tile set in a surface.
+1336|Motion graphics|Creating animated graphic design, such as titles and visual effects, for video and screens.

@@ -1,0 +1,217 @@
+# batch 003: languages PowerShell..VHDL (n=313..357) and knowledge 3D Touch..Database as a service (n=358..490)
+313|PowerShell|Microsoft's object-oriented shell and scripting language, used by administrators and engineers to automate Windows, Azure and cross-platform systems through cmdlets and pipelines.
+314|Prolog|A logic programming language in which programs are facts and rules and computation is a query-driven search with backtracking, used in AI, language processing and rule-based systems.
+315|PureScript|A strongly typed, purely functional language inspired by Haskell that compiles to JavaScript.
+316|Python|A readable, general-purpose language widely used for scripting, web back ends, automation, data analysis and machine learning.
+317|Q#|Microsoft's domain-specific language for expressing quantum algorithms, used with the Quantum Development Kit.
+318|R|A language and environment for statistical computing, data analysis, visualization and reporting, widely used in statistics, bioinformatics and the social sciences.
++f|sense_note|Single-letter name; matching in listings needs exact case and context.
+319|Racket|A Scheme-descended language for language-oriented programming and teaching, with a macro system for building new languages.
++r|related|Scheme
+320|Ruby|A dynamic, object-oriented language prized for readable syntax, used for web development with Rails, scripting and tooling.
+321|Rust|A compiled systems language that guarantees memory safety without garbage collection through ownership and borrowing, used for performance-critical and safe systems software.
+322|SAS|The programming language of the SAS analytics system, built from data steps and procedures, used for statistical analysis, reporting and data management in business, healthcare and research.
++r|related|Base SAS
++f|sense_note|Overlaps Base SAS; the label can also name the SAS software as a whole.
+323|SAS macro language|The text-substitution and code-generation facility of SAS, used to parameterize and automate SAS programs with macro variables and macros.
++r|part_of|SAS
+324|Scala|A statically typed language combining object-oriented and functional programming on the JVM, used for data engineering with Apache Spark and for back-end services.
+325|Scheme|A minimalist Lisp dialect with lexical scoping and first-class continuations, used in teaching programming and in language research.
++r|broader|Lisp
+326|Scratch|A visual, block-based language from the MIT Media Lab for teaching children programming by snapping blocks together to make games, stories and animations.
+327|Shell scripting|Writing scripts for a Unix command shell such as sh, Bash or zsh to chain commands, process files and text, and automate administration, builds and deployments.
++r|related|Bash
+328|Simula|A 1960s simulation language that introduced classes and objects, the origin of object-oriented programming.
+329|Smalltalk|A pure object-oriented, dynamically typed language and live programming environment in which everything is an object, an influence on Objective-C and Ruby.
+330|SQL|The standard language for defining, querying and updating data in relational databases, used for reporting, analysis and application data access.
+331|Swift|Apple's compiled, type-safe language for iOS, macOS, watchOS and tvOS applications, also used on servers.
+332|Tcl|A simple command-based scripting language used for embedding scripts, test automation and tool control, usually paired with the Tk GUI toolkit.
++v|Tool Command Language
+333|TypeScript|A typed superset of JavaScript from Microsoft that compiles to plain JavaScript, used to build and maintain large web and Node.js applications with static type checking.
++r|related|JavaScript
+334|U-SQL|Microsoft's query language for Azure Data Lake Analytics, combining SQL-like syntax with C# expressions to process big data; the service has since been retired.
+335|UnityScript|A JavaScript-like language once used for scripting in the Unity game engine, deprecated and removed in favor of C#.
+336|Visual Basic .NET|Microsoft's object-oriented successor to classic Visual Basic on the .NET platform, used to build Windows applications and enterprise software.
++v|VB.NET
+337|Visual Basic for Applications|The Visual Basic dialect embedded in Microsoft Office, in which users write macros and automation to extend Excel, Word, Access and Outlook.
++v|VBA
+338|ASP.NET Razor|Razor, the markup syntax that mixes C# or Visual Basic code into HTML on ASP.NET pages and views to render dynamic web content.
++v|Razor
+339|HTML|HyperText Markup Language, the standard markup for structuring web pages; authors use it to define headings, links, forms, media and semantic page structure.
+340|Keyhole Markup Language|An XML-based format for describing geographic placemarks, paths and overlays for display in Google Earth and other mapping tools.
++v|KML
+341|Media Center Markup Language|An XML-based markup used to build user interfaces for Windows Media Center applications.
++v|MCML
+342|MXML|Adobe Flex's XML-based markup language for declaring the user interface layout and components of Flash and AIR applications.
+343|Service Provisioning Markup Language|An OASIS XML standard for exchanging user and resource provisioning requests among identity management systems.
++v|SPML
+344|X3D|An ISO standard XML-based format and language for describing interactive 3D scenes on the web, successor to VRML.
+345|XBRL|eXtensible Business Reporting Language, an XML-based standard for tagging financial and business reports so software can exchange and analyze them, used in regulatory filings.
+346|XML|Extensible Markup Language, a W3C text format for structured, self-describing data, used in configuration, data exchange and document formats.
+347|XUL|XML User Interface Language, Mozilla's XML markup for describing application interfaces, used by older Firefox and its extensions and now deprecated.
+348|CSS|Cascading Style Sheets, the language that describes the visual presentation of web pages, including layout, color, typography and responsive behavior.
+349|LESS|A CSS preprocessor language that adds variables, nesting, mixins and functions and compiles to CSS.
++r|related|CSS
+350|Sass|A CSS preprocessor with variables, nesting, mixins and modules, written in SCSS or indented syntax and compiled to CSS.
++r|related|CSS
+351|ArchiMate|An Open Group modeling language for describing enterprise architecture across business, application and technology layers, used by enterprise architects.
+352|Hardware description language|A family of languages for describing the structure and behavior of digital circuits so they can be simulated and synthesized into chips or FPGAs, such as VHDL and Verilog.
++f|sense_note|The label names a language category rather than one language.
+353|JHDL|A Java-based approach to hardware description for designing and simulating FPGA circuits, developed at Brigham Young University.
+354|SystemVerilog|An IEEE 1800 language that extends Verilog with design and verification features such as classes, assertions and constrained-random testing, used in chip design and verification.
++r|broader|Verilog
+355|UML|Unified Modeling Language, a standardized visual notation of diagrams such as class, sequence, state and use case for specifying and communicating software design.
+356|Verilog|A hardware description language for designing and simulating digital circuits at register-transfer level, used in ASIC and FPGA design.
+357|VHDL|VHSIC Hardware Description Language, a strongly typed language for designing, simulating and synthesizing digital hardware, common in aerospace and FPGA design.
+358|3D Touch|Apple's pressure-sensitive touch technology for iPhone that distinguished light taps from deeper presses to trigger shortcuts and previews; knowledge of it is now needed mainly for legacy iOS interfaces.
++f|classification_dispute|A discontinued product feature rather than a body of knowledge in the usual sense.
+359|ABEC scale|The Annular Bearing Engineers' Committee ratings (ABEC 1, 3, 5, 7, 9) that grade the dimensional tolerances of precision ball bearings, used to judge a bearing's precision for an application.
++f|classification_dispute|A rating standard rather than a field of knowledge.
+360|Access point name|In cellular networks, the identifier naming the gateway a mobile device uses to reach a data network, together with its settings.
++v|APN
+361|Accumulated benefit obligation|In pension accounting, the present value of retirement benefits earned to date, measured on current salaries without projecting future pay increases.
+362|Action for Climate Empowerment|The UN climate convention's term for work on climate education, training, public awareness, public participation and access to information.
++v|ACE
+363|Active pharmaceutical ingredient|The component of a drug product that produces its intended therapeutic effect, with the principles of its manufacture, specification and quality control.
++va|API
+364|Activities of daily living|Basic self-care tasks such as bathing, dressing, eating, toileting and moving about, and the assessment of a person's ability to perform them, used in nursing, occupational therapy and eldercare.
++v|ADLs
+365|Actuarial exams|The professional examination programs for actuaries, which test probability, financial mathematics, life contingencies, risk and related topics.
++f|scope_note|The label names an exam series, which is closer to a credential; the content knowledge is described here and the canonical class is kept.
+368|Administrative law|The body of law governing how government agencies make rules, adjudicate disputes and are reviewed by courts.
+369|Advanced Automatic Collision Notification|A vehicle telematics capability that automatically sends crash data to emergency services and estimates likely injury severity, used in emergency response and automotive safety.
++v|AACN
+370|Airworthiness engineering|The discipline of demonstrating and maintaining that aircraft design, production and maintenance meet certification requirements for safe flight.
+371|Analogue electronics|The principles of circuits that process continuously varying signals, such as amplifiers, filters, oscillators and power supplies.
+372|Ancient history|The study of human societies from the earliest records through late antiquity, including Mesopotamia, Egypt, Greece and Rome, based on texts and archaeology.
+373|Ancient philosophy|The study of philosophical thought in ancient Greece and Rome, from the Presocratics, Plato and Aristotle to the Hellenistic schools.
+374|Andragogy|The theory and practice of teaching adults, built on ideas such as self-direction, prior experience and problem-centered learning.
+375|Animal science|The science of breeding, nutrition, physiology, health and management of livestock and other domestic animals.
+376|Anthropometrics|The measurement of human body dimensions and proportions, used in ergonomics, product and clothing design and health assessment.
+377|Anti-bribery and corruption|Understanding of the laws, such as the US Foreign Corrupt Practices Act and the UK Bribery Act, and the compliance controls used to prevent, detect and respond to bribery and corruption.
+378|Application controls|Controls built into software to ensure that inputs, processing and outputs are complete, accurate and authorized, a core subject in IT auditing.
+379|Application delivery network|The group of technologies, such as load balancers, caches and WAN optimizers, that speed up and secure delivery of applications to users.
++v|ADN
+380|Application pool|In Microsoft IIS, a group of one or more web applications that share a worker process, isolating applications for reliability and security.
+381|Application programming interface|A defined contract of requests and responses that lets one piece of software use another's functions or data, including how APIs are designed, documented and consumed.
++va|API
+382|Application-specific integrated circuit|A chip designed for a particular function or product rather than for general use, and the design, fabrication and cost trade-offs involved.
++v|ASIC
+383|Applied linguistics|The study of language as it relates to real-world problems such as language teaching, translation, assessment and language policy.
+384|Applied statistics|The use of statistical methods to collect, analyze and interpret data in real settings such as business, science and health.
+385|Archaeology|The study of past human societies through their material remains, using excavation, dating and analysis of artifacts and sites.
+386|Arithmetic|The elementary number operations of addition, subtraction, multiplication and division with whole numbers, fractions and decimals.
+387|ARP4754|The SAE Aerospace Recommended Practice guiding development processes for civil aircraft and systems, from requirements and safety assessment to validation.
++f|classification_dispute|A recommended-practice standard rather than a body of knowledge.
+388|Art education|The theory and practice of teaching visual art and art appreciation in schools and community settings.
+389|Art history|The study of visual art and its makers, styles, periods and cultural contexts.
+390|Art theory|Ideas that explain and evaluate art, including what art is, how it communicates, and how form, meaning and context shape interpretation.
+391|Arterial blood gas testing|A clinical test measuring oxygen, carbon dioxide and acidity in arterial blood to assess breathing and acid-base status, including how samples are taken and interpreted.
+392|Artificial intelligence|The field of building systems that perform tasks associated with intelligence, such as learning, reasoning, perception and language.
++v|AI
+393|Artificial intelligence risk|Understanding of the harms and uncertainties arising from AI systems, such as bias, safety failures, misuse and privacy loss, and approaches to assessing and governing them.
+394|ASC 340|The FASB Accounting Standards Codification topic for other assets and deferred costs, covering items such as capitalized contract costs and deferred charges.
++f|classification_dispute|An accounting standard topic rather than a field of knowledge.
+395|Asset turnover|A financial ratio of net sales to average total assets showing how efficiently a firm uses its assets to generate revenue.
+396|Athletic training|The health profession of preventing, assessing, treating and rehabilitating injuries in athletes and other active people.
+397|Attorney-client privilege|The legal protection that keeps confidential communications between a lawyer and client, made to obtain legal advice, from compelled disclosure.
+398|Authorised capital|The maximum amount of share capital a company is permitted by its charter to issue.
+399|Automated information systems security|Practices and controls for protecting computerized information systems and their data, a term used mainly in US government settings.
+400|Automotive finance|The financing of vehicle purchases through loans, leases and dealer or captive-lender arrangements, including credit assessment, rates and terms.
+401|Automotive loans|Loans used to buy vehicles, secured by the vehicle itself, with their terms, rates, underwriting and repayment.
++r|broader|Automotive finance
+402|Autonomic nervous system|The part of the nervous system that controls involuntary functions such as heart rate, digestion and breathing through its sympathetic and parasympathetic branches.
+403|B-tree|A self-balancing tree data structure that keeps data sorted and supports efficient search, insertion and deletion, widely used in database and file system indexes.
+404|Bacteriology|The study of bacteria, including their structure, classification, growth, genetics and roles in disease and ecosystems.
+405|Barcode systems|Technologies that encode data in printed symbols such as UPC, Code 128 and QR codes, and the scanners and software that read them, used in retail, logistics and inventory.
+406|Bariatric surgery|Surgical procedures such as gastric bypass and sleeve gastrectomy that treat severe obesity by altering the digestive tract, with patient selection and aftercare.
+407|Basic block|In compiler theory, a straight-line sequence of instructions with one entry and one exit and no internal branches, the unit of control-flow analysis and optimization.
+408|Battery technology|The science and engineering of electrochemical cells and packs, including chemistries, capacity, charging, safety and lifetime.
+409|Behavioural science|The study of human and animal behavior drawing on psychology, sociology and economics, including how people make decisions and respond to incentives.
+410|Big O notation|A mathematical notation describing how an algorithm's time or memory needs grow with input size, used to compare algorithm efficiency.
+411|Bill of materials|A structured list of the parts, materials and quantities needed to make a product, used in engineering, purchasing and production planning.
++v|BOM
+412|Binary options|Financial instruments that pay a fixed amount or nothing depending on whether a stated condition is met at expiry, with high risk and regulatory restrictions in many places.
+413|Biochemical genetics|The study of how genes affect metabolism and enzymes, including inborn errors of metabolism and their diagnosis.
+414|Biological applications of bifurcation theory|The use of mathematical bifurcation analysis to explain sudden qualitative changes in biological systems, such as population cycles or neuron firing.
+416|Biomedical informatics|The science of acquiring, storing, retrieving and using biological and health data and knowledge for research, clinical care and public health.
+417|Biomolecular engineering|The engineering of biological molecules and systems, such as proteins, nucleic acids and cells, for medical, industrial or environmental uses.
+418|Biopesticide|Pest-control agents derived from natural materials such as microbes, plant extracts or minerals, and their regulation and use in agriculture.
+419|Biosensors|Devices that combine a biological recognition element with a transducer to detect substances such as glucose or pathogens.
+420|Bioterrorism preparedness and response|Public-health and emergency practices for preparing for, detecting and responding to the deliberate release of biological agents.
+421|Bismuth sulfite agar|A selective, differential culture medium used in microbiology laboratories to isolate Salmonella, particularly Salmonella Typhi, which forms characteristic black colonies.
+422|Boiler draft|The pressure difference that moves combustion air and flue gases through a boiler, supplied naturally by a stack or mechanically by fans.
+423|Boolean algebra|The algebra of true and false values with AND, OR and NOT operations, the mathematical basis of digital logic and search conditions.
+424|Border studies|The interdisciplinary study of borders and boundaries and their effects on people, states, economies and cultures.
+425|Breast surgery|Surgical care of the breast, including biopsy, lumpectomy, mastectomy and reconstruction for cancer and other conditions.
+426|Builder's risk insurance|Property insurance covering a building under construction against damage from events such as fire, theft and weather.
+428|Callback function|A function passed as an argument to be called later by other code, commonly used in asynchronous and event-driven programming.
+429|Cannabis regulations|The laws and rules governing cultivation, sale, possession and use of cannabis, which vary by jurisdiction and between medical and adult-use programs.
+430|Capital asset pricing model|A finance model relating an asset's expected return to the risk-free rate and its sensitivity to market risk, measured by beta.
++v|CAPM
+431|Captive insurance|Insurance provided by a subsidiary company set up to insure the risks of its parent or related businesses.
+432|Cardiac surgery|Surgical treatment of heart disease, including bypass grafting and valve repair or replacement.
++r|part_of|Cardiothoracic surgery
+433|Cardiothoracic surgery|Surgery of the organs inside the chest, including the heart, lungs and esophagus.
+434|Cardiovascular physiology|How the heart and blood vessels function, including cardiac output, blood pressure and circulation and their regulation.
+435|Chemical reactions|The processes by which substances change into others, with the principles of reaction types, stoichiometry, rates and energy.
+437|Child and adolescent psychiatry|The medical specialty that diagnoses and treats mental, emotional and behavioral disorders in children and teenagers.
+438|Child nutrition|The dietary needs of children and how feeding supports growth, development and health, including school meal programs.
+439|Children's Health Insurance Program|The U.S. federal-state program that provides low-cost health coverage to children in families that earn too much for Medicaid.
++v|CHIP
+440|Children's ministry|The programs and teaching a church or faith community provides for children, including curriculum, volunteers and child-safety practices.
+441|Chlorofluorocarbons|Halogenated hydrocarbons once used as refrigerants and aerosol propellants that deplete the ozone layer, and the regulations that phased them out.
++v|CFCs
+442|Choral music|The repertoire and practice of music for singing groups, including vocal technique, rehearsal and conducting.
+443|Circular economy|An economic model that keeps products and materials in use through reuse, repair, remanufacturing and recycling instead of take, make and dispose.
+444|Circulatory system|The anatomy of the heart, blood vessels and blood that carry oxygen, nutrients and wastes around the body.
+445|Client access license|A license that permits a user or device to connect to and use Microsoft server software, and the licensing rules to plan for and comply with.
++v|CAL
+446|Climate variability and change|The natural and human-driven variations in climate over time, their causes, their impacts and the evidence for them.
+447|Clinical informatics|The use of information technology and data in health care delivery, including electronic health records, decision support and workflow design.
+448|Clinical medical ethics|The principles for resolving ethical questions in patient care, such as consent, confidentiality, end-of-life decisions and allocation of resources.
+449|Clinical pastoral education|Supervised training for ministers and chaplains that combines pastoral care in hospitals or similar settings with reflection and peer feedback.
+450|Cloud computing|Delivery of computing resources such as servers, storage, databases and software over the internet on demand, including infrastructure, platform and software service models.
+451|Cloud computing security|The threats, controls and shared-responsibility practices for protecting data, applications and infrastructure in cloud environments.
++r|broader|Cloud computing
+452|Coastal engineering|The engineering of shorelines, ports and structures exposed to waves, tides and erosion, such as breakwaters, seawalls and beach nourishment.
+453|Cognitive computing|Computing systems that imitate aspects of human thinking, such as learning, language understanding and reasoning, to support decisions.
+454|Cognitive load|The mental effort a task demands of working memory, and how instruction and interface design can manage it.
+455|Color rendering index|A 0 to 100 measure of how faithfully a light source shows the colors of objects compared with a reference source, used in lighting design.
++v|CRI
+456|Commercial off-the-shelf|Ready-made software or hardware products bought for use as they are rather than built custom, and the considerations in selecting and integrating them.
++v|COTS
+457|Commons-based peer production|A way of producing goods or knowledge, such as open-source software or Wikipedia, in which many contributors collaborate through open, non-market arrangements.
+458|Communication theories|Frameworks that explain how people create, send and interpret messages, including models of media, persuasion and interpersonal communication.
+460|Community nutrition|Promoting healthy eating and preventing nutrition-related disease in populations through programs, education and policy.
+461|Community resilience|The capacity of a community to prepare for, withstand and recover from disasters and shocks, and the factors that build it.
+462|Computer architecture|The organization and design of computer systems, including processors, instruction sets, memory hierarchy and input and output.
+463|Computer networking|The principles and technologies for connecting computers and exchanging data, including protocols, addressing, routing and switching.
+464|Computer science|The study of computation, algorithms, data structures, software and the design of computing systems.
+466|Control loops|Feedback arrangements in which a sensor measurement is compared with a target and a controller adjusts an output, as in PID control of temperature or flow.
+467|Control valves and flow characteristics|How valves regulate fluid flow in process control, including valve types, sizing and how flow changes with valve opening, such as linear and equal-percentage behavior.
+468|Conversational AI|Technologies such as chatbots and voice assistants that let computers understand and respond to human language in dialogue, including dialogue design and language models.
+469|Convolutional neural networks|Deep learning models that use convolutional layers to learn patterns in grid-like data such as images, used in computer vision tasks.
++v|CNN
+470|Corporate finance|How companies raise, invest and manage money, including capital structure, budgeting, valuation and dividend decisions.
+471|Correspondent banking|Arrangements in which one bank provides services such as payments, settlement and foreign exchange to another bank, often across borders.
+472|Cosmetic dermatology|The part of dermatology focused on improving the appearance of skin, hair and nails through procedures such as fillers, lasers and chemical peels.
+473|Cost accounting|Methods for measuring, assigning and analyzing the costs of producing goods or services, used for pricing, budgeting and control.
+474|Counterparty risk|The risk that the other party to a financial contract will fail to meet its obligations, and how it is measured and mitigated.
+475|Craniofacial surgery|Surgical correction of deformities of the skull, face and jaws, whether congenital or acquired.
+476|Criminal intelligence|The collection, analysis and use of information about criminal activity and offenders to guide policing and investigations.
+477|Crop farming|The growing of plants for food, fiber and fuel, including soil, planting, pest, water and harvest management.
+478|Cross product|A vector operation in three dimensions that produces a vector perpendicular to two given vectors, used in physics and computer graphics.
+479|Cross-domain solutions|Systems that control information transfer between networks of different security classifications, with filtering and review, used mainly in government and defense.
+480|CRUD|The four basic data operations of create, read, update and delete that most applications perform, and the patterns for implementing them in databases and APIs.
+481|Cryptocurrency|Digital currencies secured by cryptography and typically run on blockchain networks, including how they are created, transferred and regulated.
+482|Custom post types|In WordPress, content types beyond posts and pages that developers define to organize specialized content such as products or events.
+484|Cyber resilience|An organization's ability to keep operating, and to recover quickly, despite cyberattacks and system failures.
+485|Cybersecurity|The protection of computers, networks and data from unauthorized access and attack, including threats, defensive controls, detection and response.
+486|Dairy science|The science of milk production, processing and products, covering dairy animals, milk quality and manufactured products such as cheese and yogurt.
+487|Data as a Service|A cloud delivery model in which data is provided to users on demand over a network, regardless of where the provider or consumer is located.
++v|DaaS
+488|Data localization|Legal requirements that data about a country's residents be stored or processed within that country's borders.
+489|Data storage technologies|The devices and systems that retain digital data, such as hard drives, solid-state drives, tape and network and cloud storage, and how they trade off speed, cost and durability.
+490|Database as a service|A cloud service that provides managed database systems, with the provider handling provisioning, backup and scaling.
++v|DBaaS

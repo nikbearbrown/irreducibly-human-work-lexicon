@@ -1,0 +1,172 @@
+# batch 001: 15 non-O*NET abilities (n=1..67 range) and human languages Afrikaans..Lawa (n=68..152)
+1|Adaptability|An enduring tendency and capacity to adjust thinking, behavior and effort when tasks, people, tools or conditions change, while keeping performance steady.
++f|classification_dispute|Reads as a dispositional work style or personal characteristic rather than an O*NET-type ability; the canonical ability class is preserved for comparison.
+3|Attention to detail|A person's consistent tendency and capacity to notice, check and get right small features of work, such as errors, inconsistencies and exact specifications.
++f|classification_dispute|A work-style disposition more than an enduring ability; canonical class preserved.
+6|Causal reasoning|The cognitive capacity to infer what causes what from evidence, separating cause from mere correlation and anticipating the effects of an intervention.
++f|sense_note|Can also be trained as a developed reasoning skill (for example through experimental design and statistics), so the ability/skill boundary is arguable; ability class kept for comparison.
+12|Emotional stability|A stable disposition to stay calm, even-tempered and effective under pressure, criticism or setbacks rather than reacting with marked anxiety or mood swings.
++f|classification_dispute|A personality trait or work style rather than an ability in the O*NET sense; canonical class preserved.
+20|Goal-oriented|A disposition to set clear goals, keep effort aimed at them, and judge work by progress toward them.
++f|classification_dispute|A work-style disposition, not an ability; near-synonym of Results-oriented and Success-driven in job-listing use.
+26|Ingenuity|The inventive capacity to devise clever, workable solutions or workarounds from limited means or in unfamiliar situations.
++r|related|Originality
++f|classification_dispute|Overlaps the creativity-related ability Originality and is often a trait descriptor in listings; canonical class preserved.
+37|Patience|The disposition to stay calm and keep working courteously through delay, difficulty, repetition or slow progress by others without becoming irritated or rushing.
++f|classification_dispute|A disposition or work style, not an ability.
+41|Quick learning|The capacity to pick up new information, procedures or tools rapidly and apply them with little instruction or repetition.
++r|related|Active Learning
++r|related|Learning Strategies
++f|sense_note|Overlaps the O*NET skills Active Learning and Learning Strategies, which describe trained use; kept here as the underlying rate-of-learning attribute.
+44|Resilience|The capacity to recover from setbacks, stress or failure and keep performing, adjusting approach rather than giving up.
++f|classification_dispute|A disposition or personal characteristic; the class of other characteristics is not yet built in the source taxonomy.
+46|Results-oriented|A disposition to focus on achieving concrete, measurable outcomes and to prioritize effort by the results it produces.
++f|classification_dispute|A work-style disposition, not an ability.
+48|Self-confidence|A realistic belief in one's own capacity to handle tasks and challenges, shown by willingness to take on work, decide and speak up.
++f|classification_dispute|A personal characteristic rather than an ability.
+49|Self-starter|A disposition to begin and carry work forward on one's own initiative, without waiting for instruction or close supervision.
++f|classification_dispute|A disposition, not an ability.
+52|Spatial-temporal reasoning|The cognitive capacity to mentally represent how objects, space and time relate and change, for example visualizing motion, sequences, rotations or layouts.
++r|related|Spatial Orientation
++r|related|Visualization
++f|sense_note|Overlaps the O*NET abilities Spatial Orientation and Visualization; the temporal component is what distinguishes it.
+59|Success-driven|A disposition marked by strong motivation to achieve, win or excel and to keep pushing for high performance.
++f|classification_dispute|A motivational trait, not an ability; vague listing phrase close to Results-oriented and Goal-oriented.
+60|Team-oriented|A disposition to prefer collaborating with others, sharing credit and information, and putting team goals ahead of individual ones.
++r|related|Teamwork
++f|classification_dispute|A work-style disposition; Teamwork is the corresponding developed skill.
+68|Afrikaans|A West Germanic language that developed from 17th-century Dutch in southern Africa; an official language of South Africa, also spoken in Namibia.
+69|Ainu|The language of the indigenous Ainu people of Hokkaido and nearby islands; unrelated to Japanese and critically endangered, with revival efforts under way.
+70|Akan|A Kwa language of Ghana and Côte d'Ivoire made up of closely related varieties such as Twi and Fante; one of Ghana's most widely spoken languages.
+71|Albanian|The Indo-European language of Albania and Kosovo, forming its own branch of the family, with Gheg and Tosk dialect groups; the standard is based on Tosk.
+72|American Sign Language|The natural sign language of the Deaf community in the United States and much of English-speaking Canada, with a grammar of its own distinct from English; used in interpreting, Deaf education and accessibility work.
++v|ASL
+73|Amharic|A Semitic language and the working federal language of Ethiopia, written in an Ethiopic (Ge'ez-derived) script.
+74|Arabic|A Semitic language of the Arab world and the liturgical language of Islam; Modern Standard Arabic serves writing and formal media while spoken regional varieties differ widely.
+75|Armenian|The Indo-European language of Armenia, forming its own branch of the family and written in the Armenian alphabet; standard Eastern and Western forms exist.
+76|Assamese|An Indo-Aryan language of Assam in northeastern India and the state's official language, written in a variant of the Bengali-Assamese script.
+77|Aymara|An Aymaran language of the Andean altiplano in Bolivia, Peru and Chile; official in Bolivia and Peru.
+78|Azerbaijani|A Turkic language of Azerbaijan and northwestern Iran, written in Latin script in Azerbaijan and in Perso-Arabic script in Iran.
++v|Azeri
+79|Bassa|A Kru language of Liberia spoken by the Bassa people, which has its own indigenous Vah script.
++f|low_confidence|The label does not say whether it means the Liberian Kru language Bassa or the Bantu language Basaa of Cameroon; the Liberian language is assumed.
+80|Batak|A group of related Austronesian languages of northern Sumatra, Indonesia, including Toba, Karo, Simalungun and Mandailing, historically written in a Batak script.
++f|sense_note|The label names a cluster of languages rather than one language.
+81|Bemba|A Bantu language of northern Zambia and neighboring areas, widely used as a regional lingua franca in Zambia.
+82|Benga|A small Bantu language of coastal Equatorial Guinea and Gabon.
+83|Bengali|An Indo-Aryan language of Bangladesh and the Indian state of West Bengal, the national language of Bangladesh, written in the Bengali script.
++v|Bangla
+84|Berber|The family of Afroasiatic languages indigenous to North Africa, including Tashelhit, Kabyle, Tamazight and Tuareg varieties.
++v|Amazigh
++f|sense_note|The label names a language family; work listings usually mean a specific variety such as Tashelhit or Kabyle.
+85|Bislama|An English-based creole and national language of Vanuatu, used as a lingua franca among the country's many local languages.
+86|Bosnian|A South Slavic language standard used chiefly by Bosniaks in Bosnia and Herzegovina, mutually intelligible with Croatian and Serbian.
++r|related|Serbo-Croatian
+87|Burmese|The Sino-Tibetan language and official language of Myanmar, written in the Burmese script.
++v|Myanmar language
+88|Carib|A Cariban language, also called Kari'nja, spoken by the Carib people along the northern coast of South America in Suriname, Guyana, French Guiana, Venezuela and Brazil.
++f|sense_note|The label may also be read as the wider Carib language family or as the Antillean language historically called Island Carib.
+89|Castilian Spanish|The Spanish of Castile, taken as the standard form in Spain and often used as another name for Spanish in contrast to other Spanish-language varieties and regional languages of Spain.
++r|related|Spanish
++f|sense_note|Likely an alias or regional label for Spanish rather than a separate language; kept separate by ID as in the roster.
+90|Catalan|A Romance language of Catalonia, Valencia, the Balearic Islands, Andorra and nearby areas; official in Andorra and co-official in several regions of Spain.
+91|Cebuano|An Austronesian language of the central Philippines, widely spoken in Cebu, Bohol, eastern Negros and parts of Mindanao.
+92|Chakma|An Indo-Aryan language of the Chakma people in the Chittagong Hill Tracts of Bangladesh and in northeastern India, traditionally written in its own script.
+93|Chamorro|An Austronesian language of Guam and the Northern Mariana Islands, official there alongside English and rich in Spanish loan vocabulary.
+94|Chichewa|A Bantu language of Malawi and neighboring parts of Zambia, Mozambique and Zimbabwe; the national language of Malawi.
++v|Nyanja
++v|Chewa
+95|Chinese|The family of Sinitic languages of the Han Chinese, including Mandarin, Cantonese, Wu and Min, which share a writing system of Chinese characters.
++r|related|Mandarin
++f|sense_note|The label names a family; in work listings it usually means Mandarin, written in simplified or traditional characters.
+96|Czech|A West Slavic language of the Czech Republic, written in the Latin alphabet with diacritics.
+97|Danish|A North Germanic language of Denmark, also spoken in Greenland and the Faroe Islands and partly intelligible with Norwegian and Swedish.
++r|related|Norwegian
++r|related|Swedish
+98|Dari|The variety of Persian that is an official language of Afghanistan, also called Afghan Persian.
++v|Afghan Persian
++r|broader|Persian
+99|Dhivehi|An Indo-Aryan language and national language of the Maldives, written right to left in the Thaana script.
+100|Dinka|A Nilotic language cluster of South Sudan spoken by the Dinka people, with several dialects that differ considerably.
+101|Duala|A Bantu language of the Duala people of coastal Cameroon, historically a trade language around the Wouri estuary.
++v|Douala
+102|Dutch|A West Germanic language of the Netherlands and Flanders in Belgium, and an official language of Suriname.
+103|Dzongkha|The Tibetic national language of Bhutan, written in the Tibetan script.
+104|English|A West Germanic language that serves as a leading international language of business, science, aviation and the internet, with national standards such as American and British English.
+105|Ewondo|A Bantu language of the Beti group spoken in the Yaoundé region of southern Cameroon.
+106|Fali|A name used for the language or languages of the Fali people of northern Cameroon and northeastern Nigeria.
++f|low_confidence|Several distinct Adamawa languages are called Fali and the label does not say which; the definition is deliberately minimal.
+107|Filipino|The national language of the Philippines, a standardized register based on Tagalog and enriched with words from other Philippine languages, Spanish and English.
++v|Pilipino
+108|Finnish|A Uralic language of Finland, agglutinative with many noun cases and unrelated to the Indo-European languages around it; official in Finland alongside Swedish.
+109|French|A Romance language spoken on several continents and an official language in many countries and international bodies such as the United Nations and the European Union.
+110|Frisian|A group of West Germanic languages of the Netherlands, Germany and Denmark, of which West Frisian in the Dutch province of Friesland is the most widely spoken.
+111|Fula|A Niger-Congo language of the Fulani people spoken in a belt across West and Central Africa from Senegal to Cameroon.
++v|Fulfulde
++v|Pulaar
+112|Gaelic|A Goidelic Celtic language of Scotland (Scottish Gaelic), or more loosely the Goidelic branch that also includes Irish and Manx.
++f|ambiguous_label|The label can mean Scottish Gaelic, Irish or Manx; the intended language is not specified.
+113|Galo|A Tani language of the Sino-Tibetan family spoken by the Galo people of Arunachal Pradesh in northeastern India.
+114|Garifuna|An Arawakan language of the Garifuna people on the Caribbean coast of Honduras, Belize, Guatemala and Nicaragua.
+115|German|A West Germanic language of Germany, Austria and much of Switzerland, widely used in business, engineering and science; standard German coexists with regional dialects.
+116|Gikuyu|A Bantu language of the Kikuyu people of central Kenya, the first language of Kenya's largest ethnic group.
++v|Kikuyu
+117|Greek|The Indo-European language of Greece and Cyprus, written in the Greek alphabet; Modern Greek descends from Ancient Greek.
++f|sense_note|Presumed to mean Modern Greek unless a listing says Ancient or Koine Greek.
+118|Gujarati|An Indo-Aryan language of the Indian state of Gujarat, written in the Gujarati script and widely spoken in diaspora communities.
+119|Haitian Creole|A French-based creole that is the national language of Haiti and the first language of most Haitians.
++v|Kreyòl ayisyen
+120|Hausa|A Chadic language spoken as a first language and widely as a trade language across northern Nigeria, Niger and the Sahel.
+121|Havyaka Kannada|A dialect of Kannada spoken by the Havyaka Brahmin community of coastal and Malnad Karnataka, with distinctive vocabulary and sounds.
++r|broader|Kannada
++f|sense_note|A dialect of Kannada rather than a separate language.
+122|Hawaiian|A Polynesian language of Hawaii, official in the state alongside English and revitalized through immersion schooling since the 1980s.
++v|ʻŌlelo Hawaiʻi
+123|Haya|A Bantu language of the Haya people of the Kagera region of northwestern Tanzania.
+124|Hebrew|A Semitic language; Modern Hebrew is the national language of Israel, revived from the literary and liturgical Hebrew of earlier periods.
+125|Hindi|An Indo-Aryan language of northern and central India written in the Devanagari script, one of India's official languages and among the most widely spoken in the world.
+126|Hmong|A group of Hmong-Mien languages of the Hmong people of southern China, Laos, Vietnam and Thailand and of diaspora communities, notably White Hmong and Green Hmong.
++f|sense_note|The label names a cluster of related languages rather than a single one.
+127|Hokkien|A Southern Min variety of Chinese from southern Fujian, spoken across Fujian, Taiwan and Southeast Asian communities.
++r|broader|Chinese
+128|Hopi|A Uto-Aztecan language of the Hopi people of northeastern Arizona.
+129|Hungarian|A Uralic language of Hungary and Hungarian communities in neighboring countries; agglutinative and unrelated to its Indo-European neighbors.
+130|Hup|A Naduhup language of the Vaupés region of Brazil and Colombia, spoken by the Hupda people.
+131|Igbo|A Niger-Congo tonal language of southeastern Nigeria and one of the country's major languages.
++v|Ibo
+132|Indonesian|The national language of Indonesia, a standardized form of Malay used as a lingua franca across the archipelago and written in the Latin alphabet.
++v|Bahasa Indonesia
+133|Italian|A Romance language of Italy and parts of Switzerland, descended from Tuscan and widely studied for its use in arts, music, cuisine and trade.
+134|Japanese|The language of Japan, written with a mix of kanji and the kana scripts and marked by a system of honorific speech levels.
+135|Jiba|A small Jukunoid language of eastern Nigeria, also called Jibu.
++f|low_confidence|Identification is from memory and should be checked against a language catalogue; the definition is deliberately minimal.
+136|Kachin|The Jingpho language, a Sino-Tibetan language of the Kachin people of northern Myanmar and neighboring parts of India and China.
++v|Jingpho
++v|Jinghpaw
+137|Kalenjin|A group of closely related Nilotic languages of western Kenya, including Kipsigis, Nandi and Tugen.
++f|sense_note|The label names a cluster of related languages.
+138|Kannada|A Dravidian language of Karnataka in southern India, its official language, written in the Kannada script.
+139|Kazakh|A Turkic language, official in Kazakhstan and also spoken in China and Mongolia, written in Cyrillic in Kazakhstan.
+140|Khmer|The Austroasiatic official language of Cambodia, written in the Khmer script.
+141|Kinyarwanda|A Bantu language of Rwanda, spoken by nearly all Rwandans and an official language there, closely related to Kirundi.
++r|related|Kirundi
+142|Kirundi|A Bantu language and official language of Burundi, mutually intelligible with Kinyarwanda.
++v|Rundi
++r|related|Kinyarwanda
+143|Kokborok|A Tibeto-Burman language of Tripura in northeastern India and parts of Bangladesh, official in Tripura alongside Bengali and English.
+144|Korean|The language of Korea, written in the Hangul alphabet and marked by speech levels that encode social relationship.
+145|Korwa|An Austroasiatic language of the Munda branch spoken by the Korwa people of Jharkhand and Chhattisgarh in India.
+146|Kurdish|A group of Northwestern Iranian languages of the Kurds in Turkey, Iraq, Iran and Syria, of which Kurmanji and Sorani are the main varieties.
++f|sense_note|The label names a dialect continuum; Kurmanji and Sorani differ in script and grammar.
+147|Kurukh|A Dravidian language of the Oraon people of eastern India, in Jharkhand, Chhattisgarh, Odisha and West Bengal, and of Nepal and Bangladesh.
++v|Kurux
++v|Oraon
+148|Kyrgyz|A Turkic language, official in Kyrgyzstan, written in Cyrillic.
+149|Ladino|A Judeo-Spanish language of Sephardic Jews, descended from medieval Spanish with Hebrew and other loan words; now endangered.
++v|Judeo-Spanish
++v|Judezmo
+150|Lango|A Western Nilotic language of the Lango people of northern Uganda, related to Luo languages.
+151|Lao|A Tai-Kadai language and the official language of Laos, closely related to Thai and written in the Lao script.
++r|related|Thai
+152|Lawa|An Austroasiatic language of the Lawa people of northern Thailand, in Mae Hong Son and Chiang Mai provinces.
++f|low_confidence|The label is minimal; the Thai Lawa (Lua') language is assumed and the identification is from memory.

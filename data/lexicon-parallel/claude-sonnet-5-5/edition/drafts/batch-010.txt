@@ -1,0 +1,322 @@
+# batch 010: methods Scientific modelling..Xanthoproteic reaction (1806..1849), standards (1850..1964), tools Azure..BaseX (1965..2045)
+1806|Scientific modelling|Representing a system with simplified mathematical, physical or computational models to explain and predict its behavior.
+1807|Seliwanoff's test|A chemical test that distinguishes ketose sugars from aldose sugars, giving a cherry-red color on heating with resorcinol and hydrochloric acid.
+1808|Shared Vision Planning|A water resources planning approach that combines stakeholder collaboration with a shared computer model, developed by the U.S. Army Corps of Engineers.
+1809|Single sign-on|An authentication approach that lets users log in once to access multiple applications, typically through SAML or OpenID Connect.
++v|SSO
+1810|Social and behavior change communication|Using communication strategies to change the knowledge, attitudes, norms and behaviors of communities, as in health programs.
++v|SBCC
++r|related|Behavior change communication
+1811|Social-emotional learning|Teaching skills such as self-awareness, empathy, relationship building and decision-making in educational settings.
++v|SEL
+1812|Software testing life cycle|The ordered phases of testing a software product, from requirements analysis and test planning through execution and closure.
++v|STLC
+1813|Sprint retrospective|A Scrum meeting at the end of a sprint in which the team reflects on how it worked and agrees on improvements.
+1814|Sputter deposition|A thin-film technique in which ions knock atoms off a target so that they coat a substrate, used in electronics and optics.
++r|broader|Physical vapor deposition
+1815|Stanislavski's system|Constantin Stanislavski's approach to acting, which uses emotional memory, objectives and imagination to create truthful performances.
+1816|Star and snowflake schemas|Data warehouse designs that organize data into a central fact table linked to dimension tables, with the snowflake form normalizing the dimensions further.
+1817|Stochastic modelling|Modeling systems that involve randomness with probability distributions to estimate the range of possible outcomes.
+1818|Stress testing (computing)|Pushing a system beyond normal load to find its breaking point and to see how it fails and recovers.
+1819|Structure chart|A diagram in structured design that shows a program's modules and how they call each other.
+1820|Student's t-test|A statistical test for deciding whether the means of one or two groups differ, based on the t distribution.
+1821|Substantive testing|Audit procedures that test account balances and transactions directly for material misstatement.
+1822|Table data gateway|A design pattern in which one object handles all database access for a table.
+1823|Technology roadmap|A plan that shows how technology and products will evolve over time to meet goals.
+1824|Theory of change|A method of mapping how and why a program is expected to lead to long-term outcomes through a chain of steps and assumptions.
+1825|Thin film coating|Depositing very thin layers of material on a surface, from nanometers to micrometers, to change its properties.
+1826|Threat modeling|Systematically identifying and prioritizing potential threats to a system and designing defenses, using approaches such as STRIDE.
+1827|Track and trace|Following goods through the supply chain by serial codes to verify authenticity and location, as in pharmaceutical serialization.
+1828|Transient expression|Temporarily expressing a gene in cells without stable integration, to test gene function or produce proteins.
+1829|Trauma-focused cognitive behavioral therapy|A structured therapy that helps children and adults process trauma by building coping skills and reframing trauma-related thoughts.
++v|TF-CBT
+1830|Treemap|A visualization that shows hierarchical data as nested rectangles sized by value.
+1831|Trendline|A line on a chart that shows the general direction of data over time, often fitted by regression.
+1832|UI patterns|Proven, reusable solutions to common interface design problems, such as navigation, forms and search.
+1833|Ultraviolet-visible spectroscopy|A technique that measures how much a sample absorbs ultraviolet and visible light, to identify or quantify substances.
++v|UV-Vis spectroscopy
+1834|Usability testing|Watching representative users attempt tasks with a product to find problems in its design.
+1835|Use case diagram|A UML diagram that shows the actors of a system and the actions they can perform.
++r|part_of|UML
+1836|User research|Studying users' needs, behaviors and motivations through interviews, observation and surveys to inform design.
+1837|Value stream analysis|Mapping and examining all the steps that deliver a product or service to find waste and opportunities for improvement.
++v|Value stream mapping
+1838|Vector search|Finding items by comparing their vector embeddings for similarity, used in semantic search and recommendation.
+1839|Version control|Tracking and managing changes to files over time, with branching and merging, using tools such as Git.
+1840|Virtual design and construction|Using integrated digital models of a building, its schedule and costs to plan and manage construction.
++v|VDC
+1841|Virtual production|Filming with real-time computer graphics and LED screens that display digital environments on set.
+1842|Virus culture|Growing viruses in cells or tissues in a laboratory to study or isolate them.
+1843|Visual odometry|Estimating a camera's or robot's motion by analyzing successive images.
+1844|Waste minimisation|Reducing the amount of waste produced at the source through design, process and purchasing changes.
+1845|Water quality modelling|Using mathematical models to predict how pollutants and conditions change in water bodies.
+1846|Web filtering|Blocking or allowing access to websites based on category, policy or threat, for security and compliance.
+1847|Word embedding|Representing words as dense numerical vectors that capture meaning, learned from text.
+1848|word2vec|A neural technique for learning word embeddings from large text collections using models such as skip-gram and continuous bag of words.
++r|broader|Word embedding
+1849|Xanthoproteic reaction|A chemical test for proteins that contain aromatic amino acids, which turn yellow and then orange with nitric acid.
+1850|Air Travel Organisers' Licensing|The UK financial protection scheme that protects package holiday and flight customers if a travel firm fails, and the licensing rules travel businesses follow.
++v|ATOL
+1851|American Welding Society codes|The AWS standards, such as D1.1 for structural steel welding, that set requirements for welding procedures, qualification and inspection.
+1852|Anglo-American Cataloguing Rules|The library cataloguing rules for describing and providing access to library materials, since replaced by RDA.
++v|AACR2
+1853|BACnet|A communications protocol standard that lets building automation devices such as HVAC and lighting controllers exchange data.
+1854|Baseline Personnel Security Standard|The UK government pre-employment screening standard covering identity, right to work, employment history and criminal record checks.
++v|BPSS
+1855|Bidirectional-streams Over Synchronous HTTP|An XMPP-related specification that emulates a persistent two-way connection over HTTP, used for browser-based chat.
++v|BOSH
+1856|Challenge-Handshake Authentication Protocol|An authentication protocol in which a server periodically challenges a client to prove it knows a shared secret, used with PPP.
++v|CHAP
+1857|Clean Air Act|The U.S. federal law regulating air pollutant emissions, whose requirements environmental professionals apply to permits, monitoring and reporting.
+1858|Clean Water Act|The U.S. federal law regulating discharges of pollutants into the waters of the United States, whose provisions govern permits and standards.
+1859|Common Criteria|The international standard for evaluating the security of IT products against defined requirements.
+1860|Common Language Specification|A set of rules in .NET that language features must follow so that code written in different .NET languages can interoperate.
++v|CLS
+1861|CommonJS|A specification for JavaScript modules, using require and module.exports, used in Node.js.
+1862|Computer Fraud and Abuse Act|The U.S. federal law that prohibits unauthorized access to computers and related offenses, relevant to security and legal work.
++v|CFAA
+1863|COSO framework|The Committee of Sponsoring Organizations' framework for internal control and enterprise risk management used by auditors and managers.
+1864|DCID 6/3|The former U.S. Director of Central Intelligence Directive on protecting sensitive compartmented information within information systems, since superseded.
+1865|Digital Private Network Signalling System|A signaling protocol used between PBXs in private digital networks, mainly in the UK.
++v|DPNSS
+1866|DO-178C|The standard for software considerations in airborne systems and equipment certification, defining objectives by software criticality level.
+1867|DOCSIS|Data Over Cable Service Interface Specification, the standard for delivering broadband internet over cable television infrastructure.
+1868|DoD 8500 series|The U.S. Department of Defense directives and instructions on information assurance, later reissued under a cybersecurity framing.
+1869|DoD Instruction 8510.01|The U.S. Department of Defense instruction that establishes the Risk Management Framework for DoD information technology, replacing DIACAP.
++r|related|NIST SP 800-37
+1870|Drug Quality and Security Act|The 2013 U.S. law covering the compounding of drugs and the tracking of prescription drugs through the supply chain.
+1871|Dynamic Host Configuration Protocol|A network protocol that automatically assigns IP addresses and configuration to devices.
++v|DHCP
+1872|Eddystone|Google's open Bluetooth Low Energy beacon format, with frame types such as URL and UID, used for proximity applications.
+1873|Enhanced Data rates for GSM Evolution|A 2G mobile data technology that boosts GSM data speeds.
++v|EDGE
+1874|Enhanced prudential standards|U.S. rules under the Dodd-Frank Act that impose stricter capital, liquidity and risk management requirements on large banks.
+1875|Fair Employment and Housing Act|California's law prohibiting discrimination and harassment in employment and housing, which employers and landlords must follow.
++v|FEHA
+1876|FAS 109|The FASB statement on accounting for income taxes, now ASC 740, covering deferred taxes and valuation allowances.
+1877|FGDC Standards|Standards from the U.S. Federal Geographic Data Committee for geospatial data, such as metadata and classification.
+1878|Financial Information eXchange|A messaging standard for real-time electronic exchange of securities transactions between trading parties.
++v|FIX protocol
+1879|FinCEN 314 program|Provisions of the USA PATRIOT Act under which FinCEN, law enforcement and financial institutions share information about suspected money laundering and terrorism.
+1880|Foreign Account Tax Compliance Act|The U.S. law requiring foreign financial institutions to report accounts held by U.S. taxpayers.
++v|FATCA
+1881|Free Lossless Audio Codec|An open audio compression format that reduces file size without losing any audio information.
++v|FLAC
+1882|General Packet Radio Service|A 2.5G mobile data service that carries packet data over GSM networks.
++v|GPRS
+1883|Generic Routing Encapsulation|A tunneling protocol that wraps various network protocols inside IP packets to create point-to-point links.
++v|GRE
+1884|Graphics Interchange Format|A bitmap image format supporting 256 colors and simple animation, widely used on the web.
++v|GIF
+1885|H.262/MPEG-2 Part 2|The video compression standard used for DVDs and digital television broadcast.
++v|MPEG-2
+1886|Handle System|A distributed system for assigning, managing and resolving persistent identifiers such as DOIs.
+1887|HCFA regulations|Rules from the former Health Care Financing Administration, now CMS, governing Medicare and Medicaid payment and claims.
+1888|Healthcare Effectiveness Data and Information Set|A set of performance measures used by U.S. health plans to compare the quality of care.
++v|HEDIS
+1889|I2C|A two-wire serial bus standard used to connect low-speed peripheral chips to microcontrollers.
++v|Inter-Integrated Circuit
+1890|ICH guidelines|Guidelines from the International Council for Harmonisation that harmonize drug development and regulatory requirements for quality, safety and efficacy.
+1891|ICMPv6|The Internet Control Message Protocol for IPv6, carrying errors and diagnostics and supporting neighbor discovery.
++r|related|Internet Control Message Protocol
+1892|IEEE 1394|A high-speed serial bus standard, known as FireWire, for connecting devices such as cameras and drives.
++v|FireWire
+1893|IEEE 1547|The IEEE standard for interconnecting distributed energy resources, such as solar, with the electric power grid.
+1894|International Standard Book Number|The standard 10 or 13 digit identifier that uniquely identifies a book edition.
++v|ISBN
+1895|Internet Control Message Protocol|The IP-layer protocol used for error messages and diagnostics such as ping.
++v|ICMP
+1896|Internet Message Access Protocol|An email retrieval protocol that lets clients read and manage mail stored on a server.
++v|IMAP
+1897|Internet protocol suite|The set of networking protocols, centered on TCP and IP, that underlies the internet.
++v|TCP/IP
+1898|ISO 10012|The standard for measurement management systems, setting requirements for calibration and measurement processes.
+1899|ISO 10993|The series of standards on the biological evaluation of medical devices.
+1900|ISO 14000|The family of standards on environmental management, including ISO 14001 for environmental management systems.
+1901|ISO 14971|The standard for applying risk management to medical devices.
+1902|ISO 15189|The standard for quality and competence requirements of medical laboratories.
+1903|ISO 19011|The guidelines for auditing management systems.
+1904|ISO 26262|The functional safety standard for electrical and electronic systems in road vehicles.
+1905|ISO 31000|The international guidelines on risk management principles and process.
+1906|ISO 50001|The standard for energy management systems that helps organizations improve energy performance.
+1907|ISO 8583|The standard for financial transaction card messages, defining the format of messages exchanged in card payments such as ATM and point-of-sale transactions.
+1908|ISO 9000|The family of quality management standards, whose fundamentals and vocabulary underpin ISO 9001.
+1909|ISO/IEC 27000 series|The family of information security management standards that includes ISO/IEC 27001 and related guidance.
+1910|ISO/IEC 27001|The standard that specifies requirements for an information security management system.
++r|part_of|ISO/IEC 27000 series
+1911|ISO/IEC 9075 SQL standard|The international standard that defines the SQL language.
++r|related|SQL
+1912|ITU-T T.30|The ITU-T recommendation that defines procedures for document facsimile transmission over the telephone network.
+1913|JAFAN|Joint Air Force-Army-Navy manuals that set U.S. security requirements for protecting classified information systems, such as JAFAN 6/3.
+1914|Java Archive|A package file format that bundles Java classes and resources into one file for distribution.
++v|JAR
+1915|Joint Commission standards|The accreditation standards of The Joint Commission that U.S. health care organizations must meet for quality and safety.
+1916|JPEG|A standard for lossy compression of photographic images, widely used on the web and in cameras.
+1917|JSON Web Token|A compact standard for securely passing claims between parties as signed JSON, used in authentication and API authorization.
++v|JWT
+1918|Kyoto Protocol|The 1997 international treaty that set binding greenhouse gas emission targets for developed countries.
+1919|Low Voltage Transistor-Transistor Logic|A family of digital logic signaling levels operating at lower voltages than standard TTL, typically 3.3 V.
++v|LVTTL
+1920|Media Transfer Protocol|A protocol for transferring media files between a computer and portable devices.
++v|MTP
+1921|Meter Operation Code of Practice Agreement|A UK electricity industry agreement that sets out the standards that meter operators follow.
++v|MOCOPA
+1922|Military standards and specifications|U.S. military documents, such as MIL-STD and MIL-SPEC, that set requirements for design, testing and procurement.
+1923|NIST SP 800 series|The NIST Special Publications on computer security guidance, such as risk management and control catalogs.
+1924|NIST SP 800-37|The NIST guide for applying the Risk Management Framework to federal information systems.
++r|part_of|NIST SP 800 series
+1925|NIST SP 800-53|The NIST catalog of security and privacy controls for information systems and organizations.
++r|part_of|NIST SP 800 series
+1926|No Child Left Behind Act|The 2002 U.S. education law that required annual testing and accountability, replaced in 2015 by the Every Student Succeeds Act.
+1927|OBD-II|The second-generation on-board diagnostics standard for vehicles, with a standard connector and fault codes that mechanics read to diagnose problems.
+1928|Open Shortest Path First|A link-state routing protocol that calculates shortest paths within a network.
++v|OSPF
+1929|OpenAPI Specification|A standard format for describing REST APIs so that people and tools can understand them and generate documentation and code.
++v|Swagger specification
+1930|Paperwork Reduction Act|The U.S. law requiring federal agencies to minimize the burden of information collection on the public.
+1931|Payment Card Industry Data Security Standard|The security standard for organizations that store, process or transmit cardholder data.
++v|PCI DSS
+1932|Personal Printer Data Stream|IBM's printer language for controlling its printers.
+1933|Point-to-Point Tunneling Protocol|An older VPN tunneling protocol that is now considered insecure.
++v|PPTP
+1934|POSIX|A family of standards that specify a common interface for Unix-like operating systems, covering APIs, the shell and utilities.
+1935|Post Office Protocol|An email retrieval protocol that downloads messages from a server to a client.
++v|POP3
+1936|Principles for Responsible Banking|A UN-backed framework for aligning banks' strategies with sustainable development goals and the Paris Agreement.
+1937|Programmer's Hierarchical Interactive Graphics System|A graphics API standard for 3D graphics, a predecessor to OpenGL.
++v|PHIGS
+1938|Public-Key Cryptography Standards|A set of specifications from RSA Laboratories for public-key formats and operations, such as PKCS#1 and PKCS#12.
++v|PKCS
+1939|Right to Financial Privacy Act|The 1978 U.S. law that limits government access to individuals' financial records held by institutions.
+1940|Routing Table Maintenance Protocol|Apple's protocol for AppleTalk routing.
++f|ambiguous_label|Distinct from Adobe's Real-Time Messaging Protocol, which is also abbreviated RTMP.
+1941|Safe Drinking Water Act|The U.S. law that sets standards for public drinking water quality and protects its sources.
+1942|Schema markup|The structured data vocabulary from Schema.org that webmasters add to pages so that search engines understand their content.
+1943|Secure Shell|A cryptographic network protocol for secure remote login and command execution.
++v|SSH
+1944|Serial ATA|An interface standard for connecting storage devices such as hard drives and SSDs to computers.
++v|SATA
+1945|Serial Line Internet Protocol|An older protocol for sending IP over serial lines, replaced by PPP.
++v|SLIP
+1946|SHA-256|A cryptographic hash function that produces a 256-bit digest, part of the SHA-2 family, used for integrity checks and digital signatures.
++r|related|SHA-512
+1947|SHA-512|A cryptographic hash function that produces a 512-bit digest, in the SHA-2 family.
+1948|Sharable Content Object Reference Model|A set of e-learning standards for packaging content and tracking learners' progress in learning management systems.
++v|SCORM
+1949|Signalling Connection Control Part|A layer of the SS7 protocol suite that provides routing and addressing for telephone signaling messages.
++v|SCCP
++r|part_of|Signalling System No. 7
+1950|Signalling System No. 7|The set of protocols used by telephone networks to set up calls and exchange signaling.
++v|SS7
+1951|Simple Mail Transfer Protocol|The internet protocol for sending email between servers.
++v|SMTP
+1952|Simple Public Key Infrastructure|A certificate-based authorization framework that binds permissions to keys rather than names.
++v|SPKI
+1953|SQL-92|The third major revision of the SQL standard, from 1992, defining a widely supported baseline of the language.
++r|part_of|ISO/IEC 9075 SQL standard
+1954|Standards of Training, Certification and Watchkeeping|The IMO convention that sets minimum training and certification requirements for seafarers worldwide.
++v|STCW
+1955|Statement on Auditing Standards No. 70|The former AICPA auditing standard for service organization reports, replaced by later attestation standards.
++v|SAS 70
+1956|Statements on Standards for Attestation Engagements|AICPA standards for attestation engagements, including service organization control reports such as SOC 1.
++v|SSAE
+1957|Tabular Data Stream|An application-layer protocol used by Microsoft SQL Server and Sybase to transfer data between clients and servers.
++v|TDS
+1958|Time Protocol|A simple internet protocol, RFC 868, that returns the time of day as a number and has been largely superseded by NTP.
+1959|User Datagram Protocol|A connectionless transport protocol that sends datagrams without guaranteed delivery, used for low-latency traffic such as DNS and streaming.
++v|UDP
+1960|WebDriver|The W3C standard protocol for controlling web browsers from test automation tools such as Selenium.
+1961|Wi-Fi 6|The Wi-Fi Alliance name for the IEEE 802.11ax wireless standard, which improves speed and efficiency in crowded networks.
++v|802.11ax
+1962|Wi-Fi Direct|A Wi-Fi Alliance standard that lets devices connect directly without an access point.
+1963|Women's Health and Cancer Rights Act|The 1998 U.S. law requiring group health plans that cover mastectomy to also cover breast reconstruction and related care.
++v|WHCRA
+1964|Z-Wave|A low-power wireless protocol for home automation devices such as locks, sensors and switches.
+1965|1Password|A password manager that stores and fills credentials, secrets and other sensitive items in an encrypted vault, used by individuals and teams.
+1966|3D modeling software|Software for creating three-dimensional models of objects and scenes for design, animation, games and manufacturing.
+1967|3DMark|A benchmarking tool that measures the graphics and processing performance of computers and mobile devices with standardized tests.
+1968|Accountancy and Passenger Ticket Issuing System|A computerized system for issuing passenger tickets and accounting for sales in the travel industry.
++f|low_confidence|The specific product behind this label was not identified from memory; the definition describes only what the name states.
+1969|Accounting software|Programs used to record transactions, manage ledgers, invoices and payroll, and produce financial statements.
+1970|ACID Pro|A digital audio workstation for loop-based music production, used to arrange and mix audio loops and tracks.
+1971|ACL Analytics|Data analysis software used by auditors and finance teams to test large data sets for anomalies, fraud and control exceptions.
+1972|Active-HDL|An FPGA and ASIC design environment from Aldec for writing, simulating and debugging VHDL and Verilog designs.
+1973|ActivePivot|An in-memory analytics engine, now called Atoti, for aggregating and querying data in real time, used in financial risk reporting.
+1974|ActivePython|A commercial Python distribution from ActiveState that bundles Python with packages and tools.
+1975|Acunetix|A web vulnerability scanner that tests websites and web applications for security flaws such as SQL injection and cross-site scripting.
+1976|AD Model Builder|A free software package for nonlinear statistical modeling using automatic differentiation, used in fisheries stock assessment.
++v|ADMB
+1977|Adaptive equipment|Devices that help people with disabilities perform daily activities, such as reachers, modified utensils and mobility aids.
+1978|Adaptive Insights|A cloud planning and budgeting platform, now part of Workday, for financial planning, forecasting and reporting.
+1979|Adobe Analytics|A web and digital analytics platform for tracking and analyzing customer behavior across channels with reports and segmentation.
+1980|Adobe Experience Platform Launch|A tag management system, now called Adobe Experience Platform Tags, for deploying and managing marketing and analytics tags on websites.
+1981|Adobe PhotoDeluxe|A discontinued consumer photo-editing program from Adobe for basic image editing and projects.
+1982|Adobe Substance 3D Designer|A node-based tool for authoring procedural materials and textures for 3D, games and film.
+1983|Adobe Substance 3D Painter|A 3D painting tool for texturing models with layers, brushes and smart materials.
+1984|Aerospike Database|A distributed, high-performance NoSQL database for real-time applications, often run on flash storage.
+1985|Agricultural machinery|Machines such as tractors, combines and sprayers used on farms, with their operation, adjustment and basic maintenance.
+1986|Aldus PhotoStyler|A discontinued image-editing program from Aldus for photo retouching and color work.
+1987|Alexa Internet|A web traffic analysis service that ranked websites and provided audience data, discontinued by Amazon in 2022.
+1988|AlienVault|A security platform, now part of AT&T Cybersecurity, that combines threat detection, SIEM and an open threat exchange.
+1989|All-terrain vehicle|A small motorized off-road vehicle for rough terrain, used for recreation, farm and utility work, with its safe operation and maintenance.
+1990|Alooma|A cloud data pipeline service for moving data from sources into data warehouses, acquired by Google in 2019.
+1991|Alternative Transients Program|A widely used electromagnetic transients simulation program for power systems.
++v|ATP
+1992|Amazon AppStream 2.0|An AWS service that streams desktop applications to a browser from the cloud.
+1993|Amazon CloudWatch|An AWS monitoring service that collects metrics and logs and sets alarms on cloud resources and applications.
+1994|Amazon EMR|An AWS managed service for running big data frameworks such as Spark and Hadoop on clusters.
+1995|Amazon SageMaker|An AWS service for building, training and deploying machine learning models.
+1996|Amazon SimpleDB|An AWS NoSQL data store service for simple key-attribute data, now largely superseded by DynamoDB.
+1997|Anaconda|A Python and R distribution and package manager for data science that bundles libraries and environment management.
+1998|Angular CLI|The command-line tool for creating, building, testing and deploying Angular applications.
+1999|Anim8or|A free 3D modeling and animation program for Windows.
+2000|Antics3D|A 3D animation program for creating simple animated scenes.
++f|low_confidence|The product is identified only from its name; the definition is deliberately minimal.
+2001|Antivirus software|Programs that detect, block and remove malware from computers and networks.
+2002|Apache Ambari|A tool for provisioning, managing and monitoring Hadoop clusters through a web interface and APIs.
+2003|Apache Ant|A Java-based build tool that uses XML files to compile, test and package software.
+2004|Apache Archiva|A repository manager for Maven artifacts.
+2005|Apache Cassandra|A distributed, wide-column NoSQL database designed for high availability and scale across many servers.
+2006|Apache Gump|A continuous integration tool that builds and tests many open-source projects together against their latest sources to catch incompatibilities.
+2007|API gateway|A server that acts as a single entry point for APIs, handling routing, authentication, rate limiting and monitoring.
+2008|Apple Numbers|Apple's spreadsheet application for creating tables, charts and calculations.
+2009|appletviewer|A Java development tool that runs Java applets without a web browser, used for testing.
+2010|Application delivery controller|A network device or software that load balances, accelerates and secures application traffic to servers.
++v|ADC
+2011|Applixware|A discontinued office productivity suite for Unix and Linux from Applix, including a word processor and spreadsheet.
+2012|apxs|The Apache extension tool that builds and installs Apache modules from source.
+2013|Arachnophilia|A free HTML and text editor for web authors.
+2014|Araxis Merge|A tool for comparing and merging files, folders and websites, with three-way merge.
+2015|Areca Backup|An open-source file backup tool for personal use, with scheduling and compression.
+2016|Argo CD|A declarative GitOps continuous delivery tool for Kubernetes that syncs cluster state to configuration stored in Git.
+2017|Armed Forces Health Longitudinal Technology Application|The U.S. military's electronic health record system, used to document care for service members.
++v|AHLTA
+2018|Ashampoo Burning Studio|Software for burning data, audio and video to CDs, DVDs and Blu-ray discs.
+2019|Asphalt batch mix plant|Equipment that heats and mixes aggregate and asphalt binder in batches to produce paving material, with its operation and control.
+2020|Atlassian Confluence|A collaborative wiki and documentation platform where teams create, share and organize pages and knowledge.
+2021|Atlassian Crucible|A peer code review tool from Atlassian that lets teams comment on and approve source code changes.
+2022|auditd|The Linux audit daemon that records system calls and security events to a log for monitoring and compliance.
+2023|Author-it|A component-based content authoring and management system for technical documentation and training materials.
+2024|Autodesk 123D|A discontinued suite of free Autodesk apps for 3D modeling, scanning and fabrication aimed at hobbyists.
+2025|Autoshade|An AutoCAD add-on from Autodesk for quickly shading 3D models for presentation.
+2026|AVEVA PI System|A real-time data infrastructure, formerly OSIsoft PI, for collecting, storing and analyzing industrial sensor and process data.
+2027|Avid Elastic Reality|A discontinued image-morphing and warping software for visual effects.
+2028|Avid Media Composer|A professional nonlinear video editing system used for film, television and broadcast post-production.
+2029|AWS Cloud9|A cloud-based integrated development environment from AWS accessed through a browser.
+2030|AWS CloudFormation|An AWS service for defining and provisioning cloud infrastructure as code through templates.
+2031|AWS CloudHSM|An AWS service that provides dedicated hardware security modules in the cloud for storing and using cryptographic keys.
+2032|AWS CloudTrail|An AWS service that records account activity and API calls for auditing, governance and security analysis.
+2033|AWS CodeBuild|A fully managed AWS build service that compiles source code, runs tests and produces packages.
+2034|AWS CodeCommit|An AWS-managed Git repository service for storing source code.
+2035|AWS Command Line Interface|A unified command-line tool for managing and automating AWS services.
++v|AWS CLI
+2036|AWS IoT|AWS services for connecting devices to the cloud and managing, securing and analyzing their data.
+2037|AWS Lambda|An AWS service that runs code in response to events without managing servers, billed per execution.
+2038|AWS OpsWorks|An AWS configuration management service that uses Chef or Puppet to automate server setup and deployment.
+2039|AWS Outposts|AWS hardware and services installed in a customer's own data center to run AWS infrastructure on premises.
+2040|Azure Application Insights|A Microsoft Azure service that monitors application performance, availability and usage, with telemetry and diagnostics.
+2041|Azure Data Factory|A Microsoft Azure service for building and orchestrating data integration and ETL pipelines.
+2042|Azure IoT|Microsoft Azure services such as IoT Hub for connecting, managing and analyzing data from devices.
+2043|Azure Monitor|A Microsoft Azure service that collects, analyzes and acts on telemetry from cloud and on-premises resources.
+2044|Azure Policy|A Microsoft Azure service that defines and enforces rules and standards on Azure resources to maintain compliance.
+2045|BaseX|An XML database and XQuery processor for storing, querying and visualizing XML data.

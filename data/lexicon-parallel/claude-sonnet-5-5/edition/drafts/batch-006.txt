@@ -1,0 +1,215 @@
+# batch 006: knowledge Yahoo! Messenger protocols, Youth ministry; skills .NET development..Employee relations investigations (n=906..1110)
+906|Yahoo! Messenger protocols|The network protocols Yahoo! Messenger used for sign-in, presence and messaging, relevant to maintaining or analyzing legacy instant-messaging clients since the service closed in 2018.
+907|Youth ministry|Church or faith-community programs and pastoral care for teenagers and young adults, including teaching, mentoring and events.
+908|.NET development|Building applications on Microsoft's .NET platform, typically in C#, including web services, desktop and cloud applications, using its libraries and tooling.
+909|360 campaigns|Planning and running integrated marketing campaigns that coordinate multiple channels, such as television, digital, social and in-store, around a single idea.
+910|3D solid and surface modeling|Creating three-dimensional digital models of parts and products with solid and surface geometry in CAD software, for design, analysis and manufacturing.
+911|Academic English|Using English for study and scholarship, including reading academic texts, writing essays and reports, and taking part in lectures and discussion.
+912|Academic record-keeping|Maintaining accurate, secure student records such as enrollment, grades and transcripts in line with institutional policy and privacy law.
+913|Accessioning|Receiving and logging samples or specimens into a laboratory or collection, assigning identifiers and checking labels and paperwork.
+914|Accounts receivable management|Tracking, invoicing and collecting money owed by customers, including aging reports, reminders and dispute resolution.
+917|Administering blood tests|Drawing or collecting blood and carrying out or arranging laboratory tests, following safety, labeling and patient-identification procedures.
+918|Advertising design|Creating the visual and verbal layout of advertisements for print, digital or broadcast to communicate a message and prompt action.
+919|Agent evaluation|Measuring how well an AI agent completes tasks, using test scenarios, metrics and review of its steps to find failures and compare versions.
+920|Agent tool use|Designing and configuring AI agents to call external tools such as search, code and APIs, including defining tool interfaces and handling their results and errors.
+921|AI copywriting|Producing marketing and other written copy with generative AI tools, including prompting, editing and checking outputs for accuracy and brand voice.
+922|AI governance|Setting up the policies, roles, controls and oversight that guide how an organization develops and uses AI responsibly and in compliance with rules.
+923|Algorithm analysis|Determining how an algorithm's running time and memory use scale with input size, and showing that it is correct and efficient.
++r|related|Big O notation
+924|Allergen labelling|Identifying and declaring allergenic ingredients on food packaging and materials as regulation requires, and keeping labels accurate.
+925|Allyship|Acting in support of people from marginalized groups by learning, speaking up and using one's position to challenge unfair treatment.
+926|AMX programming|Writing control programs in the NetLinx language for AMX systems that operate audiovisual and building equipment in rooms.
+927|Android app development|Building mobile applications for Android devices, typically in Kotlin or Java, including interfaces, data storage and publishing to Google Play.
+928|Android UI development|Designing and coding the screens and interactions of Android apps with views or Jetpack Compose and Material Design guidelines.
++r|broader|Android app development
+929|Animated explainer video production|Planning, scripting, animating and editing short animated videos that explain a product, idea or process.
+930|Anma massage|A traditional Japanese massage that uses pressure, kneading and stretching along body pathways to relieve tension and promote health.
+931|API design|Designing the interfaces through which software components or services communicate, including resources, parameters, versioning, errors and documentation.
+932|API management|Publishing, securing, monitoring and versioning APIs through gateways and portals, including access control, rate limits and developer onboarding.
++r|related|API design
+933|Application monitoring|Tracking the performance, errors and availability of running applications with metrics, logs and alerts to detect and resolve issues.
+934|Architectural rendering|Producing realistic images or drawings of proposed buildings to communicate a design to clients and stakeholders.
+935|Architectural visualization|Using 3D modeling and rendering software to create images, animations or immersive views of architectural designs before they are built.
++r|related|Architectural rendering
+936|Arranging catering|Selecting caterers, menus and service details for an event and coordinating delivery, dietary needs and budget.
+937|Arranging conferences|Organizing the venue, schedule, speakers, registration, logistics and budget for a conference.
+938|As-built drawings|Preparing or updating drawings that record a structure or system as it was actually built, including changes made during construction.
+939|Assembly drawing|Creating or reading technical drawings that show how the parts of a product fit together, with part lists and fastening details.
+940|Assessing patient needs|Gathering information by interview, observation and measurement to determine a patient's health problems and care requirements.
+941|Asthma education|Teaching patients and families to understand asthma, avoid triggers, use inhalers and follow action plans.
+942|Auditing|Examining records, processes and controls against criteria such as accounting standards or policies to verify accuracy and compliance and report findings.
+943|Auditing inpatient coding|Reviewing hospital inpatient medical codes against records and coding rules to check accuracy, compliance and proper reimbursement.
++r|broader|Auditing
+944|Auditing outpatient coding|Reviewing outpatient and professional medical codes against documentation and coding guidelines to check accuracy and compliance.
++r|broader|Auditing
+945|Aural rehabilitation|Helping people with hearing loss communicate better through hearing-aid training, listening exercises and strategies, often by audiologists or speech-language pathologists.
+946|Autism therapy|Delivering interventions such as behavioral, speech or occupational therapy to help autistic people build communication, social and daily-living skills.
+947|Auto glass installation and repair|Replacing and repairing vehicle windshields and windows, including removal, bonding and safe curing.
+948|Automotive detailing|Cleaning, restoring and protecting a vehicle's interior and exterior through washing, polishing, waxing and care of surfaces.
+949|Aviation medical examination|Conducting medical assessments that determine whether pilots and other aviation personnel meet the health standards required for certification.
+950|AWS big data|Building data pipelines, storage and analytics on Amazon Web Services using services such as S3, EMR, Glue, Redshift and Athena.
+951|AWS networking|Designing and operating cloud networks on Amazon Web Services, including VPCs, subnets, routing, gateways and connectivity to on-premises sites.
+952|AWS serverless|Building applications on Amazon Web Services that run without managing servers, using services such as Lambda, API Gateway, DynamoDB and Step Functions.
+953|Azure Security|Protecting workloads and data on Microsoft Azure through identity, network controls, encryption, monitoring and services such as Defender and Key Vault.
+954|Back-end development|Building the server-side parts of applications, such as business logic, databases, APIs and authentication.
+955|Balafon|Playing a West African wooden-keyed percussion instrument similar to a xylophone, with resonating gourds, in traditional and contemporary music.
+956|Balloon modelling|Twisting and shaping long balloons into animals, figures and decorations, as entertainers and event decorators do.
+957|Banner advertising|Designing, placing and measuring graphic ads displayed on websites and apps.
+958|Battle management|Directing and coordinating forces and assets during a military engagement, using command-and-control information to make timely decisions.
+959|Bed mobility|Helping or teaching patients to move, turn and reposition themselves in bed safely, as in nursing and physical therapy.
+960|Bereavement care|Supporting people through grief after a death with listening, counseling, information and referrals.
+961|Blast radius analysis|Assessing how far a failure, change or security compromise would spread across systems or services, in order to limit its impact.
+962|Board support package|Preparing the low-level software, such as a boot loader, drivers and operating system configuration, that lets an operating system run on a specific hardware board.
++v|BSP
+963|Body contouring|Reshaping the body through procedures that remove fat or loose skin or tighten tissue, such as liposuction, tummy tucks and non-surgical treatments.
+964|Brand communication|Conveying a brand's identity, message and values consistently across channels such as advertising, social media and public relations.
+965|Brand positioning|Defining how a brand should be perceived relative to competitors in the minds of a target audience and what unique value it stands for.
++r|related|Brand strategy
+966|Brand strategy|Planning how a brand will build its identity, reputation and customer relationships over time to reach business goals.
+967|Branding|Creating and managing a name, look and message that identify an organization or product and shape how people see it.
++r|related|Brand strategy
+968|Bridal consulting|Advising brides on gowns, accessories and fittings and guiding them through selection and ordering.
+969|Broadcast programming|Choosing and scheduling the shows and content a television or radio station airs, to attract audiences and meet station goals.
+970|Budtending|Serving customers in a licensed cannabis dispensary by explaining products, helping them choose and processing sales within regulations.
+971|Building crates and skids|Constructing wooden crates and pallets that protect and support goods for shipping, with proper design, materials and fastening.
+972|Business process analysis|Studying how work flows through an organization, mapping steps, finding bottlenecks and recommending improvements.
+973|Butchering|Cutting and preparing carcasses and meat into saleable portions, using knives and saws safely and with minimal waste.
+974|Cable splicing|Joining the ends of electrical, telecommunications or fiber optic cables so that they carry signals or power reliably.
+975|Caesarean section|Performing or assisting in the surgical delivery of a baby through incisions in the abdomen and uterus, including preparation and recovery care.
++v|C-section
+976|Candidate sourcing|Finding and reaching potential job candidates through searches, networks and outreach before they apply.
+977|Cannabis and hemp extraction|Using solvents or other methods to separate cannabinoids and other compounds from cannabis or hemp plants, in line with safety rules and regulation.
+978|Cannabis cultivation|Growing cannabis plants, including propagation, feeding, environmental control, pest management and harvest, under applicable laws.
+979|Capacity management|Ensuring that IT resources or operational capacity meet current and future demand at acceptable cost, through monitoring, forecasting and planning.
+980|Cardiac stress testing|Performing and monitoring tests in which the heart is stressed by exercise or medication while its response is recorded, to detect heart disease.
+981|Cardiac valve repair|Surgically restoring a diseased heart valve's function by reshaping or reinforcing its parts rather than replacing it.
+982|Cardiopulmonary resuscitation|Performing chest compressions and rescue breathing to keep blood and oxygen moving when someone's heart or breathing has stopped.
++v|CPR
+983|Cardiovascular coding|Assigning standardized medical codes to heart and vascular procedures and diagnoses from clinical documentation, for billing and records.
+984|Care coordination|Organizing a patient's care across providers and services so that needs are met, information is shared and care is not duplicated.
+985|Cartographic design|Designing maps so that data, symbols, color and labels communicate clearly to their intended readers.
+986|Case analysis|Examining a case, such as in law, business or social work, to identify the key facts and issues and reach reasoned conclusions or recommendations.
+987|Casualty movement|Moving injured people safely from the point of injury to treatment, using appropriate carries, equipment and vehicles.
+988|Change agility|Adapting quickly and effectively to new situations, priorities and ways of working.
+989|Change management planning|Planning how people in an organization will be prepared, informed and supported through a change, including communication, training and handling resistance.
+990|Changing oil|Draining and replacing a vehicle's engine oil and filter and checking related fluids as routine maintenance.
+991|Channel sales|Selling products through partners such as resellers, distributors and agents, including recruiting, supporting and managing them.
+992|Character art|Creating the visual design and 3D or 2D artwork of characters for games, animation and other media.
+993|Chip design|Designing integrated circuits, from architecture and logic through layout and verification, for manufacture as chips.
+994|Choreography|Creating and arranging movement sequences for dance or stage performance and teaching them to performers.
+995|Civil engineering design|Designing infrastructure such as roads, bridges, drainage and structures, using engineering principles, codes and software.
+996|Claim processing|Reviewing, verifying and settling insurance or benefit claims according to policy terms and procedures.
+997|Claims modeling|Building statistical models of insurance claim frequency and severity to forecast losses and set reserves and prices.
+998|Client confidentiality|Keeping client information private and sharing it only as consent, law and professional rules allow.
+999|Clinical documentation improvement|Reviewing and querying clinical records so that documentation fully and accurately reflects patient conditions and care, supporting quality, coding and reimbursement.
+1000|Clinical laboratory phlebotomy|Collecting blood samples from patients by venipuncture or fingerstick for laboratory testing, with correct identification and handling.
+1001|Cloud-native development|Building applications designed for cloud environments, using containers, microservices, APIs and automation to scale and update quickly.
+1002|CNC programming|Writing the instructions, often in G-code or with CAM software, that direct computer-controlled machines to cut or shape parts.
+1003|Collaboration|Working jointly with others toward shared goals by sharing information, coordinating tasks and resolving differences.
+1004|Color matching|Adjusting the colors of paint, ink, fabric or other materials so that they match a target sample or standard.
+1005|Color, material and finish design|Selecting and specifying the colors, materials and surface finishes of products so that they look and feel right and can be produced.
++v|CMF design
+1006|Commercial loan documentation|Preparing and checking the legal documents of business loans, such as notes, security agreements and guarantees.
+1007|Communication|Exchanging information and ideas clearly through speaking, writing, listening and other means so that the audience understands.
+1008|Community advocacy|Speaking and acting on behalf of community needs and interests to influence decisions and resources.
+1009|Compiler development|Designing and building compilers or interpreters that translate programs from one language into another form, including parsing, optimization and code generation.
+1010|Complaint investigation|Gathering facts about a complaint, interviewing the people involved and reviewing evidence to determine what happened and what should be done.
+1012|Compliance risk management|Identifying, assessing and controlling the risks of breaking laws, regulations or internal policies, and monitoring those controls.
+1013|Computational design|Using algorithms and code to generate, explore and optimize designs, such as in architecture and product design.
+1014|Concision|Expressing ideas in as few words as will do the job, without losing clarity or needed detail.
+1015|Conducting tours|Guiding visitors around a site, collection or area while presenting information and keeping the group safe and engaged.
+1016|Constructing dental study casts|Pouring and trimming impressions of teeth in plaster or stone to make models used to study the bite and plan treatment.
+1017|Consumer engagement|Building ongoing interaction and relationships with consumers through content, offers, events and dialogue.
+1018|Content curation|Finding, selecting, organizing and presenting relevant content from various sources for a particular audience.
+1019|Contract review|Reading contracts closely to understand obligations, risks and gaps, and recommending changes before signing.
+1021|Copier troubleshooting|Diagnosing and fixing faults in copiers and multifunction printers, such as paper jams, print quality problems and mechanical failures.
+1022|Copywriting|Writing persuasive or informative text for advertising, marketing and other communications to prompt a response.
+1023|Coronal polishing|Cleaning the visible crown surfaces of teeth with a rubber cup and polishing paste to remove plaque and stains.
+1024|Corporate communications|Managing an organization's messages to employees, investors, media and the public to protect and promote its reputation.
+1025|Cost estimating|Predicting the cost of a project, product or service from its scope, quantities and unit prices.
+1026|Crane signaling|Using hand signals or radio to guide a crane operator in moving loads safely.
+1027|Creative arts therapy|Using art, music, dance or drama in therapy to help people express themselves and improve well-being.
+1028|Creative problem-solving|Finding new and useful solutions to problems by generating and testing ideas beyond the obvious.
+1029|Credit risk analysis|Assessing the likelihood that a borrower will default and the likely loss, using financial statements, credit data and models.
+1030|Crestron programming|Writing control programs for Crestron systems that operate audiovisual, lighting and building equipment in rooms.
+1031|Crime analysis|Studying crime data to find patterns, trends and links that help police prevent and solve crime.
+1032|Crime mapping|Plotting crime incidents on maps to show where and when they occur, to guide policing and prevention.
++r|part_of|Crime analysis
+1033|Crime scene investigation|Securing, documenting and collecting physical evidence at crime scenes while preserving its integrity.
+1034|Critical reflection|Examining one's own assumptions, actions and experiences to learn from them and improve practice.
+1036|Cross-platform app development|Building applications that run on more than one operating system, such as iOS and Android, from a shared code base using frameworks such as Flutter or React Native.
+1037|Cultural sensitivity|Recognizing and respecting cultural differences in values, communication and behavior when working with people.
+1038|Culture transformation|Leading deliberate change in an organization's shared values, norms and behaviors.
+1039|Curriculum evaluation|Judging how well a curriculum meets its goals, using evidence such as student outcomes, feedback and alignment to standards.
+1040|Curriculum planning|Deciding what students will learn and how it will be sequenced, taught and assessed over a course or program.
+1041|Customer engagement planning|Planning how and when to interact with customers across channels to build relationships and meet business goals.
+1042|Customer engagement strategy|Defining the long-term approach by which an organization builds relationships and loyalty with customers.
+1043|Customer experience strategy|Defining how an organization will design and improve the whole of customers' interactions with it, to meet its goals.
+1044|Customer insight|Understanding customers' needs, behaviors and motivations from data and research, and turning that understanding into action.
+1045|Customer success|Helping customers achieve their goals with a product or service so that they stay and grow, through onboarding, support and regular reviews.
+1046|Cutover planning and management|Planning and running the switch from an old system to a new one, including sequencing, testing, communication and rollback.
+1047|Cyber defense|Protecting networks and systems from attack by monitoring, detecting, responding to and recovering from threats.
+1048|Cyber engineering|Designing and building secure and resilient systems, including hardware, software and networks, to withstand cyber threats.
+1049|Cyber threat hunting|Proactively searching networks and systems for signs of attackers that automated defenses have missed.
+1050|Cyber threat intelligence|Collecting and analyzing information about cyber attackers, their methods and targets to help organizations anticipate and defend against them.
+1051|Cybersecurity compliance|Making sure an organization's security controls meet required laws, standards and contracts, and documenting evidence for auditors.
+1052|Data center cooling|Designing and operating the systems that remove heat from data center equipment, such as air handlers, chillers and containment.
+1053|Data center design|Planning the physical and technical layout of data centers, including power, cooling, space, networking and redundancy.
+1054|Data center facility management|Operating and maintaining the buildings and supporting infrastructure of data centers, including power, cooling, safety and capacity.
+1055|Data center operations|Running day-to-day activities in a data center, including monitoring, installing equipment, handling incidents and maintaining uptime.
+1056|Data classification|Labeling data by sensitivity or type, such as public, internal or confidential, so that it is protected and handled correctly.
+1057|Data engineering|Building and maintaining the pipelines and systems that collect, store and prepare data for analysis.
+1058|Data entry (alphanumeric)|Typing text and mixed letters and numbers into computer systems quickly and accurately.
+1059|Data entry (numeric)|Keying in numbers quickly and accurately, as with a numeric keypad.
+1060|Data modeling|Defining the entities, attributes and relationships of data so that it can be organized in databases and understood by users.
+1061|Data provenance|Recording and tracing where data came from and how it has been changed, to establish trust and reproducibility.
+1062|Data validation|Checking that data is correct, complete and in the expected format before it is used or stored.
+1063|Data visualization|Presenting data in charts, graphs and dashboards so that patterns and findings are clear to an audience.
+1064|Data warehouse management|Running a data warehouse, including loading data, managing storage and performance, and keeping data accurate and available.
+1065|Data wrangling|Cleaning, reshaping and combining raw data from various sources into a form ready for analysis.
+1066|Data-driven decision-making|Basing choices on analysis of relevant data rather than on intuition or habit alone.
+1067|Database administration|Installing, configuring, securing, tuning and backing up databases so that they are available and perform well.
+1068|Database design|Planning the structure of a database, including tables, keys, relationships and constraints, to store data efficiently and accurately.
+1069|Deal shaping|Structuring the terms of a sales or business deal so that it works for both sides and meets company requirements.
+1070|Dealing with enquiries|Responding to questions and requests from customers or the public by finding information or directing them to the right place.
+1071|Deboning|Removing bones from meat, poultry or fish with knives while keeping yield high and the meat intact.
+1072|Deburring|Removing sharp edges and small projections left on a workpiece after machining or cutting.
+1073|Decorating|Making rooms, objects or events look attractive with paint, furnishings, fabrics and ornaments.
+1074|Defensive tactics|Using physical techniques to protect oneself or control a subject safely, taught to security and law enforcement staff.
+1075|Deflashing|Removing the excess material, called flash, left at mold seams on molded parts.
+1076|Demolition|Safely tearing down buildings or structures using planned methods, equipment and hazard controls.
+1077|Dental plaque removal|Removing plaque and calculus from teeth with hand and powered instruments as part of dental hygiene care.
+1078|Dental records|Creating and maintaining patient records for dental care, including charts, treatments and images, accurately and confidentially.
+1079|Design consultation|Meeting with clients to understand their needs and advising on design choices.
+1080|Design documentation|Recording design decisions, specifications and drawings so that a design can be built, reviewed and maintained.
+1081|Desktop management|Administering users' desktop computers, including setup, software deployment, updates and support.
+1082|Deviation investigation|Investigating departures from approved procedures or specifications, finding the cause and recommending corrective action, as in regulated manufacturing.
+1083|Diagnostic analysis|Examining symptoms, data or test results to determine the cause of a problem or condition.
+1084|Dictation|Speaking text aloud to be written down, or transcribing spoken text accurately.
+1085|Digital accessibility|Designing and testing websites, apps and documents so that people with disabilities can use them, following guidelines such as WCAG.
+1086|Digital advertising|Planning, buying and optimizing ads on search, social and other online channels.
+1087|Digital communications|Creating and managing messages sent over digital channels such as email, social media and websites.
+1088|Digital customer strategy|Planning how an organization will attract, serve and keep customers through digital channels and tools.
+1089|Digital fluency|Using digital tools and information confidently and appropriately to learn, communicate and work.
+1090|Digital journalism|Reporting, writing and publishing news for online platforms, including multimedia and audience engagement.
+1091|Digital merchandising|Selecting, arranging and promoting products on e-commerce sites to drive sales.
+1092|Digital skills|The ability to use computers, software and online services effectively for everyday and work tasks.
+1093|Discipleship|Guiding people in growing in their religious faith through teaching, mentoring and practice.
+1094|Dispute management|Handling disagreements, such as customer or contractual disputes, through investigation, negotiation and resolution.
+1095|Document exploitation|Examining captured documents and media to extract intelligence in military and security settings.
+1096|Driving|Operating a motor vehicle safely and legally on roads.
+1097|Drywall installation and repair|Hanging, taping, finishing and repairing gypsum board walls and ceilings.
+1098|E-marketing|Promoting products and services through electronic channels such as the web, email and social media.
+1099|Educational therapy|Providing individualized intervention for learning differences, building skills in areas such as reading, writing and study strategies.
+1100|Electrical diagnostics and repair|Finding and fixing faults in electrical systems and components using test equipment and wiring diagrams.
+1101|Electrical wiring|Installing and connecting electrical conductors, outlets and devices following code and safety rules.
+1102|Electronic prescribing|Sending prescriptions directly to pharmacies from a computer system, with checks for allergies, interactions and security requirements.
+1103|Electronic publishing|Producing and distributing books, journals and other content in digital formats such as e-books and online articles.
+1104|Email etiquette|Writing and replying to email in a clear, courteous and professional way suited to the audience.
+1105|Embalming|Preserving and preparing a deceased person's body for viewing and burial using chemical and cosmetic techniques.
+1106|Embroidery machine operation|Setting up and running machines that stitch designs onto fabric, including loading designs, threading and checking quality.
+1107|Emergency vehicle operations|Driving ambulances, fire apparatus or police vehicles safely and quickly in emergencies, following legal and training standards.
+1108|Emission calculations|Estimating the amount of pollutants or greenhouse gases released by an activity or facility, using emission factors and activity data.
+1109|Employee relations|Managing the relationship between employer and employees, including communication, conflict resolution and policy application.
+1110|Employee relations investigations|Fact-finding and reporting on workplace complaints such as harassment or policy violations, in a fair and documented way.
++r|part_of|Employee relations

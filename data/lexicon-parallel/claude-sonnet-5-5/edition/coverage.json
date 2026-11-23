@@ -1,0 +1,112 @@
+{
+  "edition": "skills-lexicon-claude-sonnet-5-5",
+  "model_label": "Claude Sonnet 5.5",
+  "pinned_commit": "91312fec957388afe4d1dfbdb4aff2707588b9a1",
+  "total": 2895,
+  "drafted": 2895,
+  "pending": 0,
+  "per_class": {
+    "ability": {
+      "total": 67,
+      "drafted": 67,
+      "pending": 0
+    },
+    "language": {
+      "total": 290,
+      "drafted": 290,
+      "pending": 0
+    },
+    "knowledge": {
+      "total": 550,
+      "drafted": 550,
+      "pending": 0
+    },
+    "skill": {
+      "total": 1988,
+      "drafted": 1988,
+      "pending": 0
+    }
+  },
+  "per_kind": {
+    "ability": {
+      "total": 67,
+      "drafted": 67,
+      "pending": 0
+    },
+    "human-language": {
+      "total": 158,
+      "drafted": 158,
+      "pending": 0
+    },
+    "programming-language": {
+      "total": 112,
+      "drafted": 112,
+      "pending": 0
+    },
+    "markup-language": {
+      "total": 10,
+      "drafted": 10,
+      "pending": 0
+    },
+    "style-language": {
+      "total": 3,
+      "drafted": 3,
+      "pending": 0
+    },
+    "modeling-language": {
+      "total": 7,
+      "drafted": 7,
+      "pending": 0
+    },
+    "knowledge": {
+      "total": 550,
+      "drafted": 550,
+      "pending": 0
+    },
+    "skill": {
+      "total": 723,
+      "drafted": 723,
+      "pending": 0
+    },
+    "method": {
+      "total": 219,
+      "drafted": 219,
+      "pending": 0
+    },
+    "standard": {
+      "total": 115,
+      "drafted": 115,
+      "pending": 0
+    },
+    "tool": {
+      "total": 498,
+      "drafted": 498,
+      "pending": 0
+    },
+    "platform": {
+      "total": 219,
+      "drafted": 219,
+      "pending": 0
+    },
+    "library": {
+      "total": 129,
+      "drafted": 129,
+      "pending": 0
+    },
+    "framework": {
+      "total": 85,
+      "drafted": 85,
+      "pending": 0
+    }
+  },
+  "definition_basis": {
+    "model_knowledge": 2775,
+    "source": 120
+  },
+  "entries_with_variants": 312,
+  "entries_with_relations": 203,
+  "entries_with_flags": 80,
+  "variant_records": 324,
+  "relation_records": 207,
+  "flag_records": 80
+}

@@ -1,0 +1,293 @@
+# batch 009: skills Treatment planning..Youth mentoring (n=1574..1630) and methods 4D modeling..Sales and operations planning (n=1631..1805)
+1574|Treatment planning|Deciding the sequence of treatments, goals and resources for a patient's care, for example in dentistry, oncology or therapy.
+1576|TV production|Making television programs through planning, shooting, directing, editing and delivery.
+1577|Twitter advertising|Planning and running paid campaigns on Twitter, now X, including targeting and creative.
+1578|Twitter marketing|Using Twitter, now X, organically and through ads to reach and engage audiences for a brand.
++r|related|Twitter advertising
+1579|Typography|Choosing and arranging typefaces, size, spacing and layout so that text is legible and expressive.
+1580|Unified endpoint management|Managing laptops, phones, tablets and other devices from one platform, with policies for configuration, security and apps.
++v|UEM
++r|related|Endpoint management
+1581|User experience design|Designing products around how people use them, through user research, flows, prototypes and testing.
++v|UX design
+1582|User interface design|Designing the visual layout and controls through which users operate a product.
++v|UI design
+1583|UX writing|Writing the words in an interface, such as labels, messages and instructions, so that users can complete tasks easily.
+1584|Validation protocols|Writing and executing documented plans that prove processes, equipment or systems consistently work as intended in regulated industries.
+1585|Valuation of options|Calculating the fair value of options using models such as Black-Scholes and binomial trees.
+1586|Value proposition|Stating clearly what benefit a product or service gives customers and why it is better than the alternatives.
+1587|Variance analysis|Comparing actual results with budgets or standards and explaining the differences.
+1588|Vehicle inspection|Examining vehicles for safety, mechanical condition and regulatory compliance.
+1589|Vehicle maintenance|Servicing and repairing vehicles on schedule to keep them safe and working.
+1590|Vendor management|Selecting, contracting, monitoring and improving the performance of suppliers.
+1591|Vendor payments|Processing and tracking payments to suppliers accurately and on time.
+1592|Ventilator management|Setting, monitoring and adjusting mechanical ventilators for patients who cannot breathe adequately.
+1593|Verbal and physical intervention|Using de-escalation language and approved physical holds to manage aggressive or unsafe behavior safely.
+1594|Vestibular rehabilitation|Treating dizziness and balance problems through exercises that retrain the inner ear and brain.
+1595|Video advertising|Creating, placing and measuring advertising delivered as video on television and online platforms.
+1596|Video marketing|Using video content to promote a brand, product or message and engage audiences.
++r|related|Video advertising
+1597|Video remote interpreting|Providing interpretation, often for sign language or other languages, through a live video link.
+1598|Video-assisted thoracoscopic surgery|Performing chest surgery through small incisions with a camera and instruments, as an alternative to open surgery.
++v|VATS
+1599|Videoconferencing|Running and taking part in live online meetings with audio and video, including setup and facilitation.
+1600|Vision rehabilitation|Helping people with vision loss regain independence through training, adaptive techniques and devices.
+1601|Visual storytelling|Communicating narratives and ideas through images, video and design.
+1602|Vocational rehabilitation counseling|Helping people with disabilities prepare for, find and keep suitable work.
+1603|Voice UI design|Designing spoken interactions for voice assistants and speech systems, including dialogue flows and prompts.
+1604|Vulnerability assessment|Scanning and analyzing systems or facilities to find weaknesses that could be exploited, and rating their risk.
+1605|Wainscot panelling|Installing decorative wood paneling on the lower part of interior walls.
+1606|Waste characterisation|Determining the composition and hazards of waste for correct handling, treatment and disposal.
+1607|Watchkeeping|Standing duty on a ship's bridge or in the engine room to navigate, monitor and respond safely.
+1608|Water-based pipe coating|Applying water-based protective coatings to pipes to prevent corrosion, with lower solvent emissions.
+1609|Web crawling|Writing or using programs that systematically browse and collect pages from websites.
+1610|Web development|Building websites and web applications, including front-end pages and back-end functions.
+1611|Website optimization|Improving a website's speed, search visibility, usability and conversion.
+1612|Website wireframing|Drawing basic layouts of web pages to plan structure and functionality before visual design.
+1613|Weed control|Preventing or removing unwanted plants in crops, lawns or landscapes using methods such as herbicides, cultivation and mowing.
+1614|Wi-Fi test engineering|Testing wireless devices and networks for performance, interoperability and compliance, using test equipment and protocols.
+1615|Wildlife observation|Watching and recording wild animals and their behavior in the field for research or monitoring.
+1616|Will and testament preparation|Drafting wills that state how a person's property will be distributed, following legal formalities.
+1617|Windows software development|Writing applications for Microsoft Windows using its APIs, frameworks and tools.
+1618|Windows support|Helping users troubleshoot and fix problems with Windows computers.
+1619|Windows systems administration|Installing, configuring, securing and maintaining Windows servers and networks, including Active Directory.
+1620|Winemaking|Producing wine from grapes through harvest, fermentation, aging and bottling.
+1621|Word processing|Creating, editing and formatting text documents using software such as Microsoft Word.
+1622|Word VBA|Writing Visual Basic for Applications macros that automate tasks in Microsoft Word.
++r|broader|Visual Basic for Applications
+1623|Workers' compensation claims|Handling claims for workplace injury or illness benefits, from filing and investigation to payment and return to work.
+1624|Workflow automation|Using software to carry out repeatable steps and approvals in a business process without manual effort.
+1625|Workflow management|Designing, coordinating and monitoring the flow of tasks and approvals through a process.
++r|related|Workflow automation
+1626|Workforce optimisation|Matching staffing levels and skills to demand through forecasting, scheduling and performance management.
+1627|Working with children aged 0-5|Caring for and teaching infants, toddlers and preschoolers in ways suited to their development.
+1629|Writing outlines|Organizing the main points and structure of a piece of writing before drafting it.
+1630|Youth mentoring|Offering guidance and support to young people over time to help them grow personally and academically.
+1631|4D modeling (construction)|Linking a 3D building model to the construction schedule so that the build sequence can be visualized and checked over time.
+1632|50% tissue culture infectious dose (TCID50)|A laboratory method for measuring virus titer as the dilution at which half of the inoculated cell cultures become infected.
+1633|Accelerated failure time models|Survival analysis models that describe how covariates speed up or slow down the time to an event such as failure or death.
+1634|Acceptance and Commitment Therapy|A form of psychotherapy that helps people accept difficult thoughts and feelings and act in line with their values.
++v|ACT
+1635|Accounting cycle|The sequence of steps from recording transactions through adjusting entries to financial statements and closing the books each period.
+1636|Activated sludge|A wastewater treatment process that uses aerated suspensions of microorganisms to break down organic pollutants.
+1637|AdaBoost|A machine learning method that combines many weak classifiers, reweighting the examples they get wrong, to form a strong classifier.
+1638|Adaptive leadership|A framework developed by Ronald Heifetz that guides leaders in helping groups adapt to challenges without routine solutions by distinguishing technical from adaptive problems.
+1639|ADDIE model|An instructional design process with the phases Analysis, Design, Development, Implementation and Evaluation.
+1640|Additive manufacturing|Making objects by adding material layer by layer from a digital model, as in 3D printing.
+1641|Adjudication process|The formal steps by which a dispute or claim is heard and decided by a neutral party or agency.
+1642|Agile software development|An iterative approach to building software in short cycles with continuous feedback and collaboration, using practices such as Scrum and Kanban.
++v|Agile
+1643|AI guardrails|Controls such as filters, rules and monitoring that keep AI systems within safe, intended behavior.
+1644|Ajax|A web technique that uses asynchronous JavaScript requests to update parts of a page without reloading it.
++r|related|JavaScript
+1645|Alternative dispute resolution|Ways of resolving disputes outside court, such as mediation and arbitration.
++v|ADR
+1646|Aluminium smelting|Producing aluminium metal from alumina by electrolysis in a molten cryolite bath, known as the Hall-Héroult process.
+1647|Analysis of variance|A statistical method that compares means across groups by analyzing the variance within and between them.
++v|ANOVA
+1648|Applied element method|A numerical method for structural analysis that models structures as small elements connected by springs, used to simulate large deformation and collapse.
+1649|Async/await|A programming pattern that lets asynchronous code be written in a sequential style, waiting for results without blocking.
+1650|Atomic layer deposition|A thin-film method that builds layers one atomic layer at a time through self-limiting surface reactions, used in semiconductor manufacturing.
++v|ALD
+1651|Autoregressive integrated moving average|A statistical time-series model that forecasts future values from past values and past errors after differencing.
++v|ARIMA
+1652|Bacterial culture|Growing bacteria on or in nutrient media to identify and study them or test their susceptibility.
+1653|Behavior change communication|Using planned messages and engagement to influence people's knowledge, attitudes and practices, as in public health campaigns.
+1654|Benefits realisation management|Planning, tracking and ensuring that the intended benefits of projects or programs are actually achieved.
+1655|Blended learning|Combining online learning with face-to-face teaching in a planned way.
+1656|BODYATTACK|A Les Mills group fitness program of high-intensity, athletic cardio workouts set to music.
+1657|BODYPUMP|A Les Mills group fitness program of barbell-based strength training set to music.
+1658|Boolean search|Searching databases or the web with AND, OR and NOT operators to combine and filter terms precisely.
+1659|Brute-force search|Solving a problem by systematically trying all possible candidates until one works.
+1660|Burndown chart|A chart showing the work remaining against time in a project or sprint, used by agile teams to track progress.
+1661|Business excellence|A management approach that uses frameworks such as the EFQM Model or the Baldrige criteria to improve organizational performance.
+1662|Call admission control|A telecom and network technique that decides whether to accept a new call or connection based on available capacity and quality.
+1663|Camera calibration|Determining a camera's internal and external parameters so that images can be used for accurate measurement and 3D reconstruction.
+1664|Case method|A teaching approach in which students analyze and discuss real or realistic cases to learn principles and develop judgment.
+1665|Chain of custody|Documenting every transfer and handling of evidence or samples to show that they have not been tampered with.
+1666|Clash detection|Checking combined building models for conflicts between systems, such as pipes crossing beams, before construction.
+1667|Classification and Regression Tree|A decision tree algorithm that splits data into groups by simple rules to predict categories or numbers.
++v|CART
+1668|Collaborative Planning, Forecasting and Replenishment|A supply chain approach in which trading partners share forecasts and plans to align supply with demand.
++v|CPFR
+1669|Commissioning, qualification and validation|A set of verification activities in regulated industries that prove facilities, equipment and processes are installed and performing as required.
++v|CQV
+1670|Compliance testing|Checking that systems, products or processes meet required laws, standards or policies.
+1671|Composite pattern|An object-oriented design pattern that treats individual objects and groups of objects uniformly through a tree structure.
+1672|Computer-assisted audit tools and techniques (CAATTs)|Using software to analyze and test large volumes of data during audits.
++v|CAATs
+1673|Computerized system validation|Documented evidence that a computer system in a regulated setting consistently does what it is intended to do.
++v|CSV
+1674|Concurrent engineering|Designing a product and its manufacturing process at the same time with cross-functional teams to shorten development.
+1675|Cone penetration testing|A soil investigation in which a cone is pushed into the ground to measure resistance and profile soil layers.
++v|CPT
+1676|Confocal microscopy|An imaging technique that uses a pinhole to block out-of-focus light so that sharp optical sections of a specimen can be captured.
+1677|Consensus decision-making|A group process aimed at reaching an agreement that everyone can support, not just a majority.
++r|related|Group decision-making
+1678|Constituent relationship management|Managing relationships with constituents such as donors and members, often through CRM systems.
+1679|Contact tracing|Identifying and notifying people who were in contact with an infected person to limit the spread of disease.
+1680|Contingency planning|Preparing in advance for possible disruptions with alternative responses.
+1681|Continued process verification|Ongoing monitoring of a manufacturing process after validation to confirm that it remains in control.
+1682|Continuous passive motion|Using a machine to move a joint gently through a range of motion without effort by the patient, as in rehabilitation after surgery.
+1683|Contour plowing|Plowing along the contour lines of a slope to reduce soil erosion and runoff.
+1684|Cost to serve|Calculating the full cost of serving a customer or channel, including handling, delivery and support.
+1685|Critical path method|A project scheduling technique that finds the longest sequence of dependent tasks, which determines the shortest project duration.
++v|CPM
+1686|Critical test results management|Procedures to quickly report and act on laboratory or imaging results that signal serious risk to patients.
+1687|Cured-in-place pipe|A trenchless method of rehabilitating pipes by inserting a resin-saturated liner that hardens to form a new pipe.
++v|CIPP
+1688|Data deduplication|Eliminating duplicate copies of data to save storage or clean data sets.
+1689|Data pipeline|An automated series of steps that move and transform data from sources to destinations.
+1690|Data Vault modeling|A data warehouse modeling method that uses hubs, links and satellites to store historical data flexibly.
+1691|Data-driven instruction|Using assessment data to guide what teachers teach and how.
+1692|Data-driven manufacturing|Using data from machines and processes to monitor, analyze and improve production.
+1693|Database mirroring|Keeping a copy of a database on a second server, synchronized continuously, to provide failover.
+1694|Deep learning|Machine learning using multi-layered neural networks to learn from large amounts of data, used in vision, language and speech.
++r|broader|Machine learning
+1695|Delivery pipeline|The automated sequence of build, test and deployment steps that moves code changes to production.
+1696|Design for manufacturability|Designing products so that they are easy and cheap to make, considering production processes from the start.
++v|DFM
+1697|Design of experiments|Planning experiments that vary several factors at once so that their effects can be determined efficiently by statistics.
++v|DOE
+1698|Design review|A structured evaluation of a design by peers or stakeholders to find problems before building.
+1699|Design validation|Confirming through testing that a finished design meets users' needs and intended use.
+1700|Deterministic methods|Computational or analytical approaches that always give the same result for the same input, without randomness.
+1701|Developmentally appropriate practice|Teaching methods in early childhood education matched to children's age, individual needs and cultural context.
+1702|Deviation management|Documenting, investigating and resolving departures from approved procedures in regulated operations.
+1703|DevOps|A set of practices and a culture that combine development and operations to build, test and release software quickly and reliably.
+1704|DevSecOps|DevOps with security built into every stage of development and delivery.
++r|broader|DevOps
+1705|Digital transformation|Using digital technologies to change how an organization operates and delivers value.
+1706|Dijkstra's algorithm|A graph algorithm that finds shortest paths from a source node to all others in a graph with non-negative edge weights.
+1707|Distance learning|Teaching and learning with students and instructors in different places, using online or mail-based materials.
+1708|Divide and conquer|An algorithm design method that splits a problem into smaller parts, solves them and combines the results.
+1709|DoD Information Assurance Certification and Accreditation Process|The former U.S. Department of Defense process for certifying and accrediting the security of information systems, replaced by the Risk Management Framework.
++v|DIACAP
+1710|Dried blood spot|Collecting blood on filter paper and drying it for storage, transport and laboratory testing.
+1711|Dry needling|A technique in which thin needles are inserted into muscle trigger points to relieve pain and tightness.
+1712|Dynamic cycle counting|Counting inventory in small, frequent, targeted samples rather than all at once, often triggered by events.
+1713|Earned value management system|A project control method that integrates scope, schedule and cost to measure performance and forecast results.
++v|EVMS
+1714|Ecological study|An epidemiological study in which data are analyzed for groups or populations rather than individuals.
+1715|Econometric model|A statistical model that estimates economic relationships from data, used for testing theories and forecasting.
+1716|Eight Disciplines problem solving|A structured, team-based method for identifying, correcting and preventing recurring problems.
++v|8D
+1717|Electrosurgery|Cutting or coagulating tissue using high-frequency electrical current.
+1718|Energy control procedures|Lockout and tagout procedures that isolate and de-energize equipment so that it cannot start during maintenance.
+1719|Ensemble methods|Machine learning approaches that combine multiple models to improve prediction accuracy.
++r|related|Random forest
+1720|Enterprise performance management|Processes and software for planning, budgeting, forecasting, consolidating and reporting an organization's performance.
++v|EPM
+1721|Entrepreneurial Operating System|A business management framework for small companies that uses tools for vision, data, issues and meetings.
++v|EOS
+1722|Environmental scanning|Systematically monitoring the external environment for trends and threats that may affect an organization.
+1723|Enzyme-linked immunosorbent assay|A laboratory test that uses antibodies and an enzyme reaction to detect and measure substances such as proteins or antibodies.
++v|ELISA
+1724|Extensive reading|A language learning approach of reading large amounts of easy, enjoyable text to build fluency.
+1725|Extract, transform, load|A data integration process that pulls data from sources, reshapes it and loads it into a target such as a data warehouse.
++v|ETL
+1726|Failure mode and effects analysis|A structured method for identifying how a product or process could fail, the effects of failure and ways to prevent it.
++v|FMEA
+1727|First article inspection|Verifying that the first item from a new production run meets all design and specification requirements.
++v|FAI
+1728|Flipped classroom|A teaching model in which students study content before class and use class time for active work.
+1729|Footprinting|Gathering information about a target system or organization as the first step in security assessments.
+1730|Fraud risk assessment|A structured review of where and how fraud could occur in an organization and how well controls address it.
+1731|Free body diagrams|Drawings that isolate a body and show all the forces acting on it, used in mechanics to set up equations.
+1732|Gait training|Therapy to help people learn or relearn to walk, using exercises, devices and feedback.
+1733|Gel electrophoresis of nucleic acids|Separating DNA or RNA fragments by size by moving them through a gel with an electric field.
+1734|Generalized linear model|A statistical modeling framework that extends linear regression to outcomes with non-normal distributions through link functions.
++v|GLM
+1735|GMP self-inspection|Internal audits by a manufacturer to check compliance with good manufacturing practice.
+1736|Graphical Evaluation and Review Technique|A network analysis method for modeling projects with probabilistic branching, loops and varied outcomes.
++v|GERT
+1737|Group decision-making|Processes by which a group chooses among options, such as voting, consensus or delegation.
+1738|Hazard Analysis and Critical Control Points|A systematic food safety method that identifies hazards and sets controls at critical points in the process.
++v|HACCP
+1739|Heatmap|A visualization that uses color intensity to show values across a matrix or map.
+1740|Hydraulic snubbing|Inserting pipe into an oil or gas well under pressure using a hydraulic unit, without killing the well.
+1741|Hydrological modelling|Using mathematical models to simulate water flow, rainfall-runoff and water balance in watersheds.
+1742|Image segmentation|Dividing an image into regions or objects, as in computer vision and medical imaging.
+1743|Incentive spirometry|Using a handheld device to encourage deep breathing after surgery or lung illness and to measure lung effort.
+1744|Information hiding|A design principle of concealing the internal details of a module behind a stable interface.
+1745|Intelligent automation|Combining robotic process automation with AI to automate more complex business processes.
+1746|Intensive outpatient therapy|A structured treatment program, usually for mental health or addiction, with several sessions per week and no overnight stays.
++v|IOP
+1747|k-means clustering|An unsupervised algorithm that groups data points into k clusters by repeatedly assigning points to the nearest cluster center.
+1748|Lean principles|Management ideas from the Toyota Production System that focus on creating value and eliminating waste.
+1749|LiDAR|A remote sensing method that measures distance with laser pulses to map surfaces and objects in 3D.
+1750|Listwise deletion|A way of handling missing data by dropping any record that has a missing value.
+1751|Logic diagrams|Diagrams that show logical relationships using gates such as AND and OR, in circuits or reasoning.
+1752|Long short-term memory|A type of recurrent neural network that learns long-range dependencies in sequences using gated memory cells.
++v|LSTM
+1753|Machine learning|Methods that let computers learn patterns from data to make predictions or decisions without being explicitly programmed for each case.
++v|ML
+1754|Mammalian cell culture|Growing cells from mammals in a laboratory under controlled conditions for research or production.
+1755|Mind mapping|Organizing ideas visually in a branching diagram around a central concept.
+1756|Model fine-tuning|Further training a pre-trained machine learning model on specific data to adapt it to a task.
++r|related|Machine learning
+1757|ModelOps|Practices and tools for deploying, monitoring and managing AI models in production.
+1758|Modern methods of construction|Building approaches such as off-site and modular construction that use factory production to improve speed and quality.
++v|MMC
+1759|Moist heat sterilization|Killing microorganisms with pressurized steam, as in an autoclave.
+1760|Molding|Shaping material by pouring or pressing it into a mold, as with plastics, metal or ceramics.
+1761|Molecular docking|A computational method that predicts how a small molecule binds to a protein, used in drug discovery.
+1762|Molecular modelling|Using computers to represent and simulate the structure and behavior of molecules.
+1763|Molisch's test|A chemical test for carbohydrates that gives a purple ring when the sample reacts with alpha-naphthol and sulfuric acid.
+1764|Motor control algorithms|Mathematical methods, such as field-oriented control, that regulate the speed, torque and position of electric motors.
+1765|Nagle's algorithm|A TCP technique that reduces the number of small packets by buffering data until an acknowledgment or a full packet is ready.
+1766|Naive Bayes|A simple probabilistic classifier that applies Bayes' theorem on the assumption that features are independent.
+1767|Natural language processing|Methods that let computers process, analyze and generate human language.
++va|NLP
+1768|Net Promoter Score|A customer loyalty metric from the 0 to 10 question of how likely customers are to recommend a company, computed as the percentage of promoters minus detractors.
++v|NPS
+1769|NIH Stroke Scale|A standardized 15-item clinical test used to assess stroke severity.
++v|NIHSS
+1770|Object-oriented design|Designing software as interacting objects with defined responsibilities, using principles such as encapsulation and inheritance.
++v|OOD
+1771|Object-oriented programming|A programming style that organizes code into objects combining data and behavior.
++v|OOP
+1772|Parallel computing|Carrying out many calculations at the same time on multiple processors to solve problems faster.
+1773|Permit to work|A formal system that authorizes and controls hazardous work through written permits and checks.
+1774|Personalization|Tailoring content, products or experiences to individual users based on their data.
+1775|PEST analysis|A framework for scanning the political, economic, social and technological factors affecting an organization.
+1776|Physical modelling synthesis|A method of generating sound by computing the physics of an instrument or acoustic system.
+1777|Physical vapor deposition|A family of vacuum coating processes that vaporize a material and deposit it as a thin film on a surface.
++v|PVD
+1778|Pilates|A system of low-impact exercises developed by Joseph Pilates that builds core strength, flexibility and posture.
+1779|Pipeline pigging|Sending devices called pigs through pipelines to clean, inspect or separate products.
+1780|Postorder traversal|A tree traversal method that visits the left and right subtrees before the node itself.
+1781|Predictive modelling|Building statistical or machine learning models that forecast future outcomes from historical data.
+1782|PRINCE2|A structured project management method that defines processes, roles and themes, used widely in the UK and elsewhere.
+1783|Privacy impact assessment|A process for identifying and reducing the privacy risks of a project or system that handles personal data.
++v|PIA
+1784|Process hazard analysis|A systematic review of the hazards in chemical or industrial processes and the safeguards against them.
++v|PHA
+1785|Product benchmarking|Comparing a product's features, performance and cost against competitors or standards.
+1786|Project benchmarking|Comparing a project's performance, cost and schedule with similar projects or standards.
+1787|Prompt engineering|Designing and refining the instructions given to generative AI models to get reliable, useful outputs.
+1788|Protein structure prediction|Computing the three-dimensional shape of a protein from its amino acid sequence.
+1789|Protocol-oriented programming|A programming paradigm centered on protocols, or interfaces, rather than class inheritance, associated with Swift.
+1790|Prototyping|Building early, simplified versions of a product to test ideas and gather feedback.
+1791|Random forest|A machine learning method that combines many decision trees trained on random samples to improve accuracy.
+1792|Random testing|Testing software with randomly generated inputs to find defects.
+1793|Randomization|Assigning subjects or treatments by chance to avoid bias, as in experiments and clinical trials.
+1794|Ray tracing|A rendering technique that simulates light paths through a scene to produce realistic images.
+1795|Red teaming|Simulating adversary attacks on an organization or system to test its defenses and find weaknesses.
+1796|Reduction (complexity)|Transforming one problem into another to show how their difficulty relates, used in computational complexity theory.
+1797|Reinforcement learning|Machine learning in which an agent learns by trial and error to maximize rewards.
++r|related|Machine learning
+1798|Representational State Transfer|An architectural style for web APIs that uses standard HTTP methods on resources identified by URLs.
++v|REST
+1799|Responsibility assignment matrix|A chart that shows who is responsible, accountable, consulted and informed for each task.
++v|RACI matrix
+1800|Restorative justice|An approach to wrongdoing that focuses on repairing harm through dialogue among victims, offenders and communities.
+1801|Retrieval-augmented generation|A technique that supplies a language model with relevant documents retrieved at query time to ground its answers.
++v|RAG
+1802|Ribosomal intergenic spacer analysis|A molecular fingerprinting method that compares the lengths of ribosomal DNA spacer regions to profile microbial communities.
++v|RISA
+1803|Risk exposure assessment|Estimating how much people, assets or an organization are exposed to a hazard and the likely consequences.
+1804|Role-based access control|A security approach that grants system permissions according to users' roles.
++v|RBAC
+1805|Sales and operations planning|A recurring management process that aligns demand, supply and financial plans.
++v|S&OP

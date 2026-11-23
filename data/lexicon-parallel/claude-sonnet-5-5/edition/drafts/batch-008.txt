@@ -1,0 +1,246 @@
+# batch 008: skills Multi-core programming..Travel coordination (n=1337..1573)
+1337|Multi-core programming|Writing software that uses multiple processor cores in parallel, with threads, synchronization and awareness of memory and cache behavior.
+1338|Multi-device design|Designing digital products to work well across phones, tablets, desktops and other screens.
+1339|Multichannel marketing|Reaching customers through several channels, such as email, web, retail and social media, and coordinating the messages.
+1340|Music instruction|Teaching people to play instruments, sing or understand music.
+1341|Nasotracheal suctioning|Clearing airway secretions by passing a suction catheter through the nose into the trachea, using sterile technique and monitoring the patient.
+1342|Needle localization|Placing a needle or wire under imaging guidance to mark a lesion for surgical removal, as in breast biopsy.
+1344|Neonatal intensive care nursing|Caring for critically ill or premature newborns in a neonatal intensive care unit, including monitoring, feeding, equipment and family support.
+1345|Nonverbal communication|Conveying and interpreting messages through facial expression, gesture, posture, tone and eye contact.
+1346|Nutrition care planning|Setting nutrition goals and interventions for a patient or client based on assessment, and planning how to monitor progress.
+1347|Nutrition consulting|Advising individuals or organizations on diet and eating habits to meet health goals.
+1348|Nutrition diagnosis|Identifying and labeling a nutrition problem, its cause and its signs in a standard format as part of the nutrition care process.
+1349|Nutrition intervention|Carrying out planned actions, such as diet changes, education or supplements, to resolve a nutrition problem.
+1350|Nutritional assessment|Evaluating a person's diet, measurements, laboratory data and clinical status to determine nutritional status and needs.
+1351|Nutritional screening|A quick check to identify people who are malnourished or at nutritional risk and need a full assessment.
++r|related|Nutritional assessment
+1352|Observability|Instrumenting systems with metrics, logs and traces so that engineers can understand their internal state and diagnose problems.
+1353|Onboarding|Welcoming and orienting new employees, customers or users so that they become effective quickly, through orientation, training and setup.
+1354|Oncology sales|Selling cancer drugs, tests or devices to oncologists and cancer centers, with detailed clinical and reimbursement knowledge.
+1355|Online demonstration|Showing a product's features to prospects over the web through screen sharing and live walkthroughs.
+1357|Operational risk mitigation|Reducing the likelihood and impact of losses from failed processes, people, systems or external events.
+1358|Operationalizing AI|Moving AI models from experiments into reliable production use, including deployment, monitoring and integration into business processes.
+1360|Operations analytics|Using data analysis to understand and improve operational processes such as throughput, cost and quality.
+1362|Ophthalmic surgical assisting|Assisting eye surgeons by preparing instruments, the patient and the sterile field and handing instruments during procedures.
+1363|Oral cancer screening|Examining the mouth, lips and throat for signs of cancer or precancerous lesions and referring patients as needed.
+1364|Organizational culture change|Shifting an organization's shared beliefs and behaviors through leadership, communication and reinforcement.
+1365|Organizational leadership|Directing and inspiring people to achieve an organization's goals through vision, decision-making and development of others.
+1366|Orthopaedic nursing|Caring for patients with bone, joint and muscle conditions, such as before and after joint replacement and for fractures.
+1367|Over-the-road driving|Driving a truck over long distances between cities and states, managing hours of service, loads and trip planning.
+1368|Overhead cost analysis|Examining indirect costs such as rent and administration and how they are allocated to products or departments.
+1369|Overhead crane operation|Operating a bridge or gantry crane to lift and move loads in a plant or yard, using safe rigging and signals.
+1370|Packaging machine operation|Setting up, running and monitoring machines that fill, seal, wrap or label products, and clearing jams and checking quality.
+1371|Page layout|Arranging text, images and white space on a page or screen so that it reads well and looks organized.
+1372|Pallet building|Constructing pallets or stacking goods onto pallets so that loads are stable and shippable.
+1373|Patient coordination|Scheduling and organizing patients' appointments, tests and follow-up to keep care running smoothly.
+1374|Patient education|Teaching patients and families about conditions, treatments and self-care so that they can take part in their health care.
+1375|Patient transfer|Moving patients safely between bed, chair, stretcher or vehicle using proper technique and devices.
+1376|PDF conversion|Converting documents to or from PDF format while preserving content and layout.
+1377|PDF generation|Producing PDF files from data or templates with code or tools.
++r|related|PDF conversion
+1378|Pelvic floor rehabilitation|Treating pelvic floor weakness or dysfunction with exercises, biofeedback and manual therapy.
+1380|Pet insurance sales|Selling pet health insurance plans to pet owners, explaining coverage, costs and exclusions.
+1381|Pharmaceutical batch documentation|Completing and reviewing the batch records that document each step of drug manufacturing under good manufacturing practice.
+1382|Pharmacy operations|Running a pharmacy's day-to-day work, including dispensing, inventory, staffing and regulatory compliance.
+1383|Photo retouching|Editing photographs to correct flaws and improve appearance with software such as Photoshop.
+1384|Piano playing|Performing music on the piano using technique, reading notation and interpretation.
+1385|Pixel art|Creating images or animations at the level of individual pixels, as for games and icons.
+1386|Plant design|Designing the layout, equipment and piping of industrial facilities such as process or power plants.
+1387|Play therapy|Using play as a way for children to express feelings and work through problems, guided by a trained therapist.
+1388|Plumbing drawing|Creating or reading drawings that show the layout of pipes, fixtures and fittings in a building.
+1389|Plumbing plans examination|Reviewing plumbing designs for compliance with codes before permits are issued.
+1390|Policy analysis|Evaluating the effects, costs and trade-offs of policy options to advise decision makers.
+1391|Policy research and analysis|Gathering evidence and analyzing policy issues to inform and recommend decisions.
++r|related|Policy analysis
+1392|Positive airway pressure|Setting up and managing PAP therapy such as CPAP for sleep apnea, including mask fitting, pressure settings and patient coaching.
+1393|Power flow study|Calculating voltages, currents and power flows in an electrical network under given conditions to plan and operate the system.
++v|Load flow study
+1394|Power tool operation|Using hand-held and bench power tools such as drills and saws safely and accurately.
+1395|Powered industrial truck operation|Operating forklifts and similar trucks to move and stack loads safely, as OSHA training requires.
+1396|Pre-sales engineering|Providing technical expertise to sales teams, such as demonstrations, solution design and answers to technical questions, before a sale.
+1397|Presentation design|Designing slides and presentations that communicate ideas clearly and engagingly.
+1398|Preventive dental care|Helping patients prevent dental disease through cleanings, fluoride, sealants and oral hygiene instruction.
+1399|Price negotiation|Discussing and agreeing prices with buyers or suppliers to reach a deal that meets business goals.
+1400|Print design|Designing materials for print such as brochures, posters and packaging, with attention to color, layout and production.
+1401|Printed circuit board design|Laying out electronic circuits on boards by placing components and routing connections for manufacture.
++v|PCB design
+1402|Privileged access management|Controlling, monitoring and auditing the use of powerful accounts and credentials, such as administrator accounts, to reduce security risk.
++v|PAM
+1403|Probability calibration|Making probability estimates, or model outputs, match how often the events actually occur.
+1404|Problem solving|Identifying a problem, analyzing its causes and devising and carrying out effective solutions.
+1405|Process improvement|Analyzing and redesigning how work is done to raise quality, speed or efficiency and cut waste.
+1406|Process management|Defining, running, measuring and refining business or operational processes to meet goals.
++r|related|Process improvement
+1407|Process piping|Designing, fabricating and installing the pipework that carries fluids in industrial plants.
+1408|Product analysis|Examining a product's features, performance, market and users to find strengths, weaknesses and opportunities.
+1409|Product analytics|Using data on how people use a product to understand behavior and guide product decisions.
+1410|Product catalogue management|Creating and maintaining accurate product data, descriptions and pricing in a catalogue.
+1411|Product leadership|Setting the vision and direction for a product and guiding the teams that build and market it.
+1412|Product quality assurance|Checking products against specifications and standards so that defects are found and prevented before reaching customers.
+1413|Product requirements documentation|Writing documents that describe what a product should do, for whom and why, to guide design and development.
+1414|Product strategy|Deciding a product's target users, differentiation and roadmap to achieve business goals.
+1415|Production support|Keeping live systems or manufacturing operations running by fixing issues and answering user and operator problems.
+1416|Productivity management|Measuring and improving how efficiently people and processes turn effort into output.
+1417|Professionalism|Conducting oneself at work with reliability, courtesy, integrity and respect for ethical standards.
+1418|Profitability management|Monitoring and improving how much profit products, customers or business units generate.
+1419|Program evaluation|Systematically assessing how well a program meets its goals, using evidence.
+1420|Program optimization|Improving a program's performance or resource use, or improving a managed program of work, through measurement and refinement.
++f|sense_note|The label can mean tuning software performance or improving a managed program of projects; the sense is unspecified.
+1421|Programmatic media buying|Buying advertising automatically through software platforms that bid in real time on audiences and placements.
+1423|Project management|Planning, organizing and guiding work to deliver a project on time and within scope and budget.
+1424|Project scoping|Defining what a project will and will not include, with its deliverables, constraints and effort.
++r|part_of|Project management
+1425|Project status reporting|Communicating a project's progress, risks and issues to stakeholders in regular reports.
++r|part_of|Project management
+1426|Proofreading|Reading text carefully to find and correct errors in spelling, grammar, punctuation and formatting before publication.
+1427|Proposal development|Writing and assembling proposals that respond to a request and persuade a client or funder.
+1428|Proposal management|Coordinating the people, schedule and content needed to produce a winning proposal.
++r|related|Proposal development
+1429|Proposal strategy|Deciding the themes, pricing approach and win strategy that a proposal will use against competitors.
++r|related|Proposal management
+1430|Protein characterization|Determining the structure, purity, modifications and properties of proteins using laboratory techniques.
+1431|Punctuation|Using punctuation marks correctly so that written text is clear and well structured.
+1432|Python for data analysis|Using Python and libraries such as pandas and NumPy to clean, analyze and visualize data.
++r|related|Python
+1433|Qualitative data analysis|Analyzing non-numerical data such as interviews and text by coding it and identifying themes.
+1435|Rack elevation drawings|Drawing front views of equipment racks to show how devices are arranged in the rack.
+1437|Reading gauges|Reading dials and meters on equipment accurately to monitor pressure, temperature or flow.
+1438|Reading technical drawings|Interpreting engineering and construction drawings to understand dimensions, symbols and instructions.
+1439|Reading to children|Reading aloud with expression and interaction to build children's language, literacy and love of books.
+1440|Real estate market analysis|Studying property prices, supply, demand and trends to value properties and advise on buying, selling or investing.
+1441|Recruitment consulting|Advising employers on hiring needs and finding candidates for them, often at an agency.
+1442|Refrigerated transport|Moving temperature-sensitive goods in refrigerated vehicles while maintaining and documenting the right temperature.
+1443|Regulatory CMC|Preparing and managing the chemistry, manufacturing and controls sections of drug submissions to regulators.
+1444|Renewable energy sales|Selling solar, wind or other clean energy products and services to homes and businesses.
+1446|Reporting|Gathering, organizing and presenting information in written or data reports for decision makers.
+1447|Resilience planning|Planning how communities, organizations or systems will withstand and recover from disruptions.
+1448|Resolving guest concerns|Listening to guests' complaints and taking action to put things right in hospitality settings.
+1449|Resource mobilization|Securing and organizing money, people and materials for a cause or project.
+1450|Responsive teaching|Adjusting instruction in the moment based on learners' understanding and needs.
+1451|REST API security|Protecting REST APIs through authentication, authorization, input validation, rate limiting and secure transport.
++r|related|API design
+1452|Restaurant management|Running a restaurant's daily operations, staff, food costs, service quality and finances.
++r|broader|Hotel and restaurant management
+1453|Retirement administration|Administering retirement plans, including enrollment, contributions, distributions and compliance.
+1454|Return-to-work management|Coordinating the safe and timely return of employees after illness or injury, including accommodations and communication.
+1455|Revising legal documents|Editing contracts and other legal documents to improve clarity, accuracy and protection of a client's interests.
+1456|Rigging (computer animation)|Building the digital skeleton and controls that let animators pose and move 3D characters or objects.
+1457|Risk adjustment coding|Coding patient diagnoses so that they capture health conditions for risk-adjusted payment in health plans.
+1458|Risk aggregation|Combining individual risks across an organization or portfolio to understand total exposure.
+1459|Risk awareness|Recognizing potential hazards and threats and understanding their consequences in one's work.
+1460|Risk management|Identifying, assessing and responding to risks that could affect objectives.
+1461|Risk management planning|Defining how risks will be identified, assessed, responded to and monitored for a project or organization.
++r|part_of|Risk management
+1462|Roof bolting|Installing bolts in mine roofs to support them and prevent collapse.
+1463|Route management|Planning and overseeing delivery or service routes so that they are efficient and on time.
+1464|Safety audits|Inspecting workplaces and practices against safety standards to find hazards and recommend corrections.
+1465|Sailing instruction|Teaching people to sail, including handling boats, safety and navigation.
+1466|Sales presentation|Presenting a product or solution to prospects persuasively, tailored to their needs.
+1467|SAP technology consulting|Advising on and implementing the technical side of SAP systems, such as architecture, integration and basis administration.
+1468|Scaffold building|Erecting and dismantling temporary work platforms on construction sites according to safety rules.
+1469|Schematic diagrams|Creating and reading simplified diagrams that show how a circuit or system is connected.
+1470|School counseling|Supporting students' academic, career and personal development through guidance, counseling and referrals.
+1472|Scientific computing|Using computational methods and software to simulate, analyze and solve scientific problems.
+1473|Scope statement|Writing the document that defines a project's deliverables, boundaries and acceptance criteria.
++r|related|Project scoping
+1474|Screen design|Designing the layout and appearance of screens in apps, websites and systems.
+1475|Screening resumes|Reviewing resumes against job requirements to shortlist qualified candidates.
+1476|Script writing|Writing scripts for film, television, video, theater or games, including dialogue and action.
+1477|Seamanship|The skills of operating and caring for boats and ships, such as handling lines, anchoring and following the rules of the road.
+1478|Seating guests|Welcoming guests and showing them to tables or seats in a restaurant or venue.
+1479|Section drawings|Creating or reading drawings that show a building or object as if cut through to reveal its internal structure.
+1480|Secure coding|Writing software that avoids vulnerabilities such as injection and buffer overflows, following secure development practices.
+1481|Security management|Directing an organization's protection of people, information and assets, including policies, teams and risk.
+1482|Security operations|Monitoring, detecting and responding to security events in an organization's systems and facilities.
+1483|Service desk|Providing first-line support to users who report problems or requests, logging, triaging and resolving them.
+1484|Service level requirement|Defining and agreeing measurable targets for the level of service a provider must deliver.
+1486|Sex therapy|Helping individuals and couples address sexual concerns through counseling and education, as a trained therapist.
+1487|Shaolin kung fu|Practicing or teaching the Chinese martial art tradition associated with the Shaolin Temple, including forms, conditioning and philosophy.
+1488|Ship handling|Maneuvering a vessel safely, especially in confined waters and when berthing.
+1489|Shipping and receiving|Preparing outgoing orders and checking, logging and storing incoming deliveries.
+1490|Shipping management|Overseeing the transport and delivery of goods, including carriers, costs, documentation and schedules.
+1491|Shoulder surgery|Surgical treatment of shoulder injuries and diseases, such as rotator cuff repair and joint replacement.
+1492|Shower installation|Installing shower units, fixtures and plumbing, including waterproofing and drainage.
+1493|Shrink wrapping|Wrapping products in plastic film that shrinks tight when heated, for packaging or protection.
+1494|Shuttle car operation|Operating the electric vehicle that moves coal from the mining machine to the conveyor in underground mines.
+1495|Simple interrupted suture|Closing a wound with individual stitches, each tied separately, the most common basic suturing technique.
++r|part_of|Surgical suturing
+1496|Site reliability engineering|Applying software engineering to operations so that systems stay available, scalable and efficient, using automation, monitoring and error budgets.
++v|SRE
+1497|Skip tracing|Locating people who have moved or are avoiding contact, such as debtors, using records and databases.
+1498|Smartphone operation|Using a smartphone's features and apps effectively for communication and tasks.
+1499|Social media advertising|Planning and running paid campaigns on social platforms, including targeting, creative and measurement.
+1500|Social media analytics|Measuring and interpreting engagement and audience data from social platforms to guide strategy.
+1501|Social media content creation|Producing posts, images and videos for social platforms that engage an audience.
+1502|Social media content management|Planning, scheduling, publishing and moderating content across social channels.
+1503|Social media management|Overseeing an organization's presence on social platforms, including content, community and performance.
+1504|Social media optimization|Improving profiles and content so that they reach more people and drive engagement on social platforms.
+1506|Software architecture|Defining the high-level structure of a software system, its components and their relationships, and the principles guiding design.
+1507|Software localization|Adapting software to other languages and regions, including translation, formats and cultural conventions.
+1508|Software quality assurance|Planning and carrying out activities to make sure software meets requirements and is free of serious defects.
+1509|Software quality management|Managing the processes, standards and metrics that ensure software quality across a project or organization.
++r|related|Software quality assurance
+1510|Software reliability testing|Testing software to estimate how long and how consistently it runs without failure.
+1511|Software testing|Running software to find defects and verify that it behaves as required, using manual and automated tests.
+1512|Soil fertility treatment|Improving soil nutrients and condition through fertilizers, amendments and management practices.
+1514|Specimen processing|Preparing laboratory samples for testing by labeling, centrifuging, aliquoting and storing them correctly.
+1515|Speech therapy|Assessing and treating speech, language, voice and swallowing disorders.
+1516|Spiritual care|Supporting people's spiritual and emotional needs through presence, listening and religious resources, as chaplains do.
+1517|Splinting|Immobilizing an injured limb or joint with a rigid support to protect it and reduce pain.
+1518|Sports journalism|Reporting and writing about sports events, athletes and teams for the public.
+1519|SQL tuning|Improving the speed of SQL queries through indexing, query rewriting and analysis of execution plans.
++r|related|SQL
+1520|SSL/TLS security|Securing network communications with SSL/TLS, including certificates, protocol versions and configuration.
+1521|Stair and railing construction|Building staircases and railings, including cutting, fitting and meeting safety codes.
+1522|Stakeholder communication|Sharing information with those who have an interest in a project or decision, in a form and frequency that suits them.
+1523|Sterile technique|Using procedures to keep instruments, the patient and the field free of microorganisms during care or procedures.
+1524|Stormwater monitoring|Sampling and measuring stormwater runoff quality and flow to meet permit and environmental requirements.
+1525|Strategic decision-making|Choosing among options that shape an organization's long-term direction by weighing evidence, risks and goals.
+1526|Strategic prioritization|Ranking initiatives and resources by their contribution to strategic goals.
+1527|Strategic procurement|Planning purchasing around long-term value, supplier relationships and risk rather than just price.
+1528|Strength training|Designing or performing exercise programs that build muscle strength using resistance.
+1529|Stretch wrapping|Securing palletized goods by wrapping them in stretchable plastic film.
+1530|Structural calculations|Calculating loads and member sizes to show that a structure will be safe and stable.
+1531|Structural detailing|Preparing detailed drawings of structural steel or concrete elements, such as connections and reinforcement, for fabrication.
+1532|Student development|Supporting college students' growth in learning, identity and skills through programs and advising.
+1533|Student recruitment|Attracting and enrolling prospective students through outreach, events and communication.
+1534|Substance abuse assessment|Screening and evaluating people's substance use to decide the level of treatment needed.
+1535|Supplier quality engineering|Ensuring that suppliers' materials and parts meet quality requirements through audits, corrective action and development.
+1536|Supplier quality management|Managing the quality performance of suppliers through standards, monitoring and improvement.
++r|related|Supplier quality engineering
+1537|Surgical incision|Making a controlled cut in tissue with a scalpel to access the operating site.
++r|part_of|Surgery
+1538|Surgical suturing|Closing wounds and surgical incisions with stitches in various patterns.
+1539|Sustainability risk management|Identifying and managing risks to an organization from environmental and social factors.
+1540|Sustainable investment management|Managing investment portfolios using environmental, social and governance criteria alongside financial goals.
+1541|Swedish massage|A common massage style that uses long strokes, kneading and friction to relax muscles and improve circulation.
++r|broader|Massage
+1542|Synthesizing information|Combining information from multiple sources into a coherent understanding or summary.
+1543|System implementation|Installing, configuring and rolling out a new information system, including testing, data migration and training.
+1544|System recovery|Restoring systems and data to working order after a failure or disaster.
+1547|Systems management|Administering and monitoring computer systems so that they run reliably, securely and efficiently.
+1548|Table etiquette|Observing accepted manners at meals, such as using utensils and conversing properly.
+1549|Taking messages|Recording and passing on phone or in-person messages accurately.
+1550|Talent management|Attracting, developing and retaining the people an organization needs, including succession planning.
+1551|Team leadership|Guiding a team toward its goals by setting direction, coordinating work and supporting members.
+1552|Teamwork|Cooperating with colleagues, sharing tasks and information, and supporting each other to reach common goals.
+1553|Technical leadership|Guiding engineering decisions and mentoring technical staff, setting direction on architecture and quality.
+1554|Technical record-keeping|Maintaining accurate records of technical work, such as maintenance, tests and configurations.
+1555|Technical writing|Producing clear manuals, procedures and documentation that explain technical information to a target audience.
+1557|Telecommunications equipment installation|Installing and testing telephone, data and radio equipment and cabling.
+1558|Telegraphy|Sending and receiving messages in Morse code or by telegraph equipment.
+1559|Telephone etiquette|Handling calls with a courteous, clear and professional manner.
+1560|Television programming|Selecting and scheduling TV shows and content to attract viewers and meet a network's goals.
++r|related|Broadcast programming
+1561|Therapeutic interventions|Applying planned treatments or activities to improve a client's health, function or well-being.
+1562|Third party risk management|Assessing and controlling risks from vendors and partners, including security, compliance and continuity.
+1563|Threading (manufacturing)|Cutting or forming screw threads on parts using taps, dies or machines.
+1564|Thyroid biopsy|Taking cells or tissue from the thyroid, often by fine needle aspiration, to diagnose nodules.
+1565|Thyroid ultrasound|Using ultrasound imaging to examine the thyroid gland for nodules and structural problems.
+1567|Tire balancing and rotation|Balancing wheels and rotating tires to ensure even wear and a smooth ride.
+1568|Tourism management|Planning and operating tourism services, destinations or businesses.
+1569|Traffic collision reconstruction|Analyzing physical evidence and data to determine how a crash happened, including speeds and sequence.
+1570|Training and development needs assessment|Identifying skills gaps and learning needs of employees to plan training.
+1571|Training material development|Designing and writing courses, guides, slides and exercises for teaching skills.
+1572|Transaction monitoring|Reviewing financial transactions for unusual patterns that may indicate fraud or money laundering.
+1573|Travel coordination|Arranging transport, lodging and itineraries for individuals or groups.
