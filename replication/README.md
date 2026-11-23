@@ -86,3 +86,5 @@ python3 replication/scripts/collect_flags.py flags.csv WORK_DIR ...
 ```
 
 `compare_models.py` writes one section per concept (each model's links, definition and relations side by side) and a summary table. `collect_flags.py` gathers every draft's flags into one sheet, sorted by kind.
+
+For measuring how far the models agree in meaning, field by field, see the proposal in [AGREEMENT-METHOD.md](AGREEMENT-METHOD.md) and its draft skeleton `scripts/agreement.py`.
