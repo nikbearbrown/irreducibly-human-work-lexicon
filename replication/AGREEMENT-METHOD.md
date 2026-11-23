@@ -225,13 +225,15 @@ Output is validated against a JSON schema (`schemas/agreement-judgment.schema.js
 
 **Panel.** Four model judges, each run through a subscription plan Bear already has, in an agent harness. No paid API is used.
 
-| Judge id | Harness and plan | Family | Also a drafter? |
+| Slot | Harness and plan | Family | Also a drafter? |
 |---|---|---|---|
 | `codex` | Codex (OpenAI), Bear's US$200-a-month plan | OpenAI | no |
 | `claude-fable` | Claude Code, Claude Fable | Anthropic | no (same family as a drafter) |
 | `claude-sonnet` | Claude Code, Claude Sonnet | Anthropic | **yes**, if it is Sonnet 5.5 (the `claude-sonnet-5-5` edition, and most of `reference`) |
 | `claude-opus` | Claude Code, Claude Opus | Anthropic | no (same family as a drafter) |
 | `grok-bot` (optional) | Grok | xAI | **yes** (the `grok` edition) |
+
+**Slots and versioned judge ids.** The table lists **slots** (seats on the panel, each with its own packets). The judge who fills a slot is identified **with its exact model version**: judge id = `<provider>-<model name>-<version>`, for example `anthropic-claude-fable-5-2`. Provider, model name and version are **separate required fields** in `results/<judge id>/judge.json` and in every result line. The judge states the version from what its harness reports and never guesses it. A model that cannot state its version records `--version-unknown`. Its id then ends in `-version-unknown` and it is **flagged**: its results are reported separately and kept out of the primary panel until the operator confirms the version. Two versions of a model in the same slot are two judges, and both are reported.
 
 **Self-exclusion: drafters never judge their own edition.** The rule works item by item. A model that drafted an edition is never shown any item whose hidden key includes that edition, and `agreement.py register --drafted` enforces this when it writes the judge's packets. Concretely:
 
@@ -255,7 +257,7 @@ Output is validated against a JSON schema (`schemas/agreement-judgment.schema.js
 
 **Self-consistency.** Agent harnesses do not expose temperature or seeds, so repeat runs vary through order and session instead. Each judge runs R = 3 times in the pilot, each time in a fresh session with a different shuffle seed and the other A/B order. At full scale, R = 1, plus R = 3 on a 10% stratified sample. Test-retest is reported as Krippendorff's α across runs.
 
-**Pinning.** Each batch records the harness and its version, the model as the harness reports it, the reasoning-effort setting, the plan, and the start and end time with zone (section 9.4). A batch whose reported model differs from the manifest is rejected and rerun.
+**Pinning.** Each batch records the judge id, provider, model name, **model version**, the model as the harness reports it, the harness and its version, the reasoning-effort setting, the plan, and the start and end time with zone (section 9.4). A batch whose identity fields differ from the judge's `judge.json` is rejected and rerun.
 
 ---
 
@@ -423,8 +425,8 @@ Batches of 100 halve the session counts if a harness handles them reliably. The 
 
 ### 9.4 Pinning and recording the model
 
-- Each judge's model is set explicitly at launch (`-m` / `--model`) and never left to a default. At the start of each batch, the session writes a header line to its result file: `{"_batch": "...", "judge_id": "...", "harness": "codex|claude-code", "harness_version": "<codex --version | claude --version>", "model_reported": "<the model id the harness reports>", "effort": "<reasoning effort, if set>", "plan": "...", "started_at": "...-05:00"}`. It writes `finished_at` at the end.
-- `validate` rejects a batch whose `model_reported` differs from the judge's entry in `judges.json`. If a provider changes the model behind a name partway through, the batches before and after are given different `judge_version` values and tested for a shift (on the repeated 10% sample).
+- Each judge's model is set explicitly at launch (`-m` / `--model`) and never left to a default. In its first session, the judge runs `agreement.py confirm-model` with its provider, model name, **exact version** (or `--version-unknown`, which flags it) and the model string the harness reports. That writes `results/<judge id>/judge.json` and fixes the versioned judge id. At the start of each batch, the session writes a header line: `{"_batch": "...", "judge_id": "anthropic-claude-fable-5-2", "provider": "anthropic", "model_name": "claude-fable", "model_version": "5.2", "model_reported": "...", "harness": "codex|claude-code", "harness_version": "...", "effort": "...", "plan": "...", "started_at": "...-05:00"}`. It writes `finished_at` at the end.
+- `validate` rejects a batch whose provider, model name, version or `model_reported` differs from `judge.json`. A new version means a new judge id, never an edit to the old one. If a provider changes the model behind an unchanged name and version partway through, the batches before and after are given different `judge_version` values and tested for a shift (on the repeated 10% sample).
 - Because the model behind a hosted name can change, exact reruns are not guaranteed. Every request, result line and raw reply hash is committed, so the analysis itself can always be recomputed.
 
 The embedding baseline and all the statistics run on CPU in minutes. The human interviews in 7.1 take the most time.
@@ -440,14 +442,15 @@ The embedding baseline and all the statistics run on CPU in minutes. The human i
 - `alignment/{targets,variants}.jsonl`: `{concept_id, field, cluster_key, members: [{edition, item_index, text, target_id}], resolved_by: id|name|judge|human, judgment_id}`.
 - `keys/anon.jsonl`: `{request_id, A, B}`, plus `keys/request-id-secret.txt` (request ids are keyed with a secret, so nobody can recompute them from concept and edition names). These go in `--private-dir` and are **never committed** to the public repo. `stats` and `register` take `--keys PATH`. `canonical/`, `tables/` and `coverage.csv` are private too, because they name editions.
 - `requests/<stage>/batch-NNNN.jsonl`: `{request_id, stage: P1..P6, concept_id, field, kind, broad_class, trap, prompt_version, prompt_sha256, order_seed, system, user}`. Only `system` and `user` are shown to a judge.
-- `judges.json`: the panel (id, type `model` or `human`, harness, pinned model, family, drafter flag).
+- `judges.json`: the panel **slots** and human judges (type, harness, editions drafted, seed). `results/<judge id>/judge.json`: a model judge's identity (provider, model name, **model version** or the unknown flag, model string as reported, harness and its version).
 - `humans/registry.jsonl`, `humans/overlap-pool.jsonl`, `humans/<judge_id>/sample.jsonl`, `humans/<judge_id>/progress.json`: registration, the seeded sample and the resume point.
 - `results/<judge_id>/<stage>/batch-NNNN.jsonl` for model judges, or `results/<judge_id>/judgments.jsonl` for humans. **The same line schema for both**, one line per judgment:
 
 ```json
 {"judgment_id": "j-000123", "request_id": "r-000123", "stage": "P2", "concept_id": "sh6x1wmacn",
  "field": "definition",
- "judge": {"id": "codex", "type": "model", "harness": "codex", "model_reported": "...", "judge_version": 1},
+ "judge": {"id": "openai-codex-5-3", "type": "model", "provider": "openai", "model_name": "codex", "model_version": "5.3",
+           "model_reported": "...", "harness": "codex", "judge_version": 1},
  "run_index": 0, "order_seed": 11, "prompt_version": "agree-v1", "prompt_sha256": "...",
  "label": "A_NARROWER",
  "fields": {"same_sense": true, "genus_a": "...", "genus_b": "...", "conflicts": [], "confidence": 4,
@@ -509,7 +512,7 @@ The embedding baseline and all the statistics run on CPU in minutes. The human i
 
 ## 12. Decisions for Bear
 
-1. **The exact model ids** for `codex`, `claude-fable`, `claude-sonnet` and `claude-opus`, and whether `claude-sonnet` is the same Sonnet 5.5 that drafted (if it is, the self-preference check matters most). Also: does Grok judge items that don't involve its own edition (the default here), or not judge at all?
+1. **The exact models and versions** for the `codex`, `claude-fable`, `claude-sonnet` and `claude-opus` slots (each judge records its own version, but Bear should check them), and whether `claude-sonnet` is the same Sonnet 5.5 that drafted (if it is, the self-preference check matters most). Also: does Grok judge items that don't involve its own edition (the default here), or not judge at all?
 2. **Human judges:** who the roughly 10 are, and the settings (default: 100 items, 30% overlap, a pool of 50, a 10% trap quota; full pilot pool labelled by Bear and at least one other judge).
 3. **Weights and the hard gate** for the entry score, and the acceptance threshold (κ ≥ 0.6 and within 0.1 of human–human).
 4. **Whether to ask the Sonnet run (and future models) to also run the kit's gen-v2**, so the comparison is not confounded with schema. Without this, links, work sense, conditions and fine relation types are compared for Grok alone.

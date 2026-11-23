@@ -46,7 +46,8 @@ the interviewer. Rules:
 ```json
 {"judgment_id": "human-xx-r-0a1b2c3d4e5f-0", "request_id": "r-0a1b2c3d4e5f", "stage": "P2", "concept_id": "…",
  "field": "definition", "judge": {"id": "human-xx", "type": "human", "name": "Full Name",
- "harness": "claude-code", "model_reported": "<your own model id, as the interviewer>", "judge_version": null},
+ "harness": "claude-code", "model_reported": "<your own model string, as the interviewer>",
+ "interviewer_model_version": "<your exact version, or null if you cannot see it (then say so)>", "judge_version": null},
  "run_index": 0, "order_seed": null, "prompt_version": "agree-v1", "prompt_sha256": null,
  "label": "B_NARROWER", "fields": {"read_back": "B is narrower than A (same thing, B covers less)", "clarified": false},
  "notes": "<the judge's words, verbatim>", "confirmed": true,

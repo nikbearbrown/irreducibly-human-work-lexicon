@@ -23,12 +23,13 @@ python3 replication/scripts/agreement.py validate RUN_DIR --judge-id YOUR_JUDGE_
 | `judgment.schema.json` | The one result-line schema, for models and people alike |
 | `RUN_DIR/requests/<stage>/batch-NNNN.jsonl` | Every blinded request (written by `agreement.py run`) |
 | `<PRIVATE>/keys/anon.jsonl` | Which edition is A and which is B. **Never committed here** (it is gitignored and kept privately by the operator). Only `stats` and registering new model judges need it. |
-| `RUN_DIR/judges.json` | Registered judges: type, harness, pinned model, editions drafted, seed |
-| `RUN_DIR/packets/<judge_id>/batch-NNNN.jsonl` | An AI judge's work, with self-exclusion already applied |
+| `RUN_DIR/judges.json` | Registered **slots** (and human judges): type, harness, editions drafted, seed |
+| `RUN_DIR/results/<judge id>/judge.json` | A model judge's identity: provider, model name, **exact version** (required, or flagged as unknown), and the model string as the harness reports it. The judge id is `<provider>-<model name>-<version>`, for example `anthropic-claude-fable-5-2`. |
+| `RUN_DIR/packets/<slot>/batch-NNNN.jsonl` | An AI judge's work, by slot, with self-exclusion already applied |
 | `RUN_DIR/humans/<judge_id>/sample.jsonl`, `progress.json` | A person's seeded sample and where they stopped |
 | `RUN_DIR/results/<judge_id>/...` | What a judge hands in |
 
-`RUN_DIR` is the run folder Bear names. The first one is `replication/agreement/pilot-test`. Results are committed on a branch `judging/<judge_id>` and pushed. Nothing is ever pushed to `main`, and nothing is force-pushed.
+`RUN_DIR` is the run folder Bear names. The first one is `replication/agreement/pilot-test`. Results are committed on a branch `judging/<judge id>` and pushed. Nothing is ever pushed to `main`, and nothing is force-pushed.
 
 ## Rules everyone follows
 

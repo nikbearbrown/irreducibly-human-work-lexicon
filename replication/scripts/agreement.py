@@ -13,9 +13,11 @@ Usage:
                    [--trap-share 0.1] [--batch-size 50] [--salt agree-v1]
      model: writes packets/<id>/batch-NNNN.jsonl with every request it may judge (self-exclusion applied)
      human: draws the seeded, stratified sample (30% from the shared overlap pool) into humans/<id>/sample.jsonl
-  agreement.py confirm-model OUT_DIR --judge-id ID --model "<id the harness reports>" [--harness-version V]
-     (first session of a model judge registered without a model: writes results/<id>/judge.json)
-  agreement.py validate OUT_DIR --judge-id ID   (checks results/<id>/; exit 1 on any error)
+  agreement.py confirm-model OUT_DIR --slot SLOT --provider P --model-name M (--version X.Y | --version-unknown)
+                   --model-reported "<string the harness reports>" [--harness-version V]
+     (first session of a model judge: prints the versioned judge id, e.g. anthropic-claude-fable-5-2,
+      and writes results/<judge_id>/judge.json; an unknown version is FLAGGED, never guessed)
+  agreement.py validate OUT_DIR --judge-id VERSIONED_ID   (checks results/<id>/; exit 1 on any error)
   agreement.py stats OUT_DIR --keys PRIVATE/keys/anon.jsonl   (after results/ exist)
 
 Example (today's two editions plus the reference):
@@ -363,50 +365,82 @@ def register(args):
         print(f"{args.judge_id}: {len(sample)} items ({len(order)} overlap, {len(uniq)} unique) in humans/{args.judge_id}/sample.jsonl")
     json.dump(judges, open(jp, "w"), indent=1)
 
-def confirm_model(args):
-    """First-session step for a model judge registered without a model id: record what the harness reports.
-    Writes results/<id>/judge.json (the judge's own folder, so parallel judge branches never conflict)."""
-    _, judges = judges_file(args.out); me = judges.get(args.judge_id)
-    if not me or me["type"] != "model": sys.exit(f"{args.judge_id} is not a registered model judge")
-    if me.get("model") and me["model"] != args.model:
-        sys.exit(f"registered model is {me['model']!r}; you report {args.model!r}. Stop and tell the operator.")
-    d = os.path.join(args.out, "results", args.judge_id); os.makedirs(d, exist_ok=True)
-    p = os.path.join(d, "judge.json")
-    if os.path.exists(p) and json.load(open(p))["model_reported"] != args.model and not args.force:
-        sys.exit(f"{p} already records {json.load(open(p))['model_reported']!r}; a different model needs a new judge id or --force from the operator")
-    import datetime
-    rec = {"judge_id": args.judge_id, "model_reported": args.model, "harness": args.harness or me.get("harness"),
-           "harness_version": args.harness_version, "effort": args.effort, "plan": args.plan,
-           "confirmed_at": datetime.datetime.now().astimezone().isoformat(timespec="seconds")}
-    json.dump(rec, open(p, "w"), indent=1); print(f"recorded {rec['model_reported']!r} in {p}")
+def slug(*parts):
+    return re.sub(r"[^a-z0-9]+", "-", "-".join(p for p in parts if p).lower()).strip("-")
 
-def expected_model(out, jid, me):
+def confirm_model(args):
+    """First session of a model judge: record provider, model name and the exact model VERSION (required).
+    The versioned judge id is <provider>-<model name>-<version>, for example anthropic-claude-fable-5-2.
+    A model that cannot state its version passes --version-unknown: the id ends in -version-unknown and the
+    judge is FLAGGED (its results are reported separately and never enter the primary panel label).
+    Writes results/<judge_id>/judge.json only (the judge's own folder), so parallel judge branches never conflict."""
+    _, judges = judges_file(args.out); slot = judges.get(args.slot)
+    if not slot or slot["type"] != "model": sys.exit(f"{args.slot} is not a registered model-judge slot in judges.json")
+    if bool(args.version) == bool(args.version_unknown):
+        sys.exit("give exactly one of --version X.Y (as your harness or system information states it) or --version-unknown")
+    version = args.version.strip() if args.version else None
+    jid = slug(args.provider, args.model_name, version or "version-unknown")
+    d = os.path.join(args.out, "results", jid); os.makedirs(d, exist_ok=True)
+    p = os.path.join(d, "judge.json")
+    import datetime
+    rec = {"judge_id": jid, "slot": args.slot, "provider": args.provider, "model_name": args.model_name,
+           "model_version": version, "version_status": "stated" if version else "unknown",
+           "flags": [] if version else ["version_unknown"], "model_reported": args.model_reported,
+           "harness": args.harness or slot.get("harness"), "harness_version": args.harness_version,
+           "effort": args.effort, "plan": args.plan,
+           "confirmed_at": datetime.datetime.now().astimezone().isoformat(timespec="seconds")}
+    if os.path.exists(p):
+        old = json.load(open(p))
+        same = all(old.get(k) == rec[k] for k in ("slot", "provider", "model_name", "model_version", "model_reported"))
+        if not same and not args.force:
+            sys.exit(f"{p} already records a different model or version; stop and tell the operator")
+        if same: rec["confirmed_at"] = old["confirmed_at"]
+    json.dump(rec, open(p, "w"), indent=1)
+    print(f"judge id: {jid}" + ("   ** FLAGGED: version unknown **" if not version else ""))
+    print(f"recorded in {p}; work on branch judging/{jid}; packets in packets/{args.slot}/")
+
+def judge_record(out, jid):
     p = os.path.join(out, "results", jid, "judge.json")
-    return me.get("model") or (json.load(open(p))["model_reported"] if os.path.exists(p) else None)
+    return json.load(open(p)) if os.path.exists(p) else None
 
 REQUIRED = ("judgment_id", "request_id", "stage", "concept_id", "judge", "run_index", "prompt_version", "label",
             "fields", "notes", "confirmed", "created_at")
+WHO = ("provider", "model_name", "model_version", "model_reported")
 
 def validate(args):
     out, jid = args.out, args.judge_id
-    _, judges = judges_file(out); me = judges.get(jid)
-    if not me: sys.exit(f"{jid} is not registered")
-    if me["type"] == "model":
-        allowed = {r["request_id"] for f in glob.glob(os.path.join(out, "packets", jid, "*.jsonl")) for r in jload(f)}
-    else:
+    _, judges = judges_file(out)
+    rec = judge_record(out, jid)
+    if jid in judges and judges[jid]["type"] == "human":
+        me, kind = judges[jid], "human"
         allowed = {r["request_id"] for r in jload(os.path.join(out, "humans", jid, "sample.jsonl"))}
-    errs, seen, n = [], set(), 0
-    want = expected_model(out, jid, me) if me["type"] == "model" else None
-    if me["type"] == "model" and not want:
-        errs.append(f"no model recorded for {jid}: run `agreement.py confirm-model {out} --judge-id {jid} --model <id>` first")
+        pkdir = None
+    elif rec:
+        me, kind = judges.get(rec["slot"]), "model"
+        if not me: sys.exit(f"{jid}: slot {rec['slot']!r} is not in judges.json")
+        pkdir = os.path.join(out, "packets", rec["slot"])
+        allowed = {r["request_id"] for f in glob.glob(os.path.join(pkdir, "*.jsonl")) for r in jload(f)}
+    elif jid in judges:
+        sys.exit(f"{jid} is a slot: run `agreement.py confirm-model {out} --slot {jid} --provider ... --model-name ... "
+                 f"--version X.Y|--version-unknown --model-reported ...` and validate with the judge id it prints")
+    else:
+        sys.exit(f"{jid} is not registered (no results/{jid}/judge.json and no human registration)")
+    errs, warns, seen, n = [], [], set(), 0
+    if kind == "model":
+        if rec.get("version_status") == "unknown" or not rec.get("model_version"):
+            warns.append(f"FLAGGED: {jid} did not state a model version; its results are reported separately and kept out of the primary panel")
+        if not jid.endswith(slug(rec.get("model_version") or "version-unknown")):
+            errs.append(f"judge id {jid} does not end with its version {rec.get('model_version')!r}")
     for f in sorted(glob.glob(os.path.join(out, "results", jid, "**", "*.jsonl"), recursive=True)):
         for ln, line in enumerate(open(f), 1):
             if not line.strip(): continue
             try: j = json.loads(line)
             except ValueError: errs.append(f"{f}:{ln} not JSON"); continue
             if "_batch" in j:
-                if me["type"] == "model" and want and j.get("model_reported") != want:
-                    errs.append(f"{f}:{ln} model_reported {j.get('model_reported')!r} != recorded {want!r}")
+                if kind == "model":
+                    bad = [k for k in WHO if j.get(k) != rec.get(k)]
+                    if j.get("judge_id") != jid: bad.append("judge_id")
+                    if bad: errs.append(f"{f}:{ln} header {bad} differ from results/{jid}/judge.json")
                 continue
             n += 1
             miss = [k for k in REQUIRED if k not in j]
@@ -418,20 +452,23 @@ def validate(args):
             labels = LABELS.get(j["stage"])
             if labels and j["label"] not in labels | {"UNSURE"}: errs.append(f"{f}:{ln} label {j['label']!r} not allowed for {j['stage']}")
             if j["judge"].get("id") != jid: errs.append(f"{f}:{ln} judge.id {j['judge'].get('id')!r} != {jid}")
-            if me["type"] == "model" and want and j["judge"].get("model_reported") != want:
-                errs.append(f"{f}:{ln} judge.model_reported {j['judge'].get('model_reported')!r} != recorded {want!r}")
-            if me["type"] == "human" and j["confirmed"] is not True: errs.append(f"{f}:{ln} human label not confirmed by the judge")
-    if me["type"] == "model":  # a handed-in batch must answer every request in the packet of the same name
+            if kind == "model":
+                if "model_version" not in j["judge"]: errs.append(f"{f}:{ln} judge.model_version is required (null only if unknown)")
+                bad = [k for k in WHO if j["judge"].get(k) != rec.get(k)]
+                if bad: errs.append(f"{f}:{ln} judge {bad} differ from results/{jid}/judge.json")
+            if kind == "human" and j["confirmed"] is not True: errs.append(f"{f}:{ln} human label not confirmed by the judge")
+    if kind == "model":  # a handed-in batch must answer every request in the packet of the same name
         for f in sorted(glob.glob(os.path.join(out, "results", jid, "*", "batch-*.jsonl"))):
-            pk = os.path.join(out, "packets", jid, os.path.basename(f))
+            pk = os.path.join(pkdir, os.path.basename(f))
             want_ids = {r["request_id"] for r in jload(pk)}
             got = {j["request_id"] for j in jload(f) if "_batch" not in j and "request_id" in j}
             if not os.path.exists(pk): errs.append(f"{f}: no packet {pk}")
             elif want_ids - got: errs.append(f"{f}: incomplete, {len(want_ids - got)} of {len(want_ids)} requests unanswered")
             hdr = [j for j in jload(f) if "_batch" in j]
             if not any("finished_at" in h for h in hdr): errs.append(f"{f}: no closing header line with finished_at")
+    for w in warns: print("WARNING", w)
     for e in errs[:50]: print("ERROR", e)
-    print(f"{jid}: {n} judgments, {len(errs)} errors"); sys.exit(1 if errs else 0)
+    print(f"{jid}: {n} judgments, {len(errs)} errors, {len(warns)} flags"); sys.exit(1 if errs else 0)
 
 def stats(args):
     """Fold every judge's results (results/<judge_id>/...) into definition agreement, per judge and per edition pair."""
@@ -450,7 +487,9 @@ def stats(args):
         for c, s, _ in xs:
             if s is not None: sc[c].append(s)
         st = lambda cc: (lambda v: sum(v) / len(v) if v else None)([sum(sc[c]) / len(sc[c]) for c in cc if sc[c]])
-        print(judge, pair, "mean definition score", bootstrap(cs, st, args.reps), Counter(l for _, _, l in xs).most_common())
+        rec = judge_record(args.out, judge) or {}
+        flag = " [FLAGGED: version unknown; not in primary panel]" if "version_unknown" in rec.get("flags", []) else ""
+        print(judge + flag, pair, "mean definition score", bootstrap(cs, st, args.reps), Counter(l for _, _, l in xs).most_common())
     # TODO(draft): family-balanced panel label, Codex-only, leave-one-judge-out, self-preference DiD (AGREEMENT-METHOD.md 4.4)
 
 if __name__ == "__main__":
@@ -467,8 +506,12 @@ if __name__ == "__main__":
     g.add_argument("--pool-size", type=int, default=50); g.add_argument("--trap-share", type=float, default=0.1)
     g.add_argument("--batch-size", type=int, default=50); g.add_argument("--salt", default="agree-v1")
     g.add_argument("--force", action="store_true"); g.add_argument("--keys", help="private keys/anon.jsonl")
-    c = sp.add_parser("confirm-model"); c.add_argument("out"); c.add_argument("--judge-id", required=True)
-    c.add_argument("--model", required=True); c.add_argument("--harness"); c.add_argument("--harness-version")
+    c = sp.add_parser("confirm-model"); c.add_argument("out"); c.add_argument("--slot", required=True)
+    c.add_argument("--provider", required=True, help="openai | anthropic | xai | ...")
+    c.add_argument("--model-name", required=True, help='for example "claude-fable" or "codex"')
+    c.add_argument("--version", help='exact model version, for example "5.2"'); c.add_argument("--version-unknown", action="store_true")
+    c.add_argument("--model-reported", required=True, help="the model string exactly as the harness reports it")
+    c.add_argument("--harness"); c.add_argument("--harness-version")
     c.add_argument("--effort"); c.add_argument("--plan"); c.add_argument("--force", action="store_true")
     v = sp.add_parser("validate"); v.add_argument("out"); v.add_argument("--judge-id", required=True)
     s = sp.add_parser("stats"); s.add_argument("out"); s.add_argument("--reps", type=int, default=2000)
