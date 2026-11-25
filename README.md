@@ -1,5 +1,7 @@
 # Irreducibly Human Work Lexicon
 
+[Read the rough manuscript](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md) · [Help with the paper](CONTRIBUTING.md)
+
 **Renamed on November 22, 2026,** from Skills Lexicon. The lexicon covers knowledge, abilities, languages and credentials as well as skills, so the name now says work, not skills. The old address, github.com/nikbearbrown/skills-lexicon, redirects here.
 
 The Irreducibly Human Work Lexicon is an open dictionary and developing ontology of the capabilities and qualifications employers ask for: **skills, knowledge, abilities, languages, and credentials**. Each concept has a canonical name, spelling variants and synonyms, a definition, and evidence about its classification and relationships. It supports consistent matching across job postings, resumes, and course tags—for example, resolving **Postgres** and **PostgreSQL** to one concept.
@@ -22,7 +24,7 @@ The rough manuscript is [manuscript.md](Papers/irreducibly-human-work-lexicon-an
 
 ## How to contribute
 
-Read the [contributor guide](CONTRIBUTING.md). It lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
+Start with [Getting started](CONTRIBUTING.md#getting-started) in the [contributor guide](CONTRIBUTING.md): read the draft or plan, pick one thing to do, and email Nik to be added as a collaborator. The guide lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
 
 - **A quick contribution:** open an issue about one claim, source or decision. You don't need to review the whole paper.
 - **To become an author:** take on a component of the work, help write the paper, approve the final version and agree to be accountable for it. The guide explains each step.
