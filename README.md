@@ -6,6 +6,27 @@ The Irreducibly Human Work Lexicon is an open dictionary and developing ontology
 
 The project is led by **Nik Bear Brown**. Repository copyright: **Humanitarians AI Incorporated**.
 
+## Abstract
+
+A job posting that asks for Postgres and a syllabus that names PostgreSQL can refer to the same technology. Neither mention independently validates a definition, shows that a worker uses the tool, or establishes student proficiency. The Irreducibly Human Work Lexicon separates a concept's identifier and matching rules from evidence for particular assertions about it. We describe its implementation and audit a pinned repository snapshot containing 3,754 canonical concepts and 17,229 assertion fields. The repository counts 1,455 assertions (8.45%) as backed by recorded source matches. None has a named human check, and no entry is independently reviewed. A documented match to the wrong sense illustrates why source backing is not validation. These are measures of the state of the resource, not of its accuracy or the labor market. We propose a held-out evaluation of both mention-to-concept matching and the usefulness of claim-level provenance for reviewers.
+
+## Where the draft is
+
+The rough manuscript is [manuscript.md](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). The other paper materials are listed under [Papers](#papers).
+
+## What needs to be done
+
+- Review entries by hand. No entry has been independently reviewed yet.
+- Run the held-out evaluation the paper proposes. It has not been run.
+- Close the coverage gaps listed under [Main gaps](#main-gaps).
+
+## How to contribute
+
+Read the [contributor guide](CONTRIBUTING.md). It lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
+
+- **A quick contribution:** open an issue about one claim, source or decision. You don't need to review the whole paper.
+- **To become an author:** take on a component of the work, help write the paper, approve the final version and agree to be accountable for it. The guide explains each step.
+
 ## Contribute
 
 Help us verify an entry, add evidence from your field, or critique the paper and its proposed evaluation. Start with the [contributor guide](CONTRIBUTING.md) or read the [rough manuscript](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). No collaborator access is needed to open an issue. If you hope to be an author, the guide also says [how credit works and what we expect from authors](CONTRIBUTING.md#credit-and-what-we-expect-from-authors).
