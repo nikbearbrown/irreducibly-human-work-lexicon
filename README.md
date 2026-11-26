@@ -14,7 +14,7 @@ A job posting that asks for Postgres and a syllabus that names PostgreSQL can re
 
 ## Where the draft is
 
-The rough manuscript is [manuscript.md](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). The other paper materials are listed under [Papers](#papers).
+The rough manuscript is [manuscript.md](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). The other paper materials are listed under [Papers](#papers). A rough paper series modelled on the WordNet papers, not reviewed, sits beside it in [Papers/paper-series](Papers/paper-series/README.md), with the [human evaluation to-do](Papers/paper-series/HUMAN-EVALUATION-TODO.md). Where it stands: no entry is independently reviewed; a checked Grok Bot edition (3,718/3,718 pass, no sources) sits alongside the Claude Sonnet 5.5 edition and the reference lexicon; the cross-model judge pilot is under way; the human evaluation and the held-out matching evaluation have not been run.
 
 ## What needs to be done
 
