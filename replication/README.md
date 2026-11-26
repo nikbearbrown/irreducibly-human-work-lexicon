@@ -4,6 +4,10 @@
 
 The analysis: draft one WordNet-style entry for each of 36 lexicon concepts, twice. The grounded run gets the concept's source material (Wikipedia, Wikidata, WordNet, job-posting snippets). The ungrounded run gets the same material with Wikipedia, Wikidata and WordNet removed. Every claim in a draft must say whether a source states it or the model believes it, and the source claims are checked by script.
 
+## Archived full-lexicon runs
+
+[Independent construction runs](independent-runs/README.md) are kept separately from this pilot kit and the canonical lexicon. For a blind run, work from the linked pinned kit and do not inspect the archived outputs before handoff. The pilot hand-in instructions below are unchanged.
+
 ## Pick your way in
 
 | Your agent can... | Way | What it does |

@@ -16,6 +16,10 @@ A job posting that asks for Postgres and a syllabus that names PostgreSQL can re
 
 The rough manuscript is [manuscript.md](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). The other paper materials are listed under [Papers](#papers).
 
+## Independent lexicon constructions
+
+[Browse the separate model runs](replication/independent-runs/README.md). These drafts are not part of the canonical lexicon or its inventory counts. If you are running a blind replication, use the pinned kit linked there without reading the draft outputs.
+
 ## What needs to be done
 
 - Review entries by hand. No entry has been independently reviewed yet.
