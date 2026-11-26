@@ -1,0 +1,50 @@
+mhz7f3lsy1 | Ability to teach patients to manage asthma. | Asthma education teaches patients about triggers, inhalers and action plans. Respiratory postings ask for it. | 
+vluo660bsd | Holding the Cisco Certified Support Technician (CCST) certification. | The CCST is Cisco's entry-level certification in networking or cybersecurity support. Help desk postings list it. | 
+ph6tkwz6c2 | Ability to purify proteins with ÄKTA chromatography systems. | ÄKTA systems, from Cytiva, are liquid chromatography instruments for protein purification. Biotech lab postings ask for it. | 
+ysp84vgjvb | Holding an Associate of Science in mathematics. | An AS in mathematics is a two-year degree in maths, usually for transfer. | 
+pt4t1q8cxq | Ability to keep books in Peachtree (Sage 50). | Peachtree Accounting, now Sage 50, is small business accounting software. Bookkeeper postings mention it. | h:Accounting software
+i4vule328g | Ability to design infographics. | Infographics present information visually with charts, icons and text. Design and marketing postings ask for it. | 
+rawbtq2err | Ability to speak, read and write Urdu. | Urdu is the national language of Pakistan and is spoken in India. Interpreter postings ask for it. | 
+unrn5odgmo | Knowledge of thyroid cancer. | Thyroid cancer is cancer of the thyroid gland. Oncology and endocrinology postings mention it. | 
+zghrwejt65 | Ability to manage events with IBM Tivoli Enterprise Console. | Tivoli Enterprise Console was IBM's event management software, replaced by Netcool. It is obsolete. | -v:Trivoli Enterprise Console | f:Obsolete.
+p56jjjonfi | Ability to operate a combine harvester. | A combine harvester reaps, threshes and cleans grain crops. Farm equipment postings ask for it. | 
+qb7626uk1v | Holding the Pega Certified Lead System Architect (CLSA) credential. | The CLSA is Pega's top architect certification. Senior Pega postings ask for it. | 
+xxc17ku210 | Knowledge of art education. | Art education is teaching visual arts. Art teacher postings ask for it. | 
+ns5jcxgd2h | Ability to manage pricing with Vendavo. | Vendavo is B2B pricing and margin management software. Pricing postings mention it. | 
+yqqghd1kqv | Holding a research doctorate in economics. | A PhD in economics is a research doctorate in economics. Economist postings ask for it. | 
+v0q12e8xmx | Ability to write asynchronous code with async/await. | Async/await is syntax for writing asynchronous code that reads like synchronous code, as in JavaScript, C# and Python. Developer postings mention it. | 
+hxq88pkxth | Holding the Histotechnologist HTL(ASCP) certification. | The HTL(ASCP) certifies histotechnologists, a level above histotechnicians. Histology postings ask for it. | x:Certified Histotechnician~The HT credential
+yj7kld6kci | Ability to maintain vehicles. | Vehicle maintenance is servicing vehicles to keep them running, such as oil changes and inspections. Fleet postings ask for it. | 
+ax65pgi63u | Ability to prepare chemistry, manufacturing and controls (CMC) regulatory submissions. | Regulatory CMC covers the CMC sections of drug filings. Pharma regulatory postings ask for it. | 
+hmcvl34re3 | Holding a research doctorate in renewable energy. | A PhD in renewable energy is a research doctorate in renewable energy systems. Energy research postings mention it. | 
+vp6szkok86 | Ability to program in Dart. | Dart is Google's language used with Flutter. Mobile postings ask for it. | 
+nnn6b9rv8c | Ability to program in PureScript. | PureScript is a Haskell-like language that compiles to JavaScript. It rarely appears in postings. | 
+z6wanimd2s | Knowledge of process management in operating systems. | Process management is how an OS creates, schedules and ends processes. OS syllabi teach it. | x:Process management~Business process management
+nprxj06a8r | Ability to operate machinery. | Machine operation is running production machines safely. Operator postings ask for it. | 
+ijbegrk546 | Holding a certificate in plumbing technology. | A plumbing technology certificate trains plumbers' helpers and apprentices. Plumbing postings accept it. | 
+ptrm1ihsdz | Knowledge of land-atmosphere interactions. | Land-atmosphere interactions are exchanges of energy, water and carbon between land and air. Climate research uses it. | 
+sddk3r5ix2 | Knowledge of healthcare delivery science. | Healthcare delivery science studies how to improve the delivery of health care. Health system research postings mention it. | 
+injapalu4u | Ability to manage workflows. | Workflow management designs, runs and improves sequences of tasks. Operations postings ask for it. | 
+kxge7c4n0p | Knowledge of Sumerian. | Sumerian is an ancient language of Mesopotamia. It appears only in academic contexts. | 
+ljrzt6nb3u | Holding a master's degree in systems engineering. | A master's in systems engineering is a graduate degree in complex system design. Systems engineer postings mention it. | 
+ed0zra088k | Knowledge of historical events and civilizations. | History and archeology, an O*NET knowledge area, covers historical events, their causes and effects on civilizations and cultures. | f:The name reads as an O*NET knowledge area.
+wrx1ww6oih | Holding a research doctorate in bioinformatics. | A PhD in bioinformatics is a research doctorate in computational biology. Research postings ask for it. | 
+kb3pruwri8 | Ability to program in Oz. | Oz is a multi-paradigm language used with the Mozart system for teaching. It rarely appears in postings. | 
+jclqvd3612 | Holding the Registered Cardiovascular Invasive Specialist (RCIS) credential. | The RCIS, from CCI, certifies cath lab technologists. Cath lab postings ask for it. | 
+o6zctkbed3 | Ability to manage disputes such as chargebacks or claims. | Dispute management handles customer disputes, chargebacks or contract disputes through resolution. Payments and finance postings ask for it. | 
+r9vet0xvr5 | Knowledge of higher education policy. | Higher education policy covers funding, access and regulation of colleges and universities. Policy postings mention it. | 
+dvj1ptsqlv | Knowledge of moulding processes. | Moulding shapes material in a mould, as in injection moulding or casting. Manufacturing postings ask for it. | 
+lbwvejax9o | Ability to take messages accurately. | Taking messages is recording callers' details and messages for others. Receptionist postings ask for it. | 
+cdwflm7faa | Knowledge of folk music. | Folk music is traditional music passed down within communities. Musician postings mention it. | 
+tmdu8fhxhg | Ability to defend networks against cyberattacks. | Cyber defense protects systems and responds to attacks. Security postings ask for it. | 
+t5cy0zpwuy | Knowledge of adaptive equipment. | Adaptive equipment helps people with disabilities do daily tasks. OT postings ask for it. | 
+bum8cg3i92 | Ability to manage development with Azure DevOps. | Azure DevOps is Microsoft's suite for repos, boards, pipelines and testing. DevOps postings ask for it. | 
+u554ug560m | Ability to teach with the flipped classroom model. | In a flipped classroom, students learn content at home and practise in class. Teacher postings mention it. | 
+b0q75im0ta | Ability to write scripts for film, TV or video. | Scriptwriting is writing scripts for productions. Writer postings ask for it. | h:Writing
+po4x3mo2jl | Holding a research doctorate in information systems. | A PhD in information systems is a research doctorate in IS. Business school postings ask for it. | 
+on2ks52go0 | Knowledge of SCARA robots. | A SCARA robot is a selective compliance arm for fast pick-and-place. Automation postings mention it. | 
+xa9fefssz7 | Ability to hunt for hidden cyber threats. | Threat hunting proactively searches networks for threats that evade detection. SOC postings ask for it. | 
+oxcah7mzgz | Ability to manage mechanical ventilators. | Ventilator management sets and adjusts ventilators for patients who cannot breathe on their own. ICU and RT postings ask for it. | 
+rb9mtm72hn | Ability to improve clinical documentation. | Clinical documentation improvement makes medical records accurate and complete for coding and quality. CDI specialist postings ask for it. | 
+cmdbpnjrr6 | Ability to use Android LiveData. | LiveData is an observable data holder class in Android Jetpack. Android postings mention it. | 
+ylpxswehz5 | Holding a master's degree in physics. | A master's in physics is a graduate degree in physics. Research and engineering postings mention it. | c:Physics

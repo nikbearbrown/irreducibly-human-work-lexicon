@@ -1,0 +1,50 @@
+mkkre3uwga | Ability to suction an endotracheal tube. | Endotracheal suctioning removes secretions from an intubated patient's airway. ICU nursing and respiratory therapy postings ask for it. | x:Nasotracheal suctioning~Through the nose without a tube
+m93rwlykrf | Ability to build metrics in MicroStrategy. | MicroStrategy metrics are calculations defined on facts in MicroStrategy BI. BI developer postings mention them. | 
+ph4pdgllci | Knowledge of military standards and specifications (MIL-SPEC). | Military standards such as MIL-STD and MIL-SPEC set requirements for defence products. Defence engineering postings ask for it. | 
+ztfqr0o2n3 | Knowledge of the IBM POWER7 processor platform. | POWER7 is a 2010 IBM server processor generation for Power Systems. It is obsolete. | f:Obsolete.
+jzoa74uapk | Knowledge of random variables. | A random variable assigns numbers to the outcomes of a random process. Statistics syllabi teach it. | 
+o92byobbda | Ability to program in Oracle PL/SQL. | PL/SQL is Oracle's procedural extension to SQL. Oracle developer postings ask for it. | u:SQL
+jcunj1vs80 | Holding the Advanced Oncology Certified Clinical Nurse Specialist (AOCNS) credential. | The AOCNS, from ONCC, certified oncology clinical nurse specialists; it is now renewal-only. | 
+pcafi1oe35 | Holding a research doctorate in acoustical engineering. | A PhD in acoustical engineering is a research doctorate in sound and vibration. It rarely appears in postings. | 
+zpv7859rnp | Ability to provide orthopaedic nursing care. | Orthopaedic nursing cares for patients with musculoskeletal conditions and surgery. Ortho nurse postings ask for it. | 
+uacnrdn102 | Ability to unit test .NET code with MSTest. | MSTest is Microsoft's unit testing framework for .NET. .NET postings mention it. | 
+nlpp5heif9 | Knowledge of excess return in investing. | Excess return is the return above a benchmark or the risk-free rate. Finance syllabi teach it. | 
+gjzaap79p3 | Ability to install showers. | Shower installation is fitting shower bases, enclosures, valves and tile. Plumbing and remodelling postings ask for it. | 
+t1zvd2cmly | Knowledge of airworthiness engineering. | Airworthiness engineering ensures aircraft meet certification and continued-airworthiness standards. Aviation engineering postings ask for it. | 
+igt2ysl5qu | Holding a master's degree in sociology. | A master's in sociology is a graduate degree in society and social research. Research postings mention it. | 
+d848216rx6 | Ability to speak Ladino (Judeo-Spanish). | Ladino is the Romance language of Sephardic Jews. It rarely appears in postings. | 
+jqwk9m8qss | Ability to develop medical devices. | Medical device development takes devices from concept through design controls and regulatory approval. Medtech postings ask for it. | 
+pts4mjn76g | Ability to consolidate financial statements. | Financial consolidation combines financial statements of a parent and subsidiaries. Accounting postings ask for it. | 
+yjyj9s94qv | Knowledge of refugee issues. | Refugee issues cover asylum, resettlement and the rights and needs of refugees. Humanitarian postings ask for it. | 
+q98sd6zk57 | Ability to speak, read and write Finnish. | Finnish is a Uralic language and an official language of Finland. Translation postings ask for it. | 
+jz5tjsgtoi | Ability to manage network faxing with Zetafax. | Zetafax is network fax server software. It rarely appears in postings. | 
+q12fvgzu4o | Ability to analyse qualitative data. | Qualitative data analysis interprets text, interviews and observations through coding and themes. Research postings ask for it. | 
+s3xo61f08o | Ability to manage storage with ZFS. | ZFS is a combined file system and volume manager known for data integrity. Storage and Unix postings mention it. | 
+crh50e9tbb | Knowledge of HP NewWave. | NewWave was an HP object-oriented desktop environment for Windows in the late 1980s. It is obsolete. | f:Obsolete.
+g8dmmi8x4u | Holding a research doctorate in anthropology. | A PhD in anthropology is a research doctorate in human societies and cultures. Academic postings ask for it. | 
+n0qcfbikx2 | Ability to build business applications on Apache OFBiz. | Apache OFBiz is an open-source ERP and e-commerce framework. It rarely appears in postings. | 
+ao9i14atpq | Ability to manage procurement with Ivalua. | Ivalua is source-to-pay procurement software. Procurement systems postings mention it. | 
+nwq0qkktaq | Ability to write secure code. | Secure coding is writing software that avoids vulnerabilities, following practices like OWASP. Developer postings ask for it. | 
+qagjnsro1z | Holding a Jamf certification. | Jamf certifications (Jamf 100–400) certify Apple device management with Jamf Pro. Mac admin postings ask for them. | 
+xrefvz1hhl | Holding the PMI Risk Management Professional (PMI-RMP) credential. | The PMI-RMP certifies project risk management. PM postings list it. | c:Risk management
+ol2phpl3pm | Holding a research doctorate in nutritional sciences. | A PhD in nutritional sciences is a research doctorate in nutrition. Research postings ask for it. | 
+gsdsjal4b0 | Knowledge of media production, communication and dissemination. | Communications and media, an O*NET knowledge area, covers media production, communication and dissemination techniques. | f:The name reads as an O*NET knowledge area.
+t3hoz1q1jm | Ability to speak Hokkien. | Hokkien is a Southern Min Chinese language spoken in Fujian, Taiwan and Southeast Asia. Postings in Singapore and Malaysia mention it. | 
+uj60c4yrr3 | Ability to speak Frisian. | Frisian is a West Germanic language spoken in the Netherlands and Germany. It rarely appears in postings. | 
+o0rsreqle5 | Knowledge of direct digital control for building systems. | Direct digital control uses microprocessor controllers to run HVAC and building systems. BAS postings ask for it. | 
+jx7it8oo69 | Knowledge of Apple's 3D Touch. | 3D Touch was pressure-sensitive touch on iPhones, discontinued in 2019. | f:Discontinued.
+cvzbo9nnh4 | Knowledge of SAS 70 service organization audits. | SAS 70 was a US auditing standard for service organization controls, replaced by SSAE 16 and SOC reports in 2011. | f:Superseded by SSAE 16 / SOC reports.
+eaovn4ljeo | Ability to program in D. | D is a systems programming language with C-like syntax. It rarely appears in postings. | 
+ikj5ftub8s | Knowledge of symmetric multiprocessing on multi-core chips. | Multi-core SMP runs one operating system across several identical cores sharing memory. Embedded postings mention it. | 
+fgb46izjlv | Ability to install telecommunications equipment. | Telecom installation is mounting and connecting phone, network and cabling equipment. Telecom technician postings ask for it. | 
+ph59oq0mks | Holding the Certified Hospice and Palliative Care Administrator (CHPCA) credential. | The CHPCA, from HPCC, certifies administrators in hospice and palliative care. | 
+y29ojw2nif | Ability to run containers on Google Kubernetes Engine. | GKE is Google Cloud's managed Kubernetes service. Cloud postings ask for it. | 
+nrksbh186s | Ability to build with brick, block and stone. | Masonry is building structures from units laid in mortar. Mason postings ask for it. | 
+ihoes4l8q2 | Ability to administer Linux systems. | Linux systems administration is installing, configuring and maintaining Linux servers. Sysadmin postings ask for it. | -v:UNIX; -v:Linux; v:Linux~in a context about administering servers
+a80qfhw79g | Knowledge of the MP/M operating system. | MP/M was Digital Research's multi-user version of CP/M. It is obsolete. | f:Obsolete.
+pe7jh92y5e | Knowledge of cognitive load theory. | Cognitive load is the amount of working memory a task uses. Instructional design and UX postings mention it. | 
+r8adb73z22 | Ability to build IoT solutions on Azure IoT. | Azure IoT is Microsoft's set of services for connecting and managing IoT devices. IoT postings mention it. | x:AWS IoT~Amazon's equivalent
+gyeh0f1zkb | Ability to manage workplaces with iOFFICE. | iOFFICE is workplace and facilities management software, now Eptura. Facilities postings mention it. | 
+g8wpcg6rtm | Holding the Certified IRB Manager (CIM) credential. | The CIM, from PRIM&R, certifies managers of institutional review boards. Research compliance postings list it. | 
+d7860gye0y | Ability to do GitOps deployments with Flux CD. | Flux CD is a GitOps tool that syncs Kubernetes clusters with Git. DevOps postings mention it. | 
+qg4095ukub | Ability to build websites and web applications. | Web development is building websites with front-end and back-end technologies. Developer postings ask for it. | 

@@ -1,0 +1,50 @@
+l57lp52lzn | Holding a diploma in medical assisting. | A medical assistant diploma trains people for clinical and admin work in medical offices. It prepares them for certification such as the CMA. | x:Certified Medical Assistant~The certification exam
+xd4rfzhfig | Ability to build ETL packages with SQL Server Integration Services. | SSIS is Microsoft's ETL tool for SQL Server. BI and data postings ask for it. | 
+gakz93rpch | Holding an American Culinary Federation (ACF) certification. | ACF certifications, such as Certified Executive Chef, certify culinary professionals. Chef postings mention it. | 
+lmvdc9t3aj | Holding the Oracle Database 11g Administrator Certified Associate credential. | This Oracle credential certified entry-level 11g DBAs. It is retired with 11g. | h:Oracle Certified Associate; f:Retired.
+oj9fkwcd4e | Knowledge of software-defined WAN. | SD-WAN manages wide area network traffic through software over many link types. Network engineer postings ask for it. | -v:Software-Defined Networking Wide Area Network (SD-WAN); h:Wide area network
+bsoj3bsv0c | Holding the CompTIA Advanced Security Practitioner (CASP+) certification. | CASP+, now CompTIA SecurityX, is an advanced hands-on security certification. Security postings ask for it. | f:Renamed CompTIA SecurityX.
+v716ee80n4 | Ability to design interactive websites. | Interactive web design plans how users interact with website elements. Web designer postings ask for it. | 
+rxfjfx408i | Ability to speak Uzbek. | Uzbek is the Turkic national language of Uzbekistan. Interpreter postings ask for it. | 
+xue2oxixc6 | Ability to apply human factors engineering. | Human factors engineering designs systems around human abilities and limits. Medical device and aerospace postings ask for it. | 
+da6w8bk08i | Holding a master's degree in software engineering. | A master's in software engineering is a graduate degree in building software. Engineer postings accept it. | 
+qh6fizk0v5 | Ability to install and operate CCTV cameras. | CCTV cameras are video cameras for surveillance. Security postings ask for it. | 
+j8bl0xzopw | Ability to use version control. | Version control tracks changes to files over time, as Git does. Software postings ask for it. | -v:Revision Control Softwares; -v:Revision Controls
+cr5t68tqrq | Knowledge of ethical AI. | Ethical AI applies fairness, accountability and transparency to AI systems. AI governance postings ask for it. | 
+r75j0tgdjg | Knowledge of syndicated finance. | Syndicated finance arranges loans funded by groups of lenders. Banking postings ask for it. | 
+j24v0pklgn | Ability to automate browsers with WebDriverJS. | WebDriverJS, the selenium-webdriver package, is Selenium's JavaScript binding. QA postings mention it. | u:Selenium
+lqet2be6bf | Knowledge of early childhood mental health. | Early childhood mental health supports the emotional development of children up to about five. Child welfare postings mention it. | 
+p2oyrsnqqq | Ability to render architectural visualizations with Lumion. | Lumion is real-time 3D rendering software for architects. Architecture postings mention it. | 
+ii8017l1zt | Ability to communicate a brand. | Brand communication conveys a brand's message and identity to audiences. Marketing postings ask for it. | 
+w9txcvzcai | Holding the Series 86 Research Analyst qualification. | Series 86 is the FINRA analysis exam that, with Series 87, qualifies research analysts. Equity research postings ask for it. | 
+ms1ijh6bgm | Ability to set up Polycom conferencing equipment. | Polycom made video and audio conferencing equipment, now under HP Poly. AV postings mention it. | 
+t1q7dip5ju | Ability to document APIs with Swagger UI. | Swagger UI renders OpenAPI specifications as interactive documentation. Backend postings mention it. | 
+g2o5zhkc75 | Knowledge of Intended Nationally Determined Contributions. | INDCs were countries' proposed climate pledges before the Paris Agreement, later NDCs. Climate policy postings mention it. | f:Superseded by NDCs.
+rr6mhwi027 | Ability to manage constituent relationships. | Constituent relationship management tracks relationships with donors, members or voters. Nonprofit postings ask for it. | 
+x80b957frq | Ability to program in Ada. | Ada is a strongly typed language used in defence and aerospace. Embedded postings mention it. | -v:Ada (Programming Language); v:Ada~in a context about programming
+eka9kv46sl | Ability to access databases with Spring JdbcTemplate. | JdbcTemplate is Spring's helper class for JDBC database access. Java postings mention it. | 
+b2v1wqvblx | Holding Chartered Member status of the CIPD. | Chartered Member (MCIPD) is a professional grade of the UK's Chartered Institute of Personnel and Development. UK HR postings ask for it. | 
+u1uj3cchu7 | Knowledge of physical security. | Physical security protects people and assets with locks, guards and surveillance. Security postings ask for it. | x:Cybersecurity~Digital security
+isam351nfh | Ability to perform endovascular aneurysm repair. | EVAR repairs aortic aneurysms with a stent graft through the arteries. Vascular surgery postings mention it. | -v:EndoVasculars Aneurysm Repair
+psbz3dahyh | Knowledge of dietetics. | Dietetics applies nutrition science to health. Dietitian postings ask for it. | 
+d47v9bvb4w | Ability to minify JavaScript with UglifyJS. | UglifyJS is a JavaScript minifier. It rarely appears in postings. | 
+qxmxb2pd9w | Ability to design interactions. | Interactive design shapes how users interact with digital products. Designer postings ask for it. | 
+zt8mhiw2a3 | Ability to manage clinical trial data with electronic data capture systems. | EDC systems collect clinical trial data electronically. Clinical data postings ask for it. | 
+ol3tcjafkq | Ability to speak Dutch. | Dutch is the language of the Netherlands and Flanders. Postings ask for it. | 
+pj8vtw9tl2 | Holding the Certified Medical Assistant (CMA) credential. | The CMA, from AAMA, certifies medical assistants. Medical assistant postings ask for it. | x:Certified Clinical Medical Assistant~NHA credential
+yeivh58gux | Ability to build web front ends with UIkit. | UIkit is a front-end web framework from YOOtheme. It rarely appears in postings. | x:UIKit~Apple iOS framework
+q5554wmlbq | Knowledge of art theory. | Art theory studies the nature and principles of art. Academic postings mention it. | 
+kgaqqkj85g | Knowledge of engineering mathematics. | Engineering mathematics covers calculus, linear algebra and differential equations for engineers. Engineering syllabi teach it. | h:Mathematics
+i2id84nuwe | Ability to build reports with Unisys MAPPER. | MAPPER was a Unisys report and database tool, later BIS. It is largely obsolete. | -v:MAintain Prepare SandsProduce Executive Reports (MAPPER); f:Largely obsolete.
+xzgr4torrj | Holding DoD IAM Level I certification. | IAM Level I was a DoD 8570 category for information assurance managers. DoD 8140 has replaced it. | f:Superseded by DoD 8140.
+if66i05y4n | Ability to program in LabVIEW. | LabVIEW is NI's graphical programming environment for test and measurement. Test engineer postings ask for it. | -v:Labview (Programming Language)
+xvxyocp9rg | Ability to program in Oberon. | Oberon is a language and operating system by Niklaus Wirth. It rarely appears in postings. | -v:Oberon (Programming Language)
+oh51xzioea | Ability to understand business finances. | Financial acumen is understanding financial statements and how decisions affect them. Management postings ask for it. | 
+sc4h9yyxxk | Ability to build web apps with Phalcon. | Phalcon is a PHP framework delivered as a C extension. It rarely appears in postings. | 
+nu5e6kxo1b | Ability to manage leases with IDS InfoLease. | InfoLease is lease and asset finance software from IDS. Equipment finance postings mention it. | 
+w1fhvynkfa | Holding an Associate of Applied Science in dental hygiene. | This AAS trains dental hygienists. Hygienist postings ask for it. | 
+e61znnqfwb | Ability to manage endpoints. | Endpoint management deploys, updates and secures computers and devices. IT postings ask for it. | 
+dv3erg8efp | Holding the PMI Agile Certified Practitioner (PMI-ACP) certification. | PMI-ACP certifies agile practitioners. Project manager postings mention it. | 
+jw6x9szvrd | Ability to express ideas through speech. | Oral expression, an O*NET ability, is conveying information in speech so others understand. | f:The name reads as an O*NET ability.; x:Written Expression~Writing
+jh0k0hbu0d | Ability to educate patients. | Patient education teaches patients about conditions and care. Nursing postings ask for it. | 
+aagb58wtxo | Knowledge of multicultural education. | Multicultural education teaches with respect for diverse cultures. Teacher postings mention it. | 

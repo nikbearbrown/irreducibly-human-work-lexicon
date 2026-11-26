@@ -1,0 +1,50 @@
+wrn21idyay | Knowledge of relational database management systems. | An RDBMS stores data in related tables queried with SQL, such as Oracle, MySQL or PostgreSQL. Database postings ask for it. | x:NoSQL database~Non-relational stores | -v:Relational Database Management System (RDMS)
+sh4sf1nwm1 | Ability to program in Crystal. | Crystal is a compiled language with Ruby-like syntax. It rarely appears in postings. | 
+sdbxdjj5vf | Holding the International Board Certified Lactation Consultant (IBCLC) credential. | The IBCLC certifies lactation consultants who support breastfeeding. Maternity postings ask for it. | 
+aero8oblws | Knowledge of biochemical genetics. | Biochemical genetics studies inherited metabolic disorders and their diagnosis. Genetics lab postings mention it. | 
+d0ed9l2xy1 | Holding a bachelor's degree in special education. | A bachelor's in special education prepares teachers for students with disabilities. Special education teacher postings ask for it. | 
+aeainj02qw | Knowledge of shoulder surgery. | Shoulder surgery treats injuries and conditions such as rotator cuff tears and arthritis. Orthopaedic postings mention it. | h:Surgery
+kl3e9v6s3q | Holding the Red Hat Certified Engineer (RHCE) credential. | The RHCE certifies advanced Red Hat Enterprise Linux administration and automation. Linux postings ask for it. | 
+n760j93js9 | Knowledge of the circular economy. | The circular economy keeps materials in use through reuse, repair and recycling. Sustainability postings ask for it. | 
+u4n357y1ti | Knowledge of animal science. | Animal science studies the biology and management of domestic animals. Livestock postings ask for it. | o:Dairy science
+eqs79srrpm | Knowledge of image and video compression. | Image and video compression reduces data size with codecs such as JPEG and H.264. Video engineering postings ask for it. | 
+o410b5qw7m | Ability to speak Gikuyu (Kikuyu). | Gikuyu is a Bantu language of Kenya. Interpreter postings ask for it. | 
+jxiyhx9zaw | Knowledge of the NIST SP 800 series of security publications. | The NIST SP 800 series are US guidance documents on information security, including 800-53. Federal security postings ask for it. | o:NIST SP 800-53
+rtmy2yzpq1 | Ability to arrange syndicated loans. | Loan syndication is several lenders jointly funding one large loan. Corporate banking postings ask for it. | 
+rheyc8p5bk | Knowledge of authorised capital. | Authorised capital is the maximum share capital a company may issue under its constitution. Corporate finance postings mention it. | 
+zj1neae89l | Ability to manage content with IBM FileNet. | IBM FileNet is enterprise content management software. ECM postings ask for it. | 
+tuj4ch0b9s | Ability to use a prosecutor's case management information system. | A prosecutor's management information system (PROMIS) tracks cases in a prosecutor's office. Legal postings mention it. | 
+cyv86lx0k4 | Holding the AAPC Certified Professional Coder (CPC) credential. | The CPC, from AAPC, certifies medical coders for physician services. Medical coder postings ask for it. | x:Certified Professional Biller~The billing credential
+xiupcoba2m | Ability to code HTML emails. | HTML email coding builds emails that render across email clients. Email developer postings ask for it. | u:HTML
+ubbks6pmjn | Ability to manage data warehouses. | Data warehouse management keeps a central analytic store loaded, tuned and governed. BI postings ask for it. | 
+sps2jl4lnt | Ability to edit video with EDIUS. | EDIUS is video editing software from Grass Valley, used in broadcast. Video editor postings mention it. | 
+yf5sbs8dj5 | Knowledge of engineering statics. | Statics studies forces on bodies at rest. Engineering syllabi teach it. | x:Engineering statistics~Similar name, different field
+bzu9711vdy | Ability to manage product catalogues. | Product catalogue management keeps product data, categories and listings accurate. E-commerce postings ask for it. | 
+fki4wx2hnj | Ability to build integrations with TIBCO Designer. | TIBCO Designer is the design tool for TIBCO BusinessWorks 5. Integration postings mention it. | 
+gbsppteik8 | Ability to prevent information leaks. | Information leak prevention stops sensitive data leaving an organization through DLP tools and policies. Security postings ask for it. | 
+sadiccf9ey | Ability to orchestrate data pipelines with Apache Airflow. | Airflow schedules and monitors workflows defined as Python DAGs. Data engineer postings ask for it. | 
+u8t0sc4hp2 | Knowledge of ISO 19011 audit guidelines. | ISO 19011 gives guidelines for auditing management systems. Quality auditor postings ask for it. | 
+fjun60qhx2 | Ability to store data with MapDB. | MapDB is an embedded Java database engine. It rarely appears in postings. | 
+euymx83iu8 | Knowledge of electrosurgery. | Electrosurgery uses high-frequency current to cut or coagulate tissue. OR postings mention it. | 
+h9ukmahwf4 | Ability to draw use case diagrams. | A use case diagram is a UML diagram showing actors and their interactions with a system. Business analyst postings ask for it. | 
+q30r29eun4 | Ability to suture wounds surgically. | Surgical suturing closes wounds with stitches. Surgeon and PA postings ask for it. | 
+e7ikkvaim5 | Ability to lead product teams and strategy. | Product leadership sets product vision and leads product managers and teams. Senior PM postings ask for it. | 
+byo5hfwztp | Ability to build semantic web applications with Apache Jena. | Apache Jena is a Java framework for RDF and SPARQL. Knowledge graph postings mention it. | 
+yefg9c7faq | Ability to run email campaigns in Constant Contact. | Constant Contact is email marketing software for small businesses. Marketing postings mention it. | 
+o37ow8vloe | Ability to work with numbers quickly and correctly. | Number facility, an O*NET ability, is adding, subtracting, multiplying or dividing quickly and correctly. | f:The name reads as an O*NET ability.
+u2u4n7azpr | Ability to store time series data with OpenTSDB. | OpenTSDB is a time series database on HBase. It rarely appears in postings. | 
+rc7lhj91wt | Holding the Certified Asthma Educator (AE-C) credential. | The AE-C, from NAECB, certifies asthma educators. Respiratory postings list it. | 
+j7xny1k71t | Holding the Certified Plastic Surgical Nurse (CPSN) credential. | The CPSN certifies nurses in plastic and reconstructive surgery. Plastic surgery nursing postings ask for it. | 
+qxv6wnwthm | Knowledge of ISO 14971 medical device risk management. | ISO 14971 sets requirements for risk management of medical devices. Medical device quality postings ask for it. | 
+d9k6zlxp17 | Holding Adult Nurse Practitioner certification. | Adult nurse practitioner certification certified NPs in adult care; it is retired in favour of adult-gerontology certification. | f:Retired; replaced by adult-gerontology NP.
+t4ycek1bl5 | Holding an Associate of Science in software development. | An AS in software development is a two-year degree in programming. Junior developer postings accept it. | 
+ptaszdu8ky | Knowledge of engineered materials arresting systems (EMAS) at airports. | An EMAS is a bed of crushable material at a runway end that stops overrunning aircraft. Airport engineering postings mention it. | 
+i77a6xif9h | Ability to deliver therapeutic interventions. | Therapeutic interventions are treatments that improve a client's health or function. Therapist postings ask for it. | 
+wf2959cm1y | Knowledge of data storage technologies. | Data storage technologies include disks, SSDs, SAN, NAS and cloud storage. Storage postings ask for it. | 
+cw7k737uu3 | Ability to use the Finacle core banking platform. | Finacle is Infosys's core banking software. Bank IT postings ask for it. | 
+q1ftukrvue | Holding an Associate of Applied Science in welding technology. | This AAS trains welders in processes and fabrication. Welder postings accept it. | 
+ncxhzvv61k | Ability to write YARA rules to detect malware. | YARA is a tool for identifying malware by pattern rules. Threat analyst postings ask for it. | 
+ixojaf13wa | Holding an Associate of Applied Science in animation and CGI motion. | This AAS trains animators in 3D animation and motion graphics. | 
+c32hcf7j71 | Ability to speak Kalenjin. | Kalenjin is a Nilotic language group of Kenya. It rarely appears in postings. | 
+hi0xyz0z8t | Holding an Associate of Applied Science in veterinary technology. | This AAS trains vet techs for credentialing. Vet tech postings ask for it. | 
+eixg7h0h2o | Knowledge of the autonomic nervous system. | The autonomic nervous system controls involuntary functions such as heart rate and digestion. Health syllabi teach it. | -v:Autonomic Servous System; o:Parasympathetic nervous system

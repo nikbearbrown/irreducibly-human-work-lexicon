@@ -1,0 +1,50 @@
+wnjgloor52 | Holding a bachelor's degree in English. | A bachelor's in English is an undergraduate degree in literature, writing and language. Writing, editing and teaching postings mention it. | 
+jjtseh98ty | Ability to extract cannabinoids from cannabis and hemp. | Cannabis extraction uses solvents such as CO2, ethanol or hydrocarbons to make concentrates and oils. Cannabis lab postings ask for it. | 
+bo9ownd66p | Holding the Registered Phlebology Sonographer (RPhS) credential. | The RPhS, from CCI, certifies sonographers in venous ultrasound. Vascular ultrasound postings list it. | 
+z19cg4t2il | Holding a diploma in surgical technology. | A surgical technology diploma trains people to prepare operating rooms and assist surgeons. It prepares graduates for CST certification. | 
+v059qbltq4 | Ability to set a strategy for customer experience across touchpoints. | Customer experience strategy defines how an organization designs and improves customer interactions. CX postings ask for it. | x:User experience design~Product interfaces rather than whole journeys
+z83cabeb9c | Ability to plan, run and close projects to meet goals. | Project management is applying knowledge, skills and tools to deliver projects on scope, time and budget. A great many postings ask for it. | 
+l75vqcnw5f | Ability to weigh costs and benefits of actions and choose the best one. | Judgment and decision making, an O*NET skill, is considering the costs and benefits of potential actions. | f:The name reads as an O*NET skill.
+e4939h1iss | Knowledge of the Amiga personal computer platform. | The Amiga was a line of Commodore computers from 1985 to the 1990s, known for multimedia. It is obsolete. | f:Obsolete.
+iao10kb09n | Holding a bachelor's degree in public policy. | A bachelor's in public policy is an undergraduate degree in policy analysis, economics and government. Policy postings mention it. | 
+uoxx4n4fl1 | Ability to cut and prepare meat. | Butchering is breaking down carcasses and cutting meat for sale. Meat cutter postings ask for it. | 
+pq42hvufy2 | Holding the GIAC Certified Enterprise Defender (GCED) credential. | The GCED certifies skills in defensive network security and incident handling. Security postings list it. | c:Network security
+edoqm7c042 | Ability to use Adobe Fonts (formerly Typekit). | Adobe Fonts is a font subscription service in Creative Cloud. Design postings mention it. | 
+sj104rmi1w | Holding a bachelor's degree in computer science. | A bachelor's in computer science is an undergraduate degree in programming, algorithms and systems. Software postings ask for it. | c:Computer science
+pjem268xhe | Ability to speak Jiba, a Jukunoid language of Nigeria. | Jiba is a Jukunoid language spoken in Nigeria. It rarely appears in postings. | 
+eq2ind69e6 | Ability to analyse value streams to remove waste. | Value stream analysis maps the steps that deliver value to a customer to find waste. Lean postings ask for it. | 
+bw6z24sazd | Ability to manage ad inventory with DoubleClick for Publishers. | DoubleClick for Publishers was Google's ad server for publishers, now Google Ad Manager. Ad ops postings mention it. | f:Now Google Ad Manager.
+ddvoxpkhp6 | Ability to develop proposals for bids and grants. | Proposal development is planning and writing proposals that win contracts or funding. Proposal writer postings ask for it. | x:Proposal management~Managing the whole proposal process
+biutzncwu4 | Holding the Registered Diagnostic Cardiac Sonographer (RDCS) credential. | The RDCS, from ARDMS, certifies sonographers in echocardiography. Echo postings ask for it. | x:Registered Cardiac Sonographer~The CCI equivalent
+d0ken0jrsa | Ability to speak, read and write Tigrinya. | Tigrinya is a Semitic language of Eritrea and Ethiopia. Interpreter postings ask for it. | 
+k0ly5hwdcx | Knowledge of patient identification and matching across health records. | Patient matching links records for the same patient across systems using demographics and algorithms. Health IT postings mention it. | 
+izg9ttrmk4 | Ability to build applications on low-code development platforms. | A low-code platform builds applications through visual tools with little hand coding, such as OutSystems or Mendix. App development postings mention it. | 
+k2ayt41ale | Having self-confidence in one's abilities. | Self-confidence is trust in one's abilities and judgment. Postings list it as a trait. | -v:Self- Confident
+zo2ftjz7uz | Ability to generate or use different sets of rules to group things. | Category flexibility, an O*NET ability, is producing or using different rules to combine or group things. | f:The name reads as an O*NET ability.
+yl4tfx5kdt | Ability to automate Microsoft Office with VBA. | Visual Basic for Applications is Microsoft's macro language for Excel and other Office apps. Analyst postings ask for it. | 
+srhmowmu6y | Knowledge of contour plowing to reduce soil erosion. | Contour plowing is tilling across a slope along its contour lines to reduce runoff. Agronomy syllabi teach it. | 
+hoz7m36u58 | Holding a barbering certificate. | A barbering certificate trains people in haircutting, shaving and grooming toward a barber license. Barber postings require it. | 
+b06yv9nln6 | Ability to handle and navigate a vessel at sea. | Seamanship is the skill of operating a ship or boat: navigation, rope work and safety. Mariner postings ask for it. | 
+gvutm225wm | Ability to program in CFML for Adobe ColdFusion. | CFML is the tag-based scripting language of ColdFusion. ColdFusion postings ask for it. | u:Adobe ColdFusion
+i31i4j847r | Ability to automate .NET builds with NAnt. | NAnt is a .NET build tool modelled on Ant; it is largely obsolete. Older .NET postings mention it. | f:Obsolete.
+xspx57iq85 | Ability to render PDFs in the browser with PDF.js. | PDF.js is Mozilla's JavaScript library for displaying PDFs. Front-end postings mention it. | 
+t3q15beb4e | Ability to persist Java objects with JPA 2.0. | JPA 2.0 is version 2 of the Java Persistence API for object-relational mapping. Java postings ask for it. | u:Java
+q4anc8fb3e | Ability to guide groups to make decisions together. | Group decision-making is a process where members choose among options together. Facilitator postings ask for it. | o:Consensus decision-making
+p08u5bg76s | Ability to analyse real estate markets. | Real estate market analysis studies supply, demand, prices and trends. Real estate postings ask for it. | 
+c0src1lras | Knowledge of HVAC control systems. | HVAC controls regulate heating, ventilation and air conditioning through thermostats, sensors and building automation. HVAC technician postings ask for it. | 
+nsmbg7th3s | Knowledge of laws, legal codes, court procedures and government. | Law and government, an O*NET knowledge area, covers laws, legal codes, court procedures, regulations and political processes. | f:The name reads as an O*NET knowledge area.
+fo93ho62h9 | Knowledge of chemical reactions. | A chemical reaction transforms substances into others. Chemistry syllabi teach it. | 
+n54edboexh | Knowledge of Wi-Fi 6 (IEEE 802.11ax). | Wi-Fi 6 is the 802.11ax wireless LAN standard improving efficiency in dense networks. Networking postings mention it. | 
+kuq1oz5bcv | Knowledge of craniofacial surgery. | Craniofacial surgery corrects deformities of the head, skull and face. Surgical postings mention it. | h:Surgery
+qhpg663rey | Holding an Associate of Applied Science in fire science. | An AAS in fire science covers fire behaviour, prevention and suppression. Firefighter postings accept it. | 
+jeoopm6spn | Holding a master's degree in theater. | A master's in theater, often an MFA, is a graduate degree in acting, directing or design. Theater postings mention it. | 
+mzu6ras3dp | Knowledge of digital health technologies. | Digital health technologies include telehealth, wearables, apps and health IT. Health tech postings mention it. | 
+jr2nlrschs | Ability to write parallel programs for multi-core processors. | Multi-core programming uses threads and parallelism to exploit multiple CPU cores. Performance engineering postings ask for it. | 
+gowylqqu55 | Ability to review 3D project models with Autodesk Navisworks. | Navisworks is Autodesk software for BIM model review and clash detection. Construction BIM postings ask for it. | 
+jq8v5gedpq | Ability to simulate power system transients with ATP-EMTP. | The Alternative Transients Program is software for simulating electromagnetic transients in power systems. Power engineering postings mention it. | 
+v00xfjkjpc | Ability to draw charts with Chart.js. | Chart.js is a JavaScript charting library using HTML canvas. Front-end postings mention it. | 
+r24n38tdtv | Ability to sort and distribute mail. | Mail distribution is receiving, sorting and delivering mail inside an organization. Mailroom postings ask for it. | 
+gomxwo1cp5 | Ability to revise legal documents. | Revising legal documents is editing contracts and filings for accuracy and legal effect. Paralegal postings ask for it. | 
+ta99ww0mtl | Holding the Fellow of the Casualty Actuarial Society (FCAS) credential. | The FCAS is the highest credential of the Casualty Actuarial Society, for property and casualty actuaries. Actuarial postings ask for it. | 
+s0jgh1zbri | Knowledge of lookup tables. | A lookup table is an array replacing computation with indexed retrieval of precomputed values. Programming and spreadsheet work use them. | 
+c4n5rzxsre | Holding a master's degree in statistics. | A master's in statistics is a graduate degree in statistical theory and methods. Statistician postings ask for it. | 

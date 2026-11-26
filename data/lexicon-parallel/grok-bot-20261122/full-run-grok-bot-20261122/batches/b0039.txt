@@ -1,0 +1,50 @@
+hh5zk4fi3o | Ability to build IoT solutions on AWS IoT. | AWS IoT is Amazon's set of services for connecting and managing IoT devices. IoT postings mention it. | x:Azure IoT~Microsoft's equivalent
+jeai1j8uhz | Ability to speak, read and write French. | French is a Romance language spoken in France, Canada, Africa and elsewhere. Many postings ask for it. | 
+cs6ohbn8lo | Holding the Doctor of Medicine (MD) degree. | The MD is the professional degree for physicians. Physician postings require it. | 
+k03kjgprvl | Ability to draw free body diagrams. | A free body diagram shows all forces acting on an object. Engineering mechanics syllabi teach it. | 
+s46ycd317l | Ability to create visual content with Visme. | Visme is an online tool for presentations, infographics and graphics. Marketing postings mention it. | 
+hmao8iexo4 | Knowledge of the FIX protocol for trading messages. | Financial Information eXchange is a messaging standard for securities trading. Trading tech postings ask for it. | 
+kns9ez1tsx | Ability to use digital technologies confidently and adaptively. | Digital fluency is using digital tools effectively and adapting to new ones. Postings list it. | 
+wahzmqk51b | Ability to persuade others. | Persuasion is influencing others' beliefs or actions through argument and appeal. Sales and leadership postings ask for it. | 
+qlsxg8d6i9 | Knowledge of laser printing technology. | Laser printing uses a laser and toner to print on paper. Printer technician postings mention it. | x:Dot matrix printing~An older impact technology
+vaxzb7mo9m | Ability to build apps that run on several platforms from one codebase. | Cross-platform app development uses frameworks such as Flutter or React Native. Mobile postings ask for it. | 
+c34c0nwfxj | Ability to speak Galo, a Tani language of Arunachal Pradesh. | Galo is a Sino-Tibetan language of northeast India. It rarely appears in postings. | 
+tnin23ocyf | Holding a master's degree in landscape architecture. | The MLA is a graduate degree in landscape design. Landscape architect postings ask for it. | 
+jyqiuu1tqh | Holding a bachelor's degree in legal studies. | A bachelor's in legal studies is an undergraduate degree in law and legal systems. Paralegal postings mention it. | 
+q2z0yc5xlh | Holding a bachelor's degree in advertising. | A bachelor's in advertising is an undergraduate degree in advertising and creative strategy. Agency postings mention it. | 
+wvycqv51z7 | Ability to compute with Wolfram Mathematica. | Mathematica is Wolfram's software for symbolic and numerical computation. Research postings mention it. | 
+evzc8xqwgr | Knowledge of postorder tree traversal. | Postorder traversal visits a node's children before the node itself. CS syllabi teach it. | 
+cawilt2pya | Holding a bachelor's degree in public relations. | A bachelor's in public relations is an undergraduate degree in PR and communication. PR postings mention it. | 
+jctieiwib0 | Ability to design communication that changes health or social behaviour. | Behaviour change communication uses messaging to promote healthier behaviours. Global health postings ask for it. | 
+nmv4icsuk2 | Ability to use LinkedIn for networking, recruiting or marketing. | LinkedIn is the professional social network. Recruiter and marketing postings ask for it. | 
+haixa3s46p | Knowledge of a foreign language's structure, grammar and pronunciation. | Foreign language, an O*NET knowledge area, covers the structure and content of a foreign language. | f:The name reads as an O*NET knowledge area.
+kdyyyj7yda | Holding Engineer in Training (EIT) status. | EIT status comes from passing the FE exam, the first step to a PE license. Junior engineer postings ask for it. | 
+vvi21j5xkg | Ability to coordinate patients' appointments and care. | Patient coordination is scheduling and organizing patients' care across providers. Medical office postings ask for it. | 
+it615kyzux | Knowledge of the FinCEN 314 information-sharing program. | Under USA PATRIOT Act section 314, FinCEN shares and requests information on money laundering suspects with financial institutions. AML postings mention it. | 
+qavkwwt7mh | Holding a bachelor's degree in meteorology. | A bachelor's in meteorology is an undergraduate degree in atmospheric science. Meteorologist postings ask for it. | 
+nnzs6rvsc6 | Ability to build chatbots with Dialogflow. | Dialogflow is Google's platform for building conversational agents. Chatbot postings mention it. | 
+y37j4kl3jo | Ability to program in TypeScript. | TypeScript is a typed superset of JavaScript. Web developer postings ask for it. | 
+zbffxmp8sd | Knowledge of the WebDriver standard for browser automation. | WebDriver is a W3C standard interface for automating browsers, used by Selenium. QA automation postings ask for it. | 
+ayizahk9u0 | Ability to build applications on Appian. | Appian is a low-code platform for process automation. Appian developer postings ask for it. | 
+x6ouzz71v2 | Knowledge of hazardous energy control (lockout/tagout) procedures. | Energy control procedures isolate machines from energy during service, as OSHA lockout/tagout requires. Maintenance postings ask for it. | 
+tpzgmg30qp | Ability to personalize content and experiences for users. | Personalization tailors products, content or marketing to individuals using data. Marketing tech postings ask for it. | 
+ob5x7cidzc | Knowledge of Watcom SQL. | Watcom SQL was an embedded database, later SQL Anywhere. It is obsolete. | f:Obsolete.
+lf0wenajzy | Ability to monitor Azure resources with Azure Monitor. | Azure Monitor collects and analyses telemetry from Azure and on-premises systems. Azure ops postings ask for it. | 
+m2d5d0743r | Ability to perform molecular docking. | Molecular docking predicts how a small molecule binds to a protein. Drug discovery postings ask for it. | 
+rl31qhdfyv | Ability to teach with the Schoology learning management system. | Schoology is a K-12 LMS from PowerSchool. Teacher postings mention it. | 
+j8m25rqleq | Ability to load JavaScript modules with RequireJS. | RequireJS is an AMD module loader for JavaScript; it is largely obsolete. | f:Largely obsolete.
+dpym5atjbx | Knowledge of rehabilitation. | Rehabilitation restores function after injury or illness through therapy. Rehab postings ask for it. | -v:Rehabilitations
+wxk9jzsyrf | Holding the SACA Certified Industry 4.0 Associate – Advanced Operations credential. | This SACA credential certifies advanced operations skills in automated manufacturing. Manufacturing technician postings mention it. | 
+jfqj25il68 | Ability to assess the blast radius of a change or failure. | Blast radius analysis estimates how widely a failure or change could spread. SRE and security postings mention it. | 
+wiyjakztr1 | Knowledge of plastic surgery. | Plastic surgery restores or reshapes body parts, reconstructive or cosmetic. Surgical postings mention it. | h:Surgery; o:Breast surgery
+hwxvod3yzt | Knowledge of X3D for web 3D graphics. | X3D is an ISO XML-based format for 3D graphics, successor to VRML. It rarely appears in postings. | 
+zfj2qiys3k | Ability to manage properties with Yardi. | Yardi is property management and real estate software. Property manager postings ask for it. | 
+lkf15jjd0m | Knowledge of art history. | Art history studies art and its development over time. Museum postings ask for it. | 
+vgvlsy2tw5 | Holding the Certified Case Manager (CCM) credential. | The CCM, from CCMC, certifies case managers in healthcare. Case manager postings ask for it. | 
+ihar353g3k | Holding a research doctorate in chemistry. | A PhD in chemistry is a research doctorate in chemistry. R&D postings ask for it. | c:Chemistry
+e2co6cr2s0 | Ability to manage risks from third parties and vendors. | Third-party risk management assesses and monitors risks from suppliers and vendors. Risk postings ask for it. | h:Risk management
+f11mw129kl | Ability to back up files with Areca Backup. | Areca Backup is open-source file backup software. It rarely appears in postings. | 
+xuxkxuxr31 | Knowledge of the HincII restriction enzyme. | HincII is a type II restriction enzyme that cuts DNA at GTYRAC. Molecular biology labs use it. | 
+kqgsngz45v | Ability to build workflows with IBM Business Process Manager. | IBM BPM is a business process management platform, now part of IBM Cloud Pak for Business Automation. BPM postings mention it. | 
+ecqh2a4ca4 | Ability to produce animated explainer videos. | Explainer video production makes short animated videos explaining products or ideas. Motion designer postings ask for it. | 
+laprlr625q | Holding UK Counter Terrorist Check (CTC) clearance. | CTC is the basic UK national security vetting level for roles near potential terrorist targets. UK postings require it. | x:Security Check (SC) clearance~A higher level

@@ -1,0 +1,50 @@
+ewju5724wx | Ability to build Flex applications with the Cairngorm framework. | Cairngorm was an MVC framework for Adobe Flex; it is obsolete. | f:Obsolete.
+j1abbwju4o | Holding the Registered Health Information Administrator (RHIA) credential. | The RHIA, from AHIMA, certifies health information management professionals at the bachelor's level. HIM postings ask for it. | x:Registered Health Information Technician~The associate-level credential
+lqu7mimyve | Holding a research doctorate in education. | A PhD in education is a research doctorate in educational theory and research. Academic postings ask for it. | 
+kkfv3vm6m3 | Holding a basic automotive maintenance certificate. | A basic automotive maintenance certificate shows training in routine vehicle service such as oil changes and tyres. Lube technician postings accept it. | 
+jpejvd4f2s | Knowledge of lawful interception of communications. | Lawful interception is legally authorised interception of communications by telecom operators for law enforcement. Telecom postings mention it. | 
+cae75hpys3 | Ability to collect and analyse dried blood spot samples. | Dried blood spot sampling collects blood drops on filter paper for testing, as in newborn screening. Lab postings mention it. | 
+ft1f82qoac | Ability to design networks on AWS. | AWS networking covers VPCs, subnets, routing, load balancing and connectivity in Amazon Web Services. Cloud postings ask for it. | h:Computer networking; u:Amazon Web Services
+ja1oge4jc3 | Ability to market on Pinterest. | Pinterest is a visual discovery and social platform. Social media postings mention it. | 
+jc0wllogrr | Ability to assess a person's nutritional status. | Nutritional assessment evaluates diet, body measures and labs to diagnose nutrition problems. Dietitian postings ask for it. | 
+t4wzn7vzqx | Knowledge of soot blowers in boilers. | A soot blower removes soot and ash from boiler tubes with steam or air. Power plant postings mention it. | 
+d189db9iq4 | Holding a GIS certificate. | A GIS certificate is an academic certificate in geographic information systems. GIS postings accept it. | 
+ch6dqtum68 | Ability to design signs with FlexiSIGN. | FlexiSIGN is sign-making software for vinyl cutting and printing. Sign shop postings ask for it. | 
+swoghz2nu2 | Ability to install and maintain mouldings and trim. | Moulding installation is fitting decorative trim such as baseboards and crown moulding. Carpentry postings ask for it. | 
+kjyp8z5e06 | Knowledge of the COSO internal control framework. | The COSO framework sets standards for internal control and enterprise risk management. Audit postings ask for it. | 
+w169ky8jd2 | Knowledge of disability insurance. | Disability insurance replaces income when illness or injury stops someone working. Insurance postings mention it. | 
+clqf1bf58h | Ability to assess fraud risk. | A fraud risk assessment identifies where an organization is exposed to fraud. Audit and compliance postings ask for it. | 
+ie3ky4o9l0 | Ability to clean and reshape raw data for analysis. | Data wrangling transforms messy data into a usable format. Data analyst postings ask for it. | 
+uqjc6llawt | Knowledge of pharmacoinformatics. | Pharmacoinformatics applies informatics to drug discovery and medication use. Pharma informatics postings mention it. | 
+xbpkjhdd5p | Holding a bachelor's degree in graphic design. | A bachelor's in graphic design is an undergraduate degree in visual communication. Designer postings ask for it. | 
+xl6126omq1 | Knowledge of dairy science. | Dairy science studies milk production, dairy cattle and dairy products. Dairy postings ask for it. | 
+vivxc5g99i | Ability to manage financial risk. | Financial risk management identifies and hedges market, credit and liquidity risk. Risk postings ask for it. | h:Risk management
+i9pfxulhzp | Knowledge of mass media. | Mass media are channels reaching large audiences, such as TV, radio and newspapers. Communications syllabi teach it. | 
+seeljv809d | Ability to give information, advice and guidance on careers or learning. | Information, advice and guidance (IAG) is UK career guidance helping people with education and employment choices. Careers adviser postings ask for it. | 
+q19rzqt2qa | Ability to use abdominal and lower back muscles to support the body. | Trunk strength, an O*NET ability, is using abdominal and back muscles repeatedly or continuously without fatigue. | f:The name reads as an O*NET ability.
+ghalca0lm7 | Ability to manage messaging with TIBCO EMS. | TIBCO Enterprise Message Service is JMS messaging middleware. Integration postings ask for it. | 
+uu17w6c03r | Knowledge of media ethics. | Media ethics studies ethical principles in journalism and media. Journalism syllabi teach it. | 
+ffswfagi3s | Holding the CompTIA Mobility+ certification. | CompTIA Mobility+ certified skills in mobile device management; it is retired. | f:Retired.
+e528lasxbu | Knowledge of chronometers. | A chronometer is a precise timekeeper, historically for marine navigation. It rarely appears in postings. | 
+x7vsg5c2ry | Holding an Associate of Applied Science in logistics and supply chain management. | This AAS covers logistics, inventory and supply chain operations. Logistics postings accept it. | 
+r70i14mefs | Holding a diploma in massage therapy. | A massage therapy diploma trains therapists for licensure. Massage therapist postings require it. | 
+mpc9ar27l6 | Ability to sell franchises. | Franchise sales is recruiting franchisees and selling franchise opportunities. Franchise development postings ask for it. | 
+b4hi4ko6px | Ability to operate an electron microscope. | An electron microscope images specimens with electron beams at very high magnification. Materials and biology lab postings ask for it. | 
+dv5vi280tf | Ability to market products online. | E-marketing is marketing through digital channels such as search, email and social media. Marketing postings ask for it. | 
+op0noafec1 | Holding a certified hemodialysis technician credential. | A certified hemodialysis technician credential (CCHT or CHT) certifies technicians who run dialysis. Dialysis postings require it. | 
+w46y0zrfqd | Holding the ASQ Certified Biomedical Auditor (CBA) credential. | The CBA certifies auditors of medical device quality systems. Medical device quality postings list it. | 
+xffmlbo46l | Knowledge of the CommonJS module format. | CommonJS is a JavaScript module format using require and module.exports, used by Node.js. JavaScript postings mention it. | 
+mnaz7zhjk5 | Holding a research doctorate in mechanical engineering. | A PhD in mechanical engineering is a research doctorate in mechanics and machines. R&D postings ask for it. | 
+aif3w1201z | Knowledge of hadron physics. | Hadron physics studies particles made of quarks, such as protons and neutrons. Particle physics research uses it. | h:Physics | -v:Hadrons (Partical Physics)
+z5kqswzgmy | Ability to treat pelvic floor disorders through rehabilitation. | Pelvic floor rehabilitation is physical therapy for incontinence and pelvic pain. PT postings ask for it. | h:Rehabilitation
+o419jkkg4o | Knowledge of SNDA agreements in commercial leasing. | A Subordination, Non-Disturbance and Attornment Agreement sets the rights of tenant and lender in a leased property. Real estate legal postings mention it. | 
+kun480l1sk | Holding the Certified Medical-Surgical Registered Nurse (CMSRN) credential. | The CMSRN certifies nurses in medical-surgical nursing. Med-surg postings ask for it. | 
+x548j4bk91 | Ability to seat guests in a restaurant. | Seating guests is leading diners to tables and managing seating. Host postings ask for it. | 
+v2xhut8qdl | Ability to draft jury instructions. | Jury instructions are the judge's directions to a jury on the law. Litigation postings ask for drafting them. | 
+gzxjpx7ejy | Knowledge of Hockett's design features of language. | Hockett's design features are traits that distinguish human language from animal communication. Linguistics syllabi teach them. | 
+z3rnxbom1d | Ability to integrate with the LinkedIn API. | The LinkedIn API lets developers access LinkedIn data and features. It rarely appears in postings. | u:LinkedIn
+z6pq85m7r3 | Knowledge of perinatology (maternal-fetal medicine). | Perinatology manages high-risk pregnancies and fetal health. Obstetric postings mention it. | 
+he4tfuedsk | Ability to pan for gold. | Gold panning separates gold from sediment by washing it in a pan. It rarely appears in postings. | 
+ibphs8fgxr | Ability to provide gait training. | Gait training is therapy to improve walking after injury or illness. PT postings ask for it. | 
+kw9fh6vj31 | Ability to use Veeva life sciences software. | Veeva makes cloud CRM and content software for life sciences. Pharma postings ask for it. | 
+grx06hnuln | Knowledge of head-mounted displays. | A head-mounted display is a display worn on the head, as in VR and AR headsets. XR postings mention it. | 

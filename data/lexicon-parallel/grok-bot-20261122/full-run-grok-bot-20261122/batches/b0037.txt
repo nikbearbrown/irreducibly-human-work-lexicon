@@ -1,0 +1,50 @@
+puo12ic4rl | Ability to build web UIs with AlloyUI. | AlloyUI is a UI framework built on YUI, used in Liferay. It is largely obsolete. | f:Largely obsolete.
+ao8aj57ya9 | Ability to design clear and attractive maps. | Cartographic design is applying design principles to map layout, symbols, colour and typography. GIS postings ask for it. | 
+qfyv8hdypt | Ability to program in Boo. | Boo is a Python-like language for .NET, once used in Unity; it is obsolete. | f:Obsolete.
+d04egvyo8m | Ability to provide play therapy to children. | Play therapy uses play to help children express and work through problems. Child therapist postings ask for it. | 
+gwr1azxj60 | Ability to program in Common Lisp. | Common Lisp is a standardized dialect of Lisp. It rarely appears in postings. | h:Lisp
+sai8akfwpi | Knowledge of database systems. | Database systems store, manage and query data, through DBMS such as Oracle, PostgreSQL or MongoDB. Developer postings ask for it. | 
+ukzv6grehc | Holding a master's degree in education. | A master's in education (MEd or MA) is a graduate degree in teaching, leadership or curriculum. Teacher postings mention it. | 
+b2n6djrqyw | Ability to analyse business processes to improve them. | Business process analysis maps and evaluates workflows to find inefficiencies. Business analyst postings ask for it. | 
+cxnx0quia8 | Knowledge of environmental finance. | Environmental finance uses financial tools such as green bonds and carbon markets for environmental goals. Sustainability finance postings mention it. | 
+i0vapf5ips | Holding a research doctorate in pharmacy or pharmaceutical sciences. | A PhD in pharmacy is a research doctorate in pharmaceutical sciences. Pharma R&D postings mention it. | x:Doctor of Pharmacy~The professional practice degree
+hzccoii598 | Knowledge of arithmetic. | Arithmetic is the basic operations of numbers: addition, subtraction, multiplication and division. Many entry-level postings assume it. | -v:Arithmetics
+mekaq2nicb | Ability to compare and merge files with Araxis Merge. | Araxis Merge is a commercial tool for comparing and merging files and folders. It rarely appears in postings. | 
+q9yyh6jazh | Ability to see in the presence of glare or bright light. | Glare sensitivity, an O*NET ability, is seeing objects despite glare or bright lighting. | f:The name reads as an O*NET ability.
+z3cpi1yc3f | Ability to make groove welds. | Groove welding fills a groove between two pieces to join them, common in structural and pipe work. Welder postings ask for it. | 
+dsdxprkja5 | Ability to make garment patterns with Optitex. | Optitex is 2D and 3D pattern-making and garment design software. Fashion technical postings ask for it. | x:Browzwear~A competing 3D fashion tool
+mcz3zs6q84 | Knowledge of physics. | Physics is the science of matter, energy, motion and force. Engineering and science postings ask for it. | 
+y3qmoa1mq7 | Knowledge of the Computer Fraud and Abuse Act. | The CFAA is a US law criminalizing unauthorized computer access. Cyber law postings mention it. | 
+yfhbbmn94e | Holding the AAPC Certified Professional Biller (CPB) credential. | The CPB, from AAPC, certifies medical billers. Medical billing postings ask for it. | x:Certified Professional Coder~The coding credential
+b0xfrvtumm | Ability to speak, read and write Thai. | Thai is the official language of Thailand. Translation postings ask for it. | 
+coi0tfw3eq | Ability to bootstrap React apps with Create React App. | Create React App was the official tool for setting up React projects; it is deprecated. | u:React | f:Deprecated in 2025.
+k4asujsweb | Ability to write assertions with Chai.js. | Chai is an assertion library for JavaScript tests, often with Mocha. JavaScript postings mention it. | 
+azcb4tgrne | Holding an Associate of Science in pre-pharmacy. | An AS in pre-pharmacy covers prerequisites for pharmacy school. | 
+kfvmwje7ou | Holding a research doctorate in musicology. | A PhD in musicology is a research doctorate in the history and study of music. Academic postings ask for it. | 
+wgw1egxf8r | Holding the CompTIA A+ certification. | CompTIA A+ certifies entry-level IT support skills in hardware, software and troubleshooting. Help desk postings ask for it. | 
+jbz6pxzqbx | Holding the FINRA Series 24 General Securities Principal license. | The Series 24 qualifies principals to supervise broker-dealer activities. Brokerage supervisor postings ask for it. | 
+zeqzu6mpby | Ability to plan treatment for patients or clients. | Treatment planning sets goals and interventions for a patient's care. Clinician and therapist postings ask for it. | 
+hty63xrb26 | Ability to develop the server side of applications. | Back-end development builds servers, APIs, databases and business logic. Developer postings ask for it. | h:Software engineering
+cqlp6occgg | Ability to administer IBM Informix databases. | Informix is a relational database now developed by HCL. Legacy database postings mention it. | 
+l15b1567aw | Holding an Associate of Arts in sociology. | An AA in sociology is a two-year degree in sociology, usually for transfer. | 
+n4j8jsl5cp | Holding a research doctorate in textile engineering. | A PhD in textile engineering is a research doctorate in fibres and textiles. It rarely appears in postings. | 
+ngph5j5f3b | Ability to stress test software and systems. | Stress testing pushes a system beyond normal load to see how it fails. Performance QA postings ask for it. | h:Software testing | -v:Stree Testing (Computing)
+m82jna0f8h | Knowledge of smart pigs for pipeline inspection. | A smart pig is an in-line inspection tool that travels inside a pipeline to detect corrosion and defects. Pipeline integrity postings mention it. | 
+zu90aejpyi | Ability to create rendered images of architectural designs. | Architectural rendering produces realistic images of proposed buildings. Arch-viz postings ask for it. | 
+kawtmmks4t | Holding a master's degree in film production. | A master's in film production, often an MFA, is a graduate degree in filmmaking. Film postings mention it. | 
+ikmthn4x72 | Ability to optimize landing pages for conversions. | Landing page optimization improves pages through testing and design to raise conversions. Digital marketing postings ask for it. | 
+v2f63ptw5d | Holding a bachelor's degree in wildlife biology. | A bachelor's in wildlife biology is an undergraduate degree in wildlife ecology and management. Wildlife postings ask for it. | 
+ya453qelec | Ability to inspect freight for damage and compliance. | Freight inspection is checking shipments for condition, count and documentation. Logistics postings ask for it. | 
+y8avl54v9o | Ability to perform thyroid ultrasound. | Thyroid ultrasound images the thyroid gland to assess nodules and disease. Sonographer postings ask for it. | 
+nylesy75ab | Knowledge of the history of medicine. | The history of medicine studies how medical knowledge and practice developed. Academic syllabi teach it. | 
+jxvm3c5xy3 | Knowledge of government finance. | Government finance covers public budgeting, revenue, debt and accounting. Public sector finance postings ask for it. | 
+lr5nq6kgnc | Ability to install equipment, fixtures or systems. | Installation is setting up equipment or components on site. Technician postings ask for it. | 
+v4yt6rr2py | Holding a master's degree in curriculum and instruction. | A master's in curriculum and instruction is a graduate degree in curriculum design and teaching. Education postings mention it. | 
+tqx9jexzw3 | Ability to advise customers in a cannabis dispensary. | Budtending is serving customers in a dispensary and advising them on products. Dispensary postings ask for it. | 
+vidnq2l1rz | Ability to manage legal spend with SimpleLegal. | SimpleLegal is legal operations software for e-billing and matter management. Legal ops postings mention it. | 
+zrxnvhd90b | Knowledge of the Post Office Protocol (POP3). | POP3 is a protocol for email clients to retrieve mail from a server. Email admin postings mention it. | 
+nsadh0t31u | Knowledge of reductions in computational complexity theory. | A reduction transforms one problem into another to compare their difficulty. Computer science theory teaches it. | 
+yeo5zlg9b0 | Ability to assess training needs. | A training needs assessment finds gaps between current and required skills. L&D postings ask for it. | 
+e877q80t32 | Ability to handle dates with Moment.js. | Moment.js is a JavaScript date library, now in maintenance mode. JavaScript postings mention it. | f:In maintenance mode.
+dzaovc1i33 | Holding a master's degree in accounting. | A master's in accounting is a graduate degree in accounting, often for CPA eligibility. Accounting postings mention it. | 
+hpzp57rzsl | Holding a research doctorate in paper engineering. | A PhD in paper engineering is a research doctorate in pulp and paper. It rarely appears in postings. | 

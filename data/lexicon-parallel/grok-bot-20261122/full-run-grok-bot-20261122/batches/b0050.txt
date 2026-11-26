@@ -1,0 +1,50 @@
+ia3ck8tvm0 | Holding the Trauma Nursing Core Course (TNCC) certification. | TNCC, from the Emergency Nurses Association, trains nurses in trauma care. ED nursing postings require it. | x:Emergency Nurse Pediatric Course~The pediatric course
+gqq3os57m4 | Ability to build and query GraphQL APIs. | GraphQL is a query language for APIs that lets clients request exactly the data they need. Web developer postings ask for it. | 
+mqds5egqy1 | Knowledge of Microsoft Works. | Microsoft Works was a low-cost office suite, discontinued in 2009. | f:Discontinued.
+gem70slfnb | Ability to segment images. | Image segmentation divides an image into regions or labels each pixel. Computer vision postings ask for it. | 
+rks5hh58sp | Holding an Associate of Science in dental assisting. | An AS in dental assisting trains dental assistants. Dental office postings accept it. | 
+nnpo33gfsf | Ability to greet guests warmly. | Greeting guests is welcoming visitors or diners on arrival. Hospitality postings ask for it. | 
+ixpjy58qxp | Ability to store data with TinyDB. | TinyDB is a small document database in pure Python. It rarely appears in postings. | 
+j2dnvobke5 | Knowledge of the sociology of education. | The sociology of education studies how schooling relates to society and inequality. Academic syllabi teach it. | 
+w412hppfdd | Holding the Certified Hospice and Palliative Licensed Nurse (CHPLN) credential. | The CHPLN certifies LPNs and LVNs in hospice and palliative care. | 
+zxuhn9wqrx | Knowledge of the Clean Water Act. | The Clean Water Act is the US law regulating pollutant discharges into surface waters. Environmental compliance postings ask for it. | x:Safe Drinking Water Act~Drinking water quality
+eqkun4vakq | Holding the Activity Director Certified (ADC) credential. | The ADC, from NCCAP, certifies activity directors in long-term care. Activity director postings ask for it. | 
+h8992wzklv | Ability to help patients with bed mobility. | Bed mobility is moving in bed, such as rolling and sitting up; therapists and aides train and assist it. CNA and PT postings mention it. | 
+e41ytuzgd2 | Knowledge of Yellow Dog Linux. | Yellow Dog Linux was a Linux distribution for PowerPC, now discontinued. | f:Discontinued.
+t23fp45nbc | Ability to interpret by video remote interpreting (VRI). | VRI provides sign or spoken language interpreting over video. Interpreter postings ask for it. | 
+mn7ruwju4k | Holding a bachelor's degree in education. | A bachelor's in education prepares teachers for licensure. Teacher postings ask for it. | 
+wyuz035oqf | Ability to develop a theory of change. | A theory of change maps how activities lead to intended outcomes. Nonprofit and evaluation postings ask for it. | 
+zr7jfsxep8 | Ability to automate .NET tests with Gallio. | Gallio was a .NET test automation platform; it is obsolete. | f:Obsolete.
+mdcx7ximpo | Ability to write stylesheets in LESS. | LESS is a CSS preprocessor that adds variables and mixins. Front-end postings mention it. | 
+nh8hf9mit9 | Ability to audit Linux systems with auditd. | auditd is the Linux audit daemon that records security events. Linux security postings mention it. | 
+u5dz59qduc | Ability to design textiles with NedGraphics. | NedGraphics is CAD software for textile and fashion design. Textile postings mention it. | 
+w3gh6mctib | Holding the Assisted Housing Manager (AHM) credential. | The AHM certifies managers of assisted housing properties. Affordable housing postings list it. | 
+n2hw22jw1r | Knowledge of chlorofluorocarbons. | CFCs are ozone-depleting refrigerants phased out under the Montreal Protocol. HVAC postings mention them. | 
+tu36v4sy7c | Ability to support production systems. | Production support keeps live IT systems running by fixing issues and incidents. Application support postings ask for it. | 
+s3rdirqwq6 | Ability to program in Ruby. | Ruby is a dynamic, object-oriented language, used with Rails. Developer postings ask for it. | 
+tnm02b9fyp | Ability to drive vehicles. | Driving is operating a motor vehicle safely. Delivery and field postings ask for it. | 
+ejsvn6xdf3 | Ability to configure SAP Quality Management. | SAP QM is the quality management module of SAP ERP. SAP postings ask for it. | 
+svp145h56r | Holding a research doctorate in cryptography. | A PhD in cryptography is a research doctorate in secure communication. Security research postings mention it. | 
+r0gomtww7e | Ability to profile Windows performance with the Windows Performance Toolkit. | The Windows Performance Toolkit records and analyses performance traces. Windows performance postings mention it. | 
+sqqun2bafg | Ability to wipe drives with DBAN. | Darik's Boot and Nuke is a free tool that securely erases hard drives. IT asset disposal postings mention it. | 
+tp20480fph | Knowledge of the trace of a matrix. | The trace is the sum of a square matrix's diagonal entries. Linear algebra syllabi teach it. | 
+ybdv7l9ewb | Ability to program in Hack. | Hack is Meta's gradually typed language derived from PHP. Meta postings mention it. | 
+s7mn3f7m94 | Holding the Certified Wine Educator (CWE) credential. | The CWE, from the Society of Wine Educators, certifies wine teachers. | 
+rutsjj1twb | Knowledge of the Cyber Kill Chain. | The Cyber Kill Chain is Lockheed Martin's model of the stages of a cyberattack. Security analyst postings mention it. | 
+w809rqc0ip | Holding National Registry EMT (NREMT) certification. | NREMT certification shows an EMT passed the National Registry exam. EMT postings ask for it. | 
+b9ccp4ihhh | Ability to use MicroStrategy OLAP Services. | OLAP Services adds in-memory analysis to MicroStrategy. It rarely appears in postings. | 
+gy9xxt2ynh | Ability to design with computational methods. | Computational design uses algorithms and scripting, such as Grasshopper, to generate designs. Architecture postings mention it. | 
+t9z644dgwl | Ability to crawl and archive the web with Heritrix. | Heritrix is the Internet Archive's web crawler. Web archiving postings mention it. | 
+y61w9fqhny | Holding a master's degree in electrical engineering. | A master's in electrical engineering is a graduate degree in EE. Engineering postings mention it. | 
+wpe22ejvkt | Ability to write HTML templates in Pug. | Pug, formerly Jade, is a template engine for Node.js. JavaScript postings mention it. | 
+d16eizgfld | Ability to deliver Acceptance and Commitment Therapy (ACT). | ACT is a therapy that uses acceptance and mindfulness with values-based action. Therapist postings ask for it. | 
+khu10n7d7g | Ability to manage hardware configurations. | Hardware configuration management tracks hardware items and their versions through a system's life. Defence and engineering postings mention it. | 
+s5wfbovdhh | Ability to manage a Google Business Profile. | Google Business Profile, formerly Google My Business, manages a business's listing on Google. Local marketing postings ask for it. | 
+zyqf784ulv | Knowledge of the HP Jornada handheld. | The HP Jornada was a line of Windows CE handhelds around 2000. It is obsolete. | f:Obsolete.
+hzi6ytyda8 | Holding the Registered Vascular Specialist (RVS) credential. | The RVS, from CCI, certifies vascular sonographers. Vascular postings ask for it. | 
+d4twtmz0xj | Ability to test databases with DbFit. | DbFit is a database testing framework built on FitNesse. It rarely appears in postings. | 
+llq5laptmx | Knowledge of Yahoo Messenger. | Yahoo Messenger was an instant messaging service, shut down in 2018. | f:Discontinued.
+h1e2kiw4mp | Knowledge of rights issues. | A rights issue offers existing shareholders new shares in proportion to their holdings. Corporate finance postings mention it. | 
+m1nnmfjsv0 | Ability to set goals. | Goal setting is defining clear objectives and plans to reach them. Postings mention it. | 
+sc05cw6xtg | Ability to monitor systems with Prometheus. | Prometheus is an open-source monitoring and alerting system with a time series database. DevOps postings ask for it. | 
+v13u3ohdg8 | Knowledge of oncogenomics. | Oncogenomics studies the genes and mutations involved in cancer. Cancer genomics postings mention it. | 

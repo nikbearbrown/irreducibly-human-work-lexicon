@@ -1,0 +1,50 @@
+i7hneu52i6 | Knowledge of medical devices. | Medical devices are instruments and equipment used to diagnose or treat patients, regulated by bodies such as FDA. Medtech postings ask for it. | o:Prosthetic devices
+vptguf1rtv | Ability to speak Macedonian. | Macedonian is a South Slavic language, official in North Macedonia. It rarely appears in postings. | 
+s9b2klic4m | Ability to cut meat. | Meat cutting breaks carcasses into retail cuts. Meat cutter postings ask for it. | 
+zam3lqxfdr | Ability to program in Base SAS. | Base SAS is the core SAS programming language and procedures. SAS programmer postings ask for it. | 
+d9otmo55ix | Ability to mobilize resources for causes. | Resource mobilization raises funds and other resources from donors and partners. NGO postings ask for it. | 
+e3m33mt7of | Ability to use collaboration software. | Collaboration software helps teams share files and communicate, such as Teams or Slack. Office postings ask for it. | 
+stzgtpqqh9 | Knowledge of Sony SonicStage. | SonicStage was Sony's music management software for MiniDisc and Walkman, discontinued around 2013. | f:Discontinued.
+tgfd1wjaby | Ability to automate cloud provisioning with VMware Aria Automation. | Aria Automation, formerly vRealize Automation, provisions infrastructure and apps across clouds. VMware postings ask for it. | 
+mkb0siub2w | Knowledge of cannabis regulations. | Cannabis regulations govern growing, testing, selling and tracking cannabis. Dispensary compliance postings ask for it. | 
+mwc6g16twz | Ability to use the MERS mortgage registry. | MERS tracks mortgage servicing rights and ownership in the US. Mortgage operations postings mention it. | -v:MERS; v:MERS~in a context about mortgages
+wvu9e4r2lk | Ability to lay out pages for print or web. | Page layout arranges text and images on a page. Graphic design postings ask for it. | 
+ynpjdnnl97 | Holding a research doctorate in geotechnical engineering. | A PhD in geotechnical engineering is a research doctorate in soils and foundations. Research postings mention it. | 
+h4zzei58f1 | Knowledge of virtual LANs (VLANs). | A VLAN logically segments a network at layer 2. Network postings ask for it. | 
+cv3d24xm4v | Ability to provide bereavement care. | Bereavement care supports people grieving a death. Hospice and chaplain postings ask for it. | 
+voxmwb8ban | Ability to build hybrid mobile apps. | Hybrid app development wraps web code in a native shell, as with Ionic or Cordova. Mobile postings mention it. | 
+ufo7ksvhuf | Knowledge of the Time Protocol. | The Time Protocol (RFC 868) provides time over a network; it is superseded by NTP. | l:Internet protocol suite | f:Superseded by NTP.
+rmkqenma3p | Ability to read gauges. | Reading gauges is checking pressure, temperature and level gauges for proper values. Plant operator postings ask for it. | 
+fcn0sg2ytx | Ability to manage data centre cooling. | Data centre cooling removes heat from IT equipment with CRAC units, containment and liquid cooling. Facilities postings ask for it. | 
+nccdsjj4uv | Ability to apply restorative justice practices. | Restorative justice repairs harm by bringing offenders and victims together. School and justice postings mention it. | 
+l15oar8hr9 | Ability to build pallets. | Pallet building assembles wooden pallets or builds pallet loads of goods. Warehouse postings mention it. | 
+xwel6sw1ng | Knowledge of the organic composition of capital. | In Marxian economics, the organic composition of capital is the ratio of constant to variable capital. It appears only in academic contexts. | 
+enjwt6y9ws | Ability to visualize data with Tableau. | Tableau is business intelligence and data visualization software. Analyst postings ask for it. | -v:Tableau (Busines Intelligence Software)
+egr0a7yj0j | Ability to lead strength training. | Strength training uses resistance exercise to build muscle. Personal trainer postings ask for it. | 
+q2d0ow3z6i | Knowledge of the parasympathetic nervous system. | The parasympathetic nervous system controls rest-and-digest functions. Health syllabi teach it. | l:Autonomic nervous system | -v:Parasypathetic Nervous System
+vy91p7byqt | Ability to build iOS apps with Cocoa Touch. | Cocoa Touch is Apple's UI framework layer for iOS. iOS postings mention it. | 
+zws2hopluz | Holding a Certificate of Advanced Graduate Study (CAGS). | A CAGS is a post-master's credential, common in education and counselling. School administrator postings mention it. | 
+hhw3e2lfwh | Knowledge of the COMIT programming language. | COMIT was an early string-processing language from MIT in the 1950s. It is obsolete. | f:Obsolete.
+f7789niy3k | Holding a bachelor's degree in anthropology. | A bachelor's in anthropology is an undergraduate degree in human cultures. Research postings mention it. | 
+afiw0lkbic | Ability to build data pipelines. | A data pipeline moves and transforms data from sources to destinations. Data engineer postings ask for it. | l:Data engineering
+et1r4lfw6l | Knowledge of SPML for identity provisioning. | Service Provisioning Markup Language is an OASIS XML standard for user provisioning. It is largely obsolete. | 
+r1lyf2z6qf | Holding a research doctorate in data science. | A PhD in data science is a research doctorate in data science. Research postings mention it. | 
+t49r7wk7u5 | Knowledge of logistics engineering. | Logistics engineering designs and optimizes logistics systems for supply and support. Defence and supply chain postings mention it. | 
+jh2rauw9ao | Ability to remember information. | Memorization, an O*NET ability, is remembering information such as words, numbers, pictures and procedures. | f:The name reads as an O*NET ability.
+towc92tnse | Holding the MSRB Series 52 Municipal Securities Representative license. | The Series 52 qualifies people to sell municipal securities. Public finance postings ask for it. | 
+np8jq1gkrj | Ability to program in F*. | F* is a verification-oriented functional language from Microsoft Research. It rarely appears in postings. | 
+qq4qgc7k78 | Knowledge of Adobe PhotoDeluxe. | PhotoDeluxe was Adobe's consumer image editor, replaced by Photoshop Elements. It is obsolete. | f:Obsolete.
+oysb20bohm | Holding a research doctorate in interior design. | A PhD in interior design is a research doctorate in interior environments. It rarely appears in postings. | 
+bunjyl41ub | Knowledge of HEDIS quality measures. | HEDIS is a set of health plan performance measures from NCQA. Health plan quality postings ask for it. | 
+ygzm0k4brw | Ability to build Mozilla interfaces with XUL. | XUL is Mozilla's XML user interface language, now mostly retired. | -v:XUL  (Programming Language) | f:Largely retired.
+gk4ii6y37r | Ability to cut threads on parts. | Threading cuts or forms screw threads on parts with taps, dies or lathes. Machinist postings ask for it. | 
+n3q48ginr2 | Ability to manage master data with Reltio. | Reltio is a cloud master data management platform. MDM postings mention it. | 
+z5cl5m7b48 | Holding the AIPG Certified Professional Geologist (CPG) credential. | The CPG, from AIPG, certifies professional geologists. Geologist postings list it. | 
+fxag0yh7o6 | Knowledge of medical equipment. | Medical equipment includes devices used in diagnosis and treatment. Biomed and sales postings ask for it. | 
+bttz5za9v1 | Ability to store data in the browser with IndexedDB. | IndexedDB is a browser API for storing structured data on the client. Front-end postings mention it. | 
+cy1eezxd7o | Ability to diagnose vehicles with OBD-II. | OBD-II is the standard on-board diagnostics system in cars, read with scan tools. Auto technician postings ask for it. | 
+qwaw1go6tv | Ability to unit test PHP with PHPUnit. | PHPUnit is the standard unit testing framework for PHP. PHP postings ask for it. | u:PHP
+yb8cjb9wd7 | Knowledge of HCFA (now CMS) regulations. | HCFA was the former name of CMS, which runs Medicare and Medicaid; its regulations govern billing. Healthcare billing postings mention it. | f:HCFA is now CMS.
+jq9pnw9x8r | Ability to mitigate operational risk. | Operational risk mitigation reduces losses from failed processes, people or systems. Risk postings ask for it. | 
+islil7fue7 | Ability to proofread. | Proofreading checks text for errors before publication. Writing and editing postings ask for it. | 
+saanweu4mx | Ability to speak Hawaiian. | Hawaiian is the Polynesian language of Hawaii. It rarely appears in postings. | 

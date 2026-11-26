@@ -1,0 +1,50 @@
+crm3w31oq7 | Inclined to work well as part of a team. | Team-oriented describes someone who values collaboration and shared goals. Postings list it as a trait. | 
+tb28dprs69 | Holding the Certified Specialist of Wine (CSW) credential. | The CSW, from the Society of Wine Educators, certifies wine knowledge. Wine sales and sommelier postings mention it. | 
+pdd9yj2zty | Knowledge of theatrical techniques. | Theatrical techniques are methods of acting, staging and performance. Drama postings mention them. | 
+s5y7wuz9pr | Holding a research doctorate in meteorology. | A PhD in meteorology is a research doctorate in atmospheric science. Research postings ask for it. | 
+hbexkw6o3t | Ability to automate tests with HP WinRunner. | WinRunner was a functional test automation tool from Mercury, later HP, replaced by QTP/UFT. It is obsolete. | f:Obsolete.
+yqx76opq5c | Ability to build prototypes to test ideas. | Prototyping makes early models of a product to explore and test designs. Design and engineering postings ask for it. | 
+php2tc9p7y | Ability to work with XML. | XML is a markup language for structured data. Integration postings ask for it. | -v:XML (Programming Language)
+j18ihca7b5 | Knowledge of indentation hardness testing. | Indentation hardness measures resistance to indentation, as in Rockwell, Brinell and Vickers tests. Materials lab postings ask for it. | 
+wv3g7qv5gv | Holding a master's degree in marine biology. | A master's in marine biology is a graduate degree in ocean life. Marine research postings ask for it. | 
+g1hfi5qy94 | Knowledge of the SQL-92 standard. | SQL-92 is the 1992 revision of the SQL standard. Database syllabi mention it. | h:SQL
+b3j6bzzi65 | Holding a master's degree in biomedical engineering. | A master's in biomedical engineering is a graduate degree in engineering for medicine. Medical device postings ask for it. | 
+bt6n4f6sxp | Ability to extend MicroStrategy with its SDK. | The MicroStrategy SDK customizes and embeds MicroStrategy BI. BI developer postings mention it. | 
+mcggm5eebm | Holding the PMI Certified Associate in Project Management (CAPM). | The CAPM is PMI's entry-level project management certification. Junior PM postings list it. | c:Project management
+ebrrubk4b4 | Holding the Doctor of Veterinary Medicine (DVM or VMD) degree. | The DVM is the professional degree for veterinarians. Veterinarian postings require it. | 
+xdzjh8o7c2 | Ability to treat soil to improve fertility. | Soil fertility treatment applies fertilizers, lime and amendments based on soil tests. Agronomy postings ask for it. | 
+cxdlgo9gy1 | Knowledge of prisoners' rights law. | Prisoners' rights are the legal protections of incarcerated people. Civil rights legal postings mention it. | 
+jtnu7fnqvl | Ability to write and implement Individualized Family Service Plans. | An IFSP is a US plan for early intervention services for infants and toddlers with disabilities. Early intervention postings ask for it. | x:Individualized Education Program~For school-age children
+cl8qm37sfr | Knowledge of IT governance. | IT governance aligns IT with business goals through frameworks such as COBIT. IT management postings ask for it. | 
+qx79ytpn5b | Ability to test JavaScript with Jasmine. | Jasmine is a behaviour-driven testing framework for JavaScript. Angular postings mention it. | 
+vdcxr5mgsn | Holding the Certified Energy Manager (CEM) credential. | The CEM, from the Association of Energy Engineers, certifies energy management professionals. Energy postings ask for it. | 
+qg9js46hrq | Holding a master's degree in operations management. | A master's in operations management is a graduate degree in production and process management. Operations postings mention it. | 
+uu591ojh5y | Holding a dental assistant certificate. | A dental assistant certificate trains people to assist dentists. Dental office postings ask for it. | 
+jqnx17j4zy | Ability to administer databases. | Database administration is installing, tuning, backing up and securing databases. DBA postings ask for it. | 
+iucmf6wwrt | Knowledge of Windows XP Professional x64 Edition. | Windows XP x64 was a 64-bit XP edition from 2005; it is obsolete. | f:Obsolete.
+xg8k0aqzyy | Holding the Certified Registered Nurse Infusion (CRNI) credential. | The CRNI, from INCC, certifies nurses in infusion therapy. Infusion nursing postings ask for it. | 
+od1b6mmloc | Ability to reach decisions by consensus. | Consensus decision-making seeks agreement from all group members. Facilitator postings mention it. | h:Group decision-making
+bpbuz2kkrs | Ability to perform and interpret arterial blood gas tests. | An ABG test measures oxygen, carbon dioxide and pH in arterial blood. Respiratory therapist postings ask for it. | 
+tx96mffcus | Knowledge of artificial neural networks. | Neural networks are machine learning models of layers of connected nodes. ML postings ask for it. | o:Convolutional neural networks
+n5gmv1hla7 | Ability to speak Tswana (Setswana). | Tswana is a Bantu language of Botswana and South Africa. Interpreter postings ask for it. | 
+e10u5vtdjt | Holding a master's degree in environmental science. | A master's in environmental science is a graduate degree in environmental systems. Environmental postings mention it. | 
+ey1798mn8p | Holding the Board Certified Specialist in Gerontological Nutrition (CSG) credential. | The CSG certifies dietitians in nutrition for older adults. | 
+uyk06pg91v | Ability to measure Java code coverage with JaCoCo. | JaCoCo is a code coverage library for Java. Java QA postings mention it. | 
+tnfsxl3lm8 | Holding the CompTIA Security+ certification. | Security+ certifies foundational cybersecurity skills and is widely required for US DoD roles. Security postings ask for it. | c:Cybersecurity
+v5oizwc96o | Knowledge of CRUD operations. | CRUD means create, read, update and delete, the basic data operations. Developer postings mention it. | 
+zgnj6ebugu | Ability to write behaviour-driven tests with Cucumber.js. | Cucumber.js is the JavaScript implementation of Cucumber. JS QA postings mention it. | 
+iwz47o25o8 | Knowledge of the JCAVS security clearance system. | JCAVS was a DoD system for verifying clearances, replaced by JPAS and later DISS. It is obsolete. | f:Obsolete.
+x5se053uo6 | Ability to dispatch emergency medical services. | EMS dispatch is taking emergency calls and sending ambulances. Dispatcher postings ask for it. | 
+zc8shpqdop | Ability to program in Lingo. | Lingo was the scripting language of Adobe Director; it is obsolete. Lingo is also the LINDO optimization modelling language. | f:Obsolete as Director's language.
+zw2uhx2q7x | Holding an Associate of Applied Science in pharmacy technology. | This AAS trains pharmacy technicians. Pharmacy tech postings accept it. | 
+nna0x6ic9d | Ability to evaluate a curriculum's effectiveness. | Curriculum evaluation judges whether a curriculum meets its goals. Curriculum specialist postings ask for it. | 
+r5qkbzvx25 | Ability to speak Chamorro. | Chamorro is the Austronesian language of Guam and the Northern Mariana Islands. Postings in Guam mention it. | 
+afj4721k6w | Knowledge of extended reality (VR, AR and MR). | Extended reality covers virtual, augmented and mixed reality. XR postings mention it. | o:Mixed reality
+x4ws8p3zju | Ability to query Informix databases with DB-Access. | DB-Access is the Informix command-line SQL tool. Informix postings mention it. | 
+m3082r7eyv | Ability to help people with low vision regain function. | Vision rehabilitation trains people with vision loss in daily living and orientation. Low vision therapist postings ask for it. | h:Rehabilitation
+dol9duyg3c | Ability to document design systems with zeroheight. | zeroheight is software for documenting design systems. Design system postings mention it. | 
+o2f6fps51b | Ability to build geographic web apps with GeoDjango. | GeoDjango is Django's module for geospatial data. GIS developer postings mention it. | 
+ipnoi8cnbl | Ability to analyse workforce data. | HR analytics uses data on employees to inform people decisions. HR postings ask for it. | 
+n98y0v2qy7 | Knowledge from clinical pastoral education (CPE). | Clinical pastoral education is supervised training for chaplains in hospitals. Chaplain postings ask for CPE units. | 
+e1mp7rzvvv | Holding an information, advice and guidance (IAG) qualification. | An IAG qualification is a UK qualification for careers guidance work. Careers adviser postings ask for it. | c:Information, advice and guidance
+mnys3u3va3 | Ability to analyse algorithms' time and space complexity. | Algorithm analysis measures how an algorithm's resource use grows with input size. CS postings and interviews test it. | 

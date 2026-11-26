@@ -1,0 +1,50 @@
+rm0k01pcl6 | Knowledge of software as a service (SaaS). | SaaS delivers software over the internet on subscription rather than installed locally. Tech sales and IT postings ask for it. | x:Platform as a service~Provides platforms rather than finished apps | -v:Software As A Services
+dvubyy51i4 | Holding a bachelor's degree in industrial design. | A bachelor's in industrial design is an undergraduate degree in product design. Product designer postings ask for it. | 
+oklx1sjqa6 | Knowledge of Conflict Catcher for classic Mac OS. | Conflict Catcher managed system extensions on classic Mac OS. It is obsolete. | f:Obsolete.
+aul0hwq71k | Holding a bachelor's degree in forensic science. | A bachelor's in forensic science is an undergraduate degree in crime lab science. Forensic postings ask for it. | 
+i5akb8g29i | Ability to perform failure mode and effects analysis (FMEA). | FMEA identifies ways a product or process can fail and ranks their effects. Quality and reliability postings ask for it. | 
+oltduslyt6 | Ability to protect workloads with PlateSpin Protect. | PlateSpin Protect is disaster recovery software for workloads, now from OpenText. It rarely appears in postings. | 
+qz19nh82dh | Ability to build proximity apps with Apple iBeacon. | iBeacon is Apple's Bluetooth Low Energy beacon protocol for location-aware apps. Mobile postings mention it. | 
+k2fnt61kzq | Ability to process text with Apache OpenNLP. | Apache OpenNLP is a Java toolkit for natural language processing. NLP postings mention it. | 
+aa6ndqogvc | Holding a master's degree in finance. | A master's in finance is a graduate degree in financial theory and practice. Finance postings ask for it. | 
+uoqoozw98l | Knowledge of quantitative models of the action potential. | Models such as Hodgkin-Huxley describe how neurons fire mathematically. Computational neuroscience uses them. | 
+tr4qm7u5gh | Ability to track information with Microsoft Lists. | Microsoft Lists is a Microsoft 365 app for tracking information in lists. Office postings mention it. | 
+xccww42w5y | Ability to do GitOps deployments with Argo CD. | Argo CD is a declarative GitOps tool for Kubernetes. DevOps postings ask for it. | 
+tt4tv9smzy | Ability to speak Kinyarwanda. | Kinyarwanda is the national language of Rwanda. Interpreter postings ask for it. | 
+e6d3w0bi1i | Ability to speak, read and write Portuguese. | Portuguese is spoken in Portugal, Brazil and elsewhere. Many postings ask for it. | 
+k183yku86c | Ability to manage fixed assets in Oracle Fixed Assets. | Oracle Fixed Assets is the asset accounting module of Oracle E-Business Suite. Oracle finance postings mention it. | 
+ws2h68hqic | Ability to manage hotels. | Hotel management runs a hotel's operations, staff and guest services. Hospitality postings ask for it. | 
+uzlo7cd69m | Ability to build web apps with Spine.js. | Spine.js was a lightweight MVC JavaScript framework; it is obsolete. | f:Obsolete.
+y2ee17jenh | Ability to manage IT costs with Apptio. | Apptio, now an IBM company, is technology business management software for IT finance. ITFM postings ask for it. | 
+qpbn04pvr5 | Holding a research doctorate in information science. | A PhD in information science is a research doctorate in information and its systems. Academic postings ask for it. | 
+cionmp7u62 | Ability to speak Kurdish. | Kurdish is an Iranian language group spoken in Turkey, Iraq, Iran and Syria. Interpreter postings ask for it. | 
+v32ingiuw1 | Knowledge of techniques for planting, growing and harvesting food. | Food production, an O*NET knowledge area, covers planting, growing and harvesting food for consumption, including storage and handling. | f:The name reads as an O*NET knowledge area.
+wcem2h6zih | Ability to maintain grounds and yards. | Groundskeeping is mowing, trimming, planting and keeping outdoor areas tidy. Groundskeeper postings ask for it. | 
+n6f1fis9cm | Holding a CDL hazmat endorsement. | The H endorsement lets a commercial driver haul placarded hazardous materials. Truck driver postings ask for it. | 
+hpz5c4t33c | Holding the Dermatology Certified Nurse Practitioner (DCNP) credential. | The DCNP certifies nurse practitioners in dermatology. Derm NP postings list it. | 
+l9zjdeco3c | Holding the Advanced Certified Fund Raising Executive (ACFRE) credential. | The ACFRE, from AFP, is an advanced fundraising credential. Senior development postings list it. | 
+r17ek70io4 | Ability to build ML services with Apache PredictionIO. | PredictionIO was an open-source machine learning server; it is retired. | f:Retired.
+bjkz9f7zwj | Ability to accelerate websites with Varnish Cache. | Varnish is an HTTP reverse proxy cache. Web ops postings mention it. | 
+sohvi65uoe | Ability to compare figures and patterns quickly and accurately. | Perceptual speed, an O*NET ability, is quickly and accurately comparing letters, numbers, objects or patterns. | f:The name reads as an O*NET ability.
+fb0fcpjf1o | Knowledge of sport governance. | Sport governance covers how sports organizations are run and regulated. Sports administration postings mention it. | 
+jakzhha1se | Ability to use ComputerRx pharmacy software. | ComputerRx is pharmacy management software. Pharmacy postings mention it. | 
+k1n9hqp5bs | Ability to culture viruses. | Virus culture grows viruses in cell cultures for diagnosis or research. Virology lab postings ask for it. | x:Bacterial culture~Grows bacteria
+w5g4r0jtmy | Knowledge of Amazon Fire tablets. | Amazon Fire tablets are Android-based tablets running Fire OS. App developer postings mention it. | 
+y757v7j4f6 | Holding the Music Therapist–Board Certified (MT-BC) credential. | Music therapist certification, from CBMT, certifies music therapists. Music therapy postings require it. | 
+e91awxt3uj | Holding an Associate of Science in game design. | An AS in game design is a two-year degree in game development. | 
+lpcilh3rqk | Ability to manage shipping operations. | Shipping management plans and oversees outbound shipments, carriers and costs. Logistics postings ask for it. | 
+yt79mgauuz | Knowledge of police accountability. | Police accountability holds police responsible for conduct through oversight and review. Civil rights postings mention it. | 
+z1ujvxs2o9 | Ability to store big data in HDFS. | HDFS is Hadoop's distributed file system. Big data postings ask for it. | 
+l8ekx0fzub | Ability to edit video with Avid Media Composer. | Media Composer is Avid's professional video editing software. Film and TV editor postings ask for it. | 
+xlk7gjqvns | Holding the Board Certified Behavior Analyst (BCBA) credential. | The BCBA certifies behaviour analysts, mainly in ABA therapy for autism. ABA postings require it. | 
+cou13tvs4x | Ability to set up and manage positive airway pressure therapy. | PAP therapy, including CPAP and BiPAP, keeps airways open, as in sleep apnea. Respiratory therapist postings ask for it. | -v:Positive Airway Pressure (CPAB/BiPAP)
+psbb6fbfk4 | Ability to match colours accurately. | Colour matching reproduces a target colour in paint, ink or materials. Paint and print postings ask for it. | 
+zq3dwmyih3 | Ability to write product requirements documents. | A PRD describes what a product should do and why. Product manager postings ask for it. | 
+rlfy28fdse | Knowledge of traumatic brain injury. | Traumatic brain injury is brain damage from external force. Rehab and neurology postings ask for it. | 
+dd2h4imy46 | Knowledge of food safety. | Food safety is handling, preparing and storing food to prevent illness. Food service postings ask for it. | 
+dua32jm4h0 | Ability to build models with Theano. | Theano was a Python library for deep learning computation; development ended in 2017. | f:No longer developed.
+ue0pgomm0l | Holding the Certified Pediatric Emergency Nurse (CPEN) credential. | The CPEN certifies nurses in pediatric emergency care. ED nursing postings list it. | 
+m5kr7zz3ad | Knowledge of general finance. | General finance covers basic financial principles, accounting and money management. Finance postings mention it. | 
+j4xb64r3zm | Holding a bachelor's degree in environmental policy. | A bachelor's in environmental policy is an undergraduate degree in environmental law and policy. | 
+jf04mbh4it | Holding the PMI Portfolio Management Professional (PfMP) credential. | The PfMP certifies portfolio managers. Senior PMO postings list it. | 
+urb8bix86y | Ability to model MongoDB data in Node.js with Mongoose. | Mongoose is an object data modelling library for MongoDB and Node.js. Node postings ask for it. | 

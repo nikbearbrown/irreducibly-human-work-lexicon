@@ -1,0 +1,50 @@
+ekmw83clz8 | Ability to de-escalate and safely restrain aggressive people. | Verbal and physical intervention uses de-escalation and safe holds to manage aggressive behaviour. Behavioural health and youth care postings ask for it. | 
+wm0an97hss | Ability to detect threats with Microsoft Sentinel. | Microsoft Sentinel, formerly Azure Sentinel, is a cloud SIEM and SOAR. SOC postings ask for it. | 
+jpze7pqj3g | Ability to create pixel art. | Pixel art is digital art drawn pixel by pixel, common in retro-style games. Game artist postings mention it. | 
+dnupo273r8 | Holding a research doctorate in water resources engineering. | A PhD in water resources engineering is a research doctorate in hydrology and water systems. Research postings mention it. | 
+qh2ipycdo7 | Ability to analyse malware. | Malware analysis studies malicious software to understand how it works, using static and dynamic methods. Security postings ask for it. | 
+kx6hq4bfym | Ability to automate JavaScript builds with Grunt. | Grunt is a JavaScript task runner, largely replaced by newer tools. Older front-end postings mention it. | 
+ce7a1varzj | Ability to build .NET UIs with ComponentOne controls. | ComponentOne is a suite of .NET UI controls from MESCIUS (GrapeCity). .NET postings mention it. | 
+a1x6lergu6 | Ability to fit generalized linear models. | A GLM extends linear regression to non-normal outcomes through link functions, as in logistic regression. Statistician postings ask for it. | 
+shp7k2eln7 | Ability to keep academic records. | Academic record-keeping maintains student transcripts, grades and enrolment records. Registrar postings ask for it. | 
+sc048bxxq9 | Holding a Bachelor of Fine Arts (BFA). | A BFA is an undergraduate degree in visual or performing arts. Artist and designer postings mention it. | 
+r342phmwz0 | Holding an Associate of Applied Science in baking and pastry arts. | This AAS trains pastry chefs and bakers. Pastry postings accept it. | 
+mf5p7pdwkr | Ability to manage privileged access. | Privileged access management controls and monitors accounts with elevated rights, using tools such as CyberArk. Identity security postings ask for it. | 
+q6he1cwe1i | Ability to provide hand therapy. | Hand therapy rehabilitates the hand and upper limb after injury or surgery. OT and PT postings ask for it. | 
+s2hhggpxcw | Ability to enforce law at sea. | Maritime law enforcement enforces laws on waters, as by the Coast Guard. Coast Guard postings ask for it. | 
+aqa8dgmx72 | Knowledge of public policy. | Public policy is government action on public problems and how it is made. Policy postings ask for it. | 
+fcjozwj5xy | Holding the NHA Certified Clinical Medical Assistant (CCMA) credential. | The CCMA certifies clinical medical assistants. MA postings ask for it. | 
+wrmfmtic1i | Knowledge of YunOS (AliOS). | YunOS was Alibaba's mobile operating system, later AliOS. It rarely appears in postings. | 
+qd53zc2hjj | Holding US Army Combat Lifesaver certification. | Combat Lifesaver trains non-medical soldiers in battlefield first aid. Military postings mention it. | 
+dqwhnum5zj | Knowledge of attorney-client privilege. | Attorney-client privilege protects confidential communications between lawyers and clients. Legal postings ask for it. | 
+dy97p0gnng | Ability to build video players with Video.js. | Video.js is an open-source HTML5 video player library. Front-end postings mention it. | 
+mp19apjqcy | Ability to program in PHP 7. | PHP 7 is a major PHP version released in 2015; it is out of support. PHP postings mention it. | h:PHP
+a15hsq0i5n | Ability to tell the direction a sound came from. | Sound localization, an O*NET ability, is telling the direction from which a sound originated. | f:The name reads as an O*NET ability.
+a7nv41b5e4 | Knowledge of commercial off-the-shelf products. | COTS products are ready-made commercial software or hardware rather than custom builds. Government IT postings mention it. | 
+zksf32dtwb | Ability to run OSGi applications on Apache Karaf. | Apache Karaf is an OSGi runtime for Java applications. Integration postings mention it. | 
+haad0e5z1n | Ability to prototype designs in InVision. | InVision was a digital product design and prototyping platform, shut down in 2024. | f:Discontinued.
+xd78jqnq7v | Holding the Nationally Certified School Nurse (NCSN) credential. | The NCSN certifies school nurses. School nurse postings list it. | 
+b9atybxdgh | Knowledge of the ISO/IEC 27000 series of security standards. | The ISO/IEC 27000 series are standards for information security management, including 27001 and 27002. Security compliance postings ask for it. | o:ISO/IEC 27001 | -v:ISO/IEC 27001 Series
+v03rbybd9q | Ability to version control with SourceGear Vault. | SourceGear Vault is a version control system for Windows teams. It rarely appears in postings. | 
+tx4y2yxh6j | Ability to build HTML5 games with Impact.js. | Impact is a JavaScript game engine. It rarely appears in postings. | 
+kli63uvu2s | Knowledge of platform as a service (PaaS). | PaaS provides a managed platform for building and running applications without managing infrastructure. Cloud postings ask for it. | x:Software as a service~Finished applications | -v:Platform As A Services
+hpj10pgto9 | Ability to build web pages with Python Server Pages. | Python Server Pages embedded Python in HTML, an early approach; it is obsolete. | f:Obsolete.
+y80oj040jw | Ability to accession specimens or items. | Accessioning is logging and labelling incoming lab specimens or museum objects. Lab and museum postings ask for it. | 
+yug6rwwpig | Holding the Associate of the Society of Actuaries (ASA) credential. | The ASA is the Society of Actuaries' associate-level credential. Actuarial postings ask for it. | x:Fellow of the Society of Actuaries~The higher credential
+txhnnt41tv | Holding the CompTIA Network Security Professional (CNSP) stackable certification. | The CNSP is a CompTIA stackable certification for Security+, PenTest+ and CySA+. | 
+hctsy3pwrq | Ability to know where you are in relation to the environment. | Spatial orientation, an O*NET ability, is knowing your location in relation to the environment or where other objects are relative to you. | f:The name reads as an O*NET ability.
+it4ad3hs7q | Ability to measure customer loyalty with Net Promoter Score. | NPS asks how likely customers are to recommend a company. CX postings mention it. | 
+lnsvne509a | Holding the Oracle Certified Master (OCM) credential. | The OCM is Oracle's highest certification, for expert database administrators. Senior DBA postings mention it. | 
+f3n219brdd | Holding the Google Data Analytics Professional Certificate. | This Coursera certificate from Google teaches entry-level data analysis. Junior analyst postings mention it. | 
+wa0o3efjz9 | Ability to run sales and operations planning. | S&OP aligns demand, supply and financial plans in a monthly process. Supply chain postings ask for it. | 
+pgdna467wt | Ability to perform aviation medical examinations. | Aviation medical examinations assess pilots' fitness to fly, done by FAA AMEs. Occupational medicine postings mention it. | 
+kbdcdytq6a | Ability to read technical drawings and blueprints. | Reading technical drawings is interpreting engineering drawings and blueprints. Trades and manufacturing postings ask for it. | 
+o9bqahl4tp | Holding a Bachelor of Social Work (BSW). | The BSW is an undergraduate degree for generalist social work practice. Social worker postings ask for it. | 
+d7q5p3nh9m | Knowledge of Microsoft client access licences. | A client access licence (CAL) gives a user or device the right to access Microsoft server software. Licensing postings mention it. | 
+d9zc6zsrlv | Knowledge of natural capital. | Natural capital is the stock of natural resources that provide ecosystem services. Sustainability postings mention it. | 
+yy71teg67n | Ability to access databases from Node.js with Sequelize. | Sequelize is an ORM for Node.js. Back-end JavaScript postings mention it. | 
+ayo1hdf1sx | Knowledge of the xanthoproteic test for proteins. | The xanthoproteic reaction detects aromatic amino acids with nitric acid, giving a yellow colour. Biochemistry labs teach it. | h:Chemical reactions
+nw1oyk7q86 | Knowledge of deep learning. | Deep learning uses multi-layer neural networks to learn from data. ML postings ask for it. | -v:DL; v:DL~in a context about machine learning
+k1a9h1vo1m | Holding the Pega Certified System Architect (CSA) credential. | The CSA is Pega's entry-level developer certification. Pega postings ask for it. | 
+rxof9ifz2b | Knowledge of public-key cryptography. | Public-key cryptography uses a public and private key pair for encryption and signatures. Security postings ask for it. | 
+wxi91cbd19 | Ability to image samples by confocal microscopy. | Confocal microscopy uses a pinhole and laser to produce sharp optical sections. Cell biology postings ask for it. | 

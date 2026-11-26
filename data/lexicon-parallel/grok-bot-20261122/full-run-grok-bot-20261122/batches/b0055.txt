@@ -1,0 +1,50 @@
+ajr8e6o2du | Holding an Associate of Science in medical radiography. | An AS in medical radiography prepares radiographers for certification. Rad tech postings ask for it. | 
+ov31uuzu8o | Ability to build research databases in REDCap. | REDCap is a secure web platform for research data capture and surveys. Clinical research postings ask for it. | h:Electronic data capture
+l4yp5azrbp | Ability to operate embroidery machines. | Embroidery machine operation runs computerized machines that stitch designs on garments. Apparel decoration postings ask for it. | h:Machine operation
+vypg5ki3gp | Ability to speak Hup, a Nadahup language of the Amazon. | Hup is spoken in Brazil and Colombia. It rarely appears in postings. | 
+y13h71ry03 | Ability to program reactively in Kotlin with RxKotlin. | RxKotlin is Kotlin extensions for RxJava. Android postings mention it. | 
+hfw9ljg0ev | Holding an Associate of Science in physical therapist assistant studies. | This degree prepares PTAs for licensure. PTA postings require it. | 
+qwxq4g1dxk | Ability to analyse audit data with ACL Analytics. | ACL Analytics, now Diligent, is data analysis software for auditors. Internal audit postings ask for it. | 
+ny303p2y5g | Holding FMCSA Certified Medical Examiner status. | An FMCSA Certified Medical Examiner can perform DOT physicals for commercial drivers. Occupational health postings mention it. | 
+bl280qz26m | Holding a research doctorate in biomedical engineering. | A PhD in biomedical engineering is a research doctorate in engineering for medicine. R&D postings ask for it. | 
+gd6cpzm0po | Having passed actuarial exams. | Actuarial exams are the professional exams from SOA or CAS that actuaries pass for credentials. Actuarial postings ask how many are passed. | 
+rldiu1tfvy | Ability to build OLAP models with SQL Server Analysis Services. | SSAS is Microsoft's OLAP and tabular modelling engine. BI postings ask for it. | -v:Ssas 2012
+kokyt30fzy | Ability to run concurrent engineering. | Concurrent engineering runs design, manufacturing and other tasks in parallel to cut development time. Product development postings mention it. | -v:Simultaneous Engineering Wikipedia
+fa4qvajtul | Holding the GIAC Web Application Penetration Tester (GWAPT) certification. | The GWAPT certifies web application penetration testing. Pentester postings list it. | 
+m6q8btsmk7 | Holding an Associate of Applied Science in digital media production. | This AAS trains people in video, audio and digital media. | 
+k02tqo3we4 | Holding a bachelor's degree in music. | A bachelor's in music is an undergraduate degree in performance, theory or composition. Music postings mention it. | 
+pk4hydl0w5 | Ability to shorten and track links with Bitly. | Bitly is a link shortening and management service. Social media postings mention it. | 
+fjheonyp0m | Ability to monitor performance of people, organizations or systems. | Monitoring, an O*NET skill, is monitoring or assessing performance of yourself, others or organizations to improve or correct. | f:The name reads as an O*NET skill.
+imz1vxhaze | Holding an Associate of Applied Science in aviation maintenance. | This AAS prepares aircraft mechanics for FAA A&P certification. Aviation maintenance postings accept it. | 
+wpx23envkg | Ability to use Apple Numbers. | Numbers is Apple's spreadsheet app. It rarely appears in postings. | 
+h6yh9aa9b6 | Holding the BOMI Facilities Management Administrator (FMA) credential. | The FMA, from BOMI, certifies facilities management professionals. Facilities postings list it. | 
+osz9vnzfnp | Holding a research doctorate in international relations. | A PhD in international relations is a research doctorate in global politics. Academic postings ask for it. | 
+un5r6w212a | Holding the CompTIA IT Operations Specialist (CIOS) stackable certification. | The CIOS is a CompTIA stackable certification for A+ and Network+. | 
+li4w89q0m0 | Ability to use issue tracking systems such as Jira. | An issue tracking system records and manages tasks, bugs and requests. Software and support postings ask for it. | x:Bug tracking systems~Focused on software defects
+fzmto408su | Ability to analyse data with Excel PivotTables. | PivotTables summarize and analyse data in Excel. Analyst postings ask for it. | 
+blqmvo7hp3 | Knowledge of outbound logistics. | Outbound logistics moves finished goods from a business to customers. Supply chain postings ask for it. | x:Inbound logistics~Bringing materials in
+djgnjt4yvc | Knowledge of the SHA-512 hash function. | SHA-512 is a SHA-2 cryptographic hash with a 512-bit output. Security postings mention it. | x:SHA-256~A shorter SHA-2 variant
+svw2aj3zwh | Holding an Associate of Science in occupational therapy assistant studies. | This degree prepares OTAs for certification. OTA postings require it. | 
+y2z5t8l784 | Ability to tell when something is wrong or likely to go wrong. | Problem sensitivity, an O*NET ability, is telling when something is wrong or likely to go wrong. | f:The name reads as an O*NET ability.
+xodwbue4v1 | Ability to secure REST APIs. | REST API security protects APIs with authentication, authorization, input validation and rate limiting. API developer postings ask for it. | 
+blk1jtkxtc | Holding a master's degree in hospitality management. | A master's in hospitality management is a graduate degree in hotel and hospitality business. Hospitality postings mention it. | 
+gdfpw7vyrc | Ability to manage vendors. | Vendor management selects, contracts and oversees suppliers. Procurement postings ask for it. | 
+hte4e69ldf | Ability to speak Maltese. | Maltese is the Semitic national language of Malta. It rarely appears in postings. | 
+n77gq847cg | Ability to deploy Dell Wyse thin clients. | Dell Wyse thin clients are low-power terminals for virtual desktops. VDI postings mention them. | 
+fu8jc58vkx | Ability to manage projects with Celoxis. | Celoxis is project management software. It rarely appears in postings. | 
+kzkhrmm2jm | Ability to prepare tax returns with GoSystem Tax RS. | GoSystem Tax RS is Thomson Reuters' tax software for firms. Tax postings mention it. | 
+og50d6vdfx | Holding an Associate of Arts in liberal arts. | An AA in liberal arts is a general two-year degree, usually for transfer. | 
+uw0nolii8e | Holding a bachelor's degree in culinary arts. | A bachelor's in culinary arts is an undergraduate degree in cooking and food business. Chef postings mention it. | 
+koz9wi45dg | Ability to visualize data with heatmaps. | A heatmap shows values as colours in a grid or over a page. Analyst and UX postings mention it. | 
+ekr8peg0af | Knowledge of the Drug Quality and Security Act. | The DQSA is a 2013 US law on compounding and drug supply chain tracing. Pharma compliance postings mention it. | 
+hxj6tet6rz | Holding the Certified Ostomy Care Nurse (COCN) credential. | The COCN, from WOCNCB, certifies nurses in ostomy care. | 
+ru39hxzmz4 | Ability to program in MATLAB. | MATLAB is a language and environment for numerical computing. Engineering postings ask for it. | 
+drtx3fyceq | Ability to manage jury pools. | Jury management summons, qualifies and manages jurors for courts. Court administration postings mention it. | 
+zed7bmjfiv | Holding a bachelor's degree in economics. | A bachelor's in economics is an undergraduate degree in economics. Analyst postings ask for it. | 
+wpao4gtt54 | Ability to convert documents to and from PDF. | PDF conversion turns documents into PDF or extracts content from PDFs. Office postings mention it. | 
+cy55ohl1g8 | Holding a master's degree in theology. | A master's in theology is a graduate degree in religious study. Ministry postings mention it. | 
+ijn2ibts2r | Holding a boating license. | A boating license or safety certificate allows someone to operate a recreational boat. Marina postings mention it. | 
+d4xxm6t88j | Knowledge of DevOps practices. | DevOps unites development and operations through automation, CI/CD and shared ownership. Engineering postings ask for it. | 
+j7d05adqgg | Ability to program in Prolog. | Prolog is a logic programming language. It rarely appears in postings. | 
+tfv49p04re | Ability to program in ALF (Algebraic Logic Functional). | ALF is a research language combining logic and functional programming. It rarely appears in postings. | -v:Algebraic Logic Functional [Programming Language]
+ubbk8mnwmv | Ability to manage buildings with WebCTRL. | WebCTRL is Automated Logic's web-based building automation system. BAS postings ask for it. | 

@@ -1,0 +1,50 @@
+mcl9mvr4nx | Knowledge of food process engineering. | Food process engineering designs processes for making, preserving and packaging food. Food manufacturing postings ask for it. | 
+k2u2agjae6 | Ability to engage consumers. | Consumer engagement builds ongoing interaction between consumers and a brand. Marketing postings mention it. | 
+f4mh2r0h0g | Ability to develop for Db2 with IBM Data Studio. | IBM Data Studio is an Eclipse-based tool for Db2 development and administration. Db2 postings mention it. | 
+u61tdfaebb | Holding a research doctorate in physics. | A PhD in physics is a research doctorate in physics. Research and quant postings ask for it. | c:Physics
+k3mym9larg | Knowledge of food microbiology. | Food microbiology studies microbes in food: spoilage, pathogens and fermentation. Food safety lab postings ask for it. | 
+liqhm0notn | Ability to see details at a distance. | Far vision, an O*NET ability, is seeing details at a distance. | f:The name reads as an O*NET ability.
+kjjuwi4o5n | Ability to create surveys with Microsoft Forms. | Microsoft Forms creates surveys and quizzes in Microsoft 365. Office postings rarely mention it. | 
+wcgrarya9l | Ability to speak Sinhala. | Sinhala is the language of the Sinhalese people of Sri Lanka. It rarely appears in postings. | 
+sjmv9bjgf0 | Knowledge of ancient history. | Ancient history studies civilizations from the earliest records to late antiquity. Academic postings mention it. | 
+ddfo4ab44g | Ability to monitor networks with Security Onion. | Security Onion is a Linux distribution for threat hunting and network monitoring. SOC postings mention it. | 
+n3l0oty8h4 | Knowledge of modern methods of construction. | MMC uses off-site manufacturing and other innovative techniques to build faster. UK construction postings mention it. | 
+wjqw8cmzsy | Holding the CompTIA Secure Cloud Professional (CSCP) stackable certification. | The CSCP is a CompTIA stackable certification for Security+ and Cloud+. | 
+gpy3o9v8ox | Ability to build analytic cubes with Oracle OLAP. | Oracle OLAP is the multidimensional analysis option of Oracle Database. It rarely appears in postings. | 
+linm739g4u | Ability to manage privacy compliance with OneTrust. | OneTrust is privacy, security and governance software. Privacy postings ask for it. | 
+qw40ev8cj4 | Ability to read mill test reports. | A mill test report certifies a metal product's chemical and mechanical properties. Quality and procurement postings mention it. | 
+zctapidef2 | Ability to tell colours apart. | Visual color discrimination, an O*NET ability, is matching or detecting differences between colours, including shades and brightness. | f:The name reads as an O*NET ability.
+a74793xzn5 | Ability to use immutable data with Immutable.js. | Immutable.js provides persistent immutable collections for JavaScript. It rarely appears in postings. | 
+ue47jkr7tr | Holding a master's degree in biology. | A master's in biology is a graduate degree in biology. Research postings mention it. | 
+tplmkvcg50 | Ability to create interactive content with Ceros. | Ceros is a platform for interactive digital content without code. Content design postings mention it. | 
+ne1htbc2ex | Ability to speak Maithili. | Maithili is an Indo-Aryan language of Bihar and Nepal. It rarely appears in postings. | 
+f2jm5onupj | Ability to build GUIs in Perl with wxPerl. | wxPerl is a Perl binding for wxWidgets. It rarely appears in postings. | 
+qrwo2ay5y4 | Holding an Oracle Certified Associate (OCA) credential. | The OCA is Oracle's entry-level certification for Java or database skills. Oracle postings list it. | -v:Oracle Certification Asscoiate
+mqvz3eew6h | Ability to publish electronically. | Electronic publishing produces e-books and digital publications. Publishing postings mention it. | 
+tjjqny4fk5 | Knowledge of community resilience. | Community resilience is a community's ability to withstand and recover from disasters. Emergency management postings mention it. | 
+ct0o1ux74j | Holding a bachelor's degree in geology. | A bachelor's in geology is an undergraduate degree in earth science. Geologist postings ask for it. | 
+wvrwtap8yd | Ability to review plumbing plans. | Plumbing plans examination checks plumbing drawings for code compliance. Building department postings ask for it. | 
+qss12gvh4s | Ability to build reports in MicroStrategy Desktop. | MicroStrategy Desktop is the report development tool of MicroStrategy. BI postings mention it. | 
+nkhez0wy8j | Holding the GIAC Web Application Defender (GWEB) certification. | The GWEB certifies securing web applications. AppSec postings list it. | 
+pwa238fmd8 | Knowledge of the MITRE ATT&CK framework. | MITRE ATT&CK is a knowledge base of adversary tactics and techniques. Security analyst postings ask for it. | 
+qzjv1z5cug | Knowledge of the Children's Health Insurance Program (CHIP). | CHIP is a US program providing health coverage for children in low-income families. Health benefits postings mention it. | 
+ly6jzdmqwz | Ability to program in Delphi. | Delphi is an Object Pascal language and IDE for Windows apps. Legacy desktop postings ask for it. | 
+zgvdlz41hi | Holding a master's degree in psychology. | A master's in psychology is a graduate degree in psychology. Counselling and research postings mention it. | 
+os0sekd1kd | Holding a research doctorate in structural engineering. | A PhD in structural engineering is a research doctorate in structures. Research postings mention it. | 
+daoszu8tvh | Knowledge of the software testing life cycle. | The STLC is the sequence of testing phases from requirements analysis to test closure. QA postings ask for it. | 
+pjvt4h2cpu | Holding a bachelor's degree in structural engineering. | A bachelor's in structural engineering is an undergraduate degree in structural design. Structural postings ask for it. | 
+fnfui6ih6n | Ability to speak clearly so others understand. | Speech clarity, an O*NET ability, is speaking clearly so others can understand you. | f:The name reads as an O*NET ability.
+i1iiy84mbh | Holding a research doctorate in agricultural science. | A PhD in agricultural science is a research doctorate in agriculture. Agronomy research postings ask for it. | 
+h4ck1veoae | Knowledge of distributed computing. | Distributed computing spreads work across networked computers that coordinate to act as one system. Back-end postings ask for it. | 
+qou8ag13js | Knowledge of Simula, the first object-oriented language. | Simula was a 1960s language that introduced classes and objects. It appears only historically. | f:Historical.
+tmruyf3737 | Ability to fit accelerated failure time models. | AFT models are survival models where covariates speed up or slow down time to an event. Biostatistics postings mention it. | 
+obcy8kghk7 | Knowledge of protein-protein interactions. | Protein-protein interactions are physical contacts between proteins that drive cell processes. Biology research uses it. | 
+lemjb3b8le | Holding a research doctorate in nursing. | A PhD in nursing is a research doctorate in nursing science. Nursing faculty postings ask for it. | 
+z6mcwogqxp | Holding a bachelor's degree in veterinary science. | A bachelor's in veterinary science qualifies vets in some countries and prepares for vet school elsewhere. | 
+opa3m4cm13 | Holding a bachelor's degree in philosophy. | A bachelor's in philosophy is an undergraduate degree in philosophy. Postings rarely ask for it. | 
+qn0k3sdo1v | Ability to train support vector machines with LIBSVM. | LIBSVM is a library for support vector machines. ML postings rarely mention it. | 
+tjxf2atlaw | Ability to edit images in Microsoft Paint. | Paint is Windows' basic image editor. It rarely appears in postings. | 
+soe310iks3 | Ability to program in Ballerina. | Ballerina is a language for network integration from WSO2. It rarely appears in postings. | 
+jz619i5060 | Ability to program in Logo. | Logo is an educational programming language known for turtle graphics. It rarely appears in postings. | v:Logo~in a context about programming languages; -v:Logo (Programming Language)
+rqhxwxpej4 | Ability to write user interface text. | UX writing creates the words in apps and websites that guide users. UX writer postings ask for it. | x:Copywriting~Persuasive marketing text
+oh9hoamuts | Ability to plan and deliver nutrition interventions. | A nutrition intervention is a planned action to change a nutrition-related behaviour or condition. Dietitian postings ask for it. | 

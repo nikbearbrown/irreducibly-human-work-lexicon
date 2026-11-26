@@ -1,0 +1,50 @@
+pkfc0dzkvm | Ability to come up with many ideas about a topic. | Fluency of ideas, an O*NET ability, is coming up with a number of ideas about a topic, regardless of quality. | f:The name reads as an O*NET ability.
+s4bpj19zk2 | Ability to deploy honeypots to detect attackers. | A honeypot is a decoy system that lures attackers to study or detect them. Security postings mention it. | 
+u3kq2ln0y0 | Ability to prescribe electronically. | Electronic prescribing sends prescriptions electronically from prescriber to pharmacy. Clinical postings mention it. | 
+ieb2kta6jv | Ability to manage audit and tax engagements with CCH ProSystem fx Engagement. | ProSystem fx Engagement is Wolters Kluwer's workpaper software for accounting firms. CPA firm postings mention it. | 
+gt4uqulxbo | Holding an Associate of Applied Science in accounting technology. | This AAS trains bookkeepers and accounting clerks. | 
+uqjw14p9ev | Ability to protect executives and VIPs. | Executive protection is guarding high-profile people from threats. Close protection postings ask for it. | 
+cf2acgxwct | Ability to build full-stack apps with MEAN.JS. | MEAN.JS is a boilerplate for MongoDB, Express, Angular and Node.js apps; it is unmaintained. | f:Unmaintained.
+y8idko4c9n | Ability to speak, read and write Italian. | Italian is the official language of Italy. Translation postings ask for it. | 
+mrubr5ybum | Knowledge of battery technology. | Battery technology covers cell chemistry, design and management, such as lithium-ion. EV and energy storage postings ask for it. | -v:Battery Technology (Battery)
+v7rmmciksx | Holding an FAA instrument rating. | An instrument rating lets a pilot fly under instrument flight rules. Pilot postings require it. | 
+eqjxogag29 | Ability to assess risk exposure. | Risk exposure assessment estimates potential losses from identified risks. Risk postings ask for it. | 
+hupkg1mnsj | Ability to build web apps with Aurelia. | Aurelia is a JavaScript front-end framework. It rarely appears in postings. | 
+c0kd1bmd4t | Ability to maintain dental records. | Dental records document patients' dental history, charts and treatments. Dental office postings ask for it. | 
+ll3qkk2jdu | Knowledge of field-programmable gate arrays (FPGAs). | An FPGA is an integrated circuit that can be configured after manufacture. Hardware postings ask for it. | 
+gxe2qfkmua | Ability to build brands. | Branding creates a distinctive name, identity and image for a product or company. Marketing postings ask for it. | 
+bnjsc5i3bq | Ability to integrate with the eBay API. | The eBay API lets developers build listings, orders and search on eBay. E-commerce postings mention it. | h:Application programming interface
+o7831ig0bi | Knowledge of law enforcement practices. | Law enforcement practices are how police enforce laws and maintain order. Police postings ask for it. | 
+h78dt70dh7 | Ability to run online stores on OpenCart. | OpenCart is an open-source PHP e-commerce platform. Web postings mention it. | 
+ini9hiun24 | Ability to read and prepare mechanical drawings. | Mechanical drawings show mechanical systems such as HVAC and plumbing, or machine parts. Construction and drafting postings ask for it. | 
+zf2odrrw4r | Ability to choose the right tools and equipment for a job. | Equipment selection, an O*NET skill, is determining the kind of tools and equipment needed to do a job. | f:The name reads as an O*NET skill.
+vk2k09kvlq | Ability to work interactively with IPython. | IPython is an interactive Python shell and the kernel behind Jupyter. Data science postings mention it. | u:Python
+y7r5n6cczl | Ability to investigate drug trafficking. | Drug trafficking investigation gathers evidence against those distributing illegal drugs. Narcotics postings ask for it. | 
+c7wxx3kgek | Ability to analyse genetic association data with PLINK. | PLINK is a toolset for genome-wide association studies. Genetics postings mention it. | 
+tou8ocnk8g | Ability to implement systems. | System implementation is installing and configuring a system and moving users onto it. IT postings ask for it. | -v:Systems Implementations
+z1kxrae19r | Ability to minimise waste. | Waste minimisation reduces the waste a process produces. Environmental and lean postings ask for it. | 
+pobjnps1ip | Holding a master's degree in archaeology. | A master's in archaeology is a graduate degree in archaeology. Cultural resource postings ask for it. | 
+w5pn5u48dh | Ability to provide inpatient obstetric nursing. | Inpatient obstetric nursing cares for patients in labour and delivery and postpartum. L&D postings ask for it. | 
+tbtzl802aq | Ability to code faster with JetBrains ReSharper. | ReSharper is a Visual Studio extension for .NET code analysis and refactoring. C# postings mention it. | 
+f9s025tlam | Ability to provision AWS infrastructure with CloudFormation. | AWS CloudFormation defines AWS resources as code in templates. DevOps postings ask for it. | u:Amazon Web Services
+rgo81x3q7u | Holding the Certified Foot Care Nurse (CFCN) credential. | The CFCN, from WOCNCB, certifies nurses in foot care. Foot care nursing postings mention it. | 
+zapo0wcsgf | Holding the Certified Occupancy Specialist (COS) credential. | The COS certifies affordable housing staff in HUD occupancy rules. Housing postings list it. | 
+gejo2dg8b2 | Ability to prepare wills. | Will preparation is drafting a will that sets how a person's estate is distributed. Estate planning postings ask for it. | 
+o691ftsrfr | Ability to use Google Sheets. | Google Sheets is Google's online spreadsheet. Office postings ask for it. | 
+uo0zg2aflh | Knowledge of partnership taxation. | Partnership taxation covers how partnerships and LLCs are taxed, under Subchapter K. Tax postings ask for it. | 
+g75wabftn6 | Knowledge of public history. | Public history presents history to public audiences through museums, sites and media. Museum postings mention it. | 
+fq4f1o6rvq | Ability to analyse structures with RISA-3D. | RISA-3D is structural analysis and design software. Structural engineer postings ask for it. | 
+v3yihyzit5 | Holding a research doctorate in statistics. | A PhD in statistics is a research doctorate in statistics. Statistician postings ask for it. | 
+wpvzxxfp8w | Ability to use ActivePython. | ActivePython is ActiveState's commercial Python distribution. It rarely appears in postings. | u:Python
+joiiqshx1g | Holding a Six Sigma Black Belt certification. | A Six Sigma Black Belt leads process improvement projects using DMAIC. CI postings ask for it. | x:Six Sigma Green Belt~The lower belt
+zbpnwo0rf3 | Ability to design for print. | Print design creates layouts for printed materials such as brochures and posters. Graphic designer postings ask for it. | 
+q79kcfioa9 | Ability to use English in academic study and writing. | Academic English is the English used in academic reading, writing and presentations. Higher education and EAP teaching postings mention it. | 
+at31legxns | Knowledge of odour control. | Odour control reduces odours from wastewater, waste or industrial processes. Wastewater postings ask for it. | 
+nbdd2ehtfg | Ability to speak Chichewa. | Chichewa is a Bantu language of Malawi and Zambia. Interpreter postings ask for it. | 
+goirkloj73 | Ability to speak a Gaelic language. | Gaelic refers to Scottish Gaelic and sometimes Irish. Postings in Scotland and Ireland mention it. | f:Ambiguous between Scottish Gaelic and Irish.
+z18o5yhzlt | Ability to stream data with Confluent. | Confluent is a data streaming platform built on Apache Kafka. Data engineer postings mention it. | 
+nfd20md6k6 | Holding the Progressive Care Certified Nurse (PCCN) credential. | The PCCN, from AACN, certifies nurses in progressive and step-down care. Step-down postings ask for it. | 
+pi5xj8mknx | Ability to texture 3D models with Substance 3D Painter. | Substance 3D Painter is Adobe's software for painting textures on 3D models. Game artist postings ask for it. | 
+w53hiak9py | Ability to review code with Atlassian Crucible. | Crucible is Atlassian's peer code review tool; it is end-of-life. | f:End of life.
+kch37swa2x | Holding a master's degree in music education. | A master's in music education is a graduate degree for music teachers. Music teacher postings mention it. | 
+geqoud4l75 | Holding the Loss Prevention Certified (LPC) credential. | The LPC, from the Loss Prevention Foundation, certifies retail loss prevention professionals. LP postings list it. | 

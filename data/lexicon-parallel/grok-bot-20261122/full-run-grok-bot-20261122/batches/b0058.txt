@@ -1,0 +1,50 @@
+c0jc22ifx0 | Knowledge of human factors and ergonomics. | Human factors applies knowledge of human abilities and limits to the design of systems and products. Safety and UX postings ask for it. | 
+e4spqals97 | Ability to program in Erlang. | Erlang is a functional language for concurrent, fault-tolerant systems. Telecom and messaging postings mention it. | 
+lq3c55zbbn | Ability to fit trendlines to data. | A trendline is a line showing the general direction of data in a chart. Analyst and trading postings mention it. | 
+fowzj5chtm | Holding a bachelor's degree in elementary education. | A bachelor's in elementary education prepares teachers for primary grades. Elementary teacher postings ask for it. | 
+d2m3gb8qfu | Knowledge of network topology. | Network topology is the arrangement of network nodes and links, such as star or mesh. Network postings ask for it. | h:Computer networking
+xbe5epb1r9 | Ability to speak a Batak language. | Batak languages are spoken in North Sumatra, Indonesia. They rarely appear in postings. | 
+x67m4fgi71 | Ability to scan the business environment. | Environmental scanning monitors external trends and events that could affect an organization. Strategy postings mention it. | 
+ci6q1arnb0 | Holding a master's degree in communication studies. | A master's in communication studies is a graduate degree in human communication. Communications postings mention it. | 
+whm91xdkg5 | Ability to use and administer ServiceNow. | ServiceNow is a cloud platform for IT service management and workflows. ITSM postings ask for it. | 
+kbw8iffkxz | Ability to measure blood pressure with a sphygmomanometer. | A sphygmomanometer is a cuff device for measuring blood pressure. Medical assistant postings ask for it. | 
+oi6geiye6s | Ability to learn quickly from experience and apply it to new situations. | Learning agility is the willingness and ability to learn from experience and adapt. Leadership postings mention it. | 
+m5flp85x9u | Ability to simulate physics with Bullet. | Bullet is an open-source physics engine for games and robotics. Game postings mention it. | 
+glayk4g2ef | Holding a diploma in hotel management and catering technology. | This diploma, common in India, trains people for hotel and catering work. Hospitality postings in India mention it. | 
+im9mjynl0i | Ability to build reports with Oracle Reports. | Oracle Reports is a reporting tool for Oracle databases. Legacy Oracle postings mention it. | 
+x8xjrkaqqf | Ability to give anma massage. | Anma is traditional Japanese massage. It rarely appears in postings. | 
+tcp74hpyqr | Holding the Registered Diagnostic Medical Sonographer (RDMS) credential. | The RDMS, from ARDMS, certifies sonographers in specialities such as abdomen and OB/GYN. Sonographer postings ask for it. | 
+mt0t611gxy | Ability to disciple people in Christian faith. | Discipleship is mentoring people to grow as followers of Christ. Church ministry postings ask for it. | 
+m8gmr3txqk | Knowledge of bismuth sulfite agar. | Bismuth sulfite agar is a selective medium for isolating Salmonella. Microbiology labs use it. | 
+rnzh3lofns | Holding the Certified Cardiographic Technician (CCT) credential. | The CCT, from CCI, certifies ECG and stress test technicians. Cardiology tech postings list it. | 
+smwy22dx57 | Ability to run infrastructure on the HashiCorp stack. | HashiStack refers to HashiCorp tools such as Terraform, Consul, Vault and Nomad used together. DevOps postings mention it. | 
+vt6ixbkzqu | Ability to market with video. | Video marketing uses video content to promote products and engage audiences. Marketing postings ask for it. | h:E-marketing
+k7txrlpsj4 | Ability to graph metrics with Graphite. | Graphite is a monitoring tool that stores and graphs time series metrics. Ops postings mention it. | 
+lkx73u6d8t | Ability to speak Lango, a Nilotic language of Uganda. | Lango is spoken in northern Uganda. It rarely appears in postings. | 
+vfbvb6cbta | Ability to speak Somali. | Somali is a Cushitic language of Somalia and the Horn of Africa. Interpreter postings ask for it. | 
+e6wzlsvhig | Ability to write fast Python extensions with Cython. | Cython is a Python superset that compiles to C. Scientific Python postings mention it. | u:Python
+s5x2ee25w1 | Ability to assist in ophthalmic surgery. | Ophthalmic surgical assisting supports eye surgeons in the OR. Ophthalmic tech postings ask for it. | 
+scenl2l59f | Ability to benchmark projects against others. | Project benchmarking compares project performance with similar projects or standards. PM postings mention it. | 
+o7ocsir0rp | Ability to validate LLM outputs with Guardrails AI. | Guardrails AI is an open-source Python library for validating LLM outputs. AI engineer postings mention it. | -v:Guardrails; v:Guardrails~in a context about LLM tooling
+r8lggmopfh | Holding the Certified Public Housing Manager (PHM) credential. | The PHM, from NAHRO, certifies managers of public housing. Housing authority postings list it. | 
+dwvdsrh0mq | Ability to use MicroStrategy data in Office with MicroStrategy Office. | MicroStrategy Office is an add-in that brings MicroStrategy reports into Excel and PowerPoint. It rarely appears in postings. | 
+swb70cmfee | Knowledge of drug absorption. | Drug absorption is how a drug moves from its site of administration into the bloodstream. Pharmacology syllabi teach it. | 
+zhzug46cnu | Ability to manage enterprise performance (EPM). | Enterprise performance management covers budgeting, planning, consolidation and reporting, with tools such as Oracle Hyperion. Finance systems postings ask for it. | 
+nv1m32nwsp | Ability to build analytics with ActivePivot (Atoti). | ActivePivot, now Atoti, is an in-memory OLAP engine used in finance. Bank tech postings mention it. | 
+zc2en2gok2 | Holding the ACRP Certified Clinical Research Associate (CCRA) credential. | The CCRA certifies clinical research monitors. CRA postings list it. | 
+z9fhus6h3o | Ability to organize ideas with mind maps. | Mind mapping draws ideas as a diagram branching from a central topic. Postings rarely ask for it. | 
+k81eciday8 | Holding a master's degree in nursing. | A master's in nursing, usually an MSN, prepares advanced practice nurses and leaders. Nursing postings mention it. | s:Master of Science in Nursing
+jxii97zqv9 | Knowledge of utility engineering. | Utility engineering plans and designs utility networks such as power, water and gas. Utility postings ask for it. | 
+ivx36sezid | Knowledge of natural language understanding. | NLU is the part of NLP concerned with machine comprehension of text meaning. AI postings mention it. | h:Natural language processing
+q89d2f20gq | Ability to build server-side apps with Node.js. | Node.js is a JavaScript runtime for servers. Back-end postings ask for it. | 
+epv6y4qei9 | Holding the Registered Physician in Vascular Interpretation (RPVI) credential. | The RPVI, from ARDMS, certifies physicians who interpret vascular ultrasound. Vascular physician postings ask for it. | 
+k4o7hc8rh0 | Holding the Certified Occupational Health Nurse (COHN) credential. | The COHN, from ABOHN, certifies occupational health nurses. Occupational health postings list it. | 
+as9j0cdn2w | Ability to build bots with UiPath. | UiPath is a robotic process automation platform. RPA postings ask for it. | 
+gtfp6pi8ps | Ability to manage websites with phpWebSite. | phpWebSite was an open-source PHP CMS; it is obsolete. | f:Obsolete.
+o5aj12ezze | Ability to build web apps with Ember.js. | Ember.js is an opinionated JavaScript framework for web apps. Front-end postings mention it. | 
+nb8uc9r0d1 | Knowledge of the Kyoto Protocol. | The Kyoto Protocol was a 1997 treaty committing industrialized nations to cut greenhouse gas emissions. Climate postings mention it. | 
+cynf8kt39j | Ability to build enterprise search with FAST ESP. | FAST ESP was an enterprise search platform, bought by Microsoft and folded into SharePoint. It is obsolete. | f:Obsolete.
+kuqc26vh3g | Ability to integrate systems with Fuse ESB. | Fuse ESB was an open-source enterprise service bus, now Red Hat Fuse. Integration postings mention it. | 
+o03d8l0gzy | Knowledge of the Paris Agreement on climate change. | The Paris Agreement is the 2015 treaty to limit global warming well below 2 °C. Climate postings mention it. | 
+lem0uww05d | Ability to program AWS services with AWS SDKs. | AWS SDKs are language libraries for calling AWS services. Cloud developer postings ask for it. | u:Amazon Web Services
+o0xh85dvg5 | Ability to run search advertising on Google Ads. | Google Ads, formerly AdWords, is Google's online advertising platform. PPC postings ask for it. | 

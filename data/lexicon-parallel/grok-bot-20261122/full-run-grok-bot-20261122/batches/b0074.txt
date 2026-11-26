@@ -1,0 +1,50 @@
+cf0cldbloe | Ability to plan flights. | Flight planning works out a flight's route, fuel, weather and weight. Pilot and dispatcher postings ask for it. | 
+pfm68oskn9 | Knowledge of critical test results management. | CTRM ensures critical lab and imaging results reach clinicians promptly. Hospital quality postings mention it. | 
+brdrz5dbn4 | Holding an Associate of Science in marine technology. | This AS trains technicians in marine and ocean technology. Marine tech postings accept it. | 
+xcifis2ksa | Ability to sustain physical activity without tiring. | Stamina, an O*NET ability, is exerting oneself physically over long periods without getting winded. | f:The name reads as an O*NET ability.
+u7uo9jl0hd | Ability to maintain sterile technique. | Sterile technique keeps a sterile field free of microorganisms during procedures. Surgical and lab postings ask for it. | 
+mfwynfkp4j | Ability to test contact centers with Cyara. | Cyara is a platform for automated testing of contact centre and CX systems. Contact centre QA postings mention it. | 
+la6wh4y4dz | Knowledge of hindsight bias. | Hindsight bias is seeing past events as having been predictable. Psychology and risk syllabi teach it. | 
+b6prhjd3f0 | Holding the Google Project Management Professional Certificate. | This Coursera certificate from Google covers entry-level project management. Entry-level postings mention it. | 
+etkm588rdk | Ability to build UIs with Knockout.js. | Knockout is a JavaScript MVVM library with data binding. Legacy front-end postings mention it. | 
+irmhl02qj4 | Ability to build web apps with Next.js. | Next.js is a React framework for server-rendered and static sites. Front-end postings ask for it. | u:React
+w77qwg3nqc | Ability to automate browsers with PhantomJS. | PhantomJS was a headless WebKit browser. Development was suspended in 2018. | f:Discontinued.
+rdtwc1bnps | Ability to talk to others to convey information. | Speaking, an O*NET skill, is conveying information effectively by talking. | f:The name reads as an O*NET skill.
+amaofka1yj | Knowledge of refrigeration compressors. | Refrigeration compressors pump refrigerant through a cooling cycle. HVAC-R postings ask for it. | 
+xbnzpi95t0 | Ability to teach languages. | Language teaching instructs learners in a foreign or second language. Teacher postings ask for it. | 
+iyt1a3x468 | Ability to manage student work with Seesaw. | Seesaw is a digital portfolio and learning platform for schools. Elementary teacher postings mention it. | 
+ffw2lu5zpa | Ability to build GUIs with wxGTK. | wxGTK is the GTK port of wxWidgets. It rarely appears in postings. | 
+qx1zxjygen | Ability to design printed circuit boards. | PCB design lays out components and traces on a circuit board. Hardware postings ask for it. | 
+jzczt8njk2 | Ability to program in Forth. | Forth is a stack-based language used in embedded systems. It rarely appears in postings. | -v:Forth (Programming Language)
+sno6247mi1 | Ability to design logos. | Logo design creates a brand's graphic mark. Graphic designer postings ask for it. | 
+lty9xyx66t | Ability to monitor applications with Azure Application Insights. | Application Insights is Azure Monitor's application performance monitoring. Azure postings mention it. | 
+yr4yqkdk3u | Holding the Certified Risk Adjustment Coder (CRC) credential. | The CRC, from AAPC, certifies coders in risk adjustment. Coding postings ask for it. | 
+ndsl6ipwe5 | Knowledge of network performance. | Network performance covers throughput, latency and loss in computer networks. Network postings ask for it. | h:Computer networking
+wy0q8xbf4z | Holding the International Computer Driving Licence (ICDL). | ICDL, formerly ECDL, certifies basic computer skills. Admin postings outside the US mention it. | -v:International Computer Drivering License
+r988qdft8n | Ability to remove dental plaque. | Plaque removal cleans biofilm from teeth by scaling and polishing. Dental hygienist postings ask for it. | 
+k4qfu7qfow | Holding Emergency Nursing Pediatric Course (ENPC) certification. | ENPC, from the ENA, trains nurses in pediatric emergency care. ER nurse postings ask for it. | 
+tdarv8o1wa | Holding the CompTIA IT Fundamentals+ (ITF+) certification. | ITF+, formerly Strata, is CompTIA's entry-level IT certification, now replaced by Tech+. | f:Replaced by CompTIA Tech+.
+p1x6hxs01r | Knowledge of geography. | Geography studies places, landscapes and how people relate to them. Teacher and GIS postings mention it. | 
+ohwq8eavw4 | Ability to develop Windows software. | Windows software development builds desktop apps for Windows. Developer postings ask for it. | 
+njlcvlg504 | Ability to reason about cause and effect. | Causal reasoning identifies how one event brings about another. Analyst postings mention it. | -v:causal inference; x:Causal inference~Statistical method
+rc2t35lvkn | Holding a research doctorate in social work. | A PhD in social work is a research doctorate in social work. Academic postings ask for it. | 
+renk1wgrcv | Holding the Aquatic Facility Operator (AFO) certification. | AFO, from NRPA, certifies pool operators. Aquatics postings ask for it. | 
+i4i1z8400a | Holding the Certified in Logistics, Transportation and Distribution (CLTD) credential. | CLTD, from ASCM, certifies logistics professionals. Logistics postings mention it. | 
+h4v7sfgj5x | Ability to analyse systems. | Systems analysis, an O*NET skill, determines how a system should work and how changes affect it. | f:The name reads as an O*NET skill.
+wi2jt4gwwc | Ability to queue messages with IronMQ. | IronMQ is a hosted message queue service from Iron.io. It rarely appears in postings. | 
+nkt2stz7xu | Ability to build GraphQL APIs with Apollo. | Apollo GraphQL provides GraphQL server and client tools. Front-end and API postings mention it. | u:GraphQL
+u3mnyqrb8i | Knowledge of motor control software. | Motor control software drives electric motors through control algorithms. Embedded postings mention it. | 
+pfrqi7iiw7 | Ability to secure event sponsorships. | Event sponsorship wins and manages sponsors for events. Event marketing postings ask for it. | 
+d16ja1jgfx | Ability to send email campaigns through email service providers. | Email service providers, such as Mailchimp, send bulk marketing email. Email marketing postings ask for it. | 
+c4t9cpgtn7 | Ability to adapt to change. | Change agility is adapting quickly and positively to change. Leadership postings mention it. | 
+zl7j10mzsp | Holding an Associate of Applied Science in emergency medical services. | This AAS trains paramedics. EMS postings accept it. | 
+n8ihj4als1 | Ability to manage external stakeholders. | External stakeholder management handles relationships with partners, regulators and communities. Management postings ask for it. | 
+q63qicd4p4 | Knowledge of engineering economics. | Engineering economics evaluates costs and benefits of engineering projects. Engineering syllabi teach it. | 
+zf8lkgf31j | Ability to work with SAP S/4HANA. | S/4HANA is SAP's ERP suite on the HANA database. SAP postings ask for it. | 
+yjhzrcmw7v | Knowledge of final expense insurance. | Final expense insurance is small whole life cover for funeral costs. Insurance sales postings mention it. | 
+w7c7jyyh5v | Ability to replicate data with Oracle GoldenGate. | GoldenGate is Oracle's real-time data replication software. DBA postings mention it. | 
+ycn2mm67g2 | Ability to develop cloud-native applications. | Cloud-native development builds apps with containers, microservices and managed services. Developer postings ask for it. | 
+m60uz3y7x2 | Holding Wicklander-Zulawski interview certification. | Wicklander-Zulawski certifies investigators in its non-confrontational interview methods. Loss prevention postings mention it. | 
+uflky7mun1 | Knowledge of JavaScript engines. | A JavaScript engine, such as V8, runs JavaScript code. Browser and runtime postings mention it. | 
+h8isdaje7z | Ability to work with clinical data repositories. | A clinical data repository stores patient data from many systems. Health IT postings mention it. | 
+vphlc8dpfb | Ability to speak Mandarin Chinese. | Mandarin is the most widely spoken Chinese language. Postings ask for it. | h:Chinese

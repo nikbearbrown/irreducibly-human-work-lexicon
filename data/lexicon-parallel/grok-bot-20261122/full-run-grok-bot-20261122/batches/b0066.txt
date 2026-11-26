@@ -1,0 +1,50 @@
+eih0aqmpu3 | Holding a GIAC certification. | GIAC certifications, linked to SANS training, certify hands-on cybersecurity skills. Security postings ask for them. | 
+z8kpukjtt0 | Ability to test JVM code with the Spock Framework. | Spock is a Groovy-based testing and specification framework for Java and Groovy. JVM postings mention it. | -v:Spock; v:Spock~in a context about testing
+f07mdjv1v0 | Holding American Board of Optometry certification. | The ABO board-certifies optometrists. Optometrist postings mention it. | 
+mrfo4d84xg | Ability to speak Chakma. | Chakma is an Indo-Aryan language of Bangladesh and northeast India. It rarely appears in postings. | 
+a9sbyr46z1 | Ability to install and repair auto glass. | Auto glass work replaces windshields and repairs chips. Auto glass technician postings ask for it. | 
+u70zjxun8w | Ability to engage audiences with Poll Everywhere. | Poll Everywhere is live audience polling software. Trainer postings rarely mention it. | 
+irtfh3ohap | Ability to catalogue with OCLC Connexion. | OCLC Connexion is cataloguing software for WorldCat records. Library cataloguer postings ask for it. | 
+grn5gsyx43 | Ability to use the KY3P third-party risk platform. | Know Your Third Party (KY3P), from S&P Global, shares due-diligence data on vendors. TPRM postings mention it. | 
+u7zy60dlsh | Ability to build write-back apps with MicroStrategy Transaction Services. | Transaction Services lets MicroStrategy reports write data back to sources. It rarely appears in postings. | 
+tpeupqg8nc | Holding the Certified Associate in Python Programming (PCAP). | The PCAP, from the Python Institute, certifies intermediate Python skills. Junior Python postings list it. | 
+im5xpmg2uo | Knowledge of Wi-Fi network architecture. | Wi-Fi architecture covers access points, controllers and design of wireless LANs. Wireless engineer postings ask for it. | 
+r32hw0qken | Ability to cluster data with k-means. | k-means partitions data into k clusters by distance to centroids. Data science postings mention it. | 
+xwrfu2zstu | Ability to build desktop apps with NW.js. | NW.js runs web apps as desktop apps with Node.js. It rarely appears in postings. | 
+ul70j17833 | Ability to manoeuvre ships. | Ship handling is steering and manoeuvring a ship, especially in port. Mariner postings ask for it. | 
+uhyi0x24k6 | Holding a master's degree in structural engineering. | A master's in structural engineering is a graduate degree in structural design. Structural engineer postings ask for it. | 
+hj8i6mh3zz | Ability to speak, read and write Chinese. | Chinese is a group of Sinitic languages; postings usually mean Mandarin and written Chinese. Many postings ask for it. | o:Mandarin
+qdxkgjr0wk | Holding the Occupational Health and Safety Technologist (OHST) credential. | The OHST, from BCSP, certifies safety technologists. EHS postings list it. | 
+inxnx41ln3 | Holding the CNOR perioperative nursing certification. | The CNOR, from CCI, certifies perioperative registered nurses. OR nursing postings ask for it. | 
+oeuvk8p1c3 | Knowledge of geospatial databases. | A geospatial database stores and queries spatial data, such as PostGIS. GIS postings ask for it. | 
+i5gs33auro | Knowledge of gas metering systems. | Gas meter systems measure natural gas flow for billing. Gas utility postings ask for it. | 
+ci0hw5wlyl | Holding the CompTIA IT for Sales certification. | CompTIA IT for Sales certified tech sales staff; it is retired. | f:Retired.
+oodx1gxbvc | Knowledge of renal nutrition. | Renal nutrition is diet therapy for kidney disease and dialysis. Renal dietitian postings ask for it. | 
+tg4ci0hwn3 | Holding the National Certified School Counselor (NCSC) credential. | The NCSC, from NBCC, certifies school counsellors. School counsellor postings mention it. | 
+vjw6nn9z7a | Ability to build web apps with CanJS. | CanJS is a JavaScript MVC framework. It rarely appears in postings. | 
+kzqxoy5ali | Ability to build stochastic models. | Stochastic modelling uses random variables to model uncertain systems. Quant and actuarial postings ask for it. | 
+pu8af5p8cg | Holding an Associate of Arts in early childhood education. | This AA prepares preschool teachers and childcare staff. Preschool postings ask for it. | 
+w5i4dh2uc2 | Ability to manage projects with PRINCE2. | PRINCE2 is a process-based project management method, common in the UK. PM postings ask for it. | 
+trs7y2g1ej | Holding the Advanced Certified Hospice and Palliative Nurse (ACHPN) credential. | The ACHPN certifies advanced practice nurses in hospice and palliative care. Palliative NP postings list it. | 
+lgdf0oiq2g | Ability to operate chain conveyors. | A chain conveyor moves products on chains. Plant maintenance postings mention it. | 
+lkqe98eqaw | Holding a Red Hat certification. | Red Hat certifications, such as RHCSA and RHCE, certify Linux and open-source skills. Linux postings ask for them. | 
+vd34jqks0j | Ability to manage desktop computers in an organization. | Desktop management deploys, patches and supports end-user computers. Desktop support postings ask for it. | 
+o1z2vme9w2 | Ability to build web apps with Flask. | Flask is a lightweight Python web framework. Python postings ask for it. | 
+dgq5x6xu5o | Ability to run cone penetration tests. | Cone penetration testing pushes a cone into soil to measure resistance for site investigation. Geotechnical postings ask for it. | 
+g19y1gv4wx | Ability to automate infrastructure with Cisco UCS Director. | UCS Director automates provisioning of data centre infrastructure; it is end-of-life. | f:End of life.
+hxbmwm7clo | Holding CPR for the Professional Rescuer certification. | This Red Cross course certifies CPR, AED and first aid for professional rescuers. Lifeguard postings ask for it. | 
+vo3gm200qd | Ability to arrange conferences. | Arranging conferences plans venues, speakers, logistics and registrations. Event and admin postings ask for it. | 
+fo3x072gil | Ability to implement mediator patterns in .NET with MediatR. | MediatR is a .NET library for in-process messaging. .NET postings mention it. | 
+lg0e12hj10 | Holding a diploma in medical billing and coding. | This diploma trains people to code and bill medical claims. Billing postings accept it. | 
+cx81zzbvil | Ability to train gradient-boosted models with LightGBM. | LightGBM is Microsoft's gradient boosting framework. ML postings mention it. | 
+aah9ap0pat | Knowledge of the Paperwork Reduction Act. | The PRA is a US law requiring OMB approval of federal information collections. Federal postings mention it. | 
+oezvmtjgl6 | Ability to work with KML geographic data. | Keyhole Markup Language is an XML format for geographic data in Google Earth. GIS postings mention it. | -v:Keyhole Markup Languages (Programming Language)
+ms42m7io2w | Ability to speak Cebuano. | Cebuano is a Philippine language of the Visayas and Mindanao. Interpreter postings ask for it. | 
+sw8c3qk1m2 | Ability to manage marketing. | Marketing management plans and directs marketing activities. Marketing manager postings ask for it. | 
+avwr5t78gz | Ability to build iOS interfaces with UIKit. | UIKit is Apple's framework for iOS user interfaces. iOS postings ask for it. | x:UIkit (web framework)~A CSS framework with the same name
+xv8m4kt2te | Holding a research doctorate in sociology. | A PhD in sociology is a research doctorate in sociology. Academic postings ask for it. | 
+amwmjfk4wl | Ability to use contact management software. | Contact management software stores contacts and interactions, a basic CRM. Sales postings mention it. | 
+n0cqs70yvv | Ability to filter web content. | Web filtering blocks access to unwanted websites. Network security postings mention it. | 
+js76dl80jf | Ability to manage security programs. | Security management plans and directs physical or information security. Security manager postings ask for it. | -v:Security Managing
+uebmn4prc9 | Holding the Certified Managed Care Nurse (CMCN) credential. | The CMCN, from AAMCN, certifies nurses in managed care. Managed care postings list it. | 
+tm6kqnb369 | Holding DoD IAM Level III certification. | IAM Level III is the top DoD 8570 management tier, met with credentials such as CISSP or CISM. Defence cyber leadership postings ask for it. | 

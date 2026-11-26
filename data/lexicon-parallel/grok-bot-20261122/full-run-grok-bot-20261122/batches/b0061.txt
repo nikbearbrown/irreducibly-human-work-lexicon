@@ -1,0 +1,50 @@
+jfngdt55mz | Ability to create experiential marketing campaigns. | Experiential marketing engages consumers through live brand experiences and events. Marketing postings ask for it. | 
+hzp4toom8p | Ability to scan for vulnerabilities with Rapid7 Nexpose. | Nexpose is Rapid7's on-premises vulnerability scanner, related to InsightVM. Security postings mention it. | 
+mfaw2zyj3n | Holding the Safety Trained Supervisor (STS) certification. | The STS, from BCSP, certifies supervisors with safety training. Construction postings list it. | -v:STS; v:STS~in a context about workplace safety
+jh5x3kr85t | Ability to design social and behaviour change communication (SBCC). | SBCC uses communication to change individual and social behaviours, as in global health. NGO postings ask for it. | 
+v5qd3g817l | Knowledge of laser engineering. | Laser engineering designs and applies laser systems. Photonics postings ask for it. | 
+lcec6ryumx | Ability to speak Tajik. | Tajik is a variety of Persian spoken in Tajikistan. It rarely appears in postings. | 
+gkooziad4f | Ability to program Crestron control systems. | Crestron programming writes logic for AV and building control systems in SIMPL or C#. AV programmer postings ask for it. | 
+jwz55gwlkt | Ability to make HTTP requests with Axios. | Axios is a promise-based HTTP client for JavaScript. Front-end postings mention it. | 
+ufzengonp7 | Holding the Registered Health Information Technician (RHIT) credential. | The RHIT, from AHIMA, certifies health information technicians at the associate level. HIM postings ask for it. | x:Registered Health Information Administrator~The bachelor-level credential
+a65p6wgs2q | Ability to test software with random inputs. | Random testing feeds randomly generated inputs to software to find failures. QA postings rarely ask for it. | h:Software testing
+benjtuhjh1 | Ability to sell pet insurance. | Pet insurance sales sells policies covering pets' veterinary costs. Insurance sales postings mention it. | 
+uxw4bog89z | Holding the Certified Biomedical Equipment Technician (CBET) credential. | The CBET, from AAMI, certifies biomedical equipment technicians. Biomed postings list it. | 
+kblgtvd61c | Ability to drive emergency vehicles. | Emergency vehicle operations is driving ambulances, fire trucks or police cars safely in emergencies. EMS and fire postings ask for it. | 
+hjzieo2ohv | Ability to build user interfaces with React. | React is Meta's JavaScript library for building user interfaces. Front-end postings ask for it. | -v:React.js (Javascript Library Library)
+hgakunv2dr | Ability to draw flat sketches of garments. | Flat sketching draws technical drawings of garments for production. Fashion design postings ask for it. | 
+zobx6cbtk7 | Ability to optimize social media presence. | Social media optimization improves profiles and content to grow reach and engagement. Social media postings mention it. | 
+irydpvx389 | Ability to build AI agents that call tools and functions. | Agent tool use lets language models call external functions and APIs to act. AI engineer postings mention it. | 
+njb05kddl5 | Holding the Certified Diversity Recruiter (CDR) credential. | The CDR, from the Institute for Diversity Certification, certifies diversity recruiting. Recruiter postings list it. | 
+dcc6ni2d6e | Holding a research doctorate in business administration. | A PhD in business administration is a research doctorate in business. Academic postings ask for it. | 
+bju3alutyw | Ability to handle hazardous materials safely. | Hazmat handling is storing, moving and disposing of hazardous materials under regulations. Warehouse and lab postings ask for it. | 
+clelgs9q2c | Ability to configure SAP Materials Management. | SAP MM is the procurement and inventory module of SAP ERP. SAP postings ask for it. | -v:SAP Meterial Management
+xbjj61um58 | Ability to bend, stretch and twist quickly and repeatedly. | Dynamic flexibility, an O*NET ability, is quickly and repeatedly bending, stretching, twisting or reaching. | f:The name reads as an O*NET ability.
+zf1upthxp4 | Holding the CompTIA i-Net+ certification. | CompTIA i-Net+ certified internet technology skills; it is retired. | f:Retired.
+gt841cn3mz | Holding a research doctorate in industrial design. | A PhD in industrial design is a research doctorate in product design. It rarely appears in postings. | 
+yy563wgg4o | Knowledge of electromechanical engineering. | Electromechanical engineering combines electrical and mechanical engineering, as in motors and actuators. Technician postings ask for it. | 
+b6aks1wdou | Knowledge of the Chordiant CRM platform. | Chordiant was customer experience software bought by Pegasystems in 2010. It is obsolete. | f:Obsolete.
+m8mcxzuysb | Ability to conduct privacy impact assessments. | A privacy impact assessment evaluates how a project affects personal data and privacy. Privacy postings ask for it. | 
+i53ufef076 | Knowledge of multi-core processors. | A multi-core processor has several processing cores on one chip. Hardware and performance postings mention it. | 
+i0vpvmxbz0 | Ability to program in an object-oriented way. | Object-oriented programming organizes code into objects with data and methods, using classes and inheritance. Developer postings ask for it. | 
+yzj1md842p | Knowledge of border studies. | Border studies examines borders and borderlands across disciplines. Academic postings mention it. | 
+v8igmn62h1 | Holding a master's degree in zoology. | A master's in zoology is a graduate degree in animal biology. Wildlife postings mention it. | 
+xu0azmubfo | Knowledge of biopesticides. | Biopesticides are pest controls derived from natural materials such as microbes. Agronomy postings mention it. | 
+acez55e1cs | Ability to preserve food. | Food preservation keeps food safe through canning, drying, freezing or fermentation. Food production postings mention it. | 
+pqs7no75hv | Ability to manage large datasets with PyTables. | PyTables is a Python package for managing hierarchical data in HDF5 files. It rarely appears in postings. | 
+ogt8lrbjfc | Ability to manage APIs. | API management publishes, secures and monitors APIs with gateways such as Apigee. Integration postings ask for it. | 
+dupsfn56g9 | Ability to speak Sango. | Sango is the national language of the Central African Republic. It rarely appears in postings. | 
+iapgb1wud2 | Knowledge of the Rankine cycle. | The Rankine cycle is the thermodynamic cycle of steam power plants. Power engineering syllabi teach it. | 
+dwchdo7ntf | Ability to program in assembly language. | Assembly language is low-level code that maps to machine instructions. Embedded postings ask for it. | 
+zglmbe1k9b | Ability to run gel electrophoresis of DNA and RNA. | Gel electrophoresis separates nucleic acids by size in an electric field. Molecular biology postings ask for it. | 
+v1edze49tk | Knowledge of the IMAP email protocol. | IMAP lets email clients access mail stored on a server. Email admin postings mention it. | 
+zdhjtk4sx3 | Knowledge of petrography. | Petrography describes and classifies rocks under the microscope. Geology postings mention it. | 
+y5tixyhegu | Ability to design hardware in VHDL. | VHDL is a hardware description language for FPGAs and ASICs. Hardware postings ask for it. | h:Hardware description language
+rh0knehbvu | Holding a master's degree in data science. | A master's in data science is a graduate degree in statistics, ML and data. Data scientist postings ask for it. | 
+bjp3i8vngr | Knowledge of Apple Bonjour zero-configuration networking. | Bonjour is Apple's implementation of zero-configuration networking for service discovery. Network postings rarely mention it. | 
+fbz4x4b3z4 | Holding the Certified Physician Practice Manager (CPPM) credential. | The CPPM, from AAPC, certifies managers of physician practices. Practice manager postings list it. | 
+z199mo1bdd | Ability to speak Fula (Fulani). | Fula is a language spoken across West and Central Africa. Interpreter postings ask for it. | 
+hu5gpjlq33 | Knowledge of convolutional neural networks. | CNNs are neural networks using convolution layers, mainly for images. Computer vision postings ask for it. | h:Neural networks
+b0lmdyh8po | Knowledge of renewable energy. | Renewable energy comes from replenishing sources such as sun, wind and water. Energy postings ask for it. | 
+rzz95q00uw | Ability to host MySQL with ClearDB. | ClearDB is a cloud MySQL service, used with Heroku. It rarely appears in postings. | 
+c2c1jv92du | Ability to give Swedish massage. | Swedish massage uses long strokes and kneading for relaxation. Massage therapist postings ask for it. | h:Massage

@@ -1,0 +1,50 @@
+gqb5jwvqcb | Holding the CompTIA Linux+ certification. | CompTIA Linux+ certifies Linux administration skills. Linux admin postings list it. | 
+co7mm328mx | Holding the Certified Insurance Service Representative (CISR) designation. | The CISR, from The National Alliance, certifies insurance customer service staff. Insurance agency postings list it. | 
+q74bxk8hi6 | Ability to deploy Apple devices with Automated Device Enrollment. | Apple's Device Enrollment Program, now Automated Device Enrollment, enrolls company devices into MDM automatically. Mac admin postings mention it. | 
+srtz4mtpnt | Ability to store data in Amazon SimpleDB. | SimpleDB is a legacy AWS NoSQL data store, largely replaced by DynamoDB. | l:Amazon Web Services | f:Legacy.
+crsg1gr1gz | Ability to choose quickly between responses to different signals. | Response orientation, an O*NET ability, is choosing quickly between two or more movements in response to two or more signals. | f:The name reads as an O*NET ability.
+pvzx15szxf | Knowledge of molecular engineering. | Molecular engineering designs molecules and materials with specific properties. Research postings mention it. | 
+ac399zg859 | Holding an Associate of Arts in journalism. | An AA in journalism is a two-year degree in reporting and writing. | 
+qatr9a0kcz | Knowledge of children's ministry. | Children's ministry is church programs for teaching and caring for children. Church postings ask for it. | 
+c2b26cho4f | Ability to speak Hopi. | Hopi is a Uto-Aztecan language of the Hopi people in Arizona. It rarely appears in postings. | 
+rm2id4spt5 | Ability to facilitate group work. | Group work is working in or leading groups, including group therapy in social work. Social work and team postings mention it. | 
+ali865tohc | Ability to perform general administrative and clerical tasks. | General administrative tasks include filing, typing, scheduling and answering phones. Admin assistant postings ask for it. | 
+qdp11s2pja | Ability to build an employer brand. | Employer branding shapes an organization's reputation as a place to work. Talent acquisition postings ask for it. | h:Branding
+s55w8vv1a1 | Knowledge of tax returns. | A tax return is a form filed with tax authorities reporting income and tax. Tax preparer postings ask for it. | 
+uy6e58uzrs | Holding the Housing Credit Certified Professional (HCCP) credential. | The HCCP, from NAHB, certifies professionals in low-income housing tax credit compliance. Affordable housing postings list it. | -v:Housing Credit Ceritified Professional
+p5faniwwwf | Holding a research doctorate in finance. | A PhD in finance is a research doctorate in finance. Academic and quant postings ask for it. | 
+ottsqixz6u | Holding a research doctorate in software engineering. | A PhD in software engineering is a research doctorate in software. Research postings mention it. | 
+mi2t4wx6vw | Knowledge of the FLAC audio format. | FLAC is an open lossless audio compression format. Audio postings mention it. | 
+wrombjtyy8 | Ability to speak, read and write Afrikaans. | Afrikaans is a West Germanic language of South Africa and Namibia. South African postings mention it. | 
+hm380yneeh | Knowledge of applied linguistics. | Applied linguistics applies linguistics to practical problems such as language teaching. TESOL postings mention it. | 
+mwkqst1v48 | Ability to build data pipelines with Alooma. | Alooma was a cloud data pipeline service bought by Google in 2019 and shut down. | f:Discontinued.
+afgwin6zn7 | Ability to design process plants. | Plant design lays out equipment, piping and structures for industrial plants. Process engineering postings ask for it. | 
+q0idp0h02o | Ability to analyse public policies. | Policy analysis evaluates policy options and their likely effects. Policy postings ask for it. | 
+cmtuyx6c1u | Ability to code in the cloud with AWS Cloud9. | AWS Cloud9 is a browser-based IDE; AWS closed it to new customers in 2024. | f:Closed to new customers.
+jwu8ona3vz | Ability to recruit students. | Student recruitment attracts and enrols students for schools and universities. Admissions postings ask for it. | 
+ctjpk6qa7z | Knowledge of the IEEE 1547 interconnection standard. | IEEE 1547 sets requirements for connecting distributed energy resources to the grid. Solar and grid postings ask for it. | 
+enx40y6s0v | Ability to identify and understand another person's speech. | Speech recognition, an O*NET ability, is identifying and understanding the speech of another person. | f:The name reads as an O*NET ability.
+bnirjna4h6 | Knowledge of factoring in finance. | Factoring is a business selling its receivables to a third party at a discount. Trade finance postings mention it. | 
+kopywf7m97 | Knowledge of the NIST Cybersecurity Framework. | The NIST CSF organizes cybersecurity risk into functions such as Identify, Protect, Detect, Respond and Recover. Security postings ask for it. | 
+wyr81cjqol | Knowledge of business excellence models. | Business excellence applies models such as EFQM or Baldrige to improve organizations. Quality postings mention it. | 
+n6kpgpt2fz | Ability to drive and load flatbed trucks. | A flatbed truck has an open bed for oversized loads. Truck driver postings ask for it. | 
+ogfx5yxebl | Holding the ISACA Certified Information Systems Auditor (CISA) credential. | The CISA certifies IT auditors. IT audit postings ask for it. | 
+gmljzz3xfe | Ability to monitor business activity with Oracle BAM. | Oracle Business Activity Monitoring provides real-time dashboards on business processes. Oracle SOA postings mention it. | 
+oyo6sqevit | Ability to program in BlitzMax. | BlitzMax is a BASIC dialect for games. It rarely appears in postings. | 
+axybvm0oui | Holding an Associate of Science in kinesiology. | An AS in kinesiology is a two-year degree in human movement. | 
+yn4il9n9p6 | Knowledge of HTML meta tags. | Meta tags give metadata about a web page for browsers and search engines. SEO postings ask for it. | 
+lpsnz8mgp5 | Knowledge of cloud computing. | Cloud computing delivers computing resources over the internet on demand. Tech postings ask for it. | 
+gaycj932vl | Ability to operate screw conveyors. | A screw conveyor moves bulk material with a rotating helical screw. Plant maintenance postings mention it. | 
+ogxwfta1md | Holding the SAFe Release Train Engineer (RTE) certification. | The RTE certifies people who facilitate an Agile Release Train in SAFe. Agile postings list it. | 
+s1g3oppibd | Holding a research doctorate in dance. | A PhD in dance is a research doctorate in dance studies. Academic postings mention it. | 
+by0hhxqnvh | Ability to control the operation of equipment or systems. | Operation and control, an O*NET skill, is controlling operations of equipment or systems. | f:The name reads as an O*NET skill.
+ywxc0sqcep | Knowledge of health, safety and environment (HSE). | HSE covers protecting people and the environment at work. HSE postings ask for it. | 
+ws8dcvyb8p | Ability to build random forest models. | A random forest is an ensemble of decision trees for classification and regression. Data science postings mention it. | 
+h9x8yk1sy1 | Ability to administer general anaesthesia. | General anaesthesia makes a patient unconscious for surgery. Anaesthesiologist and CRNA postings ask for it. | 
+pdqd1zdbm6 | Ability to place simple interrupted sutures. | A simple interrupted suture is the basic stitch, each tied separately. Clinician postings mention it. | 
+isgys6o9f0 | Ability to enter alphanumeric data quickly and accurately. | Alphanumeric data entry types letters and numbers into systems, often measured in keystrokes per hour. Data entry postings ask for it. | x:Data entry (numeric)~Numbers only
+dwoqn11jcz | Holding the NFA Series 3 National Commodity Futures license. | The Series 3 qualifies people to sell commodity futures. Futures postings ask for it. | 
+sbv449qamh | Ability to speak Malagasy. | Malagasy is the national language of Madagascar. It rarely appears in postings. | 
+laow9ime8o | Holding a forklift operator certification. | A forklift certification shows training to operate powered industrial trucks under OSHA rules. Warehouse postings require it. | 
+woogmkk6ly | Holding a master's degree in counselling. | A master's in counselling prepares licensed professional counsellors. Counsellor postings require it. | 
+cw49d7xovz | Ability to plan 360-degree marketing campaigns. | A 360 campaign delivers one message across all channels at once. Agency postings mention it. | 

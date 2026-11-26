@@ -1,0 +1,50 @@
+lw1jzfzyrg | Ability to build CI/CD pipelines with Concourse. | Concourse is an open-source CI/CD system built around pipelines. DevOps postings mention it. | 
+j4ag27vmdj | Holding a bachelor's degree in urban and regional planning. | This undergraduate degree covers land use, transport and community planning. Planner postings ask for it. | 
+onui7wccwc | Knowledge of ISO 26262 automotive functional safety. | ISO 26262 is the functional safety standard for road vehicle electronics. Automotive software postings ask for it. | 
+vlx37w32ol | Ability to test emails with Email on Acid. | Email on Acid previews and tests emails across clients. Email developer postings mention it. | 
+hncua46gpo | Holding Expanded Functions Dental Assistant (EFDA) certification. | An EFDA is a dental assistant certified to perform extra procedures such as placing fillings. Dental postings ask for it. | 
+izrkso47in | Knowledge of GPRS mobile data. | General Packet Radio Service is a 2G/2.5G packet data service on GSM networks. It is largely obsolete. | f:Largely obsolete.
+m79lmb0d1m | Ability to assess stroke patients with the NIH Stroke Scale. | The NIHSS scores stroke severity from a neurological exam. Stroke nursing postings ask for it. | 
+kq6noua17o | Ability to script Java with BeanShell. | BeanShell is a lightweight Java scripting language, used in JMeter. It rarely appears in postings. | 
+of65nuyei7 | Holding a real estate salesperson license. | A real estate salesperson license lets an agent sell property under a broker. Real estate agent postings require it. | x:Real estate broker license~The higher licence
+v7d85yap3i | Knowledge of eye surgery. | Eye surgery treats conditions of the eye, such as cataract or LASIK. Ophthalmic postings mention it. | h:Surgery
+p1wfqcq8a8 | Ability to speak Kazakh. | Kazakh is a Turkic language and the state language of Kazakhstan. It rarely appears in postings. | 
+booi01h6d6 | Knowledge of sustainable infrastructure. | Sustainable infrastructure is built and run to minimise environmental impact over its life. Engineering postings mention it. | 
+wyc8jqdxhm | Ability to speak a Berber (Amazigh) language. | Berber languages are spoken across North Africa. They rarely appear in postings. | 
+gahglvqx54 | Holding a master's degree in clinical psychology. | A master's in clinical psychology is a graduate degree in psychological assessment and therapy. Counsellor postings mention it. | 
+cj5rjuoa37 | Knowledge of in-memory databases. | An in-memory database keeps data in RAM for speed, such as Redis or SAP HANA. Developer postings mention it. | h:Database systems
+msfcsjfs8h | Ability to write database triggers. | A trigger is code that runs automatically on a database event such as an insert. Database developer postings mention it. | 
+hw93ogmznm | Ability to manage projects with Clarizen. | Clarizen, now Planview AdaptiveWork, is project management software. PMO postings mention it. | 
+bt632lzc9o | Ability to consult with clients on design. | Design consultation meets clients to understand needs and advise on design. Interior and kitchen design postings ask for it. | 
+vhuknlgq5p | Knowledge of smart meter systems. | Smart meters record utility usage and send it to the utility over a network. Utility postings mention it. | 
+wtbeydaxk8 | Knowledge of control valves and their flow characteristics. | Control valves regulate flow, with characteristics such as linear or equal percentage. Instrumentation postings ask for it. | 
+wozti9mkk0 | Ability to speak isiZulu. | Zulu is a Bantu language of South Africa. South African postings mention it. | 
+vb3ht42xuh | Ability to define service level requirements. | Service level requirements state the performance a service must meet, the basis for SLAs. IT service postings mention it. | 
+pnzuc15c5j | Ability to structure loans. | Loan structuring sets a loan's terms, collateral and repayment. Commercial lending postings ask for it. | 
+ds2v2gms4a | Ability to manage accounts receivable. | AR management invoices customers, tracks payments and collects debts. Finance postings ask for it. | 
+s7ea1ui80z | Knowledge of group behaviour, societies and cultures. | Sociology and anthropology, an O*NET knowledge area, covers group behaviour, societal trends, cultures and their origins. | f:The name reads as an O*NET knowledge area.
+fh2vbvneok | Holding the IREM Certified Property Manager (CPM) credential. | The CPM, from IREM, certifies real estate property managers. Property manager postings list it. | 
+iopfdqljc7 | Ability to test software reliability. | Software reliability testing checks that software performs without failure over time. QA postings mention it. | h:Software testing
+x2k6pbtvbt | Holding a master's degree in cybersecurity. | A master's in cybersecurity is a graduate degree in security. Security postings mention it. | c:Cybersecurity
+h5c8wzoqkv | Holding a lymphedema therapy certification. | A lymphedema certification, such as CLT, certifies therapists in complete decongestive therapy. Lymphedema therapist postings ask for it. | 
+awv8d1to01 | Knowledge of optical waveguides. | An optical waveguide guides light, as in optical fibres and photonic chips. Photonics postings mention it. | 
+f4zabtnnc2 | Ability to develop games with CryEngine. | CryEngine is Crytek's game engine. Game developer postings mention it. | 
+w627m5ttci | Holding an Associate of Applied Science in building inspection technology. | This AAS trains building inspectors in codes and construction. Inspector postings accept it. | 
+a613u39dhj | Knowledge of human-machine interfaces (HMIs). | An HMI is the screen or panel operators use to control machines and processes. Automation postings ask for it. | -v:Human -Machine Interface
+lmao37vzxc | Ability to store time series in KairosDB. | KairosDB is a time series database on Cassandra. It rarely appears in postings. | 
+lwggdeyan2 | Ability to build data visualizations with D3.js. | D3.js is a JavaScript library for data-driven visualizations. Data viz postings ask for it. | 
+w4vykunv8c | Holding an OSHA safety training card. | An OSHA 10 or 30 card shows completion of OSHA outreach safety training. Construction postings require it. | 
+yzx7utgq81 | Ability to punctuate correctly. | Punctuation is using marks such as commas and periods correctly. Writing and editing postings ask for it. | 
+p0s0bb8ncl | Knowledge of student development theory. | Student development theory explains how college students grow intellectually and personally. Student affairs postings ask for it. | 
+uicti7jry8 | Holding a research doctorate in operations research. | A PhD in operations research is a research doctorate in optimization and decision science. Research postings ask for it. | 
+nqi6z4463l | Knowledge of Action for Climate Empowerment. | ACE is the UNFCCC work programme on climate education, training and public participation. Climate policy postings mention it. | 
+bo7vfugy2w | Ability to write motor control firmware. | Motor control firmware is embedded code that drives electric motors. Embedded postings ask for it. | 
+uddzv6u9e0 | Holding an Associate of Science in respiratory therapy. | An AS in respiratory therapy prepares RTs for credentialing. RT postings ask for it. | 
+hjh9isz4cp | Ability to exert maximum muscle force. | Static strength, an O*NET ability, is exerting maximum force to lift, push, pull or carry objects. | f:The name reads as an O*NET ability.
+gyc8aazwuc | Knowledge of cardiothoracic surgery. | Cardiothoracic surgery treats organs in the chest, such as the heart and lungs. Surgical postings mention it. | h:Surgery
+eub20prvvq | Ability to value estates. | Estate valuation determines the value of a deceased person's assets for probate and tax. Probate postings mention it. | 
+m1uc3h7cff | Holding a bachelor's degree in sports management. | A bachelor's in sports management is an undergraduate degree in sports business. Sports postings mention it. | 
+wbmmkjyuq9 | Holding an Associate of Science in nutrition. | An AS in nutrition is a two-year degree in nutrition. Dietetic technician postings accept it. | 
+drsw0y6l0f | Ability to perform transient gene expression. | Transient expression produces proteins from DNA introduced temporarily into cells. Biotech postings mention it. | 
+z2qy32ige4 | Holding a research doctorate in chemical engineering. | A PhD in chemical engineering is a research doctorate in chemical processes. R&D postings ask for it. | 
+leu6zjs1w7 | Ability to reconstruct traffic collisions. | Collision reconstruction analyses crash evidence to work out how a crash happened. Police and forensic engineering postings ask for it. | 

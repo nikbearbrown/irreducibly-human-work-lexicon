@@ -1,0 +1,50 @@
+vks3m5ucke | Ability to test web apps with Capybara. | Capybara is a Ruby library for acceptance testing web applications by simulating users. Rails postings mention it. | 
+u7ui1qw5um | Ability to perform diagnostic analysis to find why something happened. | Diagnostic analysis examines data to explain the causes of outcomes. Analyst postings mention it. | 
+l9skd3jhai | Knowledge of analogue electronics. | Analogue electronics deals with continuously varying signals in circuits such as amplifiers and filters. Electronics postings ask for it. | 
+rhsdk9dz6z | Ability to analyse crime patterns and trends. | Crime analysis studies crime data to support policing and prevention. Crime analyst postings ask for it. | 
+l332ucqq7q | Knowledge of endodontics. | Endodontics is the dental speciality treating the pulp, including root canals. Dental postings mention it. | 
+tqxd6h55a8 | Holding a diploma in esthetics. | An esthetics diploma trains estheticians in skin care for licensure. Esthetician postings require it. | 
+lq4hint316 | Ability to program in PL/I. | PL/I is an IBM language used on mainframes. Legacy mainframe postings mention it. | 
+yk1fji8zbq | Holding an Associate of Arts in art. | An AA in art is a two-year degree in studio art. | 
+t8i6f5zm8d | Ability to program in Gambas. | Gambas is a BASIC-like language and IDE for Linux. It rarely appears in postings. | 
+vrp5wy3gd4 | Knowledge of economic and accounting principles and practices. | Economics and accounting, an O*NET knowledge area, covers economic and accounting principles, markets, banking and financial reporting. | f:The name reads as an O*NET knowledge area.
+cml6t35xqn | Ability to manage AWS from the AWS CLI. | The AWS Command Line Interface manages AWS services from a shell. Cloud postings ask for it. | u:Amazon Web Services
+fa900jy3j1 | Knowledge of floating-point arithmetic. | Floating-point arithmetic represents real numbers approximately in computers, as in IEEE 754. Numerical software postings mention it. | 
+s1czmc42wp | Ability to give intradermal injections. | An intradermal injection delivers a substance into the dermis, as in TB skin tests. Nursing postings ask for it. | 
+e7v9azv69k | Ability to deploy applications with AWS Elastic Beanstalk. | Elastic Beanstalk is an AWS service for deploying web apps without managing servers. AWS postings mention it. | u:Amazon Web Services
+ev4fuqqcd5 | Holding an ASCM (APICS) certification. | ASCM, formerly APICS, offers CPIM, CSCP and CLTD certifications in supply chain. Supply chain postings ask for them. | 
+v046w359dh | Ability to adapt teaching to students' needs. | Responsive teaching adjusts instruction based on what students show they understand. Teacher postings mention it. | 
+s8zm9ssb31 | Holding a bachelor's degree in forestry. | A bachelor's in forestry is an undergraduate degree in forest management. Forester postings ask for it. | 
+r78jn0y5p6 | Knowledge of open banking. | Open banking lets third parties access bank data through APIs with customer consent. Fintech postings ask for it. | 
+l507rs9zfn | Ability to secure cargo loads for transport. | Load securement ties down cargo to meet DOT rules. Truck driver postings ask for it. | 
+yg1ftnmx3l | Holding a Google Ads certification. | Google Ads certifications validate skill with Google's advertising products. PPC postings ask for them. | 
+vekdkw8fii | Holding a master's degree in civil engineering. | A master's in civil engineering is a graduate degree in structures, transport or water. Civil engineer postings mention it. | 
+g5m5upqdxb | Knowledge of multitenant software architecture. | Multitenancy lets one software instance serve many customers with separated data. SaaS postings mention it. | 
+g35t5hixm4 | Knowledge of the Clean Air Act. | The Clean Air Act is the US law regulating air pollution. Environmental compliance postings ask for it. | x:Clean Water Act~Water pollution
+qyidg7zbc0 | Ability to report on environmental issues. | Environmental journalism reports on the environment, climate and ecology. Journalism postings mention it. | 
+nedtcwz5ap | Ability to program graphics with Vulkan. | Vulkan is a low-overhead cross-platform graphics and compute API. Graphics postings ask for it. | h:Graphics API
+gx2ytxtkrx | Ability to conduct musical ensembles. | Ensemble conducting is leading bands, choirs or orchestras. Music director postings ask for it. | 
+pkld3bgf9n | Ability to build web pages with the Prototype JavaScript framework. | Prototype was an early JavaScript framework; it is obsolete. | f:Obsolete.
+k99ngi7x73 | Ability to produce maps. | Map production is compiling and publishing maps from geographic data. Cartographer postings ask for it. | 
+x3v34yrjj2 | Ability to design parts with Creo Elements/Pro. | Creo Elements/Pro, formerly Pro/ENGINEER, is PTC's 3D CAD software, now Creo Parametric. Mechanical design postings ask for it. | 
+of69xfk012 | Ability to analyse genomic data with Bioconductor. | Bioconductor is a project of R packages for bioinformatics. Bioinformatics postings ask for it. | 
+iob8vfsklh | Holding a flagger certification. | A flagger certification shows training to direct traffic in work zones. Road crew postings require it. | 
+h65kyjr4ub | Knowledge of the Industrial Internet of Things. | The IIoT connects industrial machines and sensors for monitoring and automation. Manufacturing tech postings ask for it. | 
+rivr9g4ool | Ability to use APTIS for rail ticketing. | APTIS was British Rail's ticket issuing system, retired in the 2000s. | f:Obsolete.
+xmdqx611pm | Ability to manage data with JSData. | JSData is a JavaScript data store library. It rarely appears in postings. | 
+ryaou42crn | Knowledge of prosthetic devices. | Prosthetic devices replace missing body parts such as limbs. Prosthetist postings ask for it. | h:Medical devices
+e0v8mo6nav | Holding a research doctorate in neuroscience. | A PhD in neuroscience is a research doctorate in the nervous system. Research postings ask for it. | 
+n99sxxoae2 | Holding a diploma in carpentry. | A carpentry diploma trains carpenters in framing and finishing. Carpenter postings accept it. | 
+s3pse68wa8 | Holding an Associate of Applied Science in broadcasting technology. | This AAS trains technicians for radio and TV broadcasting. | 
+dyblg1tsd1 | Holding an Associate of Applied Science in medical laboratory technology. | This AAS trains medical lab technicians. MLT postings ask for it. | 
+vnj1cbr7ux | Ability to operationalize machine learning models (ModelOps). | ModelOps governs and operates AI models in production across their lifecycle. MLOps postings mention it. | 
+d08tqqufqc | Holding the Series 66 Uniform Combined State Law license. | The Series 66 qualifies people as both securities agents and investment adviser representatives. Financial adviser postings ask for it. | -v:Series 66 Uniform Investment Adviser : Combined State Laws License (Combined 63 And 65)
+s479attn3c | Ability to make surgical incisions. | A surgical incision is a cut made through skin and tissue during surgery. Surgical postings imply it. | 
+f1n6rn43ia | Knowledge of sustainability bonds. | Sustainability bonds raise money for projects with both environmental and social benefits. Sustainable finance postings mention them. | 
+lfl8vfghrk | Ability to use Epic Beacon for oncology. | Beacon is Epic's oncology module for treatment plans and chemo orders. Oncology informatics postings ask for it. | 
+relu6zxlst | Ability to develop for or support Apple iOS. | iOS is Apple's operating system for iPhone. Mobile postings ask for it. | 
+brtkhngp2g | Knowledge of the Right to Financial Privacy Act. | The RFPA is a US law limiting government access to bank customers' records. Bank compliance postings mention it. | 
+ip67ypemwd | Ability to manage data with Breeze.js. | Breeze.js is a JavaScript library for managing data in rich client apps. It rarely appears in postings. | -v:Breeze.js ((Javascript Library)
+pgwo2h5tp6 | Ability to design data models. | Data modeling defines the structure of data in conceptual, logical and physical models. Data postings ask for it. | 
+vz5cl4b7vg | Ability to collect customer data with Segment. | Segment, from Twilio, is a customer data platform. Marketing tech postings mention it. | 
+wiusuiqy2m | Ability to monitor digital workspaces with ControlUp. | ControlUp monitors virtual desktops and endpoints. VDI postings mention it. | 

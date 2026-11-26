@@ -1,0 +1,50 @@
+n2v8jnsgj0 | Ability to tag financial reports in XBRL. | XBRL is an XML-based standard for business and financial reporting data, used in SEC filings. Financial reporting postings ask for it. | -v:XBRL  (Programming Language)
+weex01904f | Holding an Associate of Applied Science in human resources management. | This AAS covers HR practices and employment law. HR assistant postings accept it. | 
+a3bqeyoo0e | Knowledge of the SHA-256 hash function. | SHA-256 is a cryptographic hash function in the SHA-2 family. Security and blockchain postings mention it. | x:SHA-512~A longer SHA-2 variant
+gcir84drj6 | Ability to draw on HTML canvas with EaselJS. | EaselJS is the canvas drawing library in the CreateJS suite. It rarely appears in postings. | l:CreateJS
+qd1x4xiu5o | Ability to deploy and use endpoint detection and response tools. | EDR tools monitor endpoints to detect and respond to threats, such as CrowdStrike Falcon. Security postings ask for it. | v:EDR~in a context about cybersecurity; -v:EDR
+lp4bwp30dh | Knowledge of sustainable insurance. | Sustainable insurance integrates environmental, social and governance factors into insurance. Insurance sustainability postings mention it. | 
+hiyfl41ph4 | Ability to edit HTML with Arachnophilia. | Arachnophilia is a free HTML editor; it is obsolete. | f:Obsolete.
+c42rvldoqe | Knowledge of urban sustainability. | Urban sustainability makes cities environmentally, socially and economically sustainable. Urban planning postings mention it. | 
+leotg2zuhf | Holding a scissor lift operator certification. | A scissor lift certification shows training to operate scissor lifts safely. Construction postings require it. | h:Aerial lift certification
+fnx6xxv4zl | Holding the General Certificate of Education (GCE). | The GCE covers A-level and older O-level exams in the UK and Commonwealth. UK and Singapore postings mention it. | 
+vrt18mc88e | Knowledge of VAXELN real-time operating system. | VAXELN was a DEC real-time OS for VAX computers. It is obsolete. | f:Obsolete.
+tl1644tlhi | Ability to personalize emails with AMPscript. | AMPscript is Salesforce Marketing Cloud's scripting language. Marketing Cloud postings ask for it. | 
+fu6nbpzwxr | Ability to speak Mizo. | Mizo is a Kuki-Chin language of Mizoram, India. It rarely appears in postings. | 
+e23pqgx4dr | Knowledge of principles and methods for curriculum design, teaching and training. | Education and training, an O*NET knowledge area, covers curriculum and training design, teaching and instruction. | f:The name reads as an O*NET knowledge area.
+bbgdn40n5c | Ability to make wine. | Winemaking turns grapes into wine through fermentation and ageing. Winery postings ask for it. | 
+ayuiek7so7 | Ability to program in ActionScript. | ActionScript was the language of Adobe Flash; it is obsolete. | f:Obsolete.
+ag0hpcesx8 | Knowledge of large language models. | Large language models are neural networks trained on large text corpora to generate and understand language. AI postings ask for it. | -v:LLM; v:LLM~in a context about AI; x:Master of Laws~LLM also abbreviates the law degree
+rgbts5kl0x | Ability to administer IIS with IIS Manager. | IIS Manager is the console for Microsoft's Internet Information Services web server. Windows web admin postings mention it. | 
+pcpzpx5lmm | Ability to manage lymphedema. | Lymphedema management uses manual drainage, compression and exercise to treat limb swelling. Therapist postings ask for it. | 
+c4hb6dz587 | Knowledge of Sun's Open Network Computing RPC. | ONC RPC is Sun's remote procedure call system, used by NFS. It rarely appears in postings. | 
+wrobx5q3f7 | Ability to use MongoDB from Python with PyMongo. | PyMongo is the official Python driver for MongoDB. Python postings mention it. | u:Python
+vyqnnqyzs1 | Ability to apply water-based coatings to pipes. | Water-based pipe coating protects pipes with low-VOC coatings. It rarely appears in postings. | 
+a18n6zcx8m | Ability to manage agile work in Rally. | Rally, now Broadcom Rally, is agile project management software. Agile postings mention it. | 
+hkky8htw9n | Ability to load modules with SystemJS. | SystemJS is a JavaScript module loader. It rarely appears in postings. | 
+o0bkdduxor | Ability to write copy with AI tools. | AI copywriting uses generative AI to draft and refine marketing copy. Marketing postings mention it. | h:Copywriting
+unhpezic97 | Knowledge of PCI DSS. | PCI DSS sets security requirements for organizations handling card data. Payments and security postings ask for it. | 
+glwyi8e8xd | Holding an Associate of Applied Science in web design. | This AAS trains web designers. Web postings accept it. | 
+tz5vp5fotk | Knowledge of endocrine disorders. | Endocrine disorders affect hormone glands, such as diabetes and thyroid disease. Endocrinology postings ask for it. | 
+eqeh9wy963 | Knowledge of data localization laws. | Data localization requires data to be stored within a country's borders. Privacy and cloud postings mention it. | 
+aldzl2915d | Holding a bachelor's degree in kinesiology. | A bachelor's in kinesiology is an undergraduate degree in human movement. Fitness and therapy postings ask for it. | 
+g4a4masi9q | Ability to manage tests with HP ALM. | HP ALM, now OpenText ALM, manages requirements, tests and defects. QA postings ask for it. | 
+wt1hw5q5hk | Ability to program in Smalltalk. | Smalltalk is an early object-oriented language. It rarely appears in postings. | 
+hpc0bjl1lu | Ability to prepare assembly drawings. | An assembly drawing shows how parts fit together. Drafter postings ask for it. | 
+n5223dhbup | Knowledge of risk ratings. | Risk ratings grade credit or operational risk on a scale. Bank risk postings mention it. | 
+d8uol1sujj | Knowledge of deposition in geology. | Deposition is sediment laid down by wind, water or ice. Geology syllabi teach it. | 
+mjwjw88dyq | Holding the CompTIA Network Infrastructure Professional (CNIP) stackable certification. | The CNIP is a CompTIA stackable certification for A+, Network+ and Server+. | 
+twby58lhlh | Ability to model and render with MODO. | MODO is 3D modelling and rendering software from Foundry, discontinued in 2024. | f:Discontinued.
+ru625pg99p | Holding an Associate of Science in cybersecurity. | An AS in cybersecurity is a two-year degree in security fundamentals. Entry-level security postings accept it. | c:Cybersecurity
+qc53qbujg3 | Ability to build diagrams with JointJS. | JointJS is a JavaScript diagramming library. It rarely appears in postings. | 
+c7wanms4cc | Holding a bachelor's degree in accounting. | A bachelor's in accounting is an undergraduate degree in accounting. Accountant postings ask for it. | 
+tchcnxjts2 | Ability to analyse portfolio performance with the R package PerformanceAnalytics. | PerformanceAnalytics is an R package for portfolio performance and risk analysis. Quant postings mention it. | 
+povysqyg4w | Ability to perform coronal polishing of teeth. | Coronal polishing removes plaque and stains from crowns of teeth. Dental assistant postings ask for it. | 
+jgx1oq2stu | Ability to speak Lao. | Lao is the official language of Laos. It rarely appears in postings. | 
+laj0x3ly5s | Ability to use and administer Office 365. | Office 365, now Microsoft 365, is Microsoft's cloud productivity suite. Office and IT postings ask for it. | 
+r348n781oo | Holding the Registered Poetry Therapist credential. | This NFBPT credential certifies poetry therapists. It rarely appears in postings. | 
+r8txrd6uj1 | Ability to conduct design reviews. | A design review evaluates a design against requirements. Engineering postings ask for it. | 
+wtalx4mqbo | Ability to stretch-wrap pallets. | Stretch wrapping secures palletized loads with stretch film. Warehouse postings ask for it. | x:Shrink wrapping~Heat-shrunk film
+zjr6axwd0x | Knowledge of wide area networks. | A WAN connects networks across large distances. Network postings ask for it. | h:Computer networking
+nui4j6jtfw | Knowledge of the Common Criteria for IT security evaluation. | The Common Criteria (ISO/IEC 15408) is an international standard for evaluating IT product security. Security certification postings mention it. | 
+jjugbtu5y4 | Holding the Certified Urologic Registered Nurse (CURN) credential. | The CURN certifies nurses in urology. Urology nursing postings ask for it. | 

@@ -1,0 +1,50 @@
+q9s4sj8gqa | Holding Advanced Trauma Life Support (ATLS) certification. | ATLS, from the American College of Surgeons, trains doctors in initial trauma management. Emergency physician postings require it. | x:Advanced Cardiovascular Life Support~Cardiac arrest care
+hijioia4a4 | Knowledge of Dijkstra's shortest-path algorithm. | Dijkstra's algorithm finds shortest paths in a weighted graph with non-negative edges. CS postings and interviews test it. | 
+wcg32yijfo | Ability to communicate with customers through WhatsApp. | WhatsApp is Meta's messaging app; businesses use WhatsApp Business for customer service. Support postings mention it. | 
+jb38910wps | Ability to plan logistics. | Logistics planning organizes transport, storage and distribution to meet demand. Logistics postings ask for it. | 
+nge92ycu3m | Ability to model water quality. | Water quality modelling simulates pollutant transport and reactions in water bodies. Environmental engineering postings ask for it. | 
+lq0kalzltd | Ability to change vehicle oil. | Changing oil drains and replaces engine oil and filter. Lube technician postings ask for it. | 
+eisnlpf3so | Knowledge of SSAE attestation standards. | SSAE are AICPA standards for attestation engagements, including SOC 1 reports under SSAE 18. Audit postings ask for it. | 
+r73ssl5wya | Holding a research doctorate in biotechnology. | A PhD in biotechnology is a research doctorate in biotech. R&D postings ask for it. | 
+x4397709dt | Ability to style web pages with CSS. | CSS is the stylesheet language for web page presentation. Front-end postings ask for it. | 
+satap7pcf3 | Ability to speak Havyaka Kannada. | Havyaka is a dialect of Kannada spoken in Karnataka, India. It rarely appears in postings. | 
+tkhv6cm0yg | Ability to perform thyroid biopsies. | A thyroid biopsy, usually fine-needle aspiration, samples thyroid nodules for diagnosis. Radiology and pathology postings mention it. | 
+t9vz5pnyhd | Knowledge of pelvic health. | Pelvic health covers the function and disorders of the pelvic floor and organs. Women's health PT postings ask for it. | 
+c4n1w9e67s | Ability to evaluate food palatability. | Food palatability evaluation judges how acceptable food tastes and feels, often by tasting panels. Food and pet food R&D postings mention it. | 
+be8z2gkvxc | Ability to tell stories visually. | Visual storytelling communicates a narrative through images, video and design. Creative postings ask for it. | 
+qmao9he0d4 | Ability to manage tests with HP Quality Center. | Quality Center was HP's test management tool, later ALM. QA postings mention it. | 
+wi51wbsa9k | Ability to build desktop GUIs with wxPython. | wxPython is a Python GUI toolkit wrapping wxWidgets. It rarely appears in postings. | u:Python
+j95dttpz2w | Ability to design integrated circuits. | Chip design is designing integrated circuits through logic design, verification and physical layout. Semiconductor postings ask for it. | 
+dmhun0l6s3 | Ability to design optics with Zemax OpticStudio. | OpticStudio is optical design software for lenses and illumination. Optical engineer postings ask for it. | 
+atdk6aaopa | Knowledge of big O notation. | Big O notation describes how an algorithm's resource use grows with input size. CS interviews test it. | 
+snkq2fzg6e | Ability to review contracts. | Contract review reads contracts to check terms, risks and compliance. Legal and procurement postings ask for it. | 
+k4stuct7vk | Ability to prevent and detect fraud. | Fraud prevention and detection uses controls and analytics to stop and uncover fraud. Fraud analyst postings ask for it. | 
+wwmgynppq0 | Ability to build workflows with TIBCO iProcess Suite. | TIBCO iProcess was a BPM suite; it is largely obsolete. | f:Largely obsolete.
+g0k226qn7c | Knowledge of Intel Viiv. | Viiv was Intel's mid-2000s brand for media-centre PCs. It is obsolete. | f:Obsolete.
+swm1jjcvhz | Holding the Certified Pediatric Nurse (CPN) credential. | The CPN, from PNCB, certifies pediatric nurses. Pediatric nursing postings ask for it. | 
+er5iniddye | Holding a bachelor's degree in interior design. | A bachelor's in interior design is an undergraduate degree in interior spaces. Designer postings ask for it. | 
+xcnidkipo6 | Holding a master's degree in art. | A master's in art, often an MFA or MA, is a graduate degree in visual art. Art teacher and artist postings mention it. | 
+g5ozmvl6qk | Holding a research doctorate in media studies. | A PhD in media studies is a research doctorate in media. Academic postings mention it. | 
+z5i5fr3jgc | Holding an Associate of Applied Science in renewable energy technology. | This AAS trains technicians in solar, wind and energy systems. Renewable tech postings accept it. | 
+nc4fkjb896 | Ability to speak Yoruba. | Yoruba is a major language of southwestern Nigeria. Interpreter postings ask for it. | 
+e3lvloefje | Holding a certificate in aircraft maintenance. | An aircraft maintenance certificate trains people toward A&P licensing. Aviation postings accept it. | 
+ztbqyvr0s2 | Ability to run social media ad campaigns. | Social media advertising places paid ads on platforms such as Facebook and LinkedIn. Digital marketing postings ask for it. | h:Digital advertising
+varb8cbvw3 | Ability to manage a farm. | Farm management runs a farm's crops, livestock, finances and staff. Agriculture postings ask for it. | 
+cthvqlw1wn | Ability to manage the DoD Host Based Security System (HBSS). | HBSS was a DoD suite of host security tools built on McAfee ePO, replaced by ESS. Defence IT postings mention it. | f:Replaced by Endpoint Security Solutions.
+ydp6a13kjq | Ability to build AdaBoost models. | AdaBoost combines weak learners into a strong classifier by reweighting errors. ML syllabi teach it. | 
+my7m7yrsab | Ability to analyse data with Salesforce Einstein Analytics. | Einstein Analytics, now CRM Analytics, is Salesforce's analytics platform. Salesforce postings mention it. | 
+h80iveytxm | Ability to interpret laws. | Interpreting law applies legal texts to facts. Legal postings ask for it. | 
+ynw7yrzobc | Ability to speak Benga. | Benga is a Bantu language of Equatorial Guinea and Gabon. It rarely appears in postings. | 
+rcz1w59ls1 | Holding Emergency Medical Responder (EMR) certification. | EMR is the entry level of US EMS certification below EMT. Security and fire postings mention it. | 
+v3lt588tg6 | Holding a research doctorate in biology. | A PhD in biology is a research doctorate in biology. Research postings ask for it. | 
+setvh9dhil | Ability to transform CSS with PostCSS. | PostCSS is a tool for transforming CSS with JavaScript plugins. Front-end postings mention it. | u:CSS
+n97b7f7wad | Ability to prepare environmental impact statements. | An environmental impact statement assesses a project's environmental effects under NEPA. Environmental consultant postings ask for it. | 
+bxmawi82qq | Knowledge of information hiding in software design. | Information hiding conceals a module's internals behind an interface. Software design syllabi teach it. | 
+cyqnkah16t | Ability to query data with Presto. | Presto is a distributed SQL query engine for big data. Data engineer postings mention it. | 
+tyrb602g6y | Ability to arrange catering. | Arranging catering books food and drink for events and meetings. Admin and event postings ask for it. | 
+qf0kjoyyky | Ability to prototype front-end code in JSFiddle. | JSFiddle is an online editor for testing HTML, CSS and JavaScript snippets. It rarely appears in postings. | 
+voqokiy3af | Knowledge of inbound logistics. | Inbound logistics brings materials and goods into a business. Supply chain postings ask for it. | x:Outbound logistics~Shipping goods out
+fjma3u3f19 | Ability to model MongoDB data in Python with MongoEngine. | MongoEngine is a Python object-document mapper for MongoDB. It rarely appears in postings. | 
+qi5340vq2a | Ability to adjust machine controls quickly and precisely. | Control precision, an O*NET ability, is quickly and repeatedly adjusting machine or vehicle controls to exact positions. | f:The name reads as an O*NET ability.
+aupdc445tz | Knowledge of application controls in IT audit. | Application controls are automated checks within business applications, such as input validation. IT audit postings mention it. | 
+aqv9gwjebh | Knowledge of the path to purchase. | The path to purchase is the steps a shopper takes from awareness to buying. Shopper marketing postings mention it. | 

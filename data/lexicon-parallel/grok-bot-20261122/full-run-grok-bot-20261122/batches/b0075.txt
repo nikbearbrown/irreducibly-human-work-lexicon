@@ -1,0 +1,18 @@
+m0xr2zu744 | Knowledge of linguistic morphology. | Morphology studies word structure. Linguistics syllabi teach it. | 
+y83erk8o1r | Ability to estimate costs. | Cost estimating predicts what a project or product will cost. Construction and engineering postings ask for it. | 
+vpg63jqsjx | Knowledge of forklift safety. | Forklift safety covers safe operation and inspection of forklifts. Warehouse postings ask for it. | 
+ctcd6vhh2z | Holding a master's degree in industrial design. | A master's in industrial design is a graduate degree in product design. Design postings accept it. | 
+pg1d5j8bxe | Ability to template with Dust.js. | Dust.js is an asynchronous JavaScript templating engine, now unmaintained. | f:Unmaintained.
+jx2hqz8q8r | Ability to scan for vulnerabilities with Rapid7 InsightVM. | InsightVM is Rapid7's vulnerability management product, succeeding Nexpose. Security postings mention it. | 
+j0b4gyxggu | Holding a bachelor's degree in cybersecurity. | A bachelor's in cybersecurity is an undergraduate degree in security. Security postings accept it. | 
+kqpe0qcysy | Knowledge of BOSH. | BOSH carries XMPP over long-lived HTTP connections. It rarely appears in postings. | 
+t2pw81w7vy | Ability to apply randomization. | Randomization assigns subjects or samples by chance to avoid bias. Clinical and research postings mention it. | -v:Randomization (Randomness)
+nw6j3m07dp | Knowledge of digital humanities. | Digital humanities applies computing to humanities research. Academic postings mention it. | 
+hs38odazxz | Ability to speak Kokborok. | Kokborok, also called Tripuri, is a language of Tripura, India. It rarely appears in postings. | 
+ivqbujumn8 | Ability to orchestrate servers with MCollective. | MCollective was Puppet's server orchestration framework. Puppet has deprecated it. | f:Deprecated.
+jk0b68hkct | Ability to excise skin lesions. | Excision removes skin lesions surgically. Dermatology postings mention it. | 
+ycridfb6ao | Holding Certification in Neurophysiologic Intraoperative Monitoring (CNIM). | CNIM, from ABRET, certifies technologists who monitor the nervous system during surgery. IONM postings ask for it. | 
+gvcy23bd7y | Knowledge of railway signalling. | Railway signalling controls train movements safely. Rail postings ask for it. | 
+al1g4o1hr9 | Knowledge of quartiles. | Quartiles divide ordered data into four equal parts. Statistics syllabi teach it. | 
+uokmv489cy | Knowledge of the object-oriented data model. | The object-oriented data model stores data as objects with attributes and methods. Database syllabi teach it. | 
+yoc5ttu7x5 | Knowledge of thyroid diseases and disorders. | Thyroid disorders include hypothyroidism, hyperthyroidism and nodules. Endocrinology postings ask for it. | 

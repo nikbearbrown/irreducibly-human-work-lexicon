@@ -1,0 +1,50 @@
+z3g31q33r8 | Ability to play the balafon. | The balafon is a West African wooden xylophone. It rarely appears in postings. | 
+lnajii8446 | Holding a bachelor's degree in oceanography. | A bachelor's in oceanography is an undergraduate degree in ocean science. Marine postings mention it. | 
+sylnic6fz3 | Knowledge of great circles in navigation. | A great circle is the shortest path between two points on a sphere. Navigation and aviation syllabi teach it. | 
+yq4iixbank | Ability to share files securely with ShareFile. | ShareFile is a secure file sharing service, formerly Citrix, now Progress. Professional services postings mention it. | 
+s2ue9ge4us | Ability to deliver trauma-focused cognitive behavioural therapy (TF-CBT). | TF-CBT is an evidence-based therapy for children and teens affected by trauma. Child therapist postings ask for it. | 
+pe4jav8s6k | Holding Baseline Personnel Security Standard (BPSS) clearance. | BPSS is the UK's basic pre-employment screening for government roles. UK public sector postings require it. | 
+uztz53wb8d | Ability to manage content with Apache Lenya. | Apache Lenya was a Java content management system; it is retired. | f:Retired.
+z6c1m3u7yc | Holding an Associate of Science in audio production. | An AS in audio production is a two-year degree in recording and mixing. | 
+wiyy0ouus1 | Holding a master's degree in pharmacy. | A master's in pharmacy (MPharm or MS) is a pharmacy degree, the qualifying degree in the UK. | 
+hszza7p355 | Ability to trace contacts of infected people. | Contact tracing identifies and notifies people exposed to an infectious disease. Public health postings ask for it. | 
+zotkhvqj89 | Knowledge of dot matrix printing. | Dot matrix printing strikes an ink ribbon with pins to form characters. It persists for multi-part forms. | x:Laser printing~Non-impact printing
+eku928gnwy | Holding a research doctorate in film studies. | A PhD in film studies is a research doctorate in cinema. Academic postings ask for it. | 
+idkj5utilp | Holding a valid driver's license. | A driver's license authorizes a person to drive. Many postings require one. | x:Class B commercial driver's license~For heavy vehicles
+vvrl1yaqdd | Ability to calculate emissions from sources. | Emission calculations quantify air pollutants or greenhouse gases from equipment and processes for permits and reporting. Environmental postings ask for it. | -v:Emission Calcuations
+rqi69qjjr4 | Ability to program serial ports with the Java Communications API. | The Java Communications API (javax.comm) accesses serial and parallel ports from Java. It is largely obsolete. | f:Largely obsolete.
+gu476tzyh2 | Holding the Certified Registered Nurse First Assistant (CRNFA) credential. | The CRNFA certifies RNs who assist surgeons in the OR. Perioperative postings list it. | 
+njqn7yrch4 | Ability to program in Component Pascal. | Component Pascal is an Oberon-family language for component software. It rarely appears in postings. | 
+emjyqi3ut1 | Holding the CompTIA e-Biz+ certification. | CompTIA e-Biz+ certified e-business knowledge; it is retired. | f:Retired.
+smjlca92kq | Ability to integration test Java EE apps with Arquillian. | Arquillian is a testing platform for running Java tests inside containers. Java EE postings mention it. | 
+k5f5yj60ou | Ability to build asynchronous web pages with Ajax. | Ajax updates web pages asynchronously with JavaScript and HTTP requests. Web developer postings ask for it. | 
+aciqe7t4nw | Ability to keep client information confidential. | Client confidentiality is protecting clients' private information. Health, legal and financial postings ask for it. | 
+tws2xkl10q | Ability to test materials' properties. | Materials testing measures strength, hardness and other properties of materials. Lab and QC postings ask for it. | 
+jvd0jfbm1t | Knowledge of the Macintosh Application Environment. | MAE was Apple software that ran Mac apps on Unix workstations in the 1990s. It is obsolete. | f:Obsolete.
+k5tlhu5agn | Ability to care for healthy newborns. | Low-risk neonatal nursing cares for healthy newborns and their mothers. Nursery postings ask for it. | x:Neonatal intensive care nursing~Critically ill newborns
+gz3ybd6jjz | Ability to counsel students in schools. | School counselling supports students' academic, career and social-emotional development. School counsellor postings ask for it. | 
+yegnhni99h | Ability to adapt to change. | Adaptability is adjusting to new conditions and demands. Postings list it as a trait. | -v:Adaptabilities
+pz26rmdqty | Ability to take or give dictation. | Dictation is speaking text for transcription or writing it down as spoken. Transcription postings mention it. | 
+jc7evcedfy | Ability to make skilful movements with the hands. | Manual dexterity, an O*NET ability, is quickly making coordinated hand movements to grasp, manipulate or assemble objects. | f:The name reads as an O*NET ability.
+uo9forbhc2 | Holding a bachelor's degree in electrical engineering. | A bachelor's in electrical engineering is an undergraduate degree in circuits, power and electronics. EE postings ask for it. | 
+w0dzpselbw | Ability to manage meter data in utilities. | Meter data management stores and validates data from utility meters, including smart meters. Utility postings ask for it. | 
+gojjwsv7zx | Ability to automate financial close with BlackLine. | BlackLine is software for account reconciliation and financial close. Accounting postings ask for it. | h:Accounting software
+nb236cqujn | Ability to coordinate people and activities. | Coordination, an O*NET skill, is adjusting actions in relation to others' actions. | f:The name reads as an O*NET skill.
+kg3scy47l7 | Ability to write data pipelines with Scalding. | Scalding is a Scala library on Cascading for Hadoop jobs, from Twitter. It is largely obsolete. | u:Scala
+pl9ucmohz5 | Ability to build Node.js web servers with Express.js. | Express is a minimal web framework for Node.js. Back-end JavaScript postings ask for it. | 
+x76mwrjain | Ability to debone meat and fish. | Deboning removes bones from meat, poultry or fish. Meat processing postings ask for it. | 
+s1jyt2h0md | Ability to monitor AWS with Amazon CloudWatch. | CloudWatch collects metrics, logs and alarms for AWS resources. AWS ops postings ask for it. | u:Amazon Web Services
+rnblhw89i9 | Ability to draw charts with CanvasJS. | CanvasJS is a JavaScript charting library. It rarely appears in postings. | 
+yexkyey5bk | Holding the Histotechnician HT(ASCP) certification. | The HT(ASCP) certifies technicians who prepare tissue for microscopy. Histology postings require it. | x:Certified Histotechnologist~The higher HTL credential
+pyjngz1vpq | Ability to run usability tests. | Usability testing watches users try a product to find problems. UX research postings ask for it. | 
+kq7qorrz65 | Holding a research doctorate in counseling. | A PhD in counseling is a research doctorate in counselling or counsellor education. Academic postings ask for it. | 
+j4c4cvd7qv | Ability to use intraoral cameras. | An intraoral camera takes images inside the mouth. Dental assistant postings mention it. | 
+vzquq7bkco | Holding a leadership certificate. | A leadership certificate is a short program in leadership skills. Postings mention it as a plus. | 
+j9h80du45m | Ability to administer epinephrine. | Epinephrine administration treats anaphylaxis, often with an auto-injector. School and EMS postings ask for it. | 
+uuq4bsfz4g | Knowledge of counterparty risk. | Counterparty risk is the risk that the other party to a contract defaults. Risk postings ask for it. | 
+xscxa564ti | Knowledge of etiology, the causes of disease. | Etiology studies the causes of diseases or conditions. Health syllabi teach it. | 
+k0wkattl1v | Holding the CompTIA PenTest+ certification. | PenTest+ certifies penetration testing and vulnerability assessment skills. Security postings list it. | 
+u5nenctwv5 | Knowledge of gynaecology. | Gynaecology is the medical speciality of the female reproductive system. OB/GYN postings ask for it. | 
+o8aib0hn82 | Holding an EMT diploma. | An EMT diploma trains people to provide emergency medical care for certification. EMT postings ask for it. | 
+mqrfy64xr2 | Holding a bachelor's degree in performing arts. | A bachelor's in performing arts is an undergraduate degree in theatre, dance or music. Performance postings mention it. | 
+q3kisw0y71 | Knowledge of cyber resilience. | Cyber resilience is an organization's ability to prepare for, withstand and recover from cyberattacks. Security postings mention it. | 

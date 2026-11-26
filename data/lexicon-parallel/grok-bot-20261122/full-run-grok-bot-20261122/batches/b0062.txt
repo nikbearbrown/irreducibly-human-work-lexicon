@@ -1,0 +1,50 @@
+ipfsxmf9ys | Ability to curate content. | Content curation finds, selects and shares relevant content for an audience. Social media and marketing postings ask for it. | 
+j00qlfnypq | Ability to drive long-haul over-the-road routes. | Over-the-road driving is long-haul trucking, often away from home for days. CDL driver postings ask for it. | h:Driving
+t1845bgn6q | Ability to manage hotels and restaurants. | Hotel and restaurant management runs lodging and food service businesses. Hospitality postings ask for it. | 
+qewkoi7som | Holding a certificate in masonry. | A masonry certificate trains bricklayers and stonemasons. Mason postings accept it. | c:Masonry
+db9b71y3ro | Ability to use word processing software. | Word processing is creating and editing documents with software such as Word. Office postings ask for it. | 
+my2u4mc16o | Ability to think inventively. | Ingenuity is cleverness in devising new solutions. Postings list it as a trait. | 
+syt4e7l62v | Ability to provide creative arts therapy. | Creative arts therapy uses art, music, dance or drama in psychotherapy. Therapist postings mention it. | 
+zi8c47ejt8 | Holding a bachelor's degree in entrepreneurship. | A bachelor's in entrepreneurship is an undergraduate degree in starting and running businesses. | 
+sgbpusrpp2 | Holding a bachelor's degree in art history. | A bachelor's in art history is an undergraduate degree in art history. Museum postings mention it. | 
+z79armevpb | Knowledge of margin lending. | Margin lending lends money to investors against securities they hold. Brokerage postings mention it. | 
+vdwkv86cyb | Ability to engineer prompts for AI models. | Prompt engineering designs inputs to language models to get reliable, useful outputs. AI postings ask for it. | 
+ve6il0e4wg | Ability to use bug tracking systems. | A bug tracking system records and tracks software defects, such as Jira or Bugzilla. QA postings ask for it. | x:Issue tracking systems~Broader task tracking
+jv2tu70cnu | Holding peace officer certification. | Peace officer certification, such as POST, licenses people to work as police officers. Police postings require it. | 
+aivu2hknkc | Ability to build Apache modules with apxs. | apxs is the Apache HTTP Server tool for building and installing extension modules. It rarely appears in postings. | 
+sydpcel9cl | Ability to manage revenue with Softrax. | Softrax was revenue management and billing software. It is largely obsolete. | 
+dcmviql9mp | Holding the Certified Professional of Occupancy (CPO) credential. | The CPO, from NAHRO, certifies staff in HUD occupancy rules. Housing postings list it. | 
+zilduzyei4 | Ability to maintain chain of custody. | Chain of custody documents who handled evidence or samples and when. Forensic and lab postings ask for it. | 
+cifv2by5mk | Ability to process lab specimens. | Specimen processing receives, labels, centrifuges and routes lab samples. Lab assistant postings ask for it. | 
+qq7az5jyor | Ability to coordinate travel arrangements. | Travel coordination books flights, hotels and itineraries for others. Admin assistant postings ask for it. | 
+k44x0wmdyf | Holding a master's degree in oceanography. | A master's in oceanography is a graduate degree in ocean science. Research postings mention it. | 
+mgwpga1jmw | Knowledge of deterministic methods. | Deterministic methods give the same output for the same input, without randomness, as in deterministic modelling. Engineering and statistics syllabi teach them. | 
+rzrebn0fyg | Ability to monitor containers with cAdvisor. | cAdvisor is Google's tool for collecting container resource usage. Kubernetes postings mention it. | 
+jfc94x3rg1 | Knowledge of the SS7 Signalling Connection Control Part (SCCP). | SCCP is an SS7 protocol layer for routing signalling messages in telecom networks. Telecom postings mention it. | 
+yi5wth4bnj | Knowledge of SEC Regulation SHO. | Regulation SHO is the SEC rule on short sales. Trading compliance postings mention it. | 
+c5l9xyik3i | Ability to manage iOS dependencies with CocoaPods. | CocoaPods is a dependency manager for Swift and Objective-C projects. iOS postings mention it. | 
+a0cpzx7lc1 | Ability to use accounting software. | Accounting software records financial transactions, such as QuickBooks or Xero. Bookkeeper postings ask for it. | 
+iryd1t5hx3 | Ability to speak, read and write Indonesian. | Indonesian is the official language of Indonesia. Postings in Indonesia ask for it. | 
+k0iszpcq0e | Holding a research doctorate in environmental engineering. | A PhD in environmental engineering is a research doctorate in environmental systems. Research postings ask for it. | 
+csb2nac37h | Ability to manage logs. | Log management collects, stores and analyses system logs. IT ops and security postings ask for it. | 
+jxw7ck50wo | Ability to administer PostgreSQL with phpPgAdmin. | phpPgAdmin is a web tool for administering PostgreSQL; it is largely unmaintained. | 
+i6g0tbrpag | Knowledge of disaster loans. | Disaster loans, such as SBA disaster loans, help people and businesses recover from disasters. Lending postings mention it. | 
+ym6s3kvy3v | Ability to report with SAP BusinessObjects. | SAP BusinessObjects is a BI suite for reporting and analysis. BI postings ask for it. | 
+z5qf83tjp2 | Holding a bachelor's degree in environmental engineering. | A bachelor's in environmental engineering is an undergraduate degree in water, air and waste engineering. Environmental engineer postings ask for it. | 
+x09au1cwqd | Ability to speak, read and write Danish. | Danish is the official language of Denmark. Translation postings ask for it. | 
+fijvbfas62 | Ability to conduct GMP self-inspections. | GMP self-inspection is an internal audit of compliance with Good Manufacturing Practice. Pharma quality postings ask for it. | 
+nu3xguqip9 | Knowledge of visual odometry. | Visual odometry estimates a camera's motion from successive images. Robotics postings mention it. | 
+ivzzs4ifm2 | Ability to interpret contracts under English law. | Interpreting contracts under English law applies English courts' rules of contract construction. UK legal postings mention it. | 
+xkyic5vgkn | Ability to program in J#. | J# was a Microsoft Java-like language for .NET, discontinued in 2007. | f:Obsolete.
+dea02t6oc1 | Holding the SACA Certified Industry 4.0 Associate – Robot System Operations credential. | This SACA credential certifies operating industrial robot systems. Manufacturing postings mention it. | 
+cvjjttyqe3 | Ability to build Node.js apps with Sails.js. | Sails.js is an MVC framework for Node.js. It rarely appears in postings. | 
+wpr4u9kwwe | Ability to edit photos with ON1 Photo RAW. | ON1 makes photo editing software. It rarely appears in postings. | 
+t3qtfcj4cl | Ability to engineer secure cyber systems. | Cyber engineering designs and builds secure computer and network systems. Defence cyber postings mention it. | 
+v3e0pgi7t5 | Holding an Associate of Science in agriculture business. | An AS in agriculture business is a two-year degree in farm business. | 
+hkrxfoq04k | Ability to use MEP design software. | MEP design software designs mechanical, electrical and plumbing systems, such as Revit MEP. MEP designer postings ask for it. | 
+pmy0yp0e50 | Knowledge of NoSQL databases. | NoSQL databases store data in non-relational models such as documents, key-value or graphs. Developer postings ask for it. | x:Relational database management system~Relational stores
+qwwzdu21ry | Ability to set up database mirroring. | Database mirroring keeps a standby copy of a database for failover, as in SQL Server. DBA postings mention it. | 
+wml4xch2r5 | Knowledge of technical theatre. | Technical theatre covers lighting, sound, sets and stage management. Theatre technician postings ask for it. | 
+bprelfo6pk | Knowledge of immunization. | Immunization protects people from disease with vaccines. Nursing and public health postings ask for it. | 
+bb6ux8a0n7 | Ability to perform routine maintenance on equipment. | Equipment maintenance, an O*NET skill, is performing routine maintenance and deciding when and what maintenance is needed. | f:The name reads as an O*NET skill.
+du2i8rh20v | Holding a master's degree in anthropology. | A master's in anthropology is a graduate degree in human cultures and societies. Research postings mention it. | 

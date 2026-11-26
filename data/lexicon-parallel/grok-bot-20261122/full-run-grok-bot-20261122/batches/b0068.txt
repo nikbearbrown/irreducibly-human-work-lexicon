@@ -1,0 +1,50 @@
+x6bugydux5 | Knowledge of the structure and content of the English language. | English language, an O*NET knowledge area, covers the meaning and spelling of words, rules of composition and grammar. | f:The name reads as an O*NET knowledge area.
+om7xg83nw7 | Knowledge of Nagle's algorithm for TCP. | Nagle's algorithm reduces small TCP packets by buffering data until earlier data is acknowledged. Network programming postings mention it. | 
+btq5nmfpws | Holding a master's degree in music therapy. | A master's in music therapy is a graduate degree in clinical music therapy. Music therapist postings mention it. | 
+u301ax2wc3 | Ability to describe APIs with the OpenAPI Specification. | OpenAPI, formerly Swagger, is a standard format for describing REST APIs. API developer postings ask for it. | 
+gq46lt98ml | Ability to focus on one sound among distractions. | Auditory attention, an O*NET ability, is focusing on a single source of sound in the presence of other sounds. | f:The name reads as an O*NET ability.
+qs93b71k93 | Ability to call SharePoint web services with SPServices. | SPServices is a jQuery library for SharePoint web services; it is obsolete. | f:Obsolete.
+npe8caepoo | Knowledge of the internet protocol suite (TCP/IP). | The internet protocol suite is the set of protocols, including TCP and IP, that run the internet. Network postings ask for it. | h:Computer networking | -v:Internet Protocolss
+pe7v46ydhy | Ability to livestream video. | Livestreaming broadcasts video live over the internet. Media and social postings mention it. | 
+v0acf8nnh1 | Ability to code cardiovascular procedures. | Cardiovascular coding assigns codes to cardiology and vascular procedures for billing. Coder postings ask for it. | 
+tkskro5w3t | Ability to measure bores with a telescoping gauge. | A telescoping gauge measures internal diameters together with a micrometer. Machinist postings mention it. | 
+mwcmyvh54c | Knowledge of industrial statistics. | Industrial statistics applies statistics to manufacturing, such as SPC and design of experiments. Quality postings ask for it. | 
+jp5f35cnyj | Ability to integrate systems with MuleSoft. | MuleSoft Anypoint Platform connects applications through APIs. Integration postings ask for it. | 
+flcu1xych1 | Ability to market across multiple channels. | Multichannel marketing reaches customers through several channels such as email, social and stores. Marketing postings ask for it. | 
+voi7c83j27 | Holding a bachelor's degree in international relations. | A bachelor's in international relations is an undergraduate degree in global politics. Policy postings mention it. | 
+gb10qwtibo | Knowledge of brute-force search. | Brute-force search tries every possible candidate to find a solution. CS syllabi teach it. | -v:Brute Force; v:Brute Force~in a context about algorithms
+zva5cuwjey | Ability to analyse financial data. | Financial analytics uses data to understand and forecast financial performance. Finance postings ask for it. | 
+e5r0fjqwfs | Holding an Associate of Applied Science in construction technology. | This AAS trains construction technicians and supervisors. Construction postings accept it. | 
+h8tb04y8ia | Ability to engage with government bodies. | Government engagement builds relationships with officials and agencies. Public affairs postings ask for it. | 
+zl9ehic1aj | Knowledge of oxidation processes. | Oxidation processes, such as advanced oxidation, break down contaminants with oxidants. Water treatment postings mention it. | -v:Oxidattion Processes
+mzlmepymn4 | Knowledge of Microsoft Digital Image Suite. | Digital Image Suite was Microsoft's consumer photo editing software, discontinued in 2007. | f:Discontinued.
+u33zg3sop2 | Ability to teach with the case method. | The case method teaches through discussion of real-world cases, as in business and law schools. Faculty postings mention it. | 
+lcoae2rzwl | Ability to use Digital.ai DevOps tools. | Digital.ai offers software delivery tools for agile planning, release and testing. DevOps postings mention it. | 
+u2cju90m1j | Ability to deposit thin films by physical vapour deposition. | PVD deposits thin films by vaporizing material in a vacuum, as in sputtering. Semiconductor postings ask for it. | 
+w6k4uq5j1x | Knowledge of nanocomposites. | Nanocomposites are materials with nanoscale fillers that improve properties. Materials research postings mention it. | 
+yplq0w5d56 | Knowledge of special education. | Special education is teaching that meets the needs of students with disabilities. Special education postings ask for it. | 
+udx80d1ydx | Holding an Associate of Applied Science in physical fitness technology. | This AAS trains fitness instructors. Fitness postings accept it. | 
+h1yzwdb0b3 | Knowledge of biological applications of bifurcation theory. | Bifurcation theory studies sudden changes in system behaviour, applied to biological models. It appears in academic contexts. | 
+hxl6oldmhj | Ability to query with JDOQL. | JDOQL is the query language of Java Data Objects. It rarely appears in postings. | 
+ppn1crdqgj | Knowledge of stormwater collection systems. | Stormwater collection systems gather and convey runoff through inlets and pipes. Civil and municipal postings ask for it. | 
+qpdq0k0dbj | Ability to create interactive web content. | Interactive web content responds to user input, such as quizzes and animations. Web postings mention it. | 
+tdp9wsve0r | Ability to reverse-engineer binaries with Binary Ninja. | Binary Ninja is a reverse engineering platform. Malware analysis postings mention it. | 
+dc088s7z0a | Holding the Registered Respiratory Therapist (RRT) credential. | The RRT, from NBRC, certifies advanced respiratory therapists. RT postings ask for it. | 
+twpwik1mkt | Holding a Mobile Electronics Certified Professional (MECP) certification. | MECP certifies installers of car audio and mobile electronics. Installer postings mention it. | 
+qwxve2acvt | Ability to run A/B tests with Google Optimize. | Google Optimize was Google's website testing tool, shut down in 2023. | f:Discontinued.
+vzdpk860cj | Ability to provide autism therapy. | Autism therapy covers interventions such as ABA for autistic people. Behaviour therapist postings ask for it. | 
+buwx6qk7uh | Ability to program in OpenEdge ABL (Progress 4GL). | OpenEdge ABL is Progress Software's business application language. Legacy ERP postings ask for it. | 
+rw1rf4xx4r | Knowledge of SMTP. | Simple Mail Transfer Protocol sends email between servers. Email admin postings ask for it. | 
+ihw2qwek3f | Ability to consult on SAP technology. | SAP technology consulting advises on SAP basis, architecture and integration. SAP consultant postings ask for it. | -v:SAP Technology Consultanting
+gohjwxc1ev | Knowledge of the IBM POWER9 processor platform. | POWER9 is a 2017 IBM server processor generation for Power Systems. IBM Power postings mention it. | 
+ad8n7dckkb | Knowledge of gastric bypass surgery. | Gastric bypass reroutes the digestive tract to cause weight loss. Bariatric postings mention it. | h:Bariatric surgery
+ds71vj3zr1 | Ability to query databases with DbVisualizer. | DbVisualizer is a universal database client. Developer postings mention it. | 
+tv1zjnzlo0 | Ability to manage queues with a queue management system. | A queue management system manages customer lines with tickets and displays. Retail and service postings mention it. | 
+t7wrep17u6 | Ability to model data with erwin Data Modeler. | erwin Data Modeler is a data modelling tool. Data architect postings ask for it. | 
+amuzox4pgm | Ability to visualize data. | Data visualization presents data as charts and graphics to reveal patterns. Analyst postings ask for it. | 
+l843486lg0 | Ability to manage configurations with Puppet. | Puppet is a configuration management tool for automating servers. DevOps postings mention it. | 
+gg3liy57bv | Ability to respond quickly to a signal. | Reaction time, an O*NET ability, is quickly responding with hand, finger or foot to a signal when it appears. | f:The name reads as an O*NET ability.
+bkbix3flhv | Holding a master's degree in museum studies. | A master's in museum studies is a graduate degree in museum work. Museum postings ask for it. | 
+sbjwzquv9w | Holding an Associate of Science in pre-engineering. | An AS in pre-engineering covers prerequisites for an engineering degree. | 
+h9kgpt71mt | Ability to instrument applications with OpenTelemetry. | OpenTelemetry is an open standard for collecting traces, metrics and logs. Observability postings ask for it. | 
+s5h0wygs8h | Knowledge of PPTP. | Point-to-Point Tunneling Protocol is an old VPN protocol, now considered insecure. | f:Insecure and largely obsolete.

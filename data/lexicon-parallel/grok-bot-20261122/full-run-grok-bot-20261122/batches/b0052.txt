@@ -1,0 +1,50 @@
+hqe3a6n58q | Ability to query DBpedia's structured Wikipedia data. | DBpedia extracts structured data from Wikipedia as a linked data knowledge graph. Semantic web postings mention it. | 
+ic97ot6pm9 | Ability to run security operations. | Security operations (SecOps) monitors, detects and responds to security incidents, often in a SOC. Security postings ask for it. | x:DevSecOps~Security in the development pipeline
+irfesqk54c | Ability to use office and productivity software. | Office and productivity software covers word processors, spreadsheets, email and presentation tools. Office postings ask for it. | 
+tcx8kv8y3a | Holding the GIAC Security Essentials (GSEC) certification. | The GSEC certifies hands-on security skills beyond basic terminology. Security postings list it. | 
+bdhhzc4c1h | Ability to run SIEM with ArcSight ESM. | ArcSight Enterprise Security Manager is a SIEM, now from OpenText. SOC postings mention it. | 
+uh144fpdpv | Knowledge of Windows 8. | Windows 8 was Microsoft's 2012 operating system; it is unsupported. | f:Obsolete.
+ch3dy4qykj | Ability to operate power tools safely. | Power tool operation is using drills, saws and other powered tools. Trades postings ask for it. | 
+m9p6unthvm | Ability to bind Android views with Butter Knife. | Butter Knife was an Android view-binding library, now deprecated in favour of View Binding. | f:Deprecated.
+jy0dtiz3ve | Ability to find a known pattern hidden in distracting material. | Flexibility of closure, an O*NET ability, is identifying or detecting a known pattern hidden in other material. | f:The name reads as an O*NET ability.
+x2oth8jb5y | Ability to speak Odia. | Odia is the official language of Odisha, India. It rarely appears in postings. | 
+tbwv6rki6z | Holding an FAA Airline Transport Pilot (ATP) certificate. | The ATP is the highest pilot certificate, required to captain airline flights. Airline pilot postings require it. | 
+ckxpuw0cke | Ability to move arms and legs quickly. | Speed of limb movement, an O*NET ability, is quickly moving the arms and legs. | f:The name reads as an O*NET ability.
+wc10vgeek1 | Holding a research doctorate in systems engineering. | A PhD in systems engineering is a research doctorate in complex systems. Defence research postings mention it. | 
+o05z05mzxc | Knowledge of DoD Instruction 8510.01 (Risk Management Framework). | DoDI 8510.01 sets the Risk Management Framework for DoD IT systems. Defence cyber postings ask for it. | 
+dfc9xr7d51 | Knowledge of bariatric surgery. | Bariatric surgery is weight-loss surgery such as gastric bypass. Surgical postings mention it. | h:Surgery; o:Gastric bypass surgery
+ovrrog0mz2 | Ability to use defensive tactics. | Defensive tactics are techniques to control and protect against aggressive subjects. Police and security postings ask for it. | 
+x0tkgbv0x1 | Ability to manage e-signatures with DocuSign. | DocuSign is electronic signature and agreement software. Office postings mention it. | 
+f0pleod6uz | Holding a certificate in motorcycle repair. | A motorcycle repair certificate trains motorcycle technicians. Motorcycle tech postings accept it. | 
+cpjs09hqoa | Knowledge of the Driver's Vision Enhancer thermal system. | The Driver's Vision Enhancer is a thermal imaging system for military vehicle drivers. Military postings mention it. | 
+jrptm70k0a | Holding an Associate of Science in radiologic technology. | An AS in radiologic technology prepares X-ray techs for ARRT certification. Rad tech postings ask for it. | 
+j2ec7q05ks | Holding the Certified Child Life Specialist (CCLS) credential. | The CCLS certifies specialists who help children cope with hospital care. Child life postings require it. | 
+rfq7wb6pu8 | Holding a master's degree in chemistry. | A master's in chemistry is a graduate degree in chemistry. Lab postings mention it. | c:Chemistry
+a29bj9y2xt | Ability to diagnose and repair electrical faults. | Electrical diagnostics and repair finds and fixes faults in electrical systems. Technician postings ask for it. | 
+ae15w1gozp | Ability to choose suitable methods for learning new things. | Learning strategies, an O*NET skill, is selecting and using training methods appropriate to the situation when learning or teaching. | f:The name reads as an O*NET skill.
+ks93tfz19m | Ability to manage Python environments with Anaconda. | Anaconda is a Python and R distribution with conda package management. Data science postings mention it. | 
+fj3w62grru | Holding a Master of Laws (LL.M.) in taxation. | An LL.M. in taxation is a post-JD degree in tax law. Tax attorney postings ask for it. | 
+m6qn2ni0mx | Ability to automate tests with Silk Test. | Silk Test is a functional test automation tool, now from OpenText. It rarely appears in postings. | 
+npja9s70lb | Ability to repair machines or systems. | Repairing, an O*NET skill, is repairing machines or systems using the needed tools. | f:The name reads as an O*NET skill.
+z4vtam14dw | Knowledge of callback functions. | A callback is a function passed to another function to be called later. Developer postings mention it. | 
+y7oiw2a8nf | Knowledge of SCORM e-learning standards. | SCORM is a set of standards for e-learning content to work with LMSs. Instructional design postings ask for it. | 
+nnm87ndq0p | Holding the FINRA Series 4 Registered Options Principal license. | The Series 4 qualifies principals to supervise options activities. Brokerage postings ask for it. | 
+ipdzyw63rq | Knowledge of the ISS Environmental Control and Life Support System. | The ISS ECLSS provides air, water and waste systems for the space station crew. Space engineering postings mention it. | 
+frxngml79c | Holding a bachelor's degree in bioinformatics. | A bachelor's in bioinformatics is an undergraduate degree in computational biology. | 
+w4geod402w | Ability to conduct internal investigations. | Internal investigations look into misconduct, fraud or policy breaches inside an organization. Compliance and HR postings ask for it. | 
+kba5p9by94 | Ability to audit AWS activity with CloudTrail. | AWS CloudTrail records API calls and account activity in AWS. Cloud security postings mention it. | u:Amazon Web Services
+bbyfrkvg03 | Knowledge of organizational change. | Organizational change is how organizations shift structure, processes or culture. HR and leadership postings mention it. | o:Organizational culture change
+ynifxe6cme | Ability to build Ruby web apps with Padrino. | Padrino is a Ruby web framework built on Sinatra. It rarely appears in postings. | 
+zlbi0on717 | Ability to use Oracle HRMS. | Oracle HRMS is the human resources suite of Oracle E-Business Suite. HRIS postings mention it. | 
+a9jtam6w1r | Ability to merchandise products online. | Digital merchandising presents and promotes products on e-commerce sites. E-commerce postings ask for it. | 
+mgli64p2b6 | Ability to make digital products accessible. | Digital accessibility makes websites and apps usable by people with disabilities, following WCAG. Web postings ask for it. | -v:accessibility; v:accessibility~in a context about websites or apps
+y3lbnh790j | Ability to program in IronPython. | IronPython is a Python implementation for .NET. It rarely appears in postings. | 
+g0hke08uav | Ability to coach patients in incentive spirometry. | Incentive spirometry uses a device to encourage deep breathing after surgery. Nursing and RT postings mention it. | 
+dalckzat01 | Ability to build sites with Gatsby. | Gatsby is a React-based static site framework. Front-end postings mention it. | 
+qphpy2zo7v | Ability to develop apps for watchOS. | watchOS is Apple's operating system for Apple Watch. iOS postings mention it. | 
+fvywboh27m | Ability to build web apps with Backbone.js. | Backbone.js is an early MVC JavaScript library. Legacy front-end postings mention it. | 
+hheoc0urcl | Ability to draw lettering by hand. | Hand lettering is drawing letters artistically for signs and designs. Designer postings mention it. | 
+nicyomlrg5 | Ability to model urban drainage with MIKE URBAN. | MIKE URBAN is DHI software for modelling water distribution and urban drainage. Water engineering postings mention it. | 
+mte089qu88 | Ability to template with doT.js. | doT.js is a fast JavaScript template engine. It rarely appears in postings. | 
+ixu1vllk3q | Holding the Google IT Support Professional Certificate. | This Coursera certificate from Google trains entry-level IT support. Help desk postings mention it. | 
+wbkfp77uy9 | Knowledge of cured-in-place pipe rehabilitation. | CIPP lines damaged pipes with a resin-soaked liner cured in place. Pipeline rehab postings ask for it. | 

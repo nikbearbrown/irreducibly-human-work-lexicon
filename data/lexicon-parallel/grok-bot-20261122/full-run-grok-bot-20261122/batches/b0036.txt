@@ -1,0 +1,50 @@
+b7urnp1y80 | Knowledge of the ISO 9000 family of quality management standards. | ISO 9000 is the family of standards for quality management systems, including ISO 9001. Quality postings ask for it. | x:ISO 14000~Environmental management
+ni2i5wg786 | Ability to manage build artifacts with Apache Archiva. | Apache Archiva was a repository manager for build artifacts; it is retired. | f:Retired.
+pqt2ajoqzd | Ability to screen resumes against job requirements. | Resume screening is reviewing applications to shortlist qualified candidates. Recruiter postings ask for it. | 
+qmravcc671 | Knowledge of software engineering. | Software engineering applies engineering principles to designing, building, testing and maintaining software. Developer postings ask for it. | 
+izesqp31dl | Holding a bachelor's degree in network administration. | A bachelor's in network administration is an undergraduate degree in managing computer networks. Network admin postings mention it. | 
+xramob4558 | Ability to screen patients for nutritional risk. | Nutritional screening uses quick tools to find people at risk of malnutrition. Dietitian and nursing postings ask for it. | x:Nutritional assessment~The fuller evaluation that follows
+p4z7mcyc0n | Knowledge of the No Child Left Behind Act. | NCLB was a 2002 US education law on testing and accountability, replaced in 2015 by ESSA. Older education postings mention it. | f:Superseded by ESSA in 2015.
+p8qmykc9gw | Ability to test Wi-Fi devices and networks. | Wi-Fi test engineering verifies wireless performance, compliance and interoperability. Wireless QA postings ask for it. | 
+zmd0lqh1v8 | Ability to build word embeddings with word2vec. | word2vec is a set of neural models that learn vector representations of words. NLP postings mention it. | 
+rfrqfpigh3 | Ability to program in OCaml. | OCaml is a functional programming language in the ML family. Some fintech and compiler postings ask for it. | 
+mitehede1s | Holding the Doctor of Dental Surgery (DDS) degree. | The DDS is a professional dental degree, equivalent to the DMD. Dentist postings require it. | x:Doctor of Dental Medicine~Equivalent degree with a different name
+y39t4undo2 | Holding the Doctor of Dental Medicine (DMD) degree. | The DMD is a professional dental degree, equivalent to the DDS. Dentist postings require it. | x:Doctor of Dental Surgery~Equivalent degree with a different name
+vts8d13qh1 | Holding the Google IT Automation with Python Professional Certificate. | This Coursera certificate from Google teaches Python, Git and IT automation. Entry-level IT postings mention it. | 
+we8v3g23ch | Ability to prepare as-built drawings. | As-built drawings record how a project was actually built. Drafter and construction postings ask for it. | 
+tae9xfo4ul | Knowledge of emergency procedures. | Emergency procedures are planned steps for fires, evacuations and other emergencies. Safety-sensitive postings ask for it. | 
+wkoox3i8b0 | Ability to query data with U-SQL. | U-SQL was the query language of Azure Data Lake Analytics, combining SQL and C#; it is retired. | f:Retired with Azure Data Lake Analytics.
+aksp1d11ue | Holding the CCNP Security certification. | CCNP Security is Cisco's professional-level network security certification. Security engineer postings ask for it. | 
+m6vy5q7grp | Holding a bachelor's degree in digital arts. | A bachelor's in digital arts is an undergraduate degree in digital media, animation and design. Creative postings mention it. | 
+njhm95oago | Holding the Board Certified Pharmacotherapy Specialist (BCPS) credential. | The BCPS, from BPS, certifies pharmacists in pharmacotherapy. Clinical pharmacist postings ask for it. | 
+qeyll0q70q | Knowledge of VA home loans. | VA loans are US mortgages guaranteed by the Department of Veterans Affairs. Loan officer postings ask for it. | 
+c2qx3zxwm1 | Knowledge of neuromuscular medicine. | Neuromuscular medicine treats diseases of nerves and muscles such as ALS and myopathies. Neurology postings mention it. | 
+myqo7j7o11 | Ability to operate label printers. | A label printer prints adhesive labels and barcodes. Warehouse and shipping postings mention it. | 
+wqqibl7jxa | Holding the Certified Correctional Health Professional nursing credential (CCHP-RN). | The certified correctional nurse credential, from NCCHC, certifies nurses working in correctional settings. Correctional nursing postings mention it. | 
+yudz6qpuf8 | Ability to use statistical software such as SPSS, SAS, R or Stata. | Statistical software analyses data with statistical methods. Analyst and research postings ask for it. | 
+dbm1b18vem | Holding a research doctorate in materials science. | A PhD in materials science is a research doctorate in materials. R&D postings ask for it. | 
+u5bccdfqq7 | Ability to use the OpenNI framework for depth sensors. | OpenNI was an open-source framework for natural interaction devices such as Kinect. It is largely obsolete. | f:Largely obsolete.
+zjicebvx16 | Knowledge of pandemic preparedness. | Pandemic preparedness is planning to respond to infectious disease outbreaks. Public health postings ask for it. | 
+my95i8hloo | Ability to define a project's scope. | Project scoping is defining a project's goals, deliverables and boundaries. PM postings ask for it. | l:Project management
+u72pap9snn | Holding an ASQ certification. | ASQ certifications, from the American Society for Quality, certify quality professionals as engineers, auditors and more. Quality postings ask for one. | -v:(American Society For Quality) ASQ Certified
+tprscmn40a | Knowledge of Windows Vista. | Windows Vista was Microsoft's operating system from 2007; it is unsupported. | f:Obsolete.
+d9nqi6y3rv | Knowledge of special education law. | Special education law, such as IDEA, governs services for students with disabilities. Special education postings ask for it. | 
+rd2umyeqn5 | Knowledge of listwise deletion for missing data. | Listwise deletion drops any case with missing values from analysis. Statistics syllabi teach it. | 
+pzftsisr6a | Ability to create visualizations of architectural designs. | Architectural visualization produces images and animations of buildings before they are built. Arch-viz postings ask for it. | 
+t3dlt6dor2 | Holding a Microsoft Dynamics 365 Field Service certification. | This Microsoft certification validates skill in configuring Dynamics 365 Field Service. Dynamics consultant postings list it. | 
+q41s9zy9rc | Holding a research doctorate in astrophysics. | A PhD in astrophysics is a research doctorate in the physics of celestial objects. Research postings ask for it. | 
+dcojl2vxs3 | Knowledge of access point names in mobile networks. | An access point name is the gateway a mobile device uses to connect to a data network. Mobile network postings mention it. | 
+j3q3yhad2u | Ability to render with cebas finalRender. | finalRender is a rendering engine for 3ds Max and Maya. It rarely appears in postings. | 
+a4cpgp9pfi | Ability to write and implement Individualized Education Programs. | An IEP is a legal plan setting special education services for a student in the US. Special education postings ask for it. | v:IEP~in a context about special education
+pssdza1weh | Ability to test Node.js HTTP servers with SuperTest. | SuperTest is a Node.js library for testing HTTP endpoints. JavaScript postings mention it. | 
+fpev42nqyf | Knowledge of educational assessment. | Educational assessment measures student learning through tests and other evidence. Teacher postings ask for it. | 
+ybsy8ezsaf | Behaving professionally at work. | Professionalism is conduct showing competence, reliability and respect. Postings list it. | 
+t04g06uxlu | Ability to run ad campaigns on Twitter (X). | Twitter advertising promotes posts and accounts through X's ad platform. Social media postings mention it. | 
+nef5zcgpal | Ability to sell oncology products to healthcare providers. | Oncology sales promotes cancer drugs and devices to oncologists. Pharma sales postings ask for it. | 
+k8pcmxo14a | Ability to program in Ada 95. | Ada 95 is the 1995 revision of Ada, adding object orientation. Defence postings mention it. | 
+o7uu89ka5g | Ability to generate Word documents with phpdocx. | phpdocx is a PHP library for creating Word documents. It rarely appears in postings. | u:PHP
+bzg3r9ulfm | Ability to run DNS servers with BIND. | BIND is the most widely used DNS server software. Linux and network admin postings ask for it. | 
+bdzgbz9dry | Ability to recruit senior executives. | Executive search is recruiting candidates for senior roles, often for retained search firms. Recruiter postings ask for it. | 
+wohf9s8iwv | Holding the CompTIA Security Analytics Expert (CSAE) stackable certification. | The CSAE is a CompTIA stackable certification for Security+, CySA+ and CASP+. | 
+f6muvp3xj5 | Knowledge of twisted pair cabling. | Twisted pair is cable in which pairs of wires are twisted to reduce interference, as in Ethernet. Cabling technician postings ask for it. | 
+ffrlff4nm4 | Knowledge of aluminium smelting. | Aluminium smelting extracts aluminium from alumina by the Hall-Héroult electrolytic process. Smelter postings ask for it. | 

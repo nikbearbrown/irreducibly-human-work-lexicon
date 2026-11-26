@@ -1,0 +1,50 @@
+r4ouhufncq | Ability to send push notifications with Firebase Cloud Messaging. | Firebase Cloud Messaging is Google's service for sending messages and notifications to apps. Mobile developer postings mention it. | 
+jdli0jm4dm | Ability to run surveys on the Confirmit (Forsta) platform. | Confirmit is market research survey software, now part of Forsta. Market research postings mention it. | 
+o6m3xqguk3 | Holding a research doctorate in petroleum engineering. | A PhD in petroleum engineering is a research doctorate in oil and gas recovery. R&D postings mention it. | 
+z40m891ema | Ability to optimize programs for performance. | Program optimization makes software faster or less resource-hungry. Performance engineering postings ask for it. | x:Program evaluation~Assessing social programs
+gv3yol606d | Knowledge of the Safe Drinking Water Act. | The SDWA is the US law regulating public drinking water quality. Water utility postings ask for it. | x:Clean Water Act~Surface water pollution
+ls348jzgvp | Holding a bachelor's degree in pharmacy. | A bachelor's in pharmacy (BPharm) qualifies pharmacists in many countries outside the US. Pharmacy postings mention it. | x:Doctor of Pharmacy~The US entry degree
+te8h97eiea | Ability to write behaviour-driven tests with Cucumber. | Cucumber runs automated tests written in plain-language Gherkin. QA automation postings ask for it. | 
+pabpxn4ry1 | Knowledge of the BACnet building automation protocol. | BACnet is a communication protocol for building automation and control networks. BAS postings ask for it. | 
+vz9yf51h4p | Ability to generate images with Stable Diffusion. | Stable Diffusion is an open-weight text-to-image model. Generative AI postings mention it. | 
+q8atqsmjrm | Ability to generate images with AI. | Image generation is creating images with AI models from text or other inputs. Generative AI and creative postings mention it. | 
+ewgeg8njc2 | Knowledge of long short-term memory (LSTM) networks. | An LSTM is a recurrent neural network that learns long-range dependencies in sequences. ML postings mention it. | 
+c5fg11huaj | Holding the CompTIA HTI+ certification. | CompTIA HTI+ certified home technology integration; it is retired. | f:Retired.
+zh5hk9g8gz | Ability to remove burrs from machined parts. | Deburring removes sharp edges and burrs left by machining. Machine shop postings ask for it. | 
+v9gfz4advt | Ability to make precise finger movements. | Finger dexterity, an O*NET ability, is making precisely coordinated finger movements to grasp or manipulate small objects. | f:The name reads as an O*NET ability.
+k9446vt92g | Ability to manage software assets with Snow Software. | Snow Software is software asset management tooling, now part of Flexera. SAM postings mention it. | 
+vzv3wdia9j | Holding the WOCN Certified Wound Ostomy Nurse credential. | This WOCNCB credential certifies nurses in wound and ostomy care. Wound care nursing postings ask for it. | 
+e33sc9v0l8 | Holding an Associate of Science in computer science. | An AS in computer science is a two-year degree in programming fundamentals, usually for transfer. | 
+t9s5jg0omq | Holding a radiology certification. | A radiology certification, such as ARRT, certifies radiologic technologists or radiologists. Imaging postings ask for one. | 
+k1agyun6gt | Ability to use speech recognition software such as Dragon. | Speech recognition software converts speech to text. Medical transcription postings mention it. | 
+d0sdezje4m | Knowledge of models for life contingencies. | Life contingency models are actuarial models of survival, annuities and life insurance, tested in SOA exams. | 
+abl7u4xght | Ability to use Deltek Costpoint for government contract accounting. | Costpoint is Deltek's ERP for government contractors. Government contract accounting postings ask for it. | 
+v7niczl5ii | Ability to run Python tests with nose. | nose was a Python test runner extending unittest; it is unmaintained. | f:Unmaintained.
+twhbebct5l | Ability to write HTML. | HTML is the markup language for web pages. Web developer postings ask for it. | 
+e427vogl89 | Holding an Associate of Science in data science. | An AS in data science is a two-year degree in statistics, programming and data. | 
+a4urb1gqg1 | Holding the Fellow of the Society of Actuaries (FSA) credential. | The FSA is the highest credential of the Society of Actuaries. Actuarial postings ask for it. | 
+gk12ir4ef9 | Ability to program in BASIC. | BASIC is an early beginner's programming language family. It rarely appears in modern postings. | v:BASIC~in a context about programming languages
+fmysag6ovk | Ability to animate text with kinetic typography. | Kinetic typography is animated text in motion graphics. Motion designer postings mention it. | -v:Kinetics (Typography)
+svqokai4ji | Ability to program in JScript .NET. | JScript .NET was Microsoft's .NET version of JScript; it is obsolete. | f:Obsolete.
+qvfxi4tty4 | Ability to plan organizational change management. | Change management planning prepares the communications, training and support for a change. Change manager postings ask for it. | 
+st3fjw56rb | Holding a matriculation certificate for completing secondary school. | A matriculation certificate shows a student completed secondary school and can enter university, as in South Africa or Israel. | -v:Martriculation Certificate
+wnk9p9lwnj | Holding an Associate of Science in horticulture. | An AS in horticulture is a two-year degree in plant growing and landscape. Nursery postings accept it. | 
+f1qxsirpfn | Ability to manage social media accounts. | Social media management is planning, posting and engaging on social platforms. Social media postings ask for it. | 
+qhvqe6edu5 | Ability to buy advertising space and time. | Media buying is negotiating and purchasing ad placements across channels. Media buyer postings ask for it. | o:Programmatic media buying
+y560uwo68d | Ability to manage clusters with Apache Mesos. | Apache Mesos is a cluster manager, now retired in favour of Kubernetes. | f:Retired.
+d52wj7x3wm | Holding the Doctor of Physical Therapy (DPT) degree. | The DPT is the entry-level professional degree for US physical therapists. PT postings require it. | 
+e23xcwkh9v | Ability to conduct safety audits. | A safety audit evaluates workplace safety programs and conditions. EHS postings ask for it. | 
+mxl01lm0t7 | Knowledge of builder's risk insurance. | Builder's risk insurance covers buildings under construction. Insurance and construction postings mention it. | 
+o1g3zmzf6u | Knowledge of the HP 2100 minicomputer. | The HP 2100 was a 1960s–70s Hewlett-Packard minicomputer series. It is obsolete. | f:Obsolete.
+eaxjaon3ua | Holding a bachelor's degree in data science. | A bachelor's in data science is an undergraduate degree in statistics, computing and data. Data postings mention it. | 
+px3qo1l9t8 | Ability to run analytics on Actian Vector (VectorWise). | VectorWise, now Actian Vector, is a columnar analytic database. It rarely appears in postings. | 
+rtrc1foglt | Knowledge of CPython, the reference Python interpreter. | CPython is the reference implementation of Python, written in C. Python core and extension postings mention it. | u:Python
+i740drj12f | Ability to train deep learning models with fastai. | fastai is a deep learning library on PyTorch with high-level APIs. ML postings mention it. | 
+u39qcl6iyj | Ability to use Oracle RightNow CRM. | RightNow was customer service CRM software, now Oracle B2C Service. Older CRM postings mention it. | 
+q8zepjtla7 | Ability to automate deployments with Capistrano. | Capistrano is a Ruby tool for deploying applications over SSH. Rails postings mention it. | 
+fl92xd5dwo | Ability to analyse how users use a product. | Product analytics tracks and analyses user behaviour in a product with tools like Amplitude or Mixpanel. Product postings ask for it. | 
+abnhhao29t | Ability to implement single sign-on. | Single sign-on lets users authenticate once to access several systems. Identity postings ask for it. | v:SSO~in a context about authentication
+eon43rmtrr | Ability to speak, read and write Greek. | Greek is the official language of Greece and Cyprus. Translation postings ask for it. | 
+s8e0grtfer | Ability to design user experiences for mobile apps. | Mobile UX design shapes how users interact with mobile apps. UX postings ask for it. | h:User experience design
+u3nn7jymhc | Ability to animate with Toon Boom software. | Toon Boom Harmony is 2D animation software used in TV and film. Animator postings ask for it. | 
+k533vkg8mw | Ability to cut hair with clippers. | A hair clipper is an electric tool for cutting hair short. Barber postings ask for it. | 

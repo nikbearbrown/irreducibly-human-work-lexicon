@@ -1,0 +1,50 @@
+ipet40zcu8 | Knowledge of Non-Facility Associated Signalling (NFAS) on ISDN. | NFAS lets one D channel carry signalling for several ISDN PRI trunks. Telecom postings mention it. | 
+y2ac1u5au7 | Ability to analyse operational data. | Operations analytics uses data to improve operational efficiency and performance. Operations postings ask for it. | 
+mtmkw6b12m | Ability to build data infrastructure and pipelines. | Data engineering designs and builds systems that collect, store and prepare data for analysis. Data engineer postings ask for it. | -v:data pipelines; o:Data pipeline
+r87rnj12pg | Ability to perform body contouring treatments. | Body contouring reshapes the body through surgical or non-invasive treatments. Aesthetic clinic postings mention it. | 
+qtajo535yk | Knowledge of the activated sludge process. | Activated sludge treats wastewater with aerated microbial flocs. Wastewater operator postings ask for it. | 
+tmey1u28bl | Holding a project management certification. | A project management certification, such as PMP or PRINCE2, validates PM skills. PM postings ask for one. | c:Project management
+uwgvok3y2v | Holding a certified medical laboratory assistant credential. | A medical lab assistant certification, such as CMLA, certifies lab assistants who collect and process specimens. Lab postings mention it. | 
+ji21mv1q0v | Knowledge of family systems theory. | Family systems theory views the family as an emotional unit, from Murray Bowen's work. Family therapist postings mention it. | 
+tbid4ervbh | Ability to build on Alibaba Cloud. | Alibaba Cloud is Alibaba's cloud computing platform. Cloud postings in Asia mention it. | 
+oia7a9p9lz | Knowledge of behavioural science. | Behavioural science studies human behaviour through psychology, economics and sociology. Behavioural insights postings ask for it. | 
+prurki4ppc | Ability to develop interactive websites. | Interactive web development builds sites that respond to user input with JavaScript and dynamic content. Web postings ask for it. | h:Web development
+uuer0jxuof | Ability to deploy network intrusion detection systems. | A NIDS monitors network traffic for suspicious activity, such as Snort or Suricata. Security postings ask for it. | 
+g0mmhmhuoe | Knowledge of California's Fair Employment and Housing Act. | FEHA is California's law against discrimination in employment and housing. California HR postings mention it. | -v:Fair Employment And Housing Act (FEMA)
+t2y97tzi55 | Knowledge of io.js. | io.js was a 2015 fork of Node.js that merged back into Node. It is obsolete. | f:Obsolete.
+gmdxzrk08v | Holding the CompTIA Network Vulnerability Assessment Professional (CNVP) stackable certification. | The CNVP is a CompTIA stackable certification for Security+ and PenTest+. | 
+u3ojnio176 | Holding ABMLI board certification in medical laboratory immunology. | The American Board of Medical Laboratory Immunology certifies doctoral scientists who direct immunology labs. | 
+kyg8c9ysbl | Holding a Bachelor of Science in Business Administration (BSBA). | The BSBA is an undergraduate business degree with a quantitative focus. Business postings ask for it. | 
+ev1tagfici | Knowledge of Latin American and Latino studies. | This field studies the history, culture and politics of Latin America and Latino communities. Academic postings mention it. | 
+qd47eah27z | Holding a bachelor's degree in ecology. | A bachelor's in ecology is an undergraduate degree in ecosystems. Field technician postings ask for it. | 
+an5f1wkslh | Ability to develop a digital customer strategy. | Digital customer strategy plans how a business acquires, serves and keeps customers through digital channels. Digital transformation postings mention it. | 
+n13ccjbhiu | Ability to visualize hierarchical data with treemaps. | A treemap shows hierarchical data as nested rectangles sized by value. Data viz postings mention it. | 
+w8wmeqph17 | Ability to speak Manipuri (Meitei). | Manipuri is a Sino-Tibetan language of Manipur, India. It rarely appears in postings. | 
+n43rtz8a5l | Ability to ensure cybersecurity compliance. | Cybersecurity compliance makes systems meet security regulations and standards such as NIST or ISO 27001. GRC postings ask for it. | h:Cybersecurity
+udwrwe8lcv | Ability to run Oracle Autonomous Database. | Oracle Autonomous Database is a self-managing cloud database on OCI. Oracle cloud postings mention it. | 
+j9834ogpij | Holding the MSRB Series 53 Municipal Securities Principal license. | The Series 53 qualifies principals to supervise municipal securities activities. Public finance postings ask for it. | 
+wtrq54ml3i | Knowledge of the InnoDB storage engine. | InnoDB is MySQL's default transactional storage engine. MySQL DBA postings mention it. | 
+gdsj5trri5 | Holding a bachelor's degree in criminal justice. | A bachelor's in criminal justice is an undergraduate degree in policing, courts and corrections. Law enforcement postings ask for it. | 
+y0w122f4sc | Knowledge of outpatient surgery. | Outpatient surgery is surgery where patients go home the same day. Ambulatory surgery centre postings mention it. | h:Surgery
+k6ns4jdo7n | Knowledge of the IBM POWER8 processor platform. | POWER8 is a 2014 IBM server processor generation for Power Systems. IBM Power postings mention it. | 
+q0u0azoaf6 | Ability to make sense of information that seems meaningless or incomplete. | Speed of closure, an O*NET ability, is quickly combining and organizing information into meaningful patterns. | f:The name reads as an O*NET ability.
+yp9p064xmg | Holding a research doctorate in plastics engineering. | A PhD in plastics engineering is a research doctorate in polymers and plastics processing. It rarely appears in postings. | 
+d738sbe7ch | Knowledge of general science. | General sciences cover basic biology, chemistry, physics and earth science. Science teacher postings mention it. | 
+o63wn5eub5 | Knowledge of reinforced masonry. | Reinforced masonry embeds steel in masonry walls to resist tension and seismic forces. Structural postings mention it. | 
+h0rlt8kl2c | Knowledge of Personal Communications Service (PCS) wireless. | PCS is a set of digital mobile services in the 1900 MHz band in the US. Telecom postings mention it. | 
+nz84281zw5 | Knowledge of call admission control. | Call admission control decides whether a network can accept a new call or connection without degrading quality. VoIP postings mention it. | 
+qijk91l5zp | Holding a bachelor's degree in music education. | A bachelor's in music education prepares music teachers. Music teacher postings ask for it. | 
+aqqbcc2yzm | Ability to make fast simple movements of the fingers, hands and wrists. | Wrist-finger speed, an O*NET ability, is making fast, simple, repeated movements of the fingers, hands and wrists. | f:The name reads as an O*NET ability.
+iar9iwxac2 | Ability to manage employees' return to work. | Return-to-work management plans and supports employees returning after injury or illness. Occupational health and HR postings ask for it. | 
+ykb600q8nh | Holding the GIAC Global Industrial Cyber Security Professional (GICSP) certification. | The GICSP certifies security for industrial control systems. OT security postings list it. | 
+z0p46eqsxu | Knowledge of navigational aids. | Navigational aids are beacons, buoys and electronic systems that guide ships and aircraft. Maritime and aviation postings mention it. | 
+y2k2ntnll0 | Ability to build Backbone apps with Marionette.js. | Marionette.js is a framework on Backbone.js; it is largely obsolete. | f:Largely obsolete.
+ez2j813g66 | Ability to speak, read and write Norwegian. | Norwegian is the official language of Norway. Translation postings ask for it. | 
+pxs2n3nuzb | Ability to speak Kyrgyz. | Kyrgyz is a Turkic language of Kyrgyzstan. It rarely appears in postings. | 
+n6jajuq7xe | Ability to check SQL Server databases with DBCC. | DBCC (Database Console Commands) are SQL Server commands for checking and maintaining databases. SQL Server DBA postings mention it. | 
+e4tzaqhrc4 | Ability to program in Groovy. | Groovy is a dynamic JVM language, used in Gradle and Jenkins. Java postings mention it. | 
+k13xxdj722 | Ability to draw section drawings. | A section drawing shows a cut through an object or building. Drafting postings ask for it. | h:Engineering drawing
+i8582a4ibj | Ability to optimize websites. | Website optimization improves speed, usability and conversions. Web and marketing postings ask for it. | 
+ji0fbvi6e3 | Ability to solve problems with the 8D method. | Eight Disciplines is a structured team problem-solving method for finding root causes and preventing recurrence. Automotive quality postings ask for it. | -v:8D; v:8D~in a context about quality problem solving
+xf09syrc3y | Ability to manage risk. | Risk management identifies, assesses and controls risks. Many postings ask for it. | 
+qrqmsx9knd | Ability to plan healthcare facilities. | Healthcare facilities planning designs hospitals and clinics to meet care needs. Healthcare architecture postings ask for it. | 

@@ -1,0 +1,50 @@
+ahmzjpxq70 | Holding an Associate of Arts in history. | An AA in history is a two-year degree in history, usually for transfer. | 
+uvvhammkf6 | Holding a bachelor's degree in marine biology. | A bachelor's in marine biology is an undergraduate degree in ocean life. Marine postings ask for it. | 
+lpxeil9yyg | Ability to program Windows audio with WASAPI. | WASAPI is the Windows Audio Session API for low-latency audio. Audio software postings mention it. | 
+cbcufd4kbq | Knowledge of climate variability and change. | Climate variability and change covers natural fluctuations and long-term shifts in climate. Climate science postings ask for it. | 
+lp2j1xllug | Holding the Certified Hospice and Palliative Nurse (CHPN) credential. | The CHPN, from HPCC, certifies RNs in hospice and palliative care. Hospice postings ask for it. | 
+qf54ifw1gi | Knowledge of pet insurance. | Pet insurance covers pets' veterinary costs. Insurance and vet postings mention it. | 
+x1qzxo9lhl | Knowledge of the .NET Common Language Specification. | The CLS is the set of rules .NET languages follow to interoperate. .NET syllabi mention it. | 
+vq49rs5iwp | Ability to operate a permit-to-work system. | A permit to work authorizes hazardous work under set safety controls. Oil, gas and plant postings ask for it. | 
+ztsbmjfbc3 | Ability to manage SonicWall firewalls. | SonicWall makes network firewalls and security appliances. Network admin postings mention it. | 
+kbm35o1ym2 | Ability to build both front end and back end of applications. | Full-stack engineering covers UI, server, database and deployment. Developer postings ask for it. | h:Software engineering
+vbfwnlv4u6 | Knowledge of mutual funds. | A mutual fund pools investors' money into a managed portfolio. Financial adviser postings ask for it. | 
+fpv3wcolic | Ability to apply intelligent automation. | Intelligent automation combines RPA with AI to automate complex processes. Automation postings mention it. | 
+j7et6lzq8c | Knowledge of professional negligence in English law. | Professional negligence covers claims against professionals for breaching their duty of care under English law. UK litigation postings mention it. | 
+fm6e3bf8o0 | Being sensitive to cultural differences. | Cultural sensitivity is awareness and respect for cultural differences. Health and social care postings ask for it. | 
+siozurm3lm | Ability to administer JD Edwards CNC. | JD Edwards CNC is the technical administration layer of JD Edwards EnterpriseOne. JDE postings ask for it. | 
+q9sf1w77ej | Ability to act as an ally to marginalized groups. | Allyship is actively supporting people from marginalized groups. DEI postings mention it. | 
+mcq19gzghr | Ability to check legal authority with Shepard's Citations. | Shepard's is LexisNexis's citator for checking whether cases are still good law. Legal research postings mention it. | 
+b74v8abm52 | Knowledge of the Percona XtraDB storage engine. | XtraDB is Percona's enhanced InnoDB for MySQL. MySQL DBA postings mention it. | 
+ai3jtul08z | Holding the Certified Technical Trainer (CTT+) credential. | The CTT+ certifies technical trainers. Trainer postings list it. | 
+i6g7p06d2d | Knowledge of earth leakage circuit breakers. | An ELCB cuts power when it detects current leaking to earth. Electrician postings mention it. | 
+x1ik9vrk6z | Knowledge of the ABEC bearing tolerance scale. | The ABEC scale rates the tolerances of ball bearings. Mechanical postings rarely mention it. | 
+dafshgcy36 | Holding the GIAC Penetration Tester (GPEN) certification. | The GPEN certifies network penetration testing. Pentester postings list it. | 
+btlglc68rv | Holding a CDL tanker endorsement. | The N endorsement lets a commercial driver haul liquids in tanks. Tanker driver postings require it. | 
+of4ufj4sc3 | Holding a bachelor's degree in animation. | A bachelor's in animation is an undergraduate degree in 2D and 3D animation. Animator postings mention it. | 
+an4paww7vc | Holding UK Enhanced Security Check (eSC) clearance. | eSC is a UK security clearance adding checks to SC for certain sensitive roles. UK government postings mention it. | -v:eSC; v:eSC~in a context about UK security clearance
+qgak16t1qb | Knowledge of the Serial ATA (SATA) interface. | SATA is a standard interface for connecting storage drives. Hardware postings mention it. | 
+ke7eksyqzj | Holding DoD IAM Level II certification. | IAM Level II is a DoD 8570 management tier met with credentials such as CISSP or CISM. Defence cyber postings ask for it. | 
+su5wnn7gne | Ability to operate packaging machines. | Packaging machine operation runs fillers, cappers, wrappers and cartoners. Production postings ask for it. | h:Machine operation
+jun5boenwf | Ability to build .NET UIs with DevExpress controls. | DevExpress makes UI component libraries for .NET and JavaScript. .NET postings mention it. | 
+fsvbd7mhjr | Ability to teach with developmentally appropriate practice. | DAP is an early childhood approach that fits teaching to children's development. Preschool postings ask for it. | 
+kmcb9apauo | Ability to manage process data with the AVEVA PI System. | The PI System, formerly OSIsoft, collects and stores industrial time series data. Process industry postings ask for it. | 
+u2dgszyvwu | Holding an IBHRE certification. | IBHRE certifies professionals in cardiac rhythm management and electrophysiology. EP tech postings list it. | 
+yunl331qp4 | Knowledge of the AppleTalk Routing Table Maintenance Protocol. | RTMP maintained routing tables in AppleTalk networks. It is obsolete. | f:Obsolete.
+j0wsqjq182 | Knowledge of GSM radio access networks. | The GSM RAN connects mobile phones to the core network through base stations and controllers. Telecom postings mention it. | 
+y75y0b5eq1 | Ability to analyse labour market data with Lightcast. | Lightcast, formerly Emsi Burning Glass, provides labour market data and analytics. Workforce research postings mention it. | 
+e8nbmkyy87 | Holding a web programming certificate. | A web programming certificate is a short program in web development. Junior web postings accept it. | 
+vw3ut9lcco | Ability to implement vector search. | Vector search finds items by similarity of embeddings rather than keywords. AI engineer postings ask for it. | -v:semantic search; -v:vector databases; x:Boolean search~Keyword logic
+lsxf83lrq4 | Knowledge of cloud computing security. | Cloud security protects data and workloads in cloud environments. Security postings ask for it. | 
+dy5sokpl37 | Ability to integrate Oracle applications with Oracle AIA. | Oracle Application Integration Architecture provides prebuilt integrations between Oracle apps. Oracle SOA postings mention it. | -v:Application Integreation Architecture
+x5fnpmr8pm | Ability to investigate complaints. | Complaint investigation examines complaints to find facts and resolve them. Compliance and HR postings ask for it. | 
+ncjktk06jk | Knowledge of ocular pathology. | Ocular pathology studies diseases of the eye. Ophthalmic postings mention it. | 
+l9ibjlrcxx | Ability to build offline-first apps with PouchDB. | PouchDB is a JavaScript database that syncs with CouchDB. It rarely appears in postings. | 
+xfnpaikx1y | Ability to operate all-terrain vehicles. | An ATV is a small off-road vehicle. Farm and field postings mention it. | 
+osdmq2u9ue | Ability to create spreadsheets from PHP with PHPExcel. | PHPExcel was a PHP library for spreadsheets, replaced by PhpSpreadsheet. | f:Deprecated.
+t86zp83kn8 | Ability to speak Bosnian. | Bosnian is a South Slavic language of Bosnia and Herzegovina. Interpreter postings ask for it. | 
+y8gv2lcb5t | Knowledge of green bonds. | Green bonds raise money for projects with environmental benefits. Sustainable finance postings mention them. | 
+hq2g370jgj | Being a self-starter. | A self-starter takes initiative and works without being told. Postings list it as a trait. | -v:Self-started
+cj76hgkw3u | Holding a research doctorate in food science. | A PhD in food science is a research doctorate in food. Food R&D postings ask for it. | 
+utbu34q70d | Ability to simulate systems with VisSim. | VisSim was block-diagram simulation software, now Altair Embed. It rarely appears in postings. | 
+uuoc3n0w49 | Holding a master's degree in political science. | A master's in political science is a graduate degree in politics. Policy postings mention it. | 

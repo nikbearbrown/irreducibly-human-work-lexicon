@@ -1,0 +1,50 @@
+ki27he1gct | Ability to deposit thin films by sputtering. | Sputter deposition ejects atoms from a target with ions to coat a substrate. Semiconductor process postings ask for it. | h:Physical vapor deposition; x:Atomic layer deposition~Chemical layer-by-layer growth
+mcliy0oofb | Ability to query databases with SQuirreL SQL Client. | SQuirreL is an open-source Java SQL client that connects through JDBC. It rarely appears in postings. | u:SQL
+x1vemw60f2 | Knowledge of telecommunications. | Telecommunications is the transmission of information over distance by wire, radio or optical systems. Telecom postings ask for it. | 
+sp5rc8npa7 | Ability to resolve guest concerns. | Resolving guest concerns handles complaints from hotel or restaurant guests to their satisfaction. Hospitality postings ask for it. | 
+oqjr6z2wak | Ability to secure communications with SSL/TLS. | SSL/TLS security configures certificates and protocols to encrypt network traffic. Security and DevOps postings ask for it. | h:Cybersecurity
+e30n8ostor | Holding Basic Life Support (BLS) instructor certification. | A BLS instructor certification, usually from the AHA, qualifies a person to teach BLS. Training postings mention it. | q:Basic Life Support
+o57rerb7hz | Holding a bachelor's degree in nutrition. | A bachelor's in nutrition is an undergraduate degree in food and health. Dietitian postings ask for it. | 
+c08b08bwgx | Knowledge of historic preservation. | Historic preservation protects historic buildings and places. Preservation planner postings ask for it. | 
+hbm2c56yvw | Knowledge of the I2C bus. | I2C is a two-wire serial bus for connecting chips on a board. Embedded postings ask for it. | 
+j4apni32p0 | Holding an Associate of Applied Science in electromechanical technology. | This AAS trains technicians in electrical and mechanical systems. Maintenance technician postings accept it. | 
+vgsyrsr7pf | Ability to model data warehouses with star and snowflake schemas. | Star and snowflake schemas organize fact and dimension tables in a data warehouse. BI postings ask for it. | 
+kko9f7t16z | Holding a pharmacist license. | A pharmacist license is the state licence to practise pharmacy. Pharmacist postings require it. | 
+pm5q2pbpgx | Knowledge of bills of materials. | A bill of materials lists the parts and quantities needed to build a product. Manufacturing postings ask for it. | 
+g2h5hej63u | Ability to render 3D graphics with Three.js. | Three.js is a JavaScript library for 3D graphics in the browser with WebGL. Front-end postings mention it. | 
+v3obh6w5hq | Ability to run forums with phpBB. | phpBB is open-source forum software written in PHP. It rarely appears in postings. | 
+vo4tn2c2c7 | Knowledge of electronic article surveillance. | Electronic article surveillance uses tags and gates to deter shoplifting. Loss prevention postings mention it. | 
+sgi5y6yxmz | Ability to build scientific models. | Scientific modelling represents real systems with mathematical or computational models. Research postings mention it. | 
+hazuxnf4z3 | Knowledge of application-specific integrated circuits. | An ASIC is a chip designed for one particular use. Semiconductor postings ask for it. | -v:Application Specific Integrated Curcuits; o:Chip design
+yt7hqdpq51 | Holding the Certified Technology Specialist (CTS) credential. | The CTS, from AVIXA, certifies audiovisual technology professionals. AV postings ask for it. | 
+p0xczo9z6e | Knowledge of the history of education. | The history of education studies how education developed over time. Academic postings mention it. | 
+edvlkh9fg7 | Knowledge of health economics and outcomes research. | HEOR studies the costs and outcomes of health interventions. Pharma market access postings ask for it. | 
+ou1594vcv2 | Knowledge of Syskey. | Syskey was a Windows utility that encrypted the SAM database. Microsoft removed it in 2017. | f:Discontinued.
+r5kwam4bm9 | Ability to build reinforcement learning systems. | Reinforcement learning trains agents to act by rewarding desired outcomes. ML postings ask for it. | 
+wjy1358i16 | Ability to manage authentication with ASP.NET Identity. | ASP.NET Identity is Microsoft's membership system for users, passwords and logins in ASP.NET apps. .NET postings mention it. | 
+cuphtv0iqh | Ability to operate freight handling equipment. | Freight handling equipment includes forklifts, pallet jacks and conveyors. Warehouse postings ask for it. | 
+ke5iarnp77 | Holding a bachelor's degree in information technology. | A bachelor's in IT is an undergraduate degree in computing systems. IT postings ask for it. | 
+tw1qr97tuv | Ability to work with variable-frequency drives. | A VFD controls motor speed by varying supply frequency. Industrial maintenance postings ask for it. | 
+b1phw8p0rp | Ability to manage LDAP directories with phpLDAPadmin. | phpLDAPadmin is a web-based LDAP administration tool. It rarely appears in postings. | 
+w2o4zybnso | Holding a Master of Laws (LL.M.). | The LL.M. is a postgraduate law degree, often for specialization. Legal postings mention it. | x:Large language models~Same abbreviation
+bv0zy9wr0n | Ability to manage construction bids with SmartBidNet. | SmartBidNet is construction bid management software. Construction estimator postings mention it. | 
+vroxc5a0gz | Ability to build HTTP APIs with ASP.NET Web API. | ASP.NET Web API is Microsoft's framework for building HTTP services. .NET postings ask for it. | 
+ojeubzzg6x | Ability to automate front-end builds with Gulp.js. | Gulp is a JavaScript task runner for automating builds. Front-end postings mention it. | x:Grunt.js~Competing task runner
+umfv8wb6dp | Ability to test iOS UIs with EarlGrey. | EarlGrey is Google's iOS UI testing framework. It rarely appears in postings. | 
+qi9fwg2uun | Holding a bachelor's degree in game design. | A bachelor's in game design is an undergraduate degree in making games. Game studio postings ask for it. | 
+degzu6h1fr | Knowledge of the endocannabinoid system. | The endocannabinoid system is a body signalling system that cannabinoids act on. Cannabis industry postings mention it. | 
+xrhig81x22 | Ability to design user interfaces. | User interface design shapes the screens and controls people use. Designer postings ask for it. | 
+qs3txxnnok | Ability to set process priority with the Unix nice command. | nice runs a Unix process with an adjusted scheduling priority. It rarely appears in postings. | 
+mnh4oeocnq | Knowledge of Single In-Line Memory Modules. | SIMMs were memory modules used before DIMMs. They are obsolete. | f:Obsolete.
+lia5vac69b | Holding a bachelor's degree in real estate. | A bachelor's in real estate is an undergraduate degree in property. Real estate postings accept it. | 
+pm9d1jffs9 | Ability to map spatial data with CARTO. | CARTO, formerly CartoDB, is a cloud location intelligence platform. GIS postings mention it. | 
+ub1zd0d7ve | Knowledge of artificial intelligence risk. | AI risk covers harms from AI systems and how to manage them. AI governance postings ask for it. | 
+cbl1f2h14n | Knowledge of EDGE mobile data. | EDGE is a 2.5G GSM data standard. It is largely obsolete. | f:Largely obsolete.
+qynnjedz1c | Ability to teach BODYATTACK classes. | BODYATTACK is a Les Mills high-energy cardio fitness class. Fitness instructor postings mention it. | 
+hovp6719rp | Holding a master's degree in philosophy. | A master's in philosophy is a graduate degree in philosophy. Academic postings mention it. | 
+s3v0meeja8 | Knowledge of Ohm's law. | Ohm's law states that voltage equals current times resistance. Electrical postings ask for it. | 
+l54jfkzunm | Ability to write computer programs. | Programming writes instructions for computers in programming languages. Software postings ask for it. | 
+b9y5chb3t2 | Holding a certificate in welding technology. | A welding technology certificate trains people in welding processes. Welder postings accept it. | 
+ed3v3ccr0e | Ability to program Salesforce with Apex. | Apex is Salesforce's strongly typed language for server-side logic. Salesforce developer postings ask for it. | -v:Apex (Programming Language); v:Apex~in a context about Salesforce
+riykr0t033 | Ability to track progress with burndown charts. | A burndown chart plots remaining work against time in a sprint. Agile postings mention it. | 
+lr0g99v968 | Ability to manage pharmacy operations with Rx30. | Rx30 is pharmacy management software. Pharmacy technician postings mention it. | 

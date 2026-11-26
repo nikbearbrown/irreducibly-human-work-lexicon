@@ -1,0 +1,50 @@
+epler56qiy | Ability to design and machine parts with TopSolid. | TopSolid is integrated CAD/CAM software from Missler. Manufacturing postings in Europe mention it. | 
+moolbswjw7 | Ability to speak Shona. | Shona is a Bantu language of Zimbabwe. Interpreter postings ask for it. | 
+e0mbaqg3fb | Ability to process mass spectrometry data with Thermo Xcalibur. | Xcalibur is Thermo Fisher's software for controlling mass spectrometers and processing data. Analytical lab postings ask for it. | 
+n5hfz8pq8g | Ability to negotiate prices. | Price negotiation reaches agreement on price with buyers or suppliers. Sales and procurement postings ask for it. | 
+ey99gk851b | Ability to test databases with DbUnit. | DbUnit is a JUnit extension for putting databases into known states during tests. Java postings mention it. | 
+lr3xvaxegv | Knowledge of the history of science. | The history of science studies how scientific knowledge developed. Academic syllabi teach it. | 
+mu97mah0vn | Ability to schedule HPC jobs with Slurm. | Slurm is an open-source workload manager for Linux clusters and supercomputers. HPC postings ask for it. | 
+v9j5yhd5v0 | Holding a bachelor's degree in history. | A bachelor's in history is an undergraduate degree in history. Teaching and research postings mention it. | 
+wonwpe2z38 | Ability to program in F#. | F# is a functional-first language on .NET. Fintech postings mention it. | 
+nqcrltvp8l | Holding an Associate of Science in pre-dentistry. | An AS in pre-dentistry covers prerequisites for dental school. | 
+xhr0najg6f | Ability to imagine how something will look after it is moved or changed. | Visualization, an O*NET ability, is imagining how something will look after it is moved around or its parts rearranged. | f:The name reads as an O*NET ability.
+xt7cxxzjcc | Knowledge of FAS 109 accounting for income taxes. | FAS 109, now ASC 740, is the US GAAP standard for accounting for income taxes. Tax accounting postings mention it. | f:Now codified as ASC 740.
+qpaummw5j4 | Ability to perform UV-Vis spectroscopy. | UV-Vis spectroscopy measures light absorbed by a sample in the ultraviolet and visible range. Lab postings ask for it. | -v:UV-Vis; v:UV-Vis~in a context about lab analysis
+ez7dggsvnr | Ability to design graphics in Canva. | Canva is an online graphic design tool. Marketing and social media postings ask for it. | 
+qcaa98rbm1 | Ability to send newsletters with phpList. | phpList is open-source email newsletter software. It rarely appears in postings. | 
+a6uxgvojco | Ability to build interactive HTML5 content with CreateJS. | CreateJS is a suite of JavaScript libraries for canvas, sound and animation. It rarely appears in postings. | 
+h27ahjbfu2 | Ability to report news for digital media. | Digital journalism produces news for websites, social media and multimedia. Journalist postings ask for it. | 
+n2dzi99ark | Knowledge of optical fibre cable. | Optical fibre cable carries data as light through glass fibres. Fibre technician postings ask for it. | 
+y2cn693fo0 | Holding an Associate of Arts in economics. | An AA in economics is a two-year degree in economics, usually for transfer. | 
+m9x4otz7ly | Holding a bachelor's degree in supply chain management. | A bachelor's in supply chain management is an undergraduate degree in logistics and procurement. Supply chain postings ask for it. | 
+sndsbbcz08 | Holding the Registered Art Therapist (ATR) credential. | The ATR, from ATCB, certifies art therapists. Art therapy postings ask for it. | 
+tplre4v89l | Holding a research doctorate in theology. | A PhD in theology is a research doctorate in theology. Seminary postings ask for it. | 
+w2wz06zqsr | Ability to craft a value proposition. | A value proposition states why customers should choose a product. Marketing and sales postings ask for it. | 
+bq1135r6rn | Ability to audit information technology. | IT audit evaluates IT controls, security and compliance. IT auditor postings ask for it. | 
+jbpt5fyziw | Ability to run life cycle assessments with Brightway. | Brightway is an open-source Python framework for life cycle assessment. LCA postings mention it. | 
+ne5dlxqhw0 | Ability to develop Python in Visual Studio with PTVS. | Python Tools for Visual Studio adds Python support to Visual Studio. It rarely appears in postings. | 
+u9lvovjv7p | Ability to solve problems creatively. | Creative problem-solving generates novel solutions to problems. Postings list it. | 
+ra1r1qki9z | Ability to speak a Mayan language. | Mayan languages, such as K'iche' and Yucatec, are spoken in Guatemala and Mexico. Interpreter postings mention them. | 
+w5b7ri6mi9 | Knowledge of the price-to-book ratio. | The P/B ratio compares a stock's price with its book value per share. Investment postings mention it. | 
+ydzwl9wfab | Knowledge of how ingredients function in food. | Ingredient functionality is the role each ingredient plays in a food's structure, flavour or stability. Food science postings ask for it. | 
+zm7sxsrys1 | Ability to collect evidence. | Evidence collection gathers and preserves physical or digital evidence. Police and investigator postings ask for it. | 
+ucwlc4uvb0 | Ability to manipulate PDFs with PDFtk. | PDFtk is a tool for merging, splitting and editing PDFs. It rarely appears in postings. | 
+v4ci156yl4 | Knowledge of historical linguistics. | Historical linguistics studies how languages change over time. Linguistics syllabi teach it. | 
+wkbsvthe6e | Ability to model threats to systems. | Threat modeling identifies potential threats to a system and how to mitigate them, using methods such as STRIDE. Security postings ask for it. | 
+tlkmz0vxje | Ability to build social networks with phpFox. | phpFox is PHP social network software. It rarely appears in postings. | 
+dbflhzs5on | Ability to build data grids with DevExpress XtraGrid. | XtraGrid is the WinForms grid control from DevExpress. .NET postings mention it. | 
+b53t6y9iys | Ability to speak, read and write Catalan. | Catalan is a Romance language of Catalonia, Valencia and Andorra. Postings in Spain mention it. | 
+gm2dej8qg7 | Ability to use computer-assisted audit tools and techniques (CAATs). | CAATs use software such as ACL or IDEA to analyse data in audits. Audit postings ask for it. | 
+drhdme1yln | Knowledge of commons-based peer production. | Commons-based peer production is collaborative creation by volunteers, as in open source and Wikipedia. It appears in academic contexts. | 
+h2cjyjeoa7 | Ability to use a smartphone. | Smartphone operation is using a smartphone's apps and functions. Field and delivery postings mention it. | 
+jf18kbckxa | Holding a bachelor's degree in botany. | A bachelor's in botany is an undergraduate degree in plant biology. Botanist postings ask for it. | 
+hga0f5p08c | Holding a bachelor's degree in paralegal studies. | A bachelor's in paralegal studies prepares paralegals. Paralegal postings mention it. | 
+pkrafh1a5u | Ability to secure cloud apps with a cloud access security broker. | A CASB sits between users and cloud services to enforce security policies. Cloud security postings mention it. | 
+ejc1plwt0s | Ability to speak Samoan. | Samoan is the Polynesian language of Samoa. It rarely appears in postings. | 
+nlw2em4wy6 | Ability to set up continuous passive motion devices. | Continuous passive motion machines move a joint through a range of motion after surgery. Ortho rehab postings mention it. | 
+v5htyvrmt3 | Holding a CDL X endorsement (tanker and hazmat). | The X endorsement combines tanker and hazmat endorsements on a CDL. Fuel driver postings require it. | 
+r0cny7viij | Knowledge of the HP 9845C computer. | The HP 9845C was a 1980 colour technical workstation from Hewlett-Packard. It is obsolete. | f:Obsolete.
+p03ttep6m4 | Holding an Associate of Applied Science in network administration. | This AAS trains network administrators. Network support postings accept it. | 
+jnssutztq4 | Ability to see under low light. | Night vision, an O*NET ability, is seeing under low light conditions. | f:The name reads as an O*NET ability.
+ey47ubziw1 | Ability to design advertisements. | Advertising design creates visual ads for print, digital and outdoor media. Designer postings ask for it. | 

@@ -1,0 +1,50 @@
+ttvro9fv4i | Ability to plan and schedule television programming. | Television programming is selecting and scheduling shows for a TV channel. Broadcast postings ask for it. | h:Broadcast programming
+bazq0t6yjn | Ability to run virtual machines on Nutanix AHV. | AHV is Nutanix's built-in hypervisor. Nutanix postings ask for it. | l:Nutanix
+wopopj6ryd | Holding a nursing license. | Nurse licensure is state or national authorization to practise as an RN or LPN. Nursing postings require it. | 
+ncdmib9pd8 | Knowledge of integrative biology. | Integrative biology studies living systems across levels, from molecules to ecosystems. Academic postings mention it. | h:Biology
+zwm9kkpnld | Ability to integrate with the Box API. | The Box API lets developers build on Box cloud content management. Integration postings mention it. | h:Application programming interface
+s71g30vi1m | Ability to install and program Crestron AV and control systems. | Crestron makes audio-visual control and automation systems. AV technician postings ask for it. | 
+d585rvfjpc | Ability to design for many devices and screen sizes. | Multi-device design creates experiences that work across phones, tablets, desktops and more. UX postings mention it. | 
+g6mzlifyu3 | Ability to manage proposal development for bids. | Proposal management runs the process of producing proposals, from planning to submission. Proposal manager postings ask for it. | 
+gzok01cjvc | Ability to process big data with Amazon EMR. | Amazon EMR is a managed AWS service for Spark and Hadoop. Data engineer postings mention it. | l:Amazon Web Services
+old72z3wmi | Ability to collect and process LiDAR data. | LiDAR measures distances with laser pulses to build 3D point clouds. GIS and autonomous vehicle postings ask for it. | 
+ii7p9pls1r | Holding a Master of Health Administration (MHA). | The MHA is a graduate degree in healthcare management. Healthcare administrator postings ask for it. | 
+hl9jtiahtk | Knowledge of financial privacy rules. | Financial privacy is protecting personal financial information under laws such as GLBA. Bank compliance postings mention it. | 
+zh8dyj880g | Knowledge of the IBM POWER10 processor platform. | POWER10 is a 2021 IBM server processor generation for Power Systems. IBM Power postings mention it. | 
+qfv4bypfec | Ability to operate sluice gates. | A sluice gate controls water flow in channels and dams. Water operations postings mention it. | -v:Sluce Gates
+uclexd8uv3 | Ability to validate data for accuracy and quality. | Data validation checks data against rules to ensure it is correct and complete. Data postings ask for it. | -v:data quality
+q7mat9lcyk | Holding a bachelor's degree in statistics. | A bachelor's in statistics is an undergraduate degree in statistical methods. Analyst postings mention it. | 
+jzs8fwczf4 | Holding a master's degree in computer science. | A master's in computer science is a graduate degree in computing. Software and ML postings ask for it. | c:Computer science
+xf20rnp68i | Ability to build data flows with Apache NiFi. | Apache NiFi automates data flows between systems with a visual interface. Data engineer postings mention it. | 
+myhiuqbm2q | Ability to notice others' reactions and understand why. | Social perceptiveness, an O*NET skill, is being aware of others' reactions and understanding why they react as they do. | f:The name reads as an O*NET skill.
+b30v30rgue | Ability to speak Igbo. | Igbo is a major language of southeastern Nigeria. Interpreter postings ask for it. | 
+uaod3n95k8 | Ability to manage receivables with FIS GetPaid. | GetPaid is FIS's accounts receivable and collections software. AR postings mention it. | 
+upytq9e2xt | Ability to install and maintain solar panels. | A solar panel converts sunlight into electricity. Solar installer postings ask for it. | 
+yb2gcevjk0 | Ability to speak Oshiwambo. | Oshiwambo is a Bantu language of Namibia and Angola. It rarely appears in postings. | 
+op8cesvddr | Ability to teach through distance learning. | Distance learning delivers education remotely, mostly online. Teacher and instructional design postings mention it. | x:Blended learning~Mixes online and face-to-face
+bz134aih1f | Ability to build Java EE apps with IBM Rational Application Developer. | RAD is IBM's Eclipse-based IDE for WebSphere development. Older Java postings mention it. | 
+ramrv3b9a1 | Knowledge of imaging informatics. | Imaging informatics manages medical images through PACS and related systems. Radiology IT postings ask for it. | h:Biomedical informatics
+pcy2k2al3q | Ability to visualize data with SAP Lumira. | SAP Lumira is SAP's data visualization tool, being replaced by SAP Analytics Cloud. SAP BI postings mention it. | 
+kqtkcsq5fq | Knowledge of smart building technology. | Smart buildings use sensors and automation to manage energy, comfort and security. Facilities tech postings mention it. | 
+pfp23xemlu | Ability to characterize proteins. | Protein characterization determines a protein's structure, mass, purity and properties with methods such as mass spectrometry. Biotech postings ask for it. | 
+fk27qfidaf | Holding a research doctorate in history. | A PhD in history is a research doctorate in history. Academic postings ask for it. | 
+tmqozvht84 | Ability to design civil engineering works. | Civil engineering design produces plans for roads, drainage, sites and structures. Civil engineer postings ask for it. | 
+dwu4oonl43 | Ability to use presentation software such as PowerPoint. | Presentation software creates slide shows. Office postings ask for it. | 
+ny9pqbap0c | Holding a research doctorate in oceanography. | A PhD in oceanography is a research doctorate in the oceans. Research postings ask for it. | 
+lp6lvi24n9 | Holding an Associate of Science in electrical engineering technology. | This degree trains technicians in circuits and electrical systems. Technician postings accept it. | 
+h6mztjfv7b | Ability to forecast cash and liquidity. | Liquidity forecasting predicts cash positions to manage funding needs. Treasury postings ask for it. | h:Financial forecasting | -v:Liquidity Forecastings
+o1ffghl5pu | Knowledge of AvantGo mobile content service. | AvantGo synced web content to PDAs; it shut down in 2009. | f:Discontinued.
+cd5nqyg3vq | Ability to build landing pages with Unbounce. | Unbounce is a landing page builder for marketers. Digital marketing postings mention it. | 
+aulk2avg4s | Ability to build neural networks with Chainer. | Chainer was a Python deep learning framework; development ended in 2019. | f:No longer developed.
+u1ju3kcd2b | Ability to send email from PHP with PHPMailer. | PHPMailer is a PHP library for sending email. PHP postings mention it. | u:PHP
+jl97auewv4 | Holding a research doctorate in marketing. | A PhD in marketing is a research doctorate in marketing. Business school postings ask for it. | 
+b2h7n09yjc | Ability to program CNC machines. | CNC programming writes G-code to control machine tools. Machinist postings ask for it. | 
+ypvc3ra1n1 | Holding an FAA Part 107 remote pilot certificate. | The Remote Pilot Certificate lets people fly drones commercially in the US. Drone operator postings require it. | 
+angs2qsya4 | Knowledge of the PKCS cryptography standards. | Public-Key Cryptography Standards are RSA-originated standards for keys, certificates and signatures. Security postings mention them. | 
+fmr7msrro2 | Knowledge of fluid statics. | Fluid statics studies fluids at rest and the pressures they exert. Engineering syllabi teach it. | 
+z5bkl6uo0o | Ability to build applications on OutSystems. | OutSystems is a low-code application platform. Low-code developer postings ask for it. | 
+bzumolh62w | Ability to design APIs. | API design is defining an API's endpoints, data and behaviour so it is usable and consistent. Developer postings ask for it. | 
+canygbhhr1 | Ability to market on Instagram. | Instagram marketing builds audiences and promotes brands on Instagram. Social media postings ask for it. | h:E-marketing
+isdz1w83kv | Ability to program reactively with ReactiveX. | ReactiveX is a library family for asynchronous programming with observable streams, such as RxJS. Developer postings mention it. | 
+mn8o7lhdzz | Ability to use Microsoft Lync. | Lync was Microsoft's unified communications software, replaced by Skype for Business and Teams. | f:Obsolete.
+un0apigqro | Ability to speak Tatar. | Tatar is a Turkic language of Tatarstan in Russia. It rarely appears in postings. | 

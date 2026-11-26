@@ -1,0 +1,50 @@
+sbmj2blmdn | Ability to design and run ecological studies. | An ecological study investigates organisms and environments, or in epidemiology compares groups rather than individuals. Research postings mention it. | 
+gth0gnbc2w | Holding an Associate of Science in business administration. | An AS in business administration is a two-year business degree, often for transfer. Entry-level business postings accept it. | 
+i4lihri92l | Holding the Certified Nursing Assistant (CNA) credential. | A CNA is state-certified to provide basic patient care under nurse supervision. Nursing assistant postings require it. | v:CNA~in a context about nursing care
+xblbioz2d4 | Knowledge of DO-178C airborne software certification. | DO-178C is the standard for certifying software in airborne systems. Avionics software postings ask for it. | 
+wjak25gbgm | Holding an Associate of Applied Science in automotive technology. | This AAS trains automotive technicians. Auto tech postings accept it. | 
+euml8cdzrt | Ability to unit test JavaScript with JsUnit. | JsUnit was an early JavaScript unit testing framework; it is obsolete. | f:Obsolete.
+ty7glckkcx | Ability to program in PostScript. | PostScript is Adobe's page description language for printing. Print and prepress postings mention it. | 
+q04p0u98h5 | Knowledge of durable medical equipment. | Durable medical equipment is reusable equipment for home use, such as wheelchairs and hospital beds. DME postings ask for it. | 
+ec0588lyxr | Ability to speak, read and write Slovak. | Slovak is a West Slavic language, official in Slovakia. Translation postings ask for it. | 
+eb0wn0y0au | Ability to label food allergens correctly. | Allergen labelling declares allergens in food products to meet law. Food safety postings ask for it. | 
+fmubw9zumk | Holding a master's degree in international relations. | A master's in international relations is a graduate degree in global politics. Policy and diplomacy postings mention it. | 
+hhvk7sb8r1 | Ability to speak, read and write Turkish. | Turkish is the official language of Turkey. Translation postings ask for it. | 
+y45smq6bl7 | Knowledge of the applied element method in structural analysis. | The applied element method models structures as elements connected by springs to simulate collapse. It rarely appears in postings. | 
+f1mc7yrkqz | Ability to build SAP Fiori apps. | SAP Fiori is SAP's design system and UX framework for business apps. SAP UI postings ask for it. | 
+nqkeo7tz7t | Holding the Kenya Certificate of Primary Education (KCPE). | The KCPE was the national exam at the end of primary school in Kenya, phased out from 2023. | x:Kenya Certificate of Secondary Education~The secondary exam
+hhk74p22v4 | Holding an Associate of Science in biomedical equipment technology. | This degree trains technicians who maintain medical equipment. Biomed tech postings accept it. | 
+f4r9a2sogw | Ability to develop marketing strategy. | Marketing strategy sets target markets, positioning and mix to reach business goals. Marketing postings ask for it. | 
+kf00e1n2od | Ability to manage sustainable investments. | Sustainable investment management integrates ESG factors into portfolios. Asset management postings ask for it. | 
+jkb7vkaplr | Holding the NI Certified LabVIEW Developer (CLD) credential. | The CLD certifies LabVIEW developers. Test engineering postings list it. | c:LabVIEW
+ffp4uu3fn4 | Knowledge of Windows 7. | Windows 7 was Microsoft's operating system from 2009; support ended in 2020. | f:Obsolete.
+ibcb5hcegy | Ability to value options. | Option valuation prices options with models such as Black-Scholes. Quant and derivatives postings ask for it. | 
+ubxuka0jkc | Ability to automate workflows with Power Automate. | Power Automate, formerly Microsoft Flow, automates workflows across apps. Microsoft 365 postings ask for it. | 
+gg2k98nhyp | Holding an associate degree in nursing (ADN). | The ADN is a two-year degree qualifying people to sit the NCLEX-RN. RN postings accept it. | 
+eqipy1gqix | Holding DoD IAT Level I certification. | IAT Level I is the entry tier of DoD 8570 information assurance technical certification, met with credentials such as A+. DoD postings ask for it. | 
+zxk5s65tvb | Ability to reverse-engineer binaries with Radare2. | Radare2 is an open-source reverse engineering framework. Malware analysis postings mention it. | 
+mvrzxgwe6c | Ability to build reports in SAP Crystal Reports. | Crystal Reports is a report designer, now owned by SAP. Report developer postings ask for it. | 
+mmk671rf9a | Ability to build with RavenDB. | RavenDB is a NoSQL document database for .NET. It rarely appears in postings. | 
+bfd8vmdbfl | Knowledge of athletic training. | Athletic training prevents, assesses and treats sports injuries. Athletic trainer postings ask for it. | 
+e7mr0f9vmv | Ability to draw rack elevation diagrams. | Rack elevation drawings show equipment placement in server racks. Data centre postings ask for it. | 
+n9pcxl6m5e | Knowledge of the Traffic Collision Avoidance System (TCAS). | TCAS warns pilots of other aircraft at risk of collision. Avionics postings mention it. | -v:Traffic Collusion Avoidance System
+ca87twse7q | Knowledge of Aldus PhotoStyler. | PhotoStyler was an early 1990s image editor; it is obsolete. | f:Obsolete.
+g9mmd5pvdg | Ability to configure IFS Applications ERP. | IFS Applications is an ERP for asset-intensive industries. ERP postings mention it. | 
+q60ouku66r | Ability to build SOAP web services with JAX-WS. | JAX-WS is the Java API for SOAP web services. Java postings mention it. | 
+lmnl567ljy | Ability to compose film scores. | Film scoring is composing music for films. Composer postings ask for it. | 
+dnotu067mk | Holding a master's degree in occupational therapy. | A master's in occupational therapy is the graduate degree for OT practice. OT postings ask for it. | 
+vrm9lzl1br | Ability to commission, qualify and validate equipment and facilities. | CQV verifies that pharmaceutical equipment and systems work as intended and meet GMP. Pharma engineering postings ask for it. | 
+b1l7kynpa0 | Holding an Associate of Science in forestry. | An AS in forestry trains forest technicians. | 
+uhkr2lfe2y | Holding a research doctorate in computer science. | A PhD in computer science is a research doctorate in computing. Research and ML postings ask for it. | c:Computer science
+i8zvokf7v3 | Holding an Associate of Applied Science in criminal justice. | This AAS covers policing, courts and corrections. Law enforcement postings accept it. | 
+jnut7g5uci | Ability to follow email etiquette. | Email etiquette is writing professional, clear and courteous emails. Office postings ask for it. | 
+xme4tqyrgi | Knowledge of artificial intelligence. | Artificial intelligence is building systems that perform tasks needing human intelligence. Many tech postings ask for it. | v:AI~in a context about technology
+m0nxw9pywy | Ability to write Gherkin scenarios for BDD. | Gherkin is the plain-language syntax for Cucumber test scenarios. QA postings mention it. | 
+eoyz2rkeok | Ability to use HubSpot CRM. | HubSpot CRM manages contacts, deals and pipelines. Sales and marketing postings ask for it. | 
+l6wcns768h | Ability to evaluate programs' effectiveness. | Program evaluation assesses whether social or organizational programs meet goals. Nonprofit and public sector postings ask for it. | x:Program optimization~Making code faster
+sh7axh4ck4 | Knowledge of market depth. | Market depth is the volume of buy and sell orders at different prices. Trading postings mention it. | 
+dln07ri3cd | Knowledge of ISO/IEC 27001 information security management. | ISO/IEC 27001 sets requirements for information security management systems. Security compliance postings ask for it. | 
+megl3qks4r | Knowledge of virtual reality. | Virtual reality immerses users in computer-generated environments with headsets. XR postings ask for it. | 
+ai24nnymts | Holding the IAPP Certified Information Privacy Professional (CIPP). | The CIPP certifies knowledge of privacy laws, with regional versions such as CIPP/US and CIPP/E. Privacy postings ask for it. | 
+e41wx7aie8 | Ability to create content for Instagram. | Instagram content creation produces posts, reels and stories. Social media postings ask for it. | 
+ifirs2vzts | Holding the CompTIA Linux Network Professional (CLNP) stackable certification. | The CLNP is a CompTIA stackable certification for A+, Network+ and Linux+. | 

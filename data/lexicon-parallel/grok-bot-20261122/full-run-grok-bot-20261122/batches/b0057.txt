@@ -1,0 +1,50 @@
+fn33kjvbkv | Ability to speak, read and write Vietnamese. | Vietnamese is the official language of Vietnam. Interpreter postings ask for it. | 
+gnt8om7kos | Holding a master's degree in criminal justice. | A master's in criminal justice is a graduate degree in criminology and justice administration. Law enforcement leadership postings mention it. | 
+xs0jjgnsp0 | Holding the CompTIA Healthcare IT Technician certification. | CompTIA Healthcare IT Technician certified IT support in healthcare; it is retired. | f:Retired.
+tm4ow78j6a | Ability to manage IT assets and helpdesk with GLPI. | GLPI is open-source IT asset management and service desk software. IT support postings mention it. | 
+obustt87w8 | Ability to build LLM applications with LangChain. | LangChain is a framework for building applications with large language models. AI engineer postings ask for it. | 
+e4f7w0tm86 | Holding a research doctorate in mathematics. | A PhD in mathematics is a research doctorate in maths. Research and quant postings ask for it. | 
+s0m2unt396 | Holding an American Welding Society certification. | AWS certifications certify welders, inspectors and educators. Welder postings ask for them. | 
+vz3nkb9mr7 | Ability to set product strategy. | Product strategy defines a product's vision, target market and roadmap. Product manager postings ask for it. | 
+os4bq6o3n0 | Ability to speak Garifuna. | Garifuna is an Arawakan language of Central America's Caribbean coast. It rarely appears in postings. | 
+rlo4qdba3o | Holding the Association Management Specialist (AMS) credential. | The AMS, from CAI, certifies community association managers. HOA management postings list it. | -v:AMS; v:AMS~in a context about community associations
+ub72sjad03 | Holding a bachelor's degree in biomedical engineering. | A bachelor's in biomedical engineering is an undergraduate degree in engineering for medicine. Medtech postings ask for it. | 
+hth5eczuzx | Ability to speak, read and write Gujarati. | Gujarati is an Indo-Aryan language of Gujarat, India. Interpreter postings ask for it. | 
+iv91vx1c9i | Ability to schedule appointments with Microsoft Bookings. | Microsoft Bookings is a scheduling app in Microsoft 365. It rarely appears in postings. | 
+p6gm3mn1nm | Holding DoD IAT Level III certification. | IAT Level III is the top DoD 8570 technical tier, met with credentials such as CISSP or CASP+. Defence cyber postings ask for it. | 
+c4p6jfgpuw | Knowledge of ISO 31000 risk management. | ISO 31000 gives principles and guidelines for risk management. Risk postings mention it. | 
+j0bdoceeet | Ability to program PLCs in ladder logic. | Ladder logic is a graphical PLC language modelled on relay circuits. Controls and maintenance postings ask for it. | 
+sfte4xs6zx | Knowledge of mixed reality. | Mixed reality blends real and virtual worlds so they interact. XR postings mention it. | h:Extended reality
+znkj1vnxbh | Ability to design data centres. | Data centre design plans space, power, cooling and network for data centres. Data centre engineering postings ask for it. | 
+r9mdk24kix | Ability to detect intrusions with Snort. | Snort is an open-source network intrusion detection and prevention system. Security postings mention it. | h:Network intrusion detection system
+kqjbnw5tmx | Knowledge of ICH guidelines for pharmaceuticals. | The ICH guidelines harmonize technical requirements for drug registration, such as ICH E6 GCP. Pharma postings ask for it. | 
+mo4nl9t5c8 | Ability to run TCID50 assays. | TCID50 measures the virus dose that infects half of inoculated cell cultures. Virology lab postings ask for it. | 
+tlgs5hgvnv | Ability to build linked charts with dc.js. | dc.js is a JavaScript charting library on D3 and crossfilter. It rarely appears in postings. | 
+zceu8ud0dw | Ability to program in Haskell. | Haskell is a purely functional programming language. Some fintech postings ask for it. | 
+chya8hfm4m | Ability to create character art for games and animation. | Character art designs and models characters. Game artist postings ask for it. | 
+bd1njmfufc | Ability to detail steel or concrete structures. | Structural detailing produces shop drawings of connections and reinforcement. Detailer postings ask for it. | 
+aa2ix4mtc5 | Ability to use and read nonverbal communication. | Nonverbal communication conveys meaning through body language, gestures and tone. Postings mention it. | h:Communication
+ha2spavc0j | Holding a master's degree in nutrition. | A master's in nutrition is a graduate degree in nutrition science. Dietitian postings mention it. | 
+m4rbaj4f3l | Ability to process invoices. | Invoice processing receives, checks and approves supplier invoices for payment. AP postings ask for it. | 
+xb17x3c064 | Knowledge of data as a service (DaaS). | DaaS supplies data on demand over the cloud. Data product postings mention it. | -v:Data As A Services
+pccbu7ba7t | Knowledge of the energy system transition. | The energy transition is the shift from fossil fuels to low-carbon energy. Energy policy postings ask for it. | 
+cv4j2iod8j | Holding the IIBA Agile Analysis Certification (AAC). | The IIBA-AAC certifies business analysis in agile settings. BA postings list it. | 
+glrrnzyzf0 | Knowledge of process states in operating systems. | A process state, such as ready, running or waiting, describes where a process is in its lifecycle. OS syllabi teach it. | 
+aongc0kf7s | Holding a bachelor's degree in physics. | A bachelor's in physics is an undergraduate degree in physics. Engineering and research postings mention it. | c:Physics
+f7slcl9ko2 | Holding the CompTIA RFID+ certification. | CompTIA RFID+ certified RFID technology skills; it is retired. | f:Retired.
+llqj4t94kq | Holding the Board Certified Specialist in Sports Dietetics (CSSD) credential. | The CSSD certifies dietitians in sports nutrition. Sports dietitian postings ask for it. | 
+cmy3vieixv | Holding the Registered Vascular Technologist (RVT) credential. | The RVT, from ARDMS, certifies vascular sonographers. Vascular postings ask for it. | x:Registered Vascular Specialist~The CCI equivalent
+u62u9fv0kf | Holding a bachelor's degree in dietetics. | A bachelor's in dietetics is the undergraduate path to becoming a registered dietitian. | 
+j90d6ehqd2 | Ability to teach others how to do something. | Instructing, an O*NET skill, is teaching others how to do something. | f:The name reads as an O*NET skill.
+s2nhx2485d | Knowledge of captive insurance. | A captive is an insurance company owned by the businesses it insures. Risk management postings mention it. | 
+cjla0mq4dy | Ability to build software delivery pipelines. | A delivery pipeline automates build, test and deployment of software. DevOps postings ask for it. | 
+d8xh9h0m0q | Knowledge of immunohaematology (blood banking). | Immunohaematology studies blood group antigens and antibodies for transfusion. Blood bank postings ask for it. | 
+wyv73jg7hy | Holding a research doctorate in transportation engineering. | A PhD in transportation engineering is a research doctorate in transport systems. Research postings mention it. | 
+c7ryr6hcu4 | Holding the CompTIA Cloud Admin Professional (CCAP) stackable certification. | The CCAP is a CompTIA stackable certification for Network+, Server+ and Cloud+. | 
+i9o9dtfo9o | Ability to pig pipelines. | Pipeline pigging sends devices through pipelines to clean or inspect them. Pipeline postings ask for it. | 
+ohfad0qp5g | Holding a bachelor's degree in marketing. | A bachelor's in marketing is an undergraduate degree in marketing. Marketing postings ask for it. | 
+hcml31qh2e | Knowledge of HP Brio. | HP Brio was a line of business PCs from the late 1990s; Brio is also an old BI tool. It is obsolete. | f:Obsolete; name also refers to Hyperion Brio.
+e1dkt16x3c | Holding a master's degree in animation. | A master's in animation, often an MFA, is a graduate degree in animation. | 
+ue7w7t34rk | Ability to evaluate system performance and improve it. | Systems evaluation, an O*NET skill, is identifying measures of system performance and actions to improve it. | f:The name reads as an O*NET skill.
+rjc04xak59 | Ability to build cross-platform apps with Flutter. | Flutter is Google's UI toolkit for building mobile, web and desktop apps from one Dart codebase. Mobile postings ask for it. | 
+zcduq1duac | Ability to build stairs and railings. | Stair and railing construction is building staircases, handrails and balustrades. Carpentry postings ask for it. | 

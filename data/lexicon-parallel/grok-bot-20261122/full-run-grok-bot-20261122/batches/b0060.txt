@@ -1,0 +1,50 @@
+p3l67rnpg6 | Holding a master's degree in English literature. | A master's in English literature is a graduate degree in literary study. Teaching and editing postings mention it. | 
+p8yurf9ldc | Holding an Associate of Science in oceanography. | An AS in oceanography is a two-year degree in marine science. | 
+vthu2az0u2 | Ability to convert and edit PDFs with Nuance PDF Converter. | Nuance PDF Converter, later Kofax Power PDF, edits and converts PDFs. It rarely appears in postings. | 
+j39p08vk9c | Knowledge of the healthcare industry. | Healthcare industry knowledge covers how providers, payers, regulation and reimbursement work. Healthcare business postings ask for it. | 
+btqj1jnr2i | Knowledge of the User Datagram Protocol (UDP). | UDP is a connectionless transport protocol in the internet protocol suite. Network postings ask for it. | l:Internet protocol suite
+b8k8bf3qsh | Knowledge of the quantum spin Hall effect. | The quantum spin Hall effect is a topological state with spin-polarized edge currents. Condensed matter research covers it. | 
+fbgyvaz7qh | Knowledge of the scholarship of teaching and learning (SoTL). | SoTL is systematic research on teaching and learning in higher education. Faculty postings mention it. | 
+rhyvc2dx5j | Holding a research doctorate in graphic design. | A PhD in graphic design is a research doctorate in design. It rarely appears in postings. | 
+qctpsyleu1 | Holding a master's degree in physician assistant studies. | The MPAS is the graduate degree for physician assistants. PA postings require it. | 
+vhubh493xq | Holding a research doctorate in art history. | A PhD in art history is a research doctorate in art history. Museum and academic postings ask for it. | 
+op724n54tf | Holding certified first responder status (Emergency Medical Responder). | A certified first responder, now Emergency Medical Responder, gives initial emergency care. Security and fire postings ask for it. | 
+d6c47g3ckz | Ability to audit records, processes or systems. | Auditing examines records and processes for accuracy and compliance. Audit postings ask for it. | 
+l2t1b5hgd3 | Ability to perform medical office tasks. | Medical office skills include scheduling, records, billing and reception in healthcare settings. Medical receptionist postings ask for it. | 
+pis2iav0c2 | Knowledge of electronic paper displays. | Electronic paper displays mimic ink on paper, as in e-readers. Display tech postings mention it. | 
+ul3so26weo | Holding the CompTIA Network+ certification. | CompTIA Network+ certifies foundational networking skills. Network support postings ask for it. | c:Computer networking
+ujd32t22iy | Ability to manage MongoDB with MongoVUE. | MongoVUE was a Windows GUI for MongoDB; it is obsolete. | f:Obsolete.
+uqnp4t4487 | Holding Advanced Cardiovascular Life Support (ACLS) certification. | ACLS, from the American Heart Association, trains providers in managing cardiac arrest. Nursing and EMS postings require it. | x:Advanced Trauma Life Support~Trauma care
+fdc0mivhcr | Knowledge of dynamic-link libraries (DLLs). | A DLL is a Windows shared library loaded at runtime. Windows developer postings mention it. | 
+uwig2wvz61 | Holding the Certified Professional Medical Services Management (CPMSM) credential. | The CPMSM, from NAMSS, certifies medical staff services managers. Credentialing postings list it. | 
+gjufx8c460 | Ability to build data grids with jsGrid. | jsGrid is a jQuery data grid plugin. It rarely appears in postings. | 
+rv0h309eu3 | Knowledge of psychology. | Psychology is the study of mind and behaviour. Counselling and HR postings ask for it. | 
+q8azue8nbj | Ability to use a police baton. | A police baton is an impact weapon for law enforcement. Security and police postings mention it. | 
+duizwpkp0n | Knowledge of net zero emissions. | Net zero means balancing greenhouse gas emissions with removals. Sustainability postings ask for it. | 
+k1b1yxzsfu | Holding a research doctorate in theatre. | A PhD in theatre is a research doctorate in theatre studies. Academic postings mention it. | 
+s792o40vi8 | Ability to design LEGO models with LEGO Digital Designer. | LEGO Digital Designer was LEGO's free modelling software, discontinued in 2016. | f:Discontinued.
+f9an7y5w6v | Ability to build data grids with AG Grid. | AG Grid is a JavaScript data grid for enterprise apps. Front-end postings mention it. | 
+zagj8o68ku | Holding a diploma in HVAC repair. | An HVAC diploma trains technicians to install and repair heating and cooling. HVAC postings accept it. | 
+s95iijd8h1 | Holding AOBNM board certification in nuclear medicine. | The American Osteopathic Board of Nuclear Medicine certifies osteopathic physicians in nuclear medicine. | 
+dwli80bqlh | Ability to manage IT systems. | Systems management administers IT systems, including monitoring, patching and configuration. IT postings ask for it. | 
+wv0l8usdcx | Knowledge of principles of moving people or goods by air, rail, sea or road. | Transportation, an O*NET knowledge area, covers moving people or goods by air, rail, sea or road, including costs and benefits. | f:The name reads as an O*NET knowledge area.
+j209yv97kq | Ability to use predictive analytics software. | Predictive analytics software builds models that forecast outcomes, such as SAS or SPSS Modeler. Analytics postings mention it. | 
+omo5ickcgd | Ability to discover IT assets with ServiceNow Discovery. | ServiceNow Discovery finds devices and applications and populates the CMDB. ITOM postings ask for it. | 
+e8vb2pds5k | Holding registration in the Nationwide Multistate Licensing System (NMLS). | The NMLS licenses and registers US mortgage loan originators. Loan officer postings require it. | 
+t58vxk6kj9 | Holding an Associate of Arts in communication studies. | An AA in communication studies is a two-year degree in communication. | 
+m9enm9l66f | Knowledge of family and consumer sciences. | Family and consumer sciences, formerly home economics, covers nutrition, family life and consumer issues. FCS teacher postings ask for it. | 
+ao1t61ccgp | Knowledge of clinical medical ethics. | Clinical ethics addresses ethical issues in patient care, such as consent and end-of-life decisions. Ethics consultant postings mention it. | 
+z56mohhtsh | Knowledge of IBM eServer systems. | IBM eServer was IBM's early-2000s brand for its server lines. It is obsolete. | f:Obsolete brand.
+wbm3a667jj | Ability to troubleshoot copiers. | Copier troubleshooting diagnoses and fixes copier faults. Office equipment technician postings ask for it. | 
+xiiyhhzd8l | Ability to program in SAP ABAP. | ABAP is SAP's programming language. SAP developer postings ask for it. | 
+ujglp3rfir | Knowledge of the order of draw for blood collection tubes. | The order of draw is the sequence for filling blood tubes to avoid additive contamination. Phlebotomist postings ask for it. | 
+v6qh0hzk61 | Ability to perform first article inspection. | First article inspection verifies that the first part produced meets all specifications. Quality inspector postings ask for it. | 
+ys7x7wgt47 | Ability to test safety-critical code with LDRA Testbed. | LDRA Testbed is a static and dynamic analysis tool for safety-critical software. Avionics postings mention it. | 
+hpg7t7u5sv | Holding a Microsoft Azure certification. | Azure certifications validate skills with Microsoft Azure, such as AZ-104. Cloud postings ask for them. | 
+m471yigg5j | Knowledge of rubber-tyred metro systems. | A rubber-tyred metro runs on rubber tyres on concrete tracks, as on parts of the Paris Métro. It rarely appears in postings. | 
+hdbcz2nnh2 | Having digital skills. | Digital skills are abilities to use digital devices, software and the internet. Postings list them. | 
+zs4ghz3n1b | Ability to replicate and recover workloads with Zerto. | Zerto is disaster recovery and replication software, now from HPE. DR postings mention it. | 
+pe8909xapl | Ability to run local dev environments with Lando. | Lando is a Docker-based local development tool. It rarely appears in postings. | 
+i551tg0cu0 | Ability to map Java objects with Apache OJB. | Apache ObJectRelationalBridge was a Java ORM; it is retired. | f:Retired.
+cicx2jr1by | Knowledge of nanobiotechnology. | Nanobiotechnology applies nanotechnology to biology and medicine. Research postings mention it. | 
+g2b0hvsib5 | Ability to make HTTP requests with cURL. | cURL is a command-line tool and library for transferring data with URLs. Developer postings mention it. | 

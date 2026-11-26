@@ -1,0 +1,50 @@
+gi6gdo3gfz | Ability to treat dizziness and balance problems with vestibular rehabilitation. | Vestibular rehabilitation is exercise-based therapy for vertigo and balance disorders. PT postings ask for it. | h:Rehabilitation
+qe4tw2wo1m | Knowledge of principles of personnel recruitment, training and HR. | Personnel and human resources, an O*NET knowledge area, covers recruitment, selection, training, compensation, labour relations and HR systems. | f:The name reads as an O*NET knowledge area.
+gcx7x5tes5 | Ability to program in LiveScript. | LiveScript is a functional language that compiles to JavaScript; LiveScript was also the original name of JavaScript. It rarely appears in postings. | 
+eflhvck49r | Knowledge of the Windows Vista startup process. | The Vista startup process covers Windows Boot Manager, winload and system initialization. It is obsolete. | f:Obsolete.
+v313jsqx2s | Ability to market on Facebook. | Facebook marketing builds audiences and promotes brands on Facebook. Social media postings ask for it. | 
+w31i5y3smj | Holding an Associate of Arts in foreign languages. | An AA in foreign languages is a two-year degree in language study. | 
+aqlslm65ei | Holding a master's degree in ecology. | A master's in ecology is a graduate degree in ecosystems and organisms. Environmental postings mention it. | 
+cwe2s6tnyg | Ability to provide neonatal intensive care nursing. | NICU nursing cares for critically ill or premature newborns. NICU postings ask for it. | x:Low risk neonatal nursing~Healthy newborns
+hsnty44bl4 | Holding the AWS Senior Certified Welding Inspector (SCWI) credential. | The SCWI, from the American Welding Society, certifies senior welding inspectors. Welding QA postings list it. | 
+n3e2gcdwp6 | Ability to analyse data with pandas. | pandas is a Python library for data manipulation with DataFrames. Data postings ask for it. | 
+auq98ca7fv | Knowledge of JAFAN Japanese aerospace counterfeit-avoidance standards. | JAFAN is a Japanese aerospace standards body; the term appears rarely. | f:Unclear concept; rarely seen.
+rrtvbs8pet | Holding Adult Acute Care Nurse Practitioner certification. | ACNP certification for adult acute care was retired in favour of adult-gerontology acute care certification. | f:Retired; replaced by AG-ACNP.
+n5ox69ek44 | Ability to compute with NumPy. | NumPy is the core Python library for numerical arrays. Data science postings ask for it. | 
+cxpxcuw3gh | Ability to plan with Anaplan. | Anaplan is cloud software for planning and performance management. FP&A postings ask for it. | 
+vousuoqkg0 | Ability to style web pages with Bulma. | Bulma is a CSS framework based on Flexbox. It rarely appears in postings. | 
+w1aq63na2m | Ability to observe every layer of an application stack. | Full-stack observability monitors apps, infrastructure and user experience together. SRE postings mention it. | h:Observability
+rd3adykyyr | Ability to secure enterprise networks. | Enterprise network security protects corporate networks with firewalls, segmentation and monitoring. Security postings ask for it. | h:Cybersecurity
+qgyuathae3 | Ability to speak Pashto. | Pashto is spoken in Afghanistan and Pakistan. Interpreter and defence postings ask for it. | 
+olpo2hovmd | Holding the CompTIA Secure Infrastructure Specialist (CSIS) stackable certification. | The CSIS is a CompTIA stackable certification for A+, Network+ and Security+. | 
+cepsdwz3fu | Ability to burn discs with Ashampoo Burning Studio. | Ashampoo Burning Studio is consumer disc burning software. It rarely appears in postings. | 
+ebn7tz5prh | Holding a research doctorate in machine learning. | A PhD in machine learning is a research doctorate in ML. Research scientist postings ask for it. | c:Machine learning
+j6lsmpnya0 | Ability to erect scaffolding. | Scaffold building is assembling temporary platforms for construction work. Scaffolder postings ask for it. | 
+joezeqt05u | Ability to practise Shaolin kung fu. | Shaolin kung fu is a Chinese martial art from the Shaolin Temple. Martial arts instructor postings mention it. | 
+p0rsziuazr | Ability to fillet fish and meat. | Filleting cuts boneless pieces from fish or meat. Fishmonger and kitchen postings ask for it. | 
+w9vogijhb2 | Ability to speak isiXhosa. | Xhosa is a Bantu language of South Africa. South African postings mention it. | 
+s7rg5fey2w | Ability to speak Dhivehi. | Dhivehi is the official language of the Maldives. It rarely appears in postings. | 
+jqn7upjsc9 | Knowledge of TL 9000 telecom quality standards. | TL 9000 is a quality management standard for the telecom industry, built on ISO 9001. Telecom quality postings mention it. | 
+ukqrg5uzw6 | Holding a research doctorate in forensic science. | A PhD in forensic science is a research doctorate in forensic analysis. It rarely appears in postings. | 
+zvd4xk1u3p | Ability to search with Boolean operators. | Boolean search combines keywords with AND, OR and NOT. Recruiter and research postings ask for it. | x:Vector search~Semantic similarity search
+q4l7hbe7yl | Holding a master's degree in advertising. | A master's in advertising is a graduate degree in advertising strategy and creative. Agency postings mention it. | 
+yikd65o35c | Knowledge of Intel Socket 5. | Socket 5 was a 1990s CPU socket for Intel Pentium processors. It is obsolete. | f:Obsolete.
+rgmb82njzm | Ability to develop applications on .NET. | .NET development is building software with Microsoft's .NET platform, usually in C#. Developer postings ask for it. | 
+e7w5wq1r3n | Knowledge of multi-touch interfaces. | Multi-touch lets a surface recognize several touch points at once, enabling gestures. Mobile UI postings mention it. | 
+ot4pymzomt | Ability to teach social-emotional learning. | SEL teaches skills such as self-awareness, empathy and relationship building. Teacher and counsellor postings ask for it. | 
+z3b015y6sl | Ability to organize work in Notion. | Notion is an all-in-one workspace for notes, docs and databases. Startup postings mention it. | 
+w1zri6d3wg | Ability to develop proposal strategy. | Proposal strategy sets win themes and approach for a bid. Capture and proposal postings ask for it. | 
+g5a9cit4x4 | Ability to build mobile games with Corona SDK (Solar2D). | Corona SDK, now Solar2D, is a Lua framework for 2D mobile games. It rarely appears in postings. | 
+oha0yq6osg | Ability to showcase work on ArtStation. | ArtStation is a portfolio platform for game and film artists. Artist postings ask for a portfolio link. | 
+hxclrzb8sy | Ability to program reactively with Bacon.js. | Bacon.js is a functional reactive programming library for JavaScript. It rarely appears in postings. | 
+ev5y9mbqqx | Holding a bachelor's degree in environmental science. | A bachelor's in environmental science is an undergraduate degree in environmental systems. Environmental postings ask for it. | 
+rrovomiqx5 | Knowledge of wage and hour laws. | Wage and hour laws, such as the FLSA, govern minimum wage, overtime and pay. HR and payroll postings ask for it. | h:Labour law
+b8w93an4bo | Ability to use phpGroupWare. | phpGroupWare was an open-source groupware suite; it is obsolete. | f:Obsolete.
+a280j1jdn5 | Knowledge of the composite design pattern. | The composite pattern treats individual objects and groups of objects uniformly in a tree. OO design syllabi teach it. | 
+ggqx2z6hek | Ability to build workflows with Oracle Workflow. | Oracle Workflow automates business processes in Oracle E-Business Suite. Oracle developer postings mention it. | 
+nsvetl4qjm | Ability to manage equipment, facilities and materials. | Management of material resources, an O*NET skill, is obtaining and seeing to the use of equipment, facilities and materials. | f:The name reads as an O*NET skill.
+mhqjaq3kyx | Ability to integrate marketing data with Datorama. | Datorama, now Salesforce Marketing Cloud Intelligence, unifies marketing data and analytics. Marketing analytics postings mention it. | 
+wccde98xzv | Holding the ACF Certified Culinary Administrator (CCA) credential. | The CCA certifies culinary administrators and food service managers. | h:American Culinary Federation certification
+cvxvhkki8b | Ability to run photo galleries with Coppermine. | Coppermine is an open-source PHP photo gallery. It rarely appears in postings. | 
+jd46qygwob | Ability to transfer patients safely. | Patient transfer is moving patients between bed, chair or stretcher safely. CNA and nursing postings ask for it. | 
+n5ny10lu9r | Ability to microchip animals. | Microchipping implants an ID chip under an animal's skin. Vet and shelter postings mention it. | 

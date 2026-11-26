@@ -1,0 +1,50 @@
+pa3581ssv0 | Holding the Registered Cardiac Sonographer (RCS) credential. | The RCS, from CCI, certifies sonographers in echocardiography. Echo postings ask for it. | x:Registered Diagnostic Cardiac Sonographer~The ARDMS equivalent
+wzkjcw38s8 | Ability to describe hardware with JHDL. | JHDL is a Java-based hardware description language from BYU for FPGA design. It rarely appears in postings. | h:Hardware description language | -v:Just-another Hardware Description Language (jhdl)  (Programming Language)
+cvncqzrng9 | Holding the CompTIA CTT+ (Instructor+) certification. | CompTIA CTT+ certifies technical trainers in classroom and virtual instruction. Trainer postings list it. | 
+chkp5wumei | Holding a bachelor's degree in civil engineering. | A bachelor's in civil engineering is an undergraduate degree in structures, transport, water and geotechnics. Civil engineer postings ask for it. | 
+we0ewsvppe | Holding a bachelor's degree in physical education. | A bachelor's in physical education prepares PE teachers and coaches. PE teacher postings ask for it. | 
+y8wzz8ajez | Ability to write and speak concisely. | Concision is expressing ideas in as few words as needed. Writing postings ask for it. | 
+ihcdms58ev | Ability to use email software. | Email software sends, receives and manages email, such as Outlook or Gmail. Office postings ask for it. | 
+twrr15dgpe | Ability to build classification and regression trees (CART). | CART is a decision tree algorithm that splits data to predict categories or values. Data science postings mention it. | 
+srpx1wtabe | Knowledge of Stanislavski's system of actor training. | Stanislavski's system is an acting method built on psychological realism and emotional truth. Acting teachers use it. | -v:Stanislavski'S Systems; v:Stanislavski method
+rd9kj3ke0r | Ability to make and apply splints. | Splinting immobilises injured limbs or makes custom orthoses. Occupational therapy and EMS postings ask for it. | 
+cs0zix8jdm | Ability to deploy and manage antivirus software. | Antivirus software detects and removes malware. IT support and security postings ask for it. | 
+i71ujs2p1s | Ability to optimize workforce scheduling and performance. | Workforce optimization uses forecasting, scheduling and quality tools to match staff to demand, especially in contact centres. WFM postings ask for it. | 
+q4f1jrji2c | Holding a Master of Science in Nursing (MSN). | The MSN is a graduate nursing degree preparing nurse practitioners, educators and leaders. Advanced nursing postings ask for it. | 
+xacbk0lpsz | Knowledge of the philosophy of science. | Philosophy of science studies the foundations, methods and implications of science. Philosophy syllabi teach it. | 
+foawpj2j0j | Ability to configure the Duck Creek insurance platform. | Duck Creek is a software suite for property and casualty insurers: policy, billing and claims. Insurance IT postings ask for it. | 
+yjt8ek1ys1 | Knowledge of software designed for multi-core processors. | Multi-core software is written to run in parallel across processor cores. Embedded and performance postings mention it. | u:Multi-core processors
+kmd4pupkyx | Knowledge of the Simputer handheld computer. | The Simputer was a low-cost Linux handheld developed in India around 2002. It is obsolete. | f:Obsolete.
+pjgqggil05 | Ability to write persuasive copy for marketing. | Copywriting is writing text for ads, websites and marketing to drive action. Copywriter postings ask for it. | h:Writing
+sa8c6ibu44 | Ability to twist balloons into shapes. | Balloon modelling makes figures from long balloons for entertainment. Event entertainer postings mention it. | 
+ef8px7bc48 | Holding a master's degree in fashion design. | A master's in fashion design is a graduate degree in design and collection development. Fashion postings mention it. | 
+bmmxhtlvs2 | Ability to manage the quality of suppliers' products. | Supplier quality management audits, qualifies and develops suppliers to meet quality standards. SQE postings ask for it. | 
+jjj5imbhcc | Ability to develop for Microsoft HoloLens. | HoloLens is Microsoft's mixed-reality headset. Mixed reality postings mention it. | 
+mov419oet2 | Knowledge of VisiCalc, the first spreadsheet program. | VisiCalc was the first spreadsheet for personal computers, released in 1979. It is obsolete. | f:Obsolete.
+k0oo60pzli | Holding a master's degree in art history. | A master's in art history is a graduate degree in the history of art. Museum and curator postings ask for it. | 
+dob6za2tys | Ability to map crime data geographically. | Crime mapping uses GIS to analyse spatial crime patterns. Crime analyst postings ask for it. | 
+yv63nnf7b5 | Knowledge of the metric system of measurement. | The metric system is a decimal system of units based on the metre, kilogram and second. Technical postings assume it. | 
+uhwnqf48he | Ability to design and consume REST APIs. | REST is an architectural style for web services using HTTP methods and stateless resources. Web developer postings ask for it. | v:REST~in a context about APIs or web services
+v2lrywem7h | Knowledge of cardiac valve repair surgery. | Cardiac valve repair restores function of heart valves without replacing them. Cardiac surgery postings mention it. | 
+erd600mkqg | Holding a bachelor's degree in chemical engineering. | A bachelor's in chemical engineering is an undergraduate degree in chemical processes and plant design. Process engineer postings ask for it. | 
+acfu9bmi50 | Holding the CompTIA Mobile App Security+ certification. | CompTIA Mobile App Security+ certified secure mobile app development; it is retired. | f:Retired.
+hllkkrms0o | Ability to prepare reports. | Reporting is collecting data and presenting it in reports for decisions. Many postings ask for it. | -v:Reportng
+t8vokn2xgs | Ability to write a project scope statement. | A scope statement defines a project's deliverables, boundaries and acceptance criteria. PM postings ask for it. | l:Project management
+xsr9lchl77 | Knowledge of physical modelling synthesis of sound. | Physical modelling synthesis generates sound by simulating physical instruments. Audio DSP work uses it. | 
+r9xjud7e04 | Knowledge of the Btrieve database engine. | Btrieve is a navigational database engine, later Pervasive PSQL. Legacy postings mention it. | f:Largely obsolete.
+ix7gdpio0m | Ability to analyse the cost to serve customers. | Cost-to-serve analysis calculates the full cost of serving each customer or channel. Supply chain postings ask for it. | 
+w8a5bgs48h | Holding an Associate of Arts in philosophy. | An AA in philosophy is a two-year degree in philosophy, usually for transfer. | 
+seav9a4lez | Ability to integrate human capital management systems. | HCM integration connects HR systems such as Workday with payroll and other applications. HRIS postings ask for it. | 
+codtvk9302 | Ability to speak Sesotho. | Sesotho is a Bantu language of Lesotho and South Africa. Interpreter postings ask for it. | 
+g0px5fvj2a | Knowledge of the accounting cycle. | The accounting cycle is the steps from recording transactions to closing the books. Bookkeeping postings ask for it. | 
+xrm90olzt9 | Ability to build machine learning with Apache Mahout. | Apache Mahout is a library for scalable machine learning, historically on Hadoop. Older big data postings mention it. | 
+ilwjbw0ewo | Knowledge of criminal intelligence analysis. | Criminal intelligence is information gathered and analysed about criminal activity. Law enforcement analyst postings ask for it. | 
+kar823op4q | Ability to unit test Objective-C code with OCUnit. | OCUnit was an Objective-C unit testing framework, replaced by XCTest. It is obsolete. | f:Obsolete.
+yb5sd4s719 | Holding a bachelor's degree in systems engineering. | A bachelor's in systems engineering is an undergraduate degree in designing and managing complex systems. Systems engineer postings ask for it. | 
+wfw1x8wd7f | Ability to speak Shan, a Tai language of Myanmar. | Shan is a Tai language spoken in Shan State, Myanmar. It rarely appears in postings. | 
+r1y15eavgh | Ability to teach music. | Music instruction is teaching instrument, voice or theory. Music teacher postings ask for it. | 
+nxrur7eelh | Holding a research doctorate in aerospace engineering. | A PhD in aerospace engineering is a research doctorate in aircraft and spacecraft. R&D postings mention it. | 
+ec2b8ggmp3 | Ability to choose the right mathematical methods to solve a problem. | Mathematical reasoning, an O*NET ability, is choosing the right methods or formulas to solve a problem. | f:The name reads as an O*NET ability.
+tnd1wo0kbq | Holding a research doctorate in wood science and engineering. | A PhD in wood science and engineering is a research doctorate in wood materials. It rarely appears in postings. | 
+twxbm3fwc6 | Holding the Pega Certified Senior System Architect (CSSA) credential. | The CSSA certifies developers building Pega applications at a senior level. Pega postings ask for it. | 
+dnv14a793e | Knowledge of wave phase. | Phase is the position of a point within a wave cycle. Physics and signal processing syllabi teach it. | 
