@@ -14,6 +14,8 @@ A job posting that asks for Postgres and a syllabus that names PostgreSQL can re
 
 ## Where the draft is
 
+The [Critiq author-review reading copy and methods critique](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/critiq-output/) are also available. The original manuscript is unchanged. Do not consult either while coding or drafting a blind round.
+
 The rough manuscript is [manuscript.md](Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). The other paper materials are listed under [Papers](#papers).
 
 ## Independent lexicon constructions
